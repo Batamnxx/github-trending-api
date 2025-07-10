@@ -2,7 +2,7 @@
   "title": "GitHub Meson Languages Monthly Trending",
   "description": "Monthly Trending of Meson Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 07:17:53 GMT",
+  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
   "items": [
     {
       "title": "frida/frida",
@@ -10,7 +10,7 @@
       "description": "Clone this repo to build Frida",
       "language": "Meson",
       "languageColor": "#007800",
-      "stars": "18,066",
+      "stars": "18,068",
       "forks": "1,846",
       "addStars": "259",
       "contributors": [

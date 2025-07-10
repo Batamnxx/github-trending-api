@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Weekly Trending",
   "description": "Weekly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
+  "pubDate": "Thu, 10 Jul 2025 19:20:03 GMT",
   "items": [
     {
       "title": "JuliaPackaging/Yggdrasil",
@@ -158,7 +158,7 @@
       "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "963",
+      "stars": "964",
       "forks": "414",
       "addStars": "3",
       "contributors": [

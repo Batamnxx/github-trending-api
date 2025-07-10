@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>Alibaba-NLP/WebAgent</title>
       <link>https://github.com/Alibaba-NLP/WebAgent</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Alibaba-NLP/WebAgent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,094</stars>
-      <forks>212</forks>
+      <stars>3,113</stars>
+      <forks>213</forks>
       <addStars>468</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/WordPress/wordpress-develop</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>2,815</stars>
+      <stars>2,822</stars>
       <forks>2,961</forks>
       <addStars>4</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/googleapis/genai-toolbox</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,519</stars>
-      <forks>361</forks>
+      <stars>4,561</stars>
+      <forks>364</forks>
       <addStars>1,046</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/LMCache/LMCache</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,728</stars>
-      <forks>313</forks>
+      <stars>2,743</stars>
+      <forks>315</forks>
       <addStars>148</addStars>
       <contributors>
         <contributor>
@@ -158,7 +158,7 @@
       <guid>https://github.com/forthespada/CS-Books</guid>
       <language/>
       <languageColor/>
-      <stars>23,554</stars>
+      <stars>23,567</stars>
       <forks>3,899</forks>
       <addStars>336</addStars>
       <contributors>
@@ -181,8 +181,8 @@
       <guid>https://github.com/ByteByteGoHq/system-design-101</guid>
       <language/>
       <languageColor/>
-      <stars>74,042</stars>
-      <forks>7,920</forks>
+      <stars>74,066</stars>
+      <forks>7,921</forks>
       <addStars>192</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/snap-stanford/Biomni</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>784</stars>
-      <forks>82</forks>
+      <stars>817</stars>
+      <forks>84</forks>
       <addStars>338</addStars>
       <contributors>
         <contributor>
@@ -242,7 +242,7 @@
       <guid>https://github.com/pybind/pybind11</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>16,815</stars>
+      <stars>16,822</stars>
       <forks>2,189</forks>
       <addStars>8</addStars>
       <contributors>
@@ -280,7 +280,7 @@
       <guid>https://github.com/punkpeye/awesome-mcp-clients</guid>
       <language/>
       <languageColor/>
-      <stars>4,456</stars>
+      <stars>4,465</stars>
       <forks>311</forks>
       <addStars>276</addStars>
       <contributors>
@@ -318,7 +318,7 @@
       <guid>https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,151</stars>
+      <stars>12,160</stars>
       <forks>1,147</forks>
       <addStars>301</addStars>
       <contributors>
@@ -356,8 +356,8 @@
       <guid>https://github.com/helm/helm</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>28,129</stars>
-      <forks>7,275</forks>
+      <stars>28,134</stars>
+      <forks>7,277</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -389,8 +389,8 @@
       <guid>https://github.com/coleam00/ai-agents-masterclass</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,442</stars>
-      <forks>1,110</forks>
+      <stars>2,450</stars>
+      <forks>1,112</forks>
       <addStars>58</addStars>
       <contributors>
         <contributor>
@@ -412,7 +412,7 @@
       <guid>https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>11,793</stars>
+      <stars>11,803</stars>
       <forks>2,763</forks>
       <addStars>286</addStars>
       <contributors>
@@ -450,7 +450,7 @@
       <guid>https://github.com/volcengine/verl</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,656</stars>
+      <stars>10,670</stars>
       <forks>1,765</forks>
       <addStars>58</addStars>
       <contributors>
@@ -488,7 +488,7 @@
       <guid>https://github.com/hashicorp/terraform</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>45,556</stars>
+      <stars>45,570</stars>
       <forks>9,924</forks>
       <addStars>10</addStars>
       <contributors>
@@ -526,7 +526,7 @@
       <guid>https://github.com/flutter/packages</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>4,788</stars>
+      <stars>4,793</stars>
       <forks>3,354</forks>
       <addStars>4</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Monthly Trending",
   "description": "Monthly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "Shubhamsaboo/awesome-llm-apps",
@@ -10,8 +10,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "49,434",
-      "forks": "5,724",
+      "stars": "49,451",
+      "forks": "5,728",
       "addStars": "15,588",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,207",
-      "forks": "7,335",
+      "stars": "29,228",
+      "forks": "7,339",
       "addStars": "5,617",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,478",
+      "stars": "26,481",
       "forks": "2,381",
       "addStars": "1,976",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,700",
+      "stars": "38,705",
       "forks": "3,178",
       "addStars": "3,944",
       "contributors": [
@@ -143,12 +143,49 @@
       ]
     },
     {
+      "title": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "description": "This open-source curriculum is designed to teach the concepts and fundamentals of the Model Context Protocol (MCP), with practical examples in .NET, Java, TypeScript, JavaScript and Python.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "4,869",
+      "forks": "1,256",
+      "addStars": "2,886",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6388864?s=40&v=4",
+          "name": "roryp",
+          "url": "https://github.com/roryp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4598064?s=40&v=4",
+          "name": "softchris",
+          "url": "https://github.com/softchris"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50611022?s=40&v=4",
+          "name": "sarah-yo",
+          "url": "https://github.com/sarah-yo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93383164?s=40&v=4",
+          "name": "ShivamGoyal03",
+          "url": "https://github.com/ShivamGoyal03"
+        }
+      ]
+    },
+    {
       "title": "jdepoix/youtube-transcript-api",
       "url": "https://github.com/jdepoix/youtube-transcript-api",
       "description": "This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,715",
+      "stars": "5,716",
       "forks": "584",
       "addStars": "1,705",
       "contributors": [
@@ -185,7 +222,7 @@
       "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,447",
+      "stars": "3,448",
       "forks": "1,232",
       "addStars": "1,399",
       "contributors": [
@@ -239,8 +276,8 @@
       "description": "The LLM Evaluation Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,092",
-      "forks": "791",
+      "stars": "9,093",
+      "forks": "790",
       "addStars": "1,941",
       "contributors": [
         {
@@ -276,7 +313,7 @@
       "description": "Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,631",
+      "stars": "1,632",
       "forks": "209",
       "addStars": "562",
       "contributors": [
@@ -313,7 +350,7 @@
       "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,687",
+      "stars": "15,691",
       "forks": "2,122",
       "addStars": "1,444",
       "contributors": [
@@ -350,8 +387,8 @@
       "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,731",
-      "forks": "313",
+      "stars": "2,745",
+      "forks": "315",
       "addStars": "1,320",
       "contributors": [
         {
@@ -387,7 +424,7 @@
       "description": "[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,614",
+      "stars": "9,616",
       "forks": "922",
       "addStars": "2,265",
       "contributors": [
@@ -424,7 +461,7 @@
       "description": "A community-maintained Python framework for creating mathematical animations.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,417",
+      "stars": "33,419",
       "forks": "2,342",
       "addStars": "1,279",
       "contributors": [
@@ -456,7 +493,7 @@
       "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,657",
+      "stars": "10,673",
       "forks": "1,765",
       "addStars": "1,447",
       "contributors": [
@@ -530,7 +567,7 @@
       "description": "Official inference repo for FLUX.1 models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,375",
+      "stars": "23,376",
       "forks": "1,684",
       "addStars": "1,133",
       "contributors": [

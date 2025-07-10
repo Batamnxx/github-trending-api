@@ -3,7 +3,7 @@
     <title>GitHub Nushell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nushell Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>omerxx/dotfiles</title>
       <link>https://github.com/omerxx/dotfiles</link>
@@ -45,7 +45,7 @@
       <language>Nushell</language>
       <languageColor>#4E9906</languageColor>
       <stars>1,000</stars>
-      <forks>286</forks>
+      <forks>285</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/luccahuguet/yazelix</guid>
       <language>Nushell</language>
       <languageColor>#4E9906</languageColor>
-      <stars>464</stars>
+      <stars>465</stars>
       <forks>28</forks>
       <addStars>18</addStars>
       <contributors>
@@ -106,7 +106,7 @@
       <language>Nushell</language>
       <languageColor>#4E9906</languageColor>
       <stars>217</stars>
-      <forks>513</forks>
+      <forks>512</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>

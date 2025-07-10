@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Monthly Trending",
   "description": "Monthly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "stascorp/rdpwrap",
@@ -10,7 +10,7 @@
       "description": "RDP Wrapper Library",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "15,633",
+      "stars": "15,634",
       "forks": "3,937",
       "addStars": "129",
       "contributors": [
@@ -48,7 +48,7 @@
       "language": "Pascal",
       "languageColor": "#E3F171",
       "stars": "16,521",
-      "forks": "2,369",
+      "forks": "2,370",
       "addStars": "223",
       "contributors": [
         {

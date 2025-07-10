@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "thu-ml/SageAttention",
@@ -121,7 +121,7 @@
       "description": "CUDA accelerated rasterization of gaussian splatting",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,282",
+      "stars": "3,283",
       "forks": "479",
       "addStars": "203",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "27,110",
+      "stars": "27,111",
       "forks": "3,120",
       "addStars": "308",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,336",
+      "stars": "3,337",
       "forks": "373",
       "addStars": "196",
       "contributors": [
@@ -343,7 +343,7 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "16,749",
+      "stars": "16,751",
       "forks": "1,990",
       "addStars": "103",
       "contributors": [
@@ -555,7 +555,7 @@
       "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,512",
+      "stars": "2,513",
       "forks": "159",
       "addStars": "74",
       "contributors": [

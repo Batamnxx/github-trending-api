@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "flutter/packages",
@@ -10,8 +10,8 @@
       "description": "A collection of useful packages maintained by the Flutter team",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "4,788",
-      "forks": "3,354",
+      "stars": "4,793",
+      "forks": "3,355",
       "addStars": "4",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "9,532",
+      "stars": "9,535",
       "forks": "816",
       "addStars": "247",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "171,319",
-      "forks": "28,830",
+      "stars": "171,320",
+      "forks": "28,831",
       "addStars": "19",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "19,506",
+      "stars": "19,507",
       "forks": "1,343",
       "addStars": "23",
       "contributors": [
@@ -409,7 +409,7 @@
       "description": "Flutter plugin for connecting and communicationg with Bluetooth Low Energy devices, on Android, iOS, macOS, Web, Linux, Windows.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "920",
+      "stars": "921",
       "forks": "544",
       "addStars": "1",
       "contributors": [
@@ -446,7 +446,7 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "18,923",
+      "stars": "18,924",
       "forks": "1,129",
       "addStars": "36",
       "contributors": [
@@ -510,8 +510,8 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "22,070",
-      "forks": "1,946",
+      "stars": "22,073",
+      "forks": "1,947",
       "addStars": "26",
       "contributors": [
         {

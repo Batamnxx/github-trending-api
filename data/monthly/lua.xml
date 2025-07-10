@@ -3,7 +3,7 @@
     <title>GitHub Lua Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Lua Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>greggh/claude-code.nvim</title>
       <link>https://github.com/greggh/claude-code.nvim</link>
@@ -82,7 +82,7 @@
       <guid>https://github.com/yetone/avante.nvim</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>15,042</stars>
+      <stars>15,043</stars>
       <forks>660</forks>
       <addStars>783</addStars>
       <contributors>
@@ -121,7 +121,7 @@
       <language>Lua</language>
       <languageColor>#000080</languageColor>
       <stars>15,335</stars>
-      <forks>2,616</forks>
+      <forks>2,617</forks>
       <addStars>138</addStars>
       <contributors>
         <contributor>
@@ -196,7 +196,7 @@
       <guid>https://github.com/xiaorouji/openwrt-passwall2</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>1,885</stars>
+      <stars>1,886</stars>
       <forks>517</forks>
       <addStars>76</addStars>
       <contributors>
@@ -305,8 +305,8 @@
       <guid>https://github.com/nvim-lua/kickstart.nvim</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>25,884</stars>
-      <forks>36,562</forks>
+      <stars>25,885</stars>
+      <forks>36,565</forks>
       <addStars>700</addStars>
       <contributors>
         <contributor>
@@ -419,7 +419,7 @@
       <guid>https://github.com/ibhagwan/fzf-lua</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>3,505</stars>
+      <stars>3,506</stars>
       <forks>199</forks>
       <addStars>118</addStars>
       <contributors>

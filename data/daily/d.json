@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "abraunegg/onedrive",
@@ -11,7 +11,7 @@
       "language": "D",
       "languageColor": "#ba595e",
       "stars": "11,174",
-      "forks": "895",
+      "forks": "894",
       "addStars": "8",
       "contributors": [
         {

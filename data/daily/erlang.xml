@@ -3,7 +3,7 @@
     <title>GitHub Erlang Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Erlang Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>blt/port_compiler</title>
       <link>https://github.com/blt/port_compiler</link>
@@ -125,7 +125,7 @@
       <guid>https://github.com/erlang/otp</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>11,764</stars>
+      <stars>11,765</stars>
       <forks>3,017</forks>
       <addStars>2</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub Lua Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Lua Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>CopilotC-Nvim/CopilotChat.nvim</title>
       <link>https://github.com/CopilotC-Nvim/CopilotChat.nvim</link>
@@ -39,8 +39,8 @@
       <guid>https://github.com/nvim-lua/kickstart.nvim</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>25,884</stars>
-      <forks>36,562</forks>
+      <stars>25,885</stars>
+      <forks>36,565</forks>
       <addStars>33</addStars>
       <contributors>
         <contributor>
@@ -281,7 +281,7 @@
       <language>Lua</language>
       <languageColor>#000080</languageColor>
       <stars>15,335</stars>
-      <forks>2,616</forks>
+      <forks>2,617</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>

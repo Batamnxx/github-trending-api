@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "github/copilot.vim",
@@ -10,8 +10,8 @@
       "description": "Neovim plugin for GitHub Copilot",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "10,321",
-      "forks": "486",
+      "stars": "10,322",
+      "forks": "487",
       "addStars": "11",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "The ultimate Vim configuration (vimrc)",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "31,348",
+      "stars": "31,349",
       "forks": "7,317",
       "addStars": "5",
       "contributors": [

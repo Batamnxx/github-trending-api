@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Daily Trending",
   "description": "Daily Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "odoo/tutorials",
@@ -11,7 +11,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "116",
-      "forks": "2,249",
+      "forks": "2,250",
       "addStars": "1",
       "contributors": [
         {
@@ -158,7 +158,7 @@
       "description": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,352",
+      "stars": "8,353",
       "forks": "3,771",
       "addStars": "8",
       "contributors": [
@@ -264,7 +264,7 @@
       "description": "Learn make by example",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "5,514",
+      "stars": "5,515",
       "forks": "266",
       "addStars": "7",
       "contributors": [

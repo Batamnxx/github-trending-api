@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Nix Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -12,7 +12,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>21,022</stars>
-      <forks>16,160</forks>
+      <forks>16,161</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
@@ -252,7 +252,7 @@
       <guid>https://github.com/astro/microvm.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,774</stars>
+      <stars>1,775</stars>
       <forks>142</forks>
       <addStars>4</addStars>
       <contributors>
@@ -379,7 +379,7 @@
       <guid>https://github.com/xiv3r/Burpsuite-Professional</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>862</stars>
+      <stars>864</stars>
       <forks>266</forks>
       <addStars>1</addStars>
       <contributors>

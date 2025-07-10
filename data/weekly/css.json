@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Weekly Trending",
   "description": "Weekly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "civilblur/mazanoke",
@@ -10,7 +10,7 @@
       "description": "A self-hosted local image optimizer that runs in your browser.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,884",
+      "stars": "1,885",
       "forks": "82",
       "addStars": "143",
       "contributors": [
@@ -33,7 +33,7 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "8,392",
-      "forks": "25,948",
+      "forks": "25,950",
       "addStars": "20",
       "contributors": [
         {
@@ -69,7 +69,7 @@
       "description": "A Patch for GIMP 3+ for Photoshop Users",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "5,574",
+      "stars": "5,576",
       "forks": "159",
       "addStars": "52",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "Set of icons representing programming languages, designing & development tools",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "10,793",
+      "stars": "10,795",
       "forks": "2,379",
       "addStars": "33",
       "contributors": [

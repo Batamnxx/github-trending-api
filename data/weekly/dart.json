@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Weekly Trending",
   "description": "Weekly Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "ente-io/ente",
@@ -10,7 +10,7 @@
       "description": "🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "20,435",
+      "stars": "20,439",
       "forks": "1,162",
       "addStars": "467",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "19,506",
+      "stars": "19,507",
       "forks": "1,343",
       "addStars": "142",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "9,532",
+      "stars": "9,535",
       "forks": "816",
       "addStars": "281",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "11,497",
+      "stars": "11,500",
       "forks": "607",
       "addStars": "304",
       "contributors": [
@@ -254,7 +254,7 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "12,603",
+      "stars": "12,605",
       "forks": "331",
       "addStars": "604",
       "contributors": [
@@ -291,8 +291,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "171,319",
-      "forks": "28,830",
+      "stars": "171,320",
+      "forks": "28,831",
       "addStars": "115",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "A collection of useful packages maintained by the Flutter team",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "4,788",
-      "forks": "3,354",
+      "stars": "4,793",
+      "forks": "3,355",
       "addStars": "9",
       "contributors": [
         {
@@ -392,7 +392,7 @@
       "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "64,341",
+      "stars": "64,343",
       "forks": "4,424",
       "addStars": "175",
       "contributors": [
@@ -429,8 +429,8 @@
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "64,210",
-      "forks": "3,426",
+      "stars": "64,213",
+      "forks": "3,427",
       "addStars": "427",
       "contributors": [
         {
@@ -567,7 +567,7 @@
       "description": "The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,085",
+      "stars": "1,086",
       "forks": "245",
       "addStars": "20",
       "contributors": [
@@ -641,7 +641,7 @@
       "description": "💸 An app created to help users manage a budget and purchases",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "3,115",
+      "stars": "3,116",
       "forks": "461",
       "addStars": "51",
       "contributors": [

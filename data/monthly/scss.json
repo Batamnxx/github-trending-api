@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Monthly Trending",
   "description": "Monthly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "cobiwave/simplefolio",
@@ -47,7 +47,7 @@
       "description": "AcadHomepage: A Modern and Responsive Academic Personal Homepage",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "2,097",
+      "stars": "2,096",
       "forks": "4,232",
       "addStars": "93",
       "contributors": [
@@ -64,7 +64,7 @@
       "description": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,352",
+      "stars": "8,353",
       "forks": "3,771",
       "addStars": "92",
       "contributors": [
@@ -170,7 +170,7 @@
       "description": "Learn make by example",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "5,514",
+      "stars": "5,515",
       "forks": "266",
       "addStars": "208",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "Badges for your personal developer branding, profile, and projects.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "15,106",
+      "stars": "15,109",
       "forks": "1,728",
       "addStars": "213",
       "contributors": [
@@ -378,7 +378,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "116",
-      "forks": "2,249",
+      "forks": "2,250",
       "addStars": "5",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "The conventional commits specification",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "7,876",
-      "forks": "602",
+      "stars": "7,877",
+      "forks": "603",
       "addStars": "100",
       "contributors": [
         {

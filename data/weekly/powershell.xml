@@ -3,7 +3,7 @@
     <title>GitHub Powershell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Powershell Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>anthropics/claude-code</title>
       <link>https://github.com/anthropics/claude-code</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/anthropics/claude-code</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>18,531</stars>
+      <stars>18,543</stars>
       <forks>1,049</forks>
       <addStars>1,423</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/microsoft/Microsoft365DSC</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>1,886</stars>
+      <stars>1,887</stars>
       <forks>569</forks>
       <addStars>10</addStars>
       <contributors>
@@ -87,7 +87,7 @@
       <guid>https://github.com/Raphire/Win11Debloat</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>22,083</stars>
+      <stars>22,085</stars>
       <forks>916</forks>
       <addStars>194</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/ChrisTitusTech/winutil</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>37,262</stars>
+      <stars>37,266</stars>
       <forks>2,021</forks>
       <addStars>549</addStars>
       <contributors>

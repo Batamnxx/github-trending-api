@@ -3,7 +3,7 @@
     <title>GitHub Jupyter-notebook Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Jupyter-notebook Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>DataExpert-io/data-engineer-handbook</title>
       <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/DataExpert-io/data-engineer-handbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>35,093</stars>
-      <forks>6,745</forks>
+      <stars>35,097</stars>
+      <forks>6,746</forks>
       <addStars>6,169</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/anthropics/anthropic-cookbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>17,920</stars>
+      <stars>17,921</stars>
       <forks>1,855</forks>
       <addStars>4,878</addStars>
       <contributors>
@@ -87,7 +87,7 @@
       <guid>https://github.com/ed-donner/agents</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>1,170</stars>
+      <stars>1,171</stars>
       <forks>798</forks>
       <addStars>525</addStars>
       <contributors>
@@ -125,8 +125,8 @@
       <guid>https://github.com/datawhalechina/self-llm</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>21,159</stars>
-      <forks>2,153</forks>
+      <stars>21,163</stars>
+      <forks>2,154</forks>
       <addStars>4,562</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/digitalinnovationone/dio-lab-open-source</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>7,685</stars>
-      <forks>55,156</forks>
+      <stars>7,687</stars>
+      <forks>55,160</forks>
       <addStars>438</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/patchy631/ai-engineering-hub</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>13,702</stars>
-      <forks>2,288</forks>
+      <stars>13,711</stars>
+      <forks>2,289</forks>
       <addStars>4,026</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/microsoft/generative-ai-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>91,635</stars>
-      <forks>46,820</forks>
+      <stars>91,640</stars>
+      <forks>46,826</forks>
       <addStars>6,924</addStars>
       <contributors>
         <contributor>
@@ -273,7 +273,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>38,688</stars>
-      <forks>7,321</forks>
+      <forks>7,323</forks>
       <addStars>793</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/rasbt/LLMs-from-scratch</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>58,631</stars>
-      <forks>8,166</forks>
+      <stars>58,634</stars>
+      <forks>8,167</forks>
       <addStars>7,903</addStars>
       <contributors>
         <contributor>
@@ -343,7 +343,7 @@
       <guid>https://github.com/ageron/handson-ml3</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>10,152</stars>
+      <stars>10,154</stars>
       <forks>3,989</forks>
       <addStars>568</addStars>
       <contributors>
@@ -419,7 +419,7 @@
       <guid>https://github.com/NirDiamant/GenAI_Agents</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>14,264</stars>
+      <stars>14,267</stars>
       <forks>1,986</forks>
       <addStars>1,478</addStars>
       <contributors>
@@ -457,8 +457,8 @@
       <guid>https://github.com/anthropics/prompt-eng-interactive-tutorial</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>16,316</stars>
-      <forks>1,496</forks>
+      <stars>16,318</stars>
+      <forks>1,497</forks>
       <addStars>4,657</addStars>
       <contributors>
         <contributor>
@@ -518,7 +518,7 @@
       <guid>https://github.com/langchain-ai/langchain</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>111,140</stars>
+      <stars>111,145</stars>
       <forks>18,098</forks>
       <addStars>2,154</addStars>
       <contributors>
@@ -556,7 +556,7 @@
       <guid>https://github.com/karpathy/nn-zero-to-hero</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>14,449</stars>
+      <stars>14,450</stars>
       <forks>2,049</forks>
       <addStars>479</addStars>
       <contributors>
@@ -618,7 +618,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>10,098</stars>
-      <forks>1,063</forks>
+      <forks>1,062</forks>
       <addStars>351</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "saadeghi/daisyui",
@@ -10,7 +10,7 @@
       "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "37,708",
+      "stars": "37,711",
       "forks": "1,501",
       "addStars": "60",
       "contributors": [
@@ -382,8 +382,8 @@
       "description": "Self-hostable travel tracker and trip planner.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "1,569",
-      "forks": "93",
+      "stars": "1,580",
+      "forks": "94",
       "addStars": "5",
       "contributors": [
         {
@@ -552,8 +552,8 @@
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "35,028",
-      "forks": "2,919",
+      "stars": "35,029",
+      "forks": "2,918",
       "addStars": "26",
       "contributors": [
         {

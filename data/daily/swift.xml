@@ -3,7 +3,7 @@
     <title>GitHub Swift Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Swift Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>siteline/swiftui-introspect</title>
       <link>https://github.com/siteline/swiftui-introspect</link>
@@ -448,7 +448,7 @@
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
       <stars>5,449</stars>
-      <forks>410</forks>
+      <forks>411</forks>
       <addStars>25</addStars>
       <contributors>
         <contributor>
@@ -480,7 +480,7 @@
       <guid>https://github.com/rxhanson/Rectangle</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>27,226</stars>
+      <stars>27,228</stars>
       <forks>837</forks>
       <addStars>8</addStars>
       <contributors>
@@ -746,7 +746,7 @@
       <guid>https://github.com/mrousavy/react-native-vision-camera</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>8,569</stars>
+      <stars>8,570</stars>
       <forks>1,223</forks>
       <addStars>4</addStars>
       <contributors>

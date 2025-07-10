@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "ublue-os/bazzite",
@@ -47,8 +47,8 @@
       "description": "🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "179,818",
-      "forks": "26,138",
+      "stars": "179,820",
+      "forks": "26,139",
       "addStars": "54",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "📖 A collection of pure bash alternatives to external processes.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "39,549",
+      "stars": "39,550",
       "forks": "3,529",
       "addStars": "21",
       "contributors": [
@@ -191,7 +191,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "85,723",
-      "forks": "9,011",
+      "forks": "9,010",
       "addStars": "35",
       "contributors": [
         {
@@ -259,7 +259,7 @@
       "description": "The Elastic stack (ELK) powered by Docker and Compose.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "17,950",
+      "stars": "17,951",
       "forks": "6,938",
       "addStars": "5",
       "contributors": [
@@ -281,7 +281,7 @@
       "description": "OpenTelemetry backend in a Docker image",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,185",
+      "stars": "1,186",
       "forks": "122",
       "addStars": "13",
       "contributors": [
@@ -313,7 +313,7 @@
       "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "26,435",
+      "stars": "26,436",
       "forks": "16,525",
       "addStars": "47",
       "contributors": [
@@ -350,7 +350,7 @@
       "description": "解决Cursor在免费订阅期间出现以下提示的问题: Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit. / Too many free trial accounts used on this machine.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "23,456",
+      "stars": "23,455",
       "forks": "2,855",
       "addStars": "35",
       "contributors": [

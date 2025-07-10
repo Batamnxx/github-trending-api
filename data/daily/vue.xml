@@ -3,7 +3,7 @@
     <title>GitHub Vue Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Vue Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>nuxt/ui</title>
       <link>https://github.com/nuxt/ui</link>
@@ -45,7 +45,7 @@
       <language>Vue</language>
       <languageColor>#41b883</languageColor>
       <stars>9,169</stars>
-      <forks>746</forks>
+      <forks>747</forks>
       <addStars>65</addStars>
       <contributors>
         <contributor>
@@ -67,8 +67,8 @@
       <guid>https://github.com/vbenjs/vue-vben-admin</guid>
       <language>Vue</language>
       <languageColor>#41b883</languageColor>
-      <stars>29,038</stars>
-      <forks>7,875</forks>
+      <stars>29,039</stars>
+      <forks>7,874</forks>
       <addStars>21</addStars>
       <contributors>
         <contributor>
@@ -138,7 +138,7 @@
       <guid>https://github.com/zyronon/douyin</guid>
       <language>Vue</language>
       <languageColor>#41b883</languageColor>
-      <stars>10,922</stars>
+      <stars>10,923</stars>
       <forks>2,969</forks>
       <addStars>3</addStars>
       <contributors>
@@ -232,7 +232,7 @@
       <guid>https://github.com/primefaces/primevue</guid>
       <language>Vue</language>
       <languageColor>#41b883</languageColor>
-      <stars>12,991</stars>
+      <stars>12,992</stars>
       <forks>1,515</forks>
       <addStars>10</addStars>
       <contributors>
@@ -412,7 +412,7 @@
       <guid>https://github.com/iAJue/MoeKoeMusic</guid>
       <language>Vue</language>
       <languageColor>#41b883</languageColor>
-      <stars>2,671</stars>
+      <stars>2,673</stars>
       <forks>179</forks>
       <addStars>8</addStars>
       <contributors>
@@ -554,8 +554,8 @@
       <guid>https://github.com/zyronon/typing-word</guid>
       <language>Vue</language>
       <languageColor>#41b883</languageColor>
-      <stars>2,426</stars>
-      <forks>282</forks>
+      <stars>2,430</stars>
+      <forks>281</forks>
       <addStars>66</addStars>
       <contributors>
         <contributor>

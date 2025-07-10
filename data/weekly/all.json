@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "NanmiCoder/MediaCrawler",
@@ -10,8 +10,8 @@
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,200",
-      "forks": "7,334",
+      "stars": "29,225",
+      "forks": "7,338",
       "addStars": "4,106",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,519",
-      "forks": "361",
+      "stars": "4,561",
+      "forks": "364",
       "addStars": "1,929",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,745",
+      "stars": "4,750",
       "forks": "703",
       "addStars": "537",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "🧡 Follow everything in one place",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "28,409",
-      "forks": "1,263",
+      "stars": "28,419",
+      "forks": "1,264",
       "addStars": "1,126",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "27,769",
+      "stars": "27,782",
       "forks": "909",
       "addStars": "1,958",
       "contributors": [
@@ -175,8 +175,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "398,440",
-      "forks": "37,189",
+      "stars": "398,479",
+      "forks": "37,193",
       "addStars": "4,512",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "Open Source realtime backend in 1 file",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "48,873",
+      "stars": "48,874",
       "forks": "2,460",
       "addStars": "797",
       "contributors": [
@@ -286,8 +286,8 @@
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,138",
-      "forks": "9,919",
+      "stars": "55,144",
+      "forks": "9,918",
       "addStars": "880",
       "contributors": [
         {
@@ -350,7 +350,7 @@
       "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,696",
+      "stars": "9,698",
       "forks": "1,186",
       "addStars": "823",
       "contributors": [
@@ -387,8 +387,8 @@
       "description": "📘 Home Assistant User documentation",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "6,973",
-      "forks": "7,777",
+      "stars": "6,974",
+      "forks": "7,778",
       "addStars": "263",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,093",
-      "forks": "325",
+      "stars": "4,097",
+      "forks": "326",
       "addStars": "2,307",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "74,272",
-      "forks": "16,343",
+      "stars": "74,275",
+      "forks": "16,346",
       "addStars": "733",
       "contributors": [
         {

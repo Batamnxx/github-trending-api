@@ -3,7 +3,7 @@
     <title>GitHub Plpgsql Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Plpgsql Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>pgpartman/pg_partman</title>
       <link>https://github.com/pgpartman/pg_partman</link>
@@ -148,7 +148,7 @@
       <guid>https://github.com/pgmq/pgmq</guid>
       <language>PLpgSQL</language>
       <languageColor>#336790</languageColor>
-      <stars>3,367</stars>
+      <stars>3,369</stars>
       <forks>95</forks>
       <addStars>0</addStars>
       <contributors>

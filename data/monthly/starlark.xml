@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>bazelbuild/bazel-central-registry</title>
       <link>https://github.com/bazelbuild/bazel-central-registry</link>
@@ -45,7 +45,7 @@
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
       <stars>20,848</stars>
-      <forks>1,262</forks>
+      <forks>1,263</forks>
       <addStars>209</addStars>
       <contributors>
         <contributor>
@@ -764,7 +764,7 @@
       <guid>https://github.com/google/cel-spec</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>3,291</stars>
+      <stars>3,292</stars>
       <forks>252</forks>
       <addStars>58</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub Lua Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Lua Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>xiaorouji/openwrt-passwall2</title>
       <link>https://github.com/xiaorouji/openwrt-passwall2</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/xiaorouji/openwrt-passwall2</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>1,885</stars>
+      <stars>1,886</stars>
       <forks>517</forks>
       <addStars>23</addStars>
       <contributors>
@@ -153,8 +153,8 @@
       <guid>https://github.com/nvim-lua/kickstart.nvim</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>25,884</stars>
-      <forks>36,562</forks>
+      <stars>25,885</stars>
+      <forks>36,565</forks>
       <addStars>171</addStars>
       <contributors>
         <contributor>
@@ -513,7 +513,7 @@
       <guid>https://github.com/koreader/koreader</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>22,298</stars>
+      <stars>22,299</stars>
       <forks>1,487</forks>
       <addStars>84</addStars>
       <contributors>
@@ -589,7 +589,7 @@
       <guid>https://github.com/yetone/avante.nvim</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>15,042</stars>
+      <stars>15,043</stars>
       <forks>660</forks>
       <addStars>199</addStars>
       <contributors>
@@ -698,7 +698,7 @@
       <guid>https://github.com/ibhagwan/fzf-lua</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>3,505</stars>
+      <stars>3,506</stars>
       <forks>199</forks>
       <addStars>29</addStars>
       <contributors>

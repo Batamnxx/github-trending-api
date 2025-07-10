@@ -3,7 +3,7 @@
     <title>GitHub Shell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Shell Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>dockur/macos</title>
       <link>https://github.com/dockur/macos</link>
@@ -44,7 +44,7 @@
       <guid>https://github.com/sickcodes/Docker-OSX</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>50,902</stars>
+      <stars>50,903</stars>
       <forks>2,834</forks>
       <addStars>138</addStars>
       <contributors>
@@ -77,8 +77,8 @@
       <guid>https://github.com/ohmyzsh/ohmyzsh</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>179,818</stars>
-      <forks>26,138</forks>
+      <stars>179,820</stars>
+      <forks>26,139</forks>
       <addStars>222</addStars>
       <contributors>
         <contributor>
@@ -186,7 +186,7 @@
       <guid>https://github.com/nelvko/clash-for-linux-install</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>2,611</stars>
+      <stars>2,612</stars>
       <forks>390</forks>
       <addStars>141</addStars>
       <contributors>
@@ -286,7 +286,7 @@
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
       <stars>85,723</stars>
-      <forks>9,011</forks>
+      <forks>9,010</forks>
       <addStars>158</addStars>
       <contributors>
         <contributor>
@@ -323,7 +323,7 @@
       <guid>https://github.com/itzg/docker-minecraft-server</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>11,561</stars>
+      <stars>11,562</stars>
       <forks>1,712</forks>
       <addStars>59</addStars>
       <contributors>
@@ -356,7 +356,7 @@
       <guid>https://github.com/grafana/docker-otel-lgtm</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>1,185</stars>
+      <stars>1,186</stars>
       <forks>122</forks>
       <addStars>30</addStars>
       <contributors>
@@ -389,7 +389,7 @@
       <guid>https://github.com/KindleModding/WinterBreak</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>1,107</stars>
+      <stars>1,108</stars>
       <forks>23</forks>
       <addStars>25</addStars>
       <contributors>
@@ -422,8 +422,8 @@
       <guid>https://github.com/youngyangyang04/leetcode-master</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>57,149</stars>
-      <forks>12,069</forks>
+      <stars>57,150</stars>
+      <forks>12,070</forks>
       <addStars>154</addStars>
       <contributors>
         <contributor>

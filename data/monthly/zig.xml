@@ -3,7 +3,7 @@
     <title>GitHub Zig Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Zig Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>ghostty-org/ghostty</title>
       <link>https://github.com/ghostty-org/ghostty</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/ghostty-org/ghostty</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>32,907</stars>
+      <stars>32,909</stars>
       <forks>933</forks>
       <addStars>1,623</addStars>
       <contributors>
@@ -87,7 +87,7 @@
       <guid>https://github.com/ziglang/zig</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>39,861</stars>
+      <stars>39,863</stars>
       <forks>2,901</forks>
       <addStars>534</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>79,026</stars>
+      <stars>79,027</stars>
       <forks>3,184</forks>
       <addStars>630</addStars>
       <contributors>

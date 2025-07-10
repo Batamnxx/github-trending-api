@@ -2,7 +2,7 @@
   "title": "GitHub C# Languages Weekly Trending",
   "description": "Weekly Trending of C# Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "FreeRTOS/FreeRTOS-Kernel",
@@ -116,7 +116,7 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "12,866",
+      "stars": "12,868",
       "forks": "1,903",
       "addStars": "7",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "low cost software radio platform",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,135",
+      "stars": "7,136",
       "forks": "1,603",
       "addStars": "11",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "A little fail-safe filesystem designed for microcontrollers",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "5,984",
+      "stars": "5,986",
       "forks": "879",
       "addStars": "5",
       "contributors": [
@@ -264,7 +264,7 @@
       "description": "The pattern matching swiss knife",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "8,906",
+      "stars": "8,907",
       "forks": "1,512",
       "addStars": "4",
       "contributors": [
@@ -518,7 +518,7 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "13,377",
+      "stars": "13,378",
       "forks": "795",
       "addStars": "32",
       "contributors": [
@@ -666,8 +666,8 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "55,582",
-      "forks": "26,388",
+      "stars": "55,586",
+      "forks": "26,386",
       "addStars": "19",
       "contributors": [
         {
@@ -740,7 +740,7 @@
       "description": "Linux kernel source tree",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "197,359",
+      "stars": "197,366",
       "forks": "56,883",
       "addStars": "98",
       "contributors": [

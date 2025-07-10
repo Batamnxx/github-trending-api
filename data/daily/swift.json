@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "siteline/swiftui-introspect",
@@ -435,7 +435,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": "5,449",
-      "forks": "410",
+      "forks": "411",
       "addStars": "25",
       "contributors": [
         {
@@ -466,7 +466,7 @@
       "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "27,226",
+      "stars": "27,228",
       "forks": "837",
       "addStars": "8",
       "contributors": [
@@ -725,7 +725,7 @@
       "description": "📸 A powerful, high-performance React Native Camera library.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "8,569",
+      "stars": "8,570",
       "forks": "1,223",
       "addStars": "4",
       "contributors": [

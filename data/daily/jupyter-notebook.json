@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "HandsOnLLM/Hands-On-Large-Language-Models",
@@ -10,7 +10,7 @@
       "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "11,795",
+      "stars": "11,804",
       "forks": "2,763",
       "addStars": "286",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "14,264",
+      "stars": "14,267",
       "forks": "1,986",
       "addStars": "224",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Repo for the Complete Agentic AI Engineering Course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "1,170",
+      "stars": "1,171",
       "forks": "798",
       "addStars": "216",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "11 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "29,814",
+      "stars": "29,819",
       "forks": "8,431",
       "addStars": "343",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "168,974",
+      "stars": "168,976",
       "forks": "54,127",
       "addStars": "59",
       "contributors": [
@@ -306,8 +306,8 @@
       "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "16,126",
-      "forks": "1,911",
+      "stars": "16,127",
+      "forks": "1,912",
       "addStars": "12",
       "contributors": [
         {
@@ -343,7 +343,7 @@
       "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "29,759",
+      "stars": "29,761",
       "forks": "3,662",
       "addStars": "20",
       "contributors": [
@@ -454,7 +454,7 @@
       "description": "",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "1,893",
+      "stars": "1,894",
       "forks": "410",
       "addStars": "22",
       "contributors": [
@@ -492,7 +492,7 @@
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
       "stars": "11,024",
-      "forks": "3,187",
+      "forks": "3,186",
       "addStars": "13",
       "contributors": [
         {
@@ -598,7 +598,7 @@
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
       "stars": "4,368",
-      "forks": "617",
+      "forks": "618",
       "addStars": "14",
       "contributors": [
         {

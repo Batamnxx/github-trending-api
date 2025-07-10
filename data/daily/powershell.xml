@@ -3,7 +3,7 @@
     <title>GitHub Powershell Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Powershell Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>anthropics/claude-code</title>
       <link>https://github.com/anthropics/claude-code</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/anthropics/claude-code</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>18,531</stars>
+      <stars>18,543</stars>
       <forks>1,049</forks>
       <addStars>227</addStars>
       <contributors>
@@ -50,7 +50,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>11,436</stars>
-      <forks>3,386</forks>
+      <forks>3,385</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/microsoft/winget-pkgs</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>9,521</stars>
-      <forks>5,211</forks>
+      <stars>9,522</stars>
+      <forks>5,210</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -115,7 +115,7 @@
       <guid>https://github.com/microsoft/Microsoft365DSC</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>1,886</stars>
+      <stars>1,887</stars>
       <forks>569</forks>
       <addStars>4</addStars>
       <contributors>
@@ -191,7 +191,7 @@
       <guid>https://github.com/Raphire/Win11Debloat</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>22,083</stars>
+      <stars>22,085</stars>
       <forks>916</forks>
       <addStars>35</addStars>
       <contributors>
@@ -229,7 +229,7 @@
       <guid>https://github.com/ChrisTitusTech/winutil</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>37,262</stars>
+      <stars>37,266</stars>
       <forks>2,021</forks>
       <addStars>79</addStars>
       <contributors>

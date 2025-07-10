@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Weekly Trending",
   "description": "Weekly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "home-assistant/android",
@@ -42,7 +42,7 @@
       "description": "A private messenger for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "27,290",
+      "stars": "27,291",
       "forks": "6,457",
       "addStars": "62",
       "contributors": [
@@ -80,7 +80,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": "54,245",
-      "forks": "14,252",
+      "forks": "14,254",
       "addStars": "228",
       "contributors": [
         {
@@ -117,7 +117,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": "9,098",
-      "forks": "7,381",
+      "forks": "7,380",
       "addStars": "10",
       "contributors": [
         {
@@ -181,7 +181,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": "5,960",
-      "forks": "496",
+      "forks": "497",
       "addStars": "60",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in early-beta.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "7,188",
+      "stars": "7,189",
       "forks": "467",
       "addStars": "39",
       "contributors": [
@@ -446,7 +446,7 @@
       "description": "Simple-ish app using Shizuku to install APKs on-device with advanced options",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,715",
+      "stars": "1,716",
       "forks": "80",
       "addStars": "29",
       "contributors": [
@@ -553,7 +553,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": "19,132",
-      "forks": "3,681",
+      "forks": "3,680",
       "addStars": "69",
       "contributors": [
         {
@@ -590,7 +590,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": "6,093",
-      "forks": "414",
+      "forks": "413",
       "addStars": "49",
       "contributors": [
         {

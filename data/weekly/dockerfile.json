@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Weekly Trending",
   "description": "Weekly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "goldbergyoni/nodebestpractices",
@@ -10,7 +10,7 @@
       "description": "✅ The Node.js best practices list (July 2024)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "103,327",
+      "stars": "103,328",
       "forks": "10,497",
       "addStars": "156",
       "contributors": [

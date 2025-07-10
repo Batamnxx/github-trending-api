@@ -3,7 +3,7 @@
     <title>GitHub Perl Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Perl Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>AlDanial/cloc</title>
       <link>https://github.com/AlDanial/cloc</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/AlDanial/cloc</guid>
       <language>Perl</language>
       <languageColor>#0298c3</languageColor>
-      <stars>21,278</stars>
+      <stars>21,279</stars>
       <forks>1,068</forks>
       <addStars>96</addStars>
       <contributors>
@@ -490,7 +490,7 @@
       <guid>https://github.com/major/MySQLTuner-perl</guid>
       <language>Perl</language>
       <languageColor>#0298c3</languageColor>
-      <stars>9,246</stars>
+      <stars>9,247</stars>
       <forks>1,296</forks>
       <addStars>6</addStars>
       <contributors>

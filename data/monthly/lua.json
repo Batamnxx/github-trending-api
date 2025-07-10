@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Monthly Trending",
   "description": "Monthly Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "greggh/claude-code.nvim",
@@ -79,7 +79,7 @@
       "description": "Use your Neovim like using Cursor AI IDE!",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "15,042",
+      "stars": "15,043",
       "forks": "660",
       "addStars": "783",
       "contributors": [
@@ -117,7 +117,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "15,335",
-      "forks": "2,616",
+      "forks": "2,617",
       "addStars": "138",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,885",
+      "stars": "1,886",
       "forks": "517",
       "addStars": "76",
       "contributors": [
@@ -296,8 +296,8 @@
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "25,884",
-      "forks": "36,562",
+      "stars": "25,885",
+      "forks": "36,565",
       "addStars": "700",
       "contributors": [
         {
@@ -407,7 +407,7 @@
       "description": "Improved fzf.vim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,505",
+      "stars": "3,506",
       "forks": "199",
       "addStars": "118",
       "contributors": [

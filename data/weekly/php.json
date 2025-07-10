@@ -2,7 +2,7 @@
   "title": "GitHub Php Languages Weekly Trending",
   "description": "Weekly Trending of Php Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "glpi-project/glpi",
@@ -47,7 +47,7 @@
       "description": "High-performance panel based on V2board secondary development supporting new protocols and new features",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "2,939",
+      "stars": "2,940",
       "forks": "758",
       "addStars": "41",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "11,719",
+      "stars": "11,720",
       "forks": "818",
       "addStars": "96",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "🌍 Discover our global repository of countries, states, and cities! 🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "8,503",
+      "stars": "8,504",
       "forks": "2,809",
       "addStars": "47",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "7,344",
+      "stars": "7,345",
       "forks": "812",
       "addStars": "59",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "A platform to create documentation/wiki content built with PHP & Laravel",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "16,926",
+      "stars": "16,928",
       "forks": "2,140",
       "addStars": "51",
       "contributors": [
@@ -286,7 +286,7 @@
       "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "64,036",
+      "stars": "64,037",
       "forks": "24,470",
       "addStars": "184",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "43,244",
+      "stars": "43,245",
       "forks": "2,698",
       "addStars": "212",
       "contributors": [

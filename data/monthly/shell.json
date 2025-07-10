@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Monthly Trending",
   "description": "Monthly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "nvm-sh/nvm",
@@ -11,7 +11,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "85,723",
-      "forks": "9,011",
+      "forks": "9,010",
       "addStars": "818",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "😼 优雅地使用基于 clash/mihomo 的代理环境",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,611",
+      "stars": "2,612",
       "forks": "390",
       "addStars": "585",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "50,902",
+      "stars": "50,903",
       "forks": "2,834",
       "addStars": "356",
       "contributors": [
@@ -382,7 +382,7 @@
       "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "26,435",
+      "stars": "26,436",
       "forks": "16,525",
       "addStars": "255",
       "contributors": [
@@ -456,8 +456,8 @@
       "description": "🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "179,818",
-      "forks": "26,138",
+      "stars": "179,820",
+      "forks": "26,139",
       "addStars": "896",
       "contributors": [
         {

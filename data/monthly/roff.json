@@ -2,7 +2,7 @@
   "title": "GitHub Roff Languages Monthly Trending",
   "description": "Monthly Trending of Roff Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "ophub/amlogic-s9xxx-armbian",
@@ -79,7 +79,7 @@
       "description": "Simple Python version management",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": "42,562",
+      "stars": "42,564",
       "forks": "3,187",
       "addStars": "322",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": "44,372",
-      "forks": "9,907",
+      "stars": "44,380",
+      "forks": "9,910",
       "addStars": "7,058",
       "contributors": [
         {

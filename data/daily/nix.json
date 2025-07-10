@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -11,7 +11,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "21,022",
-      "forks": "16,160",
+      "forks": "16,161",
       "addStars": "9",
       "contributors": [
         {
@@ -244,7 +244,7 @@
       "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,774",
+      "stars": "1,775",
       "forks": "142",
       "addStars": "4",
       "contributors": [
@@ -367,7 +367,7 @@
       "description": "Latest Burpsuite Professional Version 2025.*.*",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "862",
+      "stars": "864",
       "forks": "266",
       "addStars": "1",
       "contributors": [

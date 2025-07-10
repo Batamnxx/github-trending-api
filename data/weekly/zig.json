@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "ziglang/zig",
@@ -10,7 +10,7 @@
       "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "39,861",
+      "stars": "39,863",
       "forks": "2,901",
       "addStars": "161",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "79,026",
+      "stars": "79,027",
       "forks": "3,184",
       "addStars": "153",
       "contributors": [
@@ -264,7 +264,7 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "32,907",
+      "stars": "32,909",
       "forks": "933",
       "addStars": "335",
       "contributors": [

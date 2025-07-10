@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Weekly Trending",
   "description": "Weekly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "OpenXiangShan/XiangShan",
@@ -47,7 +47,7 @@
       "description": "Source code for Twitter's Recommendation Algorithm",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "63,396",
+      "stars": "63,397",
       "forks": "12,154",
       "addStars": "58",
       "contributors": [
@@ -461,7 +461,7 @@
       "description": "A collection of open source Apache 2.0 Kafka Connector maintained by Lenses.io.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "1,032",
+      "stars": "1,033",
       "forks": "375",
       "addStars": "1",
       "contributors": [

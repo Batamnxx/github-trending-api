@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "simstudioai/sim",
@@ -10,7 +10,7 @@
       "description": "Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,746",
+      "stars": "4,750",
       "forks": "703",
       "addStars": "537",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "🧡 Follow everything in one place",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "28,411",
+      "stars": "28,423",
       "forks": "1,264",
       "addStars": "1,126",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,697",
+      "stars": "9,700",
       "forks": "1,186",
       "addStars": "823",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,094",
-      "forks": "325",
+      "stars": "4,100",
+      "forks": "326",
       "addStars": "2,307",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,776",
-      "forks": "1,249",
+      "stars": "18,780",
+      "forks": "1,250",
       "addStars": "533",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,097",
+      "stars": "8,106",
       "forks": "504",
       "addStars": "2,928",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "YouTube Music Desktop App bundled with custom plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,579",
+      "stars": "25,581",
       "forks": "1,386",
       "addStars": "2,679",
       "contributors": [
@@ -259,7 +259,7 @@
       "description": "Unified Backend Framework for APIs, Events, and AI Agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,817",
+      "stars": "3,818",
       "forks": "311",
       "addStars": "1,005",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,520",
+      "stars": "2,524",
       "forks": "172",
       "addStars": "847",
       "contributors": [
@@ -313,7 +313,7 @@
       "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,578",
+      "stars": "31,581",
       "forks": "4,291",
       "addStars": "534",
       "contributors": [
@@ -345,8 +345,8 @@
       "description": "The Open All-in-One Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,114",
-      "forks": "1,347",
+      "stars": "15,115",
+      "forks": "1,348",
       "addStars": "180",
       "contributors": [
         {
@@ -382,7 +382,7 @@
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "52,993",
+      "stars": "52,996",
       "forks": "3,535",
       "addStars": "851",
       "contributors": [
@@ -419,8 +419,8 @@
       "description": "🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,226",
-      "forks": "484",
+      "stars": "2,227",
+      "forks": "485",
       "addStars": "126",
       "contributors": [
         {
@@ -530,7 +530,7 @@
       "description": "💯 Curated coding interview preparation materials for busy software engineers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "127,518",
+      "stars": "127,523",
       "forks": "15,539",
       "addStars": "262",
       "contributors": [

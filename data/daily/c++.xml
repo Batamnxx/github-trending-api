@@ -3,7 +3,7 @@
     <title>GitHub C++ Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of C++ Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>pybind/pybind11</title>
       <link>https://github.com/pybind/pybind11</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/pybind/pybind11</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>16,815</stars>
+      <stars>16,822</stars>
       <forks>2,189</forks>
       <addStars>8</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/protocolbuffers/protobuf</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>67,955</stars>
-      <forks>15,762</forks>
+      <stars>67,956</stars>
+      <forks>15,761</forks>
       <addStars>12</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/tensorflow/tensorflow</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>190,679</stars>
-      <forks>74,745</forks>
+      <stars>190,680</stars>
+      <forks>74,746</forks>
       <addStars>27</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/IntelRealSense/librealsense</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>8,033</stars>
+      <stars>8,034</stars>
       <forks>4,873</forks>
       <addStars>4</addStars>
       <contributors>
@@ -239,7 +239,7 @@
       <guid>https://github.com/alibaba/MNN</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>12,445</stars>
+      <stars>12,447</stars>
       <forks>1,990</forks>
       <addStars>140</addStars>
       <contributors>
@@ -353,7 +353,7 @@
       <guid>https://github.com/nlohmann/json</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>46,391</stars>
+      <stars>46,392</stars>
       <forks>7,054</forks>
       <addStars>20</addStars>
       <contributors>
@@ -463,7 +463,7 @@
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
       <stars>36,305</stars>
-      <forks>10,426</forks>
+      <forks>10,425</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>
@@ -604,7 +604,7 @@
       <guid>https://github.com/f3d-app/f3d</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>3,596</stars>
+      <stars>3,597</stars>
       <forks>315</forks>
       <addStars>7</addStars>
       <contributors>
@@ -643,7 +643,7 @@
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
       <stars>11,829</stars>
-      <forks>2,219</forks>
+      <forks>2,220</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -680,7 +680,7 @@
       <guid>https://github.com/google/libphonenumber</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>17,342</stars>
+      <stars>17,343</stars>
       <forks>2,105</forks>
       <addStars>5</addStars>
       <contributors>

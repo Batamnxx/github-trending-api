@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "CopilotC-Nvim/CopilotChat.nvim",
@@ -37,8 +37,8 @@
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "25,884",
-      "forks": "36,562",
+      "stars": "25,885",
+      "forks": "36,565",
       "addStars": "33",
       "contributors": [
         {
@@ -272,7 +272,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "15,335",
-      "forks": "2,616",
+      "forks": "2,617",
       "addStars": "5",
       "contributors": [
         {

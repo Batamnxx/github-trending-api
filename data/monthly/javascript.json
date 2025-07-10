@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Monthly Trending",
   "description": "Monthly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "microsoft/Web-Dev-For-Beginners",
@@ -10,7 +10,7 @@
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "90,374",
+      "stars": "90,376",
       "forks": "13,655",
       "addStars": "2,040",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "27,411",
-      "forks": "3,154",
+      "stars": "27,413",
+      "forks": "3,155",
       "addStars": "887",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,279",
-      "forks": "4,620",
+      "stars": "21,281",
+      "forks": "4,622",
       "addStars": "1,246",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "19,139",
+      "stars": "19,151",
       "forks": "972",
       "addStars": "7,314",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "32,504",
+      "stars": "32,503",
       "forks": "3,351",
       "addStars": "1,111",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "12,540",
+      "stars": "12,541",
       "forks": "916",
       "addStars": "3,701",
       "contributors": [
@@ -254,7 +254,7 @@
       "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "19,676",
+      "stars": "19,677",
       "forks": "2,656",
       "addStars": "306",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "Source Code for Sigma Web Development Course",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,244",
+      "stars": "9,246",
       "forks": "2,691",
       "addStars": "645",
       "contributors": [
@@ -425,7 +425,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": "107,530",
-      "forks": "35,882",
+      "forks": "35,883",
       "addStars": "1,044",
       "contributors": [
         {
@@ -461,7 +461,7 @@
       "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "192,078",
+      "stars": "192,080",
       "forks": "30,743",
       "addStars": "815",
       "contributors": [
@@ -498,7 +498,7 @@
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "17,306",
+      "stars": "17,307",
       "forks": "4,207",
       "addStars": "343",
       "contributors": [
@@ -535,8 +535,8 @@
       "description": "Meshery, the cloud native manager",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,494",
-      "forks": "2,453",
+      "stars": "7,496",
+      "forks": "2,456",
       "addStars": "293",
       "contributors": [
         {

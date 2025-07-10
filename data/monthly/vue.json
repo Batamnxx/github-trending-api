@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Monthly Trending",
   "description": "Monthly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "Sjj1024/PakePlus",
@@ -10,8 +10,8 @@
       "description": "Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "4,019",
-      "forks": "2,769",
+      "stars": "4,020",
+      "forks": "2,770",
       "addStars": "1,695",
       "contributors": [
         {
@@ -37,7 +37,7 @@
       "description": "☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,355",
+      "stars": "6,356",
       "forks": "1,083",
       "addStars": "171",
       "contributors": [
@@ -74,8 +74,8 @@
       "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "29,038",
-      "forks": "7,875",
+      "stars": "29,039",
+      "forks": "7,874",
       "addStars": "533",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "9,003",
+      "stars": "9,007",
       "forks": "692",
       "addStars": "2,291",
       "contributors": [
@@ -277,7 +277,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "1,935",
-      "forks": "790",
+      "forks": "791",
       "addStars": "187",
       "contributors": [
         {
@@ -350,7 +350,7 @@
       "description": "Elasticsearch GUI client for Mac, windows and linux, Opensearch GUI client for Mac, windows and linux",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "847",
+      "stars": "848",
       "forks": "97",
       "addStars": "439",
       "contributors": [
@@ -447,7 +447,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "9,169",
-      "forks": "746",
+      "forks": "747",
       "addStars": "186",
       "contributors": [
         {
@@ -500,7 +500,7 @@
       "description": "Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "10,922",
+      "stars": "10,923",
       "forks": "2,969",
       "addStars": "166",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "Lissy93/awesome-privacy",
@@ -47,7 +47,7 @@
       "description": "An opinionated, actionable guide for software engineering interviews.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "3,452",
+      "stars": "3,451",
       "forks": "128",
       "addStars": "3",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "4,742",
+      "stars": "4,743",
       "forks": "1,335",
       "addStars": "1",
       "contributors": [

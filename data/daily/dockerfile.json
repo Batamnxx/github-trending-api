@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "piyushsachdeva/CKA-2024",
@@ -138,7 +138,7 @@
       "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "91,015",
+      "stars": "91,016",
       "forks": "10,364",
       "addStars": "70",
       "contributors": [

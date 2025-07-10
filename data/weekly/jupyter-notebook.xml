@@ -3,7 +3,7 @@
     <title>GitHub Jupyter-notebook Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Jupyter-notebook Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>GoogleCloudPlatform/vertex-ai-creative-studio</title>
       <link>https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio</link>
@@ -39,8 +39,8 @@
       <guid>https://github.com/anthropics/prompt-eng-interactive-tutorial</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>16,316</stars>
-      <forks>1,496</forks>
+      <stars>16,318</stars>
+      <forks>1,497</forks>
       <addStars>2,105</addStars>
       <contributors>
         <contributor>
@@ -67,7 +67,7 @@
       <guid>https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>11,795</stars>
+      <stars>11,804</stars>
       <forks>2,763</forks>
       <addStars>878</addStars>
       <contributors>
@@ -105,7 +105,7 @@
       <guid>https://github.com/ed-donner/agents</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>1,170</stars>
+      <stars>1,171</stars>
       <forks>798</forks>
       <addStars>267</addStars>
       <contributors>
@@ -143,8 +143,8 @@
       <guid>https://github.com/microsoft/generative-ai-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>91,635</stars>
-      <forks>46,820</forks>
+      <stars>91,640</stars>
+      <forks>46,826</forks>
       <addStars>2,281</addStars>
       <contributors>
         <contributor>
@@ -219,7 +219,7 @@
       <guid>https://github.com/NirDiamant/GenAI_Agents</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>14,264</stars>
+      <stars>14,267</stars>
       <forks>1,986</forks>
       <addStars>618</addStars>
       <contributors>
@@ -257,7 +257,7 @@
       <guid>https://github.com/ageron/handson-ml3</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>10,152</stars>
+      <stars>10,154</stars>
       <forks>3,989</forks>
       <addStars>331</addStars>
       <contributors>
@@ -371,7 +371,7 @@
       <guid>https://github.com/langchain-ai/langchain</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>111,140</stars>
+      <stars>111,145</stars>
       <forks>18,098</forks>
       <addStars>512</addStars>
       <contributors>
@@ -448,7 +448,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>10,098</stars>
-      <forks>1,063</forks>
+      <forks>1,062</forks>
       <addStars>149</addStars>
       <contributors>
         <contributor>
@@ -485,7 +485,7 @@
       <guid>https://github.com/jackfrued/Python-100-Days</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>168,974</stars>
+      <stars>168,976</stars>
       <forks>54,127</forks>
       <addStars>416</addStars>
       <contributors>
@@ -562,7 +562,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>28,627</stars>
-      <forks>86,955</forks>
+      <forks>86,956</forks>
       <addStars>45</addStars>
       <contributors>
         <contributor>
@@ -590,7 +590,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>38,688</stars>
-      <forks>7,321</forks>
+      <forks>7,323</forks>
       <addStars>259</addStars>
       <contributors>
         <contributor>

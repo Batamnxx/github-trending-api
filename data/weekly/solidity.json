@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Weekly Trending",
   "description": "Weekly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -249,7 +249,7 @@
       "description": "",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "799",
+      "stars": "800",
       "forks": "242",
       "addStars": "21",
       "contributors": [

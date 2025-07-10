@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Monthly Trending",
   "description": "Monthly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "golang-standards/project-layout",
@@ -10,7 +10,7 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "53,035",
+      "stars": "53,037",
       "forks": "5,361",
       "addStars": "448",
       "contributors": [

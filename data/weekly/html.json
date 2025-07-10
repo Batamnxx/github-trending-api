@@ -2,7 +2,7 @@
   "title": "GitHub Html Languages Weekly Trending",
   "description": "Weekly Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "home-assistant/home-assistant.io",
@@ -10,8 +10,8 @@
       "description": "📘 Home Assistant User documentation",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "6,973",
-      "forks": "7,777",
+      "stars": "6,975",
+      "forks": "7,778",
       "addStars": "263",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "74,272",
-      "forks": "16,343",
+      "stars": "74,276",
+      "forks": "16,346",
       "addStars": "733",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "14,721",
-      "forks": "43,266",
+      "stars": "14,722",
+      "forks": "43,271",
       "addStars": "101",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "A Clash Client For OpenWrt",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "20,735",
-      "forks": "3,473",
+      "stars": "20,736",
+      "forks": "3,474",
       "addStars": "258",
       "contributors": [
         {
@@ -181,7 +181,7 @@
       "language": "HTML",
       "languageColor": "#e34c26",
       "stars": "7,332",
-      "forks": "27,345",
+      "forks": "27,346",
       "addStars": "15",
       "contributors": [
         {
@@ -240,7 +240,7 @@
       "language": "HTML",
       "languageColor": "#e34c26",
       "stars": "5,434",
-      "forks": "3,381",
+      "forks": "3,380",
       "addStars": "18",
       "contributors": [
         {
@@ -340,7 +340,7 @@
       "description": "8 Lessons, Kick-start Your Cybersecurity Learning.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "5,401",
+      "stars": "5,402",
       "forks": "694",
       "addStars": "44",
       "contributors": [
@@ -414,7 +414,7 @@
       "description": "吴恩达老师的机器学习课程个人笔记",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "34,429",
+      "stars": "34,431",
       "forks": "10,938",
       "addStars": "81",
       "contributors": [
@@ -533,7 +533,7 @@
       "language": "HTML",
       "languageColor": "#e34c26",
       "stars": "1,879",
-      "forks": "81,545",
+      "forks": "81,549",
       "addStars": "9",
       "contributors": [
         {

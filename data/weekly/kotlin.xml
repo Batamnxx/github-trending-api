@@ -3,7 +3,7 @@
     <title>GitHub Kotlin Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Kotlin Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>home-assistant/android</title>
       <link>https://github.com/home-assistant/android</link>
@@ -44,7 +44,7 @@
       <guid>https://github.com/signalapp/Signal-Android</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>27,290</stars>
+      <stars>27,291</stars>
       <forks>6,457</forks>
       <addStars>62</addStars>
       <contributors>
@@ -83,7 +83,7 @@
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
       <stars>54,245</stars>
-      <forks>14,252</forks>
+      <forks>14,254</forks>
       <addStars>228</addStars>
       <contributors>
         <contributor>
@@ -121,7 +121,7 @@
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
       <stars>9,098</stars>
-      <forks>7,381</forks>
+      <forks>7,380</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -187,7 +187,7 @@
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
       <stars>5,960</stars>
-      <forks>496</forks>
+      <forks>497</forks>
       <addStars>60</addStars>
       <contributors>
         <contributor>
@@ -219,7 +219,7 @@
       <guid>https://github.com/florisboard/florisboard</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>7,188</stars>
+      <stars>7,189</stars>
       <forks>467</forks>
       <addStars>39</addStars>
       <contributors>
@@ -460,7 +460,7 @@
       <guid>https://github.com/zacharee/InstallWithOptions</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>1,715</stars>
+      <stars>1,716</stars>
       <forks>80</forks>
       <addStars>29</addStars>
       <contributors>
@@ -570,7 +570,7 @@
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
       <stars>19,132</stars>
-      <forks>3,681</forks>
+      <forks>3,680</forks>
       <addStars>69</addStars>
       <contributors>
         <contributor>
@@ -608,7 +608,7 @@
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
       <stars>6,093</stars>
-      <forks>414</forks>
+      <forks>413</forks>
       <addStars>49</addStars>
       <contributors>
         <contributor>

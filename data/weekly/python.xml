@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>NanmiCoder/MediaCrawler</title>
       <link>https://github.com/NanmiCoder/MediaCrawler</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NanmiCoder/MediaCrawler</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,207</stars>
-      <forks>7,335</forks>
+      <stars>29,228</stars>
+      <forks>7,339</forks>
       <addStars>4,106</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/commaai/openpilot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>55,140</stars>
-      <forks>9,919</forks>
+      <stars>55,145</stars>
+      <forks>9,918</forks>
       <addStars>880</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/mit-han-lab/nunchaku</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,337</stars>
+      <stars>2,339</stars>
       <forks>121</forks>
       <addStars>132</addStars>
       <contributors>
@@ -115,8 +115,8 @@
       <guid>https://github.com/ostris/ai-toolkit</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,119</stars>
-      <forks>608</forks>
+      <stars>5,121</stars>
+      <forks>609</forks>
       <addStars>113</addStars>
       <contributors>
         <contributor>
@@ -153,7 +153,7 @@
       <guid>https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,152</stars>
+      <stars>12,161</stars>
       <forks>1,147</forks>
       <addStars>507</addStars>
       <contributors>
@@ -191,7 +191,7 @@
       <guid>https://github.com/bilibili/Index-anisora</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,743</stars>
+      <stars>1,744</stars>
       <forks>83</forks>
       <addStars>278</addStars>
       <contributors>
@@ -214,7 +214,7 @@
       <guid>https://github.com/llmware-ai/llmware</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,248</stars>
+      <stars>14,249</stars>
       <forks>2,894</forks>
       <addStars>370</addStars>
       <contributors>
@@ -252,8 +252,8 @@
       <guid>https://github.com/bregman-arie/devops-exercises</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>77,471</stars>
-      <forks>17,363</forks>
+      <stars>77,473</stars>
+      <forks>17,362</forks>
       <addStars>488</addStars>
       <contributors>
         <contributor>
@@ -290,7 +290,7 @@
       <guid>https://github.com/Asabeneh/30-Days-Of-Python</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,464</stars>
+      <stars>47,466</stars>
       <forks>9,059</forks>
       <addStars>263</addStars>
       <contributors>
@@ -328,8 +328,8 @@
       <guid>https://github.com/coleam00/ai-agents-masterclass</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,444</stars>
-      <forks>1,111</forks>
+      <stars>2,451</stars>
+      <forks>1,112</forks>
       <addStars>146</addStars>
       <contributors>
         <contributor>
@@ -351,7 +351,7 @@
       <guid>https://github.com/microsoft/MoGe</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,310</stars>
+      <stars>1,312</stars>
       <forks>73</forks>
       <addStars>206</addStars>
       <contributors>
@@ -389,7 +389,7 @@
       <guid>https://github.com/keephq/keep</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,498</stars>
+      <stars>10,500</stars>
       <forks>1,018</forks>
       <addStars>174</addStars>
       <contributors>
@@ -465,8 +465,8 @@
       <guid>https://github.com/snap-stanford/Biomni</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>791</stars>
-      <forks>82</forks>
+      <stars>823</stars>
+      <forks>84</forks>
       <addStars>438</addStars>
       <contributors>
         <contributor>
@@ -489,7 +489,7 @@
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
       <stars>146,757</stars>
-      <forks>29,596</forks>
+      <forks>29,598</forks>
       <addStars>426</addStars>
       <contributors>
         <contributor>

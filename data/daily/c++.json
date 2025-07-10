@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "pybind/pybind11",
@@ -10,7 +10,7 @@
       "description": "Seamless operability between C++11 and Python",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "16,815",
+      "stars": "16,822",
       "forks": "2,189",
       "addStars": "8",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "67,955",
-      "forks": "15,762",
+      "stars": "67,956",
+      "forks": "15,761",
       "addStars": "12",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "190,679",
-      "forks": "74,745",
+      "stars": "190,680",
+      "forks": "74,746",
       "addStars": "27",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "Intel® RealSense™ SDK",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "8,033",
+      "stars": "8,034",
       "forks": "4,873",
       "addStars": "4",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "12,445",
+      "stars": "12,447",
       "forks": "1,990",
       "addStars": "140",
       "contributors": [
@@ -343,7 +343,7 @@
       "description": "JSON for Modern C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "46,391",
+      "stars": "46,392",
       "forks": "7,054",
       "addStars": "20",
       "contributors": [
@@ -450,7 +450,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "36,305",
-      "forks": "10,426",
+      "forks": "10,425",
       "addStars": "8",
       "contributors": [
         {
@@ -587,7 +587,7 @@
       "description": "Fast and minimalist 3D viewer.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "3,596",
+      "stars": "3,597",
       "forks": "315",
       "addStars": "7",
       "contributors": [
@@ -625,7 +625,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "11,829",
-      "forks": "2,219",
+      "forks": "2,220",
       "addStars": "7",
       "contributors": [
         {
@@ -661,7 +661,7 @@
       "description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "17,342",
+      "stars": "17,343",
       "forks": "2,105",
       "addStars": "5",
       "contributors": [

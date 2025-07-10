@@ -3,7 +3,7 @@
     <title>GitHub Astro Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Astro Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>satnaing/astro-paper</title>
       <link>https://github.com/satnaing/astro-paper</link>
@@ -115,7 +115,7 @@
       <guid>https://github.com/onwidget/astrowind</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>4,742</stars>
+      <stars>4,743</stars>
       <forks>1,335</forks>
       <addStars>101</addStars>
       <contributors>
@@ -371,7 +371,7 @@
       <guid>https://github.com/netlify-templates/astro-platform-starter</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>89</stars>
+      <stars>90</stars>
       <forks>203</forks>
       <addStars>8</addStars>
       <contributors>

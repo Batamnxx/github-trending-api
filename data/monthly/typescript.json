@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Monthly Trending",
   "description": "Monthly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "menloresearch/jan",
@@ -84,7 +84,7 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,284",
+      "stars": "9,294",
       "forks": "1,162",
       "addStars": "3,706",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,094",
-      "forks": "325",
+      "stars": "4,100",
+      "forks": "326",
       "addStars": "3,136",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,097",
+      "stars": "8,106",
       "forks": "504",
       "addStars": "3,659",
       "contributors": [
@@ -259,7 +259,7 @@
       "description": "🧡 Follow everything in one place",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "28,411",
+      "stars": "28,423",
       "forks": "1,264",
       "addStars": "1,823",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "64,867",
+      "stars": "64,878",
       "forks": "4,912",
       "addStars": "4,037",
       "contributors": [
@@ -333,8 +333,8 @@
       "description": "Build AI Agents, Visually",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "41,299",
-      "forks": "21,177",
+      "stars": "41,304",
+      "forks": "21,179",
       "addStars": "1,572",
       "contributors": [
         {
@@ -370,7 +370,7 @@
       "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,157",
+      "stars": "6,164",
       "forks": "399",
       "addStars": "1,795",
       "contributors": [
@@ -407,7 +407,7 @@
       "description": "Build production-ready applications in TypeScript",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,430",
+      "stars": "10,431",
       "forks": "355",
       "addStars": "1,136",
       "contributors": [
@@ -439,7 +439,7 @@
       "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,697",
+      "stars": "9,700",
       "forks": "1,186",
       "addStars": "1,397",
       "contributors": [
@@ -508,8 +508,8 @@
       "description": "A visual no-code theme editor for shadcn/ui components",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,430",
-      "forks": "284",
+      "stars": "5,431",
+      "forks": "285",
       "addStars": "1,802",
       "contributors": [
         {
@@ -541,7 +541,7 @@
       "language": "TypeScript",
       "languageColor": "#3178c6",
       "stars": "3,179",
-      "forks": "126",
+      "forks": "127",
       "addStars": "1,284",
       "contributors": [
         {
@@ -572,7 +572,7 @@
       "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "42,742",
+      "stars": "42,744",
       "forks": "4,022",
       "addStars": "3,145",
       "contributors": [

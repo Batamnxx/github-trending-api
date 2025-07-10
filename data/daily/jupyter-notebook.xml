@@ -3,7 +3,7 @@
     <title>GitHub Jupyter-notebook Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>HandsOnLLM/Hands-On-Large-Language-Models</title>
       <link>https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>11,795</stars>
+      <stars>11,804</stars>
       <forks>2,763</forks>
       <addStars>286</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/NirDiamant/GenAI_Agents</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>14,264</stars>
+      <stars>14,267</stars>
       <forks>1,986</forks>
       <addStars>224</addStars>
       <contributors>
@@ -87,7 +87,7 @@
       <guid>https://github.com/ed-donner/agents</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>1,170</stars>
+      <stars>1,171</stars>
       <forks>798</forks>
       <addStars>216</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/microsoft/ai-agents-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>29,814</stars>
+      <stars>29,819</stars>
       <forks>8,431</forks>
       <addStars>343</addStars>
       <contributors>
@@ -201,7 +201,7 @@
       <guid>https://github.com/jackfrued/Python-100-Days</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>168,974</stars>
+      <stars>168,976</stars>
       <forks>54,127</forks>
       <addStars>59</addStars>
       <contributors>
@@ -315,8 +315,8 @@
       <guid>https://github.com/facebookresearch/sam2</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>16,126</stars>
-      <forks>1,911</forks>
+      <stars>16,127</stars>
+      <forks>1,912</forks>
       <addStars>12</addStars>
       <contributors>
         <contributor>
@@ -353,7 +353,7 @@
       <guid>https://github.com/openai/CLIP</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>29,759</stars>
+      <stars>29,761</stars>
       <forks>3,662</forks>
       <addStars>20</addStars>
       <contributors>
@@ -467,7 +467,7 @@
       <guid>https://github.com/mistralai/cookbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>1,893</stars>
+      <stars>1,894</stars>
       <forks>410</forks>
       <addStars>22</addStars>
       <contributors>
@@ -506,7 +506,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>11,024</stars>
-      <forks>3,187</forks>
+      <forks>3,186</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>
@@ -615,7 +615,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>4,368</stars>
-      <forks>617</forks>
+      <forks>618</forks>
       <addStars>14</addStars>
       <contributors>
         <contributor>

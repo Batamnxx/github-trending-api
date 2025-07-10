@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "GraphiteEditor/Graphite",
@@ -10,7 +10,7 @@
       "description": "An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,806",
+      "stars": "18,809",
       "forks": "789",
       "addStars": "6,875",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "49,433",
-      "forks": "5,723",
+      "stars": "49,448",
+      "forks": "5,728",
       "addStars": "15,588",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "35,092",
-      "forks": "6,745",
+      "stars": "35,096",
+      "forks": "6,746",
       "addStars": "6,169",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,200",
-      "forks": "7,334",
+      "stars": "29,225",
+      "forks": "7,338",
       "addStars": "5,617",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "📚 从零开始的大语言模型原理与实践教程",
       "language": "",
       "languageColor": "",
-      "stars": "10,086",
-      "forks": "732",
+      "stars": "10,095",
+      "forks": "733",
       "addStars": "7,210",
       "contributors": [
         {
@@ -264,7 +264,7 @@
       "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,047",
+      "stars": "2,048",
       "forks": "156",
       "addStars": "1,716",
       "contributors": [
@@ -301,7 +301,7 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "18,530",
+      "stars": "18,538",
       "forks": "1,049",
       "addStars": "6,396",
       "contributors": [
@@ -338,7 +338,7 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "17,920",
+      "stars": "17,921",
       "forks": "1,855",
       "addStars": "4,878",
       "contributors": [
@@ -375,8 +375,8 @@
       "description": "😎 Awesome lists about all kinds of interesting topics",
       "language": "",
       "languageColor": "",
-      "stars": "380,729",
-      "forks": "30,436",
+      "stars": "380,753",
+      "forks": "30,437",
       "addStars": "16,604",
       "contributors": [
         {
@@ -412,8 +412,8 @@
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,519",
-      "forks": "361",
+      "stars": "4,561",
+      "forks": "364",
       "addStars": "2,324",
       "contributors": [
         {
@@ -444,8 +444,8 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "27,085",
-      "forks": "8,756",
+      "stars": "27,086",
+      "forks": "8,757",
       "addStars": "891",
       "contributors": [
         {
@@ -481,8 +481,8 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,284",
-      "forks": "1,161",
+      "stars": "9,291",
+      "forks": "1,162",
       "addStars": "3,706",
       "contributors": [
         {
@@ -518,8 +518,8 @@
       "description": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,093",
-      "forks": "325",
+      "stars": "4,097",
+      "forks": "326",
       "addStars": "3,136",
       "contributors": [
         {
@@ -550,7 +550,7 @@
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,094",
+      "stars": "8,103",
       "forks": "504",
       "addStars": "3,659",
       "contributors": [
@@ -587,7 +587,7 @@
       "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "90,374",
+      "stars": "90,376",
       "forks": "13,655",
       "addStars": "2,040",
       "contributors": [
@@ -624,7 +624,7 @@
       "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,478",
+      "stars": "26,481",
       "forks": "2,381",
       "addStars": "1,976",
       "contributors": [
@@ -661,8 +661,8 @@
       "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "74,272",
-      "forks": "16,343",
+      "stars": "74,275",
+      "forks": "16,346",
       "addStars": "1,639",
       "contributors": [
         {

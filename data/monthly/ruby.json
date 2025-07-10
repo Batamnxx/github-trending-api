@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Monthly Trending",
   "description": "Monthly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "antiwork/gumroad",
@@ -11,7 +11,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "6,400",
-      "forks": "1,027",
+      "forks": "1,028",
       "addStars": "395",
       "contributors": [
         {
@@ -37,7 +37,7 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "24,406",
+      "stars": "24,407",
       "forks": "4,842",
       "addStars": "472",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "API Documentation Browser",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "36,531",
+      "stars": "36,530",
       "forks": "2,437",
       "addStars": "209",
       "contributors": [
@@ -277,7 +277,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "12,863",
-      "forks": "4,577",
+      "forks": "4,576",
       "addStars": "96",
       "contributors": [
         {
@@ -314,7 +314,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "540",
-      "forks": "163",
+      "forks": "164",
       "addStars": "24",
       "contributors": [
         {
@@ -415,7 +415,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "14,457",
-      "forks": "12,910",
+      "forks": "12,911",
       "addStars": "106",
       "contributors": [
         {
@@ -488,8 +488,8 @@
       "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,306",
-      "forks": "10,139",
+      "stars": "50,307",
+      "forks": "10,138",
       "addStars": "189",
       "contributors": [
         {
@@ -784,7 +784,7 @@
       "description": "Main Website for The Odin Project",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,068",
+      "stars": "4,071",
       "forks": "2,105",
       "addStars": "51",
       "contributors": [
@@ -811,7 +811,7 @@
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "40,338",
+      "stars": "40,339",
       "forks": "5,901",
       "addStars": "123",
       "contributors": [

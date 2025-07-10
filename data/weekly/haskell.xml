@@ -3,7 +3,7 @@
     <title>GitHub Haskell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Haskell Languages in GitHub</description>
-    <pubDate>Thu, 10 Jul 2025 12:26:03 GMT</pubDate>
+    <pubDate>Thu, 10 Jul 2025 13:34:37 GMT</pubDate>
     <item>
       <title>koalaman/shellcheck</title>
       <link>https://github.com/koalaman/shellcheck</link>
@@ -82,7 +82,7 @@
       <guid>https://github.com/PostgREST/postgrest</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>25,492</stars>
+      <stars>25,493</stars>
       <forks>1,104</forks>
       <addStars>31</addStars>
       <contributors>
@@ -186,7 +186,7 @@
       <guid>https://github.com/jgm/pandoc</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>38,283</stars>
+      <stars>38,284</stars>
       <forks>3,572</forks>
       <addStars>91</addStars>
       <contributors>

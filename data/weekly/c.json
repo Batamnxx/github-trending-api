@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Weekly Trending",
   "description": "Weekly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 10 Jul 2025 12:26:03 GMT",
+  "pubDate": "Thu, 10 Jul 2025 13:34:37 GMT",
   "items": [
     {
       "title": "dev-Ali2008/xanite",
@@ -10,7 +10,7 @@
       "description": "Xanite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "150",
+      "stars": "151",
       "forks": "8",
       "addStars": "35",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "TLS/SSL and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "27,926",
+      "stars": "27,927",
       "forks": "10,655",
       "addStars": "212",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "An opensource OpenWrt variant for mainland China users.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "8,397",
+      "stars": "8,398",
       "forks": "2,485",
       "addStars": "63",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "A little fail-safe filesystem designed for microcontrollers",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "5,984",
+      "stars": "5,986",
       "forks": "879",
       "addStars": "40",
       "contributors": [
@@ -227,8 +227,8 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "65,476",
-      "forks": "8,538",
+      "stars": "65,477",
+      "forks": "8,539",
       "addStars": "188",
       "contributors": [
         {
@@ -264,7 +264,7 @@
       "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "15,152",
+      "stars": "15,154",
       "forks": "407",
       "addStars": "145",
       "contributors": [
@@ -370,7 +370,7 @@
       "description": "A highly customizable macOS status bar replacement",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "9,280",
+      "stars": "9,282",
       "forks": "131",
       "addStars": "97",
       "contributors": [
@@ -555,7 +555,7 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "13,377",
+      "stars": "13,378",
       "forks": "795",
       "addStars": "102",
       "contributors": [

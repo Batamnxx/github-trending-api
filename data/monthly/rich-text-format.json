@@ -2,7 +2,7 @@
   "title": "GitHub Rich-text-format Languages Monthly Trending",
   "description": "Monthly Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 11 Jul 2025 13:32:44 GMT",
+  "pubDate": "Fri, 11 Jul 2025 19:21:06 GMT",
   "items": [
     {
       "title": "ckeditor/ckeditor5",
@@ -84,7 +84,7 @@
       "description": "Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": "523",
+      "stars": "524",
       "forks": "13",
       "addStars": "23",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": "5,807",
+      "stars": "5,808",
       "forks": "2,475",
       "addStars": "4",
       "contributors": [
@@ -143,7 +143,7 @@
       "description": "Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen or XuanFang",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": "1,536",
+      "stars": "1,537",
       "forks": "249",
       "addStars": "37",
       "contributors": [

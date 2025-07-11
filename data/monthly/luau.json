@@ -2,7 +2,7 @@
   "title": "GitHub Luau Languages Monthly Trending",
   "description": "Monthly Trending of Luau Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 11 Jul 2025 13:32:44 GMT",
+  "pubDate": "Fri, 11 Jul 2025 19:21:06 GMT",
   "items": [
     {
       "title": "rojo-rbx/rojo",
@@ -47,7 +47,7 @@
       "description": "Shortly USSI. A universal saveinstance revival. This can also be edited and used as a Roblox-Format-File writer.",
       "language": "Luau",
       "languageColor": "#00A2FF",
-      "stars": "195",
+      "stars": "194",
       "forks": "77",
       "addStars": "18",
       "contributors": [

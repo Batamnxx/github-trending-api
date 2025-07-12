@@ -2,77 +2,8 @@
   "title": "GitHub Common-lisp Languages Weekly Trending",
   "description": "Weekly Trending of Common-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 12 Jul 2025 07:23:17 GMT",
+  "pubDate": "Sat, 12 Jul 2025 13:28:27 GMT",
   "items": [
-    {
-      "title": "coalton-lang/coalton",
-      "url": "https://github.com/coalton-lang/coalton",
-      "description": "Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.",
-      "language": "Common Lisp",
-      "languageColor": "#3fb68b",
-      "stars": "1,378",
-      "forks": "78",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6886632?s=40&v=4",
-          "name": "eliaslfox",
-          "url": "https://github.com/eliaslfox"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/415150?s=40&v=4",
-          "name": "stylewarning",
-          "url": "https://github.com/stylewarning"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5684605?s=40&v=4",
-          "name": "colescott",
-          "url": "https://github.com/colescott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22351221?s=40&v=4",
-          "name": "YarinHeffes",
-          "url": "https://github.com/YarinHeffes"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1343134?s=40&v=4",
-          "name": "jbouwman",
-          "url": "https://github.com/jbouwman"
-        }
-      ]
-    },
-    {
-      "title": "rabbibotton/clog",
-      "url": "https://github.com/rabbibotton/clog",
-      "description": "CLOG - The Common Lisp Omnificent GUI",
-      "language": "Common Lisp",
-      "languageColor": "#3fb68b",
-      "stars": "1,649",
-      "forks": "113",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11616789?s=40&v=4",
-          "name": "rabbibotton",
-          "url": "https://github.com/rabbibotton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77715552?s=40&v=4",
-          "name": "shakatoday",
-          "url": "https://github.com/shakatoday"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/436110?s=40&v=4",
-          "name": "mmontone",
-          "url": "https://github.com/mmontone"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34456368?s=40&v=4",
-          "name": "b-tach",
-          "url": "https://github.com/b-tach"
-        }
-      ]
-    },
     {
       "title": "dimitri/pgloader",
       "url": "https://github.com/dimitri/pgloader",
@@ -111,6 +42,43 @@
       ]
     },
     {
+      "title": "coalton-lang/coalton",
+      "url": "https://github.com/coalton-lang/coalton",
+      "description": "Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.",
+      "language": "Common Lisp",
+      "languageColor": "#3fb68b",
+      "stars": "1,378",
+      "forks": "78",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6886632?s=40&v=4",
+          "name": "eliaslfox",
+          "url": "https://github.com/eliaslfox"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/415150?s=40&v=4",
+          "name": "stylewarning",
+          "url": "https://github.com/stylewarning"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5684605?s=40&v=4",
+          "name": "colescott",
+          "url": "https://github.com/colescott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22351221?s=40&v=4",
+          "name": "YarinHeffes",
+          "url": "https://github.com/YarinHeffes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1343134?s=40&v=4",
+          "name": "jbouwman",
+          "url": "https://github.com/jbouwman"
+        }
+      ]
+    },
+    {
       "title": "open-goal/jak-project",
       "url": "https://github.com/open-goal/jak-project",
       "description": "Reviving the language that brought us the Jak & Daxter Series",
@@ -139,6 +107,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/6624576?s=40&v=4",
           "name": "Hat-Kid",
           "url": "https://github.com/Hat-Kid"
+        }
+      ]
+    },
+    {
+      "title": "atlas-engineer/nyxt",
+      "url": "https://github.com/atlas-engineer/nyxt",
+      "description": "Nyxt - the hacker's browser.",
+      "language": "Common Lisp",
+      "languageColor": "#3fb68b",
+      "stars": "10,504",
+      "forks": "439",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1489143?s=40&v=4",
+          "name": "Ambrevar",
+          "url": "https://github.com/Ambrevar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1691662?s=40&v=4",
+          "name": "jmercouris",
+          "url": "https://github.com/jmercouris"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57838654?s=40&v=4",
+          "name": "aartaka",
+          "url": "https://github.com/aartaka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45483512?s=40&v=4",
+          "name": "aadcg",
+          "url": "https://github.com/aadcg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3721004?s=40&v=4",
+          "name": "vindarel",
+          "url": "https://github.com/vindarel"
         }
       ]
     }

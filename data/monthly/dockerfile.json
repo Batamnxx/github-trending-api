@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 14 Jul 2025 07:28:18 GMT",
+  "pubDate": "Mon, 14 Jul 2025 13:35:52 GMT",
   "items": [
     {
       "title": "mikeroyal/Self-Hosting-Guide",
@@ -10,8 +10,8 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "15,623",
-      "forks": "784",
+      "stars": "15,624",
+      "forks": "783",
       "addStars": "2,090",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "695",
-      "forks": "1,218",
+      "forks": "1,221",
       "addStars": "52",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "19,164",
+      "stars": "19,166",
       "forks": "4,659",
       "addStars": "170",
       "contributors": [
@@ -153,8 +153,8 @@
       "description": "✅ The Node.js best practices list (July 2024)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "103,373",
-      "forks": "10,504",
+      "stars": "103,377",
+      "forks": "10,505",
       "addStars": "411",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "8,116",
+      "stars": "8,117",
       "forks": "1,448",
       "addStars": "89",
       "contributors": [
@@ -222,8 +222,8 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "10,165",
-      "forks": "3,304",
+      "stars": "10,166",
+      "forks": "3,305",
       "addStars": "105",
       "contributors": [
         {
@@ -244,7 +244,7 @@
       "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "3,902",
+      "stars": "3,903",
       "forks": "354",
       "addStars": "35",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "Official container images for .NET",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "4,699",
+      "stars": "4,700",
       "forks": "1,962",
       "addStars": "18",
       "contributors": [
@@ -387,13 +387,40 @@
       ]
     },
     {
+      "title": "bufbuild/plugins",
+      "url": "https://github.com/bufbuild/plugins",
+      "description": "Remote Protobuf plugins available on the BSR",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "60",
+      "forks": "16",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/398111?s=40&v=4",
+          "name": "pkwarren",
+          "url": "https://github.com/pkwarren"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6278244?s=40&v=4",
+          "name": "mfridman",
+          "url": "https://github.com/mfridman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/622527?s=40&v=4",
+          "name": "stefanvanburen",
+          "url": "https://github.com/stefanvanburen"
+        }
+      ]
+    },
+    {
       "title": "kubernetes-sigs/contributor-playground",
       "url": "https://github.com/kubernetes-sigs/contributor-playground",
       "description": "",
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "245",
-      "forks": "1,493",
+      "forks": "1,494",
       "addStars": "5",
       "contributors": [
         {
@@ -424,29 +451,34 @@
       ]
     },
     {
-      "title": "bufbuild/plugins",
-      "url": "https://github.com/bufbuild/plugins",
-      "description": "Remote Protobuf plugins available on the BSR",
+      "title": "LinkedInLearning/level-up-advanced-sql-4311094",
+      "url": "https://github.com/LinkedInLearning/level-up-advanced-sql-4311094",
+      "description": "This repo is for the Linkedin Learning course: Level Up: Advanced SQL",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "60",
-      "forks": "16",
+      "stars": "61",
+      "forks": "1,145",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/398111?s=40&v=4",
-          "name": "pkwarren",
-          "url": "https://github.com/pkwarren"
+          "avatar": "https://avatars.githubusercontent.com/u/981370?s=40&v=4",
+          "name": "jpomfret",
+          "url": "https://github.com/jpomfret"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6278244?s=40&v=4",
-          "name": "mfridman",
-          "url": "https://github.com/mfridman"
+          "avatar": "https://avatars.githubusercontent.com/u/28540243?s=40&v=4",
+          "name": "smoser-LiL",
+          "url": "https://github.com/smoser-LiL"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/622527?s=40&v=4",
-          "name": "stefanvanburen",
-          "url": "https://github.com/stefanvanburen"
+          "avatar": "https://avatars.githubusercontent.com/u/88352515?s=40&v=4",
+          "name": "cmosier-LiL",
+          "url": "https://github.com/cmosier-LiL"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25848438?s=40&v=4",
+          "name": "LinkedIn-Learning-A1",
+          "url": "https://github.com/LinkedIn-Learning-A1"
         }
       ]
     },
@@ -456,7 +488,7 @@
       "description": "",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "1,082",
+      "stars": "1,083",
       "forks": "1,648",
       "addStars": "18",
       "contributors": [
@@ -484,38 +516,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/76367?s=40&v=4",
           "name": "md5",
           "url": "https://github.com/md5"
-        }
-      ]
-    },
-    {
-      "title": "LinkedInLearning/level-up-advanced-sql-4311094",
-      "url": "https://github.com/LinkedInLearning/level-up-advanced-sql-4311094",
-      "description": "This repo is for the Linkedin Learning course: Level Up: Advanced SQL",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "61",
-      "forks": "1,144",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/981370?s=40&v=4",
-          "name": "jpomfret",
-          "url": "https://github.com/jpomfret"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28540243?s=40&v=4",
-          "name": "smoser-LiL",
-          "url": "https://github.com/smoser-LiL"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88352515?s=40&v=4",
-          "name": "cmosier-LiL",
-          "url": "https://github.com/cmosier-LiL"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25848438?s=40&v=4",
-          "name": "LinkedIn-Learning-A1",
-          "url": "https://github.com/LinkedIn-Learning-A1"
         }
       ]
     }

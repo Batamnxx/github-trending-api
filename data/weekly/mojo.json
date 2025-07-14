@@ -2,7 +2,7 @@
   "title": "GitHub Mojo Languages Weekly Trending",
   "description": "Weekly Trending of Mojo Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 13 Jul 2025 19:19:19 GMT",
+  "pubDate": "Mon, 14 Jul 2025 03:03:32 GMT",
   "items": [
     {
       "title": "modular/modular",
@@ -10,9 +10,9 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "24,491",
+      "stars": "24,492",
       "forks": "2,659",
-      "addStars": "56",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",

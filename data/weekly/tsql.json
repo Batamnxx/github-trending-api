@@ -2,7 +2,7 @@
   "title": "GitHub Tsql Languages Weekly Trending",
   "description": "Weekly Trending of Tsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 14 Jul 2025 13:35:52 GMT",
+  "pubDate": "Mon, 14 Jul 2025 19:19:22 GMT",
   "items": [
     {
       "title": "microsoft/Windows-appsample-customers-orders-database",
@@ -153,8 +153,8 @@
       "description": "Cybersecurity Evaluation Tool",
       "language": "TSQL",
       "languageColor": "#e38c00",
-      "stars": "1,598",
-      "forks": "287",
+      "stars": "1,599",
+      "forks": "288",
       "addStars": "3",
       "contributors": [
         {

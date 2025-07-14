@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 14 Jul 2025 13:35:52 GMT",
+  "pubDate": "Mon, 14 Jul 2025 19:19:22 GMT",
   "items": [
     {
       "title": "anthropics/claude-code",
@@ -10,8 +10,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "21,335",
-      "forks": "1,178",
+      "stars": "21,785",
+      "forks": "1,199",
       "addStars": "1,930",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,856",
-      "forks": "3,235",
+      "stars": "61,079",
+      "forks": "3,257",
       "addStars": "492",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "55,846",
-      "forks": "3,572",
+      "stars": "55,932",
+      "forks": "3,575",
       "addStars": "306",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,858",
-      "forks": "4,124",
+      "stars": "26,902",
+      "forks": "4,128",
       "addStars": "246",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Next.js Commerce",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,025",
-      "forks": "4,873",
+      "stars": "13,078",
+      "forks": "4,878",
       "addStars": "360",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,963",
-      "forks": "5,523",
+      "stars": "34,056",
+      "forks": "5,530",
       "addStars": "374",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "105,149",
-      "forks": "10,985",
+      "stars": "105,291",
+      "forks": "10,991",
       "addStars": "719",
       "contributors": [
         {
@@ -269,9 +269,9 @@
       "description": "Virtual Machine for the Web",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "14,769",
-      "forks": "2,636",
-      "addStars": "143",
+      "stars": "14,862",
+      "forks": "2,643",
+      "addStars": "160",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/191061?s=40&v=4",
@@ -306,9 +306,9 @@
       "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,606",
-      "forks": "111",
-      "addStars": "240",
+      "stars": "1,730",
+      "forks": "122",
+      "addStars": "264",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4875137?s=40&v=4",
@@ -343,8 +343,8 @@
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "language": "",
       "languageColor": "",
-      "stars": "177,718",
-      "forks": "11,075",
+      "stars": "177,823",
+      "forks": "11,086",
       "addStars": "775",
       "contributors": [
         {
@@ -380,8 +380,8 @@
       "description": "Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,424",
-      "forks": "139",
+      "stars": "1,483",
+      "forks": "142",
       "addStars": "103",
       "contributors": [
         {
@@ -417,9 +417,9 @@
       "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,851",
-      "forks": "296",
-      "addStars": "136",
+      "stars": "3,970",
+      "forks": "306",
+      "addStars": "403",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21162426?s=40&v=4",
@@ -449,9 +449,9 @@
       "description": "KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,026",
-      "forks": "122",
-      "addStars": "49",
+      "stars": "2,095",
+      "forks": "126",
+      "addStars": "99",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9092682?s=40&v=4",
@@ -481,8 +481,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "82,414",
-      "forks": "9,136",
+      "stars": "82,468",
+      "forks": "9,139",
       "addStars": "90",
       "contributors": [
         {
@@ -518,8 +518,8 @@
       "description": "Build Real-Time Knowledge Graphs for AI Agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,153",
-      "forks": "1,104",
+      "stars": "13,225",
+      "forks": "1,113",
       "addStars": "333",
       "contributors": [
         {

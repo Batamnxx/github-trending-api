@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 14 Jul 2025 13:35:52 GMT",
+  "pubDate": "Mon, 14 Jul 2025 19:19:22 GMT",
   "items": [
     {
       "title": "vercel/commerce",
@@ -10,8 +10,8 @@
       "description": "Next.js Commerce",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,027",
-      "forks": "4,873",
+      "stars": "13,081",
+      "forks": "4,878",
       "addStars": "360",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,858",
-      "forks": "297",
-      "addStars": "136",
+      "stars": "3,973",
+      "forks": "306",
+      "addStars": "403",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21162426?s=40&v=4",
@@ -79,8 +79,8 @@
       "description": "The AI Browser Automation Framework",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,902",
-      "forks": "831",
+      "stars": "13,919",
+      "forks": "832",
       "addStars": "373",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Build your personal knowledge base with Trilium Notes",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,465",
+      "stars": "29,470",
       "forks": "1,978",
       "addStars": "24",
       "contributors": [
@@ -148,9 +148,9 @@
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "70,364",
-      "forks": "3,703",
-      "addStars": "69",
+      "stars": "70,386",
+      "forks": "3,707",
+      "addStars": "100",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
@@ -180,8 +180,8 @@
       "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "39,721",
-      "forks": "2,661",
+      "stars": "39,742",
+      "forks": "2,662",
       "addStars": "314",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "Free, simple, fast interactive diagrams for any GitHub repository",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,776",
+      "stars": "13,778",
       "forks": "1,003",
       "addStars": "15",
       "contributors": [
@@ -239,7 +239,7 @@
       "description": "Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,567",
+      "stars": "10,620",
       "forks": "842",
       "addStars": "80",
       "contributors": [
@@ -261,8 +261,8 @@
       "description": "Secure AI-powered meeting notetaker that runs on your device and keeps your data private.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,655",
-      "forks": "148",
+      "stars": "2,656",
+      "forks": "149",
       "addStars": "23",
       "contributors": [
         {
@@ -298,9 +298,9 @@
       "description": "🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,656",
+      "stars": "12,658",
       "forks": "785",
-      "addStars": "7",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6882794?s=40&v=4",
@@ -330,8 +330,8 @@
       "description": "Open source codebase powering the HuggingChat app",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,951",
-      "forks": "1,386",
+      "stars": "8,954",
+      "forks": "1,387",
       "addStars": "5",
       "contributors": [
         {
@@ -367,7 +367,7 @@
       "description": "THE Copilot in Obsidian",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,953",
+      "stars": "4,955",
       "forks": "406",
       "addStars": "7",
       "contributors": [
@@ -404,7 +404,7 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "515",
+      "stars": "520",
       "forks": "74",
       "addStars": "22",
       "contributors": [
@@ -426,9 +426,9 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "422,905",
-      "forks": "40,755",
-      "addStars": "147",
+      "stars": "422,939",
+      "forks": "40,758",
+      "addStars": "128",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15801806?s=40&v=4",

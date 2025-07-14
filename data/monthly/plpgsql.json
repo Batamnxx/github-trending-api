@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Monthly Trending",
   "description": "Monthly Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 14 Jul 2025 13:35:52 GMT",
+  "pubDate": "Mon, 14 Jul 2025 19:19:22 GMT",
   "items": [
     {
       "title": "pgmq/pgmq",
@@ -10,7 +10,7 @@
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "3,408",
+      "stars": "3,409",
       "forks": "96",
       "addStars": "118",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Partition management extension for PostgreSQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "2,361",
-      "forks": "295",
+      "stars": "2,362",
+      "forks": "296",
       "addStars": "31",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "OpenMapTiles Vector Tile Schema Implementation",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "2,767",
-      "forks": "624",
+      "stars": "2,768",
+      "forks": "625",
       "addStars": "33",
       "contributors": [
         {
@@ -217,7 +217,7 @@
       "description": "Supabase Postgres Linter: Performance and Security Advisors",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "149",
+      "stars": "150",
       "forks": "41",
       "addStars": "12",
       "contributors": [

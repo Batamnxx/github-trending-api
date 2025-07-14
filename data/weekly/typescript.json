@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 14 Jul 2025 13:35:52 GMT",
+  "pubDate": "Mon, 14 Jul 2025 19:19:22 GMT",
   "items": [
     {
       "title": "humanlayer/12-factor-agents",
@@ -10,8 +10,8 @@
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,746",
-      "forks": "557",
+      "stars": "8,777",
+      "forks": "561",
       "addStars": "2,554",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "YouTube Music Desktop App bundled with custom plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,809",
+      "stars": "25,837",
       "forks": "1,405",
       "addStars": "2,665",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "🧡 Follow everything in one place",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,189",
-      "forks": "1,305",
+      "stars": "29,218",
+      "forks": "1,309",
       "addStars": "1,422",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "MCP server that provides tools and resources for interacting with n8n API",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "871",
-      "forks": "143",
+      "stars": "873",
+      "forks": "145",
       "addStars": "128",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,960",
-      "forks": "305",
+      "stars": "1,963",
+      "forks": "304",
       "addStars": "188",
       "contributors": [
         {
@@ -165,8 +165,8 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "422,905",
-      "forks": "40,755",
+      "stars": "422,939",
+      "forks": "40,758",
       "addStars": "744",
       "contributors": [
         {
@@ -197,8 +197,8 @@
       "description": "Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,873",
-      "forks": "722",
+      "stars": "4,875",
+      "forks": "724",
       "addStars": "711",
       "contributors": [
         {
@@ -234,8 +234,8 @@
       "description": "Autonomous agents for everyone",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,390",
-      "forks": "5,276",
+      "stars": "16,393",
+      "forks": "5,277",
       "addStars": "207",
       "contributors": [
         {
@@ -271,7 +271,7 @@
       "description": "Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,819",
+      "stars": "11,820",
       "forks": "1,967",
       "addStars": "21",
       "contributors": [
@@ -303,8 +303,8 @@
       "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,181",
-      "forks": "1,335",
+      "stars": "19,184",
+      "forks": "1,336",
       "addStars": "290",
       "contributors": [
         {
@@ -340,8 +340,8 @@
       "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "67,644",
-      "forks": "8,718",
+      "stars": "67,646",
+      "forks": "8,721",
       "addStars": "379",
       "contributors": [
         {
@@ -377,8 +377,8 @@
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,342",
-      "forks": "641",
+      "stars": "10,344",
+      "forks": "642",
       "addStars": "146",
       "contributors": [
         {
@@ -409,13 +409,45 @@
       ]
     },
     {
+      "title": "satnaing/shadcn-admin",
+      "url": "https://github.com/satnaing/shadcn-admin",
+      "description": "Admin Dashboard UI built with Shadcn and Vite.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "8,652",
+      "forks": "1,239",
+      "addStars": "173",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53733092?s=40&v=4",
+          "name": "satnaing",
+          "url": "https://github.com/satnaing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48623037?s=40&v=4",
+          "name": "rakrisi",
+          "url": "https://github.com/rakrisi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/94442302?s=40&v=4",
+          "name": "devshinthant",
+          "url": "https://github.com/devshinthant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96884053?s=40&v=4",
+          "name": "AliAkrem",
+          "url": "https://github.com/AliAkrem"
+        }
+      ]
+    },
+    {
       "title": "Kilo-Org/kilocode",
       "url": "https://github.com/Kilo-Org/kilocode",
       "description": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,477",
-      "forks": "360",
+      "stars": "4,504",
+      "forks": "362",
       "addStars": "726",
       "contributors": [
         {

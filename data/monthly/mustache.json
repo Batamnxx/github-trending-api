@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Monthly Trending",
   "description": "Monthly Trending of Mustache Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 14 Jul 2025 03:03:32 GMT",
+  "pubDate": "Mon, 14 Jul 2025 07:28:18 GMT",
   "items": [
     {
       "title": "amzn/selling-partner-api-models",
@@ -240,11 +240,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/21042968?s=40&v=4",
           "name": "mbevc1",
           "url": "https://github.com/mbevc1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35014?s=40&v=4",
-          "name": "jmeridth",
-          "url": "https://github.com/jmeridth"
         }
       ]
     },

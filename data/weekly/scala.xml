@@ -3,7 +3,7 @@
     <title>GitHub Scala Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Scala Languages in GitHub</description>
-    <pubDate>Tue, 15 Jul 2025 13:36:39 GMT</pubDate>
+    <pubDate>Tue, 15 Jul 2025 19:21:17 GMT</pubDate>
     <item>
       <title>apache/spark</title>
       <link>https://github.com/apache/spark</link>
@@ -704,7 +704,7 @@
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
       <stars>12,580</stars>
-      <forks>4,095</forks>
+      <forks>4,094</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>

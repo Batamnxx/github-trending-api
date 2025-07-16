@@ -2,7 +2,7 @@
   "title": "GitHub Handlebars Languages Weekly Trending",
   "description": "Weekly Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 15 Jul 2025 19:21:17 GMT",
+  "pubDate": "Wed, 16 Jul 2025 02:58:46 GMT",
   "items": [
     {
       "title": "huggingface/hub-docs",
@@ -81,7 +81,7 @@
       "languageColor": "#f7931e",
       "stars": "979",
       "forks": "198",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25163139?s=40&v=4",
@@ -111,8 +111,8 @@
       "description": "Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data",
       "language": "Handlebars",
       "languageColor": "#f7931e",
-      "stars": "210",
-      "forks": "5,800",
+      "stars": "211",
+      "forks": "5,803",
       "addStars": "2",
       "contributors": [
         {

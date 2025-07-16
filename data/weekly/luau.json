@@ -2,7 +2,7 @@
   "title": "GitHub Luau Languages Weekly Trending",
   "description": "Weekly Trending of Luau Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Jul 2025 13:37:23 GMT",
+  "pubDate": "Wed, 16 Jul 2025 19:21:03 GMT",
   "items": [
     {
       "title": "luau/UniversalSynSaveInstance",
@@ -11,7 +11,7 @@
       "language": "Luau",
       "languageColor": "#00A2FF",
       "stars": "196",
-      "forks": "79",
+      "forks": "80",
       "addStars": "2",
       "contributors": [
         {

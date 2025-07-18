@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Javascript Languages in GitHub</description>
-    <pubDate>Fri, 18 Jul 2025 07:27:19 GMT</pubDate>
+    <pubDate>Fri, 18 Jul 2025 13:36:30 GMT</pubDate>
     <item>
       <title>gorhill/uBlock</title>
       <link>https://github.com/gorhill/uBlock</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/gorhill/uBlock</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>56,315</stars>
+      <stars>56,339</stars>
       <forks>3,591</forks>
       <addStars>1,321</addStars>
       <contributors>
@@ -43,51 +43,13 @@
       </contributors>
     </item>
     <item>
-      <title>ToolJet/ToolJet</title>
-      <link>https://github.com/ToolJet/ToolJet</link>
-      <description>Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀</description>
-      <guid>https://github.com/ToolJet/ToolJet</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>36,141</stars>
-      <forks>4,691</forks>
-      <addStars>182</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7828962?s=40&amp;v=4</avatar>
-          <name>Navaneeth-pk</name>
-          <url>https://github.com/Navaneeth-pk</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/67645175?s=40&amp;v=4</avatar>
-          <name>arpitnath</name>
-          <url>https://github.com/arpitnath</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11629675?s=40&amp;v=4</avatar>
-          <name>akshaysasidrn</name>
-          <url>https://github.com/akshaysasidrn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44204658?s=40&amp;v=4</avatar>
-          <name>adishM98</name>
-          <url>https://github.com/adishM98</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/57667706?s=40&amp;v=4</avatar>
-          <name>johnsoncherian</name>
-          <url>https://github.com/johnsoncherian</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>bluewave-labs/Checkmate</title>
       <link>https://github.com/bluewave-labs/Checkmate</link>
       <description>Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)</description>
       <guid>https://github.com/bluewave-labs/Checkmate</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>6,853</stars>
+      <stars>6,856</stars>
       <forks>446</forks>
       <addStars>735</addStars>
       <contributors>
@@ -125,8 +87,8 @@
       <guid>https://github.com/Mintplex-Labs/anything-llm</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>46,699</stars>
-      <forks>4,722</forks>
+      <stars>46,712</stars>
+      <forks>4,726</forks>
       <addStars>381</addStars>
       <contributors>
         <contributor>
@@ -157,139 +119,40 @@
       </contributors>
     </item>
     <item>
-      <title>GitSquared/edex-ui</title>
-      <link>https://github.com/GitSquared/edex-ui</link>
-      <description>A cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support.</description>
-      <guid>https://github.com/GitSquared/edex-ui</guid>
+      <title>nodejs/node</title>
+      <link>https://github.com/nodejs/node</link>
+      <description>Node.js JavaScript runtime ✨🐢🚀✨</description>
+      <guid>https://github.com/nodejs/node</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>42,621</stars>
-      <forks>2,776</forks>
-      <addStars>133</addStars>
+      <stars>112,255</stars>
+      <forks>32,181</forks>
+      <addStars>160</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24496417?s=40&amp;v=4</avatar>
-          <name>GitSquared</name>
-          <url>https://github.com/GitSquared</url>
+          <avatar>https://avatars.githubusercontent.com/u/718899?s=40&amp;v=4</avatar>
+          <name>Trott</name>
+          <url>https://github.com/Trott</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36207117?s=40&amp;v=4</avatar>
-          <name>dependabot-bot</name>
-          <url>https://github.com/dependabot-bot</url>
+          <avatar>https://avatars.githubusercontent.com/u/80?s=40&amp;v=4</avatar>
+          <name>ry</name>
+          <url>https://github.com/ry</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14790466?s=40&amp;v=4</avatar>
-          <name>greenkeeperio-bot</name>
-          <url>https://github.com/greenkeeperio-bot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>NaiboWang/EasySpider</title>
-      <link>https://github.com/NaiboWang/EasySpider</link>
-      <description>A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。</description>
-      <guid>https://github.com/NaiboWang/EasySpider</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>40,681</stars>
-      <forks>4,990</forks>
-      <addStars>357</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30287768?s=40&amp;v=4</avatar>
-          <name>NaiboWang</name>
-          <url>https://github.com/NaiboWang</url>
+          <avatar>https://avatars.githubusercontent.com/u/275871?s=40&amp;v=4</avatar>
+          <name>bnoordhuis</name>
+          <url>https://github.com/bnoordhuis</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/61647484?s=40&amp;v=4</avatar>
-          <name>touero</name>
-          <url>https://github.com/touero</url>
+          <avatar>https://avatars.githubusercontent.com/u/9287?s=40&amp;v=4</avatar>
+          <name>isaacs</name>
+          <url>https://github.com/isaacs</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32584979?s=40&amp;v=4</avatar>
-          <name>zhyim0712</name>
-          <url>https://github.com/zhyim0712</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1769875?s=40&amp;v=4</avatar>
-          <name>yfdyh000</name>
-          <url>https://github.com/yfdyh000</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>vercel/next.js</title>
-      <link>https://github.com/vercel/next.js</link>
-      <description>The React Framework</description>
-      <guid>https://github.com/vercel/next.js</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>133,254</stars>
-      <forks>28,867</forks>
-      <addStars>245</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22380829?s=40&amp;v=4</avatar>
-          <name>ijjk</name>
-          <url>https://github.com/ijjk</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6324199?s=40&amp;v=4</avatar>
-          <name>timneutkens</name>
-          <url>https://github.com/timneutkens</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1365881?s=40&amp;v=4</avatar>
-          <name>sokra</name>
-          <url>https://github.com/sokra</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/88769842?s=40&amp;v=4</avatar>
-          <name>vercel-release-bot</name>
-          <url>https://github.com/vercel-release-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/616428?s=40&amp;v=4</avatar>
-          <name>Timer</name>
-          <url>https://github.com/Timer</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>louislam/uptime-kuma</title>
-      <link>https://github.com/louislam/uptime-kuma</link>
-      <description>A fancy self-hosted monitoring tool</description>
-      <guid>https://github.com/louislam/uptime-kuma</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>72,049</stars>
-      <forks>6,389</forks>
-      <addStars>329</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1336778?s=40&amp;v=4</avatar>
-          <name>louislam</name>
-          <url>https://github.com/louislam</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3271800?s=40&amp;v=4</avatar>
-          <name>chakflying</name>
-          <url>https://github.com/chakflying</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26258709?s=40&amp;v=4</avatar>
-          <name>CommanderStorm</name>
-          <url>https://github.com/CommanderStorm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/905878?s=40&amp;v=4</avatar>
-          <name>Saibamen</name>
-          <url>https://github.com/Saibamen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/67638596?s=40&amp;v=4</avatar>
-          <name>Computroniks</name>
-          <url>https://github.com/Computroniks</url>
+          <avatar>https://avatars.githubusercontent.com/u/899444?s=40&amp;v=4</avatar>
+          <name>addaleax</name>
+          <url>https://github.com/addaleax</url>
         </contributor>
       </contributors>
     </item>
@@ -300,8 +163,8 @@
       <guid>https://github.com/leaningtech/webvm</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>15,204</stars>
-      <forks>2,680</forks>
+      <stars>15,216</stars>
+      <forks>2,685</forks>
       <addStars>743</addStars>
       <contributors>
         <contributor>
@@ -328,6 +191,72 @@
           <avatar>https://avatars.githubusercontent.com/u/2992193?s=40&amp;v=4</avatar>
           <name>sere</name>
           <url>https://github.com/sere</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>GitSquared/edex-ui</title>
+      <link>https://github.com/GitSquared/edex-ui</link>
+      <description>A cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support.</description>
+      <guid>https://github.com/GitSquared/edex-ui</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>42,624</stars>
+      <forks>2,777</forks>
+      <addStars>133</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24496417?s=40&amp;v=4</avatar>
+          <name>GitSquared</name>
+          <url>https://github.com/GitSquared</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36207117?s=40&amp;v=4</avatar>
+          <name>dependabot-bot</name>
+          <url>https://github.com/dependabot-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14790466?s=40&amp;v=4</avatar>
+          <name>greenkeeperio-bot</name>
+          <url>https://github.com/greenkeeperio-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>vercel/next.js</title>
+      <link>https://github.com/vercel/next.js</link>
+      <description>The React Framework</description>
+      <guid>https://github.com/vercel/next.js</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>133,262</stars>
+      <forks>28,866</forks>
+      <addStars>245</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22380829?s=40&amp;v=4</avatar>
+          <name>ijjk</name>
+          <url>https://github.com/ijjk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6324199?s=40&amp;v=4</avatar>
+          <name>timneutkens</name>
+          <url>https://github.com/timneutkens</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1365881?s=40&amp;v=4</avatar>
+          <name>sokra</name>
+          <url>https://github.com/sokra</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/88769842?s=40&amp;v=4</avatar>
+          <name>vercel-release-bot</name>
+          <url>https://github.com/vercel-release-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/616428?s=40&amp;v=4</avatar>
+          <name>Timer</name>
+          <url>https://github.com/Timer</url>
         </contributor>
       </contributors>
     </item>
@@ -370,14 +299,108 @@
       </contributors>
     </item>
     <item>
+      <title>academind/react-complete-guide-course-resources</title>
+      <link>https://github.com/academind/react-complete-guide-course-resources</link>
+      <description>React - The Complete Guide Course Resources (Code, Attachments, Slides)</description>
+      <guid>https://github.com/academind/react-complete-guide-course-resources</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>3,298</stars>
+      <forks>2,545</forks>
+      <addStars>28</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28806196?s=40&amp;v=4</avatar>
+          <name>maxschwarzmueller</name>
+          <url>https://github.com/maxschwarzmueller</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26225174?s=40&amp;v=4</avatar>
+          <name>unsivilaudio</name>
+          <url>https://github.com/unsivilaudio</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>NaiboWang/EasySpider</title>
+      <link>https://github.com/NaiboWang/EasySpider</link>
+      <description>A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。</description>
+      <guid>https://github.com/NaiboWang/EasySpider</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>40,687</stars>
+      <forks>4,990</forks>
+      <addStars>357</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30287768?s=40&amp;v=4</avatar>
+          <name>NaiboWang</name>
+          <url>https://github.com/NaiboWang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/61647484?s=40&amp;v=4</avatar>
+          <name>touero</name>
+          <url>https://github.com/touero</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32584979?s=40&amp;v=4</avatar>
+          <name>zhyim0712</name>
+          <url>https://github.com/zhyim0712</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1769875?s=40&amp;v=4</avatar>
+          <name>yfdyh000</name>
+          <url>https://github.com/yfdyh000</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ToolJet/ToolJet</title>
+      <link>https://github.com/ToolJet/ToolJet</link>
+      <description>Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀</description>
+      <guid>https://github.com/ToolJet/ToolJet</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>36,144</stars>
+      <forks>4,691</forks>
+      <addStars>182</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7828962?s=40&amp;v=4</avatar>
+          <name>Navaneeth-pk</name>
+          <url>https://github.com/Navaneeth-pk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/67645175?s=40&amp;v=4</avatar>
+          <name>arpitnath</name>
+          <url>https://github.com/arpitnath</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11629675?s=40&amp;v=4</avatar>
+          <name>akshaysasidrn</name>
+          <url>https://github.com/akshaysasidrn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/44204658?s=40&amp;v=4</avatar>
+          <name>adishM98</name>
+          <url>https://github.com/adishM98</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/57667706?s=40&amp;v=4</avatar>
+          <name>johnsoncherian</name>
+          <url>https://github.com/johnsoncherian</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>facebook/react</title>
       <link>https://github.com/facebook/react</link>
       <description>The library for web and native user interfaces.</description>
       <guid>https://github.com/facebook/react</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>237,363</stars>
-      <forks>48,945</forks>
+      <stars>237,371</stars>
+      <forks>48,953</forks>
       <addStars>289</addStars>
       <contributors>
         <contributor>
@@ -408,13 +431,51 @@
       </contributors>
     </item>
     <item>
+      <title>louislam/uptime-kuma</title>
+      <link>https://github.com/louislam/uptime-kuma</link>
+      <description>A fancy self-hosted monitoring tool</description>
+      <guid>https://github.com/louislam/uptime-kuma</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>72,059</stars>
+      <forks>6,390</forks>
+      <addStars>329</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1336778?s=40&amp;v=4</avatar>
+          <name>louislam</name>
+          <url>https://github.com/louislam</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3271800?s=40&amp;v=4</avatar>
+          <name>chakflying</name>
+          <url>https://github.com/chakflying</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26258709?s=40&amp;v=4</avatar>
+          <name>CommanderStorm</name>
+          <url>https://github.com/CommanderStorm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/905878?s=40&amp;v=4</avatar>
+          <name>Saibamen</name>
+          <url>https://github.com/Saibamen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/67638596?s=40&amp;v=4</avatar>
+          <name>Computroniks</name>
+          <url>https://github.com/Computroniks</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>CesiumGS/cesium</title>
       <link>https://github.com/CesiumGS/cesium</link>
       <description>An open-source JavaScript library for world-class 3D globes and maps 🌎</description>
       <guid>https://github.com/CesiumGS/cesium</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>14,029</stars>
+      <stars>14,031</stars>
       <forks>3,638</forks>
       <addStars>150</addStars>
       <contributors>
@@ -442,67 +503,6 @@
           <avatar>https://avatars.githubusercontent.com/u/4439461?s=40&amp;v=4</avatar>
           <name>ggetz</name>
           <url>https://github.com/ggetz</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>pollinations/pollinations</title>
-      <link>https://github.com/pollinations/pollinations</link>
-      <description>Free Open-Source Image and Text Generation</description>
-      <guid>https://github.com/pollinations/pollinations</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>2,487</stars>
-      <forks>288</forks>
-      <addStars>122</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5099901?s=40&amp;v=4</avatar>
-          <name>voodoohop</name>
-          <url>https://github.com/voodoohop</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/85608868?s=40&amp;v=4</avatar>
-          <name>ale-rls</name>
-          <url>https://github.com/ale-rls</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36901823?s=40&amp;v=4</avatar>
-          <name>ElliotEtag</name>
-          <url>https://github.com/ElliotEtag</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/378888?s=40&amp;v=4</avatar>
-          <name>gokaykucuk</name>
-          <url>https://github.com/gokaykucuk</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>maboloshi/github-chinese</title>
-      <link>https://github.com/maboloshi/github-chinese</link>
-      <description>GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)</description>
-      <guid>https://github.com/maboloshi/github-chinese</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>13,959</stars>
-      <forks>750</forks>
-      <addStars>314</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7850715?s=40&amp;v=4</avatar>
-          <name>maboloshi</name>
-          <url>https://github.com/maboloshi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5033310?s=40&amp;v=4</avatar>
-          <name>52cik</name>
-          <url>https://github.com/52cik</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/88823709?s=40&amp;v=4</avatar>
-          <name>TC999</name>
-          <url>https://github.com/TC999</url>
         </contributor>
       </contributors>
     </item>

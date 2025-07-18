@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Monthly Trending",
   "description": "Monthly Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 18 Jul 2025 13:36:30 GMT",
+  "pubDate": "Fri, 18 Jul 2025 19:20:22 GMT",
   "items": [
     {
       "title": "openembedded/meta-openembedded",
@@ -215,14 +215,14 @@
           "url": "https://github.com/ichergui"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/227565?s=40&v=4",
-          "name": "dwalkes",
-          "url": "https://github.com/dwalkes"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/465279?s=40&v=4",
           "name": "kraj",
           "url": "https://github.com/kraj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/227565?s=40&v=4",
+          "name": "dwalkes",
+          "url": "https://github.com/dwalkes"
         }
       ]
     },

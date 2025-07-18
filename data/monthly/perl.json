@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 18 Jul 2025 13:36:30 GMT",
+  "pubDate": "Fri, 18 Jul 2025 19:20:22 GMT",
   "items": [
     {
       "title": "OpenKore/openkore",
@@ -11,7 +11,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": "1,380",
-      "forks": "1,154",
+      "forks": "1,155",
       "addStars": "25",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "18,495",
+      "stars": "18,496",
       "forks": "2,037",
       "addStars": "168",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,101",
+      "stars": "3,100",
       "forks": "133",
       "addStars": "51",
       "contributors": [
@@ -380,7 +380,7 @@
       "description": "A fast PostgreSQL Log Analyzer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,770",
+      "stars": "3,771",
       "forks": "360",
       "addStars": "28",
       "contributors": [

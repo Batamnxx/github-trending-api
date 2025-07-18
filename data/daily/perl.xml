@@ -3,7 +3,7 @@
     <title>GitHub Perl Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Perl Languages in GitHub</description>
-    <pubDate>Fri, 18 Jul 2025 13:36:30 GMT</pubDate>
+    <pubDate>Fri, 18 Jul 2025 19:20:22 GMT</pubDate>
     <item>
       <title>so-fancy/diff-so-fancy</title>
       <link>https://github.com/so-fancy/diff-so-fancy</link>
@@ -163,7 +163,7 @@
       <guid>https://github.com/darold/pgbadger</guid>
       <language>Perl</language>
       <languageColor>#0298c3</languageColor>
-      <stars>3,770</stars>
+      <stars>3,771</stars>
       <forks>360</forks>
       <addStars>2</addStars>
       <contributors>
@@ -391,7 +391,7 @@
       <guid>https://github.com/brendangregg/FlameGraph</guid>
       <language>Perl</language>
       <languageColor>#0298c3</languageColor>
-      <stars>18,495</stars>
+      <stars>18,496</stars>
       <forks>2,037</forks>
       <addStars>3</addStars>
       <contributors>
@@ -581,7 +581,7 @@
       <guid>https://github.com/major/MySQLTuner-perl</guid>
       <language>Perl</language>
       <languageColor>#0298c3</languageColor>
-      <stars>9,263</stars>
+      <stars>9,264</stars>
       <forks>1,297</forks>
       <addStars>1</addStars>
       <contributors>
@@ -619,7 +619,7 @@
       <guid>https://github.com/adrienverge/openfortivpn</guid>
       <language>Perl</language>
       <languageColor>#0298c3</languageColor>
-      <stars>2,987</stars>
+      <stars>2,986</stars>
       <forks>341</forks>
       <addStars>0</addStars>
       <contributors>
@@ -767,7 +767,7 @@
       <language>Perl</language>
       <languageColor>#0298c3</languageColor>
       <stars>1,380</stars>
-      <forks>1,154</forks>
+      <forks>1,155</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>

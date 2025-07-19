@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Jul 2025 02:53:31 GMT",
+  "pubDate": "Sat, 19 Jul 2025 07:23:14 GMT",
   "items": [
     {
       "title": "microsoft/markitdown",
@@ -10,8 +10,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "67,904",
-      "forks": "3,592",
+      "stars": "68,058",
+      "forks": "3,603",
       "addStars": "7,369",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "56,375",
-      "forks": "3,594",
+      "stars": "56,382",
+      "forks": "3,595",
       "addStars": "1,317",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "24,453",
-      "forks": "1,334",
+      "stars": "24,498",
+      "forks": "1,335",
       "addStars": "5,616",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,832",
-      "forks": "441",
+      "stars": "5,881",
+      "forks": "443",
       "addStars": "2,409",
       "contributors": [
         {
@@ -155,11 +155,11 @@
     {
       "title": "Alibaba-NLP/WebAgent",
       "url": "https://github.com/Alibaba-NLP/WebAgent",
-      "description": "🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+      "description": "🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/pdf/2507.02592",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,597",
-      "forks": "341",
+      "stars": "4,613",
+      "forks": "343",
       "addStars": "1,061",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "Build Real-Time Knowledge Graphs for AI Agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,186",
-      "forks": "1,193",
+      "stars": "14,201",
+      "forks": "1,194",
       "addStars": "1,672",
       "contributors": [
         {
@@ -222,7 +222,7 @@
       "description": "Investment Research for Everyone, Everywhere.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "43,187",
+      "stars": "43,201",
       "forks": "3,869",
       "addStars": "914",
       "contributors": [
@@ -259,7 +259,7 @@
       "description": "Biomni: a general-purpose biomedical AI agent",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,767",
+      "stars": "1,773",
       "forks": "207",
       "addStars": "532",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "OpenTelemetry Go API and SDK",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,969",
+      "stars": "5,971",
       "forks": "1,203",
       "addStars": "140",
       "contributors": [

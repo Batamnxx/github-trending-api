@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Jul 2025 02:53:31 GMT",
+  "pubDate": "Sat, 19 Jul 2025 07:23:14 GMT",
   "items": [
     {
       "title": "NanmiCoder/MediaCrawler",
@@ -10,8 +10,8 @@
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,395",
-      "forks": "7,774",
+      "stars": "32,448",
+      "forks": "7,788",
       "addStars": "8,908",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "19,498",
+      "stars": "19,504",
       "forks": "815",
       "addStars": "6,556",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,497",
-      "forks": "610",
+      "stars": "9,523",
+      "forks": "611",
       "addStars": "5,027",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "34,109",
-      "forks": "3,825",
+      "stars": "34,120",
+      "forks": "3,829",
       "addStars": "5,909",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "24,453",
-      "forks": "1,334",
+      "stars": "24,498",
+      "forks": "1,335",
       "addStars": "10,926",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,182",
+      "stars": "2,184",
       "forks": "173",
       "addStars": "1,730",
       "contributors": [
@@ -227,8 +227,8 @@
       "description": "📚 从零开始的大语言模型原理与实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "12,004",
-      "forks": "885",
+      "stars": "12,031",
+      "forks": "888",
       "addStars": "8,417",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "27,190",
-      "forks": "8,811",
+      "stars": "27,192",
+      "forks": "8,813",
       "addStars": "969",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "74,992",
-      "forks": "16,542",
+      "stars": "75,002",
+      "forks": "16,551",
       "addStars": "2,340",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "35,656",
-      "forks": "6,852",
+      "stars": "35,664",
+      "forks": "6,856",
       "addStars": "6,018",
       "contributors": [
         {
@@ -375,8 +375,8 @@
       "description": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,909",
-      "forks": "402",
+      "stars": "4,922",
+      "forks": "404",
       "addStars": "3,680",
       "contributors": [
         {
@@ -407,8 +407,8 @@
       "description": "Gemini polling proxy service （gemini轮询代理服务）",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,402",
-      "forks": "594",
+      "stars": "3,415",
+      "forks": "597",
       "addStars": "1,619",
       "contributors": [
         {
@@ -444,7 +444,7 @@
       "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,759",
+      "stars": "26,762",
       "forks": "2,408",
       "addStars": "2,219",
       "contributors": [
@@ -481,8 +481,8 @@
       "description": "🧡 Follow everything in one place",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,766",
-      "forks": "1,333",
+      "stars": "29,784",
+      "forks": "1,332",
       "addStars": "3,172",
       "contributors": [
         {

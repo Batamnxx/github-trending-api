@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Monthly Trending",
   "description": "Monthly Trending of Vala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Jul 2025 03:08:39 GMT",
+  "pubDate": "Sun, 20 Jul 2025 07:23:20 GMT",
   "items": [
     {
       "title": "ErikReider/SwayNotificationCenter",
@@ -47,7 +47,7 @@
       "description": "A modern compatibility tools manager",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "689",
+      "stars": "706",
       "forks": "25",
       "addStars": "272",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Task manager with Todoist & Nextcloud support designed for GNOME",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "4,205",
+      "stars": "4,206",
       "forks": "244",
       "addStars": "83",
       "contributors": [

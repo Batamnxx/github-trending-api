@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Monthly Trending",
   "description": "Monthly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Jul 2025 03:08:39 GMT",
+  "pubDate": "Sun, 20 Jul 2025 07:23:20 GMT",
   "items": [
     {
       "title": "rdpeng/ProgrammingAssignment2",
@@ -281,8 +281,8 @@
       "description": "R for data science: a book",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "4,827",
-      "forks": "4,316",
+      "stars": "4,828",
+      "forks": "4,317",
       "addStars": "18",
       "contributors": [
         {

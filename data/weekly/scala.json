@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Weekly Trending",
   "description": "Weekly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Jul 2025 03:08:39 GMT",
+  "pubDate": "Sun, 20 Jul 2025 07:23:20 GMT",
   "items": [
     {
       "title": "lichess-org/lila",
@@ -11,7 +11,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "16,873",
-      "forks": "2,434",
+      "forks": "2,435",
       "addStars": "34",
       "contributors": [
         {
@@ -159,7 +159,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "12,525",
-      "forks": "1,922",
+      "forks": "1,923",
       "addStars": "0",
       "contributors": [
         {
@@ -339,7 +339,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "2,995",
-      "forks": "2,852",
+      "forks": "2,853",
       "addStars": "4",
       "contributors": [
         {
@@ -619,7 +619,7 @@
       "description": "CMAK is a tool for managing Apache Kafka clusters",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "11,910",
+      "stars": "11,911",
       "forks": "2,504",
       "addStars": "2",
       "contributors": [
@@ -767,7 +767,7 @@
       "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "8,161",
+      "stars": "8,162",
       "forks": "1,875",
       "addStars": "16",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Weekly Trending",
   "description": "Weekly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Jul 2025 03:08:39 GMT",
+  "pubDate": "Sun, 20 Jul 2025 07:23:20 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -48,7 +48,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "832",
-      "forks": "248",
+      "forks": "249",
       "addStars": "24",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "12,851",
+      "stars": "12,852",
       "forks": "2,222",
       "addStars": "41",
       "contributors": [
@@ -197,7 +197,7 @@
       "description": "Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "5,593",
+      "stars": "5,594",
       "forks": "1,428",
       "addStars": "13",
       "contributors": [
@@ -266,7 +266,7 @@
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "4,149",
+      "stars": "4,150",
       "forks": "684",
       "addStars": "9",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Jul 2025 13:30:19 GMT",
+  "pubDate": "Sun, 20 Jul 2025 19:19:23 GMT",
   "items": [
     {
       "title": "microsoft/markitdown",
@@ -10,8 +10,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "68,482",
-      "forks": "3,642",
+      "stars": "68,533",
+      "forks": "3,641",
       "addStars": "8,235",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,230",
-      "forks": "462",
+      "stars": "6,308",
+      "forks": "471",
       "addStars": "2,600",
       "contributors": [
         {
@@ -62,6 +62,11 @@
           "url": "https://github.com/sbtobb"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/38023375?s=40&v=4",
+          "name": "Thlnking",
+          "url": "https://github.com/Thlnking"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/2262007?s=40&v=4",
           "name": "stonega",
           "url": "https://github.com/stonega"
@@ -70,11 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/15522223?s=40&v=4",
           "name": "Evyatar108",
           "url": "https://github.com/Evyatar108"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54490653?s=40&v=4",
-          "name": "weipengzou",
-          "url": "https://github.com/weipengzou"
         }
       ]
     },
@@ -84,8 +84,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,399",
-      "forks": "755",
+      "stars": "5,464",
+      "forks": "764",
       "addStars": "886",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Build Real-Time Knowledge Graphs for AI Agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,307",
-      "forks": "1,198",
+      "stars": "14,335",
+      "forks": "1,201",
       "addStars": "1,647",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "56,456",
+      "stars": "56,479",
       "forks": "3,602",
       "addStars": "1,142",
       "contributors": [
@@ -185,8 +185,8 @@
       "description": "The personal finance app for everyone",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "47,226",
-      "forks": "3,507",
+      "stars": "47,566",
+      "forks": "3,532",
       "addStars": "2,156",
       "contributors": [
         {
@@ -217,7 +217,7 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "24,745",
+      "stars": "24,800",
       "forks": "1,360",
       "addStars": "5,628",
       "contributors": [
@@ -254,8 +254,8 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "22,253",
-      "forks": "1,712",
+      "stars": "22,273",
+      "forks": "1,711",
       "addStars": "676",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "68,511",
+      "stars": "68,520",
       "forks": "8,774",
       "addStars": "775",
       "contributors": [
@@ -328,8 +328,8 @@
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "27,960",
-      "forks": "1,183",
+      "stars": "28,019",
+      "forks": "1,185",
       "addStars": "604",
       "contributors": [
         {

@@ -2,6 +2,468 @@
   "title": "GitHub Tex Languages Daily Trending",
   "description": "Daily Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 21 Jul 2025 07:32:50 GMT",
-  "items": []
+  "pubDate": "Mon, 21 Jul 2025 13:38:50 GMT",
+  "items": [
+    {
+      "title": "OpenHUTB/neuro",
+      "url": "https://github.com/OpenHUTB/neuro",
+      "description": "神经网络原理",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "240",
+      "forks": "96",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7724320?s=40&v=4",
+          "name": "donghaiwang",
+          "url": "https://github.com/donghaiwang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11772527?s=40&v=4",
+          "name": "nongfugengxia",
+          "url": "https://github.com/nongfugengxia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122458232?s=40&v=4",
+          "name": "huanglanfang",
+          "url": "https://github.com/huanglanfang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76504565?s=40&v=4",
+          "name": "fu293024",
+          "url": "https://github.com/fu293024"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/130346057?s=40&v=4",
+          "name": "huduo0",
+          "url": "https://github.com/huduo0"
+        }
+      ]
+    },
+    {
+      "title": "sb2nov/resume",
+      "url": "https://github.com/sb2nov/resume",
+      "description": "Software developer resume in Latex",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "5,982",
+      "forks": "1,675",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1517779?s=40&v=4",
+          "name": "sb2nov",
+          "url": "https://github.com/sb2nov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/146706527?s=40&v=4",
+          "name": "TheColorDarkBlue",
+          "url": "https://github.com/TheColorDarkBlue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/947595?s=40&v=4",
+          "name": "dearlordylord",
+          "url": "https://github.com/dearlordylord"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1228142?s=40&v=4",
+          "name": "greenmoon55",
+          "url": "https://github.com/greenmoon55"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6411209?s=40&v=4",
+          "name": "ygnr",
+          "url": "https://github.com/ygnr"
+        }
+      ]
+    },
+    {
+      "title": "aaronwangy/Data-Science-Cheatsheet",
+      "url": "https://github.com/aaronwangy/Data-Science-Cheatsheet",
+      "description": "A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "5,243",
+      "forks": "739",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48494882?s=40&v=4",
+          "name": "aaronwangy",
+          "url": "https://github.com/aaronwangy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7726251?s=40&v=4",
+          "name": "aus10powell",
+          "url": "https://github.com/aus10powell"
+        }
+      ]
+    },
+    {
+      "title": "HugoBlox/theme-academic-cv",
+      "url": "https://github.com/HugoBlox/theme-academic-cv",
+      "description": "🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "4,466",
+      "forks": "6,454",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7537639?s=40&v=4",
+          "name": "gcushen",
+          "url": "https://github.com/gcushen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22789860?s=40&v=4",
+          "name": "Anish-D",
+          "url": "https://github.com/Anish-D"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69774?s=40&v=4",
+          "name": "michaelaye",
+          "url": "https://github.com/michaelaye"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75446?s=40&v=4",
+          "name": "jpawlowski",
+          "url": "https://github.com/jpawlowski"
+        }
+      ]
+    },
+    {
+      "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "1,751",
+      "forks": "373",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4378663?s=40&v=4",
+          "name": "alecive",
+          "url": "https://github.com/alecive"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4449777?s=40&v=4",
+          "name": "curobotlab",
+          "url": "https://github.com/curobotlab"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/399192?s=40&v=4",
+          "name": "correll",
+          "url": "https://github.com/correll"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1191374?s=40&v=4",
+          "name": "hayesbh",
+          "url": "https://github.com/hayesbh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13409495?s=40&v=4",
+          "name": "AlWiVo",
+          "url": "https://github.com/AlWiVo"
+        }
+      ]
+    },
+    {
+      "title": "exacity/deeplearningbook-chinese",
+      "url": "https://github.com/exacity/deeplearningbook-chinese",
+      "description": "Deep Learning Book Chinese Translation",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "36,594",
+      "forks": "9,167",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1974742?s=40&v=4",
+          "name": "SwordYork",
+          "url": "https://github.com/SwordYork"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6804598?s=40&v=4",
+          "name": "liber145",
+          "url": "https://github.com/liber145"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5087210?s=40&v=4",
+          "name": "futianfan",
+          "url": "https://github.com/futianfan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24370741?s=40&v=4",
+          "name": "KevinLee1110",
+          "url": "https://github.com/KevinLee1110"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1014132?s=40&v=4",
+          "name": "zhoupeng",
+          "url": "https://github.com/zhoupeng"
+        }
+      ]
+    },
+    {
+      "title": "sysprog21/lkmpg",
+      "url": "https://github.com/sysprog21/lkmpg",
+      "description": "The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "8,040",
+      "forks": "577",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/478921?s=40&v=4",
+          "name": "jserv",
+          "url": "https://github.com/jserv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66012716?s=40&v=4",
+          "name": "linD026",
+          "url": "https://github.com/linD026"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58484289?s=40&v=4",
+          "name": "fennecJ",
+          "url": "https://github.com/fennecJ"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/87915276?s=40&v=4",
+          "name": "EricccTaiwan",
+          "url": "https://github.com/EricccTaiwan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/214348?s=40&v=4",
+          "name": "mechanicalamit",
+          "url": "https://github.com/mechanicalamit"
+        }
+      ]
+    },
+    {
+      "title": "matze/mtheme",
+      "url": "https://github.com/matze/mtheme",
+      "description": "A modern LaTeX Beamer theme",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "6,643",
+      "forks": "855",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/115270?s=40&v=4",
+          "name": "matze",
+          "url": "https://github.com/matze"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1131743?s=40&v=4",
+          "name": "rchurchley",
+          "url": "https://github.com/rchurchley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9158719?s=40&v=4",
+          "name": "benjamin-weiss",
+          "url": "https://github.com/benjamin-weiss"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4878624?s=40&v=4",
+          "name": "tmgriffiths",
+          "url": "https://github.com/tmgriffiths"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1829933?s=40&v=4",
+          "name": "awalterschulze",
+          "url": "https://github.com/awalterschulze"
+        }
+      ]
+    },
+    {
+      "title": "terryum/awesome-deep-learning-papers",
+      "url": "https://github.com/terryum/awesome-deep-learning-papers",
+      "description": "The most cited deep learning papers",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "25,912",
+      "forks": "4,470",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12528769?s=40&v=4",
+          "name": "terryum",
+          "url": "https://github.com/terryum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11093488?s=40&v=4",
+          "name": "miguelballesteros",
+          "url": "https://github.com/miguelballesteros"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/455703?s=40&v=4",
+          "name": "ricoz",
+          "url": "https://github.com/ricoz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/698804?s=40&v=4",
+          "name": "sunshinemyson",
+          "url": "https://github.com/sunshinemyson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3215768?s=40&v=4",
+          "name": "flukeskywalker",
+          "url": "https://github.com/flukeskywalker"
+        }
+      ]
+    },
+    {
+      "title": "HarisIqbal88/PlotNeuralNet",
+      "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+      "description": "Latex code for making neural networks diagrams",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "23,694",
+      "forks": "2,991",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17570785?s=40&v=4",
+          "name": "HarisIqbal88",
+          "url": "https://github.com/HarisIqbal88"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12168172?s=40&v=4",
+          "name": "pedrodiamel",
+          "url": "https://github.com/pedrodiamel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22336020?s=40&v=4",
+          "name": "weslynn",
+          "url": "https://github.com/weslynn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4074659?s=40&v=4",
+          "name": "mbrukman",
+          "url": "https://github.com/mbrukman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9316076?s=40&v=4",
+          "name": "Brandon-HY-Lin",
+          "url": "https://github.com/Brandon-HY-Lin"
+        }
+      ]
+    },
+    {
+      "title": "OpenLogicProject/OpenLogic",
+      "url": "https://github.com/OpenLogicProject/OpenLogic",
+      "description": "An open-source, customizable intermediate logic textbook",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "1,177",
+      "forks": "258",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3122348?s=40&v=4",
+          "name": "rzach",
+          "url": "https://github.com/rzach"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12452272?s=40&v=4",
+          "name": "SamaraBurns",
+          "url": "https://github.com/SamaraBurns"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/408001?s=40&v=4",
+          "name": "feffemannen",
+          "url": "https://github.com/feffemannen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1277?s=40&v=4",
+          "name": "beastaugh",
+          "url": "https://github.com/beastaugh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4118429?s=40&v=4",
+          "name": "furcyd",
+          "url": "https://github.com/furcyd"
+        }
+      ]
+    },
+    {
+      "title": "lervag/vimtex",
+      "url": "https://github.com/lervag/vimtex",
+      "description": "VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "5,906",
+      "forks": "402",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/998898?s=40&v=4",
+          "name": "lervag",
+          "url": "https://github.com/lervag"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7195553?s=40&v=4",
+          "name": "Konfekt",
+          "url": "https://github.com/Konfekt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/371756?s=40&v=4",
+          "name": "kiryph",
+          "url": "https://github.com/kiryph"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50270681?s=40&v=4",
+          "name": "ejmastnak",
+          "url": "https://github.com/ejmastnak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50843046?s=40&v=4",
+          "name": "TornaxO7",
+          "url": "https://github.com/TornaxO7"
+        }
+      ]
+    },
+    {
+      "title": "joaomlourenco/novathesis",
+      "url": "https://github.com/joaomlourenco/novathesis",
+      "description": "A LaTeX template for academic monographs (e.g., dissertations and thesis). This template serves both beginners and proficient LaTeX users.",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "864",
+      "forks": "154",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2064643?s=40&v=4",
+          "name": "joaomlourenco",
+          "url": "https://github.com/joaomlourenco"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/944511?s=40&v=4",
+          "name": "b-pereira",
+          "url": "https://github.com/b-pereira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2935699?s=40&v=4",
+          "name": "bcandeias",
+          "url": "https://github.com/bcandeias"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/970514?s=40&v=4",
+          "name": "flaviomartins",
+          "url": "https://github.com/flaviomartins"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/594628?s=40&v=4",
+          "name": "jsaramago",
+          "url": "https://github.com/jsaramago"
+        }
+      ]
+    }
+  ]
 }

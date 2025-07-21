@@ -2,7 +2,7 @@
   "title": "GitHub Handlebars Languages Weekly Trending",
   "description": "Weekly Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 21 Jul 2025 03:07:28 GMT",
+  "pubDate": "Mon, 21 Jul 2025 07:32:50 GMT",
   "items": [
     {
       "title": "huggingface/hub-docs",
@@ -80,7 +80,7 @@
       "language": "Handlebars",
       "languageColor": "#f7931e",
       "stars": "211",
-      "forks": "5,817",
+      "forks": "5,818",
       "addStars": "2",
       "contributors": [
         {

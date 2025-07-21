@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Monthly Trending",
   "description": "Monthly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 21 Jul 2025 13:38:50 GMT",
+  "pubDate": "Mon, 21 Jul 2025 19:21:54 GMT",
   "items": [
     {
       "title": "stevemolitor/claude-code.el",
@@ -48,7 +48,7 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": "807",
-      "forks": "137",
+      "forks": "138",
       "addStars": "70",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "2,404",
+      "stars": "2,405",
       "forks": "94",
       "addStars": "65",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "53,146",
+      "stars": "53,148",
       "forks": "5,358",
       "addStars": "425",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "Utility functions for dbt projects.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "1,561",
+      "stars": "1,562",
       "forks": "529",
       "addStars": "15",
       "contributors": [

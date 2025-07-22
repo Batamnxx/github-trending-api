@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Starlark Languages in GitHub</description>
-    <pubDate>Tue, 22 Jul 2025 13:37:52 GMT</pubDate>
+    <pubDate>Tue, 22 Jul 2025 19:21:35 GMT</pubDate>
     <item>
       <title>bazelbuild/bazel-central-registry</title>
       <link>https://github.com/bazelbuild/bazel-central-registry</link>
@@ -148,7 +148,7 @@
       <guid>https://github.com/tilt-dev/tilt-extensions</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>224</stars>
+      <stars>225</stars>
       <forks>182</forks>
       <addStars>1</addStars>
       <contributors>
@@ -229,14 +229,14 @@
       <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/171936331?s=40&amp;v=4</avatar>
-          <name>aschemmel-tech</name>
-          <url>https://github.com/aschemmel-tech</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5074553?s=40&amp;v=4</avatar>
           <name>AlexanderLanin</name>
           <url>https://github.com/AlexanderLanin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/171936331?s=40&amp;v=4</avatar>
+          <name>aschemmel-tech</name>
+          <url>https://github.com/aschemmel-tech</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/173445474?s=40&amp;v=4</avatar>
@@ -300,8 +300,8 @@
       <guid>https://github.com/GoogleContainerTools/distroless</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>20,890</stars>
-      <forks>1,269</forks>
+      <stars>20,894</stars>
+      <forks>1,270</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -333,7 +333,7 @@
       <guid>https://github.com/ethpandaops/ethereum-package</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>370</stars>
+      <stars>371</stars>
       <forks>248</forks>
       <addStars>5</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub Smarty Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Smarty Languages in GitHub</description>
-    <pubDate>Tue, 22 Jul 2025 03:01:00 GMT</pubDate>
+    <pubDate>Tue, 22 Jul 2025 07:27:29 GMT</pubDate>
     <item>
       <title>8gears/n8n-helm-chart</title>
       <link>https://github.com/8gears/n8n-helm-chart</link>
@@ -329,7 +329,7 @@
       <language>Smarty</language>
       <languageColor>#f0c040</languageColor>
       <stars>455</stars>
-      <forks>134</forks>
+      <forks>135</forks>
       <addStars>42</addStars>
       <contributors>
         <contributor>
@@ -475,7 +475,7 @@
       <guid>https://github.com/sentry-kubernetes/charts</guid>
       <language>Smarty</language>
       <languageColor>#f0c040</languageColor>
-      <stars>1,237</stars>
+      <stars>1,238</stars>
       <forks>552</forks>
       <addStars>20</addStars>
       <contributors>

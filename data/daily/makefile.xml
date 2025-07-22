@@ -3,7 +3,7 @@
     <title>GitHub Makefile Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Makefile Languages in GitHub</description>
-    <pubDate>Mon, 21 Jul 2025 19:21:54 GMT</pubDate>
+    <pubDate>Tue, 22 Jul 2025 03:01:00 GMT</pubDate>
     <item>
       <title>foostan/crkbd</title>
       <link>https://github.com/foostan/crkbd</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/foostan/crkbd</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>6,610</stars>
-      <forks>1,052</forks>
-      <addStars>6</addStars>
+      <stars>6,611</stars>
+      <forks>1,051</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/736191?s=40&amp;v=4</avatar>
@@ -51,7 +51,7 @@
       <languageColor>#427819</languageColor>
       <stars>2,517</stars>
       <forks>1,153</forks>
-      <addStars>2</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/306166?s=40&amp;v=4</avatar>
@@ -127,32 +127,32 @@
       <languageColor>#427819</languageColor>
       <stars>807</stars>
       <forks>138</forks>
-      <addStars>1</addStars>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/88717793?s=40&amp;v=4</avatar>
-          <name>fewtarius</name>
-          <url>https://github.com/fewtarius</url>
+          <avatar>https://avatars.githubusercontent.com/u/306166?s=40&amp;v=4</avatar>
+          <name>sraue</name>
+          <url>https://github.com/sraue</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1673861?s=40&amp;v=4</avatar>
-          <name>r3claimer</name>
-          <url>https://github.com/r3claimer</url>
+          <avatar>https://avatars.githubusercontent.com/u/6086324?s=40&amp;v=4</avatar>
+          <name>heitbaum</name>
+          <url>https://github.com/heitbaum</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/342907?s=40&amp;v=4</avatar>
-          <name>spycat88</name>
-          <url>https://github.com/spycat88</url>
+          <avatar>https://avatars.githubusercontent.com/u/805038?s=40&amp;v=4</avatar>
+          <name>MilhouseVH</name>
+          <url>https://github.com/MilhouseVH</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/151048164?s=40&amp;v=4</avatar>
-          <name>sydarn</name>
-          <url>https://github.com/sydarn</url>
+          <avatar>https://avatars.githubusercontent.com/u/1355173?s=40&amp;v=4</avatar>
+          <name>CvH</name>
+          <url>https://github.com/CvH</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/400014?s=40&amp;v=4</avatar>
-          <name>loki666</name>
-          <url>https://github.com/loki666</url>
+          <avatar>https://avatars.githubusercontent.com/u/758738?s=40&amp;v=4</avatar>
+          <name>stefansaraev</name>
+          <url>https://github.com/stefansaraev</url>
         </contributor>
       </contributors>
     </item>
@@ -163,9 +163,9 @@
       <guid>https://github.com/golang-standards/project-layout</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>53,148</stars>
-      <forks>5,358</forks>
-      <addStars>16</addStars>
+      <stars>53,154</stars>
+      <forks>5,359</forks>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1099414?s=40&amp;v=4</avatar>
@@ -317,7 +317,7 @@
       <languageColor>#427819</languageColor>
       <stars>487</stars>
       <forks>632</forks>
-      <addStars>0</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/688777?s=40&amp;v=4</avatar>
@@ -355,7 +355,7 @@
       <languageColor>#427819</languageColor>
       <stars>695</stars>
       <forks>530</forks>
-      <addStars>1</addStars>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3950390?s=40&amp;v=4</avatar>
@@ -426,7 +426,7 @@
       <languageColor>#427819</languageColor>
       <stars>4,261</stars>
       <forks>3,679</forks>
-      <addStars>1</addStars>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2918873?s=40&amp;v=4</avatar>

@@ -3,7 +3,7 @@
     <title>GitHub D Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of D Languages in GitHub</description>
-    <pubDate>Thu, 24 Jul 2025 13:38:27 GMT</pubDate>
+    <pubDate>Thu, 24 Jul 2025 19:22:06 GMT</pubDate>
     <item>
       <title>dlang/dmd</title>
       <link>https://github.com/dlang/dmd</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/abraunegg/onedrive</guid>
       <language>D</language>
       <languageColor>#ba595e</languageColor>
-      <stars>11,227</stars>
+      <stars>11,228</stars>
       <forks>894</forks>
       <addStars>3</addStars>
       <contributors>

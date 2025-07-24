@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Monthly Trending",
   "description": "Monthly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 24 Jul 2025 13:38:27 GMT",
+  "pubDate": "Thu, 24 Jul 2025 19:22:06 GMT",
   "items": [
     {
       "title": "chrislgarry/Apollo-11",
@@ -180,16 +180,6 @@
           "url": "https://github.com/pfultz2"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8866610?s=40&v=4",
-          "name": "dagamayank",
-          "url": "https://github.com/dagamayank"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12801049?s=40&v=4",
-          "name": "daniellowell",
-          "url": "https://github.com/daniellowell"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/12697412?s=40&v=4",
           "name": "atamazov",
           "url": "https://github.com/atamazov"
@@ -198,6 +188,16 @@
           "avatar": "https://avatars.githubusercontent.com/u/24684383?s=40&v=4",
           "name": "ce1adon",
           "url": "https://github.com/ce1adon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22615726?s=40&v=4",
+          "name": "asroy",
+          "url": "https://github.com/asroy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5627065?s=40&v=4",
+          "name": "JehandadKhan",
+          "url": "https://github.com/JehandadKhan"
         }
       ]
     },
@@ -429,7 +429,7 @@
       "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "11,435",
+      "stars": "11,436",
       "forks": "1,997",
       "addStars": "64",
       "contributors": [
@@ -577,7 +577,7 @@
       "description": "Geometry Dash for the Nintendo Entertainment System",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "310",
+      "stars": "311",
       "forks": "32",
       "addStars": "7",
       "contributors": [

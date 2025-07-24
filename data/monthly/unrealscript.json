@@ -2,7 +2,7 @@
   "title": "GitHub Unrealscript Languages Monthly Trending",
   "description": "Monthly Trending of Unrealscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 24 Jul 2025 07:27:53 GMT",
+  "pubDate": "Thu, 24 Jul 2025 13:38:27 GMT",
   "items": [
     {
       "title": "Joshhhuaaa/EnhancedSC",
@@ -10,7 +10,7 @@
       "description": "A major patch for the original Splinter Cell, fixing bugs and adding gameplay improvements.",
       "language": "UnrealScript",
       "languageColor": "#a54c4d",
-      "stars": "258",
+      "stars": "257",
       "forks": "9",
       "addStars": "97",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 25 Jul 2025 13:36:20 GMT",
+  "pubDate": "Fri, 25 Jul 2025 19:21:11 GMT",
   "items": [
     {
       "title": "academind/flutter-complete-guide-course-resources",
@@ -12,7 +12,7 @@
       "languageColor": "#00B4AB",
       "stars": "2,429",
       "forks": "985",
-      "addStars": "3",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28806196?s=40&v=4",
@@ -33,7 +33,7 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "8,978",
-      "forks": "4,065",
+      "forks": "4,066",
       "addStars": "2",
       "contributors": [
         {
@@ -69,7 +69,7 @@
       "description": "A predictable state management library that helps implement the BLoC design pattern",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "12,208",
+      "stars": "12,207",
       "forks": "3,426",
       "addStars": "1",
       "contributors": [
@@ -103,7 +103,7 @@
       "languageColor": "#00B4AB",
       "stars": "18,424",
       "forks": "7,760",
-      "addStars": "8",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30503?s=40&v=4",
@@ -165,8 +165,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "171,519",
-      "forks": "28,897",
+      "stars": "171,521",
+      "forks": "28,899",
       "addStars": "20",
       "contributors": [
         {
@@ -202,7 +202,7 @@
       "description": "An Open Source app for Tracking Multi Service (AL, MAL, SIMKL)",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "554",
+      "stars": "557",
       "forks": "33",
       "addStars": "5",
       "contributors": [
@@ -236,7 +236,7 @@
       "languageColor": "#00B4AB",
       "stars": "10,702",
       "forks": "1,669",
-      "addStars": "0",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/384794?s=40&v=4",
@@ -271,7 +271,7 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "13,221",
+      "stars": "13,232",
       "forks": "349",
       "addStars": "40",
       "contributors": [
@@ -308,9 +308,9 @@
       "description": "简简单单的看直播",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "11,561",
-      "forks": "610",
-      "addStars": "20",
+      "stars": "11,570",
+      "forks": "612",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16559082?s=40&v=4",
@@ -441,9 +441,9 @@
       "description": "🎧 Open source music client! Available for both desktop & mobile!",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "40,858",
+      "stars": "40,857",
       "forks": "1,743",
-      "addStars": "16",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/61944859?s=40&v=4",
@@ -473,7 +473,7 @@
       "description": "Aves is a gallery and metadata explorer app, built for Android with Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "3,718",
+      "stars": "3,719",
       "forks": "133",
       "addStars": "5",
       "contributors": [
@@ -505,7 +505,7 @@
       "description": "一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,617",
+      "stars": "1,618",
       "forks": "35",
       "addStars": "6",
       "contributors": [

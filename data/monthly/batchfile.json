@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Monthly Trending",
   "description": "Monthly Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 25 Jul 2025 13:36:20 GMT",
+  "pubDate": "Fri, 25 Jul 2025 19:21:11 GMT",
   "items": [
     {
       "title": "RockBlack-VPN/ip-address",
@@ -10,7 +10,7 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "951",
+      "stars": "953",
       "forks": "71",
       "addStars": "98",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "15,053",
-      "forks": "1,000",
+      "stars": "15,061",
+      "forks": "1,003",
       "addStars": "734",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "9,675",
+      "stars": "9,676",
       "forks": "3,092",
       "addStars": "61",
       "contributors": [

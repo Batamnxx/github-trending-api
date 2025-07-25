@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Weekly Trending",
   "description": "Weekly Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 25 Jul 2025 13:36:20 GMT",
+  "pubDate": "Fri, 25 Jul 2025 19:21:11 GMT",
   "items": [
     {
       "title": "enhorse/java-interview",
@@ -116,7 +116,7 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "951",
+      "stars": "953",
       "forks": "71",
       "addStars": "22",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "The latest incremental release of SysML v2. Start here.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "611",
+      "stars": "612",
       "forks": "78",
       "addStars": "2",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "9,675",
+      "stars": "9,676",
       "forks": "3,092",
       "addStars": "16",
       "contributors": [

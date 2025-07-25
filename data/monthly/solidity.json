@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Monthly Trending",
   "description": "Monthly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 25 Jul 2025 13:36:20 GMT",
+  "pubDate": "Fri, 25 Jul 2025 19:21:11 GMT",
   "items": [
     {
       "title": "AmazingAng/WTF-Solidity",
@@ -10,8 +10,8 @@
       "description": "WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "12,884",
-      "forks": "2,228",
+      "stars": "12,885",
+      "forks": "2,229",
       "addStars": "153",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "26,012",
-      "forks": "12,075",
+      "forks": "12,076",
       "addStars": "164",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "2,997",
+      "stars": "2,998",
       "forks": "408",
       "addStars": "60",
       "contributors": [
@@ -259,8 +259,8 @@
       "description": "Web3/Solidity based wargame",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "2,157",
-      "forks": "734",
+      "stars": "2,158",
+      "forks": "735",
       "addStars": "31",
       "contributors": [
         {
@@ -306,6 +306,11 @@
           "url": "https://github.com/McOso"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/8865298?s=40&v=4",
+          "name": "MoMannn",
+          "url": "https://github.com/MoMannn"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/13701258?s=40&v=4",
           "name": "dylandesrosier",
           "url": "https://github.com/dylandesrosier"
@@ -314,11 +319,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/46970362?s=40&v=4",
           "name": "destroyersrt",
           "url": "https://github.com/destroyersrt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/542863?s=40&v=4",
-          "name": "danfinlay",
-          "url": "https://github.com/danfinlay"
         }
       ]
     },
@@ -434,7 +434,7 @@
       "description": "Solidity library for advanced fixed-point math",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "952",
+      "stars": "953",
       "forks": "134",
       "addStars": "7",
       "contributors": [

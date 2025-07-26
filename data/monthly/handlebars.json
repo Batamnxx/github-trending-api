@@ -2,7 +2,7 @@
   "title": "GitHub Handlebars Languages Monthly Trending",
   "description": "Monthly Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Jul 2025 13:31:49 GMT",
+  "pubDate": "Sat, 26 Jul 2025 19:19:22 GMT",
   "items": [
     {
       "title": "elastic/integrations",
@@ -112,7 +112,7 @@
       "language": "Handlebars",
       "languageColor": "#f7931e",
       "stars": "211",
-      "forks": "5,836",
+      "forks": "5,835",
       "addStars": "4",
       "contributors": [
         {

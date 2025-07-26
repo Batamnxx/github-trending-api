@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Weekly Trending",
   "description": "Weekly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Jul 2025 13:31:49 GMT",
+  "pubDate": "Sat, 26 Jul 2025 19:19:22 GMT",
   "items": [
     {
       "title": "foostan/crkbd",
@@ -158,8 +158,8 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "53,220",
-      "forks": "5,357",
+      "stars": "53,221",
+      "forks": "5,358",
       "addStars": "108",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "Claude Code Emacs integration",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "323",
+      "stars": "324",
       "forks": "28",
       "addStars": "29",
       "contributors": [
@@ -260,7 +260,7 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": "4,263",
-      "forks": "3,689",
+      "forks": "3,690",
       "addStars": "5",
       "contributors": [
         {
@@ -370,7 +370,7 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "810",
+      "stars": "811",
       "forks": "138",
       "addStars": "4",
       "contributors": [

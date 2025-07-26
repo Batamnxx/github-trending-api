@@ -3,7 +3,7 @@
     <title>GitHub Makefile Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Makefile Languages in GitHub</description>
-    <pubDate>Sat, 26 Jul 2025 13:31:49 GMT</pubDate>
+    <pubDate>Sat, 26 Jul 2025 19:19:22 GMT</pubDate>
     <item>
       <title>foostan/crkbd</title>
       <link>https://github.com/foostan/crkbd</link>
@@ -163,8 +163,8 @@
       <guid>https://github.com/golang-standards/project-layout</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>53,220</stars>
-      <forks>5,357</forks>
+      <stars>53,221</stars>
+      <forks>5,358</forks>
       <addStars>108</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/stevemolitor/claude-code.el</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>323</stars>
+      <stars>324</stars>
       <forks>28</forks>
       <addStars>29</addStars>
       <contributors>
@@ -268,7 +268,7 @@
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
       <stars>4,263</stars>
-      <forks>3,689</forks>
+      <forks>3,690</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -381,7 +381,7 @@
       <guid>https://github.com/ROCKNIX/distribution</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>810</stars>
+      <stars>811</stars>
       <forks>138</forks>
       <addStars>4</addStars>
       <contributors>

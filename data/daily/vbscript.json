@@ -2,7 +2,7 @@
   "title": "GitHub Vbscript Languages Daily Trending",
   "description": "Daily Trending of Vbscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Jul 2025 13:31:49 GMT",
+  "pubDate": "Sat, 26 Jul 2025 19:19:22 GMT",
   "items": [
     {
       "title": "abbodi1406/BatUtil",
@@ -37,7 +37,7 @@
       "description": "AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes",
       "language": "VBScript",
       "languageColor": "#15dcdc",
-      "stars": "6,771",
+      "stars": "6,772",
       "forks": "378",
       "addStars": "4",
       "contributors": [

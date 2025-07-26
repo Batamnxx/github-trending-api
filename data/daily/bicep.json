@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Jul 2025 02:55:12 GMT",
+  "pubDate": "Sat, 26 Jul 2025 07:24:12 GMT",
   "items": [
     {
       "title": "Azure/GPT-RAG",
@@ -85,7 +85,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": "14,492",
-      "forks": "16,313",
+      "forks": "16,312",
       "addStars": "1",
       "contributors": [
         {
@@ -265,7 +265,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": "106",
-      "forks": "143",
+      "forks": "144",
       "addStars": "0",
       "contributors": [
         {

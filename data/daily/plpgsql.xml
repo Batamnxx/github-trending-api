@@ -3,7 +3,7 @@
     <title>GitHub Plpgsql Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Plpgsql Languages in GitHub</description>
-    <pubDate>Sat, 26 Jul 2025 02:55:12 GMT</pubDate>
+    <pubDate>Sat, 26 Jul 2025 07:24:12 GMT</pubDate>
     <item>
       <title>openmaptiles/openmaptiles</title>
       <link>https://github.com/openmaptiles/openmaptiles</link>
@@ -148,7 +148,7 @@
       <guid>https://github.com/sbdchd/squawk</guid>
       <language>PLpgSQL</language>
       <languageColor>#336790</languageColor>
-      <stars>818</stars>
+      <stars>819</stars>
       <forks>46</forks>
       <addStars>1</addStars>
       <contributors>

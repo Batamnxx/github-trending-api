@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Jul 2025 02:55:12 GMT",
+  "pubDate": "Sat, 26 Jul 2025 07:24:12 GMT",
   "items": [
     {
       "title": "openmaptiles/openmaptiles",
@@ -143,7 +143,7 @@
       "description": "🐘 Linter for Postgres migrations & SQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "818",
+      "stars": "819",
       "forks": "46",
       "addStars": "1",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Hlsl Languages Monthly Trending",
   "description": "Monthly Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 27 Jul 2025 13:30:51 GMT",
+  "pubDate": "Sun, 27 Jul 2025 19:21:20 GMT",
   "items": [
     {
       "title": "Blinue/Magpie",
@@ -10,7 +10,7 @@
       "description": "An all-purpose window upscaler for Windows 10/11.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": "11,904",
+      "stars": "11,907",
       "forks": "532",
       "addStars": "254",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "Unlock the full potential of your Intel/AMD based device.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": "2,117",
+      "stars": "2,118",
       "forks": "57",
       "addStars": "68",
       "contributors": [

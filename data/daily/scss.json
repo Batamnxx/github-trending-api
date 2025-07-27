@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Daily Trending",
   "description": "Daily Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 27 Jul 2025 13:30:51 GMT",
+  "pubDate": "Sun, 27 Jul 2025 19:21:20 GMT",
   "items": [
     {
       "title": "Hacker0x01/hacker101",
@@ -47,7 +47,7 @@
       "description": "MacOS like theme for all gtk based desktops",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "7,705",
+      "stars": "7,707",
       "forks": "678",
       "addStars": "5",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "⚡️ A minimal portfolio template for Developers",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "13,888",
+      "stars": "13,890",
       "forks": "5,943",
       "addStars": "4",
       "contributors": [
@@ -196,7 +196,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "156",
-      "forks": "285",
+      "forks": "286",
       "addStars": "0",
       "contributors": [
         {
@@ -307,7 +307,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "2,137",
-      "forks": "4,328",
+      "forks": "4,329",
       "addStars": "3",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "Damn Vulnerable NodeJS Application",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "740",
+      "stars": "741",
       "forks": "797",
       "addStars": "0",
       "contributors": [
@@ -360,7 +360,7 @@
       "description": "A list of RSS related stuff: tools, services, communities and tutorials, etc.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "5,345",
+      "stars": "5,346",
       "forks": "215",
       "addStars": "2",
       "contributors": [

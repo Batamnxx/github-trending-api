@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 27 Jul 2025 13:30:51 GMT",
+  "pubDate": "Sun, 27 Jul 2025 19:21:20 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,7 +10,7 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "21,226",
+      "stars": "21,232",
       "forks": "16,315",
       "addStars": "106",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "8,379",
+      "stars": "8,380",
       "forks": "2,090",
       "addStars": "38",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,568",
-      "forks": "771",
+      "stars": "2,567",
+      "forks": "772",
       "addStars": "21",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Latest Burpsuite Professional Version 2025.*.*",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "934",
+      "stars": "939",
       "forks": "294",
       "addStars": "26",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "My NixOS configurations.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,553",
+      "stars": "2,555",
       "forks": "229",
       "addStars": "16",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,424",
+      "stars": "2,425",
       "forks": "256",
       "addStars": "20",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "Configuration files for my NixOS and nix-darwin machines",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "579",
+      "stars": "580",
       "forks": "27",
       "addStars": "16",
       "contributors": [
@@ -244,7 +244,7 @@
       "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,158",
+      "stars": "1,159",
       "forks": "127",
       "addStars": "13",
       "contributors": [
@@ -392,7 +392,7 @@
       "description": "age-encrypted secrets for NixOS and Home manager",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,911",
+      "stars": "1,912",
       "forks": "140",
       "addStars": "13",
       "contributors": [
@@ -530,8 +530,8 @@
       "description": "Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,307",
-      "forks": "347",
+      "stars": "2,306",
+      "forks": "346",
       "addStars": "12",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Common-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Common-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 27 Jul 2025 07:23:50 GMT",
+  "pubDate": "Sun, 27 Jul 2025 13:30:51 GMT",
   "items": [
     {
       "title": "dimitri/pgloader",
@@ -84,7 +84,7 @@
       "description": "Reviving the language that brought us the Jak & Daxter Series",
       "language": "Common Lisp",
       "languageColor": "#3fb68b",
-      "stars": "3,070",
+      "stars": "3,069",
       "forks": "199",
       "addStars": "22",
       "contributors": [

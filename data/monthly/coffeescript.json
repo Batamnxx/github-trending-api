@@ -2,7 +2,7 @@
   "title": "GitHub Coffeescript Languages Monthly Trending",
   "description": "Monthly Trending of Coffeescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 28 Jul 2025 03:08:35 GMT",
+  "pubDate": "Mon, 28 Jul 2025 07:30:27 GMT",
   "items": [
     {
       "title": "FelisCatus/SwitchyOmega",
@@ -10,7 +10,7 @@
       "description": "No longer maintained, see pinned issues",
       "language": "CoffeeScript",
       "languageColor": "#244776",
-      "stars": "22,293",
+      "stars": "22,292",
       "forks": "3,475",
       "addStars": "165",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Adblock-filter-list Languages Daily Trending",
   "description": "Daily Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 28 Jul 2025 03:08:35 GMT",
+  "pubDate": "Mon, 28 Jul 2025 07:30:27 GMT",
   "items": [
     {
       "title": "AdguardTeam/FiltersRegistry",
@@ -42,7 +42,7 @@
       "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "4,947",
+      "stars": "4,948",
       "forks": "869",
       "addStars": "3",
       "contributors": [

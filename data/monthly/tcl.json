@@ -2,7 +2,7 @@
   "title": "GitHub Tcl Languages Monthly Trending",
   "description": "Monthly Trending of Tcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 27 Jul 2025 19:21:20 GMT",
+  "pubDate": "Mon, 28 Jul 2025 03:08:35 GMT",
   "items": [
     {
       "title": "macports/macports-base",
@@ -159,8 +159,8 @@
       "language": "Tcl",
       "languageColor": "#e4cc98",
       "stars": "2,315",
-      "forks": "116",
-      "addStars": "40",
+      "forks": "117",
+      "addStars": "38",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/77941087?s=40&v=4",

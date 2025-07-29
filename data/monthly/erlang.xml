@@ -3,7 +3,7 @@
     <title>GitHub Erlang Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Erlang Languages in GitHub</description>
-    <pubDate>Tue, 29 Jul 2025 03:12:20 GMT</pubDate>
+    <pubDate>Tue, 29 Jul 2025 07:29:02 GMT</pubDate>
     <item>
       <title>dgiot/dgiot</title>
       <link>https://github.com/dgiot/dgiot</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/dgiot/dgiot</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>5,119</stars>
-      <forks>1,157</forks>
+      <stars>5,118</stars>
+      <forks>1,156</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/apache/couchdb</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>6,604</stars>
+      <stars>6,605</stars>
       <forks>1,056</forks>
       <addStars>38</addStars>
       <contributors>
@@ -126,7 +126,7 @@
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
       <stars>11,792</stars>
-      <forks>3,021</forks>
+      <forks>3,020</forks>
       <addStars>56</addStars>
       <contributors>
         <contributor>
@@ -429,7 +429,7 @@
       <guid>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>2,202</stars>
+      <stars>2,203</stars>
       <forks>155</forks>
       <addStars>13</addStars>
       <contributors>

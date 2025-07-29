@@ -3,7 +3,7 @@
     <title>GitHub Erlang Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Erlang Languages in GitHub</description>
-    <pubDate>Tue, 29 Jul 2025 03:12:20 GMT</pubDate>
+    <pubDate>Tue, 29 Jul 2025 07:29:02 GMT</pubDate>
     <item>
       <title>emqx/emqx</title>
       <link>https://github.com/emqx/emqx</link>
@@ -50,7 +50,7 @@
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
       <stars>11,792</stars>
-      <forks>3,021</forks>
+      <forks>3,020</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/dgiot/dgiot</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>5,119</stars>
-      <forks>1,157</forks>
+      <stars>5,118</stars>
+      <forks>1,156</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/apache/couchdb</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>6,604</stars>
+      <stars>6,605</stars>
       <forks>1,056</forks>
       <addStars>4</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub Dart Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Dart Languages in GitHub</description>
-    <pubDate>Tue, 29 Jul 2025 13:40:50 GMT</pubDate>
+    <pubDate>Tue, 29 Jul 2025 19:24:26 GMT</pubDate>
     <item>
       <title>flutter/flutter</title>
       <link>https://github.com/flutter/flutter</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/flutter/flutter</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>171,575</stars>
-      <forks>28,912</forks>
+      <stars>171,580</stars>
+      <forks>28,911</forks>
       <addStars>22</addStars>
       <contributors>
         <contributor>
@@ -49,9 +49,9 @@
       <guid>https://github.com/localsend/localsend</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>65,086</stars>
-      <forks>3,469</forks>
-      <addStars>90</addStars>
+      <stars>65,098</stars>
+      <forks>3,470</forks>
+      <addStars>70</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/38380847?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/ente-io/ente</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>20,745</stars>
-      <forks>1,184</forks>
-      <addStars>15</addStars>
+      <stars>20,747</stars>
+      <forks>1,185</forks>
+      <addStars>12</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/24503581?s=40&amp;v=4</avatar>
@@ -125,7 +125,7 @@
       <guid>https://github.com/jonasbark/swiftcontrol</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>107</stars>
+      <stars>109</stars>
       <forks>6</forks>
       <addStars>2</addStars>
       <contributors>
@@ -143,9 +143,9 @@
       <guid>https://github.com/academind/flutter-complete-guide-course-resources</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>2,437</stars>
-      <forks>989</forks>
-      <addStars>4</addStars>
+      <stars>2,438</stars>
+      <forks>990</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28806196?s=40&amp;v=4</avatar>
@@ -166,9 +166,9 @@
       <guid>https://github.com/Predidit/Kazumi</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>13,398</stars>
+      <stars>13,408</stars>
       <forks>354</forks>
-      <addStars>54</addStars>
+      <addStars>55</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34627277?s=40&amp;v=4</avatar>
@@ -280,9 +280,9 @@
       <guid>https://github.com/Notsfsssf/pixez-flutter</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>9,287</stars>
+      <stars>9,291</stars>
       <forks>362</forks>
-      <addStars>9</addStars>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16934707?s=40&amp;v=4</avatar>
@@ -356,7 +356,7 @@
       <guid>https://github.com/isar/isar</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>3,874</stars>
+      <stars>3,875</stars>
       <forks>524</forks>
       <addStars>1</addStars>
       <contributors>
@@ -389,9 +389,9 @@
       <guid>https://github.com/HemantKArya/BloomeeTunes</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>910</stars>
-      <forks>77</forks>
-      <addStars>5</addStars>
+      <stars>911</stars>
+      <forks>78</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/65885023?s=40&amp;v=4</avatar>
@@ -532,7 +532,7 @@
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
       <stars>4,916</stars>
-      <forks>3,397</forks>
+      <forks>3,399</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -636,7 +636,7 @@
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
       <stars>296</stars>
-      <forks>681</forks>
+      <forks>683</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -673,7 +673,7 @@
       <guid>https://github.com/vicolo-dev/chrono</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>1,027</stars>
+      <stars>1,028</stars>
       <forks>39</forks>
       <addStars>3</addStars>
       <contributors>
@@ -706,7 +706,7 @@
       <guid>https://github.com/pichillilorenzo/flutter_inappwebview</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>3,571</stars>
+      <stars>3,569</stars>
       <forks>1,891</forks>
       <addStars>0</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub R Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of R Languages in GitHub</description>
-    <pubDate>Tue, 29 Jul 2025 13:40:50 GMT</pubDate>
+    <pubDate>Tue, 29 Jul 2025 19:24:26 GMT</pubDate>
     <item>
       <title>Rdatatable/data.table</title>
       <link>https://github.com/Rdatatable/data.table</link>
@@ -88,7 +88,7 @@
       <language>R</language>
       <languageColor>#198CE7</languageColor>
       <stars>861</stars>
-      <forks>144,017</forks>
+      <forks>144,016</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -290,7 +290,7 @@
       <guid>https://github.com/hadley/r4ds</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>4,837</stars>
+      <stars>4,839</stars>
       <forks>4,322</forks>
       <addStars>26</addStars>
       <contributors>

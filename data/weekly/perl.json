@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Weekly Trending",
   "description": "Weekly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Jul 2025 03:05:00 GMT",
+  "pubDate": "Wed, 30 Jul 2025 07:30:04 GMT",
   "items": [
     {
       "title": "holzschu/a-shell",
@@ -10,7 +10,7 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,121",
+      "stars": "3,122",
       "forks": "133",
       "addStars": "14",
       "contributors": [
@@ -639,7 +639,7 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "21,411",
+      "stars": "21,412",
       "forks": "1,071",
       "addStars": "58",
       "contributors": [

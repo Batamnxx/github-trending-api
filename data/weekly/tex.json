@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Weekly Trending",
   "description": "Weekly Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Jul 2025 03:05:00 GMT",
+  "pubDate": "Wed, 30 Jul 2025 07:30:04 GMT",
   "items": [
     {
       "title": "riscv/riscv-isa-manual",
@@ -116,7 +116,7 @@
       "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "24,974",
+      "stars": "24,975",
       "forks": "5,030",
       "addStars": "67",
       "contributors": [
@@ -170,7 +170,7 @@
       "description": "Classical equations and diagrams in machine learning",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "7,803",
+      "stars": "7,804",
       "forks": "1,296",
       "addStars": "23",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "贵校课程资料民间整理",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "32,547",
+      "stars": "32,549",
       "forks": "8,301",
       "addStars": "63",
       "contributors": [

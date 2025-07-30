@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Monthly Trending",
   "description": "Monthly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Jul 2025 03:05:00 GMT",
+  "pubDate": "Wed, 30 Jul 2025 07:30:04 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -10,7 +10,7 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "26,027",
+      "stars": "26,028",
       "forks": "12,085",
       "addStars": "156",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "12,904",
-      "forks": "2,234",
+      "stars": "12,907",
+      "forks": "2,235",
       "addStars": "151",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "852",
+      "stars": "854",
       "forks": "257",
       "addStars": "83",
       "contributors": [
@@ -365,7 +365,7 @@
       "description": "A book on all things Foundry, available at https://book.getfoundry.sh.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "901",
+      "stars": "900",
       "forks": "797",
       "addStars": "7",
       "contributors": [

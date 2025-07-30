@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Jul 2025 03:05:00 GMT",
+  "pubDate": "Wed, 30 Jul 2025 07:30:04 GMT",
   "items": [
     {
       "title": "actions/runner-images",
@@ -37,7 +37,7 @@
       "description": "Docker official jenkins repo",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "7,087",
+      "stars": "7,088",
       "forks": "4,645",
       "addStars": "2",
       "contributors": [
@@ -64,8 +64,8 @@
       "description": "The Microsoft community Windows Package Manager manifest repository",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "9,575",
-      "forks": "5,264",
+      "stars": "9,576",
+      "forks": "5,265",
       "addStars": "4",
       "contributors": [
         {
@@ -102,7 +102,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "6,676",
-      "forks": "937",
+      "forks": "938",
       "addStars": "3",
       "contributors": [
         {
@@ -138,7 +138,7 @@
       "description": "Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "1,366",
+      "stars": "1,368",
       "forks": "447",
       "addStars": "14",
       "contributors": [
@@ -212,7 +212,7 @@
       "description": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "1,568",
+      "stars": "1,569",
       "forks": "280",
       "addStars": "8",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "38,115",
+      "stars": "38,119",
       "forks": "2,061",
       "addStars": "53",
       "contributors": [
@@ -360,7 +360,7 @@
       "description": "Community-driven baseline to accelerate Intune adoption and learning.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "890",
+      "stars": "891",
       "forks": "183",
       "addStars": "9",
       "contributors": [
@@ -430,7 +430,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "1,716",
-      "forks": "1,066",
+      "forks": "1,067",
       "addStars": "0",
       "contributors": [
         {
@@ -710,8 +710,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "26,740",
-      "forks": "1,477",
+      "stars": "26,791",
+      "forks": "1,483",
       "addStars": "232",
       "contributors": [
         {

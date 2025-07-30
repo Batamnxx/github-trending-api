@@ -2,8 +2,45 @@
   "title": "GitHub Roff Languages Weekly Trending",
   "description": "Weekly Trending of Roff Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Jul 2025 07:30:04 GMT",
+  "pubDate": "Wed, 30 Jul 2025 13:40:11 GMT",
   "items": [
+    {
+      "title": "pyenv/pyenv",
+      "url": "https://github.com/pyenv/pyenv",
+      "description": "Simple Python version management",
+      "language": "Roff",
+      "languageColor": "#ecdebe",
+      "stars": "42,749",
+      "forks": "3,190",
+      "addStars": "96",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63651?s=40&v=4",
+          "name": "yyuu",
+          "url": "https://github.com/yyuu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2670332?s=40&v=4",
+          "name": "native-api",
+          "url": "https://github.com/native-api"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2428315?s=40&v=4",
+          "name": "anton-petrov",
+          "url": "https://github.com/anton-petrov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2603?s=40&v=4",
+          "name": "sstephenson",
+          "url": "https://github.com/sstephenson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/887?s=40&v=4",
+          "name": "mislav",
+          "url": "https://github.com/mislav"
+        }
+      ]
+    },
     {
       "title": "sidpalas/devops-directive-docker-course",
       "url": "https://github.com/sidpalas/devops-directive-docker-course",
@@ -33,43 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/77709772?s=40&v=4",
           "name": "abdelhaqelamraoui",
           "url": "https://github.com/abdelhaqelamraoui"
-        }
-      ]
-    },
-    {
-      "title": "pyenv/pyenv",
-      "url": "https://github.com/pyenv/pyenv",
-      "description": "Simple Python version management",
-      "language": "Roff",
-      "languageColor": "#ecdebe",
-      "stars": "42,746",
-      "forks": "3,191",
-      "addStars": "96",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63651?s=40&v=4",
-          "name": "yyuu",
-          "url": "https://github.com/yyuu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2670332?s=40&v=4",
-          "name": "native-api",
-          "url": "https://github.com/native-api"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2428315?s=40&v=4",
-          "name": "anton-petrov",
-          "url": "https://github.com/anton-petrov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2603?s=40&v=4",
-          "name": "sstephenson",
-          "url": "https://github.com/sstephenson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/887?s=40&v=4",
-          "name": "mislav",
-          "url": "https://github.com/mislav"
         }
       ]
     },

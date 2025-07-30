@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Wed, 30 Jul 2025 07:30:04 GMT</pubDate>
+    <pubDate>Wed, 30 Jul 2025 13:40:11 GMT</pubDate>
     <item>
       <title>humanlayer/12-factor-agents</title>
       <link>https://github.com/humanlayer/12-factor-agents</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/humanlayer/12-factor-agents</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,814</stars>
-      <forks>711</forks>
+      <stars>10,849</stars>
+      <forks>716</forks>
       <addStars>5,942</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/musistudio/claude-code-router</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,748</stars>
-      <forks>637</forks>
+      <stars>8,860</stars>
+      <forks>642</forks>
       <addStars>6,295</addStars>
       <contributors>
         <contributor>
@@ -81,52 +81,14 @@
       </contributors>
     </item>
     <item>
-      <title>zaidmukaddam/scira</title>
-      <link>https://github.com/zaidmukaddam/scira</link>
-      <description>Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.</description>
-      <guid>https://github.com/zaidmukaddam/scira</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>10,211</stars>
-      <forks>1,254</forks>
-      <addStars>1,888</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/76097144?s=40&amp;v=4</avatar>
-          <name>zaidmukaddam</name>
-          <url>https://github.com/zaidmukaddam</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/192434660?s=40&amp;v=4</avatar>
-          <name>simplr-sh</name>
-          <url>https://github.com/simplr-sh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/83772622?s=40&amp;v=4</avatar>
-          <name>impoiler</name>
-          <url>https://github.com/impoiler</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62104921?s=40&amp;v=4</avatar>
-          <name>iamsatyanchal</name>
-          <url>https://github.com/iamsatyanchal</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40672544?s=40&amp;v=4</avatar>
-          <name>waleedlatif1</name>
-          <url>https://github.com/waleedlatif1</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>Kilo-Org/kilocode</title>
       <link>https://github.com/Kilo-Org/kilocode</link>
       <description>Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social</description>
       <guid>https://github.com/Kilo-Org/kilocode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,902</stars>
-      <forks>507</forks>
+      <stars>5,935</stars>
+      <forks>509</forks>
       <addStars>4,358</addStars>
       <contributors>
         <contributor>
@@ -158,8 +120,8 @@
       <guid>https://github.com/RSSNext/Folo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>30,361</stars>
-      <forks>1,371</forks>
+      <stars>30,374</stars>
+      <forks>1,372</forks>
       <addStars>3,445</addStars>
       <contributors>
         <contributor>
@@ -190,40 +152,40 @@
       </contributors>
     </item>
     <item>
-      <title>midday-ai/midday</title>
-      <link>https://github.com/midday-ai/midday</link>
-      <description>Invoicing, Time tracking, File reconciliation, Storage, Financial Overview &amp; your own Assistant made for Freelancers</description>
-      <guid>https://github.com/midday-ai/midday</guid>
+      <title>zaidmukaddam/scira</title>
+      <link>https://github.com/zaidmukaddam/scira</link>
+      <description>Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.</description>
+      <guid>https://github.com/zaidmukaddam/scira</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,529</stars>
-      <forks>899</forks>
-      <addStars>1,283</addStars>
+      <stars>10,218</stars>
+      <forks>1,252</forks>
+      <addStars>1,888</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/655158?s=40&amp;v=4</avatar>
-          <name>pontusab</name>
-          <url>https://github.com/pontusab</url>
+          <avatar>https://avatars.githubusercontent.com/u/76097144?s=40&amp;v=4</avatar>
+          <name>zaidmukaddam</name>
+          <url>https://github.com/zaidmukaddam</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/108531789?s=40&amp;v=4</avatar>
-          <name>BharathxD</name>
-          <url>https://github.com/BharathxD</url>
+          <avatar>https://avatars.githubusercontent.com/u/192434660?s=40&amp;v=4</avatar>
+          <name>simplr-sh</name>
+          <url>https://github.com/simplr-sh</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10424147?s=40&amp;v=4</avatar>
-          <name>federicoestevez</name>
-          <url>https://github.com/federicoestevez</url>
+          <avatar>https://avatars.githubusercontent.com/u/83772622?s=40&amp;v=4</avatar>
+          <name>impoiler</name>
+          <url>https://github.com/impoiler</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31220512?s=40&amp;v=4</avatar>
-          <name>Ifunanyacollins</name>
-          <url>https://github.com/Ifunanyacollins</url>
+          <avatar>https://avatars.githubusercontent.com/u/62104921?s=40&amp;v=4</avatar>
+          <name>iamsatyanchal</name>
+          <url>https://github.com/iamsatyanchal</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50083367?s=40&amp;v=4</avatar>
-          <name>YazidKurdi</name>
-          <url>https://github.com/YazidKurdi</url>
+          <avatar>https://avatars.githubusercontent.com/u/40672544?s=40&amp;v=4</avatar>
+          <name>waleedlatif1</name>
+          <url>https://github.com/waleedlatif1</url>
         </contributor>
       </contributors>
     </item>
@@ -234,8 +196,8 @@
       <guid>https://github.com/dyad-sh/dyad</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,279</stars>
-      <forks>357</forks>
+      <stars>2,286</stars>
+      <forks>359</forks>
       <addStars>727</addStars>
       <contributors>
         <contributor>
@@ -251,52 +213,14 @@
       </contributors>
     </item>
     <item>
-      <title>codexu/note-gen</title>
-      <link>https://github.com/codexu/note-gen</link>
-      <description>A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.</description>
-      <guid>https://github.com/codexu/note-gen</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>7,205</stars>
-      <forks>467</forks>
-      <addStars>2,189</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15899990?s=40&amp;v=4</avatar>
-          <name>codexu</name>
-          <url>https://github.com/codexu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/49934348?s=40&amp;v=4</avatar>
-          <name>hahaxiaowai</name>
-          <url>https://github.com/hahaxiaowai</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/144885467?s=40&amp;v=4</avatar>
-          <name>Pleasurecruise</name>
-          <url>https://github.com/Pleasurecruise</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20651728?s=40&amp;v=4</avatar>
-          <name>ZhangTianrong</name>
-          <url>https://github.com/ZhangTianrong</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>freeCodeCamp/freeCodeCamp</title>
       <link>https://github.com/freeCodeCamp/freeCodeCamp</link>
       <description>freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.</description>
       <guid>https://github.com/freeCodeCamp/freeCodeCamp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>424,655</stars>
-      <forks>41,018</forks>
+      <stars>424,675</stars>
+      <forks>41,022</forks>
       <addStars>3,260</addStars>
       <contributors>
         <contributor>
@@ -322,47 +246,14 @@
       </contributors>
     </item>
     <item>
-      <title>jnsahaj/tweakcn</title>
-      <link>https://github.com/jnsahaj/tweakcn</link>
-      <description>A visual no-code theme editor for shadcn/ui components</description>
-      <guid>https://github.com/jnsahaj/tweakcn</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>6,215</stars>
-      <forks>339</forks>
-      <addStars>1,828</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/82111591?s=40&amp;v=4</avatar>
-          <name>jnsahaj</name>
-          <url>https://github.com/jnsahaj</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/137589205?s=40&amp;v=4</avatar>
-          <name>llanesluis</name>
-          <url>https://github.com/llanesluis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/94807001?s=40&amp;v=4</avatar>
-          <name>bognar-dev</name>
-          <url>https://github.com/bognar-dev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/108873379?s=40&amp;v=4</avatar>
-          <name>sahaj-myhq</name>
-          <url>https://github.com/sahaj-myhq</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>th-ch/youtube-music</title>
       <link>https://github.com/th-ch/youtube-music</link>
       <description>YouTube Music Desktop App bundled with custom plugins</description>
       <guid>https://github.com/th-ch/youtube-music</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,408</stars>
-      <forks>1,445</forks>
+      <stars>26,420</stars>
+      <forks>1,442</forks>
       <addStars>3,711</addStars>
       <contributors>
         <contributor>
@@ -388,52 +279,14 @@
       </contributors>
     </item>
     <item>
-      <title>clash-verge-rev/clash-verge-rev</title>
-      <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
-      <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
-      <guid>https://github.com/clash-verge-rev/clash-verge-rev</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>67,936</stars>
-      <forks>5,159</forks>
-      <addStars>4,605</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/27361820?s=40&amp;v=4</avatar>
-          <name>zzzgydi</name>
-          <url>https://github.com/zzzgydi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/179569293?s=40&amp;v=4</avatar>
-          <name>huzibaca</name>
-          <url>https://github.com/huzibaca</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/152463842?s=40&amp;v=4</avatar>
-          <name>MystiPanda</name>
-          <url>https://github.com/MystiPanda</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96291150?s=40&amp;v=4</avatar>
-          <name>wonfen</name>
-          <url>https://github.com/wonfen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/77394545?s=40&amp;v=4</avatar>
-          <name>Tunglies</name>
-          <url>https://github.com/Tunglies</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>Dokploy/dokploy</title>
       <link>https://github.com/Dokploy/dokploy</link>
       <description>Open Source Alternative to Vercel, Netlify and Heroku.</description>
       <guid>https://github.com/Dokploy/dokploy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,450</stars>
-      <forks>1,240</forks>
+      <stars>22,463</stars>
+      <forks>1,241</forks>
       <addStars>1,390</addStars>
       <contributors>
         <contributor>
@@ -464,40 +317,116 @@
       </contributors>
     </item>
     <item>
-      <title>twentyhq/twenty</title>
-      <link>https://github.com/twentyhq/twenty</link>
-      <description>Building a modern alternative to Salesforce, powered by the community.</description>
-      <guid>https://github.com/twentyhq/twenty</guid>
+      <title>midday-ai/midday</title>
+      <link>https://github.com/midday-ai/midday</link>
+      <description>Invoicing, Time tracking, File reconciliation, Storage, Financial Overview &amp; your own Assistant made for Freelancers</description>
+      <guid>https://github.com/midday-ai/midday</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>34,685</stars>
-      <forks>3,896</forks>
-      <addStars>3,810</addStars>
+      <stars>9,532</stars>
+      <forks>900</forks>
+      <addStars>1,283</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12035771?s=40&amp;v=4</avatar>
-          <name>charlesBochet</name>
-          <url>https://github.com/charlesBochet</url>
+          <avatar>https://avatars.githubusercontent.com/u/655158?s=40&amp;v=4</avatar>
+          <name>pontusab</name>
+          <url>https://github.com/pontusab</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26528466?s=40&amp;v=4</avatar>
-          <name>lucasbordeau</name>
-          <url>https://github.com/lucasbordeau</url>
+          <avatar>https://avatars.githubusercontent.com/u/108531789?s=40&amp;v=4</avatar>
+          <name>BharathxD</name>
+          <url>https://github.com/BharathxD</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6399865?s=40&amp;v=4</avatar>
-          <name>FelixMalfait</name>
-          <url>https://github.com/FelixMalfait</url>
+          <avatar>https://avatars.githubusercontent.com/u/10424147?s=40&amp;v=4</avatar>
+          <name>federicoestevez</name>
+          <url>https://github.com/federicoestevez</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1834158?s=40&amp;v=4</avatar>
-          <name>Weiko</name>
-          <url>https://github.com/Weiko</url>
+          <avatar>https://avatars.githubusercontent.com/u/31220512?s=40&amp;v=4</avatar>
+          <name>Ifunanyacollins</name>
+          <url>https://github.com/Ifunanyacollins</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/71827178?s=40&amp;v=4</avatar>
-          <name>bosiraphael</name>
-          <url>https://github.com/bosiraphael</url>
+          <avatar>https://avatars.githubusercontent.com/u/50083367?s=40&amp;v=4</avatar>
+          <name>YazidKurdi</name>
+          <url>https://github.com/YazidKurdi</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>codexu/note-gen</title>
+      <link>https://github.com/codexu/note-gen</link>
+      <description>A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.</description>
+      <guid>https://github.com/codexu/note-gen</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>7,215</stars>
+      <forks>468</forks>
+      <addStars>2,189</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15899990?s=40&amp;v=4</avatar>
+          <name>codexu</name>
+          <url>https://github.com/codexu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/49934348?s=40&amp;v=4</avatar>
+          <name>hahaxiaowai</name>
+          <url>https://github.com/hahaxiaowai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48553796?s=40&amp;v=4</avatar>
+          <name>SilenceZen</name>
+          <url>https://github.com/SilenceZen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/144885467?s=40&amp;v=4</avatar>
+          <name>Pleasurecruise</name>
+          <url>https://github.com/Pleasurecruise</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>clash-verge-rev/clash-verge-rev</title>
+      <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
+      <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
+      <guid>https://github.com/clash-verge-rev/clash-verge-rev</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>68,000</stars>
+      <forks>5,166</forks>
+      <addStars>4,605</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/27361820?s=40&amp;v=4</avatar>
+          <name>zzzgydi</name>
+          <url>https://github.com/zzzgydi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/179569293?s=40&amp;v=4</avatar>
+          <name>huzibaca</name>
+          <url>https://github.com/huzibaca</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/152463842?s=40&amp;v=4</avatar>
+          <name>MystiPanda</name>
+          <url>https://github.com/MystiPanda</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/96291150?s=40&amp;v=4</avatar>
+          <name>wonfen</name>
+          <url>https://github.com/wonfen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/77394545?s=40&amp;v=4</avatar>
+          <name>Tunglies</name>
+          <url>https://github.com/Tunglies</url>
         </contributor>
       </contributors>
     </item>
@@ -508,8 +437,8 @@
       <guid>https://github.com/simstudioai/sim</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,252</stars>
-      <forks>854</forks>
+      <stars>6,261</stars>
+      <forks>853</forks>
       <addStars>2,173</addStars>
       <contributors>
         <contributor>
@@ -536,6 +465,105 @@
           <avatar>https://avatars.githubusercontent.com/u/77861281?s=40&amp;v=4</avatar>
           <name>aadamgough</name>
           <url>https://github.com/aadamgough</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>linshenkx/prompt-optimizer</title>
+      <link>https://github.com/linshenkx/prompt-optimizer</link>
+      <description>一款提示词优化器，助力于编写高质量的提示词</description>
+      <guid>https://github.com/linshenkx/prompt-optimizer</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>11,299</stars>
+      <forks>1,388</forks>
+      <addStars>2,940</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32978552?s=40&amp;v=4</avatar>
+          <name>linshenkx</name>
+          <url>https://github.com/linshenkx</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5528016?s=40&amp;v=4</avatar>
+          <name>hexart</name>
+          <url>https://github.com/hexart</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15119304?s=40&amp;v=4</avatar>
+          <name>lanyuanxiaoyao</name>
+          <url>https://github.com/lanyuanxiaoyao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2194474?s=40&amp;v=4</avatar>
+          <name>mrzzcn</name>
+          <url>https://github.com/mrzzcn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8481484?s=40&amp;v=4</avatar>
+          <name>zzzhouuu</name>
+          <url>https://github.com/zzzhouuu</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>srbhr/Resume-Matcher</title>
+      <link>https://github.com/srbhr/Resume-Matcher</link>
+      <description>Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.</description>
+      <guid>https://github.com/srbhr/Resume-Matcher</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>20,861</stars>
+      <forks>4,198</forks>
+      <addStars>11,918</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54472864?s=40&amp;v=4</avatar>
+          <name>srbhr</name>
+          <url>https://github.com/srbhr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47035684?s=40&amp;v=4</avatar>
+          <name>rrvrs</name>
+          <url>https://github.com/rrvrs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46422196?s=40&amp;v=4</avatar>
+          <name>SubramanyamChalla24</name>
+          <url>https://github.com/SubramanyamChalla24</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7581546?s=40&amp;v=4</avatar>
+          <name>Sayvai</name>
+          <url>https://github.com/Sayvai</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>C4illin/ConvertX</title>
+      <link>https://github.com/C4illin/ConvertX</link>
+      <description>💾 Self-hosted online file converter. Supports 1000+ formats ⚙️</description>
+      <guid>https://github.com/C4illin/ConvertX</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>6,862</stars>
+      <forks>290</forks>
+      <addStars>4,122</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20753603?s=40&amp;v=4</avatar>
+          <name>C4illin</name>
+          <url>https://github.com/C4illin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/95495174?s=40&amp;v=4</avatar>
+          <name>fasonju</name>
+          <url>https://github.com/fasonju</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/110846042?s=40&amp;v=4</avatar>
+          <name>bennett-sh</name>
+          <url>https://github.com/bennett-sh</url>
         </contributor>
       </contributors>
     </item>

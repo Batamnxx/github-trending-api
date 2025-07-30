@@ -3,7 +3,7 @@
     <title>GitHub Java Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Java Languages in GitHub</description>
-    <pubDate>Wed, 30 Jul 2025 07:30:04 GMT</pubDate>
+    <pubDate>Wed, 30 Jul 2025 13:40:11 GMT</pubDate>
     <item>
       <title>spring-projects/spring-boot</title>
       <link>https://github.com/spring-projects/spring-boot</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/spring-projects/spring-boot</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>77,930</stars>
-      <forks>41,356</forks>
+      <stars>77,935</stars>
+      <forks>41,357</forks>
       <addStars>115</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/keycloak/keycloak</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>28,724</stars>
-      <forks>7,474</forks>
+      <stars>28,732</stars>
+      <forks>7,477</forks>
       <addStars>366</addStars>
       <contributors>
         <contributor>
@@ -76,78 +76,40 @@
       </contributors>
     </item>
     <item>
-      <title>dataease/dataease</title>
-      <link>https://github.com/dataease/dataease</link>
-      <description>🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</description>
-      <guid>https://github.com/dataease/dataease</guid>
+      <title>microg/GmsCore</title>
+      <link>https://github.com/microg/GmsCore</link>
+      <description>Free implementation of Play Services</description>
+      <guid>https://github.com/microg/GmsCore</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>20,957</stars>
-      <forks>3,681</forks>
-      <addStars>414</addStars>
+      <stars>10,434</stars>
+      <forks>2,018</forks>
+      <addStars>76</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42510293?s=40&amp;v=4</avatar>
-          <name>ziyujiahao</name>
-          <url>https://github.com/ziyujiahao</url>
+          <avatar>https://avatars.githubusercontent.com/u/994036?s=40&amp;v=4</avatar>
+          <name>mar-v-in</name>
+          <url>https://github.com/mar-v-in</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/67260074?s=40&amp;v=4</avatar>
-          <name>fit2cloud-chenyw</name>
-          <url>https://github.com/fit2cloud-chenyw</url>
+          <avatar>https://avatars.githubusercontent.com/u/150454414?s=40&amp;v=4</avatar>
+          <name>DaVinci9196</name>
+          <url>https://github.com/DaVinci9196</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59437931?s=40&amp;v=4</avatar>
-          <name>XiaJunjie2020</name>
-          <url>https://github.com/XiaJunjie2020</url>
+          <avatar>https://avatars.githubusercontent.com/u/16943720?s=40&amp;v=4</avatar>
+          <name>fynngodau</name>
+          <url>https://github.com/fynngodau</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/106045316?s=40&amp;v=4</avatar>
-          <name>dataeaseShu</name>
-          <url>https://github.com/dataeaseShu</url>
+          <avatar>https://avatars.githubusercontent.com/u/15793015?s=40&amp;v=4</avatar>
+          <name>ale5000-git</name>
+          <url>https://github.com/ale5000-git</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/41368289?s=40&amp;v=4</avatar>
-          <name>jinlong-T</name>
-          <url>https://github.com/jinlong-T</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>nayuki/QR-Code-generator</title>
-      <link>https://github.com/nayuki/QR-Code-generator</link>
-      <description>High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.</description>
-      <guid>https://github.com/nayuki/QR-Code-generator</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>5,979</stars>
-      <forks>1,180</forks>
-      <addStars>27</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/672172?s=40&amp;v=4</avatar>
-          <name>nayuki</name>
-          <url>https://github.com/nayuki</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7014?s=40&amp;v=4</avatar>
-          <name>igorgue</name>
-          <url>https://github.com/igorgue</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/417274?s=40&amp;v=4</avatar>
-          <name>scrpi</name>
-          <url>https://github.com/scrpi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2221844?s=40&amp;v=4</avatar>
-          <name>0-wiz-0</name>
-          <url>https://github.com/0-wiz-0</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26205140?s=40&amp;v=4</avatar>
-          <name>CorvusPrudens</name>
-          <url>https://github.com/CorvusPrudens</url>
+          <avatar>https://avatars.githubusercontent.com/u/1386547?s=40&amp;v=4</avatar>
+          <name>emlove</name>
+          <url>https://github.com/emlove</url>
         </contributor>
       </contributors>
     </item>
@@ -190,215 +152,40 @@
       </contributors>
     </item>
     <item>
-      <title>spring-projects/spring-ai</title>
-      <link>https://github.com/spring-projects/spring-ai</link>
-      <description>An Application Framework for AI Engineering</description>
-      <guid>https://github.com/spring-projects/spring-ai</guid>
+      <title>dataease/dataease</title>
+      <link>https://github.com/dataease/dataease</link>
+      <description>🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.</description>
+      <guid>https://github.com/dataease/dataease</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>6,278</stars>
-      <forks>1,749</forks>
-      <addStars>90</addStars>
+      <stars>20,967</stars>
+      <forks>3,681</forks>
+      <addStars>414</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1351573?s=40&amp;v=4</avatar>
-          <name>tzolov</name>
-          <url>https://github.com/tzolov</url>
+          <avatar>https://avatars.githubusercontent.com/u/42510293?s=40&amp;v=4</avatar>
+          <name>ziyujiahao</name>
+          <url>https://github.com/ziyujiahao</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/247466?s=40&amp;v=4</avatar>
-          <name>markpollack</name>
-          <url>https://github.com/markpollack</url>
+          <avatar>https://avatars.githubusercontent.com/u/67260074?s=40&amp;v=4</avatar>
+          <name>fit2cloud-chenyw</name>
+          <url>https://github.com/fit2cloud-chenyw</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/151690?s=40&amp;v=4</avatar>
-          <name>ilayaperumalg</name>
-          <url>https://github.com/ilayaperumalg</url>
+          <avatar>https://avatars.githubusercontent.com/u/59437931?s=40&amp;v=4</avatar>
+          <name>XiaJunjie2020</name>
+          <url>https://github.com/XiaJunjie2020</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/827682?s=40&amp;v=4</avatar>
-          <name>sobychacko</name>
-          <url>https://github.com/sobychacko</url>
+          <avatar>https://avatars.githubusercontent.com/u/106045316?s=40&amp;v=4</avatar>
+          <name>dataeaseShu</name>
+          <url>https://github.com/dataeaseShu</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8523418?s=40&amp;v=4</avatar>
-          <name>ThomasVitale</name>
-          <url>https://github.com/ThomasVitale</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>krahets/hello-algo</title>
-      <link>https://github.com/krahets/hello-algo</link>
-      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation</description>
-      <guid>https://github.com/krahets/hello-algo</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>114,846</stars>
-      <forks>14,208</forks>
-      <addStars>270</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26993056?s=40&amp;v=4</avatar>
-          <name>krahets</name>
-          <url>https://github.com/krahets</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24556310?s=40&amp;v=4</avatar>
-          <name>justin-tse</name>
-          <url>https://github.com/justin-tse</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99076655?s=40&amp;v=4</avatar>
-          <name>coderonion</name>
-          <url>https://github.com/coderonion</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3739017?s=40&amp;v=4</avatar>
-          <name>nuomi1</name>
-          <url>https://github.com/nuomi1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39959756?s=40&amp;v=4</avatar>
-          <name>Gonglja</name>
-          <url>https://github.com/Gonglja</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>JetBrains/intellij-community</title>
-      <link>https://github.com/JetBrains/intellij-community</link>
-      <description>IntelliJ IDEA Community Edition &amp; IntelliJ Platform</description>
-      <guid>https://github.com/JetBrains/intellij-community</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>18,336</stars>
-      <forks>5,486</forks>
-      <addStars>88</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4306070?s=40&amp;v=4</avatar>
-          <name>akozlova</name>
-          <url>https://github.com/akozlova</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/350686?s=40&amp;v=4</avatar>
-          <name>develar</name>
-          <url>https://github.com/develar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46553?s=40&amp;v=4</avatar>
-          <name>yole</name>
-          <url>https://github.com/yole</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5497783?s=40&amp;v=4</avatar>
-          <name>cdracm</name>
-          <url>https://github.com/cdracm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/122009?s=40&amp;v=4</avatar>
-          <name>donnerpeter</name>
-          <url>https://github.com/donnerpeter</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>iBotPeaches/Apktool</title>
-      <link>https://github.com/iBotPeaches/Apktool</link>
-      <description>A tool for reverse engineering Android apk files</description>
-      <guid>https://github.com/iBotPeaches/Apktool</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>22,593</stars>
-      <forks>3,778</forks>
-      <addStars>67</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/611784?s=40&amp;v=4</avatar>
-          <name>iBotPeaches</name>
-          <url>https://github.com/iBotPeaches</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/405138?s=40&amp;v=4</avatar>
-          <name>broo2s</name>
-          <url>https://github.com/broo2s</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/106383?s=40&amp;v=4</avatar>
-          <name>JesusFreke</name>
-          <url>https://github.com/JesusFreke</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8811086?s=40&amp;v=4</avatar>
-          <name>IgorEisberg</name>
-          <url>https://github.com/IgorEisberg</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>iluwatar/java-design-patterns</title>
-      <link>https://github.com/iluwatar/java-design-patterns</link>
-      <description>Design patterns implemented in Java</description>
-      <guid>https://github.com/iluwatar/java-design-patterns</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>92,340</stars>
-      <forks>27,115</forks>
-      <addStars>80</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/582346?s=40&amp;v=4</avatar>
-          <name>iluwatar</name>
-          <url>https://github.com/iluwatar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1792515?s=40&amp;v=4</avatar>
-          <name>npathai</name>
-          <url>https://github.com/npathai</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13291222?s=40&amp;v=4</avatar>
-          <name>ohbus</name>
-          <url>https://github.com/ohbus</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>TeamNewPipe/NewPipe</title>
-      <link>https://github.com/TeamNewPipe/NewPipe</link>
-      <description>A libre lightweight streaming front-end for Android.</description>
-      <guid>https://github.com/TeamNewPipe/NewPipe</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>34,511</stars>
-      <forks>3,229</forks>
-      <addStars>96</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36421898?s=40&amp;v=4</avatar>
-          <name>Stypox</name>
-          <url>https://github.com/Stypox</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17365767?s=40&amp;v=4</avatar>
-          <name>TobiGr</name>
-          <url>https://github.com/TobiGr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1891273?s=40&amp;v=4</avatar>
-          <name>theScrabi</name>
-          <url>https://github.com/theScrabi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4</avatar>
-          <name>weblate</name>
-          <url>https://github.com/weblate</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40789489?s=40&amp;v=4</avatar>
-          <name>litetex</name>
-          <url>https://github.com/litetex</url>
+          <avatar>https://avatars.githubusercontent.com/u/41368289?s=40&amp;v=4</avatar>
+          <name>jinlong-T</name>
+          <url>https://github.com/jinlong-T</url>
         </contributor>
       </contributors>
     </item>
@@ -409,8 +196,8 @@
       <guid>https://github.com/AndroidIDEOfficial/AndroidIDE</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>2,641</stars>
-      <forks>441</forks>
+      <stars>2,642</stars>
+      <forks>442</forks>
       <addStars>23</addStars>
       <contributors>
         <contributor>
@@ -431,106 +218,40 @@
       </contributors>
     </item>
     <item>
-      <title>jenkinsci/jenkins</title>
-      <link>https://github.com/jenkinsci/jenkins</link>
-      <description>Jenkins automation server</description>
-      <guid>https://github.com/jenkinsci/jenkins</guid>
+      <title>nayuki/QR-Code-generator</title>
+      <link>https://github.com/nayuki/QR-Code-generator</link>
+      <description>High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.</description>
+      <guid>https://github.com/nayuki/QR-Code-generator</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>24,223</stars>
-      <forks>9,095</forks>
-      <addStars>32</addStars>
+      <stars>5,980</stars>
+      <forks>1,181</forks>
+      <addStars>27</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50003?s=40&amp;v=4</avatar>
-          <name>kohsuke</name>
-          <url>https://github.com/kohsuke</url>
+          <avatar>https://avatars.githubusercontent.com/u/672172?s=40&amp;v=4</avatar>
+          <name>nayuki</name>
+          <url>https://github.com/nayuki</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/154109?s=40&amp;v=4</avatar>
-          <name>jglick</name>
-          <url>https://github.com/jglick</url>
+          <avatar>https://avatars.githubusercontent.com/u/7014?s=40&amp;v=4</avatar>
+          <name>igorgue</name>
+          <url>https://github.com/igorgue</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1831569?s=40&amp;v=4</avatar>
-          <name>daniel-beck</name>
-          <url>https://github.com/daniel-beck</url>
+          <avatar>https://avatars.githubusercontent.com/u/417274?s=40&amp;v=4</avatar>
+          <name>scrpi</name>
+          <url>https://github.com/scrpi</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3000480?s=40&amp;v=4</avatar>
-          <name>oleg-nenashev</name>
-          <url>https://github.com/oleg-nenashev</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>HMCL-dev/HMCL</title>
-      <link>https://github.com/HMCL-dev/HMCL</link>
-      <description>A Minecraft Launcher which is multi-functional, cross-platform and popular</description>
-      <guid>https://github.com/HMCL-dev/HMCL</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>7,901</stars>
-      <forks>742</forks>
-      <addStars>35</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5411982?s=40&amp;v=4</avatar>
-          <name>huanghongxun</name>
-          <url>https://github.com/huanghongxun</url>
+          <avatar>https://avatars.githubusercontent.com/u/2221844?s=40&amp;v=4</avatar>
+          <name>0-wiz-0</name>
+          <url>https://github.com/0-wiz-0</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20694662?s=40&amp;v=4</avatar>
-          <name>Glavo</name>
-          <url>https://github.com/Glavo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8373027?s=40&amp;v=4</avatar>
-          <name>yushijinhun</name>
-          <url>https://github.com/yushijinhun</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64117916?s=40&amp;v=4</avatar>
-          <name>zkitefly</name>
-          <url>https://github.com/zkitefly</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/88144530?s=40&amp;v=4</avatar>
-          <name>burningtnt</name>
-          <url>https://github.com/burningtnt</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>supertokens/supertokens-core</title>
-      <link>https://github.com/supertokens/supertokens-core</link>
-      <description>Open source alternative to Auth0 / Firebase Auth / AWS Cognito</description>
-      <guid>https://github.com/supertokens/supertokens-core</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>14,350</stars>
-      <forks>592</forks>
-      <addStars>44</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2976287?s=40&amp;v=4</avatar>
-          <name>rishabhpoddar</name>
-          <url>https://github.com/rishabhpoddar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/650429?s=40&amp;v=4</avatar>
-          <name>sattvikc</name>
-          <url>https://github.com/sattvikc</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1129990?s=40&amp;v=4</avatar>
-          <name>porcellus</name>
-          <url>https://github.com/porcellus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8415508?s=40&amp;v=4</avatar>
-          <name>tamassoltesz</name>
-          <url>https://github.com/tamassoltesz</url>
+          <avatar>https://avatars.githubusercontent.com/u/26205140?s=40&amp;v=4</avatar>
+          <name>CorvusPrudens</name>
+          <url>https://github.com/CorvusPrudens</url>
         </contributor>
       </contributors>
     </item>
@@ -573,14 +294,364 @@
       </contributors>
     </item>
     <item>
+      <title>spring-projects/spring-ai</title>
+      <link>https://github.com/spring-projects/spring-ai</link>
+      <description>An Application Framework for AI Engineering</description>
+      <guid>https://github.com/spring-projects/spring-ai</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>6,279</stars>
+      <forks>1,749</forks>
+      <addStars>90</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1351573?s=40&amp;v=4</avatar>
+          <name>tzolov</name>
+          <url>https://github.com/tzolov</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/247466?s=40&amp;v=4</avatar>
+          <name>markpollack</name>
+          <url>https://github.com/markpollack</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/151690?s=40&amp;v=4</avatar>
+          <name>ilayaperumalg</name>
+          <url>https://github.com/ilayaperumalg</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/827682?s=40&amp;v=4</avatar>
+          <name>sobychacko</name>
+          <url>https://github.com/sobychacko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8523418?s=40&amp;v=4</avatar>
+          <name>ThomasVitale</name>
+          <url>https://github.com/ThomasVitale</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>krahets/hello-algo</title>
+      <link>https://github.com/krahets/hello-algo</link>
+      <description>《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation</description>
+      <guid>https://github.com/krahets/hello-algo</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>114,855</stars>
+      <forks>14,208</forks>
+      <addStars>270</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26993056?s=40&amp;v=4</avatar>
+          <name>krahets</name>
+          <url>https://github.com/krahets</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24556310?s=40&amp;v=4</avatar>
+          <name>justin-tse</name>
+          <url>https://github.com/justin-tse</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99076655?s=40&amp;v=4</avatar>
+          <name>coderonion</name>
+          <url>https://github.com/coderonion</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3739017?s=40&amp;v=4</avatar>
+          <name>nuomi1</name>
+          <url>https://github.com/nuomi1</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/39959756?s=40&amp;v=4</avatar>
+          <name>Gonglja</name>
+          <url>https://github.com/Gonglja</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>iBotPeaches/Apktool</title>
+      <link>https://github.com/iBotPeaches/Apktool</link>
+      <description>A tool for reverse engineering Android apk files</description>
+      <guid>https://github.com/iBotPeaches/Apktool</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>22,600</stars>
+      <forks>3,778</forks>
+      <addStars>67</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/611784?s=40&amp;v=4</avatar>
+          <name>iBotPeaches</name>
+          <url>https://github.com/iBotPeaches</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/405138?s=40&amp;v=4</avatar>
+          <name>broo2s</name>
+          <url>https://github.com/broo2s</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/106383?s=40&amp;v=4</avatar>
+          <name>JesusFreke</name>
+          <url>https://github.com/JesusFreke</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8811086?s=40&amp;v=4</avatar>
+          <name>IgorEisberg</name>
+          <url>https://github.com/IgorEisberg</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>jenkinsci/jenkins</title>
+      <link>https://github.com/jenkinsci/jenkins</link>
+      <description>Jenkins automation server</description>
+      <guid>https://github.com/jenkinsci/jenkins</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>24,227</stars>
+      <forks>9,095</forks>
+      <addStars>32</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/50003?s=40&amp;v=4</avatar>
+          <name>kohsuke</name>
+          <url>https://github.com/kohsuke</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/154109?s=40&amp;v=4</avatar>
+          <name>jglick</name>
+          <url>https://github.com/jglick</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1831569?s=40&amp;v=4</avatar>
+          <name>daniel-beck</name>
+          <url>https://github.com/daniel-beck</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3000480?s=40&amp;v=4</avatar>
+          <name>oleg-nenashev</name>
+          <url>https://github.com/oleg-nenashev</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>TeamNewPipe/NewPipe</title>
+      <link>https://github.com/TeamNewPipe/NewPipe</link>
+      <description>A libre lightweight streaming front-end for Android.</description>
+      <guid>https://github.com/TeamNewPipe/NewPipe</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>34,513</stars>
+      <forks>3,228</forks>
+      <addStars>96</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36421898?s=40&amp;v=4</avatar>
+          <name>Stypox</name>
+          <url>https://github.com/Stypox</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17365767?s=40&amp;v=4</avatar>
+          <name>TobiGr</name>
+          <url>https://github.com/TobiGr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1891273?s=40&amp;v=4</avatar>
+          <name>theScrabi</name>
+          <url>https://github.com/theScrabi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4</avatar>
+          <name>weblate</name>
+          <url>https://github.com/weblate</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40789489?s=40&amp;v=4</avatar>
+          <name>litetex</name>
+          <url>https://github.com/litetex</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>supertokens/supertokens-core</title>
+      <link>https://github.com/supertokens/supertokens-core</link>
+      <description>Open source alternative to Auth0 / Firebase Auth / AWS Cognito</description>
+      <guid>https://github.com/supertokens/supertokens-core</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>14,352</stars>
+      <forks>592</forks>
+      <addStars>44</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2976287?s=40&amp;v=4</avatar>
+          <name>rishabhpoddar</name>
+          <url>https://github.com/rishabhpoddar</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/650429?s=40&amp;v=4</avatar>
+          <name>sattvikc</name>
+          <url>https://github.com/sattvikc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1129990?s=40&amp;v=4</avatar>
+          <name>porcellus</name>
+          <url>https://github.com/porcellus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8415508?s=40&amp;v=4</avatar>
+          <name>tamassoltesz</name>
+          <url>https://github.com/tamassoltesz</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>HMCL-dev/HMCL</title>
+      <link>https://github.com/HMCL-dev/HMCL</link>
+      <description>A Minecraft Launcher which is multi-functional, cross-platform and popular</description>
+      <guid>https://github.com/HMCL-dev/HMCL</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>7,901</stars>
+      <forks>742</forks>
+      <addStars>35</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5411982?s=40&amp;v=4</avatar>
+          <name>huanghongxun</name>
+          <url>https://github.com/huanghongxun</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20694662?s=40&amp;v=4</avatar>
+          <name>Glavo</name>
+          <url>https://github.com/Glavo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8373027?s=40&amp;v=4</avatar>
+          <name>yushijinhun</name>
+          <url>https://github.com/yushijinhun</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64117916?s=40&amp;v=4</avatar>
+          <name>zkitefly</name>
+          <url>https://github.com/zkitefly</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/88144530?s=40&amp;v=4</avatar>
+          <name>burningtnt</name>
+          <url>https://github.com/burningtnt</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>dromara/Sa-Token</title>
+      <link>https://github.com/dromara/Sa-Token</link>
+      <description>一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0</description>
+      <guid>https://github.com/dromara/Sa-Token</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>17,994</stars>
+      <forks>2,798</forks>
+      <addStars>61</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36243476?s=40&amp;v=4</avatar>
+          <name>click33</name>
+          <url>https://github.com/click33</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2993611?s=40&amp;v=4</avatar>
+          <name>noear</name>
+          <url>https://github.com/noear</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40094040?s=40&amp;v=4</avatar>
+          <name>AppleOfGray</name>
+          <url>https://github.com/AppleOfGray</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>kekingcn/kkFileView</title>
+      <link>https://github.com/kekingcn/kkFileView</link>
+      <description>Universal File Online Preview Project based on Spring-Boot</description>
+      <guid>https://github.com/kekingcn/kkFileView</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>13,104</stars>
+      <forks>3,068</forks>
+      <addStars>89</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24949156?s=40&amp;v=4</avatar>
+          <name>gitchenjh</name>
+          <url>https://github.com/gitchenjh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18591662?s=40&amp;v=4</avatar>
+          <name>klboke</name>
+          <url>https://github.com/klboke</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/38685517?s=40&amp;v=4</avatar>
+          <name>zhangzhen1979</name>
+          <url>https://github.com/zhangzhen1979</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/900606?s=40&amp;v=4</avatar>
+          <name>yiding-he</name>
+          <url>https://github.com/yiding-he</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>JetBrains/intellij-community</title>
+      <link>https://github.com/JetBrains/intellij-community</link>
+      <description>IntelliJ IDEA &amp; IntelliJ Platform</description>
+      <guid>https://github.com/JetBrains/intellij-community</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>18,337</stars>
+      <forks>5,487</forks>
+      <addStars>88</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4306070?s=40&amp;v=4</avatar>
+          <name>akozlova</name>
+          <url>https://github.com/akozlova</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/350686?s=40&amp;v=4</avatar>
+          <name>develar</name>
+          <url>https://github.com/develar</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46553?s=40&amp;v=4</avatar>
+          <name>yole</name>
+          <url>https://github.com/yole</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5497783?s=40&amp;v=4</avatar>
+          <name>cdracm</name>
+          <url>https://github.com/cdracm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/122009?s=40&amp;v=4</avatar>
+          <name>donnerpeter</name>
+          <url>https://github.com/donnerpeter</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>Anuken/Mindustry</title>
       <link>https://github.com/Anuken/Mindustry</link>
       <description>The automation tower defense RTS</description>
       <guid>https://github.com/Anuken/Mindustry</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>24,434</stars>
-      <forks>3,158</forks>
+      <stars>24,441</stars>
+      <forks>3,159</forks>
       <addStars>68</addStars>
       <contributors>
         <contributor>
@@ -611,68 +682,73 @@
       </contributors>
     </item>
     <item>
-      <title>dromara/Sa-Token</title>
-      <link>https://github.com/dromara/Sa-Token</link>
-      <description>一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0</description>
-      <guid>https://github.com/dromara/Sa-Token</guid>
+      <title>648540858/wvp-GB28181-pro</title>
+      <link>https://github.com/648540858/wvp-GB28181-pro</link>
+      <description>WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。</description>
+      <guid>https://github.com/648540858/wvp-GB28181-pro</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>17,993</stars>
-      <forks>2,798</forks>
-      <addStars>61</addStars>
+      <stars>6,121</stars>
+      <forks>1,746</forks>
+      <addStars>44</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36243476?s=40&amp;v=4</avatar>
-          <name>click33</name>
-          <url>https://github.com/click33</url>
+          <avatar>https://avatars.githubusercontent.com/u/18274453?s=40&amp;v=4</avatar>
+          <name>648540858</name>
+          <url>https://github.com/648540858</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2993611?s=40&amp;v=4</avatar>
-          <name>noear</name>
-          <url>https://github.com/noear</url>
+          <avatar>https://avatars.githubusercontent.com/u/65707521?s=40&amp;v=4</avatar>
+          <name>lawrencehj</name>
+          <url>https://github.com/lawrencehj</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40094040?s=40&amp;v=4</avatar>
-          <name>AppleOfGray</name>
-          <url>https://github.com/AppleOfGray</url>
+          <avatar>https://avatars.githubusercontent.com/u/35990065?s=40&amp;v=4</avatar>
+          <name>hotcoffie</name>
+          <url>https://github.com/hotcoffie</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46475319?s=40&amp;v=4</avatar>
+          <name>xiaoQQya</name>
+          <url>https://github.com/xiaoQQya</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37614016?s=40&amp;v=4</avatar>
+          <name>mk1990</name>
+          <url>https://github.com/mk1990</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>cabaletta/baritone</title>
-      <link>https://github.com/cabaletta/baritone</link>
-      <description>google maps for block game</description>
-      <guid>https://github.com/cabaletta/baritone</guid>
+      <title>bepass-org/oblivion</title>
+      <link>https://github.com/bepass-org/oblivion</link>
+      <description>Unofficial warp client for android</description>
+      <guid>https://github.com/bepass-org/oblivion</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>8,010</stars>
-      <forks>1,652</forks>
-      <addStars>31</addStars>
+      <stars>4,455</stars>
+      <forks>608</forks>
+      <addStars>163</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3837873?s=40&amp;v=4</avatar>
-          <name>leijurv</name>
-          <url>https://github.com/leijurv</url>
+          <avatar>https://avatars.githubusercontent.com/u/68733224?s=40&amp;v=4</avatar>
+          <name>DanielcoderX</name>
+          <url>https://github.com/DanielcoderX</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24485393?s=40&amp;v=4</avatar>
-          <name>ZeroMemes</name>
-          <url>https://github.com/ZeroMemes</url>
+          <avatar>https://avatars.githubusercontent.com/u/6353129?s=40&amp;v=4</avatar>
+          <name>markpash</name>
+          <url>https://github.com/markpash</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68165024?s=40&amp;v=4</avatar>
-          <name>ZacSharp</name>
-          <url>https://github.com/ZacSharp</url>
+          <avatar>https://avatars.githubusercontent.com/u/75689502?s=40&amp;v=4</avatar>
+          <name>ameerhossein</name>
+          <url>https://github.com/ameerhossein</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6234704?s=40&amp;v=4</avatar>
-          <name>wagyourtail</name>
-          <url>https://github.com/wagyourtail</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12820770?s=40&amp;v=4</avatar>
-          <name>babbaj</name>
-          <url>https://github.com/babbaj</url>
+          <avatar>https://avatars.githubusercontent.com/u/43346478?s=40&amp;v=4</avatar>
+          <name>uoosef</name>
+          <url>https://github.com/uoosef</url>
         </contributor>
       </contributors>
     </item>

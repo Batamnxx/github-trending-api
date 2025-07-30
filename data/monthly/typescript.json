@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Monthly Trending",
   "description": "Monthly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Jul 2025 07:30:04 GMT",
+  "pubDate": "Wed, 30 Jul 2025 13:40:11 GMT",
   "items": [
     {
       "title": "humanlayer/12-factor-agents",
@@ -10,8 +10,8 @@
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,814",
-      "forks": "711",
+      "stars": "10,849",
+      "forks": "716",
       "addStars": "5,942",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,748",
-      "forks": "637",
+      "stars": "8,860",
+      "forks": "642",
       "addStars": "6,295",
       "contributors": [
         {
@@ -79,50 +79,13 @@
       ]
     },
     {
-      "title": "zaidmukaddam/scira",
-      "url": "https://github.com/zaidmukaddam/scira",
-      "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "10,211",
-      "forks": "1,254",
-      "addStars": "1,888",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76097144?s=40&v=4",
-          "name": "zaidmukaddam",
-          "url": "https://github.com/zaidmukaddam"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/192434660?s=40&v=4",
-          "name": "simplr-sh",
-          "url": "https://github.com/simplr-sh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/83772622?s=40&v=4",
-          "name": "impoiler",
-          "url": "https://github.com/impoiler"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62104921?s=40&v=4",
-          "name": "iamsatyanchal",
-          "url": "https://github.com/iamsatyanchal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40672544?s=40&v=4",
-          "name": "waleedlatif1",
-          "url": "https://github.com/waleedlatif1"
-        }
-      ]
-    },
-    {
       "title": "Kilo-Org/kilocode",
       "url": "https://github.com/Kilo-Org/kilocode",
       "description": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,902",
-      "forks": "507",
+      "stars": "5,935",
+      "forks": "509",
       "addStars": "4,358",
       "contributors": [
         {
@@ -153,8 +116,8 @@
       "description": "🧡 Follow everything in one place",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,361",
-      "forks": "1,371",
+      "stars": "30,374",
+      "forks": "1,372",
       "addStars": "3,445",
       "contributors": [
         {
@@ -185,39 +148,39 @@
       ]
     },
     {
-      "title": "midday-ai/midday",
-      "url": "https://github.com/midday-ai/midday",
-      "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+      "title": "zaidmukaddam/scira",
+      "url": "https://github.com/zaidmukaddam/scira",
+      "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,529",
-      "forks": "899",
-      "addStars": "1,283",
+      "stars": "10,218",
+      "forks": "1,252",
+      "addStars": "1,888",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/655158?s=40&v=4",
-          "name": "pontusab",
-          "url": "https://github.com/pontusab"
+          "avatar": "https://avatars.githubusercontent.com/u/76097144?s=40&v=4",
+          "name": "zaidmukaddam",
+          "url": "https://github.com/zaidmukaddam"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/108531789?s=40&v=4",
-          "name": "BharathxD",
-          "url": "https://github.com/BharathxD"
+          "avatar": "https://avatars.githubusercontent.com/u/192434660?s=40&v=4",
+          "name": "simplr-sh",
+          "url": "https://github.com/simplr-sh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10424147?s=40&v=4",
-          "name": "federicoestevez",
-          "url": "https://github.com/federicoestevez"
+          "avatar": "https://avatars.githubusercontent.com/u/83772622?s=40&v=4",
+          "name": "impoiler",
+          "url": "https://github.com/impoiler"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31220512?s=40&v=4",
-          "name": "Ifunanyacollins",
-          "url": "https://github.com/Ifunanyacollins"
+          "avatar": "https://avatars.githubusercontent.com/u/62104921?s=40&v=4",
+          "name": "iamsatyanchal",
+          "url": "https://github.com/iamsatyanchal"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/50083367?s=40&v=4",
-          "name": "YazidKurdi",
-          "url": "https://github.com/YazidKurdi"
+          "avatar": "https://avatars.githubusercontent.com/u/40672544?s=40&v=4",
+          "name": "waleedlatif1",
+          "url": "https://github.com/waleedlatif1"
         }
       ]
     },
@@ -227,8 +190,8 @@
       "description": "Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,279",
-      "forks": "357",
+      "stars": "2,286",
+      "forks": "359",
       "addStars": "727",
       "contributors": [
         {
@@ -244,50 +207,13 @@
       ]
     },
     {
-      "title": "codexu/note-gen",
-      "url": "https://github.com/codexu/note-gen",
-      "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "7,205",
-      "forks": "467",
-      "addStars": "2,189",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15899990?s=40&v=4",
-          "name": "codexu",
-          "url": "https://github.com/codexu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49934348?s=40&v=4",
-          "name": "hahaxiaowai",
-          "url": "https://github.com/hahaxiaowai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/144885467?s=40&v=4",
-          "name": "Pleasurecruise",
-          "url": "https://github.com/Pleasurecruise"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20651728?s=40&v=4",
-          "name": "ZhangTianrong",
-          "url": "https://github.com/ZhangTianrong"
-        }
-      ]
-    },
-    {
       "title": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "424,655",
-      "forks": "41,018",
+      "stars": "424,675",
+      "forks": "41,022",
       "addStars": "3,260",
       "contributors": [
         {
@@ -313,45 +239,13 @@
       ]
     },
     {
-      "title": "jnsahaj/tweakcn",
-      "url": "https://github.com/jnsahaj/tweakcn",
-      "description": "A visual no-code theme editor for shadcn/ui components",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "6,215",
-      "forks": "339",
-      "addStars": "1,828",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/82111591?s=40&v=4",
-          "name": "jnsahaj",
-          "url": "https://github.com/jnsahaj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/137589205?s=40&v=4",
-          "name": "llanesluis",
-          "url": "https://github.com/llanesluis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/94807001?s=40&v=4",
-          "name": "bognar-dev",
-          "url": "https://github.com/bognar-dev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108873379?s=40&v=4",
-          "name": "sahaj-myhq",
-          "url": "https://github.com/sahaj-myhq"
-        }
-      ]
-    },
-    {
       "title": "th-ch/youtube-music",
       "url": "https://github.com/th-ch/youtube-music",
       "description": "YouTube Music Desktop App bundled with custom plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,408",
-      "forks": "1,445",
+      "stars": "26,420",
+      "forks": "1,442",
       "addStars": "3,711",
       "contributors": [
         {
@@ -377,50 +271,13 @@
       ]
     },
     {
-      "title": "clash-verge-rev/clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "67,936",
-      "forks": "5,159",
-      "addStars": "4,605",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27361820?s=40&v=4",
-          "name": "zzzgydi",
-          "url": "https://github.com/zzzgydi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/179569293?s=40&v=4",
-          "name": "huzibaca",
-          "url": "https://github.com/huzibaca"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/152463842?s=40&v=4",
-          "name": "MystiPanda",
-          "url": "https://github.com/MystiPanda"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96291150?s=40&v=4",
-          "name": "wonfen",
-          "url": "https://github.com/wonfen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77394545?s=40&v=4",
-          "name": "Tunglies",
-          "url": "https://github.com/Tunglies"
-        }
-      ]
-    },
-    {
       "title": "Dokploy/dokploy",
       "url": "https://github.com/Dokploy/dokploy",
       "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,450",
-      "forks": "1,240",
+      "stars": "22,463",
+      "forks": "1,241",
       "addStars": "1,390",
       "contributors": [
         {
@@ -451,39 +308,113 @@
       ]
     },
     {
-      "title": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "title": "midday-ai/midday",
+      "url": "https://github.com/midday-ai/midday",
+      "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "34,685",
-      "forks": "3,896",
-      "addStars": "3,810",
+      "stars": "9,532",
+      "forks": "900",
+      "addStars": "1,283",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12035771?s=40&v=4",
-          "name": "charlesBochet",
-          "url": "https://github.com/charlesBochet"
+          "avatar": "https://avatars.githubusercontent.com/u/655158?s=40&v=4",
+          "name": "pontusab",
+          "url": "https://github.com/pontusab"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26528466?s=40&v=4",
-          "name": "lucasbordeau",
-          "url": "https://github.com/lucasbordeau"
+          "avatar": "https://avatars.githubusercontent.com/u/108531789?s=40&v=4",
+          "name": "BharathxD",
+          "url": "https://github.com/BharathxD"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6399865?s=40&v=4",
-          "name": "FelixMalfait",
-          "url": "https://github.com/FelixMalfait"
+          "avatar": "https://avatars.githubusercontent.com/u/10424147?s=40&v=4",
+          "name": "federicoestevez",
+          "url": "https://github.com/federicoestevez"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1834158?s=40&v=4",
-          "name": "Weiko",
-          "url": "https://github.com/Weiko"
+          "avatar": "https://avatars.githubusercontent.com/u/31220512?s=40&v=4",
+          "name": "Ifunanyacollins",
+          "url": "https://github.com/Ifunanyacollins"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/71827178?s=40&v=4",
-          "name": "bosiraphael",
-          "url": "https://github.com/bosiraphael"
+          "avatar": "https://avatars.githubusercontent.com/u/50083367?s=40&v=4",
+          "name": "YazidKurdi",
+          "url": "https://github.com/YazidKurdi"
+        }
+      ]
+    },
+    {
+      "title": "codexu/note-gen",
+      "url": "https://github.com/codexu/note-gen",
+      "description": "A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "7,215",
+      "forks": "468",
+      "addStars": "2,189",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15899990?s=40&v=4",
+          "name": "codexu",
+          "url": "https://github.com/codexu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49934348?s=40&v=4",
+          "name": "hahaxiaowai",
+          "url": "https://github.com/hahaxiaowai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48553796?s=40&v=4",
+          "name": "SilenceZen",
+          "url": "https://github.com/SilenceZen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/144885467?s=40&v=4",
+          "name": "Pleasurecruise",
+          "url": "https://github.com/Pleasurecruise"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "68,000",
+      "forks": "5,166",
+      "addStars": "4,605",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27361820?s=40&v=4",
+          "name": "zzzgydi",
+          "url": "https://github.com/zzzgydi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/179569293?s=40&v=4",
+          "name": "huzibaca",
+          "url": "https://github.com/huzibaca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/152463842?s=40&v=4",
+          "name": "MystiPanda",
+          "url": "https://github.com/MystiPanda"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96291150?s=40&v=4",
+          "name": "wonfen",
+          "url": "https://github.com/wonfen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/77394545?s=40&v=4",
+          "name": "Tunglies",
+          "url": "https://github.com/Tunglies"
         }
       ]
     },
@@ -493,8 +424,8 @@
       "description": "Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,252",
-      "forks": "854",
+      "stars": "6,261",
+      "forks": "853",
       "addStars": "2,173",
       "contributors": [
         {
@@ -521,6 +452,102 @@
           "avatar": "https://avatars.githubusercontent.com/u/77861281?s=40&v=4",
           "name": "aadamgough",
           "url": "https://github.com/aadamgough"
+        }
+      ]
+    },
+    {
+      "title": "linshenkx/prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "description": "一款提示词优化器，助力于编写高质量的提示词",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "11,299",
+      "forks": "1,388",
+      "addStars": "2,940",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32978552?s=40&v=4",
+          "name": "linshenkx",
+          "url": "https://github.com/linshenkx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5528016?s=40&v=4",
+          "name": "hexart",
+          "url": "https://github.com/hexart"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15119304?s=40&v=4",
+          "name": "lanyuanxiaoyao",
+          "url": "https://github.com/lanyuanxiaoyao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2194474?s=40&v=4",
+          "name": "mrzzcn",
+          "url": "https://github.com/mrzzcn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8481484?s=40&v=4",
+          "name": "zzzhouuu",
+          "url": "https://github.com/zzzhouuu"
+        }
+      ]
+    },
+    {
+      "title": "srbhr/Resume-Matcher",
+      "url": "https://github.com/srbhr/Resume-Matcher",
+      "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "20,861",
+      "forks": "4,198",
+      "addStars": "11,918",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54472864?s=40&v=4",
+          "name": "srbhr",
+          "url": "https://github.com/srbhr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47035684?s=40&v=4",
+          "name": "rrvrs",
+          "url": "https://github.com/rrvrs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46422196?s=40&v=4",
+          "name": "SubramanyamChalla24",
+          "url": "https://github.com/SubramanyamChalla24"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7581546?s=40&v=4",
+          "name": "Sayvai",
+          "url": "https://github.com/Sayvai"
+        }
+      ]
+    },
+    {
+      "title": "C4illin/ConvertX",
+      "url": "https://github.com/C4illin/ConvertX",
+      "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "6,862",
+      "forks": "290",
+      "addStars": "4,122",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20753603?s=40&v=4",
+          "name": "C4illin",
+          "url": "https://github.com/C4illin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95495174?s=40&v=4",
+          "name": "fasonju",
+          "url": "https://github.com/fasonju"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110846042?s=40&v=4",
+          "name": "bennett-sh",
+          "url": "https://github.com/bennett-sh"
         }
       ]
     }

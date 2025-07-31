@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Thu, 31 Jul 2025 13:38:34 GMT</pubDate>
+    <pubDate>Thu, 31 Jul 2025 19:22:38 GMT</pubDate>
     <item>
       <title>terraform-aws-modules/terraform-aws-eks</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
@@ -120,7 +120,7 @@
       <guid>https://github.com/terraform-aws-modules/terraform-aws-lambda</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>997</stars>
+      <stars>998</stars>
       <forks>722</forks>
       <addStars>1</addStars>
       <contributors>
@@ -158,7 +158,7 @@
       <guid>https://github.com/aws-ia/terraform-aws-eks-blueprints</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>2,920</stars>
+      <stars>2,919</stars>
       <forks>1,496</forks>
       <addStars>7</addStars>
       <contributors>
@@ -262,7 +262,7 @@
       <guid>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>3,131</stars>
+      <stars>3,132</stars>
       <forks>461</forks>
       <addStars>12</addStars>
       <contributors>

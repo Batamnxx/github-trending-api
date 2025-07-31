@@ -2,7 +2,7 @@
   "title": "GitHub Tcl Languages Weekly Trending",
   "description": "Weekly Trending of Tcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 31 Jul 2025 03:04:07 GMT",
+  "pubDate": "Thu, 31 Jul 2025 07:28:46 GMT",
   "items": [
     {
       "title": "eloqdata/eloqkv",
@@ -10,8 +10,8 @@
       "description": "Redis/Valkey Compatible Distributed Transactional Key-Value Store",
       "language": "Tcl",
       "languageColor": "#e4cc98",
-      "stars": "206",
-      "forks": "19",
+      "stars": "207",
+      "forks": "20",
       "addStars": "14",
       "contributors": [
         {

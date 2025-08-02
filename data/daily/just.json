@@ -2,7 +2,7 @@
   "title": "GitHub Just Languages Daily Trending",
   "description": "Daily Trending of Just Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 02 Aug 2025 02:56:10 GMT",
+  "pubDate": "Sat, 02 Aug 2025 07:23:54 GMT",
   "items": [
     {
       "title": "pop-os/cosmic-epoch",
@@ -10,7 +10,7 @@
       "description": "Next generation Cosmic desktop environment",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "4,304",
+      "stars": "4,305",
       "forks": "115",
       "addStars": "3",
       "contributors": [

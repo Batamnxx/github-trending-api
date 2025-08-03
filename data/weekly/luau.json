@@ -2,7 +2,7 @@
   "title": "GitHub Luau Languages Weekly Trending",
   "description": "Weekly Trending of Luau Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 03 Aug 2025 07:24:10 GMT",
+  "pubDate": "Sun, 03 Aug 2025 13:32:56 GMT",
   "items": [
     {
       "title": "luau/UniversalSynSaveInstance",
@@ -37,7 +37,7 @@
       "description": "Roblox Server Administration System",
       "language": "Luau",
       "languageColor": "#00A2FF",
-      "stars": "370",
+      "stars": "373",
       "forks": "199",
       "addStars": "1",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "Rojo enables Roblox developers to use professional-grade software engineering tools",
       "language": "Luau",
       "languageColor": "#00A2FF",
-      "stars": "1,188",
+      "stars": "1,190",
       "forks": "204",
       "addStars": "7",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Crystal Languages Daily Trending",
   "description": "Daily Trending of Crystal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 02 Aug 2025 19:19:27 GMT",
+  "pubDate": "Sun, 03 Aug 2025 03:13:48 GMT",
   "items": [
     {
       "title": "crystal-lang/crystal",
@@ -11,8 +11,8 @@
       "language": "Crystal",
       "languageColor": "#000100",
       "stars": "19,896",
-      "forks": "1,644",
-      "addStars": "6",
+      "forks": "1,645",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/466378?s=40&v=4",

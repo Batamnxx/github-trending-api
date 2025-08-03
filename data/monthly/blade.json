@@ -2,7 +2,7 @@
   "title": "GitHub Blade Languages Monthly Trending",
   "description": "Monthly Trending of Blade Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 03 Aug 2025 13:32:56 GMT",
+  "pubDate": "Sun, 03 Aug 2025 19:20:31 GMT",
   "items": [
     {
       "title": "grocy/grocy",
@@ -10,8 +10,8 @@
       "description": "ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home",
       "language": "Blade",
       "languageColor": "#f7523f",
-      "stars": "7,984",
-      "forks": "656",
+      "stars": "7,985",
+      "forks": "658",
       "addStars": "195",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
       "language": "Blade",
       "languageColor": "#f7523f",
-      "stars": "81,699",
-      "forks": "24,443",
+      "stars": "81,703",
+      "forks": "24,441",
       "addStars": "418",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "The official Livewire UI component library",
       "language": "Blade",
       "languageColor": "#f7523f",
-      "stars": "771",
+      "stars": "772",
       "forks": "75",
       "addStars": "18",
       "contributors": [

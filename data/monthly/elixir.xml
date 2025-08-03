@@ -3,7 +3,7 @@
     <title>GitHub Elixir Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Elixir Languages in GitHub</description>
-    <pubDate>Sun, 03 Aug 2025 03:13:48 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 07:24:10 GMT</pubDate>
     <item>
       <title>anoma/anoma</title>
       <link>https://github.com/anoma/anoma</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/anoma/anoma</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>32,739</stars>
+      <stars>32,744</stars>
       <forks>3,981</forks>
       <addStars>3,142</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/teslamate-org/teslamate</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>6,933</stars>
+      <stars>6,934</stars>
       <forks>838</forks>
       <addStars>108</addStars>
       <contributors>
@@ -399,7 +399,7 @@
       <guid>https://github.com/kieraneglin/pinchflat</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>3,449</stars>
+      <stars>3,451</stars>
       <forks>79</forks>
       <addStars>181</addStars>
       <contributors>
@@ -683,7 +683,7 @@
       <guid>https://github.com/livebook-dev/livebook</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>5,436</stars>
+      <stars>5,437</stars>
       <forks>469</forks>
       <addStars>45</addStars>
       <contributors>
@@ -722,7 +722,7 @@
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
       <stars>22,335</stars>
-      <forks>2,987</forks>
+      <forks>2,988</forks>
       <addStars>118</addStars>
       <contributors>
         <contributor>

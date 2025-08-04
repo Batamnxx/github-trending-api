@@ -2,7 +2,7 @@
   "title": "GitHub Restructuredtext Languages Daily Trending",
   "description": "Daily Trending of Restructuredtext Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 04 Aug 2025 13:41:36 GMT",
+  "pubDate": "Mon, 04 Aug 2025 19:23:57 GMT",
   "items": [
     {
       "title": "godotengine/godot-docs",
@@ -47,8 +47,8 @@
       "description": "Odoo documentation sources",
       "language": "reStructuredText",
       "languageColor": "#141414",
-      "stars": "943",
-      "forks": "9,803",
+      "stars": "944",
+      "forks": "9,807",
       "addStars": "1",
       "contributors": [
         {

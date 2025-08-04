@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 04 Aug 2025 13:41:36 GMT",
+  "pubDate": "Mon, 04 Aug 2025 19:23:57 GMT",
   "items": [
     {
       "title": "microsoft/vcpkg",
@@ -11,7 +11,7 @@
       "language": "CMake",
       "languageColor": "#DA3434",
       "stars": "25,342",
-      "forks": "6,991",
+      "forks": "6,992",
       "addStars": "5",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "996",
+      "stars": "998",
       "forks": "146",
       "addStars": "2",
       "contributors": [

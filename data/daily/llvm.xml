@@ -3,7 +3,7 @@
     <title>GitHub Llvm Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Llvm Languages in GitHub</description>
-    <pubDate>Mon, 04 Aug 2025 03:18:38 GMT</pubDate>
+    <pubDate>Mon, 04 Aug 2025 07:34:06 GMT</pubDate>
     <item>
       <title>intel/llvm</title>
       <link>https://github.com/intel/llvm</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/llvm/llvm-project</guid>
       <language>LLVM</language>
       <languageColor>#185619</languageColor>
-      <stars>33,778</stars>
-      <forks>14,643</forks>
+      <stars>33,779</stars>
+      <forks>14,642</forks>
       <addStars>14</addStars>
       <contributors>
         <contributor>

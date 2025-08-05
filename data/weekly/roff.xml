@@ -3,7 +3,7 @@
     <title>GitHub Roff Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Roff Languages in GitHub</description>
-    <pubDate>Tue, 05 Aug 2025 03:07:47 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 07:31:15 GMT</pubDate>
     <item>
       <title>ophub/amlogic-s9xxx-armbian</title>
       <link>https://github.com/ophub/amlogic-s9xxx-armbian</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/ophub/amlogic-s9xxx-armbian</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>7,577</stars>
+      <stars>7,580</stars>
       <forks>2,427</forks>
       <addStars>42</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/pyenv/pyenv</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>42,803</stars>
+      <stars>42,804</stars>
       <forks>3,190</forks>
       <addStars>104</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/sidpalas/devops-directive-docker-course</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>2,692</stars>
-      <forks>1,916</forks>
+      <stars>2,693</stars>
+      <forks>1,917</forks>
       <addStars>16</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/TapXWorld/ChinaTextbook</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>46,687</stars>
-      <forks>10,475</forks>
+      <stars>46,705</stars>
+      <forks>10,482</forks>
       <addStars>635</addStars>
       <contributors>
         <contributor>

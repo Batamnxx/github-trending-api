@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Weekly Trending",
   "description": "Weekly Trending of Llvm Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 06 Aug 2025 19:23:31 GMT",
+  "pubDate": "Thu, 07 Aug 2025 03:06:23 GMT",
   "items": [
     {
       "title": "intel/llvm",
@@ -48,8 +48,8 @@
       "language": "LLVM",
       "languageColor": "#185619",
       "stars": "33,829",
-      "forks": "14,674",
-      "addStars": "114",
+      "forks": "14,677",
+      "addStars": "123",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",

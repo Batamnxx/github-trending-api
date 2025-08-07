@@ -2,7 +2,7 @@
   "title": "GitHub Roff Languages Daily Trending",
   "description": "Daily Trending of Roff Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 07 Aug 2025 13:40:29 GMT",
+  "pubDate": "Thu, 07 Aug 2025 19:23:31 GMT",
   "items": [
     {
       "title": "pyenv/pyenv",
@@ -10,7 +10,7 @@
       "description": "Simple Python version management",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": "42,834",
+      "stars": "42,836",
       "forks": "3,189",
       "addStars": "14",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "Roff",
       "languageColor": "#ecdebe",
       "stars": "7,593",
-      "forks": "2,437",
+      "forks": "2,438",
       "addStars": "3",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Companion repo for complete Docker course",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": "2,699",
-      "forks": "1,919",
+      "stars": "2,700",
+      "forks": "1,920",
       "addStars": "3",
       "contributors": [
         {

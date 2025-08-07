@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 07 Aug 2025 13:40:29 GMT",
+  "pubDate": "Thu, 07 Aug 2025 19:23:31 GMT",
   "items": [
     {
       "title": "dyad-sh/dyad",
@@ -10,8 +10,8 @@
       "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,299",
-      "forks": "1,033",
+      "stars": "11,368",
+      "forks": "1,043",
       "addStars": "8,334",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "Investment Research for Everyone, Everywhere.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "48,527",
-      "forks": "4,469",
+      "stars": "48,548",
+      "forks": "4,473",
       "addStars": "6,312",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,056",
-      "forks": "814",
+      "stars": "11,138",
+      "forks": "823",
       "addStars": "7,691",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "70,569",
-      "forks": "3,816",
+      "stars": "70,587",
+      "forks": "3,818",
       "addStars": "10,856",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "28,505",
-      "forks": "1,604",
+      "stars": "28,550",
+      "forks": "1,607",
       "addStars": "10,775",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,222",
-      "forks": "955",
+      "stars": "7,238",
+      "forks": "956",
       "addStars": "2,966",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "A curated list of awesome commands, files, and workflows for Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,122",
-      "forks": "470",
+      "stars": "9,172",
+      "forks": "473",
       "addStars": "6,116",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,005",
-      "forks": "651",
+      "stars": "9,020",
+      "forks": "653",
       "addStars": "7,252",
       "contributors": [
         {
@@ -286,7 +286,7 @@
       "description": "🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,846",
+      "stars": "5,855",
       "forks": "424",
       "addStars": "4,469",
       "contributors": [
@@ -323,8 +323,8 @@
       "description": "Open Source HR and Payroll Software",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,849",
-      "forks": "1,512",
+      "stars": "5,862",
+      "forks": "1,513",
       "addStars": "3,128",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "AI coding agent, built for the terminal.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,873",
-      "forks": "1,119",
+      "stars": "17,931",
+      "forks": "1,121",
       "addStars": "8,702",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "35,270",
-      "forks": "8,231",
+      "stars": "35,283",
+      "forks": "8,233",
       "addStars": "7,751",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "57,350",
-      "forks": "3,645",
+      "stars": "57,364",
+      "forks": "3,647",
       "addStars": "2,532",
       "contributors": [
         {

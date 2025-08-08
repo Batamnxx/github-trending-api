@@ -3,7 +3,7 @@
     <title>GitHub Ocaml Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Ocaml Languages in GitHub</description>
-    <pubDate>Fri, 08 Aug 2025 13:38:38 GMT</pubDate>
+    <pubDate>Fri, 08 Aug 2025 19:19:21 GMT</pubDate>
     <item>
       <title>facebook/infer</title>
       <link>https://github.com/facebook/infer</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/semgrep/semgrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>12,443</stars>
+      <stars>12,445</stars>
       <forks>757</forks>
       <addStars>8</addStars>
       <contributors>

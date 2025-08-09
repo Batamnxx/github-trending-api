@@ -2,7 +2,7 @@
   "title": "GitHub Adblock-filter-list Languages Monthly Trending",
   "description": "Monthly Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 Aug 2025 07:22:40 GMT",
+  "pubDate": "Sat, 09 Aug 2025 13:28:54 GMT",
   "items": [
     {
       "title": "uBlockOrigin/uAssets",
@@ -10,7 +10,7 @@
       "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "4,993",
+      "stars": "4,994",
       "forks": "875",
       "addStars": "121",
       "contributors": [
@@ -74,8 +74,8 @@
       "description": "AdGuard Content Blocking Filters",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "3,805",
-      "forks": "730",
+      "stars": "3,806",
+      "forks": "731",
       "addStars": "61",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "AdGuard DNS filter",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "1,005",
+      "stars": "1,006",
       "forks": "158",
       "addStars": "19",
       "contributors": [

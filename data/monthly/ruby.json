@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Monthly Trending",
   "description": "Monthly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 Aug 2025 07:22:40 GMT",
+  "pubDate": "Sat, 09 Aug 2025 13:28:54 GMT",
   "items": [
     {
       "title": "mastodon/mastodon",
@@ -10,7 +10,7 @@
       "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "48,851",
+      "stars": "48,854",
       "forks": "7,262",
       "addStars": "353",
       "contributors": [
@@ -32,71 +32,71 @@
       ]
     },
     {
-      "title": "freeCodeCamp/devdocs",
-      "url": "https://github.com/freeCodeCamp/devdocs",
-      "description": "API Documentation Browser",
+      "title": "rapid7/metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "36,827",
-      "forks": "2,455",
-      "addStars": "355",
+      "stars": "36,110",
+      "forks": "14,440",
+      "addStars": "302",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17579?s=40&v=4",
-          "name": "Thibaut",
-          "url": "https://github.com/Thibaut"
+          "avatar": "https://avatars.githubusercontent.com/u/1170914?s=40&v=4",
+          "name": "wchen-r7",
+          "url": "https://github.com/wchen-r7"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/782446?s=40&v=4",
-          "name": "simon04",
-          "url": "https://github.com/simon04"
+          "avatar": "https://avatars.githubusercontent.com/u/4551878?s=40&v=4",
+          "name": "wvu",
+          "url": "https://github.com/wvu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14951909?s=40&v=4",
-          "name": "jmerle",
-          "url": "https://github.com/jmerle"
+          "avatar": "https://avatars.githubusercontent.com/u/5332090?s=40&v=4",
+          "name": "msjenkins-r7",
+          "url": "https://github.com/msjenkins-r7"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52229226?s=40&v=4",
-          "name": "MasterEnoc",
-          "url": "https://github.com/MasterEnoc"
+          "avatar": "https://avatars.githubusercontent.com/u/1742838?s=40&v=4",
+          "name": "jvazquez-r7",
+          "url": "https://github.com/jvazquez-r7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2058303?s=40&v=4",
+          "name": "zeroSteiner",
+          "url": "https://github.com/zeroSteiner"
         }
       ]
     },
     {
-      "title": "rails/rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
+      "title": "discourse/discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "57,250",
-      "forks": "21,914",
-      "addStars": "259",
+      "stars": "44,751",
+      "forks": "8,606",
+      "addStars": "314",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&v=4",
-          "name": "rafaelfranca",
-          "url": "https://github.com/rafaelfranca"
+          "avatar": "https://avatars.githubusercontent.com/u/5213?s=40&v=4",
+          "name": "SamSaffron",
+          "url": "https://github.com/SamSaffron"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12642?s=40&v=4",
-          "name": "kamipo",
-          "url": "https://github.com/kamipo"
+          "avatar": "https://avatars.githubusercontent.com/u/17538?s=40&v=4",
+          "name": "eviltrout",
+          "url": "https://github.com/eviltrout"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199?s=40&v=4",
-          "name": "jeremy",
-          "url": "https://github.com/jeremy"
+          "avatar": "https://avatars.githubusercontent.com/u/4335742?s=40&v=4",
+          "name": "tgxworld",
+          "url": "https://github.com/tgxworld"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3124?s=40&v=4",
-          "name": "tenderlove",
-          "url": "https://github.com/tenderlove"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3387?s=40&v=4",
-          "name": "fxn",
-          "url": "https://github.com/fxn"
+          "avatar": "https://avatars.githubusercontent.com/u/362783?s=40&v=4",
+          "name": "ZogStriP",
+          "url": "https://github.com/ZogStriP"
         }
       ]
     },
@@ -138,34 +138,103 @@
       ]
     },
     {
-      "title": "discourse/discourse",
-      "url": "https://github.com/discourse/discourse",
-      "description": "A platform for community discussion. Free, open, simple.",
+      "title": "freeCodeCamp/devdocs",
+      "url": "https://github.com/freeCodeCamp/devdocs",
+      "description": "API Documentation Browser",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "44,745",
-      "forks": "8,606",
-      "addStars": "314",
+      "stars": "36,827",
+      "forks": "2,455",
+      "addStars": "355",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5213?s=40&v=4",
-          "name": "SamSaffron",
-          "url": "https://github.com/SamSaffron"
+          "avatar": "https://avatars.githubusercontent.com/u/17579?s=40&v=4",
+          "name": "Thibaut",
+          "url": "https://github.com/Thibaut"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17538?s=40&v=4",
-          "name": "eviltrout",
-          "url": "https://github.com/eviltrout"
+          "avatar": "https://avatars.githubusercontent.com/u/782446?s=40&v=4",
+          "name": "simon04",
+          "url": "https://github.com/simon04"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4335742?s=40&v=4",
-          "name": "tgxworld",
-          "url": "https://github.com/tgxworld"
+          "avatar": "https://avatars.githubusercontent.com/u/14951909?s=40&v=4",
+          "name": "jmerle",
+          "url": "https://github.com/jmerle"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/362783?s=40&v=4",
-          "name": "ZogStriP",
-          "url": "https://github.com/ZogStriP"
+          "avatar": "https://avatars.githubusercontent.com/u/52229226?s=40&v=4",
+          "name": "MasterEnoc",
+          "url": "https://github.com/MasterEnoc"
+        }
+      ]
+    },
+    {
+      "title": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "57,251",
+      "forks": "21,915",
+      "addStars": "259",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&v=4",
+          "name": "rafaelfranca",
+          "url": "https://github.com/rafaelfranca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12642?s=40&v=4",
+          "name": "kamipo",
+          "url": "https://github.com/kamipo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199?s=40&v=4",
+          "name": "jeremy",
+          "url": "https://github.com/jeremy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3124?s=40&v=4",
+          "name": "tenderlove",
+          "url": "https://github.com/tenderlove"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3387?s=40&v=4",
+          "name": "fxn",
+          "url": "https://github.com/fxn"
+        }
+      ]
+    },
+    {
+      "title": "Freika/dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Self-hostable alternative to Google Timeline (Google Location History)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "5,977",
+      "forks": "174",
+      "addStars": "486",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3738638?s=40&v=4",
+          "name": "Freika",
+          "url": "https://github.com/Freika"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/73174517?s=40&v=4",
+          "name": "sunstep",
+          "url": "https://github.com/sunstep"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60738409?s=40&v=4",
+          "name": "saschazepter",
+          "url": "https://github.com/saschazepter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88774276?s=40&v=4",
+          "name": "Eduard-Gimaev",
+          "url": "https://github.com/Eduard-Gimaev"
         }
       ]
     },
@@ -175,7 +244,7 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "24,834",
+      "stars": "24,837",
       "forks": "5,080",
       "addStars": "485",
       "contributors": [
@@ -207,81 +276,12 @@
       ]
     },
     {
-      "title": "Freika/dawarich",
-      "url": "https://github.com/Freika/dawarich",
-      "description": "Self-hostable alternative to Google Timeline (Google Location History)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "5,975",
-      "forks": "174",
-      "addStars": "486",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3738638?s=40&v=4",
-          "name": "Freika",
-          "url": "https://github.com/Freika"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73174517?s=40&v=4",
-          "name": "sunstep",
-          "url": "https://github.com/sunstep"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60738409?s=40&v=4",
-          "name": "saschazepter",
-          "url": "https://github.com/saschazepter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88774276?s=40&v=4",
-          "name": "Eduard-Gimaev",
-          "url": "https://github.com/Eduard-Gimaev"
-        }
-      ]
-    },
-    {
-      "title": "rapid7/metasploit-framework",
-      "url": "https://github.com/rapid7/metasploit-framework",
-      "description": "Metasploit Framework",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "36,107",
-      "forks": "14,440",
-      "addStars": "302",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1170914?s=40&v=4",
-          "name": "wchen-r7",
-          "url": "https://github.com/wchen-r7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4551878?s=40&v=4",
-          "name": "wvu",
-          "url": "https://github.com/wvu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5332090?s=40&v=4",
-          "name": "msjenkins-r7",
-          "url": "https://github.com/msjenkins-r7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1742838?s=40&v=4",
-          "name": "jvazquez-r7",
-          "url": "https://github.com/jvazquez-r7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2058303?s=40&v=4",
-          "name": "zeroSteiner",
-          "url": "https://github.com/zeroSteiner"
-        }
-      ]
-    },
-    {
       "title": "docusealco/docuseal",
       "url": "https://github.com/docusealco/docuseal",
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "9,629",
+      "stars": "9,630",
       "forks": "725",
       "addStars": "298",
       "contributors": [
@@ -308,39 +308,29 @@
       ]
     },
     {
-      "title": "github/explore",
-      "url": "https://github.com/github/explore",
-      "description": "Community-curated topic and collection pages on GitHub",
+      "title": "antiwork/flexile",
+      "url": "https://github.com/antiwork/flexile",
+      "description": "Contractor payments as easy as 1-2-3",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,478",
-      "forks": "13,389",
-      "addStars": "38",
+      "stars": "692",
+      "forks": "260",
+      "addStars": "156",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4008677?s=40&v=4",
-          "name": "kenyonj",
-          "url": "https://github.com/kenyonj"
+          "avatar": "https://avatars.githubusercontent.com/u/19721695?s=40&v=4",
+          "name": "MayaRainer",
+          "url": "https://github.com/MayaRainer"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/125011?s=40&v=4",
-          "name": "MikeMcQuaid",
-          "url": "https://github.com/MikeMcQuaid"
+          "avatar": "https://avatars.githubusercontent.com/u/74396?s=40&v=4",
+          "name": "slavingia",
+          "url": "https://github.com/slavingia"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11225821?s=40&v=4",
-          "name": "shaedrich",
-          "url": "https://github.com/shaedrich"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17565?s=40&v=4",
-          "name": "smashwilson",
-          "url": "https://github.com/smashwilson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56753?s=40&v=4",
-          "name": "ahpook",
-          "url": "https://github.com/ahpook"
+          "avatar": "https://avatars.githubusercontent.com/u/1855287?s=40&v=4",
+          "name": "raulpopadineti",
+          "url": "https://github.com/raulpopadineti"
         }
       ]
     },
@@ -350,7 +340,7 @@
       "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "14,795",
+      "stars": "14,797",
       "forks": "5,119",
       "addStars": "89",
       "contributors": [
@@ -382,12 +372,86 @@
       ]
     },
     {
+      "title": "github/explore",
+      "url": "https://github.com/github/explore",
+      "description": "Community-curated topic and collection pages on GitHub",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "4,478",
+      "forks": "13,392",
+      "addStars": "38",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4008677?s=40&v=4",
+          "name": "kenyonj",
+          "url": "https://github.com/kenyonj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125011?s=40&v=4",
+          "name": "MikeMcQuaid",
+          "url": "https://github.com/MikeMcQuaid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11225821?s=40&v=4",
+          "name": "shaedrich",
+          "url": "https://github.com/shaedrich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17565?s=40&v=4",
+          "name": "smashwilson",
+          "url": "https://github.com/smashwilson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56753?s=40&v=4",
+          "name": "ahpook",
+          "url": "https://github.com/ahpook"
+        }
+      ]
+    },
+    {
+      "title": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "2,683",
+      "forks": "213",
+      "addStars": "178",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106617?s=40&v=4",
+          "name": "crmne",
+          "url": "https://github.com/crmne"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3137263?s=40&v=4",
+          "name": "tpaulshippy",
+          "url": "https://github.com/tpaulshippy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3760?s=40&v=4",
+          "name": "bborn",
+          "url": "https://github.com/bborn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1057385?s=40&v=4",
+          "name": "compumike",
+          "url": "https://github.com/compumike"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5900?s=40&v=4",
+          "name": "seemiller",
+          "url": "https://github.com/seemiller"
+        }
+      ]
+    },
+    {
       "title": "ruby/ruby",
       "url": "https://github.com/ruby/ruby",
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "22,850",
+      "stars": "22,849",
       "forks": "5,450",
       "addStars": "146",
       "contributors": [
@@ -424,7 +488,7 @@
       "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "12,923",
+      "stars": "12,924",
       "forks": "4,628",
       "addStars": "83",
       "contributors": [
@@ -456,76 +520,12 @@
       ]
     },
     {
-      "title": "crmne/ruby_llm",
-      "url": "https://github.com/crmne/ruby_llm",
-      "description": "Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "2,681",
-      "forks": "213",
-      "addStars": "178",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106617?s=40&v=4",
-          "name": "crmne",
-          "url": "https://github.com/crmne"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3137263?s=40&v=4",
-          "name": "tpaulshippy",
-          "url": "https://github.com/tpaulshippy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3760?s=40&v=4",
-          "name": "bborn",
-          "url": "https://github.com/bborn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1057385?s=40&v=4",
-          "name": "compumike",
-          "url": "https://github.com/compumike"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5900?s=40&v=4",
-          "name": "seemiller",
-          "url": "https://github.com/seemiller"
-        }
-      ]
-    },
-    {
-      "title": "antiwork/flexile",
-      "url": "https://github.com/antiwork/flexile",
-      "description": "Contractor payments as easy as 1-2-3",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "692",
-      "forks": "260",
-      "addStars": "156",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19721695?s=40&v=4",
-          "name": "MayaRainer",
-          "url": "https://github.com/MayaRainer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74396?s=40&v=4",
-          "name": "slavingia",
-          "url": "https://github.com/slavingia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1855287?s=40&v=4",
-          "name": "raulpopadineti",
-          "url": "https://github.com/raulpopadineti"
-        }
-      ]
-    },
-    {
       "title": "Homebrew/brew",
       "url": "https://github.com/Homebrew/brew",
       "description": "🍺 The missing package manager for macOS (or Linux)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "44,470",
+      "stars": "44,471",
       "forks": "10,398",
       "addStars": "396",
       "contributors": [
@@ -557,44 +557,12 @@
       ]
     },
     {
-      "title": "dependabot/dependabot-core",
-      "url": "https://github.com/dependabot/dependabot-core",
-      "description": "🤖 Dependabot's core logic for creating update PRs.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "5,164",
-      "forks": "1,158",
-      "addStars": "57",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1144873?s=40&v=4",
-          "name": "greysteil",
-          "url": "https://github.com/greysteil"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20165?s=40&v=4",
-          "name": "feelepxyz",
-          "url": "https://github.com/feelepxyz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/749864?s=40&v=4",
-          "name": "jurre",
-          "url": "https://github.com/jurre"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2887858?s=40&v=4",
-          "name": "deivid-rodriguez",
-          "url": "https://github.com/deivid-rodriguez"
-        }
-      ]
-    },
-    {
       "title": "antiwork/gumroad",
       "url": "https://github.com/antiwork/gumroad",
       "description": "Sell stuff and see what sticks",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "6,737",
+      "stars": "6,739",
       "forks": "1,153",
       "addStars": "365",
       "contributors": [
@@ -612,6 +580,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/74396?s=40&v=4",
           "name": "slavingia",
           "url": "https://github.com/slavingia"
+        }
+      ]
+    },
+    {
+      "title": "Shopify/liquid",
+      "url": "https://github.com/Shopify/liquid",
+      "description": "Liquid markup language. Safe, customer facing template language for flexible web apps.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "11,441",
+      "forks": "1,468",
+      "addStars": "46",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/954402?s=40&v=4",
+          "name": "dylanahsmith",
+          "url": "https://github.com/dylanahsmith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/984857?s=40&v=4",
+          "name": "pushrax",
+          "url": "https://github.com/pushrax"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2072686?s=40&v=4",
+          "name": "fw42",
+          "url": "https://github.com/fw42"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2475611?s=40&v=4",
+          "name": "ggmichaelgo",
+          "url": "https://github.com/ggmichaelgo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15860699?s=40&v=4",
+          "name": "peterzhu2118",
+          "url": "https://github.com/peterzhu2118"
+        }
+      ]
+    },
+    {
+      "title": "CMSgov/price-transparency-guide",
+      "url": "https://github.com/CMSgov/price-transparency-guide",
+      "description": "The technical implementation guide for the tri-departmental price transparency rule.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "409",
+      "forks": "119",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22782064?s=40&v=4",
+          "name": "shaselton-usds",
+          "url": "https://github.com/shaselton-usds"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/376437?s=40&v=4",
+          "name": "shaselton",
+          "url": "https://github.com/shaselton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67592775?s=40&v=4",
+          "name": "tdfow",
+          "url": "https://github.com/tdfow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84140552?s=40&v=4",
+          "name": "JR-CMS",
+          "url": "https://github.com/JR-CMS"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7904904?s=40&v=4",
+          "name": "JasonJeffords",
+          "url": "https://github.com/JasonJeffords"
         }
       ]
     },
@@ -648,39 +690,34 @@
       ]
     },
     {
-      "title": "openstreetmap/openstreetmap-website",
-      "url": "https://github.com/openstreetmap/openstreetmap-website",
-      "description": "The Rails application that powers OpenStreetMap",
+      "title": "rails/solid_queue",
+      "url": "https://github.com/rails/solid_queue",
+      "description": "Database-backed Active Job backend",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "2,467",
-      "forks": "984",
-      "addStars": "43",
+      "stars": "2,184",
+      "forks": "194",
+      "addStars": "41",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/147741?s=40&v=4",
-          "name": "tomhughes",
-          "url": "https://github.com/tomhughes"
+          "avatar": "https://avatars.githubusercontent.com/u/813033?s=40&v=4",
+          "name": "rosa",
+          "url": "https://github.com/rosa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4158490?s=40&v=4",
-          "name": "AntonKhorev",
-          "url": "https://github.com/AntonKhorev"
+          "avatar": "https://avatars.githubusercontent.com/u/1734607?s=40&v=4",
+          "name": "djmb",
+          "url": "https://github.com/djmb"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/360803?s=40&v=4",
-          "name": "gravitystorm",
-          "url": "https://github.com/gravitystorm"
+          "avatar": "https://avatars.githubusercontent.com/u/171270?s=40&v=4",
+          "name": "hms",
+          "url": "https://github.com/hms"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/24829418?s=40&v=4",
-          "name": "translatewiki",
-          "url": "https://github.com/translatewiki"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98601?s=40&v=4",
-          "name": "jfirebaugh",
-          "url": "https://github.com/jfirebaugh"
+          "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&v=4",
+          "name": "rafaelfranca",
+          "url": "https://github.com/rafaelfranca"
         }
       ]
     }

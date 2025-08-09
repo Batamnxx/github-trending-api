@@ -2,7 +2,7 @@
   "title": "GitHub Wren Languages Monthly Trending",
   "description": "Monthly Trending of Wren Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 08 Aug 2025 19:19:21 GMT",
+  "pubDate": "Sat, 09 Aug 2025 02:51:08 GMT",
   "items": [
     {
       "title": "wren-lang/wren",
@@ -10,9 +10,9 @@
       "description": "The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.",
       "language": "Wren",
       "languageColor": "#383838",
-      "stars": "7,368",
+      "stars": "7,369",
       "forks": "577",
-      "addStars": "129",
+      "addStars": "127",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46275?s=40&v=4",

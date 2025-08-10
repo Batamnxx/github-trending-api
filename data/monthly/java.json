@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Monthly Trending",
   "description": "Monthly Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 10 Aug 2025 07:22:52 GMT",
+  "pubDate": "Sun, 10 Aug 2025 13:29:21 GMT",
   "items": [
     {
       "title": "JetBrains/intellij-community",
@@ -10,8 +10,8 @@
       "description": "IntelliJ IDEA & IntelliJ Platform",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "18,613",
-      "forks": "5,509",
+      "stars": "18,614",
+      "forks": "5,508",
       "addStars": "490",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "20,153",
+      "stars": "20,158",
       "forks": "12,371",
       "addStars": "619",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "10,541",
+      "stars": "10,542",
       "forks": "2,060",
       "addStars": "338",
       "contributors": [
@@ -116,12 +116,49 @@
       ]
     },
     {
+      "title": "ashishps1/awesome-leetcode-resources",
+      "url": "https://github.com/ashishps1/awesome-leetcode-resources",
+      "description": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "12,472",
+      "forks": "2,839",
+      "addStars": "886",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&v=4",
+          "name": "ashishps1",
+          "url": "https://github.com/ashishps1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54549128?s=40&v=4",
+          "name": "mahmedMostafa",
+          "url": "https://github.com/mahmedMostafa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3410105?s=40&v=4",
+          "name": "petrenkorf",
+          "url": "https://github.com/petrenkorf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9774233?s=40&v=4",
+          "name": "jaroslaw-weber",
+          "url": "https://github.com/jaroslaw-weber"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16475754?s=40&v=4",
+          "name": "himanshurawlani",
+          "url": "https://github.com/himanshurawlani"
+        }
+      ]
+    },
+    {
       "title": "TGX-Android/Telegram-X",
       "url": "https://github.com/TGX-Android/Telegram-X",
       "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "4,538",
+      "stars": "4,540",
       "forks": "749",
       "addStars": "218",
       "contributors": [
@@ -195,8 +232,8 @@
       "description": "Traccar GPS Tracking System",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "6,340",
-      "forks": "2,887",
+      "stars": "6,341",
+      "forks": "2,888",
       "addStars": "336",
       "contributors": [
         {
@@ -227,50 +264,13 @@
       ]
     },
     {
-      "title": "ashishps1/awesome-leetcode-resources",
-      "url": "https://github.com/ashishps1/awesome-leetcode-resources",
-      "description": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "12,469",
-      "forks": "2,839",
-      "addStars": "886",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&v=4",
-          "name": "ashishps1",
-          "url": "https://github.com/ashishps1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54549128?s=40&v=4",
-          "name": "mahmedMostafa",
-          "url": "https://github.com/mahmedMostafa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3410105?s=40&v=4",
-          "name": "petrenkorf",
-          "url": "https://github.com/petrenkorf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9774233?s=40&v=4",
-          "name": "jaroslaw-weber",
-          "url": "https://github.com/jaroslaw-weber"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16475754?s=40&v=4",
-          "name": "himanshurawlani",
-          "url": "https://github.com/himanshurawlani"
-        }
-      ]
-    },
-    {
       "title": "xiaojieonly/Ehviewer_CN_SXJ",
       "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "18,928",
-      "forks": "506",
+      "stars": "18,937",
+      "forks": "507",
       "addStars": "786",
       "contributors": [
         {
@@ -306,7 +306,7 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "34,663",
+      "stars": "34,665",
       "forks": "3,234",
       "addStars": "428",
       "contributors": [
@@ -338,86 +338,12 @@
       ]
     },
     {
-      "title": "termux/termux-app",
-      "url": "https://github.com/termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "43,944",
-      "forks": "4,864",
-      "addStars": "1,044",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31106828?s=40&v=4",
-          "name": "agnostic-apollo",
-          "url": "https://github.com/agnostic-apollo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/277251?s=40&v=4",
-          "name": "fornwall",
-          "url": "https://github.com/fornwall"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18900601?s=40&v=4",
-          "name": "Grimler91",
-          "url": "https://github.com/Grimler91"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3536343?s=40&v=4",
-          "name": "maoabc",
-          "url": "https://github.com/maoabc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/601966?s=40&v=4",
-          "name": "trygveaa",
-          "url": "https://github.com/trygveaa"
-        }
-      ]
-    },
-    {
-      "title": "HMCL-dev/HMCL",
-      "url": "https://github.com/HMCL-dev/HMCL",
-      "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "7,965",
-      "forks": "750",
-      "addStars": "163",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5411982?s=40&v=4",
-          "name": "huanghongxun",
-          "url": "https://github.com/huanghongxun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20694662?s=40&v=4",
-          "name": "Glavo",
-          "url": "https://github.com/Glavo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8373027?s=40&v=4",
-          "name": "yushijinhun",
-          "url": "https://github.com/yushijinhun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64117916?s=40&v=4",
-          "name": "zkitefly",
-          "url": "https://github.com/zkitefly"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/158490944?s=40&v=4",
-          "name": "3gf8jv4dv",
-          "url": "https://github.com/3gf8jv4dv"
-        }
-      ]
-    },
-    {
       "title": "dataease/dataease",
       "url": "https://github.com/dataease/dataease",
       "description": "🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "21,261",
+      "stars": "21,267",
       "forks": "3,717",
       "addStars": "821",
       "contributors": [
@@ -449,13 +375,156 @@
       ]
     },
     {
+      "title": "keycloak/keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "28,913",
+      "forks": "7,508",
+      "addStars": "814",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2271511?s=40&v=4",
+          "name": "stianst",
+          "url": "https://github.com/stianst"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/704239?s=40&v=4",
+          "name": "patriot1burke",
+          "url": "https://github.com/patriot1burke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1223965?s=40&v=4",
+          "name": "mposolda",
+          "url": "https://github.com/mposolda"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4",
+          "name": "edewit",
+          "url": "https://github.com/edewit"
+        }
+      ]
+    },
+    {
+      "title": "HMCL-dev/HMCL",
+      "url": "https://github.com/HMCL-dev/HMCL",
+      "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "7,970",
+      "forks": "751",
+      "addStars": "163",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5411982?s=40&v=4",
+          "name": "huanghongxun",
+          "url": "https://github.com/huanghongxun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20694662?s=40&v=4",
+          "name": "Glavo",
+          "url": "https://github.com/Glavo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8373027?s=40&v=4",
+          "name": "yushijinhun",
+          "url": "https://github.com/yushijinhun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64117916?s=40&v=4",
+          "name": "zkitefly",
+          "url": "https://github.com/zkitefly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158490944?s=40&v=4",
+          "name": "3gf8jv4dv",
+          "url": "https://github.com/3gf8jv4dv"
+        }
+      ]
+    },
+    {
+      "title": "termux/termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "43,962",
+      "forks": "4,867",
+      "addStars": "1,044",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31106828?s=40&v=4",
+          "name": "agnostic-apollo",
+          "url": "https://github.com/agnostic-apollo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/277251?s=40&v=4",
+          "name": "fornwall",
+          "url": "https://github.com/fornwall"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18900601?s=40&v=4",
+          "name": "Grimler91",
+          "url": "https://github.com/Grimler91"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3536343?s=40&v=4",
+          "name": "maoabc",
+          "url": "https://github.com/maoabc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/601966?s=40&v=4",
+          "name": "trygveaa",
+          "url": "https://github.com/trygveaa"
+        }
+      ]
+    },
+    {
+      "title": "nextcloud/android",
+      "url": "https://github.com/nextcloud/android",
+      "description": "📱 Nextcloud Android app",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "4,766",
+      "forks": "1,855",
+      "addStars": "77",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1315170?s=40&v=4",
+          "name": "AndyScherzinger",
+          "url": "https://github.com/AndyScherzinger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5836855?s=40&v=4",
+          "name": "tobiasKaminsky",
+          "url": "https://github.com/tobiasKaminsky"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67455295?s=40&v=4",
+          "name": "alperozturk96",
+          "url": "https://github.com/alperozturk96"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20296731?s=40&v=4",
+          "name": "nextcloud-bot",
+          "url": "https://github.com/nextcloud-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2225614?s=40&v=4",
+          "name": "davivel",
+          "url": "https://github.com/davivel"
+        }
+      ]
+    },
+    {
       "title": "ashishps1/awesome-low-level-design",
       "url": "https://github.com/ashishps1/awesome-low-level-design",
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "17,051",
-      "forks": "4,184",
+      "stars": "17,062",
+      "forks": "4,185",
       "addStars": "1,107",
       "contributors": [
         {
@@ -482,38 +551,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4",
           "name": "Hardvan",
           "url": "https://github.com/Hardvan"
-        }
-      ]
-    },
-    {
-      "title": "keycloak/keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "28,910",
-      "forks": "7,508",
-      "addStars": "814",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2271511?s=40&v=4",
-          "name": "stianst",
-          "url": "https://github.com/stianst"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/704239?s=40&v=4",
-          "name": "patriot1burke",
-          "url": "https://github.com/patriot1burke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1223965?s=40&v=4",
-          "name": "mposolda",
-          "url": "https://github.com/mposolda"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4",
-          "name": "edewit",
-          "url": "https://github.com/edewit"
         }
       ]
     },
@@ -546,38 +583,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/8811086?s=40&v=4",
           "name": "IgorEisberg",
           "url": "https://github.com/IgorEisberg"
-        }
-      ]
-    },
-    {
-      "title": "bepass-org/oblivion",
-      "url": "https://github.com/bepass-org/oblivion",
-      "description": "Unofficial warp client for android",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "4,562",
-      "forks": "618",
-      "addStars": "349",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68733224?s=40&v=4",
-          "name": "DanielcoderX",
-          "url": "https://github.com/DanielcoderX"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6353129?s=40&v=4",
-          "name": "markpash",
-          "url": "https://github.com/markpash"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75689502?s=40&v=4",
-          "name": "ameerhossein",
-          "url": "https://github.com/ameerhossein"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43346478?s=40&v=4",
-          "name": "uoosef",
-          "url": "https://github.com/uoosef"
         }
       ]
     },
@@ -619,12 +624,76 @@
       ]
     },
     {
+      "title": "halo-dev/halo",
+      "url": "https://github.com/halo-dev/halo",
+      "description": "强大易用的开源建站工具。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "36,453",
+      "forks": "10,006",
+      "addStars": "492",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21301288?s=40&v=4",
+          "name": "ruibaby",
+          "url": "https://github.com/ruibaby"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16865714?s=40&v=4",
+          "name": "JohnNiang",
+          "url": "https://github.com/JohnNiang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38999863?s=40&v=4",
+          "name": "guqing",
+          "url": "https://github.com/guqing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31335418?s=40&v=4",
+          "name": "LIlGG",
+          "url": "https://github.com/LIlGG"
+        }
+      ]
+    },
+    {
+      "title": "bepass-org/oblivion",
+      "url": "https://github.com/bepass-org/oblivion",
+      "description": "Unofficial warp client for android",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "4,564",
+      "forks": "618",
+      "addStars": "349",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68733224?s=40&v=4",
+          "name": "DanielcoderX",
+          "url": "https://github.com/DanielcoderX"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6353129?s=40&v=4",
+          "name": "markpash",
+          "url": "https://github.com/markpash"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75689502?s=40&v=4",
+          "name": "ameerhossein",
+          "url": "https://github.com/ameerhossein"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43346478?s=40&v=4",
+          "name": "uoosef",
+          "url": "https://github.com/uoosef"
+        }
+      ]
+    },
+    {
       "title": "aeron-io/aeron",
       "url": "https://github.com/aeron-io/aeron",
       "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "8,018",
+      "stars": "8,019",
       "forks": "950",
       "addStars": "190",
       "contributors": [
@@ -656,45 +725,13 @@
       ]
     },
     {
-      "title": "apache/commons-lang",
-      "url": "https://github.com/apache/commons-lang",
-      "description": "Apache Commons Lang",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "2,834",
-      "forks": "1,711",
-      "addStars": "24",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1187639?s=40&v=4",
-          "name": "garydgregory",
-          "url": "https://github.com/garydgregory"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1327662?s=40&v=4",
-          "name": "britter",
-          "url": "https://github.com/britter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16689231?s=40&v=4",
-          "name": "sebbASF",
-          "url": "https://github.com/sebbASF"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2707245?s=40&v=4",
-          "name": "PascalSchumacher",
-          "url": "https://github.com/PascalSchumacher"
-        }
-      ]
-    },
-    {
       "title": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "115,275",
-      "forks": "14,260",
+      "stars": "115,286",
+      "forks": "14,261",
       "addStars": "1,239",
       "contributors": [
         {
@@ -721,43 +758,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/39959756?s=40&v=4",
           "name": "Gonglja",
           "url": "https://github.com/Gonglja"
-        }
-      ]
-    },
-    {
-      "title": "nextcloud/android",
-      "url": "https://github.com/nextcloud/android",
-      "description": "📱 Nextcloud Android app",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "4,766",
-      "forks": "1,855",
-      "addStars": "77",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1315170?s=40&v=4",
-          "name": "AndyScherzinger",
-          "url": "https://github.com/AndyScherzinger"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5836855?s=40&v=4",
-          "name": "tobiasKaminsky",
-          "url": "https://github.com/tobiasKaminsky"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67455295?s=40&v=4",
-          "name": "alperozturk96",
-          "url": "https://github.com/alperozturk96"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20296731?s=40&v=4",
-          "name": "nextcloud-bot",
-          "url": "https://github.com/nextcloud-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2225614?s=40&v=4",
-          "name": "davivel",
-          "url": "https://github.com/davivel"
         }
       ]
     }

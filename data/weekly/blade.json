@@ -2,7 +2,7 @@
   "title": "GitHub Blade Languages Weekly Trending",
   "description": "Weekly Trending of Blade Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 10 Aug 2025 13:29:21 GMT",
+  "pubDate": "Sun, 10 Aug 2025 19:19:06 GMT",
   "items": [
     {
       "title": "laravel/laravel",
@@ -85,7 +85,7 @@
       "language": "Blade",
       "languageColor": "#f7523f",
       "stars": "362",
-      "forks": "159",
+      "forks": "161",
       "addStars": "3",
       "contributors": [
         {

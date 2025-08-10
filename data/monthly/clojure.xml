@@ -3,7 +3,7 @@
     <title>GitHub Clojure Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Clojure Languages in GitHub</description>
-    <pubDate>Sun, 10 Aug 2025 13:29:21 GMT</pubDate>
+    <pubDate>Sun, 10 Aug 2025 19:19:06 GMT</pubDate>
     <item>
       <title>tonsky/FiraCode</title>
       <link>https://github.com/tonsky/FiraCode</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/tonsky/FiraCode</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>79,836</stars>
+      <stars>79,839</stars>
       <forks>3,167</forks>
       <addStars>568</addStars>
       <contributors>
@@ -49,8 +49,8 @@
       <guid>https://github.com/metabase/metabase</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>43,171</stars>
-      <forks>5,793</forks>
+      <stars>43,174</stars>
+      <forks>5,794</forks>
       <addStars>527</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/penpot/penpot</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>39,510</stars>
+      <stars>39,513</stars>
       <forks>2,105</forks>
       <addStars>557</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/logseq/logseq</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>37,889</stars>
+      <stars>37,895</stars>
       <forks>2,259</forks>
       <addStars>550</addStars>
       <contributors>

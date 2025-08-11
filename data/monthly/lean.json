@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Monthly Trending",
   "description": "Monthly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 11 Aug 2025 13:37:33 GMT",
+  "pubDate": "Mon, 11 Aug 2025 19:21:23 GMT",
   "items": [
     {
       "title": "leanprover-community/mathlib4",
@@ -10,19 +10,19 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "2,242",
-      "forks": "718",
+      "stars": "2,243",
+      "forks": "719",
       "addStars": "100",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/188813?s=40&v=4",
-          "name": "urkud",
-          "url": "https://github.com/urkud"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
           "name": "kim-em",
           "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/188813?s=40&v=4",
+          "name": "urkud",
+          "url": "https://github.com/urkud"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/14090593?s=40&v=4",
@@ -47,7 +47,7 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "6,158",
+      "stars": "6,159",
       "forks": "640",
       "addStars": "232",
       "contributors": [

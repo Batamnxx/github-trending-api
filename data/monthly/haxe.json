@@ -2,7 +2,7 @@
   "title": "GitHub Haxe Languages Monthly Trending",
   "description": "Monthly Trending of Haxe Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 12 Aug 2025 13:34:24 GMT",
+  "pubDate": "Tue, 12 Aug 2025 19:19:48 GMT",
   "items": [
     {
       "title": "FunkinCrew/Funkin",
@@ -84,7 +84,7 @@
       "description": "Modern, lightweight and efficient 2D level editor",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": "3,721",
+      "stars": "3,722",
       "forks": "214",
       "addStars": "34",
       "contributors": [

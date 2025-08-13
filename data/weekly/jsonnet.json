@@ -2,7 +2,7 @@
   "title": "GitHub Jsonnet Languages Weekly Trending",
   "description": "Weekly Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 13 Aug 2025 02:51:53 GMT",
+  "pubDate": "Wed, 13 Aug 2025 07:25:59 GMT",
   "items": [
     {
       "title": "argoproj/argocd-example-apps",
@@ -10,7 +10,7 @@
       "description": "Example Apps to Demonstrate Argo CD",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": "1,859",
+      "stars": "1,861",
       "forks": "8,577",
       "addStars": "7",
       "contributors": [

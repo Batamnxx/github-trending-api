@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Weekly Trending",
   "description": "Weekly Trending of Bicep Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 13 Aug 2025 13:35:00 GMT",
+  "pubDate": "Wed, 13 Aug 2025 19:19:57 GMT",
   "items": [
     {
       "title": "Azure/bicep-registry-modules",
@@ -269,7 +269,7 @@
       "description": "Basic sample for deploying AI agents web app with Azure AI Foundry and SDKs",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": "155",
+      "stars": "156",
       "forks": "185",
       "addStars": "7",
       "contributors": [
@@ -333,7 +333,7 @@
       "description": "Azure Quickstart Templates",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": "14,511",
+      "stars": "14,512",
       "forks": "16,312",
       "addStars": "10",
       "contributors": [

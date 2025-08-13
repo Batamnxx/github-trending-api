@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Wed, 13 Aug 2025 13:35:00 GMT</pubDate>
+    <pubDate>Wed, 13 Aug 2025 19:19:57 GMT</pubDate>
     <item>
       <title>wrf-model/WRF</title>
       <link>https://github.com/wrf-model/WRF</link>
@@ -50,7 +50,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>977</stars>
-      <forks>416</forks>
+      <forks>417</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>
@@ -164,7 +164,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>385</stars>
-      <forks>429</forks>
+      <forks>430</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -240,7 +240,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>118</stars>
-      <forks>101</forks>
+      <forks>102</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>

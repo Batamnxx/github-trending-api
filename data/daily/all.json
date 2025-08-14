@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 14 Aug 2025 02:52:38 GMT",
+  "pubDate": "Thu, 14 Aug 2025 07:25:24 GMT",
   "items": [
     {
       "title": "ubicloud/ubicloud",
@@ -10,8 +10,8 @@
       "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "8,030",
-      "forks": "333",
+      "stars": "8,197",
+      "forks": "344",
       "addStars": "1,244",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,935",
-      "forks": "89",
+      "stars": "2,035",
+      "forks": "93",
       "addStars": "542",
       "contributors": [
         {
@@ -67,9 +67,9 @@
           "url": "https://github.com/fhk"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11954298?s=40&v=4",
-          "name": "haldenl",
-          "url": "https://github.com/haldenl"
+          "avatar": "https://avatars.githubusercontent.com/u/8995957?s=40&v=4",
+          "name": "davanstrien",
+          "url": "https://github.com/davanstrien"
         }
       ]
     },
@@ -79,8 +79,8 @@
       "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,387",
-      "forks": "7,345",
+      "stars": "26,441",
+      "forks": "7,350",
       "addStars": "37",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,156",
-      "forks": "649",
+      "stars": "8,267",
+      "forks": "657",
       "addStars": "181",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "36,775",
-      "forks": "2,148",
+      "stars": "36,831",
+      "forks": "2,152",
       "addStars": "244",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,085",
-      "forks": "1,432",
+      "stars": "16,145",
+      "forks": "1,436",
       "addStars": "207",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "55,771",
-      "forks": "2,915",
+      "stars": "55,823",
+      "forks": "2,918",
       "addStars": "327",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "25,574",
-      "forks": "3,655",
+      "stars": "25,606",
+      "forks": "3,657",
       "addStars": "46",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "OpenTelemetry Collector",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,638",
-      "forks": "1,707",
+      "stars": "5,648",
+      "forks": "1,708",
       "addStars": "86",
       "contributors": [
         {
@@ -333,8 +333,8 @@
       "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "76,282",
-      "forks": "8,218",
+      "stars": "76,320",
+      "forks": "8,221",
       "addStars": "305",
       "contributors": [
         {
@@ -370,8 +370,8 @@
       "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "25,347",
-      "forks": "665",
+      "stars": "25,376",
+      "forks": "667",
       "addStars": "283",
       "contributors": [
         {
@@ -407,8 +407,8 @@
       "description": "Prompt Orchestration Markup Language",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,671",
-      "forks": "53",
+      "stars": "1,757",
+      "forks": "57",
       "addStars": "755",
       "contributors": [
         {
@@ -434,8 +434,8 @@
       "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
       "language": "",
       "languageColor": "",
-      "stars": "76,074",
-      "forks": "21,330",
+      "stars": "76,160",
+      "forks": "21,342",
       "addStars": "577",
       "contributors": [
         {
@@ -471,8 +471,8 @@
       "description": "Contrib repository for the OpenTelemetry Collector",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,820",
-      "forks": "2,937",
+      "stars": "3,832",
+      "forks": "2,942",
       "addStars": "9",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "36,561",
-      "forks": "6,932",
+      "stars": "36,633",
+      "forks": "6,940",
       "addStars": "339",
       "contributors": [
         {
@@ -525,8 +525,8 @@
       "description": "100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "3,283",
-      "forks": "446",
+      "stars": "3,333",
+      "forks": "450",
       "addStars": "310",
       "contributors": [
         {
@@ -562,8 +562,8 @@
       "description": "Curated list of project-based tutorials",
       "language": "",
       "languageColor": "",
-      "stars": "239,415",
-      "forks": "31,318",
+      "stars": "239,496",
+      "forks": "31,331",
       "addStars": "268",
       "contributors": [
         {

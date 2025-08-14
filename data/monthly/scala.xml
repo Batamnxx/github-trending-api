@@ -3,7 +3,7 @@
     <title>GitHub Scala Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Scala Languages in GitHub</description>
-    <pubDate>Thu, 14 Aug 2025 02:52:38 GMT</pubDate>
+    <pubDate>Thu, 14 Aug 2025 07:25:24 GMT</pubDate>
     <item>
       <title>apache/spark</title>
       <link>https://github.com/apache/spark</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/apache/spark</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>41,653</stars>
+      <stars>41,654</stars>
       <forks>28,731</forks>
       <addStars>253</addStars>
       <contributors>
@@ -50,7 +50,7 @@
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
       <stars>16,971</stars>
-      <forks>2,453</forks>
+      <forks>2,454</forks>
       <addStars>140</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/twitter/the-algorithm</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>63,488</stars>
+      <stars>63,490</stars>
       <forks>12,163</forks>
       <addStars>153</addStars>
       <contributors>
@@ -409,7 +409,7 @@
       <guid>https://github.com/delta-io/delta-sharing</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>861</stars>
+      <stars>860</stars>
       <forks>201</forks>
       <addStars>11</addStars>
       <contributors>
@@ -448,7 +448,7 @@
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
       <stars>1,417</stars>
-      <forks>567</forks>
+      <forks>568</forks>
       <addStars>34</addStars>
       <contributors>
         <contributor>
@@ -599,7 +599,7 @@
       <guid>https://github.com/apache/kyuubi</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>2,232</stars>
+      <stars>2,231</stars>
       <forks>955</forks>
       <addStars>16</addStars>
       <contributors>
@@ -637,7 +637,7 @@
       <guid>https://github.com/gitbucket/gitbucket</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>9,285</stars>
+      <stars>9,284</stars>
       <forks>1,255</forks>
       <addStars>19</addStars>
       <contributors>

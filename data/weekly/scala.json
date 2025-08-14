@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Weekly Trending",
   "description": "Weekly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 14 Aug 2025 02:52:38 GMT",
+  "pubDate": "Thu, 14 Aug 2025 07:25:24 GMT",
   "items": [
     {
       "title": "scala/scala3",
@@ -85,7 +85,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "16,971",
-      "forks": "2,453",
+      "forks": "2,454",
       "addStars": "25",
       "contributors": [
         {
@@ -122,7 +122,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "1,417",
-      "forks": "567",
+      "forks": "568",
       "addStars": "9",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "Source code for Twitter's Recommendation Algorithm",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "63,488",
+      "stars": "63,490",
       "forks": "12,163",
       "addStars": "33",
       "contributors": [
@@ -259,7 +259,7 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "41,653",
+      "stars": "41,654",
       "forks": "28,731",
       "addStars": "46",
       "contributors": [
@@ -476,7 +476,7 @@
       "description": "An open protocol for secure data sharing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "861",
+      "stars": "860",
       "forks": "201",
       "addStars": "4",
       "contributors": [
@@ -550,7 +550,7 @@
       "description": "Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "14,401",
+      "stars": "14,400",
       "forks": "3,110",
       "addStars": "6",
       "contributors": [
@@ -656,7 +656,7 @@
       "description": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "2,232",
+      "stars": "2,231",
       "forks": "955",
       "addStars": "7",
       "contributors": [

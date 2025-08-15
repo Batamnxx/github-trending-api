@@ -2,7 +2,7 @@
   "title": "GitHub Typst Languages Monthly Trending",
   "description": "Monthly Trending of Typst Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 15 Aug 2025 13:30:25 GMT",
+  "pubDate": "Fri, 15 Aug 2025 19:18:56 GMT",
   "items": [
     {
       "title": "parallel101/cppguidebook",
@@ -20,14 +20,14 @@
           "url": "https://github.com/archibate"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/97590219?s=40&v=4",
-          "name": "Mq-b",
-          "url": "https://github.com/Mq-b"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/23228989?s=40&v=4",
           "name": "frederick-vs-ja",
           "url": "https://github.com/frederick-vs-ja"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/97590219?s=40&v=4",
+          "name": "Mq-b",
+          "url": "https://github.com/Mq-b"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/43681138?s=40&v=4",
@@ -79,7 +79,7 @@
       "description": "CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.",
       "language": "Typst",
       "languageColor": "#239dad",
-      "stars": "1,364",
+      "stars": "1,365",
       "forks": "58",
       "addStars": "41",
       "contributors": [

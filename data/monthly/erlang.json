@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Monthly Trending",
   "description": "Monthly Trending of Erlang Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 15 Aug 2025 02:53:56 GMT",
+  "pubDate": "Fri, 15 Aug 2025 07:23:54 GMT",
   "items": [
     {
       "title": "emqx/emqx",
@@ -84,7 +84,7 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "11,813",
+      "stars": "11,814",
       "forks": "3,017",
       "addStars": "62",
       "contributors": [

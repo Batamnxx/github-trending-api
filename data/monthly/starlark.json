@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 15 Aug 2025 02:53:56 GMT",
+  "pubDate": "Fri, 15 Aug 2025 07:23:54 GMT",
   "items": [
     {
       "title": "GoogleContainerTools/distroless",
@@ -80,7 +80,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": "8,056",
-      "forks": "2,424",
+      "forks": "2,423",
       "addStars": "70",
       "contributors": [
         {

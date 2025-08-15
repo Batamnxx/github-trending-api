@@ -3,7 +3,7 @@
     <title>GitHub Erlang Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Erlang Languages in GitHub</description>
-    <pubDate>Fri, 15 Aug 2025 02:53:56 GMT</pubDate>
+    <pubDate>Fri, 15 Aug 2025 07:23:54 GMT</pubDate>
     <item>
       <title>erlang/otp</title>
       <link>https://github.com/erlang/otp</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/erlang/otp</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>11,813</stars>
+      <stars>11,814</stars>
       <forks>3,017</forks>
       <addStars>0</addStars>
       <contributors>

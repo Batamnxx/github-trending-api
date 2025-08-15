@@ -2,7 +2,7 @@
   "title": "GitHub Shaderlab Languages Weekly Trending",
   "description": "Weekly Trending of Shaderlab Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 15 Aug 2025 07:23:54 GMT",
+  "pubDate": "Fri, 15 Aug 2025 13:30:25 GMT",
   "items": [
     {
       "title": "lilxyzw/lilToon",
@@ -25,14 +25,14 @@
           "url": "https://github.com/bdunderscore"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20761757?s=40&v=4",
-          "name": "nullstalgia",
-          "url": "https://github.com/nullstalgia"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/3587553?s=40&v=4",
           "name": "koturn",
           "url": "https://github.com/koturn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20761757?s=40&v=4",
+          "name": "nullstalgia",
+          "url": "https://github.com/nullstalgia"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/4340778?s=40&v=4",

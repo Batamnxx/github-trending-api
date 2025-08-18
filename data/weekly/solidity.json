@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Weekly Trending",
   "description": "Weekly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 18 Aug 2025 03:01:17 GMT",
+  "pubDate": "Mon, 18 Aug 2025 07:27:14 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -10,7 +10,7 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "26,108",
+      "stars": "26,110",
       "forks": "12,112",
       "addStars": "41",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "13,009",
+      "stars": "13,008",
       "forks": "2,245",
       "addStars": "52",
       "contributors": [
@@ -148,8 +148,8 @@
       "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "2,278",
-      "forks": "1,154",
+      "stars": "2,277",
+      "forks": "1,153",
       "addStars": "3",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Bringing off-chain compute workloads to on-chain smart contracts.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "108",
-      "forks": "40",
+      "stars": "109",
+      "forks": "41",
       "addStars": "3",
       "contributors": [
         {
@@ -286,7 +286,7 @@
       "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "541",
+      "stars": "540",
       "forks": "112",
       "addStars": "1",
       "contributors": [
@@ -360,7 +360,7 @@
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "4,178",
+      "stars": "4,177",
       "forks": "686",
       "addStars": "8",
       "contributors": [

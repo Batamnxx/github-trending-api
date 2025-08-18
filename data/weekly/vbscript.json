@@ -2,7 +2,7 @@
   "title": "GitHub Vbscript Languages Weekly Trending",
   "description": "Weekly Trending of Vbscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 18 Aug 2025 03:01:17 GMT",
+  "pubDate": "Mon, 18 Aug 2025 07:27:14 GMT",
   "items": [
     {
       "title": "pyenv-win/pyenv-win",
@@ -47,7 +47,7 @@
       "description": "AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes",
       "language": "VBScript",
       "languageColor": "#15dcdc",
-      "stars": "6,845",
+      "stars": "6,846",
       "forks": "382",
       "addStars": "24",
       "contributors": [

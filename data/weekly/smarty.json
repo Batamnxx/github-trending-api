@@ -2,7 +2,7 @@
   "title": "GitHub Smarty Languages Weekly Trending",
   "description": "Weekly Trending of Smarty Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 19 Aug 2025 19:18:46 GMT",
+  "pubDate": "Wed, 20 Aug 2025 02:41:43 GMT",
   "items": [
     {
       "title": "cloudnative-pg/charts",
@@ -12,7 +12,7 @@
       "languageColor": "#f0c040",
       "stars": "354",
       "forks": "157",
-      "addStars": "10",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2123767?s=40&v=4",
@@ -39,7 +39,7 @@
       "languageColor": "#f0c040",
       "stars": "1,445",
       "forks": "598",
-      "addStars": "22",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1320389?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "Bitnami Helm Charts",
       "language": "Smarty",
       "languageColor": "#f0c040",
-      "stars": "9,885",
-      "forks": "9,845",
-      "addStars": "26",
+      "stars": "9,886",
+      "forks": "9,848",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13025337?s=40&v=4",
@@ -113,7 +113,7 @@
       "languageColor": "#f0c040",
       "stars": "484",
       "forks": "168",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2235675?s=40&v=4",
@@ -175,7 +175,7 @@
       "description": "Community-maintained Kubernetes config and Helm chart for Langfuse",
       "language": "Smarty",
       "languageColor": "#f0c040",
-      "stars": "146",
+      "stars": "147",
       "forks": "96",
       "addStars": "4",
       "contributors": [
@@ -198,11 +198,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/41211?s=40&v=4",
           "name": "deejay1",
           "url": "https://github.com/deejay1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/95894819?s=40&v=4",
-          "name": "itzzjb",
-          "url": "https://github.com/itzzjb"
         }
       ]
     },
@@ -214,7 +209,7 @@
       "languageColor": "#f0c040",
       "stars": "1,855",
       "forks": "2,369",
-      "addStars": "3",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/283101?s=40&v=4",
@@ -394,7 +389,7 @@
       "languageColor": "#f0c040",
       "stars": "1,258",
       "forks": "554",
-      "addStars": "5",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5103928?s=40&v=4",
@@ -498,7 +493,7 @@
       "description": "Traefik Proxy Helm Chart",
       "language": "Smarty",
       "languageColor": "#f0c040",
-      "stars": "1,214",
+      "stars": "1,215",
       "forks": "791",
       "addStars": "1",
       "contributors": [
@@ -531,8 +526,8 @@
       "language": "Smarty",
       "languageColor": "#f0c040",
       "stars": "218",
-      "forks": "182",
-      "addStars": "2",
+      "forks": "183",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/115966808?s=40&v=4",

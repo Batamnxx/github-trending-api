@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Daily Trending",
   "description": "Daily Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 20 Aug 2025 02:41:43 GMT",
+  "pubDate": "Wed, 20 Aug 2025 07:23:50 GMT",
   "items": [
     {
       "title": "RockBlack-VPN/ip-address",
@@ -10,7 +10,7 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "1,026",
+      "stars": "1,027",
       "forks": "76",
       "addStars": "4",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Redis 6.0.20 6.2.18 7.0.15 7.2.8 7.4.3 8.0.0 for Windows",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "2,670",
-      "forks": "229",
+      "stars": "2,671",
+      "forks": "228",
       "addStars": "5",
       "contributors": [
         {
@@ -80,7 +80,7 @@
       "language": "Batchfile",
       "languageColor": "#C1F12E",
       "stars": "5,822",
-      "forks": "2,014",
+      "forks": "2,015",
       "addStars": "2",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "The latest incremental release of SysML v2. Start here.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "629",
+      "stars": "630",
       "forks": "81",
       "addStars": "2",
       "contributors": [
@@ -266,7 +266,7 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "15,543",
+      "stars": "15,544",
       "forks": "1,052",
       "addStars": "26",
       "contributors": [
@@ -303,8 +303,8 @@
       "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "2,812",
-      "forks": "140",
+      "stars": "2,815",
+      "forks": "141",
       "addStars": "3",
       "contributors": [
         {

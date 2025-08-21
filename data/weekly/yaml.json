@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Weekly Trending",
   "description": "Weekly Trending of Yaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 21 Aug 2025 02:41:35 GMT",
+  "pubDate": "Thu, 21 Aug 2025 07:25:28 GMT",
   "items": [
     {
       "title": "kubeflow/manifests",
@@ -11,7 +11,7 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": "937",
-      "forks": "989",
+      "forks": "990",
       "addStars": "2",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Wife approved HomeOps driven by Kubernetes and GitOps using Flux",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "2,500",
+      "stars": "2,501",
       "forks": "208",
       "addStars": "20",
       "contributors": [

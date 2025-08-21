@@ -3,7 +3,7 @@
     <title>GitHub Svelte Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Svelte Languages in GitHub</description>
-    <pubDate>Thu, 21 Aug 2025 13:29:56 GMT</pubDate>
+    <pubDate>Thu, 21 Aug 2025 19:18:45 GMT</pubDate>
     <item>
       <title>saadeghi/daisyui</title>
       <link>https://github.com/saadeghi/daisyui</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/saadeghi/daisyui</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>38,366</stars>
-      <forks>1,525</forks>
-      <addStars>20</addStars>
+      <stars>38,372</stars>
+      <forks>1,526</forks>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7342023?s=40&amp;v=4</avatar>
@@ -51,7 +51,7 @@
       <languageColor>#ff3e00</languageColor>
       <stars>1,876</stars>
       <forks>169</forks>
-      <addStars>4</addStars>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1073174?s=40&amp;v=4</avatar>
@@ -88,7 +88,7 @@
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
       <stars>1,106</stars>
-      <forks>206</forks>
+      <forks>205</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -127,7 +127,7 @@
       <languageColor>#ff3e00</languageColor>
       <stars>6,321</stars>
       <forks>380</forks>
-      <addStars>8</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2543891?s=40&amp;v=4</avatar>
@@ -158,8 +158,8 @@
       <guid>https://github.com/runebookai/tome</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>427</stars>
-      <forks>28</forks>
+      <stars>428</stars>
+      <forks>29</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -224,9 +224,9 @@
       <guid>https://github.com/mathesar-foundation/mathesar</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>4,372</stars>
+      <stars>4,373</stars>
       <forks>391</forks>
-      <addStars>11</addStars>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11850603?s=40&amp;v=4</avatar>
@@ -302,7 +302,7 @@
       <languageColor>#ff3e00</languageColor>
       <stars>240</stars>
       <forks>10</forks>
-      <addStars>2</addStars>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10971577?s=40&amp;v=4</avatar>
@@ -323,9 +323,9 @@
       <guid>https://github.com/imputnet/cobalt</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>35,763</stars>
-      <forks>2,982</forks>
-      <addStars>23</addStars>
+      <stars>35,766</stars>
+      <forks>2,984</forks>
+      <addStars>26</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/71202418?s=40&amp;v=4</avatar>
@@ -434,7 +434,7 @@
       <languageColor>#ff3e00</languageColor>
       <stars>1,996</stars>
       <forks>121</forks>
-      <addStars>7</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/98704938?s=40&amp;v=4</avatar>
@@ -537,7 +537,7 @@
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
       <stars>4,270</stars>
-      <forks>205</forks>
+      <forks>206</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -604,7 +604,7 @@
       <languageColor>#ff3e00</languageColor>
       <stars>1,401</stars>
       <forks>25</forks>
-      <addStars>4</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6865942?s=40&amp;v=4</avatar>

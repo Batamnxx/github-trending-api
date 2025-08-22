@@ -2,15 +2,47 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 22 Aug 2025 07:21:56 GMT",
+  "pubDate": "Fri, 22 Aug 2025 13:28:42 GMT",
   "items": [
+    {
+      "title": "saicaca/fuwari",
+      "url": "https://github.com/saicaca/fuwari",
+      "description": "✨A static blog template built with Astro.",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": "2,961",
+      "forks": "771",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25200299?s=40&v=4",
+          "name": "saicaca",
+          "url": "https://github.com/saicaca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70247011?s=40&v=4",
+          "name": "L4Ph",
+          "url": "https://github.com/L4Ph"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20734256?s=40&v=4",
+          "name": "wsafight",
+          "url": "https://github.com/wsafight"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/142381267?s=40&v=4",
+          "name": "JoeyC-Dev",
+          "url": "https://github.com/JoeyC-Dev"
+        }
+      ]
+    },
     {
       "title": "arthelokyo/astrowind",
       "url": "https://github.com/arthelokyo/astrowind",
       "description": "⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "4,884",
+      "stars": "4,886",
       "forks": "1,388",
       "addStars": "6",
       "contributors": [
@@ -42,92 +74,6 @@
       ]
     },
     {
-      "title": "satnaing/astro-paper",
-      "url": "https://github.com/satnaing/astro-paper",
-      "description": "A minimal, accessible and SEO-friendly Astro blog theme",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": "3,656",
-      "forks": "759",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53733092?s=40&v=4",
-          "name": "satnaing",
-          "url": "https://github.com/satnaing"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40914272?s=40&v=4",
-          "name": "tanishqmanuja",
-          "url": "https://github.com/tanishqmanuja"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6358755?s=40&v=4",
-          "name": "eerison",
-          "url": "https://github.com/eerison"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26923823?s=40&v=4",
-          "name": "87xie",
-          "url": "https://github.com/87xie"
-        }
-      ]
-    },
-    {
-      "title": "saicaca/fuwari",
-      "url": "https://github.com/saicaca/fuwari",
-      "description": "✨A static blog template built with Astro.",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": "2,959",
-      "forks": "769",
-      "addStars": "13",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25200299?s=40&v=4",
-          "name": "saicaca",
-          "url": "https://github.com/saicaca"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70247011?s=40&v=4",
-          "name": "L4Ph",
-          "url": "https://github.com/L4Ph"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20734256?s=40&v=4",
-          "name": "wsafight",
-          "url": "https://github.com/wsafight"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142381267?s=40&v=4",
-          "name": "JoeyC-Dev",
-          "url": "https://github.com/JoeyC-Dev"
-        }
-      ]
-    },
-    {
-      "title": "mhyfritz/astro-landing-page",
-      "url": "https://github.com/mhyfritz/astro-landing-page",
-      "description": "An Astro + Tailwind CSS Example/Template for Landing Pages",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": "634",
-      "forks": "222",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/718983?s=40&v=4",
-          "name": "mhyfritz",
-          "url": "https://github.com/mhyfritz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29425150?s=40&v=4",
-          "name": "peterhijma",
-          "url": "https://github.com/peterhijma"
-        }
-      ]
-    },
-    {
       "title": "mishamyrt/Lilex",
       "url": "https://github.com/mishamyrt/Lilex",
       "description": "🤘Open source programming font",
@@ -155,66 +101,83 @@
       ]
     },
     {
-      "title": "radishzzz/astro-theme-retypeset",
-      "url": "https://github.com/radishzzz/astro-theme-retypeset",
-      "description": "Revive the beauty of typography.",
+      "title": "mhyfritz/astro-landing-page",
+      "url": "https://github.com/mhyfritz/astro-landing-page",
+      "description": "An Astro + Tailwind CSS Example/Template for Landing Pages",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "459",
-      "forks": "136",
+      "stars": "634",
+      "forks": "222",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/164469967?s=40&v=4",
-          "name": "radishzzz",
-          "url": "https://github.com/radishzzz"
+          "avatar": "https://avatars.githubusercontent.com/u/718983?s=40&v=4",
+          "name": "mhyfritz",
+          "url": "https://github.com/mhyfritz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/104972236?s=40&v=4",
-          "name": "KagurazakaIris",
-          "url": "https://github.com/KagurazakaIris"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/155552943?s=40&v=4",
-          "name": "senshinya",
-          "url": "https://github.com/senshinya"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5748616?s=40&v=4",
-          "name": "viniciusdeliz",
-          "url": "https://github.com/viniciusdeliz"
+          "avatar": "https://avatars.githubusercontent.com/u/29425150?s=40&v=4",
+          "name": "peterhijma",
+          "url": "https://github.com/peterhijma"
         }
       ]
     },
     {
-      "title": "cworld1/astro-theme-pure",
-      "url": "https://github.com/cworld1/astro-theme-pure",
-      "description": "⭐ A simple, fast and powerful blog & document theme built by Astro",
+      "title": "satnaing/astro-paper",
+      "url": "https://github.com/satnaing/astro-paper",
+      "description": "A minimal, accessible and SEO-friendly Astro blog theme",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "407",
-      "forks": "112",
-      "addStars": "3",
+      "stars": "3,657",
+      "forks": "760",
+      "addStars": "4",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/37377181?s=40&v=4",
-          "name": "cworld1",
-          "url": "https://github.com/cworld1"
+          "avatar": "https://avatars.githubusercontent.com/u/53733092?s=40&v=4",
+          "name": "satnaing",
+          "url": "https://github.com/satnaing"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36695271?s=40&v=4",
-          "name": "zhuozhiyongde",
-          "url": "https://github.com/zhuozhiyongde"
+          "avatar": "https://avatars.githubusercontent.com/u/40914272?s=40&v=4",
+          "name": "tanishqmanuja",
+          "url": "https://github.com/tanishqmanuja"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/30395209?s=40&v=4",
-          "name": "aires-iris",
-          "url": "https://github.com/aires-iris"
+          "avatar": "https://avatars.githubusercontent.com/u/6358755?s=40&v=4",
+          "name": "eerison",
+          "url": "https://github.com/eerison"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/135012029?s=40&v=4",
-          "name": "liangbm3",
-          "url": "https://github.com/liangbm3"
+          "avatar": "https://avatars.githubusercontent.com/u/26923823?s=40&v=4",
+          "name": "87xie",
+          "url": "https://github.com/87xie"
+        }
+      ]
+    },
+    {
+      "title": "netlify-templates/astro-platform-starter",
+      "url": "https://github.com/netlify-templates/astro-platform-starter",
+      "description": "A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": "97",
+      "forks": "276",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6723392?s=40&v=4",
+          "name": "TomasBankauskas",
+          "url": "https://github.com/TomasBankauskas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2673881?s=40&v=4",
+          "name": "eladroz",
+          "url": "https://github.com/eladroz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1377702?s=40&v=4",
+          "name": "serhalp",
+          "url": "https://github.com/serhalp"
         }
       ]
     },
@@ -252,33 +215,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/63054324?s=40&v=4",
           "name": "aliifam",
           "url": "https://github.com/aliifam"
-        }
-      ]
-    },
-    {
-      "title": "netlify-templates/astro-platform-starter",
-      "url": "https://github.com/netlify-templates/astro-platform-starter",
-      "description": "A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": "97",
-      "forks": "276",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6723392?s=40&v=4",
-          "name": "TomasBankauskas",
-          "url": "https://github.com/TomasBankauskas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2673881?s=40&v=4",
-          "name": "eladroz",
-          "url": "https://github.com/eladroz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1377702?s=40&v=4",
-          "name": "serhalp",
-          "url": "https://github.com/serhalp"
         }
       ]
     }

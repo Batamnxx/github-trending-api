@@ -2,7 +2,7 @@
   "title": "GitHub Tsql Languages Daily Trending",
   "description": "Daily Trending of Tsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 22 Aug 2025 13:28:42 GMT",
+  "pubDate": "Fri, 22 Aug 2025 19:19:25 GMT",
   "items": [
     {
       "title": "cisagov/cset",
@@ -84,7 +84,7 @@
       "description": "A service that implements the FHIR standard",
       "language": "TSQL",
       "languageColor": "#e38c00",
-      "stars": "1,283",
+      "stars": "1,282",
       "forks": "549",
       "addStars": "1",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "sp_whoisactive",
       "language": "TSQL",
       "languageColor": "#e38c00",
-      "stars": "1,259",
-      "forks": "307",
+      "stars": "1,260",
+      "forks": "308",
       "addStars": "0",
       "contributors": [
         {

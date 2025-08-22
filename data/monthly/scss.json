@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Monthly Trending",
   "description": "Monthly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 22 Aug 2025 02:41:50 GMT",
+  "pubDate": "Fri, 22 Aug 2025 07:21:56 GMT",
   "items": [
     {
       "title": "rstacruz/cheatsheets",
@@ -473,7 +473,7 @@
       "description": "🎮 Soothing pastel theme for Discord",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "1,094",
+      "stars": "1,095",
       "forks": "181",
       "addStars": "42",
       "contributors": [

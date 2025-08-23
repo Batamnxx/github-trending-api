@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Daily Trending",
   "description": "Daily Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 23 Aug 2025 02:35:54 GMT",
+  "pubDate": "Sat, 23 Aug 2025 07:20:22 GMT",
   "items": [
     {
       "title": "Runixe786/MD3-Windows",
@@ -32,7 +32,7 @@
       "description": "Inno Setup is an open-source installation builder for Windows applications. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "4,830",
+      "stars": "4,831",
       "forks": "1,030",
       "addStars": "3",
       "contributors": [
@@ -69,7 +69,7 @@
       "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "5,328",
+      "stars": "5,329",
       "forks": "506",
       "addStars": "1",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "5,603",
+      "stars": "5,606",
       "forks": "313",
       "addStars": "7",
       "contributors": [

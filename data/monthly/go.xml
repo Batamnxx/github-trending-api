@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Go Languages in GitHub</description>
-    <pubDate>Sat, 23 Aug 2025 02:35:54 GMT</pubDate>
+    <pubDate>Sat, 23 Aug 2025 07:20:22 GMT</pubDate>
     <item>
       <title>cloudwego/eino</title>
       <link>https://github.com/cloudwego/eino</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/cloudwego/eino</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,902</stars>
-      <forks>535</forks>
+      <stars>6,904</stars>
+      <forks>536</forks>
       <addStars>1,764</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/ollama/ollama</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>150,731</stars>
+      <stars>150,745</stars>
       <forks>12,890</forks>
       <addStars>3,934</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/charmbracelet/bubbletea</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>34,586</stars>
-      <forks>977</forks>
+      <stars>34,596</stars>
+      <forks>979</forks>
       <addStars>1,200</addStars>
       <contributors>
         <contributor>
@@ -120,7 +120,7 @@
       <guid>https://github.com/modelcontextprotocol/go-sdk</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>1,731</stars>
+      <stars>1,735</stars>
       <forks>138</forks>
       <addStars>661</addStars>
       <contributors>
@@ -158,7 +158,7 @@
       <guid>https://github.com/openai/openai-go</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,355</stars>
+      <stars>2,356</stars>
       <forks>196</forks>
       <addStars>283</addStars>
       <contributors>
@@ -191,7 +191,7 @@
       <guid>https://github.com/jesseduffield/lazygit</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>63,914</stars>
+      <stars>63,916</stars>
       <forks>2,201</forks>
       <addStars>1,843</addStars>
       <contributors>
@@ -229,8 +229,8 @@
       <guid>https://github.com/external-secrets/external-secrets</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>5,695</stars>
-      <forks>1,055</forks>
+      <stars>5,696</stars>
+      <forks>1,054</forks>
       <addStars>489</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/github/github-mcp-server</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>21,549</stars>
-      <forks>2,231</forks>
+      <stars>21,553</stars>
+      <forks>2,232</forks>
       <addStars>3,032</addStars>
       <contributors>
         <contributor>
@@ -295,7 +295,7 @@
       <guid>https://github.com/m1k1o/neko</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>15,053</stars>
+      <stars>15,057</stars>
       <forks>992</forks>
       <addStars>3,047</addStars>
       <contributors>
@@ -371,7 +371,7 @@
       <guid>https://github.com/steveiliop56/tinyauth</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>5,035</stars>
+      <stars>5,038</stars>
       <forks>145</forks>
       <addStars>1,652</addStars>
       <contributors>
@@ -399,8 +399,8 @@
       <guid>https://github.com/sst/opencode</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>20,616</stars>
-      <forks>1,372</forks>
+      <stars>20,628</stars>
+      <forks>1,375</forks>
       <addStars>6,474</addStars>
       <contributors>
         <contributor>
@@ -437,7 +437,7 @@
       <guid>https://github.com/FiloSottile/mkcert</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>56,205</stars>
+      <stars>56,206</stars>
       <forks>2,938</forks>
       <addStars>1,492</addStars>
       <contributors>
@@ -475,7 +475,7 @@
       <guid>https://github.com/redis/go-redis</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>21,430</stars>
+      <stars>21,431</stars>
       <forks>2,493</forks>
       <addStars>341</addStars>
       <contributors>
@@ -508,7 +508,7 @@
       <guid>https://github.com/AlexxIT/go2rtc</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>9,935</stars>
+      <stars>9,936</stars>
       <forks>716</forks>
       <addStars>558</addStars>
       <contributors>
@@ -546,7 +546,7 @@
       <guid>https://github.com/alireza0/s-ui</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,663</stars>
+      <stars>4,669</stars>
       <forks>759</forks>
       <addStars>667</addStars>
       <contributors>
@@ -579,7 +579,7 @@
       <guid>https://github.com/RezaSi/go-interview-practice</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>1,056</stars>
+      <stars>1,057</stars>
       <forks>453</forks>
       <addStars>395</addStars>
       <contributors>
@@ -617,7 +617,7 @@
       <guid>https://github.com/syncthing/syncthing</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>75,458</stars>
+      <stars>75,465</stars>
       <forks>4,717</forks>
       <addStars>1,838</addStars>
       <contributors>
@@ -726,7 +726,7 @@
       <guid>https://github.com/rclone/rclone</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>52,206</stars>
+      <stars>52,208</stars>
       <forks>4,650</forks>
       <addStars>655</addStars>
       <contributors>
@@ -764,8 +764,8 @@
       <guid>https://github.com/sundowndev/phoneinfoga</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>14,872</stars>
-      <forks>4,290</forks>
+      <stars>14,875</stars>
+      <forks>4,291</forks>
       <addStars>278</addStars>
       <contributors>
         <contributor>

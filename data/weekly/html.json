@@ -2,7 +2,7 @@
   "title": "GitHub Html Languages Weekly Trending",
   "description": "Weekly Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 23 Aug 2025 02:35:54 GMT",
+  "pubDate": "Sat, 23 Aug 2025 07:20:22 GMT",
   "items": [
     {
       "title": "whatwg/html",
@@ -10,8 +10,8 @@
       "description": "HTML Standard",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "8,717",
-      "forks": "2,957",
+      "stars": "8,719",
+      "forks": "2,959",
       "addStars": "30",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Dism++ Multi-language Support & BUG Report",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "17,458",
-      "forks": "1,111",
+      "stars": "17,461",
+      "forks": "1,110",
       "addStars": "91",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "925",
+      "stars": "927",
       "forks": "65",
       "addStars": "48",
       "contributors": [

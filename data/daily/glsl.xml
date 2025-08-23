@@ -3,7 +3,7 @@
     <title>GitHub Glsl Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Glsl Languages in GitHub</description>
-    <pubDate>Sat, 23 Aug 2025 13:24:29 GMT</pubDate>
+    <pubDate>Sat, 23 Aug 2025 19:17:20 GMT</pubDate>
     <item>
       <title>cizia64/CrossMix-OS</title>
       <link>https://github.com/cizia64/CrossMix-OS</link>
@@ -50,7 +50,7 @@
       <language>GLSL</language>
       <languageColor>#5686a5</languageColor>
       <stars>2,260</stars>
-      <forks>610</forks>
+      <forks>611</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -106,6 +106,11 @@
           <name>PhyX-Meow</name>
           <url>https://github.com/PhyX-Meow</url>
         </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/106010631?s=40&amp;v=4</avatar>
+          <name>rrtt217</name>
+          <url>https://github.com/rrtt217</url>
+        </contributor>
       </contributors>
     </item>
     <item>
@@ -115,7 +120,7 @@
       <guid>https://github.com/patriciogonzalezvivo/lygia</guid>
       <language>GLSL</language>
       <languageColor>#5686a5</languageColor>
-      <stars>3,075</stars>
+      <stars>3,077</stars>
       <forks>204</forks>
       <addStars>2</addStars>
       <contributors>

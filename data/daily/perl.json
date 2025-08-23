@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 23 Aug 2025 13:24:29 GMT",
+  "pubDate": "Sat, 23 Aug 2025 19:17:20 GMT",
   "items": [
     {
       "title": "brendangregg/FlameGraph",
@@ -47,7 +47,7 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,160",
+      "stars": "3,161",
       "forks": "137",
       "addStars": "1",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "21,548",
+      "stars": "21,549",
       "forks": "1,072",
       "addStars": "8",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,029",
+      "stars": "3,030",
       "forks": "364",
       "addStars": "4",
       "contributors": [

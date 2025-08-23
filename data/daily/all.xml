@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 22 Aug 2025 19:19:25 GMT</pubDate>
+    <pubDate>Sat, 23 Aug 2025 02:35:54 GMT</pubDate>
     <item>
       <title>simstudioai/sim</title>
       <link>https://github.com/simstudioai/sim</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/simstudioai/sim</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,984</stars>
-      <forks>1,340</forks>
+      <stars>11,215</stars>
+      <forks>1,359</forks>
       <addStars>1,211</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/moeru-ai/airi</guid>
       <language>Vue</language>
       <languageColor>#41b883</languageColor>
-      <stars>6,690</stars>
-      <forks>473</forks>
+      <stars>6,889</stars>
+      <forks>490</forks>
       <addStars>1,757</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/google/googletest</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>36,757</stars>
-      <forks>10,472</forks>
+      <stars>36,786</stars>
+      <forks>10,475</forks>
       <addStars>110</addStars>
       <contributors>
         <contributor>
@@ -120,9 +120,9 @@
       <guid>https://github.com/dataease/SQLBot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>825</stars>
-      <forks>103</forks>
-      <addStars>79</addStars>
+      <stars>875</stars>
+      <forks>105</forks>
+      <addStars>58</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/106045316?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,063</stars>
-      <forks>904</forks>
-      <addStars>24</addStars>
+      <stars>10,135</stars>
+      <forks>909</forks>
+      <addStars>40</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/14025786?s=40&amp;v=4</avatar>
@@ -196,8 +196,8 @@
       <guid>https://github.com/HunxByts/GhostTrack</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,002</stars>
-      <forks>396</forks>
+      <stars>3,122</stars>
+      <forks>407</forks>
       <addStars>420</addStars>
       <contributors>
         <contributor>
@@ -219,9 +219,9 @@
       <guid>https://github.com/puckeditor/puck</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,805</stars>
-      <forks>537</forks>
-      <addStars>116</addStars>
+      <stars>7,939</stars>
+      <forks>543</forks>
+      <addStars>146</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/985961?s=40&amp;v=4</avatar>
@@ -252,9 +252,9 @@
       <guid>https://github.com/Dokploy/dokploy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>23,567</stars>
-      <forks>1,314</forks>
-      <addStars>95</addStars>
+      <stars>23,657</stars>
+      <forks>1,324</forks>
+      <addStars>120</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47042324?s=40&amp;v=4</avatar>
@@ -290,8 +290,8 @@
       <guid>https://github.com/puppeteer/puppeteer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>92,090</stars>
-      <forks>9,279</forks>
+      <stars>92,118</stars>
+      <forks>9,280</forks>
       <addStars>123</addStars>
       <contributors>
         <contributor>
@@ -318,9 +318,9 @@
       <guid>https://github.com/SpecterOps/BloodHound</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,095</stars>
-      <forks>222</forks>
-      <addStars>14</addStars>
+      <stars>2,148</stars>
+      <forks>224</forks>
+      <addStars>32</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/26472282?s=40&amp;v=4</avatar>
@@ -356,8 +356,8 @@
       <guid>https://github.com/nextjs/saas-starter</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,898</stars>
-      <forks>2,026</forks>
+      <stars>13,948</stars>
+      <forks>2,034</forks>
       <addStars>285</addStars>
       <contributors>
         <contributor>
@@ -394,9 +394,9 @@
       <guid>https://github.com/microsoft/BitNet</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,019</stars>
-      <forks>1,594</forks>
-      <addStars>47</addStars>
+      <stars>21,052</stars>
+      <forks>1,598</forks>
+      <addStars>28</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4</avatar>
@@ -432,9 +432,9 @@
       <guid>https://github.com/Leantime/leantime</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>6,491</stars>
-      <forks>698</forks>
-      <addStars>81</addStars>
+      <stars>6,599</stars>
+      <forks>707</forks>
+      <addStars>54</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47038998?s=40&amp;v=4</avatar>

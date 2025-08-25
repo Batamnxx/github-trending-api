@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Monthly Trending",
   "description": "Monthly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 25 Aug 2025 02:47:44 GMT",
+  "pubDate": "Mon, 25 Aug 2025 07:24:07 GMT",
   "items": [
     {
       "title": "leanprover-community/mathlib4",
@@ -47,7 +47,7 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "6,260",
+      "stars": "6,262",
       "forks": "649",
       "addStars": "219",
       "contributors": [

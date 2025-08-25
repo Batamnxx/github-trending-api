@@ -2,7 +2,7 @@
   "title": "GitHub Fluent Languages Monthly Trending",
   "description": "Monthly Trending of Fluent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 25 Aug 2025 02:47:44 GMT",
+  "pubDate": "Mon, 25 Aug 2025 07:24:07 GMT",
   "items": [
     {
       "title": "janeczku/calibre-web",
@@ -11,7 +11,7 @@
       "language": "Fluent",
       "languageColor": "#ffcc33",
       "stars": "15,346",
-      "forks": "1,615",
+      "forks": "1,616",
       "addStars": "332",
       "contributors": [
         {

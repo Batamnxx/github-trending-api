@@ -2,7 +2,7 @@
   "title": "GitHub Rich-text-format Languages Weekly Trending",
   "description": "Weekly Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 25 Aug 2025 13:30:30 GMT",
+  "pubDate": "Mon, 25 Aug 2025 19:18:58 GMT",
   "items": [
     {
       "title": "mathoudebine/turing-smart-screen-python",
@@ -67,9 +67,9 @@
           "url": "https://github.com/oleq"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2270764?s=40&v=4",
-          "name": "pomek",
-          "url": "https://github.com/pomek"
+          "avatar": "https://avatars.githubusercontent.com/u/1232187?s=40&v=4",
+          "name": "niegowski",
+          "url": "https://github.com/niegowski"
         }
       ]
     },
@@ -79,7 +79,7 @@
       "description": "☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": "617",
+      "stars": "618",
       "forks": "675",
       "addStars": "1",
       "contributors": [

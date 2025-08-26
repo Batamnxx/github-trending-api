@@ -3,7 +3,7 @@
     <title>GitHub Cython Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Cython Languages in GitHub</description>
-    <pubDate>Tue, 26 Aug 2025 02:42:33 GMT</pubDate>
+    <pubDate>Tue, 26 Aug 2025 07:23:30 GMT</pubDate>
     <item>
       <title>MagicStack/uvloop</title>
       <link>https://github.com/MagicStack/uvloop</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/MagicStack/uvloop</guid>
       <language>Cython</language>
       <languageColor>#fedf5b</languageColor>
-      <stars>11,173</stars>
+      <stars>11,174</stars>
       <forks>569</forks>
       <addStars>27</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/rushter/selectolax</guid>
       <language>Cython</language>
       <languageColor>#fedf5b</languageColor>
-      <stars>1,402</stars>
-      <forks>80</forks>
+      <stars>1,403</stars>
+      <forks>81</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>

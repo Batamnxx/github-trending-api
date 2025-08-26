@@ -2,7 +2,7 @@
   "title": "GitHub Ejs Languages Monthly Trending",
   "description": "Monthly Trending of Ejs Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 25 Aug 2025 13:30:30 GMT",
+  "pubDate": "Tue, 26 Aug 2025 02:42:33 GMT",
   "items": [
     {
       "title": "github/haikus-for-codespaces",
@@ -10,9 +10,9 @@
       "description": "",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": "2,302",
-      "forks": "4,094",
-      "addStars": "68",
+      "stars": "2,303",
+      "forks": "4,097",
+      "addStars": "64",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19893438?s=40&v=4",
@@ -43,7 +43,7 @@
       "language": "EJS",
       "languageColor": "#a91e50",
       "stars": "153",
-      "forks": "501",
+      "forks": "502",
       "addStars": "3",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": "2,436",
+      "stars": "2,438",
       "forks": "258",
       "addStars": "68",
       "contributors": [
@@ -118,7 +118,7 @@
       "languageColor": "#a91e50",
       "stars": "8,907",
       "forks": "1,117",
-      "addStars": "190",
+      "addStars": "189",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2541482?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": "2,428",
-      "forks": "479",
-      "addStars": "22",
+      "stars": "2,430",
+      "forks": "481",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53637377?s=40&v=4",

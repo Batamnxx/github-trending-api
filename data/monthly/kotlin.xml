@@ -3,45 +3,7 @@
     <title>GitHub Kotlin Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Kotlin Languages in GitHub</description>
-    <pubDate>Wed, 27 Aug 2025 07:22:09 GMT</pubDate>
-    <item>
-      <title>maxrave-dev/SimpMusic</title>
-      <link>https://github.com/maxrave-dev/SimpMusic</link>
-      <description>A simple music app using YouTube Music for backend</description>
-      <guid>https://github.com/maxrave-dev/SimpMusic</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>4,545</stars>
-      <forks>218</forks>
-      <addStars>659</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/113747128?s=40&amp;v=4</avatar>
-          <name>maxrave-dev</name>
-          <url>https://github.com/maxrave-dev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87689078?s=40&amp;v=4</avatar>
-          <name>RounakDadsena</name>
-          <url>https://github.com/RounakDadsena</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62717259?s=40&amp;v=4</avatar>
-          <name>ilianoKokoro</name>
-          <url>https://github.com/ilianoKokoro</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/184148670?s=40&amp;v=4</avatar>
-          <name>Mickael81</name>
-          <url>https://github.com/Mickael81</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/94785972?s=40&amp;v=4</avatar>
-          <name>JULJERYT</name>
-          <url>https://github.com/JULJERYT</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Wed, 27 Aug 2025 13:28:01 GMT</pubDate>
     <item>
       <title>celzero/rethink-app</title>
       <link>https://github.com/celzero/rethink-app</link>
@@ -49,7 +11,7 @@
       <guid>https://github.com/celzero/rethink-app</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>3,922</stars>
+      <stars>3,924</stars>
       <forks>202</forks>
       <addStars>251</addStars>
       <contributors>
@@ -81,14 +43,52 @@
       </contributors>
     </item>
     <item>
+      <title>maxrave-dev/SimpMusic</title>
+      <link>https://github.com/maxrave-dev/SimpMusic</link>
+      <description>A simple music app using YouTube Music for backend</description>
+      <guid>https://github.com/maxrave-dev/SimpMusic</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>4,549</stars>
+      <forks>219</forks>
+      <addStars>659</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/113747128?s=40&amp;v=4</avatar>
+          <name>maxrave-dev</name>
+          <url>https://github.com/maxrave-dev</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/87689078?s=40&amp;v=4</avatar>
+          <name>RounakDadsena</name>
+          <url>https://github.com/RounakDadsena</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/62717259?s=40&amp;v=4</avatar>
+          <name>ilianoKokoro</name>
+          <url>https://github.com/ilianoKokoro</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/184148670?s=40&amp;v=4</avatar>
+          <name>Mickael81</name>
+          <url>https://github.com/Mickael81</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/94785972?s=40&amp;v=4</avatar>
+          <name>JULJERYT</name>
+          <url>https://github.com/JULJERYT</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>gedoor/legado</title>
       <link>https://github.com/gedoor/legado</link>
       <description>Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</description>
       <guid>https://github.com/gedoor/legado</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>39,480</stars>
-      <forks>4,556</forks>
+      <stars>39,493</stars>
+      <forks>4,559</forks>
       <addStars>1,334</addStars>
       <contributors>
         <contributor>
@@ -115,7 +115,7 @@
       <guid>https://github.com/mostafaalagamy/Metrolist</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>2,608</stars>
+      <stars>2,609</stars>
       <forks>137</forks>
       <addStars>565</addStars>
       <contributors>
@@ -137,78 +137,63 @@
       </contributors>
     </item>
     <item>
-      <title>brahmkshatriya/echo</title>
-      <link>https://github.com/brahmkshatriya/echo</link>
-      <description>Just a music player.</description>
-      <guid>https://github.com/brahmkshatriya/echo</guid>
+      <title>deniscerri/ytdlnis</title>
+      <link>https://github.com/deniscerri/ytdlnis</link>
+      <description>Full-featured audio/video downloader for Android using yt-dlp</description>
+      <guid>https://github.com/deniscerri/ytdlnis</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>1,456</stars>
-      <forks>69</forks>
-      <addStars>295</addStars>
+      <stars>6,028</stars>
+      <forks>239</forks>
+      <addStars>263</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69040506?s=40&amp;v=4</avatar>
-          <name>brahmkshatriya</name>
-          <url>https://github.com/brahmkshatriya</url>
+          <avatar>https://avatars.githubusercontent.com/u/64997243?s=40&amp;v=4</avatar>
+          <name>deniscerri</name>
+          <url>https://github.com/deniscerri</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/167056923?s=40&amp;v=4</avatar>
-          <name>itsmechinmoy</name>
-          <url>https://github.com/itsmechinmoy</url>
+          <avatar>https://avatars.githubusercontent.com/u/75589932?s=40&amp;v=4</avatar>
+          <name>zaednasr</name>
+          <url>https://github.com/zaednasr</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4</avatar>
           <name>weblate</name>
           <url>https://github.com/weblate</url>
         </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39769465?s=40&amp;v=4</avatar>
-          <name>Adolar0042</name>
-          <url>https://github.com/Adolar0042</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/97435834?s=40&amp;v=4</avatar>
-          <name>LuftVerbot</name>
-          <url>https://github.com/LuftVerbot</url>
-        </contributor>
       </contributors>
     </item>
     <item>
-      <title>topjohnwu/Magisk</title>
-      <link>https://github.com/topjohnwu/Magisk</link>
-      <description>The Magic Mask for Android</description>
-      <guid>https://github.com/topjohnwu/Magisk</guid>
+      <title>element-hq/element-x-android</title>
+      <link>https://github.com/element-hq/element-x-android</link>
+      <description>Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose</description>
+      <guid>https://github.com/element-hq/element-x-android</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>55,502</stars>
-      <forks>14,947</forks>
-      <addStars>935</addStars>
+      <stars>1,502</stars>
+      <forks>266</forks>
+      <addStars>66</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7337301?s=40&amp;v=4</avatar>
-          <name>topjohnwu</name>
-          <url>https://github.com/topjohnwu</url>
+          <avatar>https://avatars.githubusercontent.com/u/3940906?s=40&amp;v=4</avatar>
+          <name>bmarty</name>
+          <url>https://github.com/bmarty</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5982859?s=40&amp;v=4</avatar>
-          <name>diareuse</name>
-          <url>https://github.com/diareuse</url>
+          <avatar>https://avatars.githubusercontent.com/u/8754928?s=40&amp;v=4</avatar>
+          <name>ganfra</name>
+          <url>https://github.com/ganfra</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26996262?s=40&amp;v=4</avatar>
-          <name>vvb2060</name>
-          <url>https://github.com/vvb2060</url>
+          <avatar>https://avatars.githubusercontent.com/u/480955?s=40&amp;v=4</avatar>
+          <name>jmartinesp</name>
+          <url>https://github.com/jmartinesp</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5022927?s=40&amp;v=4</avatar>
-          <name>yujincheng08</name>
-          <url>https://github.com/yujincheng08</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31466456?s=40&amp;v=4</avatar>
-          <name>canyie</name>
-          <url>https://github.com/canyie</url>
+          <avatar>https://avatars.githubusercontent.com/u/110224175?s=40&amp;v=4</avatar>
+          <name>ElementBot</name>
+          <url>https://github.com/ElementBot</url>
         </contributor>
       </contributors>
     </item>
@@ -246,111 +231,40 @@
       </contributors>
     </item>
     <item>
-      <title>element-hq/element-x-android</title>
-      <link>https://github.com/element-hq/element-x-android</link>
-      <description>Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose</description>
-      <guid>https://github.com/element-hq/element-x-android</guid>
+      <title>brahmkshatriya/echo</title>
+      <link>https://github.com/brahmkshatriya/echo</link>
+      <description>Just a music player.</description>
+      <guid>https://github.com/brahmkshatriya/echo</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>1,501</stars>
-      <forks>266</forks>
-      <addStars>66</addStars>
+      <stars>1,457</stars>
+      <forks>69</forks>
+      <addStars>295</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3940906?s=40&amp;v=4</avatar>
-          <name>bmarty</name>
-          <url>https://github.com/bmarty</url>
+          <avatar>https://avatars.githubusercontent.com/u/69040506?s=40&amp;v=4</avatar>
+          <name>brahmkshatriya</name>
+          <url>https://github.com/brahmkshatriya</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8754928?s=40&amp;v=4</avatar>
-          <name>ganfra</name>
-          <url>https://github.com/ganfra</url>
+          <avatar>https://avatars.githubusercontent.com/u/167056923?s=40&amp;v=4</avatar>
+          <name>itsmechinmoy</name>
+          <url>https://github.com/itsmechinmoy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/480955?s=40&amp;v=4</avatar>
-          <name>jmartinesp</name>
-          <url>https://github.com/jmartinesp</url>
+          <avatar>https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4</avatar>
+          <name>weblate</name>
+          <url>https://github.com/weblate</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/110224175?s=40&amp;v=4</avatar>
-          <name>ElementBot</name>
-          <url>https://github.com/ElementBot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>duckduckgo/Android</title>
-      <link>https://github.com/duckduckgo/Android</link>
-      <description>DuckDuckGo Android App</description>
-      <guid>https://github.com/duckduckgo/Android</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>4,300</stars>
-      <forks>1,046</forks>
-      <addStars>77</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1336281?s=40&amp;v=4</avatar>
-          <name>CDRussell</name>
-          <url>https://github.com/CDRussell</url>
+          <avatar>https://avatars.githubusercontent.com/u/39769465?s=40&amp;v=4</avatar>
+          <name>Adolar0042</name>
+          <url>https://github.com/Adolar0042</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6786896?s=40&amp;v=4</avatar>
-          <name>aitorvs</name>
-          <url>https://github.com/aitorvs</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1773137?s=40&amp;v=4</avatar>
-          <name>marcosholgado</name>
-          <url>https://github.com/marcosholgado</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/531613?s=40&amp;v=4</avatar>
-          <name>malmstein</name>
-          <url>https://github.com/malmstein</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1652407?s=40&amp;v=4</avatar>
-          <name>subsymbolic</name>
-          <url>https://github.com/subsymbolic</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>JetBrains/kotlin</title>
-      <link>https://github.com/JetBrains/kotlin</link>
-      <description>The Kotlin Programming Language.</description>
-      <guid>https://github.com/JetBrains/kotlin</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>51,159</stars>
-      <forks>5,995</forks>
-      <addStars>236</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/292714?s=40&amp;v=4</avatar>
-          <name>udalov</name>
-          <url>https://github.com/udalov</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1127631?s=40&amp;v=4</avatar>
-          <name>mglukhikh</name>
-          <url>https://github.com/mglukhikh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14974409?s=40&amp;v=4</avatar>
-          <name>demiurg906</name>
-          <url>https://github.com/demiurg906</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/908958?s=40&amp;v=4</avatar>
-          <name>goodwinnk</name>
-          <url>https://github.com/goodwinnk</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/863207?s=40&amp;v=4</avatar>
-          <name>dzharkov</name>
-          <url>https://github.com/dzharkov</url>
+          <avatar>https://avatars.githubusercontent.com/u/97435834?s=40&amp;v=4</avatar>
+          <name>LuftVerbot</name>
+          <url>https://github.com/LuftVerbot</url>
         </contributor>
       </contributors>
     </item>
@@ -361,8 +275,8 @@
       <guid>https://github.com/RikkaApps/Shizuku</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>16,598</stars>
-      <forks>1,196</forks>
+      <stars>16,605</stars>
+      <forks>1,198</forks>
       <addStars>814</addStars>
       <contributors>
         <contributor>
@@ -437,7 +351,7 @@
       <guid>https://github.com/LawnchairLauncher/lawnicons</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>1,680</stars>
+      <stars>1,682</stars>
       <forks>486</forks>
       <addStars>48</addStars>
       <contributors>
@@ -470,7 +384,7 @@
       <guid>https://github.com/florisboard/florisboard</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>7,417</stars>
+      <stars>7,421</stars>
       <forks>498</forks>
       <addStars>172</addStars>
       <contributors>
@@ -502,13 +416,150 @@
       </contributors>
     </item>
     <item>
+      <title>JetBrains/kotlin</title>
+      <link>https://github.com/JetBrains/kotlin</link>
+      <description>The Kotlin Programming Language.</description>
+      <guid>https://github.com/JetBrains/kotlin</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>51,159</stars>
+      <forks>5,995</forks>
+      <addStars>236</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/292714?s=40&amp;v=4</avatar>
+          <name>udalov</name>
+          <url>https://github.com/udalov</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1127631?s=40&amp;v=4</avatar>
+          <name>mglukhikh</name>
+          <url>https://github.com/mglukhikh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14974409?s=40&amp;v=4</avatar>
+          <name>demiurg906</name>
+          <url>https://github.com/demiurg906</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/908958?s=40&amp;v=4</avatar>
+          <name>goodwinnk</name>
+          <url>https://github.com/goodwinnk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/863207?s=40&amp;v=4</avatar>
+          <name>dzharkov</name>
+          <url>https://github.com/dzharkov</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>topjohnwu/Magisk</title>
+      <link>https://github.com/topjohnwu/Magisk</link>
+      <description>The Magic Mask for Android</description>
+      <guid>https://github.com/topjohnwu/Magisk</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>55,510</stars>
+      <forks>14,949</forks>
+      <addStars>935</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7337301?s=40&amp;v=4</avatar>
+          <name>topjohnwu</name>
+          <url>https://github.com/topjohnwu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5982859?s=40&amp;v=4</avatar>
+          <name>diareuse</name>
+          <url>https://github.com/diareuse</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26996262?s=40&amp;v=4</avatar>
+          <name>vvb2060</name>
+          <url>https://github.com/vvb2060</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5022927?s=40&amp;v=4</avatar>
+          <name>yujincheng08</name>
+          <url>https://github.com/yujincheng08</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31466456?s=40&amp;v=4</avatar>
+          <name>canyie</name>
+          <url>https://github.com/canyie</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>signalapp/Signal-Android</title>
+      <link>https://github.com/signalapp/Signal-Android</link>
+      <description>A private messenger for Android.</description>
+      <guid>https://github.com/signalapp/Signal-Android</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>27,512</stars>
+      <forks>6,505</forks>
+      <addStars>198</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37311915?s=40&amp;v=4</avatar>
+          <name>greyson-signal</name>
+          <url>https://github.com/greyson-signal</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54450162?s=40&amp;v=4</avatar>
+          <name>alex-signal</name>
+          <url>https://github.com/alex-signal</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/512439?s=40&amp;v=4</avatar>
+          <name>moxie0</name>
+          <url>https://github.com/moxie0</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/66265416?s=40&amp;v=4</avatar>
+          <name>cody-signal</name>
+          <url>https://github.com/cody-signal</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48254818?s=40&amp;v=4</avatar>
+          <name>alan-signal</name>
+          <url>https://github.com/alan-signal</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Ackites/Nrfr</title>
+      <link>https://github.com/Ackites/Nrfr</link>
+      <description>🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制</description>
+      <guid>https://github.com/Ackites/Nrfr</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>3,875</stars>
+      <forks>369</forks>
+      <addStars>554</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/91859281?s=40&amp;v=4</avatar>
+          <name>Ackites</name>
+          <url>https://github.com/Ackites</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7929014?s=40&amp;v=4</avatar>
+          <name>muink</name>
+          <url>https://github.com/muink</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>Kunzisoft/KeePassDX</title>
       <link>https://github.com/Kunzisoft/KeePassDX</link>
       <description>Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.</description>
       <guid>https://github.com/Kunzisoft/KeePassDX</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>5,653</stars>
+      <stars>5,656</stars>
       <forks>320</forks>
       <addStars>162</addStars>
       <contributors>
@@ -546,8 +597,8 @@
       <guid>https://github.com/2dust/v2rayNG</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>44,262</stars>
-      <forks>6,349</forks>
+      <stars>44,271</stars>
+      <forks>6,354</forks>
       <addStars>1,308</addStars>
       <contributors>
         <contributor>
@@ -578,25 +629,116 @@
       </contributors>
     </item>
     <item>
-      <title>Ackites/Nrfr</title>
-      <link>https://github.com/Ackites/Nrfr</link>
-      <description>🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制</description>
-      <guid>https://github.com/Ackites/Nrfr</guid>
+      <title>androidx/androidx</title>
+      <link>https://github.com/androidx/androidx</link>
+      <description>Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.</description>
+      <guid>https://github.com/androidx/androidx</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>3,871</stars>
-      <forks>369</forks>
-      <addStars>554</addStars>
+      <stars>5,721</stars>
+      <forks>1,158</forks>
+      <addStars>51</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/91859281?s=40&amp;v=4</avatar>
-          <name>Ackites</name>
-          <url>https://github.com/Ackites</url>
+          <avatar>https://avatars.githubusercontent.com/u/1418185?s=40&amp;v=4</avatar>
+          <name>liutikas</name>
+          <url>https://github.com/liutikas</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7929014?s=40&amp;v=4</avatar>
-          <name>muink</name>
-          <url>https://github.com/muink</url>
+          <avatar>https://avatars.githubusercontent.com/u/227486?s=40&amp;v=4</avatar>
+          <name>chrisbanes</name>
+          <url>https://github.com/chrisbanes</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29806798?s=40&amp;v=4</avatar>
+          <name>dakegu2</name>
+          <url>https://github.com/dakegu2</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/89202?s=40&amp;v=4</avatar>
+          <name>yigit</name>
+          <url>https://github.com/yigit</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/517315?s=40&amp;v=4</avatar>
+          <name>ianhanniballake</name>
+          <url>https://github.com/ianhanniballake</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>mpv-android/mpv-android</title>
+      <link>https://github.com/mpv-android/mpv-android</link>
+      <description>video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat</description>
+      <guid>https://github.com/mpv-android/mpv-android</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>2,619</stars>
+      <forks>326</forks>
+      <addStars>85</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1042418?s=40&amp;v=4</avatar>
+          <name>sfan5</name>
+          <url>https://github.com/sfan5</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/27182?s=40&amp;v=4</avatar>
+          <name>jeeb</name>
+          <url>https://github.com/jeeb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1065521?s=40&amp;v=4</avatar>
+          <name>xyzz</name>
+          <url>https://github.com/xyzz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2567?s=40&amp;v=4</avatar>
+          <name>tmm1</name>
+          <url>https://github.com/tmm1</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5009268?s=40&amp;v=4</avatar>
+          <name>syphyr</name>
+          <url>https://github.com/syphyr</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>duckduckgo/Android</title>
+      <link>https://github.com/duckduckgo/Android</link>
+      <description>DuckDuckGo Android App</description>
+      <guid>https://github.com/duckduckgo/Android</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>4,300</stars>
+      <forks>1,046</forks>
+      <addStars>77</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1336281?s=40&amp;v=4</avatar>
+          <name>CDRussell</name>
+          <url>https://github.com/CDRussell</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6786896?s=40&amp;v=4</avatar>
+          <name>aitorvs</name>
+          <url>https://github.com/aitorvs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1773137?s=40&amp;v=4</avatar>
+          <name>marcosholgado</name>
+          <url>https://github.com/marcosholgado</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/531613?s=40&amp;v=4</avatar>
+          <name>malmstein</name>
+          <url>https://github.com/malmstein</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1652407?s=40&amp;v=4</avatar>
+          <name>subsymbolic</name>
+          <url>https://github.com/subsymbolic</url>
         </contributor>
       </contributors>
     </item>

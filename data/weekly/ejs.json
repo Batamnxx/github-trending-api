@@ -2,7 +2,7 @@
   "title": "GitHub Ejs Languages Weekly Trending",
   "description": "Weekly Trending of Ejs Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 26 Aug 2025 19:18:10 GMT",
+  "pubDate": "Wed, 27 Aug 2025 02:36:43 GMT",
   "items": [
     {
       "title": "github/haikus-for-codespaces",
@@ -11,7 +11,7 @@
       "language": "EJS",
       "languageColor": "#a91e50",
       "stars": "2,303",
-      "forks": "4,099",
+      "forks": "4,097",
       "addStars": "15",
       "contributors": [
         {
@@ -42,9 +42,9 @@
       "description": "Jalankan live streaming lewat VPS ✨🔴",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": "155",
-      "forks": "129",
-      "addStars": "1",
+      "stars": "161",
+      "forks": "132",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/195518959?s=40&v=4",
@@ -57,6 +57,11 @@
           "url": "https://github.com/afkarxyz"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/6983524?s=40&v=4",
+          "name": "prakasa1904",
+          "url": "https://github.com/prakasa1904"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/34067929?s=40&v=4",
           "name": "restuhaqza",
           "url": "https://github.com/restuhaqza"
@@ -65,11 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/44697929?s=40&v=4",
           "name": "Kry9toN",
           "url": "https://github.com/Kry9toN"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61053094?s=40&v=4",
-          "name": "yukebrillianth",
-          "url": "https://github.com/yukebrillianth"
         }
       ]
     },
@@ -80,8 +80,8 @@
       "language": "EJS",
       "languageColor": "#a91e50",
       "stars": "154",
-      "forks": "503",
-      "addStars": "1",
+      "forks": "502",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3803196?s=40&v=4",

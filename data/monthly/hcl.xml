@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Thu, 28 Aug 2025 02:36:23 GMT</pubDate>
+    <pubDate>Thu, 28 Aug 2025 07:23:10 GMT</pubDate>
     <item>
       <title>kube-hetzner/terraform-hcloud-kube-hetzner</title>
       <link>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>3,204</stars>
+      <stars>3,205</stars>
       <forks>467</forks>
       <addStars>91</addStars>
       <contributors>
@@ -78,7 +78,7 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>4,129</stars>
-      <forks>2,864</forks>
+      <forks>2,865</forks>
       <addStars>59</addStars>
       <contributors>
         <contributor>
@@ -258,7 +258,7 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>463</stars>
-      <forks>1,248</forks>
+      <forks>1,249</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>

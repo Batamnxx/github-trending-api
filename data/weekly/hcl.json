@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 28 Aug 2025 02:36:23 GMT",
+  "pubDate": "Thu, 28 Aug 2025 07:23:10 GMT",
   "items": [
     {
       "title": "kube-hetzner/terraform-hcloud-kube-hetzner",
@@ -10,7 +10,7 @@
       "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "3,204",
+      "stars": "3,205",
       "forks": "467",
       "addStars": "26",
       "contributors": [
@@ -80,7 +80,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "4,129",
-      "forks": "2,864",
+      "forks": "2,865",
       "addStars": "11",
       "contributors": [
         {

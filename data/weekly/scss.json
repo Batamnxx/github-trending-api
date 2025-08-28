@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Weekly Trending",
   "description": "Weekly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 28 Aug 2025 02:36:23 GMT",
+  "pubDate": "Thu, 28 Aug 2025 07:23:10 GMT",
   "items": [
     {
       "title": "Ileriayo/markdown-badges",
@@ -10,7 +10,7 @@
       "description": "Badges for your personal developer branding, profile, and projects.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "15,406",
+      "stars": "15,408",
       "forks": "1,747",
       "addStars": "50",
       "contributors": [
@@ -102,7 +102,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "1,726",
-      "forks": "6,311",
+      "forks": "6,310",
       "addStars": "4",
       "contributors": [
         {
@@ -138,7 +138,7 @@
       "description": "⚡️ A minimal portfolio template for Developers",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "13,930",
+      "stars": "13,931",
       "forks": "5,972",
       "addStars": "15",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "Hugo documentation theme as simple as plain book",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "3,779",
+      "stars": "3,780",
       "forks": "1,279",
       "addStars": "7",
       "contributors": [
@@ -286,7 +286,7 @@
       "description": "将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "5,378",
+      "stars": "5,379",
       "forks": "321",
       "addStars": "16",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "📫 SMTP Server + Web Interface for viewing and testing emails during development.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "5,619",
+      "stars": "5,620",
       "forks": "536",
       "addStars": "17",
       "contributors": [

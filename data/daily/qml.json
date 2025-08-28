@@ -2,17 +2,49 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 28 Aug 2025 13:28:35 GMT",
+  "pubDate": "Thu, 28 Aug 2025 19:18:37 GMT",
   "items": [
+    {
+      "title": "mengps/HuskarUI",
+      "url": "https://github.com/mengps/HuskarUI",
+      "description": "🎉 Ant-d UI-Kit for Qml",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "281",
+      "forks": "35",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33405710?s=40&v=4",
+          "name": "mengps",
+          "url": "https://github.com/mengps"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/169913152?s=40&v=4",
+          "name": "xkaaaaa",
+          "url": "https://github.com/xkaaaaa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21037233?s=40&v=4",
+          "name": "zekexiao",
+          "url": "https://github.com/zekexiao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29160005?s=40&v=4",
+          "name": "KomiMoe",
+          "url": "https://github.com/KomiMoe"
+        }
+      ]
+    },
     {
       "title": "end-4/dots-hyprland",
       "url": "https://github.com/end-4/dots-hyprland",
       "description": "Rice built for usability",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "8,642",
-      "forks": "648",
-      "addStars": "26",
+      "stars": "8,647",
+      "forks": "647",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/97237370?s=40&v=4",
@@ -49,7 +81,7 @@
       "languageColor": "#44a51c",
       "stars": "23,876",
       "forks": "897",
-      "addStars": "4",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6009070?s=40&v=4",

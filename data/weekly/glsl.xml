@@ -3,7 +3,7 @@
     <title>GitHub Glsl Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Glsl Languages in GitHub</description>
-    <pubDate>Thu, 28 Aug 2025 13:28:35 GMT</pubDate>
+    <pubDate>Thu, 28 Aug 2025 19:18:37 GMT</pubDate>
     <item>
       <title>cizia64/CrossMix-OS</title>
       <link>https://github.com/cizia64/CrossMix-OS</link>
@@ -163,8 +163,8 @@
       <guid>https://github.com/SaschaWillems/Vulkan</guid>
       <language>GLSL</language>
       <languageColor>#5686a5</languageColor>
-      <stars>11,308</stars>
-      <forks>2,131</forks>
+      <stars>11,309</stars>
+      <forks>2,132</forks>
       <addStars>21</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/HaringPro/Revelation</guid>
       <language>GLSL</language>
       <languageColor>#5686a5</languageColor>
-      <stars>335</stars>
+      <stars>336</stars>
       <forks>15</forks>
       <addStars>10</addStars>
       <contributors>

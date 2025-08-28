@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 28 Aug 2025 13:28:35 GMT</pubDate>
+    <pubDate>Thu, 28 Aug 2025 19:18:37 GMT</pubDate>
     <item>
       <title>moeru-ai/airi</title>
       <link>https://github.com/moeru-ai/airi</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/moeru-ai/airi</guid>
       <language>Vue</language>
       <languageColor>#41b883</languageColor>
-      <stars>11,439</stars>
-      <forks>891</forks>
+      <stars>11,491</stars>
+      <forks>899</forks>
       <addStars>7,949</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>14,969</stars>
-      <forks>2,595</forks>
+      <stars>15,510</stars>
+      <forks>2,639</forks>
       <addStars>4,411</addStars>
       <contributors>
         <contributor>
@@ -68,6 +68,16 @@
           <name>gudzenkov</name>
           <url>https://github.com/gudzenkov</url>
         </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/61287015?s=40&amp;v=4</avatar>
+          <name>EricZhou05</name>
+          <url>https://github.com/EricZhou05</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/65506006?s=40&amp;v=4</avatar>
+          <name>hax0r31337</name>
+          <url>https://github.com/hax0r31337</url>
+        </contributor>
       </contributors>
     </item>
     <item>
@@ -77,8 +87,8 @@
       <guid>https://github.com/plait-board/drawnix</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,704</stars>
-      <forks>700</forks>
+      <stars>9,730</stars>
+      <forks>707</forks>
       <addStars>4,852</addStars>
       <contributors>
         <contributor>
@@ -115,8 +125,8 @@
       <guid>https://github.com/winapps-org/winapps</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>7,925</stars>
-      <forks>235</forks>
+      <stars>7,956</stars>
+      <forks>236</forks>
       <addStars>4,096</addStars>
       <contributors>
         <contributor>
@@ -148,8 +158,8 @@
       <guid>https://github.com/HKUDS/DeepCode</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,363</stars>
-      <forks>445</forks>
+      <stars>4,382</stars>
+      <forks>448</forks>
       <addStars>3,301</addStars>
       <contributors>
         <contributor>
@@ -181,8 +191,8 @@
       <guid>https://github.com/simstudioai/sim</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,574</stars>
-      <forks>1,452</forks>
+      <stars>12,668</stars>
+      <forks>1,465</forks>
       <addStars>4,657</addStars>
       <contributors>
         <contributor>
@@ -219,7 +229,7 @@
       <guid>https://github.com/google/googletest</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>36,939</stars>
+      <stars>36,942</stars>
       <forks>10,489</forks>
       <addStars>325</addStars>
       <contributors>
@@ -252,7 +262,7 @@
       <guid>https://github.com/Leantime/leantime</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>7,645</stars>
+      <stars>7,658</stars>
       <forks>746</forks>
       <addStars>1,720</addStars>
       <contributors>
@@ -290,8 +300,8 @@
       <guid>https://github.com/MODSetter/SurfSense</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,079</stars>
-      <forks>524</forks>
+      <stars>7,139</stars>
+      <forks>529</forks>
       <addStars>511</addStars>
       <contributors>
         <contributor>
@@ -328,7 +338,7 @@
       <guid>https://github.com/Budibase/budibase</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,538</stars>
+      <stars>26,546</stars>
       <forks>1,917</forks>
       <addStars>1,070</addStars>
       <contributors>
@@ -366,7 +376,7 @@
       <guid>https://github.com/puckeditor/puck</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,943</stars>
+      <stars>8,971</stars>
       <forks>585</forks>
       <addStars>1,355</addStars>
       <contributors>
@@ -399,8 +409,8 @@
       <guid>https://github.com/microsoft/qlib</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,094</stars>
-      <forks>4,492</forks>
+      <stars>29,121</stars>
+      <forks>4,496</forks>
       <addStars>474</addStars>
       <contributors>
         <contributor>
@@ -437,8 +447,8 @@
       <guid>https://github.com/louislam/uptime-kuma</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>74,260</stars>
-      <forks>6,577</forks>
+      <stars>74,290</stars>
+      <forks>6,579</forks>
       <addStars>724</addStars>
       <contributors>
         <contributor>
@@ -475,8 +485,8 @@
       <guid>https://github.com/psygreg/linuxtoys</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>625</stars>
-      <forks>35</forks>
+      <stars>640</stars>
+      <forks>36</forks>
       <addStars>130</addStars>
       <contributors>
         <contributor>
@@ -508,8 +518,8 @@
       <guid>https://github.com/firecrawl/firecrawl</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>52,901</stars>
-      <forks>4,546</forks>
+      <stars>53,024</stars>
+      <forks>4,556</forks>
       <addStars>2,955</addStars>
       <contributors>
         <contributor>

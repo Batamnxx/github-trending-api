@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Weekly Trending",
   "description": "Weekly Trending of Yaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 29 Aug 2025 13:27:11 GMT",
+  "pubDate": "Fri, 29 Aug 2025 19:17:17 GMT",
   "items": [
     {
       "title": "dell/omnia",
@@ -47,7 +47,7 @@
       "description": "Exploring how to present Web platform features adoptability",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "619",
+      "stars": "620",
       "forks": "171",
       "addStars": "12",
       "contributors": [

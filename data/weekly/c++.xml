@@ -3,7 +3,7 @@
     <title>GitHub C++ Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of C++ Languages in GitHub</description>
-    <pubDate>Fri, 29 Aug 2025 07:22:24 GMT</pubDate>
+    <pubDate>Fri, 29 Aug 2025 13:27:11 GMT</pubDate>
     <item>
       <title>google/googletest</title>
       <link>https://github.com/google/googletest</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/google/googletest</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>36,953</stars>
+      <stars>36,955</stars>
       <forks>10,492</forks>
       <addStars>327</addStars>
       <contributors>
@@ -38,90 +38,14 @@
       </contributors>
     </item>
     <item>
-      <title>diasurgical/DevilutionX</title>
-      <link>https://github.com/diasurgical/DevilutionX</link>
-      <description>Diablo build for modern operating systems</description>
-      <guid>https://github.com/diasurgical/DevilutionX</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>8,937</stars>
-      <forks>897</forks>
-      <addStars>85</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/204594?s=40&amp;v=4</avatar>
-          <name>AJenbo</name>
-          <url>https://github.com/AJenbo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/216339?s=40&amp;v=4</avatar>
-          <name>glebm</name>
-          <url>https://github.com/glebm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14297035?s=40&amp;v=4</avatar>
-          <name>qndel</name>
-          <url>https://github.com/qndel</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25415264?s=40&amp;v=4</avatar>
-          <name>obligaron</name>
-          <url>https://github.com/obligaron</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9203145?s=40&amp;v=4</avatar>
-          <name>StephenCWills</name>
-          <url>https://github.com/StephenCWills</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>zeux/meshoptimizer</title>
-      <link>https://github.com/zeux/meshoptimizer</link>
-      <description>Mesh optimization library that makes meshes smaller and faster to render</description>
-      <guid>https://github.com/zeux/meshoptimizer</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>6,658</stars>
-      <forks>565</forks>
-      <addStars>57</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1106629?s=40&amp;v=4</avatar>
-          <name>zeux</name>
-          <url>https://github.com/zeux</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/344828?s=40&amp;v=4</avatar>
-          <name>mosra</name>
-          <url>https://github.com/mosra</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2510143?s=40&amp;v=4</avatar>
-          <name>corporateshark</name>
-          <url>https://github.com/corporateshark</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7506147?s=40&amp;v=4</avatar>
-          <name>dtrebilco</name>
-          <url>https://github.com/dtrebilco</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1749069?s=40&amp;v=4</avatar>
-          <name>l0calh05t</name>
-          <url>https://github.com/l0calh05t</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>microsoft/terminal</title>
       <link>https://github.com/microsoft/terminal</link>
       <description>The new Windows Terminal and the original Windows console host, all in the same place!</description>
       <guid>https://github.com/microsoft/terminal</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>99,609</stars>
-      <forks>8,717</forks>
+      <stars>99,659</stars>
+      <forks>8,720</forks>
       <addStars>319</addStars>
       <contributors>
         <contributor>
@@ -152,149 +76,78 @@
       </contributors>
     </item>
     <item>
-      <title>ROCm/rocm-systems</title>
-      <link>https://github.com/ROCm/rocm-systems</link>
-      <description>super repo for rocm systems projects</description>
-      <guid>https://github.com/ROCm/rocm-systems</guid>
+      <title>shadps4-emu/shadPS4</title>
+      <link>https://github.com/shadps4-emu/shadPS4</link>
+      <description>PlayStation 4 emulator for Windows, Linux and macOS written in C++</description>
+      <guid>https://github.com/shadps4-emu/shadPS4</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>62</stars>
-      <forks>25</forks>
-      <addStars>22</addStars>
+      <stars>25,979</stars>
+      <forks>1,700</forks>
+      <addStars>490</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6001865?s=40&amp;v=4</avatar>
-          <name>jrmadsen</name>
-          <url>https://github.com/jrmadsen</url>
+          <avatar>https://avatars.githubusercontent.com/u/4313123?s=40&amp;v=4</avatar>
+          <name>georgemoralis</name>
+          <url>https://github.com/georgemoralis</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/143540922?s=40&amp;v=4</avatar>
-          <name>dgaliffiAMD</name>
-          <url>https://github.com/dgaliffiAMD</url>
+          <avatar>https://avatars.githubusercontent.com/u/175574877?s=40&amp;v=4</avatar>
+          <name>squidbus</name>
+          <url>https://github.com/squidbus</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11466906?s=40&amp;v=4</avatar>
-          <name>coleramos425</name>
-          <url>https://github.com/coleramos425</url>
+          <avatar>https://avatars.githubusercontent.com/u/168137814?s=40&amp;v=4</avatar>
+          <name>psucien</name>
+          <url>https://github.com/psucien</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/889417?s=40&amp;v=4</avatar>
-          <name>koomie</name>
-          <url>https://github.com/koomie</url>
+          <avatar>https://avatars.githubusercontent.com/u/47210458?s=40&amp;v=4</avatar>
+          <name>raphaelthegreat</name>
+          <url>https://github.com/raphaelthegreat</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66695075?s=40&amp;v=4</avatar>
-          <name>rocm-ci</name>
-          <url>https://github.com/rocm-ci</url>
+          <avatar>https://avatars.githubusercontent.com/u/28203966?s=40&amp;v=4</avatar>
+          <name>DanielSvoboda</name>
+          <url>https://github.com/DanielSvoboda</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>ClassicOldSong/Apollo</title>
-      <link>https://github.com/ClassicOldSong/Apollo</link>
-      <description>Sunshine fork - The easiest way to stream with the native resolution of your client device</description>
-      <guid>https://github.com/ClassicOldSong/Apollo</guid>
+      <title>diasurgical/DevilutionX</title>
+      <link>https://github.com/diasurgical/DevilutionX</link>
+      <description>Diablo build for modern operating systems</description>
+      <guid>https://github.com/diasurgical/DevilutionX</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>5,274</stars>
-      <forks>117</forks>
-      <addStars>165</addStars>
+      <stars>8,941</stars>
+      <forks>897</forks>
+      <addStars>85</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42013603?s=40&amp;v=4</avatar>
-          <name>ReenigneArcher</name>
-          <url>https://github.com/ReenigneArcher</url>
+          <avatar>https://avatars.githubusercontent.com/u/204594?s=40&amp;v=4</avatar>
+          <name>AJenbo</name>
+          <url>https://github.com/AJenbo</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2695644?s=40&amp;v=4</avatar>
-          <name>cgutman</name>
-          <url>https://github.com/cgutman</url>
+          <avatar>https://avatars.githubusercontent.com/u/216339?s=40&amp;v=4</avatar>
+          <name>glebm</name>
+          <url>https://github.com/glebm</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10512422?s=40&amp;v=4</avatar>
-          <name>ClassicOldSong</name>
-          <url>https://github.com/ClassicOldSong</url>
+          <avatar>https://avatars.githubusercontent.com/u/14297035?s=40&amp;v=4</avatar>
+          <name>qndel</name>
+          <url>https://github.com/qndel</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3084139?s=40&amp;v=4</avatar>
-          <name>loki-47-6F-64</name>
-          <url>https://github.com/loki-47-6F-64</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>zen-browser/desktop</title>
-      <link>https://github.com/zen-browser/desktop</link>
-      <description>Welcome to a calmer internet</description>
-      <guid>https://github.com/zen-browser/desktop</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>35,757</stars>
-      <forks>1,042</forks>
-      <addStars>421</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/91018726?s=40&amp;v=4</avatar>
-          <name>mr-cheffy</name>
-          <url>https://github.com/mr-cheffy</url>
+          <avatar>https://avatars.githubusercontent.com/u/25415264?s=40&amp;v=4</avatar>
+          <name>obligaron</name>
+          <url>https://github.com/obligaron</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54318514?s=40&amp;v=4</avatar>
-          <name>Slowlife01</name>
-          <url>https://github.com/Slowlife01</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96492763?s=40&amp;v=4</avatar>
-          <name>kristijanribaric</name>
-          <url>https://github.com/kristijanribaric</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/92426196?s=40&amp;v=4</avatar>
-          <name>BrhmDev</name>
-          <url>https://github.com/BrhmDev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/168581144?s=40&amp;v=4</avatar>
-          <name>neurokitti</name>
-          <url>https://github.com/neurokitti</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Zackriya-Solutions/meeting-minutes</title>
-      <link>https://github.com/Zackriya-Solutions/meeting-minutes</link>
-      <description>A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai</description>
-      <guid>https://github.com/Zackriya-Solutions/meeting-minutes</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>7,253</stars>
-      <forks>550</forks>
-      <addStars>157</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/85450497?s=40&amp;v=4</avatar>
-          <name>sujithatzackriya</name>
-          <url>https://github.com/sujithatzackriya</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87969134?s=40&amp;v=4</avatar>
-          <name>athulchandroth</name>
-          <url>https://github.com/athulchandroth</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18640268?s=40&amp;v=4</avatar>
-          <name>sujithhubpost</name>
-          <url>https://github.com/sujithhubpost</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/112133301?s=40&amp;v=4</avatar>
-          <name>ebinzack15</name>
-          <url>https://github.com/ebinzack15</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/9203145?s=40&amp;v=4</avatar>
+          <name>StephenCWills</name>
+          <url>https://github.com/StephenCWills</url>
         </contributor>
       </contributors>
     </item>
@@ -337,116 +190,40 @@
       </contributors>
     </item>
     <item>
-      <title>shadps4-emu/shadPS4</title>
-      <link>https://github.com/shadps4-emu/shadPS4</link>
-      <description>PlayStation 4 emulator for Windows, Linux and macOS written in C++</description>
-      <guid>https://github.com/shadps4-emu/shadPS4</guid>
+      <title>zeux/meshoptimizer</title>
+      <link>https://github.com/zeux/meshoptimizer</link>
+      <description>Mesh optimization library that makes meshes smaller and faster to render</description>
+      <guid>https://github.com/zeux/meshoptimizer</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>25,961</stars>
-      <forks>1,699</forks>
-      <addStars>490</addStars>
+      <stars>6,658</stars>
+      <forks>565</forks>
+      <addStars>57</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4313123?s=40&amp;v=4</avatar>
-          <name>georgemoralis</name>
-          <url>https://github.com/georgemoralis</url>
+          <avatar>https://avatars.githubusercontent.com/u/1106629?s=40&amp;v=4</avatar>
+          <name>zeux</name>
+          <url>https://github.com/zeux</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/175574877?s=40&amp;v=4</avatar>
-          <name>squidbus</name>
-          <url>https://github.com/squidbus</url>
+          <avatar>https://avatars.githubusercontent.com/u/344828?s=40&amp;v=4</avatar>
+          <name>mosra</name>
+          <url>https://github.com/mosra</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/168137814?s=40&amp;v=4</avatar>
-          <name>psucien</name>
-          <url>https://github.com/psucien</url>
+          <avatar>https://avatars.githubusercontent.com/u/2510143?s=40&amp;v=4</avatar>
+          <name>corporateshark</name>
+          <url>https://github.com/corporateshark</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47210458?s=40&amp;v=4</avatar>
-          <name>raphaelthegreat</name>
-          <url>https://github.com/raphaelthegreat</url>
+          <avatar>https://avatars.githubusercontent.com/u/7506147?s=40&amp;v=4</avatar>
+          <name>dtrebilco</name>
+          <url>https://github.com/dtrebilco</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28203966?s=40&amp;v=4</avatar>
-          <name>DanielSvoboda</name>
-          <url>https://github.com/DanielSvoboda</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>kuzudb/kuzu</title>
-      <link>https://github.com/kuzudb/kuzu</link>
-      <description>Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.</description>
-      <guid>https://github.com/kuzudb/kuzu</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>3,035</stars>
-      <forks>198</forks>
-      <addStars>43</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23330462?s=40&amp;v=4</avatar>
-          <name>andyfengHKU</name>
-          <url>https://github.com/andyfengHKU</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47264495?s=40&amp;v=4</avatar>
-          <name>acquamarin</name>
-          <url>https://github.com/acquamarin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3192330?s=40&amp;v=4</avatar>
-          <name>ray6080</name>
-          <url>https://github.com/ray6080</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14037726?s=40&amp;v=4</avatar>
-          <name>mewim</name>
-          <url>https://github.com/mewim</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8703943?s=40&amp;v=4</avatar>
-          <name>benjaminwinger</name>
-          <url>https://github.com/benjaminwinger</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Maplespe/ExplorerBlurMica</title>
-      <link>https://github.com/Maplespe/ExplorerBlurMica</link>
-      <description>Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11</description>
-      <guid>https://github.com/Maplespe/ExplorerBlurMica</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>3,130</stars>
-      <forks>137</forks>
-      <addStars>194</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43676879?s=40&amp;v=4</avatar>
-          <name>Maplespe</name>
-          <url>https://github.com/Maplespe</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68702247?s=40&amp;v=4</avatar>
-          <name>slideglide</name>
-          <url>https://github.com/slideglide</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/139666607?s=40&amp;v=4</avatar>
-          <name>lengoc-quang</name>
-          <url>https://github.com/lengoc-quang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/75195127?s=40&amp;v=4</avatar>
-          <name>OnCloud125252</name>
-          <url>https://github.com/OnCloud125252</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/105535231?s=40&amp;v=4</avatar>
-          <name>ALTaleX531</name>
-          <url>https://github.com/ALTaleX531</url>
+          <avatar>https://avatars.githubusercontent.com/u/1749069?s=40&amp;v=4</avatar>
+          <name>l0calh05t</name>
+          <url>https://github.com/l0calh05t</url>
         </contributor>
       </contributors>
     </item>
@@ -457,8 +234,8 @@
       <guid>https://github.com/ggml-org/whisper.cpp</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>42,786</stars>
-      <forks>4,620</forks>
+      <stars>42,798</stars>
+      <forks>4,621</forks>
       <addStars>228</addStars>
       <contributors>
         <contributor>
@@ -489,13 +266,203 @@
       </contributors>
     </item>
     <item>
+      <title>ROCm/rocm-systems</title>
+      <link>https://github.com/ROCm/rocm-systems</link>
+      <description>super repo for rocm systems projects</description>
+      <guid>https://github.com/ROCm/rocm-systems</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>62</stars>
+      <forks>25</forks>
+      <addStars>22</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6001865?s=40&amp;v=4</avatar>
+          <name>jrmadsen</name>
+          <url>https://github.com/jrmadsen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/143540922?s=40&amp;v=4</avatar>
+          <name>dgaliffiAMD</name>
+          <url>https://github.com/dgaliffiAMD</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11466906?s=40&amp;v=4</avatar>
+          <name>coleramos425</name>
+          <url>https://github.com/coleramos425</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/889417?s=40&amp;v=4</avatar>
+          <name>koomie</name>
+          <url>https://github.com/koomie</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/66695075?s=40&amp;v=4</avatar>
+          <name>rocm-ci</name>
+          <url>https://github.com/rocm-ci</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>daijro/camoufox</title>
+      <link>https://github.com/daijro/camoufox</link>
+      <description>🦊 Anti-detect browser</description>
+      <guid>https://github.com/daijro/camoufox</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>3,051</stars>
+      <forks>259</forks>
+      <addStars>70</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/72637910?s=40&amp;v=4</avatar>
+          <name>daijro</name>
+          <url>https://github.com/daijro</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4</avatar>
+          <name>D4Vinci</name>
+          <url>https://github.com/D4Vinci</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1004718?s=40&amp;v=4</avatar>
+          <name>alternativshik</name>
+          <url>https://github.com/alternativshik</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43118457?s=40&amp;v=4</avatar>
+          <name>vihanga-w</name>
+          <url>https://github.com/vihanga-w</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/562696?s=40&amp;v=4</avatar>
+          <name>krichprollsch</name>
+          <url>https://github.com/krichprollsch</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Zackriya-Solutions/meeting-minutes</title>
+      <link>https://github.com/Zackriya-Solutions/meeting-minutes</link>
+      <description>A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai</description>
+      <guid>https://github.com/Zackriya-Solutions/meeting-minutes</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>7,257</stars>
+      <forks>550</forks>
+      <addStars>157</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/85450497?s=40&amp;v=4</avatar>
+          <name>sujithatzackriya</name>
+          <url>https://github.com/sujithatzackriya</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/87969134?s=40&amp;v=4</avatar>
+          <name>athulchandroth</name>
+          <url>https://github.com/athulchandroth</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18640268?s=40&amp;v=4</avatar>
+          <name>sujithhubpost</name>
+          <url>https://github.com/sujithhubpost</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/112133301?s=40&amp;v=4</avatar>
+          <name>ebinzack15</name>
+          <url>https://github.com/ebinzack15</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>MariaDB/server</title>
+      <link>https://github.com/MariaDB/server</link>
+      <description>MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.</description>
+      <guid>https://github.com/MariaDB/server</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>6,340</stars>
+      <forks>1,858</forks>
+      <addStars>32</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20552695?s=40&amp;v=4</avatar>
+          <name>dr-m</name>
+          <url>https://github.com/dr-m</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3812234?s=40&amp;v=4</avatar>
+          <name>prohaska</name>
+          <url>https://github.com/prohaska</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2737648?s=40&amp;v=4</avatar>
+          <name>vuvova</name>
+          <url>https://github.com/vuvova</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1708204?s=40&amp;v=4</avatar>
+          <name>vaintroub</name>
+          <url>https://github.com/vaintroub</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2734550?s=40&amp;v=4</avatar>
+          <name>spetrunia</name>
+          <url>https://github.com/spetrunia</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Maplespe/ExplorerBlurMica</title>
+      <link>https://github.com/Maplespe/ExplorerBlurMica</link>
+      <description>Add background Blur effect or Acrylic (Mica for win11) effect to explorer for win10 and win11</description>
+      <guid>https://github.com/Maplespe/ExplorerBlurMica</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>3,134</stars>
+      <forks>138</forks>
+      <addStars>194</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43676879?s=40&amp;v=4</avatar>
+          <name>Maplespe</name>
+          <url>https://github.com/Maplespe</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/68702247?s=40&amp;v=4</avatar>
+          <name>slideglide</name>
+          <url>https://github.com/slideglide</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/139666607?s=40&amp;v=4</avatar>
+          <name>lengoc-quang</name>
+          <url>https://github.com/lengoc-quang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/75195127?s=40&amp;v=4</avatar>
+          <name>OnCloud125252</name>
+          <url>https://github.com/OnCloud125252</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/105535231?s=40&amp;v=4</avatar>
+          <name>ALTaleX531</name>
+          <url>https://github.com/ALTaleX531</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>libcpr/cpr</title>
       <link>https://github.com/libcpr/cpr</link>
       <description>C++ Requests: Curl for People, a spiritual port of Python Requests.</description>
       <guid>https://github.com/libcpr/cpr</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>7,053</stars>
+      <stars>7,055</stars>
       <forks>1,006</forks>
       <addStars>18</addStars>
       <contributors>
@@ -527,40 +494,73 @@
       </contributors>
     </item>
     <item>
-      <title>fxsound2/fxsound-app</title>
-      <link>https://github.com/fxsound2/fxsound-app</link>
-      <description>FxSound application and DSP source code</description>
-      <guid>https://github.com/fxsound2/fxsound-app</guid>
+      <title>kuzudb/kuzu</title>
+      <link>https://github.com/kuzudb/kuzu</link>
+      <description>Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.</description>
+      <guid>https://github.com/kuzudb/kuzu</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>2,953</stars>
-      <forks>241</forks>
-      <addStars>46</addStars>
+      <stars>3,039</stars>
+      <forks>198</forks>
+      <addStars>43</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18183654?s=40&amp;v=4</avatar>
-          <name>bvijay74</name>
-          <url>https://github.com/bvijay74</url>
+          <avatar>https://avatars.githubusercontent.com/u/23330462?s=40&amp;v=4</avatar>
+          <name>andyfengHKU</name>
+          <url>https://github.com/andyfengHKU</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22935000?s=40&amp;v=4</avatar>
-          <name>NullDev</name>
-          <url>https://github.com/NullDev</url>
+          <avatar>https://avatars.githubusercontent.com/u/47264495?s=40&amp;v=4</avatar>
+          <name>acquamarin</name>
+          <url>https://github.com/acquamarin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4124600?s=40&amp;v=4</avatar>
-          <name>budiantoip</name>
-          <url>https://github.com/budiantoip</url>
+          <avatar>https://avatars.githubusercontent.com/u/3192330?s=40&amp;v=4</avatar>
+          <name>ray6080</name>
+          <url>https://github.com/ray6080</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34983075?s=40&amp;v=4</avatar>
-          <name>Downness</name>
-          <url>https://github.com/Downness</url>
+          <avatar>https://avatars.githubusercontent.com/u/14037726?s=40&amp;v=4</avatar>
+          <name>mewim</name>
+          <url>https://github.com/mewim</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/633642?s=40&amp;v=4</avatar>
-          <name>Latz</name>
-          <url>https://github.com/Latz</url>
+          <avatar>https://avatars.githubusercontent.com/u/8703943?s=40&amp;v=4</avatar>
+          <name>benjaminwinger</name>
+          <url>https://github.com/benjaminwinger</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ClassicOldSong/Apollo</title>
+      <link>https://github.com/ClassicOldSong/Apollo</link>
+      <description>Sunshine fork - The easiest way to stream with the native resolution of your client device</description>
+      <guid>https://github.com/ClassicOldSong/Apollo</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>5,280</stars>
+      <forks>118</forks>
+      <addStars>165</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/42013603?s=40&amp;v=4</avatar>
+          <name>ReenigneArcher</name>
+          <url>https://github.com/ReenigneArcher</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2695644?s=40&amp;v=4</avatar>
+          <name>cgutman</name>
+          <url>https://github.com/cgutman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10512422?s=40&amp;v=4</avatar>
+          <name>ClassicOldSong</name>
+          <url>https://github.com/ClassicOldSong</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3084139?s=40&amp;v=4</avatar>
+          <name>loki-47-6F-64</name>
+          <url>https://github.com/loki-47-6F-64</url>
         </contributor>
       </contributors>
     </item>
@@ -571,7 +571,7 @@
       <guid>https://github.com/deskflow/deskflow</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>19,867</stars>
+      <stars>19,877</stars>
       <forks>4,160</forks>
       <addStars>210</addStars>
       <contributors>
@@ -603,111 +603,106 @@
       </contributors>
     </item>
     <item>
-      <title>input-leap/input-leap</title>
-      <link>https://github.com/input-leap/input-leap</link>
-      <description>Open-source KVM software</description>
-      <guid>https://github.com/input-leap/input-leap</guid>
+      <title>zen-browser/desktop</title>
+      <link>https://github.com/zen-browser/desktop</link>
+      <description>Welcome to a calmer internet</description>
+      <guid>https://github.com/zen-browser/desktop</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>6,490</stars>
-      <forks>301</forks>
-      <addStars>79</addStars>
+      <stars>35,769</stars>
+      <forks>1,043</forks>
+      <addStars>421</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1056711?s=40&amp;v=4</avatar>
-          <name>p12tic</name>
-          <url>https://github.com/p12tic</url>
+          <avatar>https://avatars.githubusercontent.com/u/91018726?s=40&amp;v=4</avatar>
+          <name>mr-cheffy</name>
+          <url>https://github.com/mr-cheffy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1334592?s=40&amp;v=4</avatar>
-          <name>shymega</name>
-          <url>https://github.com/shymega</url>
+          <avatar>https://avatars.githubusercontent.com/u/54318514?s=40&amp;v=4</avatar>
+          <name>Slowlife01</name>
+          <url>https://github.com/Slowlife01</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1487352?s=40&amp;v=4</avatar>
-          <name>whot</name>
-          <url>https://github.com/whot</url>
+          <avatar>https://avatars.githubusercontent.com/u/96492763?s=40&amp;v=4</avatar>
+          <name>kristijanribaric</name>
+          <url>https://github.com/kristijanribaric</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7450820?s=40&amp;v=4</avatar>
-          <name>sithlord48</name>
-          <url>https://github.com/sithlord48</url>
+          <avatar>https://avatars.githubusercontent.com/u/92426196?s=40&amp;v=4</avatar>
+          <name>BrhmDev</name>
+          <url>https://github.com/BrhmDev</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37383410?s=40&amp;v=4</avatar>
-          <name>mokibit</name>
-          <url>https://github.com/mokibit</url>
+          <avatar>https://avatars.githubusercontent.com/u/168581144?s=40&amp;v=4</avatar>
+          <name>neurokitti</name>
+          <url>https://github.com/neurokitti</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>abseil/abseil-cpp</title>
-      <link>https://github.com/abseil/abseil-cpp</link>
-      <description>Abseil Common Libraries (C++)</description>
-      <guid>https://github.com/abseil/abseil-cpp</guid>
+      <title>cloudflare/workerd</title>
+      <link>https://github.com/cloudflare/workerd</link>
+      <description>The JavaScript / Wasm runtime that powers Cloudflare Workers</description>
+      <guid>https://github.com/cloudflare/workerd</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>16,269</stars>
-      <forks>2,835</forks>
-      <addStars>39</addStars>
+      <stars>6,991</stars>
+      <forks>428</forks>
+      <addStars>25</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/761129?s=40&amp;v=4</avatar>
-          <name>derekmauro</name>
-          <url>https://github.com/derekmauro</url>
+          <avatar>https://avatars.githubusercontent.com/u/439929?s=40&amp;v=4</avatar>
+          <name>jasnell</name>
+          <url>https://github.com/jasnell</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69321728?s=40&amp;v=4</avatar>
-          <name>ezbr</name>
-          <url>https://github.com/ezbr</url>
+          <avatar>https://avatars.githubusercontent.com/u/4001805?s=40&amp;v=4</avatar>
+          <name>kentonv</name>
+          <url>https://github.com/kentonv</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1177862?s=40&amp;v=4</avatar>
-          <name>goldvitaly</name>
-          <url>https://github.com/goldvitaly</url>
+          <avatar>https://avatars.githubusercontent.com/u/12156995?s=40&amp;v=4</avatar>
+          <name>fhanau</name>
+          <url>https://github.com/fhanau</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7139495?s=40&amp;v=4</avatar>
-          <name>dinord</name>
-          <url>https://github.com/dinord</url>
+          <avatar>https://avatars.githubusercontent.com/u/1935246?s=40&amp;v=4</avatar>
+          <name>anonrig</name>
+          <url>https://github.com/anonrig</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/246651?s=40&amp;v=4</avatar>
+          <name>dom96</name>
+          <url>https://github.com/dom96</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>daijro/camoufox</title>
-      <link>https://github.com/daijro/camoufox</link>
-      <description>🦊 Anti-detect browser</description>
-      <guid>https://github.com/daijro/camoufox</guid>
+      <title>google/highway</title>
+      <link>https://github.com/google/highway</link>
+      <description>Performance-portable, length-agnostic SIMD with runtime dispatch</description>
+      <guid>https://github.com/google/highway</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>3,045</stars>
-      <forks>259</forks>
-      <addStars>70</addStars>
+      <stars>4,983</stars>
+      <forks>378</forks>
+      <addStars>137</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/72637910?s=40&amp;v=4</avatar>
-          <name>daijro</name>
-          <url>https://github.com/daijro</url>
+          <avatar>https://avatars.githubusercontent.com/u/17255429?s=40&amp;v=4</avatar>
+          <name>jan-wassenberg</name>
+          <url>https://github.com/jan-wassenberg</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4</avatar>
-          <name>D4Vinci</name>
-          <url>https://github.com/D4Vinci</url>
+          <avatar>https://avatars.githubusercontent.com/u/32201506?s=40&amp;v=4</avatar>
+          <name>copybara-github</name>
+          <url>https://github.com/copybara-github</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1004718?s=40&amp;v=4</avatar>
-          <name>alternativshik</name>
-          <url>https://github.com/alternativshik</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43118457?s=40&amp;v=4</avatar>
-          <name>vihanga-w</name>
-          <url>https://github.com/vihanga-w</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/562696?s=40&amp;v=4</avatar>
-          <name>krichprollsch</name>
-          <url>https://github.com/krichprollsch</url>
+          <avatar>https://avatars.githubusercontent.com/u/28941113?s=40&amp;v=4</avatar>
+          <name>johnplatts</name>
+          <url>https://github.com/johnplatts</url>
         </contributor>
       </contributors>
     </item>

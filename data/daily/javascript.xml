@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Javascript Languages in GitHub</description>
-    <pubDate>Thu, 28 Aug 2025 19:18:37 GMT</pubDate>
+    <pubDate>Fri, 29 Aug 2025 02:36:41 GMT</pubDate>
     <item>
       <title>asgeirtj/system_prompts_leaks</title>
       <link>https://github.com/asgeirtj/system_prompts_leaks</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>15,521</stars>
-      <forks>2,640</forks>
-      <addStars>2,090</addStars>
+      <stars>16,009</stars>
+      <forks>2,698</forks>
+      <addStars>2,084</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/27446620?s=40&amp;v=4</avatar>
@@ -30,6 +30,16 @@
           <name>gudzenkov</name>
           <url>https://github.com/gudzenkov</url>
         </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/61287015?s=40&amp;v=4</avatar>
+          <name>EricZhou05</name>
+          <url>https://github.com/EricZhou05</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/65506006?s=40&amp;v=4</avatar>
+          <name>hax0r31337</name>
+          <url>https://github.com/hax0r31337</url>
+        </contributor>
       </contributors>
     </item>
     <item>
@@ -39,9 +49,9 @@
       <guid>https://github.com/tw93/Pake</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>41,772</stars>
+      <stars>41,778</stars>
       <forks>7,768</forks>
-      <addStars>79</addStars>
+      <addStars>71</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8736212?s=40&amp;v=4</avatar>
@@ -77,9 +87,9 @@
       <guid>https://github.com/louislam/uptime-kuma</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>74,290</stars>
-      <forks>6,579</forks>
-      <addStars>101</addStars>
+      <stars>74,322</stars>
+      <forks>6,583</forks>
+      <addStars>102</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1336778?s=40&amp;v=4</avatar>
@@ -148,9 +158,9 @@
       <guid>https://github.com/naptha/tesseract.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>37,123</stars>
+      <stars>37,126</stars>
       <forks>2,331</forks>
-      <addStars>25</addStars>
+      <addStars>23</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5723124?s=40&amp;v=4</avatar>
@@ -181,14 +191,19 @@
       <guid>https://github.com/microsoft/Web-Dev-For-Beginners</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>91,632</stars>
-      <forks>13,938</forks>
-      <addStars>23</addStars>
+      <stars>91,637</stars>
+      <forks>13,945</forks>
+      <addStars>25</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4</avatar>
           <name>jlooper</name>
           <url>https://github.com/jlooper</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4</avatar>
+          <name>leestott</name>
+          <url>https://github.com/leestott</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/29026887?s=40&amp;v=4</avatar>
@@ -205,11 +220,6 @@
           <name>saragibby</name>
           <url>https://github.com/saragibby</url>
         </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3609003?s=40&amp;v=4</avatar>
-          <name>silverskyvicto</name>
-          <url>https://github.com/silverskyvicto</url>
-        </contributor>
       </contributors>
     </item>
     <item>
@@ -219,9 +229,9 @@
       <guid>https://github.com/IsmaelMartinez/teams-for-linux</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>3,643</stars>
+      <stars>3,644</stars>
       <forks>278</forks>
-      <addStars>7</addStars>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/430992?s=40&amp;v=4</avatar>
@@ -257,9 +267,9 @@
       <guid>https://github.com/nodejs/undici</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>7,075</stars>
+      <stars>7,080</stars>
       <forks>663</forks>
-      <addStars>23</addStars>
+      <addStars>24</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3065230?s=40&amp;v=4</avatar>
@@ -291,7 +301,7 @@
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
       <stars>11,407</stars>
-      <forks>15,273</forks>
+      <forks>15,272</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -328,7 +338,7 @@
       <guid>https://github.com/hexgrad/kokoro</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,159</stars>
+      <stars>4,162</stars>
       <forks>446</forks>
       <addStars>23</addStars>
       <contributors>
@@ -366,9 +376,9 @@
       <guid>https://github.com/Asabeneh/30-Days-Of-JavaScript</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>45,019</stars>
-      <forks>10,298</forks>
-      <addStars>22</addStars>
+      <stars>45,021</stars>
+      <forks>10,297</forks>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9008063?s=40&amp;v=4</avatar>
@@ -404,9 +414,9 @@
       <guid>https://github.com/TryGhost/Ghost</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>50,450</stars>
+      <stars>50,455</stars>
       <forks>11,014</forks>
-      <addStars>23</addStars>
+      <addStars>21</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/101513?s=40&amp;v=4</avatar>
@@ -437,9 +447,9 @@
       <guid>https://github.com/danielmiessler/Fabric</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>33,224</stars>
+      <stars>33,223</stars>
       <forks>3,406</forks>
-      <addStars>23</addStars>
+      <addStars>16</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/50654?s=40&amp;v=4</avatar>
@@ -472,7 +482,7 @@
       <languageColor>#f1e05a</languageColor>
       <stars>4,051</stars>
       <forks>745</forks>
-      <addStars>17</addStars>
+      <addStars>12</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1027116?s=40&amp;v=4</avatar>

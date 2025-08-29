@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Monthly Trending",
   "description": "Monthly Trending of Verilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 28 Aug 2025 19:18:37 GMT",
+  "pubDate": "Fri, 29 Aug 2025 02:36:41 GMT",
   "items": [
     {
       "title": "The-OpenROAD-Project/OpenROAD",
@@ -12,7 +12,7 @@
       "languageColor": "#b2b7f8",
       "stars": "2,126",
       "forks": "708",
-      "addStars": "58",
+      "addStars": "54",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/761514?s=40&v=4",
@@ -86,7 +86,7 @@
       "languageColor": "#b2b7f8",
       "stars": "1,132",
       "forks": "708",
-      "addStars": "12",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/184117?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "3,644",
+      "stars": "3,645",
       "forks": "851",
-      "addStars": "50",
+      "addStars": "51",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/619764?s=40&v=4",
@@ -158,8 +158,8 @@
       "description": "Verilog PCI express components",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "1,411",
-      "forks": "360",
+      "stars": "1,412",
+      "forks": "361",
       "addStars": "25",
       "contributors": [
         {
@@ -182,7 +182,7 @@
       "languageColor": "#b2b7f8",
       "stars": "1,637",
       "forks": "349",
-      "addStars": "39",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2282163?s=40&v=4",
@@ -217,7 +217,7 @@
       "description": "Verilog Ethernet components for FPGA implementation",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "2,671",
+      "stars": "2,672",
       "forks": "783",
       "addStars": "30",
       "contributors": [

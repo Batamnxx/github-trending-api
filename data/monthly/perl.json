@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 30 Aug 2025 02:22:23 GMT",
+  "pubDate": "Sat, 30 Aug 2025 07:19:09 GMT",
   "items": [
     {
       "title": "znuny/Znuny",
@@ -232,7 +232,7 @@
       "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,039",
+      "stars": "3,040",
       "forks": "363",
       "addStars": "65",
       "contributors": [
@@ -380,7 +380,7 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,174",
+      "stars": "3,175",
       "forks": "136",
       "addStars": "55",
       "contributors": [

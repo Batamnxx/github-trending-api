@@ -2,7 +2,7 @@
   "title": "GitHub Just Languages Weekly Trending",
   "description": "Weekly Trending of Just Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 30 Aug 2025 13:21:49 GMT",
+  "pubDate": "Sat, 30 Aug 2025 19:16:28 GMT",
   "items": [
     {
       "title": "catppuccin/btop",
@@ -79,7 +79,7 @@
       "description": "Treesitter grammar for Justfiles (casey/just)",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "165",
+      "stars": "166",
       "forks": "27",
       "addStars": "0",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Next generation Cosmic desktop environment",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "4,401",
+      "stars": "4,403",
       "forks": "117",
       "addStars": "27",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Liquid Languages Daily Trending",
   "description": "Daily Trending of Liquid Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 30 Aug 2025 13:21:49 GMT",
+  "pubDate": "Sat, 30 Aug 2025 19:16:28 GMT",
   "items": [
     {
       "title": "Shopify/dawn",
@@ -42,8 +42,8 @@
       "description": "A minimal, carefully structured Shopify theme designed to help you quickly get started. Designed with modularity, maintainability, and Shopify's best practices in mind.",
       "language": "Liquid",
       "languageColor": "#67b8de",
-      "stars": "499",
-      "forks": "241",
+      "stars": "500",
+      "forks": "242",
       "addStars": "3",
       "contributors": [
         {

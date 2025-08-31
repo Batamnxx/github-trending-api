@@ -2,7 +2,7 @@
   "title": "GitHub Just Languages Weekly Trending",
   "description": "Weekly Trending of Just Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 31 Aug 2025 02:40:45 GMT",
+  "pubDate": "Sun, 31 Aug 2025 07:20:13 GMT",
   "items": [
     {
       "title": "catppuccin/btop",
@@ -47,7 +47,7 @@
       "description": "⚡ Soothing pastel theme for Warp",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "259",
+      "stars": "260",
       "forks": "14",
       "addStars": "2",
       "contributors": [

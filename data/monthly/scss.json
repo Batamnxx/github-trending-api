@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Monthly Trending",
   "description": "Monthly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 31 Aug 2025 13:22:42 GMT",
+  "pubDate": "Sun, 31 Aug 2025 19:17:13 GMT",
   "items": [
     {
       "title": "rstacruz/cheatsheets",
@@ -10,7 +10,7 @@
       "description": "Cheatsheets for web development - devhints.io",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "14,216",
+      "stars": "14,217",
       "forks": "3,630",
       "addStars": "88",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Badges for your personal developer branding, profile, and projects.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "15,420",
-      "forks": "1,747",
+      "stars": "15,422",
+      "forks": "1,746",
       "addStars": "218",
       "contributors": [
         {
@@ -213,7 +213,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "12,772",
-      "forks": "1,271",
+      "forks": "1,273",
       "addStars": "31",
       "contributors": [
         {
@@ -303,8 +303,8 @@
       "description": "Source code for Hacker101.com - a free online web and mobile security class.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "14,198",
-      "forks": "2,612",
+      "stars": "14,199",
+      "forks": "2,611",
       "addStars": "51",
       "contributors": [
         {

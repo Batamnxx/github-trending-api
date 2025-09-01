@@ -2,7 +2,7 @@
   "title": "GitHub Haxe Languages Daily Trending",
   "description": "Daily Trending of Haxe Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 01 Sep 2025 13:28:10 GMT",
+  "pubDate": "Mon, 01 Sep 2025 19:17:33 GMT",
   "items": [
     {
       "title": "CodenameCrew/CodenameEngine",
@@ -47,7 +47,7 @@
       "description": "A rhythm game made with HaxeFlixel",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": "3,279",
+      "stars": "3,281",
       "forks": "2,366",
       "addStars": "1",
       "contributors": [
@@ -109,9 +109,9 @@
           "url": "https://github.com/sector-a"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/84867412?s=40&v=4",
-          "name": "Cheemsandfriends",
-          "url": "https://github.com/Cheemsandfriends"
+          "avatar": "https://avatars.githubusercontent.com/u/170126004?s=40&v=4",
+          "name": "Hundrec",
+          "url": "https://github.com/Hundrec"
         }
       ]
     }

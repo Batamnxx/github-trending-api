@@ -3,7 +3,7 @@
     <title>GitHub Nim Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nim Languages in GitHub</description>
-    <pubDate>Tue, 02 Sep 2025 13:29:31 GMT</pubDate>
+    <pubDate>Tue, 02 Sep 2025 19:17:28 GMT</pubDate>
     <item>
       <title>zedeus/nitter</title>
       <link>https://github.com/zedeus/nitter</link>
@@ -50,7 +50,7 @@
       <language>Nim</language>
       <languageColor>#ffc200</languageColor>
       <stars>466</stars>
-      <forks>723</forks>
+      <forks>722</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>

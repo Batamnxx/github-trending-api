@@ -2,7 +2,7 @@
   "title": "GitHub Nim Languages Weekly Trending",
   "description": "Weekly Trending of Nim Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 02 Sep 2025 13:29:31 GMT",
+  "pubDate": "Tue, 02 Sep 2025 19:17:28 GMT",
   "items": [
     {
       "title": "zedeus/nitter",
@@ -48,7 +48,7 @@
       "language": "Nim",
       "languageColor": "#ffc200",
       "stars": "466",
-      "forks": "723",
+      "forks": "722",
       "addStars": "1",
       "contributors": [
         {

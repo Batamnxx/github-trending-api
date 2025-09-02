@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Weekly Trending",
   "description": "Weekly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 01 Sep 2025 19:17:33 GMT",
+  "pubDate": "Tue, 02 Sep 2025 02:39:45 GMT",
   "items": [
     {
       "title": "mbrlabs/Lorien",
@@ -12,7 +12,7 @@
       "languageColor": "#355570",
       "stars": "6,148",
       "forks": "277",
-      "addStars": "85",
+      "addStars": "83",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8750135?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "7,379",
-      "forks": "1,892",
-      "addStars": "35",
+      "stars": "7,378",
+      "forks": "1,894",
+      "addStars": "33",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1646875?s=40&v=4",
@@ -86,7 +86,7 @@
       "languageColor": "#355570",
       "stars": "8,477",
       "forks": "450",
-      "addStars": "35",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35376950?s=40&v=4",
@@ -123,7 +123,7 @@
       "languageColor": "#355570",
       "stars": "696",
       "forks": "26",
-      "addStars": "12",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49224759?s=40&v=4",
@@ -197,7 +197,7 @@
       "languageColor": "#355570",
       "stars": "2,969",
       "forks": "221",
-      "addStars": "17",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/78984?s=40&v=4",
@@ -234,7 +234,7 @@
       "languageColor": "#355570",
       "stars": "4,391",
       "forks": "265",
-      "addStars": "22",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6957908?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "4,802",
+      "stars": "4,801",
       "forks": "279",
-      "addStars": "18",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2206700?s=40&v=4",
@@ -306,9 +306,9 @@
       "description": "Godot Unit Test. Unit testing tool for Godot Game Engine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "2,179",
+      "stars": "2,178",
       "forks": "124",
-      "addStars": "10",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1156520?s=40&v=4",
@@ -343,9 +343,9 @@
       "description": "A godot plugin for creating 3D highways and streets.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "725",
+      "stars": "726",
       "forks": "42",
-      "addStars": "12",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2958461?s=40&v=4",
@@ -412,9 +412,9 @@
       "description": "👻🎥 Control the movement and dynamically tween 2D & 3D cameras. Built for Godot 4. Inspired by Cinemachine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "2,826",
+      "stars": "2,825",
       "forks": "108",
-      "addStars": "14",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5159399?s=40&v=4",
@@ -449,7 +449,7 @@
       "description": "GDMaim is a GDScript obfuscation plugin for the Godot Engine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "597",
+      "stars": "598",
       "forks": "41",
       "addStars": "15",
       "contributors": [

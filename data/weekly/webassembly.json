@@ -2,7 +2,7 @@
   "title": "GitHub Webassembly Languages Weekly Trending",
   "description": "Weekly Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 01 Sep 2025 19:17:33 GMT",
+  "pubDate": "Tue, 02 Sep 2025 02:39:45 GMT",
   "items": [
     {
       "title": "AssemblyScript/assemblyscript",
@@ -10,9 +10,9 @@
       "description": "A TypeScript-like language for WebAssembly.",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": "17,537",
+      "stars": "17,538",
       "forks": "675",
-      "addStars": "9",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1136893?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Optimizer and compiler/toolchain library for WebAssembly",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": "8,063",
+      "stars": "8,064",
       "forks": "800",
-      "addStars": "6",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/173661?s=40&v=4",

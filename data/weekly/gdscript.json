@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Weekly Trending",
   "description": "Weekly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 02 Sep 2025 02:39:45 GMT",
+  "pubDate": "Tue, 02 Sep 2025 07:23:00 GMT",
   "items": [
     {
       "title": "mbrlabs/Lorien",
@@ -47,7 +47,7 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "7,378",
+      "stars": "7,379",
       "forks": "1,894",
       "addStars": "33",
       "contributors": [
@@ -412,7 +412,7 @@
       "description": "👻🎥 Control the movement and dynamically tween 2D & 3D cameras. Built for Godot 4. Inspired by Cinemachine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "2,825",
+      "stars": "2,826",
       "forks": "108",
       "addStars": "12",
       "contributors": [

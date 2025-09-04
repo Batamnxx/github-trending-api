@@ -2,7 +2,7 @@
   "title": "GitHub Haxe Languages Weekly Trending",
   "description": "Weekly Trending of Haxe Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 03 Sep 2025 19:18:19 GMT",
+  "pubDate": "Thu, 04 Sep 2025 02:21:38 GMT",
   "items": [
     {
       "title": "FunkinCrew/Funkin",
@@ -48,7 +48,7 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": "91",
-      "forks": "126",
+      "forks": "127",
       "addStars": "2",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": "370",
-      "forks": "268",
+      "forks": "267",
       "addStars": "2",
       "contributors": [
         {

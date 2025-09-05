@@ -2,7 +2,7 @@
   "title": "GitHub Crystal Languages Monthly Trending",
   "description": "Monthly Trending of Crystal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 04 Sep 2025 19:17:45 GMT",
+  "pubDate": "Fri, 05 Sep 2025 02:25:11 GMT",
   "items": [
     {
       "title": "iv-org/invidious",
@@ -10,7 +10,7 @@
       "description": "Invidious is an alternative front-end to YouTube",
       "language": "Crystal",
       "languageColor": "#000100",
-      "stars": "17,826",
+      "stars": "17,825",
       "forks": "2,005",
       "addStars": "197",
       "contributors": [
@@ -47,9 +47,9 @@
       "description": "The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.",
       "language": "Crystal",
       "languageColor": "#000100",
-      "stars": "2,734",
+      "stars": "2,736",
       "forks": "180",
-      "addStars": "136",
+      "addStars": "137",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/283811?s=40&v=4",
@@ -118,7 +118,7 @@
       "languageColor": "#000100",
       "stars": "947",
       "forks": "21",
-      "addStars": "8",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14108705?s=40&v=4",

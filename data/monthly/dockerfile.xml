@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Fri, 05 Sep 2025 02:25:11 GMT</pubDate>
+    <pubDate>Fri, 05 Sep 2025 07:21:41 GMT</pubDate>
     <item>
       <title>hyperliquid-dex/node</title>
       <link>https://github.com/hyperliquid-dex/node</link>
@@ -247,8 +247,8 @@
       <guid>https://github.com/autowarefoundation/autoware</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>10,339</stars>
-      <forks>3,354</forks>
+      <stars>10,340</stars>
+      <forks>3,355</forks>
       <addStars>101</addStars>
       <contributors>
         <contributor>
@@ -271,7 +271,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>777</stars>
-      <forks>1,340</forks>
+      <forks>1,341</forks>
       <addStars>45</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Gleam Languages Weekly Trending",
   "description": "Weekly Trending of Gleam Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 05 Sep 2025 07:21:41 GMT",
+  "pubDate": "Fri, 05 Sep 2025 13:26:21 GMT",
   "items": [
     {
       "title": "lustre-labs/lustre",
@@ -84,7 +84,7 @@
       "description": "💯 A collection of Gleam libraries, projects, and resources",
       "language": "Gleam",
       "languageColor": "#ffaff3",
-      "stars": "1,701",
+      "stars": "1,702",
       "forks": "91",
       "addStars": "14",
       "contributors": [

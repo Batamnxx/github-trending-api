@@ -3,7 +3,7 @@
     <title>GitHub Ocaml Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Ocaml Languages in GitHub</description>
-    <pubDate>Fri, 05 Sep 2025 13:26:21 GMT</pubDate>
+    <pubDate>Fri, 05 Sep 2025 19:18:07 GMT</pubDate>
     <item>
       <title>ocaml/ocaml</title>
       <link>https://github.com/ocaml/ocaml</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/ocaml/ocaml</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>5,928</stars>
+      <stars>5,929</stars>
       <forks>1,166</forks>
       <addStars>57</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/semgrep/semgrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>12,671</stars>
+      <stars>12,672</stars>
       <forks>776</forks>
       <addStars>270</addStars>
       <contributors>

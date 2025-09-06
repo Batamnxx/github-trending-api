@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 06 Sep 2025 13:19:41 GMT",
+  "pubDate": "Sat, 06 Sep 2025 19:15:55 GMT",
   "items": [
     {
       "title": "MCSclimate/MCT",
@@ -417,7 +417,7 @@
       "description": "LAPACK development repository",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "1,710",
+      "stars": "1,709",
       "forks": "477",
       "addStars": "1",
       "contributors": [

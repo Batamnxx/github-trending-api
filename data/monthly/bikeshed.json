@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Monthly Trending",
   "description": "Monthly Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 06 Sep 2025 07:19:05 GMT",
+  "pubDate": "Sat, 06 Sep 2025 13:19:41 GMT",
   "items": [
     {
       "title": "WICG/first-party-sets",
@@ -106,7 +106,7 @@
       "description": "💬 A proposal for a web API for prompting browser-provided language models",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "539",
+      "stars": "541",
       "forks": "68",
       "addStars": "30",
       "contributors": [
@@ -239,6 +239,38 @@
       ]
     },
     {
+      "title": "WICG/trust-token-api",
+      "url": "https://github.com/WICG/trust-token-api",
+      "description": "Trust Token API",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": "442",
+      "forks": "98",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/545707?s=40&v=4",
+          "name": "dvorak42",
+          "url": "https://github.com/dvorak42"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6423426?s=40&v=4",
+          "name": "aykutbulut",
+          "url": "https://github.com/aykutbulut"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2622601?s=40&v=4",
+          "name": "johannhof",
+          "url": "https://github.com/johannhof"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67283?s=40&v=4",
+          "name": "miketaylr",
+          "url": "https://github.com/miketaylr"
+        }
+      ]
+    },
+    {
       "title": "WICG/attribution-reporting-api",
       "url": "https://github.com/WICG/attribution-reporting-api",
       "description": "Attribution Reporting API",
@@ -272,38 +304,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/9762897?s=40&v=4",
           "name": "maudnals",
           "url": "https://github.com/maudnals"
-        }
-      ]
-    },
-    {
-      "title": "WICG/trust-token-api",
-      "url": "https://github.com/WICG/trust-token-api",
-      "description": "Trust Token API",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": "442",
-      "forks": "98",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/545707?s=40&v=4",
-          "name": "dvorak42",
-          "url": "https://github.com/dvorak42"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6423426?s=40&v=4",
-          "name": "aykutbulut",
-          "url": "https://github.com/aykutbulut"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2622601?s=40&v=4",
-          "name": "johannhof",
-          "url": "https://github.com/johannhof"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67283?s=40&v=4",
-          "name": "miketaylr",
-          "url": "https://github.com/miketaylr"
         }
       ]
     },

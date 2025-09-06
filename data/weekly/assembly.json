@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Weekly Trending",
   "description": "Weekly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 05 Sep 2025 19:18:07 GMT",
+  "pubDate": "Sat, 06 Sep 2025 02:21:11 GMT",
   "items": [
     {
       "title": "chrislgarry/Apollo-11",
@@ -10,9 +10,9 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "63,040",
+      "stars": "63,045",
       "forks": "7,296",
-      "addStars": "288",
+      "addStars": "171",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3440094?s=40&v=4",
@@ -49,7 +49,7 @@
       "languageColor": "#6E4C13",
       "stars": "1,301",
       "forks": "253",
-      "addStars": "12",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1761576?s=40&v=4",
@@ -85,8 +85,8 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "11,487",
-      "forks": "2,008",
-      "addStars": "15",
+      "forks": "2,007",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4377?s=40&v=4",
@@ -123,7 +123,7 @@
       "languageColor": "#6E4C13",
       "stars": "599",
       "forks": "139",
-      "addStars": "12",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/109690?s=40&v=4",
@@ -160,7 +160,7 @@
       "languageColor": "#6E4C13",
       "stars": "4,393",
       "forks": "1,106",
-      "addStars": "11",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/101238?s=40&v=4",
@@ -345,7 +345,7 @@
       "languageColor": "#6E4C13",
       "stars": "2,892",
       "forks": "363",
-      "addStars": "17",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/182036?s=40&v=4",
@@ -358,6 +358,11 @@
           "url": "https://github.com/victorvde"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/108786671?s=40&v=4",
+          "name": "maciejwieczorretman",
+          "url": "https://github.com/maciejwieczorretman"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/6180418?s=40&v=4",
           "name": "jtkukunas",
           "url": "https://github.com/jtkukunas"
@@ -366,11 +371,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/181531?s=40&v=4",
           "name": "martinlindhe",
           "url": "https://github.com/martinlindhe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2977334?s=40&v=4",
-          "name": "changsbae",
-          "url": "https://github.com/changsbae"
         }
       ]
     },
@@ -380,7 +380,7 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "17,164",
+      "stars": "17,167",
       "forks": "1,949",
       "addStars": "42",
       "contributors": [
@@ -419,7 +419,7 @@
       "languageColor": "#6E4C13",
       "stars": "243",
       "forks": "60",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/555095?s=40&v=4",
@@ -557,7 +557,7 @@
       "languageColor": "#6E4C13",
       "stars": "2,605",
       "forks": "829",
-      "addStars": "7",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
@@ -594,7 +594,7 @@
       "languageColor": "#6E4C13",
       "stars": "108",
       "forks": "113",
-      "addStars": "11",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33790278?s=40&v=4",
@@ -620,7 +620,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "485",
-      "forks": "1,230",
+      "forks": "1,229",
       "addStars": "4",
       "contributors": [
         {

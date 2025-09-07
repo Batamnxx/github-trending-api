@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 07 Sep 2025 02:36:59 GMT",
+  "pubDate": "Sun, 07 Sep 2025 07:19:21 GMT",
   "items": [
     {
       "title": "arthelokyo/astrowind",
@@ -148,7 +148,7 @@
       "description": "✨A static blog template built with Astro.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "3,090",
+      "stars": "3,091",
       "forks": "798",
       "addStars": "8",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "🦄 A curated list of privacy & security-focused software and services",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "8,234",
+      "stars": "8,236",
       "forks": "375",
       "addStars": "3",
       "contributors": [

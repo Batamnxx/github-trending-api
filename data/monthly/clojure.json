@@ -2,7 +2,7 @@
   "title": "GitHub Clojure Languages Monthly Trending",
   "description": "Monthly Trending of Clojure Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 07 Sep 2025 02:36:59 GMT",
+  "pubDate": "Sun, 07 Sep 2025 07:19:21 GMT",
   "items": [
     {
       "title": "penpot/penpot",
@@ -121,7 +121,7 @@
       "description": "Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "9,208",
+      "stars": "9,209",
       "forks": "291",
       "addStars": "114",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "43,563",
+      "stars": "43,568",
       "forks": "5,845",
       "addStars": "474",
       "contributors": [

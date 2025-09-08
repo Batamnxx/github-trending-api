@@ -3,7 +3,7 @@
     <title>GitHub Verilog Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Verilog Languages in GitHub</description>
-    <pubDate>Mon, 08 Sep 2025 13:29:16 GMT</pubDate>
+    <pubDate>Mon, 08 Sep 2025 19:18:33 GMT</pubDate>
     <item>
       <title>YosysHQ/picorv32</title>
       <link>https://github.com/YosysHQ/picorv32</link>
@@ -12,7 +12,7 @@
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
       <stars>3,661</stars>
-      <forks>853</forks>
+      <forks>854</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>
@@ -164,7 +164,7 @@
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
       <stars>1,652</stars>
-      <forks>354</forks>
+      <forks>355</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>

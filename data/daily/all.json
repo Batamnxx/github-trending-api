@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 08 Sep 2025 19:18:33 GMT",
+  "pubDate": "Tue, 09 Sep 2025 02:26:53 GMT",
   "items": [
     {
       "title": "emcie-co/parlant",
@@ -10,9 +10,9 @@
       "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,670",
-      "forks": "860",
-      "addStars": "1,190",
+      "stars": "10,802",
+      "forks": "865",
+      "addStars": "1,178",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/160253835?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "36,795",
-      "forks": "11,912",
-      "addStars": "139",
+      "stars": "36,937",
+      "forks": "11,941",
+      "addStars": "183",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,772",
-      "forks": "748",
-      "addStars": "273",
+      "stars": "17,813",
+      "forks": "750",
+      "addStars": "301",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/153528475?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,393",
+      "stars": "18,449",
       "forks": "1,755",
-      "addStars": "26",
+      "addStars": "39",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&v=4",
@@ -158,7 +158,7 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "23,736",
+      "stars": "23,766",
       "forks": "11,524",
       "addStars": "135",
       "contributors": [
@@ -195,9 +195,9 @@
       "description": "Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,174",
-      "forks": "880",
-      "addStars": "561",
+      "stars": "9,279",
+      "forks": "887",
+      "addStars": "558",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2600?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,831",
-      "forks": "269",
-      "addStars": "67",
+      "stars": "3,019",
+      "forks": "277",
+      "addStars": "103",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18367033?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
       "language": "",
       "languageColor": "",
-      "stars": "81,854",
-      "forks": "22,813",
-      "addStars": "294",
+      "stars": "81,987",
+      "forks": "22,831",
+      "addStars": "459",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/185671340?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "97,188",
-      "forks": "50,879",
-      "addStars": "115",
+      "stars": "97,301",
+      "forks": "50,899",
+      "addStars": "130",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "65,919",
-      "forks": "5,601",
-      "addStars": "367",
+      "stars": "66,002",
+      "forks": "5,606",
+      "addStars": "382",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/77850077?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "An open-source RAG-based tool for chatting with your documents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,336",
-      "forks": "1,907",
-      "addStars": "128",
+      "stars": "23,427",
+      "forks": "1,916",
+      "addStars": "116",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15842122?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "all of the workflows of n8n i could find (also from the site itself)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "26,915",
-      "forks": "768",
-      "addStars": "296",
+      "stars": "27,077",
+      "forks": "783",
+      "addStars": "204",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54673680?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,394",
-      "forks": "227",
-      "addStars": "514",
+      "stars": "2,466",
+      "forks": "234",
+      "addStars": "522",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71222522?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "Cross-platform Rust rewrite of the GNU coreutils",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,269",
+      "stars": "21,304",
       "forks": "1,538",
-      "addStars": "110",
+      "addStars": "115",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/733326?s=40&v=4",

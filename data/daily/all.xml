@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 10 Sep 2025 02:21:50 GMT</pubDate>
+    <pubDate>Wed, 10 Sep 2025 07:22:40 GMT</pubDate>
     <item>
       <title>emcie-co/parlant</title>
       <link>https://github.com/emcie-co/parlant</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/emcie-co/parlant</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,252</stars>
-      <forks>892</forks>
+      <stars>11,358</stars>
+      <forks>899</forks>
       <addStars>507</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/Vector-Wangel/XLeRobot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,808</stars>
-      <forks>264</forks>
+      <stars>2,919</stars>
+      <forks>274</forks>
       <addStars>340</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
       <language/>
       <languageColor/>
-      <stars>82,679</stars>
-      <forks>22,985</forks>
+      <stars>82,826</stars>
+      <forks>23,017</forks>
       <addStars>620</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/Stirling-Tools/Stirling-PDF</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>66,371</stars>
-      <forks>5,634</forks>
+      <stars>66,466</stars>
+      <forks>5,638</forks>
       <addStars>441</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/vercel/examples</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,245</stars>
-      <forks>1,412</forks>
+      <stars>4,294</stars>
+      <forks>1,415</forks>
       <addStars>73</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/Cinnamon/kotaemon</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,691</stars>
-      <forks>1,932</forks>
+      <stars>23,751</stars>
+      <forks>1,934</forks>
       <addStars>332</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/pathwaycom/llm-app</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>38,303</stars>
-      <forks>1,046</forks>
+      <stars>38,460</stars>
+      <forks>1,048</forks>
       <addStars>1,854</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/hiroi-sora/Umi-OCR</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,876</stars>
-      <forks>3,646</forks>
+      <stars>36,994</stars>
+      <forks>3,651</forks>
       <addStars>113</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/11cafe/jaaz</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,561</stars>
-      <forks>314</forks>
+      <stars>3,650</stars>
+      <forks>316</forks>
       <addStars>675</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/pathwaycom/pathway</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>40,810</stars>
-      <forks>1,244</forks>
+      <stars>40,987</stars>
+      <forks>1,250</forks>
       <addStars>2,045</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/ClemensElflein/OpenMower</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>6,026</stars>
-      <forks>347</forks>
+      <stars>6,055</stars>
+      <forks>348</forks>
       <addStars>34</addStars>
       <contributors>
         <contributor>
@@ -414,8 +414,8 @@
       <guid>https://github.com/juspay/hyperswitch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>32,378</stars>
-      <forks>4,158</forks>
+      <stars>32,514</stars>
+      <forks>4,161</forks>
       <addStars>1,862</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/Eventual-Inc/Daft</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>4,189</stars>
-      <forks>290</forks>
+      <stars>4,253</stars>
+      <forks>291</forks>
       <addStars>59</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/immich-app/immich</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>76,184</stars>
-      <forks>4,031</forks>
+      <stars>76,266</stars>
+      <forks>4,034</forks>
       <addStars>510</addStars>
       <contributors>
         <contributor>
@@ -513,8 +513,8 @@
       <guid>https://github.com/HKUDS/AutoAgent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,277</stars>
-      <forks>855</forks>
+      <stars>6,351</stars>
+      <forks>860</forks>
       <addStars>73</addStars>
       <contributors>
         <contributor>

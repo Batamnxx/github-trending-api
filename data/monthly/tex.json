@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Monthly Trending",
   "description": "Monthly Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Sep 2025 02:25:36 GMT",
+  "pubDate": "Thu, 11 Sep 2025 07:22:09 GMT",
   "items": [
     {
       "title": "riscv/riscv-isa-manual",
@@ -47,7 +47,7 @@
       "description": "VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "5,983",
+      "stars": "5,984",
       "forks": "404",
       "addStars": "63",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Release repo for our SLAM Handbook",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "3,677",
+      "stars": "3,678",
       "forks": "214",
       "addStars": "295",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "10,351",
+      "stars": "10,352",
       "forks": "2,753",
       "addStars": "102",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "9,373",
+      "stars": "9,375",
       "forks": "2,209",
       "addStars": "248",
       "contributors": [
@@ -271,7 +271,7 @@
       "description": "OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project)",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "887",
+      "stars": "888",
       "forks": "236",
       "addStars": "39",
       "contributors": [
@@ -345,7 +345,7 @@
       "description": "Software developer resume in Latex",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,109",
+      "stars": "6,110",
       "forks": "1,707",
       "addStars": "92",
       "contributors": [
@@ -457,7 +457,7 @@
       "language": "TeX",
       "languageColor": "#3D6117",
       "stars": "302",
-      "forks": "601",
+      "forks": "602",
       "addStars": "5",
       "contributors": [
         {
@@ -493,7 +493,7 @@
       "description": "Latex code for making neural networks diagrams",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "23,885",
+      "stars": "23,886",
       "forks": "3,004",
       "addStars": "139",
       "contributors": [
@@ -530,7 +530,7 @@
       "description": "贵校课程资料民间整理",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "32,794",
+      "stars": "32,797",
       "forks": "8,301",
       "addStars": "194",
       "contributors": [
@@ -604,8 +604,8 @@
       "description": "The most cited deep learning papers",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "25,968",
-      "forks": "4,468",
+      "stars": "25,967",
+      "forks": "4,467",
       "addStars": "57",
       "contributors": [
         {

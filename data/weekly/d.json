@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Weekly Trending",
   "description": "Weekly Trending of D Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Sep 2025 02:25:36 GMT",
+  "pubDate": "Thu, 11 Sep 2025 07:22:09 GMT",
   "items": [
     {
       "title": "abraunegg/onedrive",
@@ -47,7 +47,7 @@
       "description": "sidestore's anisette-v3 compatible server",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "330",
+      "stars": "331",
       "forks": "1,709",
       "addStars": "2",
       "contributors": [

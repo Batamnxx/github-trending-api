@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Sep 2025 02:25:36 GMT",
+  "pubDate": "Thu, 11 Sep 2025 07:22:09 GMT",
   "items": [
     {
       "title": "usnistgov/macos_security",
@@ -180,8 +180,8 @@
       "description": "Exploring how to present Web platform features adoptability",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "631",
-      "forks": "175",
+      "stars": "632",
+      "forks": "176",
       "addStars": "1",
       "contributors": [
         {

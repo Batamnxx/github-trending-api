@@ -2,7 +2,7 @@
   "title": "GitHub Thrift Languages Monthly Trending",
   "description": "Monthly Trending of Thrift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 12 Sep 2025 02:21:21 GMT",
+  "pubDate": "Fri, 12 Sep 2025 07:20:59 GMT",
   "items": [
     {
       "title": "apache/parquet-format",
@@ -11,7 +11,7 @@
       "language": "Thrift",
       "languageColor": "#D12127",
       "stars": "2,034",
-      "forks": "450",
+      "forks": "451",
       "addStars": "31",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Holyc Languages Weekly Trending",
   "description": "Weekly Trending of Holyc Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 12 Sep 2025 13:25:27 GMT",
+  "pubDate": "Fri, 12 Sep 2025 19:17:20 GMT",
   "items": [
     {
       "title": "SylvanFranklin/.config",
@@ -10,7 +10,7 @@
       "description": "Secret Forum",
       "language": "HolyC",
       "languageColor": "#ffefaf",
-      "stars": "168",
+      "stars": "170",
       "forks": "9",
       "addStars": "29",
       "contributors": [
@@ -30,14 +30,14 @@
           "url": "https://github.com/vvilhelmsen"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/76689341?s=40&v=4",
+          "name": "HouseinIsProgramming",
+          "url": "https://github.com/HouseinIsProgramming"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/89352634?s=40&v=4",
           "name": "pau-lda",
           "url": "https://github.com/pau-lda"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/110969113?s=40&v=4",
-          "name": "Adnan-Malik-26",
-          "url": "https://github.com/Adnan-Malik-26"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Monthly Trending",
   "description": "Monthly Trending of Bicep Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 12 Sep 2025 13:25:27 GMT",
+  "pubDate": "Fri, 12 Sep 2025 19:17:20 GMT",
   "items": [
     {
       "title": "jasontaylordev/CleanArchitecture",
@@ -42,7 +42,7 @@
       "description": "Bicep registry modules",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": "642",
+      "stars": "643",
       "forks": "486",
       "addStars": "8",
       "contributors": [
@@ -265,7 +265,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": "1,081",
-      "forks": "265",
+      "forks": "266",
       "addStars": "18",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Monthly Trending",
   "description": "Monthly Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 13 Sep 2025 13:19:59 GMT",
+  "pubDate": "Sat, 13 Sep 2025 19:15:09 GMT",
   "items": [
     {
       "title": "blockscout/blockscout",
@@ -42,7 +42,7 @@
       "description": "Real-time sync for Postgres.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "9,174",
+      "stars": "9,176",
       "forks": "263",
       "addStars": "257",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "25,756",
+      "stars": "25,757",
       "forks": "3,463",
       "addStars": "188",
       "contributors": [
@@ -143,7 +143,7 @@
       "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "324",
+      "stars": "325",
       "forks": "41",
       "addStars": "1",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "1,689",
+      "stars": "1,690",
       "forks": "220",
       "addStars": "26",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "3,708",
+      "stars": "3,710",
       "forks": "82",
       "addStars": "224",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "23,325",
+      "stars": "23,328",
       "forks": "1,274",
       "addStars": "263",
       "contributors": [
@@ -360,7 +360,7 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "22,441",
+      "stars": "22,442",
       "forks": "3,001",
       "addStars": "95",
       "contributors": [
@@ -498,7 +498,7 @@
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "7,275",
+      "stars": "7,277",
       "forks": "393",
       "addStars": "52",
       "contributors": [
@@ -568,7 +568,7 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": "2,102",
-      "forks": "314",
+      "forks": "315",
       "addStars": "47",
       "contributors": [
         {
@@ -599,7 +599,7 @@
       "description": "Rich, real-time user experiences with server-rendered HTML",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "6,594",
+      "stars": "6,595",
       "forks": "1,004",
       "addStars": "31",
       "contributors": [

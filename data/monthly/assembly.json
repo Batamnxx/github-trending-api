@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Monthly Trending",
   "description": "Monthly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 14 Sep 2025 02:37:08 GMT",
+  "pubDate": "Sun, 14 Sep 2025 07:19:07 GMT",
   "items": [
     {
       "title": "chrislgarry/Apollo-11",
@@ -10,7 +10,7 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "63,155",
+      "stars": "63,157",
       "forks": "7,300",
       "addStars": "763",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "5,789",
+      "stars": "5,790",
       "forks": "401",
       "addStars": "74",
       "contributors": [
@@ -392,7 +392,7 @@
       "description": "mal - Make a Lisp",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "10,465",
+      "stars": "10,466",
       "forks": "2,644",
       "addStars": "27",
       "contributors": [
@@ -503,7 +503,7 @@
       "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "487",
+      "stars": "488",
       "forks": "1,237",
       "addStars": "11",
       "contributors": [

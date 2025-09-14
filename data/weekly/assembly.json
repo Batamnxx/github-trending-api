@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Weekly Trending",
   "description": "Weekly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 14 Sep 2025 02:37:08 GMT",
+  "pubDate": "Sun, 14 Sep 2025 07:19:07 GMT",
   "items": [
     {
       "title": "ROCm/rocm-libraries",
@@ -37,7 +37,7 @@
       "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "5,789",
+      "stars": "5,790",
       "forks": "401",
       "addStars": "18",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "604",
+      "stars": "603",
       "forks": "139",
       "addStars": "5",
       "contributors": [
@@ -402,7 +402,7 @@
       "description": "mal - Make a Lisp",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "10,465",
+      "stars": "10,466",
       "forks": "2,644",
       "addStars": "6",
       "contributors": [

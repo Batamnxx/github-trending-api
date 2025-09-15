@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Monthly Trending",
   "description": "Monthly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 15 Sep 2025 02:41:16 GMT",
+  "pubDate": "Mon, 15 Sep 2025 07:23:50 GMT",
   "items": [
     {
       "title": "swirldev/swirl_courses",
@@ -185,7 +185,7 @@
       "description": "An implementation of the Grammar of Graphics in R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "6,776",
+      "stars": "6,777",
       "forks": "2,096",
       "addStars": "28",
       "contributors": [
@@ -223,7 +223,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": "869",
-      "forks": "144,020",
+      "forks": "144,021",
       "addStars": "6",
       "contributors": [
         {

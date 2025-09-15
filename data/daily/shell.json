@@ -2,15 +2,42 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 15 Sep 2025 02:41:16 GMT",
+  "pubDate": "Mon, 15 Sep 2025 07:23:50 GMT",
   "items": [
+    {
+      "title": "community-scripts/ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "20,638",
+      "forks": "1,814",
+      "addStars": "41",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21342670?s=40&v=4",
+          "name": "tteck",
+          "url": "https://github.com/tteck"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47820557?s=40&v=4",
+          "name": "MickLesk",
+          "url": "https://github.com/MickLesk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58952836?s=40&v=4",
+          "name": "tremor021",
+          "url": "https://github.com/tremor021"
+        }
+      ]
+    },
     {
       "title": "nvm-sh/nvm",
       "url": "https://github.com/nvm-sh/nvm",
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "86,905",
+      "stars": "86,907",
       "forks": "9,295",
       "addStars": "13",
       "contributors": [
@@ -47,7 +74,7 @@
       "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "4,396",
+      "stars": "4,398",
       "forks": "123",
       "addStars": "13",
       "contributors": [
@@ -79,7 +106,7 @@
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "53,319",
+      "stars": "53,320",
       "forks": "2,875",
       "addStars": "15",
       "contributors": [
@@ -186,7 +213,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "3,962",
-      "forks": "781",
+      "forks": "782",
       "addStars": "10",
       "contributors": [
         {
@@ -222,7 +249,7 @@
       "description": "This is a Repository to get you started with Kubernetes.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "569",
+      "stars": "570",
       "forks": "2,975",
       "addStars": "1",
       "contributors": [
@@ -333,7 +360,7 @@
       "description": "Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "11,985",
+      "stars": "11,987",
       "forks": "1,746",
       "addStars": "7",
       "contributors": [
@@ -365,7 +392,7 @@
       "description": "Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "4,662",
+      "stars": "4,663",
       "forks": "303",
       "addStars": "5",
       "contributors": [
@@ -402,7 +429,7 @@
       "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "9,359",
+      "stars": "9,374",
       "forks": "285",
       "addStars": "71",
       "contributors": [

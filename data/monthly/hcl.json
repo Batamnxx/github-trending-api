@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 15 Sep 2025 02:41:16 GMT",
+  "pubDate": "Mon, 15 Sep 2025 07:23:50 GMT",
   "items": [
     {
       "title": "terraform-google-modules/terraform-google-kubernetes-engine",
@@ -42,7 +42,7 @@
       "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "3,253",
+      "stars": "3,254",
       "forks": "477",
       "addStars": "115",
       "contributors": [
@@ -74,8 +74,8 @@
       "description": "HashiCorp Certified Terraform Associate 2025",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "2,228",
-      "forks": "5,944",
+      "stars": "2,229",
+      "forks": "5,945",
       "addStars": "24",
       "contributors": [
         {

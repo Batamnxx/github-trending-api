@@ -3,7 +3,7 @@
     <title>GitHub Handlebars Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Handlebars Languages in GitHub</description>
-    <pubDate>Mon, 15 Sep 2025 13:27:16 GMT</pubDate>
+    <pubDate>Mon, 15 Sep 2025 19:17:45 GMT</pubDate>
     <item>
       <title>huggingface/hub-docs</title>
       <link>https://github.com/huggingface/hub-docs</link>
@@ -12,7 +12,7 @@
       <language>Handlebars</language>
       <languageColor>#f7931e</languageColor>
       <stars>444</stars>
-      <forks>357</forks>
+      <forks>359</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -50,7 +50,7 @@
       <language>Handlebars</language>
       <languageColor>#f7931e</languageColor>
       <stars>304</stars>
-      <forks>484</forks>
+      <forks>486</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>

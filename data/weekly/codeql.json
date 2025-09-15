@@ -2,7 +2,7 @@
   "title": "GitHub Codeql Languages Weekly Trending",
   "description": "Weekly Trending of Codeql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 15 Sep 2025 13:27:16 GMT",
+  "pubDate": "Mon, 15 Sep 2025 19:17:45 GMT",
   "items": [
     {
       "title": "github/codeql",
@@ -47,7 +47,7 @@
       "description": "Starter workspace to use with the CodeQL extension for Visual Studio Code.",
       "language": "CodeQL",
       "languageColor": "#140f46",
-      "stars": "546",
+      "stars": "547",
       "forks": "268",
       "addStars": "2",
       "contributors": [

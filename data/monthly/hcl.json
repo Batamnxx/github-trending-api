@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 16 Sep 2025 13:28:18 GMT",
+  "pubDate": "Tue, 16 Sep 2025 19:17:55 GMT",
   "items": [
     {
       "title": "antonputra/tutorials",
@@ -10,8 +10,8 @@
       "description": "DevOps Tutorials",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "4,165",
-      "forks": "2,897",
+      "stars": "4,166",
+      "forks": "2,898",
       "addStars": "58",
       "contributors": [
         {
@@ -74,43 +74,6 @@
       ]
     },
     {
-      "title": "terraform-aws-modules/terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "4,777",
-      "forks": "4,273",
-      "addStars": "28",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10913471?s=40&v=4",
-          "name": "bryantbiggs",
-          "url": "https://github.com/bryantbiggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/550783?s=40&v=4",
-          "name": "barryib",
-          "url": "https://github.com/barryib"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2502520?s=40&v=4",
-          "name": "brandonjbjelland",
-          "url": "https://github.com/brandonjbjelland"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8859277?s=40&v=4",
-          "name": "max-rocket-internet",
-          "url": "https://github.com/max-rocket-internet"
-        }
-      ]
-    },
-    {
       "title": "kube-hetzner/terraform-hcloud-kube-hetzner",
       "url": "https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner",
       "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
@@ -149,7 +112,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "2,231",
-      "forks": "5,950",
+      "forks": "5,951",
       "addStars": "25",
       "contributors": [
         {

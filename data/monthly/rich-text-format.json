@@ -2,8 +2,40 @@
   "title": "GitHub Rich-text-format Languages Monthly Trending",
   "description": "Monthly Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 16 Sep 2025 07:22:56 GMT",
+  "pubDate": "Tue, 16 Sep 2025 13:28:18 GMT",
   "items": [
+    {
+      "title": "mathoudebine/turing-smart-screen-python",
+      "url": "https://github.com/mathoudebine/turing-smart-screen-python",
+      "description": "Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen or XuanFang",
+      "language": "Rich Text Format",
+      "languageColor": "#ccc",
+      "stars": "1,606",
+      "forks": "259",
+      "addStars": "35",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38615348?s=40&v=4",
+          "name": "mathoudebine",
+          "url": "https://github.com/mathoudebine"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/535234?s=40&v=4",
+          "name": "hchargois",
+          "url": "https://github.com/hchargois"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86650802?s=40&v=4",
+          "name": "Rollbacke",
+          "url": "https://github.com/Rollbacke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7596915?s=40&v=4",
+          "name": "amiltonjr",
+          "url": "https://github.com/amiltonjr"
+        }
+      ]
+    },
     {
       "title": "cncf/foundation",
       "url": "https://github.com/cncf/foundation",
@@ -70,7 +102,7 @@
       "language": "Rich Text Format",
       "languageColor": "#ccc",
       "stars": "1,142",
-      "forks": "42,156",
+      "forks": "42,160",
       "addStars": "6",
       "contributors": [
         {
@@ -101,44 +133,12 @@
       ]
     },
     {
-      "title": "mathoudebine/turing-smart-screen-python",
-      "url": "https://github.com/mathoudebine/turing-smart-screen-python",
-      "description": "Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen or XuanFang",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": "1,605",
-      "forks": "259",
-      "addStars": "35",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38615348?s=40&v=4",
-          "name": "mathoudebine",
-          "url": "https://github.com/mathoudebine"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/535234?s=40&v=4",
-          "name": "hchargois",
-          "url": "https://github.com/hchargois"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86650802?s=40&v=4",
-          "name": "Rollbacke",
-          "url": "https://github.com/Rollbacke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7596915?s=40&v=4",
-          "name": "amiltonjr",
-          "url": "https://github.com/amiltonjr"
-        }
-      ]
-    },
-    {
       "title": "ckeditor/ckeditor5",
       "url": "https://github.com/ckeditor/ckeditor5",
       "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": "10,238",
+      "stars": "10,240",
       "forks": "3,745",
       "addStars": "45",
       "contributors": [
@@ -158,14 +158,14 @@
           "url": "https://github.com/godai78"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1232187?s=40&v=4",
-          "name": "niegowski",
-          "url": "https://github.com/niegowski"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/2270764?s=40&v=4",
           "name": "pomek",
           "url": "https://github.com/pomek"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1232187?s=40&v=4",
+          "name": "niegowski",
+          "url": "https://github.com/niegowski"
         }
       ]
     }

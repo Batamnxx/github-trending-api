@@ -2,7 +2,7 @@
   "title": "GitHub Groovy Languages Weekly Trending",
   "description": "Weekly Trending of Groovy Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 18 Sep 2025 13:27:07 GMT",
+  "pubDate": "Thu, 18 Sep 2025 19:18:36 GMT",
   "items": [
     {
       "title": "gradle/gradle",
@@ -10,7 +10,7 @@
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": "18,016",
+      "stars": "18,015",
       "forks": "5,010",
       "addStars": "42",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": "9,198",
-      "forks": "2,297",
+      "stars": "9,200",
+      "forks": "2,296",
       "addStars": "16",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Rich-text-format Languages Monthly Trending",
   "description": "Monthly Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 20 Sep 2025 07:19:45 GMT",
+  "pubDate": "Sat, 20 Sep 2025 13:21:35 GMT",
   "items": [
     {
       "title": "mathoudebine/turing-smart-screen-python",
@@ -10,7 +10,7 @@
       "description": "Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen or XuanFang",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": "1,624",
+      "stars": "1,627",
       "forks": "261",
       "addStars": "51",
       "contributors": [
@@ -43,7 +43,7 @@
       "language": "Rich Text Format",
       "languageColor": "#ccc",
       "stars": "621",
-      "forks": "686",
+      "forks": "687",
       "addStars": "9",
       "contributors": [
         {
@@ -74,12 +74,49 @@
       ]
     },
     {
+      "title": "ckeditor/ckeditor5",
+      "url": "https://github.com/ckeditor/ckeditor5",
+      "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+      "language": "Rich Text Format",
+      "languageColor": "#ccc",
+      "stars": "10,240",
+      "forks": "3,746",
+      "addStars": "49",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/156149?s=40&v=4",
+          "name": "Reinmar",
+          "url": "https://github.com/Reinmar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/247363?s=40&v=4",
+          "name": "jodator",
+          "url": "https://github.com/jodator"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68123541?s=40&v=4",
+          "name": "godai78",
+          "url": "https://github.com/godai78"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2270764?s=40&v=4",
+          "name": "pomek",
+          "url": "https://github.com/pomek"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1232187?s=40&v=4",
+          "name": "niegowski",
+          "url": "https://github.com/niegowski"
+        }
+      ]
+    },
+    {
       "title": "artur-graniszewski/DLSS-Enabler",
       "url": "https://github.com/artur-graniszewski/DLSS-Enabler",
       "description": "Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": "719",
+      "stars": "720",
       "forks": "15",
       "addStars": "31",
       "contributors": [
@@ -129,43 +166,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/18203542?s=40&v=4",
           "name": "hi-light",
           "url": "https://github.com/hi-light"
-        }
-      ]
-    },
-    {
-      "title": "ckeditor/ckeditor5",
-      "url": "https://github.com/ckeditor/ckeditor5",
-      "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": "10,240",
-      "forks": "3,746",
-      "addStars": "49",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/156149?s=40&v=4",
-          "name": "Reinmar",
-          "url": "https://github.com/Reinmar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/247363?s=40&v=4",
-          "name": "jodator",
-          "url": "https://github.com/jodator"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68123541?s=40&v=4",
-          "name": "godai78",
-          "url": "https://github.com/godai78"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2270764?s=40&v=4",
-          "name": "pomek",
-          "url": "https://github.com/pomek"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1232187?s=40&v=4",
-          "name": "niegowski",
-          "url": "https://github.com/niegowski"
         }
       ]
     }

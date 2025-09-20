@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Weekly Trending",
   "description": "Weekly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 20 Sep 2025 13:21:35 GMT",
+  "pubDate": "Sat, 20 Sep 2025 19:14:57 GMT",
   "items": [
     {
       "title": "Vectorized/solady",
@@ -343,8 +343,8 @@
       "description": "BNB Evolution Proposals",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "903",
-      "forks": "627",
+      "stars": "905",
+      "forks": "628",
       "addStars": "2",
       "contributors": [
         {

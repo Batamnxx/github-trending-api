@@ -2,7 +2,7 @@
   "title": "GitHub Ejs Languages Daily Trending",
   "description": "Daily Trending of Ejs Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 21 Sep 2025 13:21:39 GMT",
+  "pubDate": "Sun, 21 Sep 2025 19:16:42 GMT",
   "items": [
     {
       "title": "github/haikus-for-codespaces",
@@ -12,7 +12,7 @@
       "languageColor": "#a91e50",
       "stars": "2,346",
       "forks": "4,171",
-      "addStars": "1",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19893438?s=40&v=4",
@@ -44,7 +44,7 @@
       "languageColor": "#a91e50",
       "stars": "2,476",
       "forks": "260",
-      "addStars": "4",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23533420?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "⭕ Share quick reference cheat sheet for developers.",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": "9,051",
-      "forks": "1,134",
-      "addStars": "1",
+      "stars": "9,055",
+      "forks": "1,135",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2541482?s=40&v=4",

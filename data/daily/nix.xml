@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Nix Languages in GitHub</description>
-    <pubDate>Mon, 22 Sep 2025 02:41:49 GMT</pubDate>
+    <pubDate>Mon, 22 Sep 2025 07:24:01 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>21,855</stars>
+      <stars>21,854</stars>
       <forks>16,775</forks>
       <addStars>12</addStars>
       <contributors>
@@ -26,14 +26,14 @@
           <url>https://github.com/fabaff</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7258858?s=40&amp;v=4</avatar>
-          <name>SuperSandro2000</name>
-          <url>https://github.com/SuperSandro2000</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15247171?s=40&amp;v=4</avatar>
           <name>NickCao</name>
           <url>https://github.com/NickCao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7258858?s=40&amp;v=4</avatar>
+          <name>SuperSandro2000</name>
+          <url>https://github.com/SuperSandro2000</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/131599?s=40&amp;v=4</avatar>
@@ -295,7 +295,7 @@
       <guid>https://github.com/nix-community/impermanence</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,531</stars>
+      <stars>1,532</stars>
       <forks>106</forks>
       <addStars>0</addStars>
       <contributors>
@@ -409,7 +409,7 @@
       <guid>https://github.com/NixOS/nixos-hardware</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,677</stars>
+      <stars>2,679</stars>
       <forks>800</forks>
       <addStars>2</addStars>
       <contributors>
@@ -442,7 +442,7 @@
       <guid>https://github.com/kamadorueda/alejandra</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,205</stars>
+      <stars>1,206</stars>
       <forks>48</forks>
       <addStars>0</addStars>
       <contributors>
@@ -475,7 +475,7 @@
       <guid>https://github.com/hercules-ci/flake-parts</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>994</stars>
+      <stars>995</stars>
       <forks>54</forks>
       <addStars>1</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Monthly Trending",
   "description": "Monthly Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 22 Sep 2025 13:28:39 GMT",
+  "pubDate": "Mon, 22 Sep 2025 19:18:10 GMT",
   "items": [
     {
       "title": "microsoft/vcpkg",
@@ -10,7 +10,7 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "25,650",
+      "stars": "25,648",
       "forks": "7,067",
       "addStars": "228",
       "contributors": [
@@ -25,14 +25,14 @@
           "url": "https://github.com/ras0219-msft"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1544943?s=40&v=4",
-          "name": "BillyONeal",
-          "url": "https://github.com/BillyONeal"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/13567791?s=40&v=4",
           "name": "dg0yt",
           "url": "https://github.com/dg0yt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1544943?s=40&v=4",
+          "name": "BillyONeal",
+          "url": "https://github.com/BillyONeal"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/47264268?s=40&v=4",
@@ -148,7 +148,7 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,084",
+      "stars": "1,085",
       "forks": "158",
       "addStars": "57",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "5,073",
+      "stars": "5,072",
       "forks": "455",
       "addStars": "82",
       "contributors": [

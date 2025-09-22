@@ -2,7 +2,7 @@
   "title": "GitHub Hlsl Languages Monthly Trending",
   "description": "Monthly Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 21 Sep 2025 19:16:42 GMT",
+  "pubDate": "Mon, 22 Sep 2025 02:41:49 GMT",
   "items": [
     {
       "title": "clshortfuse/renodx",
@@ -10,7 +10,7 @@
       "description": "Renovation Engine for DirectX Games",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": "530",
+      "stars": "531",
       "forks": "45",
       "addStars": "86",
       "contributors": [
@@ -35,9 +35,9 @@
           "url": "https://github.com/NotVoosh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7017110?s=40&v=4",
-          "name": "marat569",
-          "url": "https://github.com/marat569"
+          "avatar": "https://avatars.githubusercontent.com/u/115506513?s=40&v=4",
+          "name": "akuru-q",
+          "url": "https://github.com/akuru-q"
         }
       ]
     }

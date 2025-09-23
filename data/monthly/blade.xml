@@ -3,7 +3,7 @@
     <title>GitHub Blade Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Blade Languages in GitHub</description>
-    <pubDate>Tue, 23 Sep 2025 13:28:11 GMT</pubDate>
+    <pubDate>Tue, 23 Sep 2025 19:18:46 GMT</pubDate>
     <item>
       <title>laravel/laravel</title>
       <link>https://github.com/laravel/laravel</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/laravel/laravel</guid>
       <language>Blade</language>
       <languageColor>#f7523f</languageColor>
-      <stars>82,198</stars>
-      <forks>24,478</forks>
+      <stars>82,203</stars>
+      <forks>24,477</forks>
       <addStars>382</addStars>
       <contributors>
         <contributor>
@@ -119,44 +119,6 @@
       </contributors>
     </item>
     <item>
-      <title>laravel/livewire-starter-kit</title>
-      <link>https://github.com/laravel/livewire-starter-kit</link>
-      <description/>
-      <guid>https://github.com/laravel/livewire-starter-kit</guid>
-      <language>Blade</language>
-      <languageColor>#f7523f</languageColor>
-      <stars>385</stars>
-      <forks>180</forks>
-      <addStars>18</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/463230?s=40&amp;v=4</avatar>
-          <name>taylorotwell</name>
-          <url>https://github.com/taylorotwell</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/601261?s=40&amp;v=4</avatar>
-          <name>tnylea</name>
-          <url>https://github.com/tnylea</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2702148?s=40&amp;v=4</avatar>
-          <name>joetannenbaum</name>
-          <url>https://github.com/joetannenbaum</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7362607?s=40&amp;v=4</avatar>
-          <name>Rattone</name>
-          <url>https://github.com/Rattone</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16293072?s=40&amp;v=4</avatar>
-          <name>realpoke</name>
-          <url>https://github.com/realpoke</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>stancl/tenancy-docs</title>
       <link>https://github.com/stancl/tenancy-docs</link>
       <description>stancl/tenancy docs &amp; website</description>
@@ -196,7 +158,7 @@
       <guid>https://github.com/filamentphp/filamentphp.com</guid>
       <language>Blade</language>
       <languageColor>#f7523f</languageColor>
-      <stars>283</stars>
+      <stars>284</stars>
       <forks>402</forks>
       <addStars>7</addStars>
       <contributors>

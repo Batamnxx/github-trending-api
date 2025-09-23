@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 23 Sep 2025 13:28:11 GMT",
+  "pubDate": "Tue, 23 Sep 2025 19:18:46 GMT",
   "items": [
     {
       "title": "Gar-b-age/CookLikeHOC",
@@ -10,8 +10,8 @@
       "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "16,739",
-      "forks": "1,671",
+      "stars": "17,227",
+      "forks": "1,689",
       "addStars": "3,697",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A refreshingly simple data-driven game engine built in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "42,223",
-      "forks": "4,123",
+      "stars": "42,266",
+      "forks": "4,127",
       "addStars": "182",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,093",
-      "forks": "1,012",
+      "stars": "14,163",
+      "forks": "1,016",
       "addStars": "564",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "very good whiteboard SDK / infinite canvas SDK",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "42,625",
-      "forks": "2,745",
+      "stars": "42,666",
+      "forks": "2,747",
       "addStars": "236",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "74,037",
-      "forks": "25,473",
+      "stars": "74,073",
+      "forks": "25,474",
       "addStars": "170",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "29,218",
-      "forks": "1,379",
+      "stars": "29,284",
+      "forks": "1,382",
       "addStars": "195",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Command-line program to download videos from YouTube.com and other video sites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "137,871",
-      "forks": "10,490",
+      "stars": "137,924",
+      "forks": "10,491",
       "addStars": "267",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Minecraft AI with LLMs+Mineflayer",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,110",
-      "forks": "555",
+      "stars": "4,159",
+      "forks": "559",
       "addStars": "252",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "Find and fix problems in your JavaScript code.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "26,401",
+      "stars": "26,424",
       "forks": "4,805",
       "addStars": "107",
       "contributors": [
@@ -328,8 +328,8 @@
       "description": "⭐️ Companies that don't have a broken hiring process",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "49,687",
-      "forks": "3,845",
+      "stars": "49,751",
+      "forks": "3,850",
       "addStars": "251",
       "contributors": [
         {
@@ -360,7 +360,7 @@
       "description": "Stable Diffusion web UI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "156,779",
+      "stars": "156,796",
       "forks": "29,081",
       "addStars": "163",
       "contributors": [
@@ -397,8 +397,8 @@
       "description": "💯 Curated coding interview preparation materials for busy software engineers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "130,229",
-      "forks": "15,804",
+      "stars": "130,277",
+      "forks": "15,812",
       "addStars": "301",
       "contributors": [
         {
@@ -434,8 +434,8 @@
       "description": "📚 Freely available programming books",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "369,911",
-      "forks": "64,272",
+      "stars": "370,016",
+      "forks": "64,282",
       "addStars": "463",
       "contributors": [
         {
@@ -471,8 +471,8 @@
       "description": "Focus on prompting and generating",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,631",
-      "forks": "7,491",
+      "stars": "46,651",
+      "forks": "7,493",
       "addStars": "118",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "320,761",
-      "forks": "52,400",
+      "stars": "320,823",
+      "forks": "52,409",
       "addStars": "246",
       "contributors": [
         {
@@ -540,7 +540,7 @@
       "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "41,239",
+      "stars": "41,268",
       "forks": "3,016",
       "addStars": "113",
       "contributors": [
@@ -577,8 +577,8 @@
       "description": "Free, open source crypto trading bot",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,728",
-      "forks": "8,680",
+      "stars": "42,804",
+      "forks": "8,686",
       "addStars": "349",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,283",
-      "forks": "1,283",
+      "stars": "17,362",
+      "forks": "1,284",
       "addStars": "293",
       "contributors": [
         {

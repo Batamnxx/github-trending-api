@@ -3,7 +3,7 @@
     <title>GitHub Blade Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Blade Languages in GitHub</description>
-    <pubDate>Tue, 23 Sep 2025 07:22:48 GMT</pubDate>
+    <pubDate>Tue, 23 Sep 2025 13:28:11 GMT</pubDate>
     <item>
       <title>grocy/grocy</title>
       <link>https://github.com/grocy/grocy</link>
@@ -69,14 +69,14 @@
           <url>https://github.com/bensherred</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3823354?s=40&amp;v=4</avatar>
+          <name>ganyicz</name>
+          <url>https://github.com/ganyicz</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1222598?s=40&amp;v=4</avatar>
           <name>marcorivm</name>
           <url>https://github.com/marcorivm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1329131?s=40&amp;v=4</avatar>
-          <name>scottzirkel</name>
-          <url>https://github.com/scottzirkel</url>
         </contributor>
       </contributors>
     </item>
@@ -87,8 +87,8 @@
       <guid>https://github.com/laravel/laravel</guid>
       <language>Blade</language>
       <languageColor>#f7523f</languageColor>
-      <stars>82,193</stars>
-      <forks>24,477</forks>
+      <stars>82,198</stars>
+      <forks>24,478</forks>
       <addStars>104</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Daily Trending",
   "description": "Daily Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 23 Sep 2025 02:23:08 GMT",
+  "pubDate": "Tue, 23 Sep 2025 07:22:48 GMT",
   "items": [
     {
       "title": "peazip/PeaZip",
@@ -47,8 +47,8 @@
       "description": "Cheat Engine. A development environment focused on modding",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "16,967",
-      "forks": "2,416",
+      "stars": "16,968",
+      "forks": "2,418",
       "addStars": "4",
       "contributors": [
         {
@@ -335,7 +335,7 @@
       "description": "🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "3,380",
+      "stars": "3,381",
       "forks": "285",
       "addStars": "2",
       "contributors": [
@@ -409,7 +409,7 @@
       "description": "Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "1,160",
+      "stars": "1,161",
       "forks": "211",
       "addStars": "1",
       "contributors": [

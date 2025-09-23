@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c++ Languages Monthly Trending",
   "description": "Monthly Trending of Objective-c++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 23 Sep 2025 02:23:08 GMT",
+  "pubDate": "Tue, 23 Sep 2025 07:22:48 GMT",
   "items": [
     {
       "title": "KhronosGroup/MoltenVK",
@@ -11,7 +11,7 @@
       "language": "Objective-C++",
       "languageColor": "#6866fb",
       "stars": "5,309",
-      "forks": "459",
+      "forks": "458",
       "addStars": "51",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "TextMate is a graphical text editor for macOS 10.12 or later",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "14,564",
+      "stars": "14,565",
       "forks": "1,732",
       "addStars": "91",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "AutoRaise (and focus) a window when hovering over it with the mouse",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "2,168",
+      "stars": "2,169",
       "forks": "83",
       "addStars": "53",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "2,497",
+      "stars": "2,498",
       "forks": "710",
       "addStars": "10",
       "contributors": [

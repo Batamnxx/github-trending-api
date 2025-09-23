@@ -2,7 +2,7 @@
   "title": "GitHub Liquid Languages Monthly Trending",
   "description": "Monthly Trending of Liquid Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 23 Sep 2025 02:23:08 GMT",
+  "pubDate": "Tue, 23 Sep 2025 07:22:48 GMT",
   "items": [
     {
       "title": "Shopify/skeleton-theme",
@@ -11,7 +11,7 @@
       "language": "Liquid",
       "languageColor": "#67b8de",
       "stars": "522",
-      "forks": "262",
+      "forks": "263",
       "addStars": "38",
       "contributors": [
         {

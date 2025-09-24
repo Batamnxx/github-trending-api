@@ -3,7 +3,7 @@
     <title>GitHub Ocaml Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Ocaml Languages in GitHub</description>
-    <pubDate>Wed, 24 Sep 2025 07:23:12 GMT</pubDate>
+    <pubDate>Wed, 24 Sep 2025 13:28:25 GMT</pubDate>
     <item>
       <title>opengrep/opengrep</title>
       <link>https://github.com/opengrep/opengrep</link>
@@ -82,7 +82,7 @@
       <guid>https://github.com/semgrep/semgrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>12,868</stars>
+      <stars>12,870</stars>
       <forks>790</forks>
       <addStars>309</addStars>
       <contributors>

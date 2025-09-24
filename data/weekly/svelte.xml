@@ -3,7 +3,7 @@
     <title>GitHub Svelte Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Svelte Languages in GitHub</description>
-    <pubDate>Wed, 24 Sep 2025 13:28:25 GMT</pubDate>
+    <pubDate>Wed, 24 Sep 2025 19:18:47 GMT</pubDate>
     <item>
       <title>ofkm/arcane</title>
       <link>https://github.com/ofkm/arcane</link>
@@ -12,7 +12,7 @@
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
       <stars>1,640</stars>
-      <forks>33</forks>
+      <forks>34</forks>
       <addStars>205</addStars>
       <contributors>
         <contributor>
@@ -39,7 +39,7 @@
       <guid>https://github.com/hayase-app/ui</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>3,528</stars>
+      <stars>3,529</stars>
       <forks>184</forks>
       <addStars>20</addStars>
       <contributors>
@@ -71,14 +71,52 @@
       </contributors>
     </item>
     <item>
+      <title>imputnet/cobalt</title>
+      <link>https://github.com/imputnet/cobalt</link>
+      <description>best way to save what you love</description>
+      <guid>https://github.com/imputnet/cobalt</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>36,414</stars>
+      <forks>3,021</forks>
+      <addStars>210</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/71202418?s=40&amp;v=4</avatar>
+          <name>wukko</name>
+          <url>https://github.com/wukko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/136796770?s=40&amp;v=4</avatar>
+          <name>dumbmoron</name>
+          <url>https://github.com/dumbmoron</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7025343?s=40&amp;v=4</avatar>
+          <name>Snazzah</name>
+          <url>https://github.com/Snazzah</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/110288996?s=40&amp;v=4</avatar>
+          <name>lexito-o</name>
+          <url>https://github.com/lexito-o</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13475823?s=40&amp;v=4</avatar>
+          <name>hyperdefined</name>
+          <url>https://github.com/hyperdefined</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>saadeghi/daisyui</title>
       <link>https://github.com/saadeghi/daisyui</link>
       <description>🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library</description>
       <guid>https://github.com/saadeghi/daisyui</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>38,763</stars>
-      <forks>1,543</forks>
+      <stars>38,765</stars>
+      <forks>1,544</forks>
       <addStars>109</addStars>
       <contributors>
         <contributor>
@@ -109,40 +147,243 @@
       </contributors>
     </item>
     <item>
-      <title>imputnet/cobalt</title>
-      <link>https://github.com/imputnet/cobalt</link>
-      <description>best way to save what you love</description>
-      <guid>https://github.com/imputnet/cobalt</guid>
+      <title>EddieHubCommunity/good-first-issue-finder</title>
+      <link>https://github.com/EddieHubCommunity/good-first-issue-finder</link>
+      <description>Issue-Crawler for GitHub based on Sveltekit</description>
+      <guid>https://github.com/EddieHubCommunity/good-first-issue-finder</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>36,407</stars>
-      <forks>3,019</forks>
-      <addStars>210</addStars>
+      <stars>585</stars>
+      <forks>375</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/71202418?s=40&amp;v=4</avatar>
-          <name>wukko</name>
-          <url>https://github.com/wukko</url>
+          <avatar>https://avatars.githubusercontent.com/u/43843195?s=40&amp;v=4</avatar>
+          <name>Cahllagerfeld</name>
+          <url>https://github.com/Cahllagerfeld</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/136796770?s=40&amp;v=4</avatar>
-          <name>dumbmoron</name>
-          <url>https://github.com/dumbmoron</url>
+          <avatar>https://avatars.githubusercontent.com/u/624760?s=40&amp;v=4</avatar>
+          <name>eddiejaoude</name>
+          <url>https://github.com/eddiejaoude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7025343?s=40&amp;v=4</avatar>
-          <name>Snazzah</name>
-          <url>https://github.com/Snazzah</url>
+          <avatar>https://avatars.githubusercontent.com/u/28386721?s=40&amp;v=4</avatar>
+          <name>tbhaxor</name>
+          <url>https://github.com/tbhaxor</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/110288996?s=40&amp;v=4</avatar>
-          <name>lexito-o</name>
-          <url>https://github.com/lexito-o</url>
+          <avatar>https://avatars.githubusercontent.com/u/30869493?s=40&amp;v=4</avatar>
+          <name>schmelto</name>
+          <url>https://github.com/schmelto</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>classroomio/classroomio</title>
+      <link>https://github.com/classroomio/classroomio</link>
+      <description>The Open Source Education Platform. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable</description>
+      <guid>https://github.com/classroomio/classroomio</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>1,141</stars>
+      <forks>215</forks>
+      <addStars>7</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31730715?s=40&amp;v=4</avatar>
+          <name>rotimi-best</name>
+          <url>https://github.com/rotimi-best</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13475823?s=40&amp;v=4</avatar>
-          <name>hyperdefined</name>
-          <url>https://github.com/hyperdefined</url>
+          <avatar>https://avatars.githubusercontent.com/u/69228399?s=40&amp;v=4</avatar>
+          <name>Chifez</name>
+          <url>https://github.com/Chifez</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/88969825?s=40&amp;v=4</avatar>
+          <name>tunjiadeyemi</name>
+          <url>https://github.com/tunjiadeyemi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/115996317?s=40&amp;v=4</avatar>
+          <name>digdippa</name>
+          <url>https://github.com/digdippa</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/57962747?s=40&amp;v=4</avatar>
+          <name>codiini</name>
+          <url>https://github.com/codiini</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>gurucomputing/headscale-ui</title>
+      <link>https://github.com/gurucomputing/headscale-ui</link>
+      <description>A web frontend for the headscale Tailscale-compatible coordination server</description>
+      <guid>https://github.com/gurucomputing/headscale-ui</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>2,291</stars>
+      <forks>154</forks>
+      <addStars>15</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45954722?s=40&amp;v=4</avatar>
+          <name>routerino</name>
+          <url>https://github.com/routerino</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10323274?s=40&amp;v=4</avatar>
+          <name>xzzpig</name>
+          <url>https://github.com/xzzpig</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1464185?s=40&amp;v=4</avatar>
+          <name>adrum</name>
+          <url>https://github.com/adrum</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43764147?s=40&amp;v=4</avatar>
+          <name>ChxGuillaume</name>
+          <url>https://github.com/ChxGuillaume</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63209974?s=40&amp;v=4</avatar>
+          <name>fedefreue</name>
+          <url>https://github.com/fedefreue</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ChurchApps/FreeShow</title>
+      <link>https://github.com/ChurchApps/FreeShow</link>
+      <description>FreeShow is a free and open-source, user-friendly presenter software.</description>
+      <guid>https://github.com/ChurchApps/FreeShow</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>873</stars>
+      <forks>159</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17619496?s=40&amp;v=4</avatar>
+          <name>vassbo</name>
+          <url>https://github.com/vassbo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1447203?s=40&amp;v=4</avatar>
+          <name>jzongker</name>
+          <url>https://github.com/jzongker</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/87763712?s=40&amp;v=4</avatar>
+          <name>lubomsky</name>
+          <url>https://github.com/lubomsky</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7434781?s=40&amp;v=4</avatar>
+          <name>eeickmeyer</name>
+          <url>https://github.com/eeickmeyer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35202343?s=40&amp;v=4</avatar>
+          <name>Auxority</name>
+          <url>https://github.com/Auxority</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>vkurko/calendar</title>
+      <link>https://github.com/vkurko/calendar</link>
+      <description>Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views</description>
+      <guid>https://github.com/vkurko/calendar</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>1,929</stars>
+      <forks>171</forks>
+      <addStars>7</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1073174?s=40&amp;v=4</avatar>
+          <name>vkurko</name>
+          <url>https://github.com/vkurko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/362092?s=40&amp;v=4</avatar>
+          <name>mweimerskirch</name>
+          <url>https://github.com/mweimerskirch</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2372550?s=40&amp;v=4</avatar>
+          <name>jakeorr</name>
+          <url>https://github.com/jakeorr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81748081?s=40&amp;v=4</avatar>
+          <name>rovshena</name>
+          <url>https://github.com/rovshena</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24477241?s=40&amp;v=4</avatar>
+          <name>mrvnklm</name>
+          <url>https://github.com/mrvnklm</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>RockinChaos/Shiru</title>
+      <link>https://github.com/RockinChaos/Shiru</link>
+      <description>BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!</description>
+      <guid>https://github.com/RockinChaos/Shiru</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>353</stars>
+      <forks>13</forks>
+      <addStars>17</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10971577?s=40&amp;v=4</avatar>
+          <name>RockinChaos</name>
+          <url>https://github.com/RockinChaos</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10920253?s=40&amp;v=4</avatar>
+          <name>alanpoulain</name>
+          <url>https://github.com/alanpoulain</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48936839?s=40&amp;v=4</avatar>
+          <name>EnriqueLB</name>
+          <url>https://github.com/EnriqueLB</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>dora-team/dora.dev</title>
+      <link>https://github.com/dora-team/dora.dev</link>
+      <description>Public-facing knowledge site: https://dora.dev</description>
+      <guid>https://github.com/dora-team/dora.dev</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>124</stars>
+      <forks>36</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2166159?s=40&amp;v=4</avatar>
+          <name>davidstanke</name>
+          <url>https://github.com/davidstanke</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16093?s=40&amp;v=4</avatar>
+          <name>nathenharvey</name>
+          <url>https://github.com/nathenharvey</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2676030?s=40&amp;v=4</avatar>
+          <name>jessegduke</name>
+          <url>https://github.com/jessegduke</url>
         </contributor>
       </contributors>
     </item>
@@ -185,216 +426,13 @@
       </contributors>
     </item>
     <item>
-      <title>marcusolsson/obsidian-projects</title>
-      <link>https://github.com/marcusolsson/obsidian-projects</link>
-      <description>Plain text project planning in Obsidian</description>
-      <guid>https://github.com/marcusolsson/obsidian-projects</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>1,840</stars>
-      <forks>116</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8396880?s=40&amp;v=4</avatar>
-          <name>marcusolsson</name>
-          <url>https://github.com/marcusolsson</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/73122375?s=40&amp;v=4</avatar>
-          <name>Acylation</name>
-          <url>https://github.com/Acylation</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64155612?s=40&amp;v=4</avatar>
-          <name>GitMurf</name>
-          <url>https://github.com/GitMurf</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7078603?s=40&amp;v=4</avatar>
-          <name>H3mul</name>
-          <url>https://github.com/H3mul</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>zerebos/ghostty-config</title>
-      <link>https://github.com/zerebos/ghostty-config</link>
-      <description>A beautiful config generator for Ghostty terminal.</description>
-      <guid>https://github.com/zerebos/ghostty-config</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>1,490</stars>
-      <forks>26</forks>
-      <addStars>19</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6865942?s=40&amp;v=4</avatar>
-          <name>zerebos</name>
-          <url>https://github.com/zerebos</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40609080?s=40&amp;v=4</avatar>
-          <name>phillip-hirsch</name>
-          <url>https://github.com/phillip-hirsch</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/312978?s=40&amp;v=4</avatar>
-          <name>hartzell</name>
-          <url>https://github.com/hartzell</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/71683364?s=40&amp;v=4</avatar>
-          <name>mefengl</name>
-          <url>https://github.com/mefengl</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>EddieHubCommunity/good-first-issue-finder</title>
-      <link>https://github.com/EddieHubCommunity/good-first-issue-finder</link>
-      <description>Issue-Crawler for GitHub based on Sveltekit</description>
-      <guid>https://github.com/EddieHubCommunity/good-first-issue-finder</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>585</stars>
-      <forks>374</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43843195?s=40&amp;v=4</avatar>
-          <name>Cahllagerfeld</name>
-          <url>https://github.com/Cahllagerfeld</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/624760?s=40&amp;v=4</avatar>
-          <name>eddiejaoude</name>
-          <url>https://github.com/eddiejaoude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28386721?s=40&amp;v=4</avatar>
-          <name>tbhaxor</name>
-          <url>https://github.com/tbhaxor</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30869493?s=40&amp;v=4</avatar>
-          <name>schmelto</name>
-          <url>https://github.com/schmelto</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ChurchApps/FreeShow</title>
-      <link>https://github.com/ChurchApps/FreeShow</link>
-      <description>FreeShow is a free and open-source, user-friendly presenter software.</description>
-      <guid>https://github.com/ChurchApps/FreeShow</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>872</stars>
-      <forks>159</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17619496?s=40&amp;v=4</avatar>
-          <name>vassbo</name>
-          <url>https://github.com/vassbo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1447203?s=40&amp;v=4</avatar>
-          <name>jzongker</name>
-          <url>https://github.com/jzongker</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87763712?s=40&amp;v=4</avatar>
-          <name>lubomsky</name>
-          <url>https://github.com/lubomsky</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7434781?s=40&amp;v=4</avatar>
-          <name>eeickmeyer</name>
-          <url>https://github.com/eeickmeyer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35202343?s=40&amp;v=4</avatar>
-          <name>Auxority</name>
-          <url>https://github.com/Auxority</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>gurucomputing/headscale-ui</title>
-      <link>https://github.com/gurucomputing/headscale-ui</link>
-      <description>A web frontend for the headscale Tailscale-compatible coordination server</description>
-      <guid>https://github.com/gurucomputing/headscale-ui</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>2,290</stars>
-      <forks>154</forks>
-      <addStars>15</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45954722?s=40&amp;v=4</avatar>
-          <name>routerino</name>
-          <url>https://github.com/routerino</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10323274?s=40&amp;v=4</avatar>
-          <name>xzzpig</name>
-          <url>https://github.com/xzzpig</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1464185?s=40&amp;v=4</avatar>
-          <name>adrum</name>
-          <url>https://github.com/adrum</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43764147?s=40&amp;v=4</avatar>
-          <name>ChxGuillaume</name>
-          <url>https://github.com/ChxGuillaume</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63209974?s=40&amp;v=4</avatar>
-          <name>fedefreue</name>
-          <url>https://github.com/fedefreue</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>RockinChaos/Shiru</title>
-      <link>https://github.com/RockinChaos/Shiru</link>
-      <description>BitTorrent streaming software with no paws in the way—watch anime in real-time, no waiting for downloads!</description>
-      <guid>https://github.com/RockinChaos/Shiru</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>352</stars>
-      <forks>13</forks>
-      <addStars>17</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10971577?s=40&amp;v=4</avatar>
-          <name>RockinChaos</name>
-          <url>https://github.com/RockinChaos</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10920253?s=40&amp;v=4</avatar>
-          <name>alanpoulain</name>
-          <url>https://github.com/alanpoulain</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48936839?s=40&amp;v=4</avatar>
-          <name>EnriqueLB</name>
-          <url>https://github.com/EnriqueLB</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>PuruVJ/macos-web</title>
       <link>https://github.com/PuruVJ/macos-web</link>
       <description/>
       <guid>https://github.com/PuruVJ/macos-web</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>2,485</stars>
+      <stars>2,486</stars>
       <forks>293</forks>
       <addStars>4</addStars>
       <contributors>
@@ -426,73 +464,35 @@
       </contributors>
     </item>
     <item>
-      <title>vkurko/calendar</title>
-      <link>https://github.com/vkurko/calendar</link>
-      <description>Full-sized drag &amp; drop JavaScript event calendar with resource &amp; timeline views</description>
-      <guid>https://github.com/vkurko/calendar</guid>
+      <title>zerebos/ghostty-config</title>
+      <link>https://github.com/zerebos/ghostty-config</link>
+      <description>A beautiful config generator for Ghostty terminal.</description>
+      <guid>https://github.com/zerebos/ghostty-config</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>1,928</stars>
-      <forks>171</forks>
-      <addStars>7</addStars>
+      <stars>1,491</stars>
+      <forks>26</forks>
+      <addStars>19</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1073174?s=40&amp;v=4</avatar>
-          <name>vkurko</name>
-          <url>https://github.com/vkurko</url>
+          <avatar>https://avatars.githubusercontent.com/u/6865942?s=40&amp;v=4</avatar>
+          <name>zerebos</name>
+          <url>https://github.com/zerebos</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/362092?s=40&amp;v=4</avatar>
-          <name>mweimerskirch</name>
-          <url>https://github.com/mweimerskirch</url>
+          <avatar>https://avatars.githubusercontent.com/u/40609080?s=40&amp;v=4</avatar>
+          <name>phillip-hirsch</name>
+          <url>https://github.com/phillip-hirsch</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2372550?s=40&amp;v=4</avatar>
-          <name>jakeorr</name>
-          <url>https://github.com/jakeorr</url>
+          <avatar>https://avatars.githubusercontent.com/u/312978?s=40&amp;v=4</avatar>
+          <name>hartzell</name>
+          <url>https://github.com/hartzell</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81748081?s=40&amp;v=4</avatar>
-          <name>rovshena</name>
-          <url>https://github.com/rovshena</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24477241?s=40&amp;v=4</avatar>
-          <name>mrvnklm</name>
-          <url>https://github.com/mrvnklm</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>CriticalMoments/CMSaasStarter</title>
-      <link>https://github.com/CriticalMoments/CMSaasStarter</link>
-      <description>A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.</description>
-      <guid>https://github.com/CriticalMoments/CMSaasStarter</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>2,150</stars>
-      <forks>442</forks>
-      <addStars>13</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/848343?s=40&amp;v=4</avatar>
-          <name>scosman</name>
-          <url>https://github.com/scosman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62005952?s=40&amp;v=4</avatar>
-          <name>evlim</name>
-          <url>https://github.com/evlim</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1836017?s=40&amp;v=4</avatar>
-          <name>owenversteeg</name>
-          <url>https://github.com/owenversteeg</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3535926?s=40&amp;v=4</avatar>
-          <name>kizivat</name>
-          <url>https://github.com/kizivat</url>
+          <avatar>https://avatars.githubusercontent.com/u/71683364?s=40&amp;v=4</avatar>
+          <name>mefengl</name>
+          <url>https://github.com/mefengl</url>
         </contributor>
       </contributors>
     </item>
@@ -530,30 +530,144 @@
       </contributors>
     </item>
     <item>
-      <title>dora-team/dora.dev</title>
-      <link>https://github.com/dora-team/dora.dev</link>
-      <description>Public-facing knowledge site: https://dora.dev</description>
-      <guid>https://github.com/dora-team/dora.dev</guid>
+      <title>pluja/whishper</title>
+      <link>https://github.com/pluja/whishper</link>
+      <description>Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!</description>
+      <guid>https://github.com/pluja/whishper</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>124</stars>
-      <forks>36</forks>
-      <addStars>2</addStars>
+      <stars>2,672</stars>
+      <forks>153</forks>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2166159?s=40&amp;v=4</avatar>
-          <name>davidstanke</name>
-          <url>https://github.com/davidstanke</url>
+          <avatar>https://avatars.githubusercontent.com/u/64632615?s=40&amp;v=4</avatar>
+          <name>pluja</name>
+          <url>https://github.com/pluja</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16093?s=40&amp;v=4</avatar>
-          <name>nathenharvey</name>
-          <url>https://github.com/nathenharvey</url>
+          <avatar>https://avatars.githubusercontent.com/u/10514959?s=40&amp;v=4</avatar>
+          <name>JonasCz</name>
+          <url>https://github.com/JonasCz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2676030?s=40&amp;v=4</avatar>
-          <name>jessegduke</name>
-          <url>https://github.com/jessegduke</url>
+          <avatar>https://avatars.githubusercontent.com/u/25672277?s=40&amp;v=4</avatar>
+          <name>hundehausen</name>
+          <url>https://github.com/hundehausen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1082033?s=40&amp;v=4</avatar>
+          <name>miketwo</name>
+          <url>https://github.com/miketwo</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>threlte/threlte</title>
+      <link>https://github.com/threlte/threlte</link>
+      <description>3D framework for Svelte</description>
+      <guid>https://github.com/threlte/threlte</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>3,034</stars>
+      <forks>153</forks>
+      <addStars>7</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46897060?s=40&amp;v=4</avatar>
+          <name>grischaerbe</name>
+          <url>https://github.com/grischaerbe</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3834780?s=40&amp;v=4</avatar>
+          <name>michealparks</name>
+          <url>https://github.com/michealparks</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16182568?s=40&amp;v=4</avatar>
+          <name>joshwashywash</name>
+          <url>https://github.com/joshwashywash</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5512440?s=40&amp;v=4</avatar>
+          <name>DefinitelyMaybe</name>
+          <url>https://github.com/DefinitelyMaybe</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16734228?s=40&amp;v=4</avatar>
+          <name>jerzakm</name>
+          <url>https://github.com/jerzakm</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>CriticalMoments/CMSaasStarter</title>
+      <link>https://github.com/CriticalMoments/CMSaasStarter</link>
+      <description>A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.</description>
+      <guid>https://github.com/CriticalMoments/CMSaasStarter</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>2,150</stars>
+      <forks>442</forks>
+      <addStars>13</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/848343?s=40&amp;v=4</avatar>
+          <name>scosman</name>
+          <url>https://github.com/scosman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/62005952?s=40&amp;v=4</avatar>
+          <name>evlim</name>
+          <url>https://github.com/evlim</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1836017?s=40&amp;v=4</avatar>
+          <name>owenversteeg</name>
+          <url>https://github.com/owenversteeg</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3535926?s=40&amp;v=4</avatar>
+          <name>kizivat</name>
+          <url>https://github.com/kizivat</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>runebookai/tome</title>
+      <link>https://github.com/runebookai/tome</link>
+      <description>a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP</description>
+      <guid>https://github.com/runebookai/tome</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>487</stars>
+      <forks>30</forks>
+      <addStars>12</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36059?s=40&amp;v=4</avatar>
+          <name>mnoble</name>
+          <url>https://github.com/mnoble</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48226928?s=40&amp;v=4</avatar>
+          <name>peterbytes</name>
+          <url>https://github.com/peterbytes</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1781632?s=40&amp;v=4</avatar>
+          <name>camfulton</name>
+          <url>https://github.com/camfulton</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/198162?s=40&amp;v=4</avatar>
+          <name>bneil</name>
+          <url>https://github.com/bneil</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/174450065?s=40&amp;v=4</avatar>
+          <name>aristideubertas</name>
+          <url>https://github.com/aristideubertas</url>
         </contributor>
       </contributors>
     </item>
@@ -564,7 +678,7 @@
       <guid>https://github.com/dbgate/dbgate</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>6,416</stars>
+      <stars>6,417</stars>
       <forks>383</forks>
       <addStars>21</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub Bicep Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Bicep Languages in GitHub</description>
-    <pubDate>Wed, 24 Sep 2025 02:24:26 GMT</pubDate>
+    <pubDate>Wed, 24 Sep 2025 07:23:12 GMT</pubDate>
     <item>
       <title>jasontaylordev/CleanArchitecture</title>
       <link>https://github.com/jasontaylordev/CleanArchitecture</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/jasontaylordev/CleanArchitecture</guid>
       <language>Bicep</language>
       <languageColor>#519aba</languageColor>
-      <stars>18,977</stars>
+      <stars>18,978</stars>
       <forks>4,002</forks>
       <addStars>4</addStars>
       <contributors>
@@ -234,7 +234,7 @@
       <guid>https://github.com/Azure/bicep</guid>
       <language>Bicep</language>
       <languageColor>#519aba</languageColor>
-      <stars>3,449</stars>
+      <stars>3,450</stars>
       <forks>792</forks>
       <addStars>1</addStars>
       <contributors>

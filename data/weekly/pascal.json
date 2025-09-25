@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Weekly Trending",
   "description": "Weekly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 25 Sep 2025 13:29:01 GMT",
+  "pubDate": "Thu, 25 Sep 2025 19:19:12 GMT",
   "items": [
     {
       "title": "HeidiSQL/HeidiSQL",
@@ -47,8 +47,8 @@
       "description": "Cheat Engine. A development environment focused on modding",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "16,978",
-      "forks": "2,419",
+      "stars": "16,982",
+      "forks": "2,420",
       "addStars": "35",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "A fast, portable, simple, and free C/C++ IDE",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "2,803",
+      "stars": "2,805",
       "forks": "305",
       "addStars": "7",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "2,123",
+      "stars": "2,124",
       "forks": "77",
       "addStars": "10",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "RDP Wrapper Library",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "15,870",
+      "stars": "15,871",
       "forks": "3,953",
       "addStars": "26",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "6,036",
+      "stars": "6,035",
       "forks": "327",
       "addStars": "70",
       "contributors": [
@@ -429,7 +429,7 @@
       "description": "A firmware Flash tool for nodemcu",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "2,154",
+      "stars": "2,155",
       "forks": "812",
       "addStars": "3",
       "contributors": [

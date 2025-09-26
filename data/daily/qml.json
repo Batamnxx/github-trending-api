@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 26 Sep 2025 13:27:01 GMT",
+  "pubDate": "Fri, 26 Sep 2025 19:17:24 GMT",
   "items": [
     {
       "title": "end-4/dots-hyprland",
@@ -10,8 +10,8 @@
       "description": "Rice built for usability",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "9,229",
-      "forks": "696",
+      "stars": "9,239",
+      "forks": "699",
       "addStars": "25",
       "contributors": [
         {

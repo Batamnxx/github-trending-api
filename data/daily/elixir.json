@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 26 Sep 2025 19:17:24 GMT",
+  "pubDate": "Sat, 27 Sep 2025 02:19:52 GMT",
   "items": [
     {
       "title": "kieraneglin/pinchflat",
@@ -10,9 +10,9 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "3,810",
+      "stars": "3,813",
       "forks": "83",
-      "addStars": "16",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/569917?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "23,396",
-      "forks": "1,282",
-      "addStars": "4",
+      "stars": "23,398",
+      "forks": "1,283",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "1,635",
+      "stars": "1,638",
       "forks": "87",
-      "addStars": "7",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/927029?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Real-time sync for Postgres.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "9,241",
+      "stars": "9,242",
       "forks": "264",
-      "addStars": "7",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/207748?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "25,837",
+      "stars": "25,839",
       "forks": "3,465",
-      "addStars": "6",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9582?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "4,197",
-      "forks": "2,849",
-      "addStars": "0",
+      "stars": "4,198",
+      "forks": "2,850",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4341812?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Hire the top 1% OSS engineers",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "897",
+      "stars": "898",
       "forks": "42",
-      "addStars": "7",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17045339?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "7,721",
+      "stars": "7,720",
       "forks": "342",
-      "addStars": "19",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/167144?s=40&v=4",
@@ -500,7 +500,7 @@
       "languageColor": "#6e4a7e",
       "stars": "1,827",
       "forks": "115",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7488303?s=40&v=4",
@@ -611,7 +611,7 @@
       "languageColor": "#6e4a7e",
       "stars": "7,169",
       "forks": "862",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
@@ -638,7 +638,7 @@
       "languageColor": "#6e4a7e",
       "stars": "34,359",
       "forks": "4,095",
-      "addStars": "3",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32526923?s=40&v=4",

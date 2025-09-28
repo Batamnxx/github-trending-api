@@ -3,7 +3,7 @@
     <title>GitHub Haxe Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Haxe Languages in GitHub</description>
-    <pubDate>Sun, 28 Sep 2025 13:21:14 GMT</pubDate>
+    <pubDate>Sun, 28 Sep 2025 19:16:30 GMT</pubDate>
     <item>
       <title>FunkinCrew/Funkin</title>
       <link>https://github.com/FunkinCrew/Funkin</link>
@@ -125,7 +125,7 @@
       <guid>https://github.com/HaxeFoundation/haxe</guid>
       <language>Haxe</language>
       <languageColor>#df7900</languageColor>
-      <stars>6,586</stars>
+      <stars>6,587</stars>
       <forks>682</forks>
       <addStars>40</addStars>
       <contributors>
@@ -163,7 +163,7 @@
       <guid>https://github.com/FunkinCrew/funkin.assets</guid>
       <language>Haxe</language>
       <languageColor>#df7900</languageColor>
-      <stars>97</stars>
+      <stars>98</stars>
       <forks>132</forks>
       <addStars>8</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 28 Sep 2025 13:21:14 GMT</pubDate>
+    <pubDate>Sun, 28 Sep 2025 19:16:30 GMT</pubDate>
     <item>
       <title>commaai/openpilot</title>
       <link>https://github.com/commaai/openpilot</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/commaai/openpilot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>56,267</stars>
-      <forks>10,150</forks>
+      <stars>56,505</stars>
+      <forks>10,161</forks>
       <addStars>14</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/kamranahmedse/developer-roadmap</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>337,986</stars>
-      <forks>42,917</forks>
+      <stars>338,122</stars>
+      <forks>42,926</forks>
       <addStars>337</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/rasbt/LLMs-from-scratch</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>73,153</stars>
-      <forks>10,642</forks>
+      <stars>73,255</stars>
+      <forks>10,663</forks>
       <addStars>110</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/humanlayer/humanlayer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,469</stars>
-      <forks>348</forks>
+      <stars>4,535</stars>
+      <forks>355</forks>
       <addStars>1,119</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/typst/typst</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>46,020</stars>
-      <forks>1,234</forks>
+      <stars>46,070</stars>
+      <forks>1,237</forks>
       <addStars>169</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>70,438</stars>
-      <forks>9,009</forks>
+      <stars>70,490</stars>
+      <forks>9,018</forks>
       <addStars>169</addStars>
       <contributors>
         <contributor>
@@ -229,9 +229,9 @@
       <guid>https://github.com/microsoft/qlib</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,356</stars>
-      <forks>4,838</forks>
-      <addStars>118</addStars>
+      <stars>31,399</stars>
+      <forks>4,841</forks>
+      <addStars>97</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/465606?s=40&amp;v=4</avatar>
@@ -267,8 +267,8 @@
       <guid>https://github.com/sst/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,205</stars>
-      <forks>1,819</forks>
+      <stars>25,281</stars>
+      <forks>1,826</forks>
       <addStars>115</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>40,586</stars>
-      <forks>5,900</forks>
+      <stars>40,657</stars>
+      <forks>5,911</forks>
       <addStars>345</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/ZuodaoTech/everyone-can-use-english</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>30,625</stars>
-      <forks>4,362</forks>
+      <stars>30,663</stars>
+      <forks>4,369</forks>
       <addStars>260</addStars>
       <contributors>
         <contributor>
@@ -381,8 +381,8 @@
       <guid>https://github.com/frappe/erpnext</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>28,902</stars>
-      <forks>9,421</forks>
+      <stars>28,940</stars>
+      <forks>9,431</forks>
       <addStars>250</addStars>
       <contributors>
         <contributor>
@@ -419,8 +419,8 @@
       <guid>https://github.com/basecamp/omarchy</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>11,447</stars>
-      <forks>1,093</forks>
+      <stars>11,554</stars>
+      <forks>1,100</forks>
       <addStars>386</addStars>
       <contributors>
         <contributor>
@@ -457,8 +457,8 @@
       <guid>https://github.com/jellyfin/jellyfin</guid>
       <language>C#</language>
       <languageColor>#178600</languageColor>
-      <stars>43,938</stars>
-      <forks>3,946</forks>
+      <stars>43,976</stars>
+      <forks>3,953</forks>
       <addStars>127</addStars>
       <contributors>
         <contributor>
@@ -495,8 +495,8 @@
       <guid>https://github.com/rapid7/metasploit-framework</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>36,487</stars>
-      <forks>14,537</forks>
+      <stars>36,519</stars>
+      <forks>14,540</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>
@@ -533,8 +533,8 @@
       <guid>https://github.com/onyx-dot-app/onyx</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,511</stars>
-      <forks>1,964</forks>
+      <stars>14,583</stars>
+      <forks>1,974</forks>
       <addStars>306</addStars>
       <contributors>
         <contributor>
@@ -571,9 +571,9 @@
       <guid>https://github.com/yt-dlp/yt-dlp</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>128,507</stars>
-      <forks>10,295</forks>
-      <addStars>200</addStars>
+      <stars>128,608</stars>
+      <forks>10,305</forks>
+      <addStars>296</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1908898?s=40&amp;v=4</avatar>
@@ -609,8 +609,8 @@
       <guid>https://github.com/microsoft/ai-agents-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>40,053</stars>
-      <forks>13,090</forks>
+      <stars>40,191</stars>
+      <forks>13,114</forks>
       <addStars>235</addStars>
       <contributors>
         <contributor>

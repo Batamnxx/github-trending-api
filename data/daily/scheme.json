@@ -2,7 +2,7 @@
   "title": "GitHub Scheme Languages Daily Trending",
   "description": "Daily Trending of Scheme Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 28 Sep 2025 13:21:14 GMT",
+  "pubDate": "Sun, 28 Sep 2025 19:16:30 GMT",
   "items": [
     {
       "title": "6cdh/tree-sitter-scheme",
@@ -49,7 +49,7 @@
       "languageColor": "#1e4aec",
       "stars": "55",
       "forks": "8",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1295229?s=40&v=4",

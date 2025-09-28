@@ -3,7 +3,7 @@
     <title>GitHub Scheme Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Scheme Languages in GitHub</description>
-    <pubDate>Sat, 27 Sep 2025 19:16:18 GMT</pubDate>
+    <pubDate>Sun, 28 Sep 2025 02:42:11 GMT</pubDate>
     <item>
       <title>6cdh/tree-sitter-scheme</title>
       <link>https://github.com/6cdh/tree-sitter-scheme</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/gdamore/tree-sitter-d</guid>
       <language>Scheme</language>
       <languageColor>#1e4aec</languageColor>
-      <stars>54</stars>
+      <stars>55</stars>
       <forks>8</forks>
       <addStars>0</addStars>
       <contributors>

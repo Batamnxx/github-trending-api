@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Monthly Trending",
   "description": "Monthly Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 28 Sep 2025 02:42:11 GMT",
+  "pubDate": "Sun, 28 Sep 2025 07:18:50 GMT",
   "items": [
     {
       "title": "sbabic/meta-swupdate",
@@ -307,7 +307,7 @@
       "language": "BitBake",
       "languageColor": "#00bce4",
       "stars": "119",
-      "forks": "534",
+      "forks": "535",
       "addStars": "2",
       "contributors": [
         {

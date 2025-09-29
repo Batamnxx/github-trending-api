@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Weekly Trending",
   "description": "Weekly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 29 Sep 2025 02:38:06 GMT",
+  "pubDate": "Mon, 29 Sep 2025 07:23:50 GMT",
   "items": [
     {
       "title": "hadley/r4ds",
@@ -688,7 +688,7 @@
       "description": "Simple Features for R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "1,395",
+      "stars": "1,396",
       "forks": "300",
       "addStars": "1",
       "contributors": [

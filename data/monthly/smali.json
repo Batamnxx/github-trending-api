@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Monthly Trending",
   "description": "Monthly Trending of Smali Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 29 Sep 2025 13:29:08 GMT",
+  "pubDate": "Mon, 29 Sep 2025 19:18:51 GMT",
   "items": [
     {
       "title": "AhMyth/AhMyth-Android-RAT",
@@ -116,7 +116,7 @@
       "description": "Source Code for Bluecord",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "285",
+      "stars": "286",
       "forks": "20",
       "addStars": "13",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Monthly Trending",
   "description": "Monthly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 29 Sep 2025 13:29:08 GMT",
+  "pubDate": "Mon, 29 Sep 2025 19:18:51 GMT",
   "items": [
     {
       "title": "leanprover-community/mathlib4",
@@ -47,7 +47,7 @@
       "description": "A Lean library for Computer Science",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "126",
+      "stars": "127",
       "forks": "20",
       "addStars": "27",
       "contributors": [
@@ -159,7 +159,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "6,480",
-      "forks": "669",
+      "forks": "670",
       "addStars": "201",
       "contributors": [
         {
@@ -269,7 +269,7 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "628",
+      "stars": "629",
       "forks": "80",
       "addStars": "28",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Monthly Trending",
   "description": "Monthly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 29 Sep 2025 13:29:08 GMT",
+  "pubDate": "Mon, 29 Sep 2025 19:18:51 GMT",
   "items": [
     {
       "title": "pages-themes/architect",
@@ -79,7 +79,7 @@
       "description": "Badges for your personal developer branding, profile, and projects.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "15,580",
+      "stars": "15,583",
       "forks": "1,756",
       "addStars": "195",
       "contributors": [
@@ -195,11 +195,6 @@
       "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12633088?s=40&v=4",
-          "name": "C3POdoo",
-          "url": "https://github.com/C3POdoo"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/80679690?s=40&v=4",
           "name": "Brieuc-brd",
           "url": "https://github.com/Brieuc-brd"
@@ -218,6 +213,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/80678921?s=40&v=4",
           "name": "xlu-odoo",
           "url": "https://github.com/xlu-odoo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110090660?s=40&v=4",
+          "name": "anso-odoo",
+          "url": "https://github.com/anso-odoo"
         }
       ]
     },
@@ -434,8 +434,8 @@
       "description": "⚡️ A minimal portfolio template for Developers",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "13,983",
-      "forks": "6,002",
+      "stars": "13,982",
+      "forks": "6,000",
       "addStars": "75",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "AcadHomepage: A Modern and Responsive Academic Personal Homepage",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "2,278",
-      "forks": "4,624",
+      "stars": "2,279",
+      "forks": "4,625",
       "addStars": "62",
       "contributors": [
         {

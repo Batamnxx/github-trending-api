@@ -3,7 +3,7 @@
     <title>GitHub Smarty Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Smarty Languages in GitHub</description>
-    <pubDate>Tue, 30 Sep 2025 07:22:54 GMT</pubDate>
+    <pubDate>Tue, 30 Sep 2025 13:29:15 GMT</pubDate>
     <item>
       <title>bitnami/charts</title>
       <link>https://github.com/bitnami/charts</link>
@@ -12,7 +12,7 @@
       <language>Smarty</language>
       <languageColor>#f0c040</languageColor>
       <stars>10,044</stars>
-      <forks>10,207</forks>
+      <forks>10,213</forks>
       <addStars>149</addStars>
       <contributors>
         <contributor>
@@ -39,148 +39,6 @@
           <avatar>https://avatars.githubusercontent.com/u/23502572?s=40&amp;v=4</avatar>
           <name>fmulero</name>
           <url>https://github.com/fmulero</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>cloudnative-pg/charts</title>
-      <link>https://github.com/cloudnative-pg/charts</link>
-      <description>CloudNativePG Helm Charts</description>
-      <guid>https://github.com/cloudnative-pg/charts</guid>
-      <language>Smarty</language>
-      <languageColor>#f0c040</languageColor>
-      <stars>388</stars>
-      <forks>167</forks>
-      <addStars>29</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2123767?s=40&amp;v=4</avatar>
-          <name>itay-grudev</name>
-          <url>https://github.com/itay-grudev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5697904?s=40&amp;v=4</avatar>
-          <name>phisco</name>
-          <url>https://github.com/phisco</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/908247?s=40&amp;v=4</avatar>
-          <name>sxd</name>
-          <url>https://github.com/sxd</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>wiz-sec/charts</title>
-      <link>https://github.com/wiz-sec/charts</link>
-      <description/>
-      <guid>https://github.com/wiz-sec/charts</guid>
-      <language>Smarty</language>
-      <languageColor>#f0c040</languageColor>
-      <stars>52</stars>
-      <forks>66</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/122028115?s=40&amp;v=4</avatar>
-          <name>circleci-wiz</name>
-          <url>https://github.com/circleci-wiz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12391811?s=40&amp;v=4</avatar>
-          <name>barmagnezi</name>
-          <url>https://github.com/barmagnezi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1383193?s=40&amp;v=4</avatar>
-          <name>r-darwish</name>
-          <url>https://github.com/r-darwish</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5991621?s=40&amp;v=4</avatar>
-          <name>yarinm</name>
-          <url>https://github.com/yarinm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/71496861?s=40&amp;v=4</avatar>
-          <name>nitzanzuler</name>
-          <url>https://github.com/nitzanzuler</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>PrestaShop/hummingbird</title>
-      <link>https://github.com/PrestaShop/hummingbird</link>
-      <description/>
-      <guid>https://github.com/PrestaShop/hummingbird</guid>
-      <language>Smarty</language>
-      <languageColor>#f0c040</languageColor>
-      <stars>106</stars>
-      <forks>107</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/85633460?s=40&amp;v=4</avatar>
-          <name>mparvazi</name>
-          <url>https://github.com/mparvazi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6097524?s=40&amp;v=4</avatar>
-          <name>Hlavtox</name>
-          <url>https://github.com/Hlavtox</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/110676325?s=40&amp;v=4</avatar>
-          <name>tblivet</name>
-          <url>https://github.com/tblivet</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10741347?s=40&amp;v=4</avatar>
-          <name>rodriciru</name>
-          <url>https://github.com/rodriciru</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48727835?s=40&amp;v=4</avatar>
-          <name>JBLach</name>
-          <url>https://github.com/JBLach</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>supabase-community/supabase-kubernetes</title>
-      <link>https://github.com/supabase-community/supabase-kubernetes</link>
-      <description>Helm 3 charts to deploy a Supabase on Kubernetes</description>
-      <guid>https://github.com/supabase-community/supabase-kubernetes</guid>
-      <language>Smarty</language>
-      <languageColor>#f0c040</languageColor>
-      <stars>629</stars>
-      <forks>217</forks>
-      <addStars>16</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9875549?s=40&amp;v=4</avatar>
-          <name>drpsyko101</name>
-          <url>https://github.com/drpsyko101</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/142996505?s=40&amp;v=4</avatar>
-          <name>luqman-visualt</name>
-          <url>https://github.com/luqman-visualt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13169892?s=40&amp;v=4</avatar>
-          <name>icrotz</name>
-          <url>https://github.com/icrotz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5149364?s=40&amp;v=4</avatar>
-          <name>milanvanschaik</name>
-          <url>https://github.com/milanvanschaik</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/824129?s=40&amp;v=4</avatar>
-          <name>arpagon</name>
-          <url>https://github.com/arpagon</url>
         </contributor>
       </contributors>
     </item>
@@ -223,6 +81,72 @@
       </contributors>
     </item>
     <item>
+      <title>cloudnative-pg/charts</title>
+      <link>https://github.com/cloudnative-pg/charts</link>
+      <description>CloudNativePG Helm Charts</description>
+      <guid>https://github.com/cloudnative-pg/charts</guid>
+      <language>Smarty</language>
+      <languageColor>#f0c040</languageColor>
+      <stars>389</stars>
+      <forks>167</forks>
+      <addStars>29</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2123767?s=40&amp;v=4</avatar>
+          <name>itay-grudev</name>
+          <url>https://github.com/itay-grudev</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5697904?s=40&amp;v=4</avatar>
+          <name>phisco</name>
+          <url>https://github.com/phisco</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/908247?s=40&amp;v=4</avatar>
+          <name>sxd</name>
+          <url>https://github.com/sxd</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>PrestaShop/hummingbird</title>
+      <link>https://github.com/PrestaShop/hummingbird</link>
+      <description/>
+      <guid>https://github.com/PrestaShop/hummingbird</guid>
+      <language>Smarty</language>
+      <languageColor>#f0c040</languageColor>
+      <stars>106</stars>
+      <forks>107</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/85633460?s=40&amp;v=4</avatar>
+          <name>mparvazi</name>
+          <url>https://github.com/mparvazi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6097524?s=40&amp;v=4</avatar>
+          <name>Hlavtox</name>
+          <url>https://github.com/Hlavtox</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/110676325?s=40&amp;v=4</avatar>
+          <name>tblivet</name>
+          <url>https://github.com/tblivet</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10741347?s=40&amp;v=4</avatar>
+          <name>rodriciru</name>
+          <url>https://github.com/rodriciru</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48727835?s=40&amp;v=4</avatar>
+          <name>JBLach</name>
+          <url>https://github.com/JBLach</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>open-telemetry/opentelemetry-helm-charts</title>
       <link>https://github.com/open-telemetry/opentelemetry-helm-charts</link>
       <description>OpenTelemetry Helm Charts</description>
@@ -252,6 +176,82 @@
           <avatar>https://avatars.githubusercontent.com/u/1296118?s=40&amp;v=4</avatar>
           <name>puckpuck</name>
           <url>https://github.com/puckpuck</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>supabase-community/supabase-kubernetes</title>
+      <link>https://github.com/supabase-community/supabase-kubernetes</link>
+      <description>Helm 3 charts to deploy a Supabase on Kubernetes</description>
+      <guid>https://github.com/supabase-community/supabase-kubernetes</guid>
+      <language>Smarty</language>
+      <languageColor>#f0c040</languageColor>
+      <stars>629</stars>
+      <forks>217</forks>
+      <addStars>16</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9875549?s=40&amp;v=4</avatar>
+          <name>drpsyko101</name>
+          <url>https://github.com/drpsyko101</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/142996505?s=40&amp;v=4</avatar>
+          <name>luqman-visualt</name>
+          <url>https://github.com/luqman-visualt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13169892?s=40&amp;v=4</avatar>
+          <name>icrotz</name>
+          <url>https://github.com/icrotz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5149364?s=40&amp;v=4</avatar>
+          <name>milanvanschaik</name>
+          <url>https://github.com/milanvanschaik</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/824129?s=40&amp;v=4</avatar>
+          <name>arpagon</name>
+          <url>https://github.com/arpagon</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>wiz-sec/charts</title>
+      <link>https://github.com/wiz-sec/charts</link>
+      <description/>
+      <guid>https://github.com/wiz-sec/charts</guid>
+      <language>Smarty</language>
+      <languageColor>#f0c040</languageColor>
+      <stars>52</stars>
+      <forks>66</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/122028115?s=40&amp;v=4</avatar>
+          <name>circleci-wiz</name>
+          <url>https://github.com/circleci-wiz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12391811?s=40&amp;v=4</avatar>
+          <name>barmagnezi</name>
+          <url>https://github.com/barmagnezi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1383193?s=40&amp;v=4</avatar>
+          <name>r-darwish</name>
+          <url>https://github.com/r-darwish</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5991621?s=40&amp;v=4</avatar>
+          <name>yarinm</name>
+          <url>https://github.com/yarinm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/71496861?s=40&amp;v=4</avatar>
+          <name>nitzanzuler</name>
+          <url>https://github.com/nitzanzuler</url>
         </contributor>
       </contributors>
     </item>
@@ -294,30 +294,73 @@
       </contributors>
     </item>
     <item>
-      <title>grafana/k8s-monitoring-helm</title>
-      <link>https://github.com/grafana/k8s-monitoring-helm</link>
+      <title>mongodb/helm-charts</title>
+      <link>https://github.com/mongodb/helm-charts</link>
       <description/>
-      <guid>https://github.com/grafana/k8s-monitoring-helm</guid>
+      <guid>https://github.com/mongodb/helm-charts</guid>
       <language>Smarty</language>
       <languageColor>#f0c040</languageColor>
-      <stars>523</stars>
-      <forks>177</forks>
-      <addStars>34</addStars>
+      <stars>116</stars>
+      <forks>99</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2235675?s=40&amp;v=4</avatar>
-          <name>petewall</name>
-          <url>https://github.com/petewall</url>
+          <avatar>https://avatars.githubusercontent.com/u/2648502?s=40&amp;v=4</avatar>
+          <name>theburi</name>
+          <url>https://github.com/theburi</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/364801?s=40&amp;v=4</avatar>
-          <name>rlankfo</name>
-          <url>https://github.com/rlankfo</url>
+          <avatar>https://avatars.githubusercontent.com/u/1688827?s=40&amp;v=4</avatar>
+          <name>igor-karpukhin</name>
+          <url>https://github.com/igor-karpukhin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/514343?s=40&amp;v=4</avatar>
-          <name>skl</name>
-          <url>https://github.com/skl</url>
+          <avatar>https://avatars.githubusercontent.com/u/514554?s=40&amp;v=4</avatar>
+          <name>josvazg</name>
+          <url>https://github.com/josvazg</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/124291?s=40&amp;v=4</avatar>
+          <name>rodrigovalin</name>
+          <url>https://github.com/rodrigovalin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9195866?s=40&amp;v=4</avatar>
+          <name>mircea-cosbuc</name>
+          <url>https://github.com/mircea-cosbuc</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>SonarSource/helm-chart-sonarqube</title>
+      <link>https://github.com/SonarSource/helm-chart-sonarqube</link>
+      <description/>
+      <guid>https://github.com/SonarSource/helm-chart-sonarqube</guid>
+      <language>Smarty</language>
+      <languageColor>#f0c040</languageColor>
+      <stars>277</stars>
+      <forks>402</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23573650?s=40&amp;v=4</avatar>
+          <name>carminevassallo</name>
+          <url>https://github.com/carminevassallo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5437784?s=40&amp;v=4</avatar>
+          <name>rjkernick</name>
+          <url>https://github.com/rjkernick</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64127335?s=40&amp;v=4</avatar>
+          <name>tobias-trabelsi-sonarsource</name>
+          <url>https://github.com/tobias-trabelsi-sonarsource</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16203605?s=40&amp;v=4</avatar>
+          <name>jCOTINEAU</name>
+          <url>https://github.com/jCOTINEAU</url>
         </contributor>
       </contributors>
     </item>
@@ -360,35 +403,30 @@
       </contributors>
     </item>
     <item>
-      <title>SonarSource/helm-chart-sonarqube</title>
-      <link>https://github.com/SonarSource/helm-chart-sonarqube</link>
+      <title>grafana/k8s-monitoring-helm</title>
+      <link>https://github.com/grafana/k8s-monitoring-helm</link>
       <description/>
-      <guid>https://github.com/SonarSource/helm-chart-sonarqube</guid>
+      <guid>https://github.com/grafana/k8s-monitoring-helm</guid>
       <language>Smarty</language>
       <languageColor>#f0c040</languageColor>
-      <stars>277</stars>
-      <forks>402</forks>
-      <addStars>6</addStars>
+      <stars>523</stars>
+      <forks>178</forks>
+      <addStars>34</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23573650?s=40&amp;v=4</avatar>
-          <name>carminevassallo</name>
-          <url>https://github.com/carminevassallo</url>
+          <avatar>https://avatars.githubusercontent.com/u/2235675?s=40&amp;v=4</avatar>
+          <name>petewall</name>
+          <url>https://github.com/petewall</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5437784?s=40&amp;v=4</avatar>
-          <name>rjkernick</name>
-          <url>https://github.com/rjkernick</url>
+          <avatar>https://avatars.githubusercontent.com/u/364801?s=40&amp;v=4</avatar>
+          <name>rlankfo</name>
+          <url>https://github.com/rlankfo</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64127335?s=40&amp;v=4</avatar>
-          <name>tobias-trabelsi-sonarsource</name>
-          <url>https://github.com/tobias-trabelsi-sonarsource</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16203605?s=40&amp;v=4</avatar>
-          <name>jCOTINEAU</name>
-          <url>https://github.com/jCOTINEAU</url>
+          <avatar>https://avatars.githubusercontent.com/u/514343?s=40&amp;v=4</avatar>
+          <name>skl</name>
+          <url>https://github.com/skl</url>
         </contributor>
       </contributors>
     </item>
@@ -400,7 +438,7 @@
       <language>Smarty</language>
       <languageColor>#f0c040</languageColor>
       <stars>161</stars>
-      <forks>105</forks>
+      <forks>106</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -422,44 +460,6 @@
           <avatar>https://avatars.githubusercontent.com/u/41211?s=40&amp;v=4</avatar>
           <name>deejay1</name>
           <url>https://github.com/deejay1</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>mongodb/helm-charts</title>
-      <link>https://github.com/mongodb/helm-charts</link>
-      <description/>
-      <guid>https://github.com/mongodb/helm-charts</guid>
-      <language>Smarty</language>
-      <languageColor>#f0c040</languageColor>
-      <stars>116</stars>
-      <forks>99</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2648502?s=40&amp;v=4</avatar>
-          <name>theburi</name>
-          <url>https://github.com/theburi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1688827?s=40&amp;v=4</avatar>
-          <name>igor-karpukhin</name>
-          <url>https://github.com/igor-karpukhin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/514554?s=40&amp;v=4</avatar>
-          <name>josvazg</name>
-          <url>https://github.com/josvazg</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/124291?s=40&amp;v=4</avatar>
-          <name>rodrigovalin</name>
-          <url>https://github.com/rodrigovalin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9195866?s=40&amp;v=4</avatar>
-          <name>mircea-cosbuc</name>
-          <url>https://github.com/mircea-cosbuc</url>
         </contributor>
       </contributors>
     </item>

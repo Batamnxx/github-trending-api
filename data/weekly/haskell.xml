@@ -3,7 +3,40 @@
     <title>GitHub Haskell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Haskell Languages in GitHub</description>
-    <pubDate>Tue, 30 Sep 2025 07:22:54 GMT</pubDate>
+    <pubDate>Tue, 30 Sep 2025 13:29:15 GMT</pubDate>
+    <item>
+      <title>hadolint/hadolint</title>
+      <link>https://github.com/hadolint/hadolint</link>
+      <description>Dockerfile linter, validate inline bash, written in Haskell</description>
+      <guid>https://github.com/hadolint/hadolint</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>11,548</stars>
+      <forks>475</forks>
+      <addStars>27</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37621?s=40&amp;v=4</avatar>
+          <name>lorenzo</name>
+          <url>https://github.com/lorenzo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1288339?s=40&amp;v=4</avatar>
+          <name>lukasmartinelli</name>
+          <url>https://github.com/lukasmartinelli</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17141774?s=40&amp;v=4</avatar>
+          <name>m-ildefons</name>
+          <url>https://github.com/m-ildefons</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18702153?s=40&amp;v=4</avatar>
+          <name>zemanlx</name>
+          <url>https://github.com/zemanlx</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>jgm/pandoc</title>
       <link>https://github.com/jgm/pandoc</link>
@@ -11,8 +44,8 @@
       <guid>https://github.com/jgm/pandoc</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>39,444</stars>
-      <forks>3,641</forks>
+      <stars>39,447</stars>
+      <forks>3,640</forks>
       <addStars>109</addStars>
       <contributors>
         <contributor>
@@ -39,39 +72,6 @@
           <avatar>https://avatars.githubusercontent.com/u/157497?s=40&amp;v=4</avatar>
           <name>mb21</name>
           <url>https://github.com/mb21</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>hadolint/hadolint</title>
-      <link>https://github.com/hadolint/hadolint</link>
-      <description>Dockerfile linter, validate inline bash, written in Haskell</description>
-      <guid>https://github.com/hadolint/hadolint</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>11,547</stars>
-      <forks>475</forks>
-      <addStars>27</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37621?s=40&amp;v=4</avatar>
-          <name>lorenzo</name>
-          <url>https://github.com/lorenzo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1288339?s=40&amp;v=4</avatar>
-          <name>lukasmartinelli</name>
-          <url>https://github.com/lukasmartinelli</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17141774?s=40&amp;v=4</avatar>
-          <name>m-ildefons</name>
-          <url>https://github.com/m-ildefons</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18702153?s=40&amp;v=4</avatar>
-          <name>zemanlx</name>
-          <url>https://github.com/zemanlx</url>
         </contributor>
       </contributors>
     </item>
@@ -114,6 +114,39 @@
       </contributors>
     </item>
     <item>
+      <title>IntersectMBO/cardano-node</title>
+      <link>https://github.com/IntersectMBO/cardano-node</link>
+      <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
+      <guid>https://github.com/IntersectMBO/cardano-node</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>3,167</stars>
+      <forks>740</forks>
+      <addStars>16</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9418537?s=40&amp;v=4</avatar>
+          <name>Jimbo4350</name>
+          <url>https://github.com/Jimbo4350</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63014?s=40&amp;v=4</avatar>
+          <name>newhoggy</name>
+          <url>https://github.com/newhoggy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
+          <name>dcoutts</name>
+          <url>https://github.com/dcoutts</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/452652?s=40&amp;v=4</avatar>
+          <name>deepfire</name>
+          <url>https://github.com/deepfire</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>kmonad/kmonad</title>
       <link>https://github.com/kmonad/kmonad</link>
       <description>An advanced keyboard manager</description>
@@ -148,39 +181,6 @@
           <avatar>https://avatars.githubusercontent.com/u/7275622?s=40&amp;v=4</avatar>
           <name>lierdakil</name>
           <url>https://github.com/lierdakil</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>IntersectMBO/cardano-node</title>
-      <link>https://github.com/IntersectMBO/cardano-node</link>
-      <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
-      <guid>https://github.com/IntersectMBO/cardano-node</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>3,162</stars>
-      <forks>740</forks>
-      <addStars>16</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9418537?s=40&amp;v=4</avatar>
-          <name>Jimbo4350</name>
-          <url>https://github.com/Jimbo4350</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63014?s=40&amp;v=4</avatar>
-          <name>newhoggy</name>
-          <url>https://github.com/newhoggy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
-          <name>dcoutts</name>
-          <url>https://github.com/dcoutts</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/452652?s=40&amp;v=4</avatar>
-          <name>deepfire</name>
-          <url>https://github.com/deepfire</url>
         </contributor>
       </contributors>
     </item>
@@ -229,7 +229,7 @@
       <guid>https://github.com/simplex-chat/simplex-chat</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>9,614</stars>
+      <stars>9,619</stars>
       <forks>502</forks>
       <addStars>43</addStars>
       <contributors>
@@ -257,6 +257,44 @@
           <avatar>https://avatars.githubusercontent.com/u/37271604?s=40&amp;v=4</avatar>
           <name>shumvgolove</name>
           <url>https://github.com/shumvgolove</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>NixOS/nixfmt</title>
+      <link>https://github.com/NixOS/nixfmt</link>
+      <description>The official formatter for Nix code</description>
+      <guid>https://github.com/NixOS/nixfmt</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>1,305</stars>
+      <forks>60</forks>
+      <addStars>12</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14054505?s=40&amp;v=4</avatar>
+          <name>piegamesde</name>
+          <url>https://github.com/piegamesde</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20525370?s=40&amp;v=4</avatar>
+          <name>infinisil</name>
+          <url>https://github.com/infinisil</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2487922?s=40&amp;v=4</avatar>
+          <name>Lucus16</name>
+          <url>https://github.com/Lucus16</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/647076?s=40&amp;v=4</avatar>
+          <name>yorickvP</name>
+          <url>https://github.com/yorickvP</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/451835?s=40&amp;v=4</avatar>
+          <name>kirelagin</name>
+          <url>https://github.com/kirelagin</url>
         </contributor>
       </contributors>
     </item>

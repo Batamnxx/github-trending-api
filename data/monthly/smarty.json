@@ -2,7 +2,7 @@
   "title": "GitHub Smarty Languages Monthly Trending",
   "description": "Monthly Trending of Smarty Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 30 Sep 2025 02:23:08 GMT",
+  "pubDate": "Tue, 30 Sep 2025 07:22:54 GMT",
   "items": [
     {
       "title": "bitnami/charts",
@@ -10,7 +10,7 @@
       "description": "Bitnami Helm Charts",
       "language": "Smarty",
       "languageColor": "#f0c040",
-      "stars": "10,043",
+      "stars": "10,044",
       "forks": "10,207",
       "addStars": "149",
       "contributors": [
@@ -75,7 +75,7 @@
       "language": "Smarty",
       "languageColor": "#f0c040",
       "stars": "52",
-      "forks": "65",
+      "forks": "66",
       "addStars": "3",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "This is the companion repo for the DevOps Directive \"Kubernetes: Beginner to Pro\" course!",
       "language": "Smarty",
       "languageColor": "#f0c040",
-      "stars": "1,534",
-      "forks": "642",
+      "stars": "1,535",
+      "forks": "643",
       "addStars": "71",
       "contributors": [
         {
@@ -254,7 +254,7 @@
       "description": "A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes",
       "language": "Smarty",
       "languageColor": "#f0c040",
-      "stars": "536",
+      "stars": "537",
       "forks": "195",
       "addStars": "37",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "",
       "language": "Smarty",
       "languageColor": "#f0c040",
-      "stars": "522",
+      "stars": "523",
       "forks": "177",
       "addStars": "34",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "",
       "language": "Smarty",
       "languageColor": "#f0c040",
-      "stars": "1,883",
+      "stars": "1,884",
       "forks": "2,393",
       "addStars": "20",
       "contributors": [

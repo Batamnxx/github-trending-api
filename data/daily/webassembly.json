@@ -2,7 +2,7 @@
   "title": "GitHub Webassembly Languages Daily Trending",
   "description": "Daily Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 30 Sep 2025 13:29:15 GMT",
+  "pubDate": "Tue, 30 Sep 2025 19:17:59 GMT",
   "items": [
     {
       "title": "WebAssembly/binaryen",
@@ -10,7 +10,7 @@
       "description": "Optimizer and compiler/toolchain library for WebAssembly",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": "8,115",
+      "stars": "8,116",
       "forks": "811",
       "addStars": "3",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "WebAssembly specification, reference interpreter, and test suite.",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": "3,288",
-      "forks": "483",
+      "stars": "3,289",
+      "forks": "484",
       "addStars": "1",
       "contributors": [
         {

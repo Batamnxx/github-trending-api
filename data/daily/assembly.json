@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 30 Sep 2025 13:29:15 GMT",
+  "pubDate": "Tue, 30 Sep 2025 19:17:59 GMT",
   "items": [
     {
       "title": "chrislgarry/Apollo-11",
@@ -10,8 +10,8 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "63,430",
-      "forks": "7,318",
+      "stars": "63,434",
+      "forks": "7,319",
       "addStars": "32",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "2,962",
+      "stars": "2,963",
       "forks": "92",
       "addStars": "2",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "2,626",
+      "stars": "2,627",
       "forks": "831",
       "addStars": "1",
       "contributors": [
@@ -477,7 +477,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "2,291",
-      "forks": "882",
+      "forks": "883",
       "addStars": "1",
       "contributors": [
         {
@@ -550,7 +550,7 @@
       "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "11,510",
+      "stars": "11,509",
       "forks": "2,014",
       "addStars": "1",
       "contributors": [

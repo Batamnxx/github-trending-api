@@ -2,7 +2,7 @@
   "title": "GitHub Luau Languages Monthly Trending",
   "description": "Monthly Trending of Luau Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 30 Sep 2025 13:29:15 GMT",
+  "pubDate": "Tue, 30 Sep 2025 19:17:59 GMT",
   "items": [
     {
       "title": "Epix-Incorporated/Adonis",
@@ -74,7 +74,7 @@
       "description": "Rojo enables Roblox developers to use professional-grade software engineering tools",
       "language": "Luau",
       "languageColor": "#00A2FF",
-      "stars": "1,252",
+      "stars": "1,253",
       "forks": "220",
       "addStars": "37",
       "contributors": [

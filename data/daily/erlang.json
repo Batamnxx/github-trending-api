@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 02 Oct 2025 13:26:19 GMT",
+  "pubDate": "Thu, 02 Oct 2025 19:17:18 GMT",
   "items": [
     {
       "title": "erlang/otp",
@@ -454,7 +454,7 @@
       "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "6,684",
+      "stars": "6,685",
       "forks": "1,054",
       "addStars": "1",
       "contributors": [

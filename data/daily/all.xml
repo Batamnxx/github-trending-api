@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 02 Oct 2025 02:22:18 GMT</pubDate>
+    <pubDate>Thu, 02 Oct 2025 07:21:19 GMT</pubDate>
     <item>
       <title>harry0703/MoneyPrinterTurbo</title>
       <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,978</stars>
-      <forks>6,310</forks>
+      <stars>45,190</stars>
+      <forks>6,334</forks>
       <addStars>1,355</addStars>
       <contributors>
         <contributor>
@@ -43,14 +43,52 @@
       </contributors>
     </item>
     <item>
+      <title>tile-ai/tilelang</title>
+      <link>https://github.com/tile-ai/tilelang</link>
+      <description>Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels</description>
+      <guid>https://github.com/tile-ai/tilelang</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>2,896</stars>
+      <forks>213</forks>
+      <addStars>407</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34334180?s=40&amp;v=4</avatar>
+          <name>LeiWang1999</name>
+          <url>https://github.com/LeiWang1999</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54519279?s=40&amp;v=4</avatar>
+          <name>chengyupku</name>
+          <url>https://github.com/chengyupku</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/132904306?s=40&amp;v=4</avatar>
+          <name>xwhzz</name>
+          <url>https://github.com/xwhzz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/97930865?s=40&amp;v=4</avatar>
+          <name>tzj-fxz</name>
+          <url>https://github.com/tzj-fxz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/134183314?s=40&amp;v=4</avatar>
+          <name>yyttt6</name>
+          <url>https://github.com/yyttt6</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>Done-0/fuck-u-code</title>
       <link>https://github.com/Done-0/fuck-u-code</link>
       <description>Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告</description>
       <guid>https://github.com/Done-0/fuck-u-code</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,678</stars>
-      <forks>229</forks>
+      <stars>4,718</stars>
+      <forks>233</forks>
       <addStars>156</addStars>
       <contributors>
         <contributor>
@@ -87,8 +125,8 @@
       <guid>https://github.com/anthropics/claude-agent-sdk-python</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,824</stars>
-      <forks>239</forks>
+      <stars>1,862</stars>
+      <forks>240</forks>
       <addStars>298</addStars>
       <contributors>
         <contributor>
@@ -120,8 +158,8 @@
       <guid>https://github.com/lobehub/lobe-chat</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>66,285</stars>
-      <forks>13,732</forks>
+      <stars>66,344</stars>
+      <forks>13,738</forks>
       <addStars>85</addStars>
       <contributors>
         <contributor>
@@ -153,8 +191,8 @@
       <guid>https://github.com/nextcloud/server</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>31,668</stars>
-      <forks>4,483</forks>
+      <stars>31,715</stars>
+      <forks>4,487</forks>
       <addStars>653</addStars>
       <contributors>
         <contributor>
@@ -191,8 +229,8 @@
       <guid>https://github.com/github/awesome-copilot</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>8,763</stars>
-      <forks>997</forks>
+      <stars>8,827</stars>
+      <forks>1,000</forks>
       <addStars>135</addStars>
       <contributors>
         <contributor>
@@ -224,7 +262,7 @@
       <guid>https://github.com/SDWebImage/SDWebImage</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>25,664</stars>
+      <stars>25,670</stars>
       <forks>5,995</forks>
       <addStars>77</addStars>
       <contributors>
@@ -262,8 +300,8 @@
       <guid>https://github.com/mlabonne/llm-course</guid>
       <language/>
       <languageColor/>
-      <stars>64,045</stars>
-      <forks>7,077</forks>
+      <stars>64,095</stars>
+      <forks>7,086</forks>
       <addStars>278</addStars>
       <contributors>
         <contributor>
@@ -285,7 +323,7 @@
       <guid>https://github.com/aquasecurity/trivy</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>29,205</stars>
+      <stars>29,227</stars>
       <forks>2,761</forks>
       <addStars>37</addStars>
       <contributors>
@@ -318,8 +356,8 @@
       <guid>https://github.com/lukas-blecher/LaTeX-OCR</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,499</stars>
-      <forks>1,243</forks>
+      <stars>15,547</stars>
+      <forks>1,244</forks>
       <addStars>34</addStars>
       <contributors>
         <contributor>
@@ -356,7 +394,7 @@
       <guid>https://github.com/PHPMailer/PHPMailer</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>21,808</stars>
+      <stars>21,821</stars>
       <forks>9,870</forks>
       <addStars>18</addStars>
       <contributors>
@@ -389,8 +427,8 @@
       <guid>https://github.com/commaai/openpilot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>58,103</stars>
-      <forks>10,279</forks>
+      <stars>58,140</stars>
+      <forks>10,282</forks>
       <addStars>165</addStars>
       <contributors>
         <contributor>
@@ -427,8 +465,8 @@
       <guid>https://github.com/microsoft/ai-agents-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>41,461</stars>
-      <forks>13,402</forks>
+      <stars>41,508</stars>
+      <forks>13,417</forks>
       <addStars>268</addStars>
       <contributors>
         <contributor>
@@ -465,8 +503,8 @@
       <guid>https://github.com/YILING0013/AI_NovelGenerator</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,204</stars>
-      <forks>446</forks>
+      <stars>2,261</stars>
+      <forks>452</forks>
       <addStars>131</addStars>
       <contributors>
         <contributor>
@@ -503,8 +541,8 @@
       <guid>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
       <language/>
       <languageColor/>
-      <stars>89,271</stars>
-      <forks>24,356</forks>
+      <stars>89,324</stars>
+      <forks>24,365</forks>
       <addStars>261</addStars>
       <contributors>
         <contributor>

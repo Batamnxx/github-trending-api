@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 02 Oct 2025 02:22:18 GMT",
+  "pubDate": "Thu, 02 Oct 2025 07:21:19 GMT",
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
@@ -10,8 +10,8 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,978",
-      "forks": "6,310",
+      "stars": "45,190",
+      "forks": "6,334",
       "addStars": "4,600",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,289",
-      "forks": "400",
+      "stars": "5,312",
+      "forks": "402",
       "addStars": "2,590",
       "contributors": [
         {
@@ -62,6 +62,11 @@
           "url": "https://github.com/balanceiskey"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/18430555?s=40&v=4",
+          "name": "K-Mistele",
+          "url": "https://github.com/K-Mistele"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/217395086?s=40&v=4",
           "name": "samdickson22",
           "url": "https://github.com/samdickson22"
@@ -70,11 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20910163?s=40&v=4",
-          "name": "allisoneer",
-          "url": "https://github.com/allisoneer"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,230",
+      "stars": "7,239",
       "forks": "580",
       "addStars": "929",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,507",
-      "forks": "1,246",
+      "stars": "11,512",
+      "forks": "1,247",
       "addStars": "340",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,702",
+      "stars": "12,712",
       "forks": "1,845",
       "addStars": "631",
       "contributors": [
@@ -180,8 +180,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,824",
-      "forks": "239",
+      "stars": "1,862",
+      "forks": "240",
       "addStars": "592",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "A payments protocol for the internet. Built on HTTP.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,841",
+      "stars": "1,847",
       "forks": "289",
       "addStars": "643",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,835",
+      "stars": "2,839",
       "forks": "86",
       "addStars": "1,409",
       "contributors": [
@@ -286,8 +286,8 @@
       "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "13,518",
-      "forks": "1,029",
+      "stars": "13,524",
+      "forks": "1,030",
       "addStars": "528",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "86,147",
+      "stars": "86,153",
       "forks": "8,428",
       "addStars": "1,552",
       "contributors": [
@@ -350,13 +350,50 @@
       ]
     },
     {
+      "title": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "2,896",
+      "forks": "213",
+      "addStars": "1,238",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34334180?s=40&v=4",
+          "name": "LeiWang1999",
+          "url": "https://github.com/LeiWang1999"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54519279?s=40&v=4",
+          "name": "chengyupku",
+          "url": "https://github.com/chengyupku"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/132904306?s=40&v=4",
+          "name": "xwhzz",
+          "url": "https://github.com/xwhzz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/97930865?s=40&v=4",
+          "name": "tzj-fxz",
+          "url": "https://github.com/tzj-fxz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/134183314?s=40&v=4",
+          "name": "yyttt6",
+          "url": "https://github.com/yyttt6"
+        }
+      ]
+    },
+    {
       "title": "kamranahmedse/developer-roadmap",
       "url": "https://github.com/kamranahmedse/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "339,251",
-      "forks": "43,011",
+      "stars": "339,271",
+      "forks": "43,013",
       "addStars": "1,973",
       "contributors": [
         {
@@ -382,8 +419,8 @@
       "description": "All Algorithms implemented in Python",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "209,742",
-      "forks": "48,297",
+      "stars": "209,756",
+      "forks": "48,309",
       "addStars": "1,390",
       "contributors": [
         {
@@ -414,8 +451,8 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,832",
-      "forks": "886",
+      "stars": "7,851",
+      "forks": "887",
       "addStars": "2,393",
       "contributors": [
         {
@@ -451,8 +488,8 @@
       "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,678",
-      "forks": "229",
+      "stars": "4,718",
+      "forks": "233",
       "addStars": "917",
       "contributors": [
         {
@@ -488,8 +525,8 @@
       "description": "☁️ Nextcloud server, a safe home for all your data",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "31,668",
-      "forks": "4,483",
+      "stars": "31,715",
+      "forks": "4,487",
       "addStars": "759",
       "contributors": [
         {
@@ -525,8 +562,8 @@
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "129,249",
-      "forks": "10,354",
+      "stars": "129,278",
+      "forks": "10,356",
       "addStars": "1,796",
       "contributors": [
         {
@@ -562,8 +599,8 @@
       "description": "Opinionated Arch/Hyprland Setup",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "12,135",
-      "forks": "1,151",
+      "stars": "12,147",
+      "forks": "1,152",
       "addStars": "2,481",
       "contributors": [
         {
@@ -599,8 +636,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,050",
-      "forks": "2,017",
+      "stars": "15,064",
+      "forks": "2,020",
       "addStars": "1,502",
       "contributors": [
         {
@@ -636,8 +673,8 @@
       "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,727",
-      "forks": "940",
+      "stars": "21,751",
+      "forks": "943",
       "addStars": "1,207",
       "contributors": [
         {
@@ -673,7 +710,7 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "74,916",
+      "stars": "74,923",
       "forks": "25,522",
       "addStars": "817",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Yaml Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Yaml Languages in GitHub</description>
-    <pubDate>Fri, 03 Oct 2025 13:25:37 GMT</pubDate>
+    <pubDate>Fri, 03 Oct 2025 19:17:22 GMT</pubDate>
     <item>
       <title>kubeflow/manifests</title>
       <link>https://github.com/kubeflow/manifests</link>
@@ -120,7 +120,7 @@
       <guid>https://github.com/onedr0p/home-ops</guid>
       <language>YAML</language>
       <languageColor>#cb171e</languageColor>
-      <stars>2,545</stars>
+      <stars>2,546</stars>
       <forks>211</forks>
       <addStars>1</addStars>
       <contributors>
@@ -285,7 +285,7 @@
       <guid>https://github.com/aquaproj/aqua-registry</guid>
       <language>YAML</language>
       <languageColor>#cb171e</languageColor>
-      <stars>220</stars>
+      <stars>221</stars>
       <forks>223</forks>
       <addStars>1</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub Plpgsql Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Plpgsql Languages in GitHub</description>
-    <pubDate>Fri, 03 Oct 2025 02:22:22 GMT</pubDate>
+    <pubDate>Fri, 03 Oct 2025 07:21:56 GMT</pubDate>
     <item>
       <title>pgmq/pgmq</title>
       <link>https://github.com/pgmq/pgmq</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/pgmq/pgmq</guid>
       <language>PLpgSQL</language>
       <languageColor>#336790</languageColor>
-      <stars>3,657</stars>
+      <stars>3,659</stars>
       <forks>107</forks>
       <addStars>105</addStars>
       <contributors>
@@ -187,7 +187,7 @@
       <language>PLpgSQL</language>
       <languageColor>#336790</languageColor>
       <stars>5,394</stars>
-      <forks>281</forks>
+      <forks>280</forks>
       <addStars>77</addStars>
       <contributors>
         <contributor>

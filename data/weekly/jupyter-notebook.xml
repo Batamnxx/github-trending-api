@@ -3,7 +3,7 @@
     <title>GitHub Jupyter-notebook Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Jupyter-notebook Languages in GitHub</description>
-    <pubDate>Thu, 02 Oct 2025 19:17:18 GMT</pubDate>
+    <pubDate>Fri, 03 Oct 2025 02:22:22 GMT</pubDate>
     <item>
       <title>QwenLM/Qwen3-VL</title>
       <link>https://github.com/QwenLM/Qwen3-VL</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/QwenLM/Qwen3-VL</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>13,537</stars>
+      <stars>13,544</stars>
       <forks>1,030</forks>
-      <addStars>528</addStars>
+      <addStars>384</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43326198?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/anthropics/claude-cookbooks</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>20,427</stars>
-      <forks>2,186</forks>
-      <addStars>215</addStars>
+      <stars>20,437</stars>
+      <forks>2,187</forks>
+      <addStars>235</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/346275?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/microsoft/ai-agents-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>41,599</stars>
-      <forks>13,460</forks>
-      <addStars>1,897</addStars>
+      <stars>41,620</stars>
+      <forks>13,468</forks>
+      <addStars>2,039</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4</avatar>
@@ -122,7 +122,7 @@
       <languageColor>#DA5B0B</languageColor>
       <stars>8,235</stars>
       <forks>1,848</forks>
-      <addStars>125</addStars>
+      <addStars>98</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110402648?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/rasbt/LLMs-from-scratch</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>74,204</stars>
-      <forks>10,814</forks>
-      <addStars>1,595</addStars>
+      <stars>74,226</stars>
+      <forks>10,818</forks>
+      <addStars>1,559</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5618407?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/openai/openai-cookbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>68,209</stars>
+      <stars>68,214</stars>
       <forks>11,381</forks>
-      <addStars>162</addStars>
+      <addStars>159</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/95656834?s=40&amp;v=4</avatar>
@@ -234,9 +234,9 @@
       <guid>https://github.com/microsoft/generative-ai-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>99,620</stars>
-      <forks>52,504</forks>
-      <addStars>741</addStars>
+      <stars>99,634</stars>
+      <forks>52,513</forks>
+      <addStars>692</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7462909?s=40&amp;v=4</avatar>
@@ -272,9 +272,9 @@
       <guid>https://github.com/pyannote/pyannote-audio</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>8,413</stars>
-      <forks>948</forks>
-      <addStars>70</addStars>
+      <stars>8,417</stars>
+      <forks>949</forks>
+      <addStars>68</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1080837?s=40&amp;v=4</avatar>
@@ -310,9 +310,9 @@
       <guid>https://github.com/jakevdp/PythonDataScienceHandbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>45,638</stars>
-      <forks>18,523</forks>
-      <addStars>99</addStars>
+      <stars>45,642</stars>
+      <forks>18,524</forks>
+      <addStars>102</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/781659?s=40&amp;v=4</avatar>
@@ -386,9 +386,9 @@
       <guid>https://github.com/google-gemini/cookbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>15,029</stars>
+      <stars>15,038</stars>
       <forks>2,147</forks>
-      <addStars>298</addStars>
+      <addStars>290</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3638972?s=40&amp;v=4</avatar>
@@ -426,7 +426,7 @@
       <languageColor>#DA5B0B</languageColor>
       <stars>10,317</stars>
       <forks>2,701</forks>
-      <addStars>13</addStars>
+      <addStars>16</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3491902?s=40&amp;v=4</avatar>
@@ -462,9 +462,9 @@
       <guid>https://github.com/microsoft/AI-For-Beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>42,854</stars>
-      <forks>8,308</forks>
-      <addStars>613</addStars>
+      <stars>42,867</stars>
+      <forks>8,309</forks>
+      <addStars>525</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4</avatar>
@@ -495,9 +495,9 @@
       <guid>https://github.com/ArcInstitute/evo2</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>3,121</stars>
+      <stars>3,122</stars>
       <forks>351</forks>
-      <addStars>26</addStars>
+      <addStars>25</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/38367003?s=40&amp;v=4</avatar>
@@ -535,7 +535,7 @@
       <languageColor>#DA5B0B</languageColor>
       <stars>7,847</stars>
       <forks>6,608</forks>
-      <addStars>11</addStars>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
@@ -566,9 +566,9 @@
       <guid>https://github.com/Arize-ai/phoenix</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>7,147</stars>
-      <forks>581</forks>
-      <addStars>83</addStars>
+      <stars>7,149</stars>
+      <forks>582</forks>
+      <addStars>86</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5640648?s=40&amp;v=4</avatar>
@@ -590,6 +590,11 @@
           <name>anticorrelator</name>
           <url>https://github.com/anticorrelator</url>
         </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8948924?s=40&amp;v=4</avatar>
+          <name>cephalization</name>
+          <url>https://github.com/cephalization</url>
+        </contributor>
       </contributors>
     </item>
     <item>
@@ -600,8 +605,8 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>29,008</stars>
-      <forks>87,274</forks>
-      <addStars>32</addStars>
+      <forks>87,275</forks>
+      <addStars>34</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16237870?s=40&amp;v=4</avatar>
@@ -627,9 +632,9 @@
       <guid>https://github.com/maxim5/cs229-2018-autumn</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>2,771</stars>
+      <stars>2,772</stars>
       <forks>1,015</forks>
-      <addStars>28</addStars>
+      <addStars>27</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2580604?s=40&amp;v=4</avatar>

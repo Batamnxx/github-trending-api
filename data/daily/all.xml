@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 03 Oct 2025 19:17:22 GMT</pubDate>
+    <pubDate>Sat, 04 Oct 2025 02:17:27 GMT</pubDate>
     <item>
       <title>hsliuping/TradingAgents-CN</title>
       <link>https://github.com/hsliuping/TradingAgents-CN</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/hsliuping/TradingAgents-CN</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,343</stars>
-      <forks>1,959</forks>
-      <addStars>298</addStars>
+      <stars>8,557</stars>
+      <forks>1,981</forks>
+      <addStars>332</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/128790537?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/google/tunix</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,309</stars>
+      <stars>1,342</stars>
       <forks>118</forks>
-      <addStars>841</addStars>
+      <addStars>822</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4454178?s=40&amp;v=4</avatar>
@@ -82,8 +82,8 @@
       <guid>https://github.com/juspay/hyperswitch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>35,038</stars>
-      <forks>4,259</forks>
+      <stars>35,066</stars>
+      <forks>4,262</forks>
       <addStars>277</addStars>
       <contributors>
         <contributor>
@@ -110,9 +110,9 @@
       <guid>https://github.com/airweave-ai/airweave</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,543</stars>
-      <forks>436</forks>
-      <addStars>305</addStars>
+      <stars>3,640</stars>
+      <forks>446</forks>
+      <addStars>313</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/29870230?s=40&amp;v=4</avatar>
@@ -143,9 +143,9 @@
       <guid>https://github.com/kestra-io/kestra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>21,663</stars>
-      <forks>1,933</forks>
-      <addStars>228</addStars>
+      <stars>21,684</stars>
+      <forks>1,936</forks>
+      <addStars>222</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2064609?s=40&amp;v=4</avatar>
@@ -181,9 +181,9 @@
       <guid>https://github.com/nextcloud/server</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>32,585</stars>
-      <forks>4,541</forks>
-      <addStars>812</addStars>
+      <stars>32,614</stars>
+      <forks>4,542</forks>
+      <addStars>810</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45821?s=40&amp;v=4</avatar>
@@ -219,9 +219,9 @@
       <guid>https://github.com/emcie-co/parlant</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,259</stars>
-      <forks>1,061</forks>
-      <addStars>199</addStars>
+      <stars>13,311</stars>
+      <forks>1,067</forks>
+      <addStars>192</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/160253835?s=40&amp;v=4</avatar>
@@ -257,9 +257,9 @@
       <guid>https://github.com/Infisical/infisical</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,272</stars>
-      <forks>1,386</forks>
-      <addStars>12</addStars>
+      <stars>20,299</stars>
+      <forks>1,387</forks>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9300960?s=40&amp;v=4</avatar>
@@ -295,7 +295,7 @@
       <guid>https://github.com/SDWebImage/SDWebImage</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>25,732</stars>
+      <stars>25,741</stars>
       <forks>6,001</forks>
       <addStars>46</addStars>
       <contributors>
@@ -333,9 +333,9 @@
       <guid>https://github.com/microsoft/agent-framework</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,665</stars>
-      <forks>175</forks>
-      <addStars>678</addStars>
+      <stars>1,806</stars>
+      <forks>188</forks>
+      <addStars>670</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13749212?s=40&amp;v=4</avatar>
@@ -343,14 +343,14 @@
           <url>https://github.com/eavanvalkenburg</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13853051?s=40&amp;v=4</avatar>
-          <name>dmytrostruk</name>
-          <url>https://github.com/dmytrostruk</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/66376200?s=40&amp;v=4</avatar>
           <name>crickman</name>
           <url>https://github.com/crickman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13853051?s=40&amp;v=4</avatar>
+          <name>dmytrostruk</name>
+          <url>https://github.com/dmytrostruk</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/164392973?s=40&amp;v=4</avatar>
@@ -371,9 +371,9 @@
       <guid>https://github.com/amir1376/ab-download-manager</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>9,770</stars>
-      <forks>543</forks>
-      <addStars>151</addStars>
+      <stars>9,851</stars>
+      <forks>545</forks>
+      <addStars>83</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/38394888?s=40&amp;v=4</avatar>
@@ -409,9 +409,9 @@
       <guid>https://github.com/meshery/meshery</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>7,966</stars>
+      <stars>7,977</stars>
       <forks>2,640</forks>
-      <addStars>54</addStars>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7570704?s=40&amp;v=4</avatar>
@@ -447,9 +447,9 @@
       <guid>https://github.com/pathwaycom/pathway</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,261</stars>
-      <forks>1,353</forks>
-      <addStars>232</addStars>
+      <stars>44,330</stars>
+      <forks>1,356</forks>
+      <addStars>233</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/72749368?s=40&amp;v=4</avatar>
@@ -485,9 +485,9 @@
       <guid>https://github.com/ripienaar/free-for-dev</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>113,222</stars>
-      <forks>11,604</forks>
-      <addStars>143</addStars>
+      <stars>113,254</stars>
+      <forks>11,605</forks>
+      <addStars>128</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/82342?s=40&amp;v=4</avatar>
@@ -523,9 +523,9 @@
       <guid>https://github.com/symfony/symfony</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>30,655</stars>
-      <forks>9,714</forks>
-      <addStars>27</addStars>
+      <stars>30,667</stars>
+      <forks>9,715</forks>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47313?s=40&amp;v=4</avatar>
@@ -561,8 +561,8 @@
       <guid>https://github.com/immich-app/immich</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>79,377</stars>
-      <forks>4,169</forks>
+      <stars>79,478</stars>
+      <forks>4,172</forks>
       <addStars>767</addStars>
       <contributors>
         <contributor>
@@ -594,9 +594,9 @@
       <guid>https://github.com/lukas-blecher/LaTeX-OCR</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,665</stars>
+      <stars>15,697</stars>
       <forks>1,253</forks>
-      <addStars>22</addStars>
+      <addStars>34</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/55287601?s=40&amp;v=4</avatar>
@@ -632,9 +632,9 @@
       <guid>https://github.com/mhogomchungu/media-downloader</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>3,146</stars>
-      <forks>223</forks>
-      <addStars>124</addStars>
+      <stars>3,192</stars>
+      <forks>224</forks>
+      <addStars>108</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3496115?s=40&amp;v=4</avatar>

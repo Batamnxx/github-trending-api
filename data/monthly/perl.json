@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 04 Oct 2025 02:17:27 GMT",
+  "pubDate": "Sat, 04 Oct 2025 07:19:07 GMT",
   "items": [
     {
       "title": "holzschu/a-shell",
@@ -10,7 +10,7 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,253",
+      "stars": "3,254",
       "forks": "143",
       "addStars": "75",
       "contributors": [
@@ -492,7 +492,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": "879",
-      "forks": "343",
+      "forks": "344",
       "addStars": "13",
       "contributors": [
         {

@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Sat, 04 Oct 2025 02:17:27 GMT</pubDate>
+    <pubDate>Sat, 04 Oct 2025 07:19:07 GMT</pubDate>
     <item>
       <title>googleapis/googleapis</title>
       <link>https://github.com/googleapis/googleapis</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/googleapis/googleapis</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>8,152</stars>
-      <forks>2,456</forks>
+      <stars>8,153</stars>
+      <forks>2,457</forks>
       <addStars>33</addStars>
       <contributors>
         <contributor>
@@ -224,7 +224,7 @@
       <guid>https://github.com/google/cel-spec</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>3,417</stars>
+      <stars>3,418</stars>
       <forks>257</forks>
       <addStars>9</addStars>
       <contributors>

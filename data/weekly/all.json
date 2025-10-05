@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 05 Oct 2025 13:21:03 GMT",
+  "pubDate": "Sun, 05 Oct 2025 19:16:23 GMT",
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
@@ -10,8 +10,8 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,646",
-      "forks": "6,385",
+      "stars": "45,664",
+      "forks": "6,388",
       "addStars": "5,535",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "☁️ Nextcloud server, a safe home for all your data",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "32,718",
-      "forks": "4,554",
+      "stars": "32,732",
+      "forks": "4,557",
       "addStars": "1,846",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,156",
-      "forks": "268",
+      "stars": "2,176",
+      "forks": "270",
       "addStars": "968",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,887",
+      "stars": "4,900",
       "forks": "239",
       "addStars": "1,158",
       "contributors": [
@@ -153,8 +153,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,172",
-      "forks": "2,041",
+      "stars": "9,234",
+      "forks": "2,052",
       "addStars": "1,816",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,212",
-      "forks": "10,289",
+      "stars": "58,222",
+      "forks": "10,291",
       "addStars": "2,110",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "339,591",
-      "forks": "43,044",
+      "stars": "339,620",
+      "forks": "43,052",
       "addStars": "1,985",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,542",
-      "forks": "418",
+      "stars": "5,559",
+      "forks": "420",
       "addStars": "2,009",
       "contributors": [
         {
@@ -264,24 +264,24 @@
           "url": "https://github.com/dexhorthy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/470240?s=40&v=4",
-          "name": "balanceiskey",
-          "url": "https://github.com/balanceiskey"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/18430555?s=40&v=4",
           "name": "K-Mistele",
           "url": "https://github.com/K-Mistele"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/217395086?s=40&v=4",
-          "name": "samdickson22",
-          "url": "https://github.com/samdickson22"
+          "avatar": "https://avatars.githubusercontent.com/u/470240?s=40&v=4",
+          "name": "balanceiskey",
+          "url": "https://github.com/balanceiskey"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/217395086?s=40&v=4",
+          "name": "samdickson22",
+          "url": "https://github.com/samdickson22"
         }
       ]
     },
@@ -291,8 +291,8 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "20,547",
-      "forks": "2,196",
+      "stars": "20,569",
+      "forks": "2,198",
       "addStars": "290",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "All Algorithms implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "63,738",
-      "forks": "20,401",
+      "stars": "63,742",
+      "forks": "20,405",
       "addStars": "158",
       "contributors": [
         {
@@ -360,7 +360,7 @@
       "description": "A new markup-based typesetting system that is powerful and easy to learn.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "46,620",
+      "stars": "46,636",
       "forks": "1,258",
       "addStars": "708",
       "contributors": [
@@ -397,7 +397,7 @@
       "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "2,065",
+      "stars": "2,071",
       "forks": "627",
       "addStars": "226",
       "contributors": [
@@ -434,7 +434,7 @@
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,813",
+      "stars": "12,819",
       "forks": "1,851",
       "addStars": "662",
       "contributors": [
@@ -466,7 +466,7 @@
       "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,590",
+      "stars": "11,600",
       "forks": "1,254",
       "addStars": "209",
       "contributors": [
@@ -498,8 +498,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "367,474",
-      "forks": "38,679",
+      "stars": "367,504",
+      "forks": "38,680",
       "addStars": "1,012",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "16,609",
-      "forks": "1,181",
+      "stars": "16,723",
+      "forks": "1,184",
       "addStars": "187",
       "contributors": [
         {
@@ -572,7 +572,7 @@
       "description": "A scrollable-tiling Wayland compositor.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,586",
+      "stars": "12,646",
       "forks": "442",
       "addStars": "797",
       "contributors": [
@@ -604,7 +604,7 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "3,146",
+      "stars": "3,156",
       "forks": "226",
       "addStars": "1,458",
       "contributors": [

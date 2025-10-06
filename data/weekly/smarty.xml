@@ -3,7 +3,7 @@
     <title>GitHub Smarty Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Smarty Languages in GitHub</description>
-    <pubDate>Mon, 06 Oct 2025 02:25:58 GMT</pubDate>
+    <pubDate>Mon, 06 Oct 2025 07:23:54 GMT</pubDate>
     <item>
       <title>8gears/n8n-helm-chart</title>
       <link>https://github.com/8gears/n8n-helm-chart</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/bitnami/charts</guid>
       <language>Smarty</language>
       <languageColor>#f0c040</languageColor>
-      <stars>10,048</stars>
-      <forks>10,241</forks>
+      <stars>10,049</stars>
+      <forks>10,243</forks>
       <addStars>12</addStars>
       <contributors>
         <contributor>

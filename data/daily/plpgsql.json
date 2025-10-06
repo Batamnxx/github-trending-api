@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 06 Oct 2025 02:25:58 GMT",
+  "pubDate": "Mon, 06 Oct 2025 07:23:54 GMT",
   "items": [
     {
       "title": "devrimgunduz/pagila",
@@ -84,7 +84,7 @@
       "description": "A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "5,391",
+      "stars": "5,392",
       "forks": "282",
       "addStars": "1",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "3,666",
+      "stars": "3,667",
       "forks": "107",
       "addStars": "3",
       "contributors": [

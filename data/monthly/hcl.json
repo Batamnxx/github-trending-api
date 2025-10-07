@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Monthly Trending",
   "description": "Monthly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Oct 2025 02:23:23 GMT",
+  "pubDate": "Tue, 07 Oct 2025 07:22:36 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-eks",
@@ -45,9 +45,9 @@
       "title": "ChristianLempa/boilerplates",
       "url": "https://github.com/ChristianLempa/boilerplates",
       "description": "This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": "6,077",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "6,079",
       "forks": "1,759",
       "addStars": "111",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "Terraform module to create AWS ECS resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "637",
+      "stars": "638",
       "forks": "628",
       "addStars": "5",
       "contributors": [

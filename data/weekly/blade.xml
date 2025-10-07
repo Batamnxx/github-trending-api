@@ -3,7 +3,7 @@
     <title>GitHub Blade Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Blade Languages in GitHub</description>
-    <pubDate>Tue, 07 Oct 2025 02:23:23 GMT</pubDate>
+    <pubDate>Tue, 07 Oct 2025 07:22:36 GMT</pubDate>
     <item>
       <title>laravel/laravel</title>
       <link>https://github.com/laravel/laravel</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/laravel/laravel</guid>
       <language>Blade</language>
       <languageColor>#f7523f</languageColor>
-      <stars>82,352</stars>
-      <forks>24,509</forks>
+      <stars>82,353</stars>
+      <forks>24,510</forks>
       <addStars>104</addStars>
       <contributors>
         <contributor>

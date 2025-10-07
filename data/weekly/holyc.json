@@ -2,7 +2,7 @@
   "title": "GitHub Holyc Languages Weekly Trending",
   "description": "Weekly Trending of Holyc Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Oct 2025 13:29:07 GMT",
+  "pubDate": "Tue, 07 Oct 2025 19:18:28 GMT",
   "items": [
     {
       "title": "Zeal-Operating-System/ZealOS",
@@ -10,8 +10,8 @@
       "description": "The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS.",
       "language": "HolyC",
       "languageColor": "#ffefaf",
-      "stars": "1,976",
-      "forks": "96",
+      "stars": "1,977",
+      "forks": "97",
       "addStars": "18",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Secret Forum",
       "language": "HolyC",
       "languageColor": "#ffefaf",
-      "stars": "257",
+      "stars": "258",
       "forks": "13",
       "addStars": "16",
       "contributors": [

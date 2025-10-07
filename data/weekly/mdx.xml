@@ -3,7 +3,7 @@
     <title>GitHub Mdx Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Mdx Languages in GitHub</description>
-    <pubDate>Tue, 07 Oct 2025 13:29:07 GMT</pubDate>
+    <pubDate>Tue, 07 Oct 2025 19:18:28 GMT</pubDate>
     <item>
       <title>cloudflare/cloudflare-docs</title>
       <link>https://github.com/cloudflare/cloudflare-docs</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/cloudflare/cloudflare-docs</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>3,974</stars>
-      <forks>9,103</forks>
+      <stars>3,976</stars>
+      <forks>9,110</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>
@@ -126,7 +126,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>194</stars>
-      <forks>1,384</forks>
+      <forks>1,385</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/yangshun/front-end-interview-handbook</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>43,582</stars>
+      <stars>43,581</stars>
       <forks>5,945</forks>
       <addStars>23</addStars>
       <contributors>
@@ -234,7 +234,7 @@
       <guid>https://github.com/enactic/openarm</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>935</stars>
+      <stars>937</stars>
       <forks>118</forks>
       <addStars>21</addStars>
       <contributors>
@@ -333,7 +333,7 @@
       <guid>https://github.com/huggingface/agents-course</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>22,856</stars>
+      <stars>22,858</stars>
       <forks>1,594</forks>
       <addStars>135</addStars>
       <contributors>
@@ -371,7 +371,7 @@
       <guid>https://github.com/twbs/bootstrap</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>173,500</stars>
+      <stars>173,504</stars>
       <forks>79,165</forks>
       <addStars>68</addStars>
       <contributors>
@@ -442,7 +442,7 @@
       <guid>https://github.com/LibreChat-AI/librechat.ai</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>358</stars>
+      <stars>359</stars>
       <forks>253</forks>
       <addStars>7</addStars>
       <contributors>
@@ -542,7 +542,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>97</stars>
-      <forks>294</forks>
+      <forks>295</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -608,7 +608,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>1,534</stars>
-      <forks>1,728</forks>
+      <forks>1,729</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>

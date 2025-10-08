@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 08 Oct 2025 13:29:25 GMT",
+  "pubDate": "Wed, 08 Oct 2025 19:18:20 GMT",
   "items": [
     {
       "title": "Anduin2017/HowToCook",
@@ -10,7 +10,7 @@
       "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "94,610",
+      "stars": "94,618",
       "forks": "10,605",
       "addStars": "1,699",
       "contributors": [
@@ -117,7 +117,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "632",
-      "forks": "177",
+      "forks": "178",
       "addStars": "69",
       "contributors": [
         {
@@ -154,7 +154,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "10,438",
-      "forks": "3,387",
+      "forks": "3,388",
       "addStars": "109",
       "contributors": [
         {
@@ -175,7 +175,7 @@
       "description": "Run Obsidian.md in a browser via a docker container.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,166",
+      "stars": "2,167",
       "forks": "192",
       "addStars": "88",
       "contributors": [
@@ -207,7 +207,7 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,275",
+      "stars": "2,276",
       "forks": "269",
       "addStars": "29",
       "contributors": [
@@ -415,7 +415,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "257",
-      "forks": "1,643",
+      "forks": "1,644",
       "addStars": "5",
       "contributors": [
         {
@@ -631,7 +631,7 @@
       "description": "Official container images for .NET",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "4,742",
+      "stars": "4,743",
       "forks": "1,966",
       "addStars": "24",
       "contributors": [

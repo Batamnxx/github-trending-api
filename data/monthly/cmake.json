@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Monthly Trending",
   "description": "Monthly Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 09 Oct 2025 07:22:41 GMT",
+  "pubDate": "Thu, 09 Oct 2025 13:29:47 GMT",
   "items": [
     {
       "title": "microsoft/vcpkg",
@@ -10,8 +10,8 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "25,734",
-      "forks": "7,107",
+      "stars": "25,738",
+      "forks": "7,111",
       "addStars": "235",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,266",
+      "stars": "1,267",
       "forks": "105",
       "addStars": "58",
       "contributors": [
@@ -212,39 +212,39 @@
       ]
     },
     {
-      "title": "cpp-best-practices/cmake_template",
-      "url": "https://github.com/cpp-best-practices/cmake_template",
-      "description": "CMake for C++ Best Practices",
+      "title": "pingcap/kvproto",
+      "url": "https://github.com/pingcap/kvproto",
+      "description": "Protocol buffer files for TiKV",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,496",
-      "forks": "176",
-      "addStars": "28",
+      "stars": "166",
+      "forks": "230",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/234279?s=40&v=4",
-          "name": "lefticus",
-          "url": "https://github.com/lefticus"
+          "avatar": "https://avatars.githubusercontent.com/u/12077877?s=40&v=4",
+          "name": "disksing",
+          "url": "https://github.com/disksing"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16418197?s=40&v=4",
-          "name": "aminya",
-          "url": "https://github.com/aminya"
+          "avatar": "https://avatars.githubusercontent.com/u/1701473?s=40&v=4",
+          "name": "BusyJay",
+          "url": "https://github.com/BusyJay"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6743441?s=40&v=4",
-          "name": "ddalcino",
-          "url": "https://github.com/ddalcino"
+          "avatar": "https://avatars.githubusercontent.com/u/1080370?s=40&v=4",
+          "name": "siddontang",
+          "url": "https://github.com/siddontang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5479063?s=40&v=4",
-          "name": "jmarrec",
-          "url": "https://github.com/jmarrec"
+          "avatar": "https://avatars.githubusercontent.com/u/2150711?s=40&v=4",
+          "name": "overvenus",
+          "url": "https://github.com/overvenus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2847470?s=40&v=4",
-          "name": "paulbendixen",
-          "url": "https://github.com/paulbendixen"
+          "avatar": "https://avatars.githubusercontent.com/u/9948422?s=40&v=4",
+          "name": "MyonKeminta",
+          "url": "https://github.com/MyonKeminta"
         }
       ]
     },
@@ -286,76 +286,39 @@
       ]
     },
     {
-      "title": "pingcap/kvproto",
-      "url": "https://github.com/pingcap/kvproto",
-      "description": "Protocol buffer files for TiKV",
+      "title": "cpp-best-practices/cmake_template",
+      "url": "https://github.com/cpp-best-practices/cmake_template",
+      "description": "CMake for C++ Best Practices",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "166",
-      "forks": "230",
-      "addStars": "2",
+      "stars": "1,497",
+      "forks": "176",
+      "addStars": "28",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12077877?s=40&v=4",
-          "name": "disksing",
-          "url": "https://github.com/disksing"
+          "avatar": "https://avatars.githubusercontent.com/u/234279?s=40&v=4",
+          "name": "lefticus",
+          "url": "https://github.com/lefticus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1701473?s=40&v=4",
-          "name": "BusyJay",
-          "url": "https://github.com/BusyJay"
+          "avatar": "https://avatars.githubusercontent.com/u/16418197?s=40&v=4",
+          "name": "aminya",
+          "url": "https://github.com/aminya"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1080370?s=40&v=4",
-          "name": "siddontang",
-          "url": "https://github.com/siddontang"
+          "avatar": "https://avatars.githubusercontent.com/u/6743441?s=40&v=4",
+          "name": "ddalcino",
+          "url": "https://github.com/ddalcino"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2150711?s=40&v=4",
-          "name": "overvenus",
-          "url": "https://github.com/overvenus"
+          "avatar": "https://avatars.githubusercontent.com/u/5479063?s=40&v=4",
+          "name": "jmarrec",
+          "url": "https://github.com/jmarrec"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9948422?s=40&v=4",
-          "name": "MyonKeminta",
-          "url": "https://github.com/MyonKeminta"
-        }
-      ]
-    },
-    {
-      "title": "ecmwf/ecbuild",
-      "url": "https://github.com/ecmwf/ecbuild",
-      "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": "35",
-      "forks": "34",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/965734?s=40&v=4",
-          "name": "tlmquintino",
-          "url": "https://github.com/tlmquintino"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/346079?s=40&v=4",
-          "name": "kynan",
-          "url": "https://github.com/kynan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/829513?s=40&v=4",
-          "name": "oiffrig",
-          "url": "https://github.com/oiffrig"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/222951?s=40&v=4",
-          "name": "wdeconinck",
-          "url": "https://github.com/wdeconinck"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1312753?s=40&v=4",
-          "name": "marcosbento",
-          "url": "https://github.com/marcosbento"
+          "avatar": "https://avatars.githubusercontent.com/u/2847470?s=40&v=4",
+          "name": "paulbendixen",
+          "url": "https://github.com/paulbendixen"
         }
       ]
     }

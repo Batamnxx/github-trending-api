@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 09 Oct 2025 02:25:03 GMT",
+  "pubDate": "Thu, 09 Oct 2025 07:22:41 GMT",
   "items": [
     {
       "title": "holzschu/a-shell",
@@ -47,7 +47,7 @@
       "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "514",
+      "stars": "515",
       "forks": "106",
       "addStars": "7",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "9,335",
+      "stars": "9,336",
       "forks": "1,296",
       "addStars": "31",
       "contributors": [
@@ -380,7 +380,7 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "18,804",
+      "stars": "18,807",
       "forks": "2,056",
       "addStars": "110",
       "contributors": [

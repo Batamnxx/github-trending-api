@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Weekly Trending",
   "description": "Weekly Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 09 Oct 2025 13:29:47 GMT",
+  "pubDate": "Thu, 09 Oct 2025 19:19:15 GMT",
   "items": [
     {
       "title": "minecraft-linux/mcpelauncher-manifest",
@@ -10,7 +10,7 @@
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,267",
+      "stars": "1,268",
       "forks": "105",
       "addStars": "29",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "Useful CMake Examples",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "12,973",
+      "stars": "12,974",
       "forks": "2,542",
       "addStars": "11",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "ROS/ROS2 messages that match the uORB messages counterparts on the PX4 Firmware",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "113",
+      "stars": "114",
       "forks": "189",
       "addStars": "3",
       "contributors": [
@@ -402,7 +402,7 @@
       "description": "📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "3,698",
+      "stars": "3,703",
       "forks": "206",
       "addStars": "14",
       "contributors": [

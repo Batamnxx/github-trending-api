@@ -2,7 +2,7 @@
   "title": "GitHub Handlebars Languages Weekly Trending",
   "description": "Weekly Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 10 Oct 2025 13:28:20 GMT",
+  "pubDate": "Fri, 10 Oct 2025 19:18:19 GMT",
   "items": [
     {
       "title": "huggingface/hub-docs",
@@ -48,7 +48,7 @@
       "language": "Handlebars",
       "languageColor": "#f7931e",
       "stars": "219",
-      "forks": "6,110",
+      "forks": "6,112",
       "addStars": "1",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "A catalogue of Rust design patterns, anti-patterns and idioms",
       "language": "Handlebars",
       "languageColor": "#f7931e",
-      "stars": "8,567",
+      "stars": "8,568",
       "forks": "399",
       "addStars": "9",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Svelte Languages Monthly Trending",
   "description": "Monthly Trending of Svelte Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 11 Oct 2025 13:20:44 GMT",
+  "pubDate": "Sat, 11 Oct 2025 19:15:38 GMT",
   "items": [
     {
       "title": "imputnet/cobalt",
@@ -47,8 +47,8 @@
       "description": "Open source repository for Kite, news app by Kagi.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "678",
-      "forks": "137",
+      "stars": "679",
+      "forks": "138",
       "addStars": "274",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "4,968",
+      "stars": "4,970",
       "forks": "176",
       "addStars": "319",
       "contributors": [
@@ -128,7 +128,7 @@
       "description": "Formerly Miru. Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "3,574",
+      "stars": "3,576",
       "forks": "187",
       "addStars": "92",
       "contributors": [
@@ -165,7 +165,7 @@
       "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "38,916",
+      "stars": "38,918",
       "forks": "1,546",
       "addStars": "405",
       "contributors": [
@@ -190,9 +190,9 @@
           "url": "https://github.com/AbhijeetBiswal"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1459553?s=40&v=4",
-          "name": "Avaray",
-          "url": "https://github.com/Avaray"
+          "avatar": "https://avatars.githubusercontent.com/u/118764?s=40&v=4",
+          "name": "pdanpdan",
+          "url": "https://github.com/pdanpdan"
         }
       ]
     },
@@ -203,7 +203,7 @@
       "language": "Svelte",
       "languageColor": "#ff3e00",
       "stars": "383",
-      "forks": "13",
+      "forks": "14",
       "addStars": "90",
       "contributors": [
         {
@@ -229,8 +229,8 @@
       "description": "Self-hostable travel tracker and trip planner.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "2,226",
-      "forks": "138",
+      "stars": "2,227",
+      "forks": "139",
       "addStars": "106",
       "contributors": [
         {
@@ -325,7 +325,7 @@
       "description": "An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "4,518",
+      "stars": "4,519",
       "forks": "398",
       "addStars": "109",
       "contributors": [
@@ -633,7 +633,7 @@
       "description": "Plain text project planning in Obsidian",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "1,845",
+      "stars": "1,846",
       "forks": "119",
       "addStars": "17",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 12 Oct 2025 02:36:49 GMT",
+  "pubDate": "Sun, 12 Oct 2025 07:19:29 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,7 +10,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "39,561",
+      "stars": "39,562",
       "forks": "3,651",
       "addStars": "12",
       "contributors": [
@@ -276,7 +276,7 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "25,863",
+      "stars": "25,864",
       "forks": "1,122",
       "addStars": "3",
       "contributors": [

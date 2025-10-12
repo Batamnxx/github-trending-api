@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Monthly Trending",
   "description": "Monthly Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 12 Oct 2025 13:21:19 GMT",
+  "pubDate": "Sun, 12 Oct 2025 19:16:40 GMT",
   "items": [
     {
       "title": "elastic/elasticsearch",
@@ -10,7 +10,7 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "75,008",
+      "stars": "75,012",
       "forks": "25,548",
       "addStars": "1,352",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "2,222",
-      "forks": "638",
+      "stars": "2,228",
+      "forks": "639",
       "addStars": "425",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "FTC Android Studio Workspace for robot programming in Android Studio",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "1,103",
-      "forks": "7,465",
+      "stars": "1,104",
+      "forks": "7,471",
       "addStars": "68",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "22,506",
+      "stars": "22,514",
       "forks": "2,057",
       "addStars": "1,480",
       "contributors": [
@@ -143,8 +143,8 @@
       "description": "Design patterns implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "93,060",
-      "forks": "27,259",
+      "stars": "93,064",
+      "forks": "27,262",
       "addStars": "500",
       "contributors": [
         {
@@ -170,7 +170,7 @@
       "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "20,185",
+      "stars": "20,184",
       "forks": "5,857",
       "addStars": "536",
       "contributors": [
@@ -207,8 +207,8 @@
       "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "11,524",
-      "forks": "2,709",
+      "stars": "11,525",
+      "forks": "2,715",
       "addStars": "145",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "4,129",
-      "forks": "1,012",
+      "stars": "4,131",
+      "forks": "1,013",
       "addStars": "375",
       "contributors": [
         {
@@ -282,7 +282,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": "63,881",
-      "forks": "20,486",
+      "forks": "20,490",
       "addStars": "643",
       "contributors": [
         {
@@ -313,7 +313,7 @@
       "description": "The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "3,357",
+      "stars": "3,358",
       "forks": "875",
       "addStars": "152",
       "contributors": [
@@ -345,8 +345,8 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "30,099",
-      "forks": "7,702",
+      "stars": "30,102",
+      "forks": "7,701",
       "addStars": "601",
       "contributors": [
         {
@@ -409,8 +409,8 @@
       "description": "Mirror of Apache Kafka",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "31,067",
-      "forks": "14,721",
+      "stars": "31,066",
+      "forks": "14,720",
       "addStars": "225",
       "contributors": [
         {
@@ -446,8 +446,8 @@
       "description": "✅ The programmer-friendly testing framework for Java and the JVM",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "6,820",
-      "forks": "1,593",
+      "stars": "6,819",
+      "forks": "1,592",
       "addStars": "47",
       "contributors": [
         {
@@ -478,7 +478,7 @@
       "description": "Apache Iceberg",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "8,067",
+      "stars": "8,068",
       "forks": "2,828",
       "addStars": "133",
       "contributors": [
@@ -510,7 +510,7 @@
       "description": "𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "2,609",
+      "stars": "2,610",
       "forks": "2,790",
       "addStars": "364",
       "contributors": [
@@ -533,7 +533,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": "41,500",
-      "forks": "26,534",
+      "forks": "26,533",
       "addStars": "199",
       "contributors": [
         {
@@ -564,8 +564,8 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "27,710",
-      "forks": "8,989",
+      "stars": "27,715",
+      "forks": "8,991",
       "addStars": "223",
       "contributors": [
         {
@@ -601,7 +601,7 @@
       "description": "Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "5,199",
+      "stars": "5,200",
       "forks": "427",
       "addStars": "126",
       "contributors": [
@@ -638,7 +638,7 @@
       "description": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "7,236",
+      "stars": "7,235",
       "forks": "1,374",
       "addStars": "75",
       "contributors": [
@@ -670,7 +670,7 @@
       "description": "Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "3,537",
+      "stars": "3,538",
       "forks": "438",
       "addStars": "108",
       "contributors": [

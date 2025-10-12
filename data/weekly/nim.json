@@ -2,7 +2,7 @@
   "title": "GitHub Nim Languages Weekly Trending",
   "description": "Weekly Trending of Nim Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 12 Oct 2025 13:21:19 GMT",
+  "pubDate": "Sun, 12 Oct 2025 19:16:40 GMT",
   "items": [
     {
       "title": "nim-lang/Nim",
@@ -42,7 +42,7 @@
       "description": "Alternative Twitter front-end",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": "11,626",
+      "stars": "11,628",
       "forks": "663",
       "addStars": "26",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 11 Oct 2025 19:15:38 GMT",
+  "pubDate": "Sun, 12 Oct 2025 02:36:49 GMT",
   "items": [
     {
       "title": "gpuweb/gpuweb",
@@ -12,7 +12,7 @@
       "languageColor": "#5562ac",
       "stars": "5,165",
       "forks": "340",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/606355?s=40&v=4",
@@ -44,7 +44,7 @@
       "languageColor": "#5562ac",
       "stars": "569",
       "forks": "75",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/617481?s=40&v=4",

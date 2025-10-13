@@ -3,7 +3,7 @@
     <title>GitHub Mustache Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Mustache Languages in GitHub</description>
-    <pubDate>Mon, 13 Oct 2025 02:43:24 GMT</pubDate>
+    <pubDate>Mon, 13 Oct 2025 07:24:15 GMT</pubDate>
     <item>
       <title>thmsgbrt/thmsgbrt</title>
       <link>https://github.com/thmsgbrt/thmsgbrt</link>
@@ -186,8 +186,8 @@
       <guid>https://github.com/argoproj/argo-helm</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>2,095</stars>
-      <forks>1,993</forks>
+      <stars>2,096</stars>
+      <forks>1,994</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -220,7 +220,7 @@
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
       <stars>192</stars>
-      <forks>111</forks>
+      <forks>110</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>

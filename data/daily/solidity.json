@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 13 Oct 2025 13:30:12 GMT",
+  "pubDate": "Mon, 13 Oct 2025 19:18:03 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -10,9 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "26,590",
-      "forks": "12,237",
-      "addStars": "6",
+      "stars": "26,594",
+      "forks": "12,238",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/481465?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "13,293",
-      "forks": "2,298",
-      "addStars": "2",
+      "stars": "13,292",
+      "forks": "2,299",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14728591?s=40&v=4",
@@ -121,7 +121,7 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "3,098",
+      "stars": "3,101",
       "forks": "429",
       "addStars": "2",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Smart Contract Submodule For zkSync Era",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "520",
+      "stars": "519",
       "forks": "387",
       "addStars": "1",
       "contributors": [
@@ -232,9 +232,9 @@
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "4,207",
+      "stars": "4,208",
       "forks": "691",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26209401?s=40&v=4",
@@ -418,7 +418,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "23",
-      "forks": "199",
+      "forks": "200",
       "addStars": "1",
       "contributors": [
         {
@@ -454,8 +454,8 @@
       "description": "",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "546",
-      "forks": "198",
+      "stars": "547",
+      "forks": "199",
       "addStars": "2",
       "contributors": [
         {

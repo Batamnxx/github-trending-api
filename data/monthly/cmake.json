@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Monthly Trending",
   "description": "Monthly Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 15 Oct 2025 13:31:42 GMT",
+  "pubDate": "Wed, 15 Oct 2025 19:18:57 GMT",
   "items": [
     {
       "title": "microsoft/vcpkg",
@@ -10,8 +10,8 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "25,766",
-      "forks": "7,114",
+      "stars": "25,764",
+      "forks": "7,117",
       "addStars": "230",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,272",
+      "stars": "1,273",
       "forks": "105",
       "addStars": "58",
       "contributors": [

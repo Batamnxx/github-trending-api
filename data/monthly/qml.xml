@@ -3,7 +3,7 @@
     <title>GitHub Qml Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Qml Languages in GitHub</description>
-    <pubDate>Wed, 15 Oct 2025 13:31:42 GMT</pubDate>
+    <pubDate>Wed, 15 Oct 2025 19:18:57 GMT</pubDate>
     <item>
       <title>AvengeMedia/DankMaterialShell</title>
       <link>https://github.com/AvengeMedia/DankMaterialShell</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/AvengeMedia/DankMaterialShell</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>1,191</stars>
+      <stars>1,196</stars>
       <forks>75</forks>
       <addStars>741</addStars>
       <contributors>
@@ -31,14 +31,14 @@
           <url>https://github.com/devnullvoid</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45419961?s=40&amp;v=4</avatar>
-          <name>max72bra</name>
-          <url>https://github.com/max72bra</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/73490483?s=40&amp;v=4</avatar>
           <name>xdenotte</name>
           <url>https://github.com/xdenotte</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/193465580?s=40&amp;v=4</avatar>
+          <name>bokicoder</name>
+          <url>https://github.com/bokicoder</url>
         </contributor>
       </contributors>
     </item>
@@ -49,8 +49,8 @@
       <guid>https://github.com/end-4/dots-hyprland</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>9,684</stars>
-      <forks>749</forks>
+      <stars>9,693</stars>
+      <forks>750</forks>
       <addStars>781</addStars>
       <contributors>
         <contributor>
@@ -64,6 +64,11 @@
           <url>https://github.com/clsty</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/84292598?s=40&amp;v=4</avatar>
+          <name>jwihardi</name>
+          <url>https://github.com/jwihardi</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/173799252?s=40&amp;v=4</avatar>
           <name>darksignal7</name>
           <url>https://github.com/darksignal7</url>
@@ -72,11 +77,6 @@
           <avatar>https://avatars.githubusercontent.com/u/45454768?s=40&amp;v=4</avatar>
           <name>H0mire</name>
           <url>https://github.com/H0mire</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47367711?s=40&amp;v=4</avatar>
-          <name>midn8hustlr</name>
-          <url>https://github.com/midn8hustlr</url>
         </contributor>
       </contributors>
     </item>
@@ -87,7 +87,7 @@
       <guid>https://github.com/Swordfish90/cool-retro-term</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>24,074</stars>
+      <stars>24,076</stars>
       <forks>909</forks>
       <addStars>158</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/catsout/wallpaper-engine-kde-plugin</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>2,387</stars>
+      <stars>2,388</stars>
       <forks>102</forks>
       <addStars>63</addStars>
       <contributors>
@@ -163,7 +163,7 @@
       <guid>https://github.com/alicevision/Meshroom</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>12,266</stars>
+      <stars>12,267</stars>
       <forks>1,166</forks>
       <addStars>85</addStars>
       <contributors>
@@ -201,7 +201,7 @@
       <guid>https://github.com/luisbocanegra/plasma-panel-colorizer</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>671</stars>
+      <stars>672</stars>
       <forks>11</forks>
       <addStars>46</addStars>
       <contributors>
@@ -221,9 +221,9 @@
           <url>https://github.com/mill413</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3152990?s=40&amp;v=4</avatar>
-          <name>J0anJosep</name>
-          <url>https://github.com/J0anJosep</url>
+          <avatar>https://avatars.githubusercontent.com/u/809987?s=40&amp;v=4</avatar>
+          <name>hsitter</name>
+          <url>https://github.com/hsitter</url>
         </contributor>
       </contributors>
     </item>
@@ -234,7 +234,7 @@
       <guid>https://github.com/Keyitdev/sddm-astronaut-theme</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>1,943</stars>
+      <stars>1,945</stars>
       <forks>166</forks>
       <addStars>131</addStars>
       <contributors>

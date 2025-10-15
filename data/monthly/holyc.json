@@ -2,7 +2,7 @@
   "title": "GitHub Holyc Languages Monthly Trending",
   "description": "Monthly Trending of Holyc Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 15 Oct 2025 02:38:50 GMT",
+  "pubDate": "Wed, 15 Oct 2025 07:23:49 GMT",
   "items": [
     {
       "title": "SylvanFranklin/.config",
@@ -10,7 +10,7 @@
       "description": "Secret Forum",
       "language": "HolyC",
       "languageColor": "#ffefaf",
-      "stars": "273",
+      "stars": "275",
       "forks": "16",
       "addStars": "101",
       "contributors": [

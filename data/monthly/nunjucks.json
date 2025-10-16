@@ -2,7 +2,7 @@
   "title": "GitHub Nunjucks Languages Monthly Trending",
   "description": "Monthly Trending of Nunjucks Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 16 Oct 2025 02:27:01 GMT",
+  "pubDate": "Thu, 16 Oct 2025 07:23:53 GMT",
   "items": [
     {
       "title": "xdesro/personalsit.es",
@@ -43,7 +43,7 @@
       "language": "Nunjucks",
       "languageColor": "#3d8137",
       "stars": "60,651",
-      "forks": "11,110",
+      "forks": "11,109",
       "addStars": "104",
       "contributors": [
         {

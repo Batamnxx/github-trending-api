@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Weekly Trending",
   "description": "Weekly Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 17 Oct 2025 07:23:06 GMT",
+  "pubDate": "Fri, 17 Oct 2025 13:28:10 GMT",
   "items": [
     {
       "title": "AvengeMedia/DankMaterialShell",
@@ -10,8 +10,8 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri & hyprland. Check out the niri community Discord below.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "1,232",
-      "forks": "77",
+      "stars": "1,236",
+      "forks": "78",
       "addStars": "181",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "uhh questioning the meaning of dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "9,739",
+      "stars": "9,743",
       "forks": "755",
       "addStars": "206",
       "contributors": [
@@ -75,38 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/45454768?s=40&v=4",
           "name": "H0mire",
           "url": "https://github.com/H0mire"
-        }
-      ]
-    },
-    {
-      "title": "luisbocanegra/plasma-panel-colorizer",
-      "url": "https://github.com/luisbocanegra/plasma-panel-colorizer",
-      "description": "Latte-Dock and WM status bar customization for the KDE Plasma panels",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "672",
-      "forks": "11",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15076387?s=40&v=4",
-          "name": "luisbocanegra",
-          "url": "https://github.com/luisbocanegra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1716229?s=40&v=4",
-          "name": "Vistaus",
-          "url": "https://github.com/Vistaus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49865696?s=40&v=4",
-          "name": "mill413",
-          "url": "https://github.com/mill413"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3152990?s=40&v=4",
-          "name": "J0anJosep",
-          "url": "https://github.com/J0anJosep"
         }
       ]
     },
@@ -148,6 +116,38 @@
       ]
     },
     {
+      "title": "luisbocanegra/plasma-panel-colorizer",
+      "url": "https://github.com/luisbocanegra/plasma-panel-colorizer",
+      "description": "Latte-Dock and WM status bar customization for the KDE Plasma panels",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "672",
+      "forks": "11",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15076387?s=40&v=4",
+          "name": "luisbocanegra",
+          "url": "https://github.com/luisbocanegra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1716229?s=40&v=4",
+          "name": "Vistaus",
+          "url": "https://github.com/Vistaus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49865696?s=40&v=4",
+          "name": "mill413",
+          "url": "https://github.com/mill413"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3152990?s=40&v=4",
+          "name": "J0anJosep",
+          "url": "https://github.com/J0anJosep"
+        }
+      ]
+    },
+    {
       "title": "catsout/wallpaper-engine-kde-plugin",
       "url": "https://github.com/catsout/wallpaper-engine-kde-plugin",
       "description": "A kde wallpaper plugin integrating wallpaper engine",
@@ -181,43 +181,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/4780651?s=40&v=4",
           "name": "davitz",
           "url": "https://github.com/davitz"
-        }
-      ]
-    },
-    {
-      "title": "alicevision/Meshroom",
-      "url": "https://github.com/alicevision/Meshroom",
-      "description": "Node-based Visual Programming Toolbox",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "12,270",
-      "forks": "1,165",
-      "addStars": "22",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/153585?s=40&v=4",
-          "name": "fabiencastan",
-          "url": "https://github.com/fabiencastan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11963329?s=40&v=4",
-          "name": "cbentejac",
-          "url": "https://github.com/cbentejac"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1674646?s=40&v=4",
-          "name": "yann-lty",
-          "url": "https://github.com/yann-lty"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16002026?s=40&v=4",
-          "name": "gregoire-dl",
-          "url": "https://github.com/gregoire-dl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70104194?s=40&v=4",
-          "name": "mugulmd",
-          "url": "https://github.com/mugulmd"
         }
       ]
     },
@@ -259,39 +222,39 @@
       ]
     },
     {
-      "title": "mengps/HuskarUI",
-      "url": "https://github.com/mengps/HuskarUI",
-      "description": "🎉 Ant-d UI-Kit for Qml",
+      "title": "alicevision/Meshroom",
+      "url": "https://github.com/alicevision/Meshroom",
+      "description": "Node-based Visual Programming Toolbox",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "321",
-      "forks": "46",
-      "addStars": "7",
+      "stars": "12,270",
+      "forks": "1,165",
+      "addStars": "22",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33405710?s=40&v=4",
-          "name": "mengps",
-          "url": "https://github.com/mengps"
+          "avatar": "https://avatars.githubusercontent.com/u/153585?s=40&v=4",
+          "name": "fabiencastan",
+          "url": "https://github.com/fabiencastan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9333918?s=40&v=4",
-          "name": "davidhsing",
-          "url": "https://github.com/davidhsing"
+          "avatar": "https://avatars.githubusercontent.com/u/11963329?s=40&v=4",
+          "name": "cbentejac",
+          "url": "https://github.com/cbentejac"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/169913152?s=40&v=4",
-          "name": "xkaaaaa",
-          "url": "https://github.com/xkaaaaa"
+          "avatar": "https://avatars.githubusercontent.com/u/1674646?s=40&v=4",
+          "name": "yann-lty",
+          "url": "https://github.com/yann-lty"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/21037233?s=40&v=4",
-          "name": "zekexiao",
-          "url": "https://github.com/zekexiao"
+          "avatar": "https://avatars.githubusercontent.com/u/16002026?s=40&v=4",
+          "name": "gregoire-dl",
+          "url": "https://github.com/gregoire-dl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29160005?s=40&v=4",
-          "name": "KomiMoe",
-          "url": "https://github.com/KomiMoe"
+          "avatar": "https://avatars.githubusercontent.com/u/70104194?s=40&v=4",
+          "name": "mugulmd",
+          "url": "https://github.com/mugulmd"
         }
       ]
     }

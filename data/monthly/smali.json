@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Monthly Trending",
   "description": "Monthly Trending of Smali Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 17 Oct 2025 02:26:35 GMT",
+  "pubDate": "Fri, 17 Oct 2025 07:23:06 GMT",
   "items": [
     {
       "title": "Morsmalleo/AhMyth",
@@ -80,7 +80,7 @@
       "language": "Smali",
       "languageColor": "#ccc",
       "stars": "2,376",
-      "forks": "115",
+      "forks": "114",
       "addStars": "56",
       "contributors": [
         {

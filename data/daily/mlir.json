@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 19 Oct 2025 13:22:21 GMT",
+  "pubDate": "Sun, 19 Oct 2025 19:17:16 GMT",
   "items": [
     {
       "title": "openxla/stablehlo",
@@ -84,7 +84,7 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "17,262",
+      "stars": "17,269",
       "forks": "2,319",
       "addStars": "9",
       "contributors": [

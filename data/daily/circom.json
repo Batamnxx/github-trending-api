@@ -2,7 +2,7 @@
   "title": "GitHub Circom Languages Daily Trending",
   "description": "Daily Trending of Circom Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 19 Oct 2025 13:22:21 GMT",
+  "pubDate": "Sun, 19 Oct 2025 19:17:16 GMT",
   "items": [
     {
       "title": "iden3/circomlib",
@@ -47,8 +47,8 @@
       "description": "Prove your self",
       "language": "Circom",
       "languageColor": "#707575",
-      "stars": "1,065",
-      "forks": "167",
+      "stars": "1,064",
+      "forks": "168",
       "addStars": "2",
       "contributors": [
         {

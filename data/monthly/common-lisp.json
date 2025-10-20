@@ -2,7 +2,7 @@
   "title": "GitHub Common-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Common-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 20 Oct 2025 13:29:11 GMT",
+  "pubDate": "Mon, 20 Oct 2025 19:19:36 GMT",
   "items": [
     {
       "title": "open-goal/jak-project",
@@ -79,7 +79,7 @@
       "description": "General-purpose editor/IDE with high expansibility in Common Lisp",
       "language": "Common Lisp",
       "languageColor": "#3fb68b",
-      "stars": "2,752",
+      "stars": "2,753",
       "forks": "226",
       "addStars": "21",
       "contributors": [

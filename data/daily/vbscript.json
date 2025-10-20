@@ -2,7 +2,7 @@
   "title": "GitHub Vbscript Languages Daily Trending",
   "description": "Daily Trending of Vbscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 20 Oct 2025 13:29:11 GMT",
+  "pubDate": "Mon, 20 Oct 2025 19:19:36 GMT",
   "items": [
     {
       "title": "abbodi1406/vcredist",
@@ -10,7 +10,7 @@
       "description": "AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes",
       "language": "VBScript",
       "languageColor": "#15dcdc",
-      "stars": "7,055",
+      "stars": "7,056",
       "forks": "386",
       "addStars": "10",
       "contributors": [
@@ -32,7 +32,7 @@
       "description": "A repository full of malware samples.",
       "language": "VBScript",
       "languageColor": "#15dcdc",
-      "stars": "1,447",
+      "stars": "1,448",
       "forks": "337",
       "addStars": "4",
       "contributors": [

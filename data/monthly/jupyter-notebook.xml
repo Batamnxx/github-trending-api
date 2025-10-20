@@ -3,7 +3,7 @@
     <title>GitHub Jupyter-notebook Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Jupyter-notebook Languages in GitHub</description>
-    <pubDate>Mon, 20 Oct 2025 07:24:18 GMT</pubDate>
+    <pubDate>Mon, 20 Oct 2025 13:29:11 GMT</pubDate>
     <item>
       <title>anthropics/prompt-eng-interactive-tutorial</title>
       <link>https://github.com/anthropics/prompt-eng-interactive-tutorial</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anthropics/prompt-eng-interactive-tutorial</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>24,608</stars>
-      <forks>2,252</forks>
+      <stars>24,658</stars>
+      <forks>2,258</forks>
       <addStars>6,216</addStars>
       <contributors>
         <contributor>
@@ -39,8 +39,8 @@
       <guid>https://github.com/anthropics/claude-cookbooks</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>22,512</stars>
-      <forks>2,364</forks>
+      <stars>22,940</stars>
+      <forks>2,376</forks>
       <addStars>1,684</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/QwenLM/Qwen3-VL</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>15,111</stars>
-      <forks>1,164</forks>
+      <stars>15,150</stars>
+      <forks>1,169</forks>
       <addStars>2,609</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/microsoft/ai-agents-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>42,930</stars>
-      <forks>14,206</forks>
+      <stars>42,958</stars>
+      <forks>14,216</forks>
       <addStars>4,065</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/datawhalechina/llm-cookbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>21,771</stars>
-      <forks>2,602</forks>
+      <stars>21,786</stars>
+      <forks>2,603</forks>
       <addStars>701</addStars>
       <contributors>
         <contributor>
@@ -185,52 +185,14 @@
       </contributors>
     </item>
     <item>
-      <title>gerstung-lab/Delphi</title>
-      <link>https://github.com/gerstung-lab/Delphi</link>
-      <description>Modelling human health trajectories using generative transformers</description>
-      <guid>https://github.com/gerstung-lab/Delphi</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>338</stars>
-      <forks>71</forks>
-      <addStars>170</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35387375?s=40&amp;v=4</avatar>
-          <name>yozhikoff</name>
-          <url>https://github.com/yozhikoff</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/112495?s=40&amp;v=4</avatar>
-          <name>tf2</name>
-          <url>https://github.com/tf2</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/55674614?s=40&amp;v=4</avatar>
-          <name>shawnfan19</name>
-          <url>https://github.com/shawnfan19</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/143084478?s=40&amp;v=4</avatar>
-          <name>vignesh1507</name>
-          <url>https://github.com/vignesh1507</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11527621?s=40&amp;v=4</avatar>
-          <name>EstebanDalelR</name>
-          <url>https://github.com/EstebanDalelR</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>anthropics/courses</title>
       <link>https://github.com/anthropics/courses</link>
       <description>Anthropic's educational courses</description>
       <guid>https://github.com/anthropics/courses</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>17,337</stars>
-      <forks>1,605</forks>
+      <stars>17,347</stars>
+      <forks>1,606</forks>
       <addStars>284</addStars>
       <contributors>
         <contributor>
@@ -261,149 +223,40 @@
       </contributors>
     </item>
     <item>
-      <title>datawhalechina/happy-llm</title>
-      <link>https://github.com/datawhalechina/happy-llm</link>
-      <description>📚 从零开始的大语言模型原理与实践教程</description>
-      <guid>https://github.com/datawhalechina/happy-llm</guid>
+      <title>udlbook/udlbook</title>
+      <link>https://github.com/udlbook/udlbook</link>
+      <description>Understanding Deep Learning - Simon J.D. Prince</description>
+      <guid>https://github.com/udlbook/udlbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>20,155</stars>
-      <forks>1,750</forks>
-      <addStars>2,491</addStars>
+      <stars>8,405</stars>
+      <forks>1,916</forks>
+      <addStars>471</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/77671993?s=40&amp;v=4</avatar>
-          <name>KMnO4-zx</name>
-          <url>https://github.com/KMnO4-zx</url>
+          <avatar>https://avatars.githubusercontent.com/u/110402648?s=40&amp;v=4</avatar>
+          <name>udlbook</name>
+          <url>https://github.com/udlbook</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/74288839?s=40&amp;v=4</avatar>
-          <name>logan-zou</name>
-          <url>https://github.com/logan-zou</url>
+          <avatar>https://avatars.githubusercontent.com/u/50220137?s=40&amp;v=4</avatar>
+          <name>tomheaton</name>
+          <url>https://github.com/tomheaton</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/184225750?s=40&amp;v=4</avatar>
-          <name>xinala-781</name>
-          <url>https://github.com/xinala-781</url>
+          <avatar>https://avatars.githubusercontent.com/u/38562595?s=40&amp;v=4</avatar>
+          <name>pitmonticone</name>
+          <url>https://github.com/pitmonticone</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58305964?s=40&amp;v=4</avatar>
-          <name>Zeyi-Lin</name>
-          <url>https://github.com/Zeyi-Lin</url>
+          <avatar>https://avatars.githubusercontent.com/u/10063907?s=40&amp;v=4</avatar>
+          <name>yrahal</name>
+          <url>https://github.com/yrahal</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/147008135?s=40&amp;v=4</avatar>
-          <name>MengYue-MK2000</name>
-          <url>https://github.com/MengYue-MK2000</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>GoogleCloudPlatform/python-docs-samples</title>
-      <link>https://github.com/GoogleCloudPlatform/python-docs-samples</link>
-      <description>Code samples used on cloud.google.com</description>
-      <guid>https://github.com/GoogleCloudPlatform/python-docs-samples</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>7,858</stars>
-      <forks>6,619</forks>
-      <addStars>39</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
-          <name>renovate-bot</name>
-          <url>https://github.com/renovate-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6719667?s=40&amp;v=4</avatar>
-          <name>leahecole</name>
-          <url>https://github.com/leahecole</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5184014?s=40&amp;v=4</avatar>
-          <name>parthea</name>
-          <url>https://github.com/parthea</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81719?s=40&amp;v=4</avatar>
-          <name>engelke</name>
-          <url>https://github.com/engelke</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>jakevdp/PythonDataScienceHandbook</title>
-      <link>https://github.com/jakevdp/PythonDataScienceHandbook</link>
-      <description>Python Data Science Handbook: full text in Jupyter Notebooks</description>
-      <guid>https://github.com/jakevdp/PythonDataScienceHandbook</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>45,818</stars>
-      <forks>18,562</forks>
-      <addStars>351</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/781659?s=40&amp;v=4</avatar>
-          <name>jakevdp</name>
-          <url>https://github.com/jakevdp</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6169306?s=40&amp;v=4</avatar>
-          <name>fuglede</name>
-          <url>https://github.com/fuglede</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7526622?s=40&amp;v=4</avatar>
-          <name>ncclementi</name>
-          <url>https://github.com/ncclementi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2459423?s=40&amp;v=4</avatar>
-          <name>vfdev-5</name>
-          <url>https://github.com/vfdev-5</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/107359?s=40&amp;v=4</avatar>
-          <name>rlgomes</name>
-          <url>https://github.com/rlgomes</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>pyannote/pyannote-audio</title>
-      <link>https://github.com/pyannote/pyannote-audio</link>
-      <description>Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding</description>
-      <guid>https://github.com/pyannote/pyannote-audio</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>8,509</stars>
-      <forks>955</forks>
-      <addStars>215</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1080837?s=40&amp;v=4</avatar>
-          <name>hbredin</name>
-          <url>https://github.com/hbredin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5440566?s=40&amp;v=4</avatar>
-          <name>mogwai</name>
-          <url>https://github.com/mogwai</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/55240756?s=40&amp;v=4</avatar>
-          <name>clement-pages</name>
-          <url>https://github.com/clement-pages</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5760780?s=40&amp;v=4</avatar>
-          <name>juanmc2005</name>
-          <url>https://github.com/juanmc2005</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14005967?s=40&amp;v=4</avatar>
-          <name>FrenchKrab</name>
-          <url>https://github.com/FrenchKrab</url>
+          <avatar>https://avatars.githubusercontent.com/u/111278851?s=40&amp;v=4</avatar>
+          <name>aleksandrskoselevs</name>
+          <url>https://github.com/aleksandrskoselevs</url>
         </contributor>
       </contributors>
     </item>
@@ -441,78 +294,116 @@
       </contributors>
     </item>
     <item>
-      <title>udlbook/udlbook</title>
-      <link>https://github.com/udlbook/udlbook</link>
-      <description>Understanding Deep Learning - Simon J.D. Prince</description>
-      <guid>https://github.com/udlbook/udlbook</guid>
+      <title>datawhalechina/happy-llm</title>
+      <link>https://github.com/datawhalechina/happy-llm</link>
+      <description>📚 从零开始的大语言模型原理与实践教程</description>
+      <guid>https://github.com/datawhalechina/happy-llm</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>8,400</stars>
-      <forks>1,915</forks>
-      <addStars>471</addStars>
+      <stars>20,177</stars>
+      <forks>1,752</forks>
+      <addStars>2,491</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/110402648?s=40&amp;v=4</avatar>
-          <name>udlbook</name>
-          <url>https://github.com/udlbook</url>
+          <avatar>https://avatars.githubusercontent.com/u/77671993?s=40&amp;v=4</avatar>
+          <name>KMnO4-zx</name>
+          <url>https://github.com/KMnO4-zx</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50220137?s=40&amp;v=4</avatar>
-          <name>tomheaton</name>
-          <url>https://github.com/tomheaton</url>
+          <avatar>https://avatars.githubusercontent.com/u/74288839?s=40&amp;v=4</avatar>
+          <name>logan-zou</name>
+          <url>https://github.com/logan-zou</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38562595?s=40&amp;v=4</avatar>
-          <name>pitmonticone</name>
-          <url>https://github.com/pitmonticone</url>
+          <avatar>https://avatars.githubusercontent.com/u/184225750?s=40&amp;v=4</avatar>
+          <name>xinala-781</name>
+          <url>https://github.com/xinala-781</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10063907?s=40&amp;v=4</avatar>
-          <name>yrahal</name>
-          <url>https://github.com/yrahal</url>
+          <avatar>https://avatars.githubusercontent.com/u/58305964?s=40&amp;v=4</avatar>
+          <name>Zeyi-Lin</name>
+          <url>https://github.com/Zeyi-Lin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/111278851?s=40&amp;v=4</avatar>
-          <name>aleksandrskoselevs</name>
-          <url>https://github.com/aleksandrskoselevs</url>
+          <avatar>https://avatars.githubusercontent.com/u/147008135?s=40&amp;v=4</avatar>
+          <name>MengYue-MK2000</name>
+          <url>https://github.com/MengYue-MK2000</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>google-gemini/cookbook</title>
-      <link>https://github.com/google-gemini/cookbook</link>
-      <description>Examples and guides for using the Gemini API</description>
-      <guid>https://github.com/google-gemini/cookbook</guid>
+      <title>jakevdp/PythonDataScienceHandbook</title>
+      <link>https://github.com/jakevdp/PythonDataScienceHandbook</link>
+      <description>Python Data Science Handbook: full text in Jupyter Notebooks</description>
+      <guid>https://github.com/jakevdp/PythonDataScienceHandbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>15,210</stars>
-      <forks>2,189</forks>
-      <addStars>563</addStars>
+      <stars>45,821</stars>
+      <forks>18,564</forks>
+      <addStars>351</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3638972?s=40&amp;v=4</avatar>
-          <name>Giom-V</name>
-          <url>https://github.com/Giom-V</url>
+          <avatar>https://avatars.githubusercontent.com/u/781659?s=40&amp;v=4</avatar>
+          <name>jakevdp</name>
+          <url>https://github.com/jakevdp</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/109308?s=40&amp;v=4</avatar>
-          <name>markmcd</name>
-          <url>https://github.com/markmcd</url>
+          <avatar>https://avatars.githubusercontent.com/u/6169306?s=40&amp;v=4</avatar>
+          <name>fuglede</name>
+          <url>https://github.com/fuglede</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1414837?s=40&amp;v=4</avatar>
-          <name>MarkDaoust</name>
-          <url>https://github.com/MarkDaoust</url>
+          <avatar>https://avatars.githubusercontent.com/u/7526622?s=40&amp;v=4</avatar>
+          <name>ncclementi</name>
+          <url>https://github.com/ncclementi</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19695904?s=40&amp;v=4</avatar>
-          <name>random-forests</name>
-          <url>https://github.com/random-forests</url>
+          <avatar>https://avatars.githubusercontent.com/u/2459423?s=40&amp;v=4</avatar>
+          <name>vfdev-5</name>
+          <url>https://github.com/vfdev-5</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/86306690?s=40&amp;v=4</avatar>
-          <name>andycandy</name>
-          <url>https://github.com/andycandy</url>
+          <avatar>https://avatars.githubusercontent.com/u/107359?s=40&amp;v=4</avatar>
+          <name>rlgomes</name>
+          <url>https://github.com/rlgomes</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>pyannote/pyannote-audio</title>
+      <link>https://github.com/pyannote/pyannote-audio</link>
+      <description>Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding</description>
+      <guid>https://github.com/pyannote/pyannote-audio</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>8,511</stars>
+      <forks>955</forks>
+      <addStars>215</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1080837?s=40&amp;v=4</avatar>
+          <name>hbredin</name>
+          <url>https://github.com/hbredin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5440566?s=40&amp;v=4</avatar>
+          <name>mogwai</name>
+          <url>https://github.com/mogwai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/55240756?s=40&amp;v=4</avatar>
+          <name>clement-pages</name>
+          <url>https://github.com/clement-pages</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5760780?s=40&amp;v=4</avatar>
+          <name>juanmc2005</name>
+          <url>https://github.com/juanmc2005</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14005967?s=40&amp;v=4</avatar>
+          <name>FrenchKrab</name>
+          <url>https://github.com/FrenchKrab</url>
         </contributor>
       </contributors>
     </item>
@@ -523,7 +414,7 @@
       <guid>https://github.com/AI4Finance-Foundation/FinRL</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>12,926</stars>
+      <stars>12,928</stars>
       <forks>2,977</forks>
       <addStars>312</addStars>
       <contributors>
@@ -551,6 +442,44 @@
           <avatar>https://avatars.githubusercontent.com/u/61444295?s=40&amp;v=4</avatar>
           <name>rayrui312</name>
           <url>https://github.com/rayrui312</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>google-gemini/cookbook</title>
+      <link>https://github.com/google-gemini/cookbook</link>
+      <description>Examples and guides for using the Gemini API</description>
+      <guid>https://github.com/google-gemini/cookbook</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>15,217</stars>
+      <forks>2,190</forks>
+      <addStars>563</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3638972?s=40&amp;v=4</avatar>
+          <name>Giom-V</name>
+          <url>https://github.com/Giom-V</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/109308?s=40&amp;v=4</avatar>
+          <name>markmcd</name>
+          <url>https://github.com/markmcd</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1414837?s=40&amp;v=4</avatar>
+          <name>MarkDaoust</name>
+          <url>https://github.com/MarkDaoust</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19695904?s=40&amp;v=4</avatar>
+          <name>random-forests</name>
+          <url>https://github.com/random-forests</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/86306690?s=40&amp;v=4</avatar>
+          <name>andycandy</name>
+          <url>https://github.com/andycandy</url>
         </contributor>
       </contributors>
     </item>
@@ -599,8 +528,8 @@
       <guid>https://github.com/SakanaAI/AI-Scientist</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>11,613</stars>
-      <forks>1,699</forks>
+      <stars>11,614</stars>
+      <forks>1,700</forks>
       <addStars>124</addStars>
       <contributors>
         <contributor>
@@ -631,13 +560,46 @@
       </contributors>
     </item>
     <item>
+      <title>GoogleCloudPlatform/python-docs-samples</title>
+      <link>https://github.com/GoogleCloudPlatform/python-docs-samples</link>
+      <description>Code samples used on cloud.google.com</description>
+      <guid>https://github.com/GoogleCloudPlatform/python-docs-samples</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>7,858</stars>
+      <forks>6,621</forks>
+      <addStars>39</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
+          <name>renovate-bot</name>
+          <url>https://github.com/renovate-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6719667?s=40&amp;v=4</avatar>
+          <name>leahecole</name>
+          <url>https://github.com/leahecole</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5184014?s=40&amp;v=4</avatar>
+          <name>parthea</name>
+          <url>https://github.com/parthea</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81719?s=40&amp;v=4</avatar>
+          <name>engelke</name>
+          <url>https://github.com/engelke</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>Lifelong-Robot-Learning/LIBERO</title>
       <link>https://github.com/Lifelong-Robot-Learning/LIBERO</link>
       <description>Benchmarking Knowledge Transfer in Lifelong Robot Learning</description>
       <guid>https://github.com/Lifelong-Robot-Learning/LIBERO</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>993</stars>
+      <stars>997</stars>
       <forks>203</forks>
       <addStars>111</addStars>
       <contributors>
@@ -664,40 +626,40 @@
       </contributors>
     </item>
     <item>
-      <title>aimacode/aima-python</title>
-      <link>https://github.com/aimacode/aima-python</link>
-      <description>Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"</description>
-      <guid>https://github.com/aimacode/aima-python</guid>
+      <title>openai/CLIP</title>
+      <link>https://github.com/openai/CLIP</link>
+      <description>CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image</description>
+      <guid>https://github.com/openai/CLIP</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>8,546</stars>
-      <forks>3,992</forks>
-      <addStars>63</addStars>
+      <stars>31,143</stars>
+      <forks>3,796</forks>
+      <addStars>427</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6712?s=40&amp;v=4</avatar>
-          <name>darius</name>
-          <url>https://github.com/darius</url>
+          <avatar>https://avatars.githubusercontent.com/u/266841?s=40&amp;v=4</avatar>
+          <name>jongwook</name>
+          <url>https://github.com/jongwook</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4370220?s=40&amp;v=4</avatar>
-          <name>norvig</name>
-          <url>https://github.com/norvig</url>
+          <avatar>https://avatars.githubusercontent.com/u/3905501?s=40&amp;v=4</avatar>
+          <name>bryant1410</name>
+          <url>https://github.com/bryant1410</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17463361?s=40&amp;v=4</avatar>
-          <name>antmarakis</name>
-          <url>https://github.com/antmarakis</url>
+          <avatar>https://avatars.githubusercontent.com/u/16820751?s=40&amp;v=4</avatar>
+          <name>jiahuei</name>
+          <url>https://github.com/jiahuei</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7132995?s=40&amp;v=4</avatar>
-          <name>SnShine</name>
-          <url>https://github.com/SnShine</url>
+          <avatar>https://avatars.githubusercontent.com/u/22434019?s=40&amp;v=4</avatar>
+          <name>kcosta42</name>
+          <url>https://github.com/kcosta42</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9061913?s=40&amp;v=4</avatar>
-          <name>reachtarunhere</name>
-          <url>https://github.com/reachtarunhere</url>
+          <avatar>https://avatars.githubusercontent.com/u/49984106?s=40&amp;v=4</avatar>
+          <name>or-toledano</name>
+          <url>https://github.com/or-toledano</url>
         </contributor>
       </contributors>
     </item>

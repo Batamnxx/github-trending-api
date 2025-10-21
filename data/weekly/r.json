@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Weekly Trending",
   "description": "Weekly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 21 Oct 2025 13:33:39 GMT",
+  "pubDate": "Tue, 21 Oct 2025 19:19:55 GMT",
   "items": [
     {
       "title": "satijalab/seurat",
@@ -47,7 +47,7 @@
       "description": "Collection of various algorithms implemented in R.",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "1,029",
+      "stars": "1,030",
       "forks": "342",
       "addStars": "8",
       "contributors": [
@@ -417,7 +417,7 @@
       "description": "Make Complex Heatmaps",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "1,425",
+      "stars": "1,426",
       "forks": "241",
       "addStars": "3",
       "contributors": [

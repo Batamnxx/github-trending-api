@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 20 Oct 2025 19:19:36 GMT</pubDate>
+    <pubDate>Tue, 21 Oct 2025 02:39:40 GMT</pubDate>
     <item>
       <title>anthropics/claude-cookbooks</title>
       <link>https://github.com/anthropics/claude-cookbooks</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/anthropics/claude-cookbooks</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>23,273</stars>
-      <forks>2,401</forks>
-      <addStars>1,306</addStars>
+      <stars>23,629</stars>
+      <forks>2,416</forks>
+      <addStars>1,305</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/346275?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/SagerNet/sing-box</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>27,337</stars>
-      <forks>3,189</forks>
-      <addStars>52</addStars>
+      <stars>27,378</stars>
+      <forks>3,193</forks>
+      <addStars>28</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/56506714?s=40&amp;v=4</avatar>
@@ -87,8 +87,8 @@
       <guid>https://github.com/DrewThomasson/ebook2audiobook</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,404</stars>
-      <forks>943</forks>
+      <stars>12,529</stars>
+      <forks>954</forks>
       <addStars>324</addStars>
       <contributors>
         <contributor>
@@ -120,9 +120,9 @@
       <guid>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
       <language/>
       <languageColor/>
-      <stars>92,194</stars>
-      <forks>24,999</forks>
-      <addStars>235</addStars>
+      <stars>92,276</stars>
+      <forks>25,011</forks>
+      <addStars>233</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/185671340?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/huggingface/lerobot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>18,258</stars>
-      <forks>2,795</forks>
-      <addStars>88</addStars>
+      <stars>18,318</stars>
+      <forks>2,801</forks>
+      <addStars>89</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/75076266?s=40&amp;v=4</avatar>
@@ -196,8 +196,8 @@
       <guid>https://github.com/wavetermdev/waveterm</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>12,167</stars>
-      <forks>489</forks>
+      <stars>12,221</stars>
+      <forks>490</forks>
       <addStars>201</addStars>
       <contributors>
         <contributor>
@@ -224,9 +224,9 @@
       <guid>https://github.com/karpathy/micrograd</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>13,141</stars>
+      <stars>13,187</stars>
       <forks>1,954</forks>
-      <addStars>115</addStars>
+      <addStars>114</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
@@ -247,9 +247,9 @@
       <guid>https://github.com/huggingface/chat-ui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,557</stars>
-      <forks>1,461</forks>
-      <addStars>224</addStars>
+      <stars>9,624</stars>
+      <forks>1,465</forks>
+      <addStars>223</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25119303?s=40&amp;v=4</avatar>
@@ -285,8 +285,8 @@
       <guid>https://github.com/TheAlgorithms/Python</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>211,587</stars>
-      <forks>48,840</forks>
+      <stars>211,646</stars>
+      <forks>48,846</forks>
       <addStars>234</addStars>
       <contributors>
         <contributor>
@@ -318,9 +318,9 @@
       <guid>https://github.com/lfnovo/open-notebook</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,096</stars>
-      <forks>619</forks>
-      <addStars>531</addStars>
+      <stars>6,235</stars>
+      <forks>625</forks>
+      <addStars>527</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4</avatar>
@@ -351,9 +351,9 @@
       <guid>https://github.com/Anuken/Mindustry</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>25,101</stars>
-      <forks>3,236</forks>
-      <addStars>48</addStars>
+      <stars>25,156</stars>
+      <forks>3,239</forks>
+      <addStars>12</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10100000?s=40&amp;v=4</avatar>
@@ -389,9 +389,9 @@
       <guid>https://github.com/Skyvern-AI/skyvern</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,931</stars>
-      <forks>1,271</forks>
-      <addStars>220</addStars>
+      <stars>14,983</stars>
+      <forks>1,272</forks>
+      <addStars>218</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5225702?s=40&amp;v=4</avatar>
@@ -427,8 +427,8 @@
       <guid>https://github.com/PaddlePaddle/PaddleOCR</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>59,454</stars>
-      <forks>9,010</forks>
+      <stars>59,597</stars>
+      <forks>9,019</forks>
       <addStars>713</addStars>
       <contributors>
         <contributor>
@@ -465,9 +465,9 @@
       <guid>https://github.com/clockworklabs/SpacetimeDB</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>17,908</stars>
-      <forks>625</forks>
-      <addStars>160</addStars>
+      <stars>17,949</stars>
+      <forks>626</forks>
+      <addStars>159</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/855702?s=40&amp;v=4</avatar>
@@ -503,8 +503,8 @@
       <guid>https://github.com/basecamp/omarchy</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>14,995</stars>
-      <forks>1,372</forks>
+      <stars>15,062</stars>
+      <forks>1,374</forks>
       <addStars>191</addStars>
       <contributors>
         <contributor>
@@ -541,9 +541,9 @@
       <guid>https://github.com/BurntSushi/ripgrep</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>56,458</stars>
+      <stars>56,496</stars>
       <forks>2,270</forks>
-      <addStars>63</addStars>
+      <addStars>65</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/456674?s=40&amp;v=4</avatar>
@@ -579,9 +579,9 @@
       <guid>https://github.com/mountain-loop/yaak</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,776</stars>
-      <forks>313</forks>
-      <addStars>433</addStars>
+      <stars>8,997</stars>
+      <forks>319</forks>
+      <addStars>431</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/587576?s=40&amp;v=4</avatar>
@@ -612,9 +612,9 @@
       <guid>https://github.com/tokio-rs/tokio</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>29,888</stars>
+      <stars>29,924</stars>
       <forks>2,802</forks>
-      <addStars>44</addStars>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/33116358?s=40&amp;v=4</avatar>
@@ -650,8 +650,8 @@
       <guid>https://github.com/EbookFoundation/free-programming-books</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>373,840</stars>
-      <forks>64,956</forks>
+      <stars>373,954</stars>
+      <forks>64,966</forks>
       <addStars>507</addStars>
       <contributors>
         <contributor>
@@ -688,9 +688,9 @@
       <guid>https://github.com/Atlas-OS/Atlas</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>17,286</stars>
-      <forks>618</forks>
-      <addStars>97</addStars>
+      <stars>17,427</stars>
+      <forks>623</forks>
+      <addStars>64</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/65787561?s=40&amp;v=4</avatar>

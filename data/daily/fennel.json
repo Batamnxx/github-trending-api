@@ -2,7 +2,7 @@
   "title": "GitHub Fennel Languages Daily Trending",
   "description": "Daily Trending of Fennel Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 20 Oct 2025 19:19:36 GMT",
+  "pubDate": "Tue, 21 Oct 2025 02:39:40 GMT",
   "items": [
     {
       "title": "ggandor/leap.nvim",
@@ -10,9 +10,9 @@
       "description": "Neovim's answer to the mouse 🦘",
       "language": "Fennel",
       "languageColor": "#fff3d7",
-      "stars": "4,896",
+      "stars": "4,897",
       "forks": "47",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17800844?s=40&v=4",

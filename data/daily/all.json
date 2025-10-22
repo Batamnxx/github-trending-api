@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 22 Oct 2025 02:43:25 GMT",
+  "pubDate": "Wed, 22 Oct 2025 07:23:26 GMT",
   "items": [
     {
       "title": "mountain-loop/yaak",
@@ -10,8 +10,8 @@
       "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,461",
-      "forks": "360",
+      "stars": "10,820",
+      "forks": "374",
       "addStars": "640",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "76,510",
-      "forks": "6,779",
+      "stars": "76,610",
+      "forks": "6,782",
       "addStars": "128",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,811",
-      "forks": "685",
+      "stars": "6,913",
+      "forks": "689",
       "addStars": "480",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,956",
-      "forks": "978",
+      "stars": "13,039",
+      "forks": "983",
       "addStars": "474",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "24,369",
-      "forks": "2,458",
+      "stars": "24,448",
+      "forks": "2,468",
       "addStars": "1,413",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "A cat(1) clone with wings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "55,342",
-      "forks": "1,382",
+      "stars": "55,379",
+      "forks": "1,383",
       "addStars": "75",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "Automate browser-based workflows with LLMs and Computer Vision",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,148",
-      "forks": "1,285",
+      "stars": "15,185",
+      "forks": "1,288",
       "addStars": "189",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,133",
-      "forks": "1,479",
+      "stars": "4,179",
+      "forks": "1,487",
       "addStars": "15",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,953",
-      "forks": "914",
+      "stars": "8,013",
+      "forks": "915",
       "addStars": "17",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "32,533",
+      "stars": "32,599",
       "forks": "3,291",
       "addStars": "509",
       "contributors": [
@@ -355,8 +355,8 @@
       "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,539",
-      "forks": "1,796",
+      "stars": "16,585",
+      "forks": "1,801",
       "addStars": "80",
       "contributors": [
         {
@@ -382,8 +382,8 @@
       "description": "The automation tower defense RTS",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "25,307",
-      "forks": "3,245",
+      "stars": "25,337",
+      "forks": "3,247",
       "addStars": "185",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,121",
-      "forks": "9,055",
+      "stars": "60,246",
+      "forks": "9,064",
       "addStars": "573",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "Open source codebase powering the HuggingChat app",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,796",
-      "forks": "1,477",
+      "stars": "9,843",
+      "forks": "1,483",
       "addStars": "189",
       "contributors": [
         {
@@ -493,8 +493,8 @@
       "description": "📚 Freely available programming books",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "374,385",
-      "forks": "65,027",
+      "stars": "374,438",
+      "forks": "65,031",
       "addStars": "429",
       "contributors": [
         {
@@ -530,8 +530,8 @@
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,764",
-      "forks": "15,679",
+      "stars": "8,807",
+      "forks": "15,686",
       "addStars": "53",
       "contributors": [
         {
@@ -567,8 +567,8 @@
       "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "90,640",
-      "forks": "6,870",
+      "stars": "90,745",
+      "forks": "6,879",
       "addStars": "372",
       "contributors": [
         {
@@ -599,8 +599,8 @@
       "description": "Multiplayer at the speed of light",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,090",
-      "forks": "631",
+      "stars": "18,118",
+      "forks": "632",
       "addStars": "168",
       "contributors": [
         {
@@ -636,8 +636,8 @@
       "description": "Introduction to Machine Learning Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,010",
-      "forks": "439",
+      "stars": "4,091",
+      "forks": "447",
       "addStars": "250",
       "contributors": [
         {

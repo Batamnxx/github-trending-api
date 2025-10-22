@@ -2,7 +2,7 @@
   "title": "GitHub Open-policy-agent Languages Weekly Trending",
   "description": "Weekly Trending of Open-policy-agent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 22 Oct 2025 02:43:25 GMT",
+  "pubDate": "Wed, 22 Oct 2025 07:23:26 GMT",
   "items": [
     {
       "title": "open-telemetry/semantic-conventions",
@@ -117,7 +117,7 @@
       "language": "Open Policy Agent",
       "languageColor": "#7d9199",
       "stars": "2,494",
-      "forks": "347",
+      "forks": "348",
       "addStars": "8",
       "contributors": [
         {

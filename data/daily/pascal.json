@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Daily Trending",
   "description": "Daily Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 22 Oct 2025 02:43:25 GMT",
+  "pubDate": "Wed, 22 Oct 2025 07:23:26 GMT",
   "items": [
     {
       "title": "peazip/PeaZip",
@@ -10,8 +10,8 @@
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "6,285",
-      "forks": "337",
+      "stars": "6,289",
+      "forks": "338",
       "addStars": "20",
       "contributors": [
         {
@@ -116,12 +116,34 @@
       ]
     },
     {
+      "title": "pleumann/pasta80",
+      "url": "https://github.com/pleumann/pasta80",
+      "description": "Turbo Pascal 3.0-compatible compiler that generates machine code for classic and modern Z80 machines (currently ZX Spectrum 48K/128K/Next and CP/M).",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": "112",
+      "forks": "3",
+      "addStars": "79",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3965372?s=40&v=4",
+          "name": "pleumann",
+          "url": "https://github.com/pleumann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64479393?s=40&v=4",
+          "name": "the-other-dev",
+          "url": "https://github.com/the-other-dev"
+        }
+      ]
+    },
+    {
       "title": "HeidiSQL/HeidiSQL",
       "url": "https://github.com/HeidiSQL/HeidiSQL",
       "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "5,427",
+      "stars": "5,428",
       "forks": "515",
       "addStars": "5",
       "contributors": [
@@ -244,7 +266,7 @@
       "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "3,540",
+      "stars": "3,542",
       "forks": "243",
       "addStars": "1",
       "contributors": [

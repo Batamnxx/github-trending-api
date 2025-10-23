@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Monthly Trending",
   "description": "Monthly Trending of Verilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 23 Oct 2025 02:37:42 GMT",
+  "pubDate": "Thu, 23 Oct 2025 07:23:47 GMT",
   "items": [
     {
       "title": "The-OpenROAD-Project/OpenROAD",
@@ -191,7 +191,7 @@
       "language": "Verilog",
       "languageColor": "#b2b7f8",
       "stars": "1,766",
-      "forks": "1,604",
+      "forks": "1,605",
       "addStars": "26",
       "contributors": [
         {

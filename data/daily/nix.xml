@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Nix Languages in GitHub</description>
-    <pubDate>Thu, 23 Oct 2025 02:37:42 GMT</pubDate>
+    <pubDate>Thu, 23 Oct 2025 07:23:47 GMT</pubDate>
     <item>
       <title>nix-community/nixvim</title>
       <link>https://github.com/nix-community/nixvim</link>
@@ -143,7 +143,7 @@
       <guid>https://github.com/nix-community/stylix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,923</stars>
+      <stars>1,924</stars>
       <forks>269</forks>
       <addStars>3</addStars>
       <contributors>
@@ -329,7 +329,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>22,164</stars>
-      <forks>17,029</forks>
+      <forks>17,030</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -475,7 +475,7 @@
       <guid>https://github.com/nix-community/plasma-manager</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>956</stars>
+      <stars>957</stars>
       <forks>92</forks>
       <addStars>1</addStars>
       <contributors>
@@ -513,7 +513,7 @@
       <guid>https://github.com/NotAShelf/nvf</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,168</stars>
+      <stars>1,169</stars>
       <forks>163</forks>
       <addStars>4</addStars>
       <contributors>
@@ -627,7 +627,7 @@
       <guid>https://github.com/numtide/nix-ai-tools</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>196</stars>
+      <stars>197</stars>
       <forks>20</forks>
       <addStars>3</addStars>
       <contributors>

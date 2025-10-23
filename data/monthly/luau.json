@@ -2,7 +2,7 @@
   "title": "GitHub Luau Languages Monthly Trending",
   "description": "Monthly Trending of Luau Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 23 Oct 2025 13:31:41 GMT",
+  "pubDate": "Thu, 23 Oct 2025 19:19:12 GMT",
   "items": [
     {
       "title": "rojo-rbx/rojo",
@@ -48,7 +48,7 @@
       "language": "Luau",
       "languageColor": "#00A2FF",
       "stars": "401",
-      "forks": "216",
+      "forks": "217",
       "addStars": "19",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Monthly Trending",
   "description": "Monthly Trending of Yaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 24 Oct 2025 13:30:18 GMT",
+  "pubDate": "Fri, 24 Oct 2025 19:19:05 GMT",
   "items": [
     {
       "title": "web-platform-dx/web-features",
@@ -191,7 +191,7 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": "185",
-      "forks": "503",
+      "forks": "504",
       "addStars": "8",
       "contributors": [
         {
@@ -265,7 +265,7 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": "227",
-      "forks": "224",
+      "forks": "223",
       "addStars": "12",
       "contributors": [
         {

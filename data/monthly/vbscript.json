@@ -2,7 +2,7 @@
   "title": "GitHub Vbscript Languages Monthly Trending",
   "description": "Monthly Trending of Vbscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 24 Oct 2025 13:30:18 GMT",
+  "pubDate": "Fri, 24 Oct 2025 19:19:05 GMT",
   "items": [
     {
       "title": "abbodi1406/vcredist",
@@ -32,7 +32,7 @@
       "description": "Collection of batch scripts utilities for Windows",
       "language": "VBScript",
       "languageColor": "#15dcdc",
-      "stars": "1,264",
+      "stars": "1,265",
       "forks": "270",
       "addStars": "35",
       "contributors": [

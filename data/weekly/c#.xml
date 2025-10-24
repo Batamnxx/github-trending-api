@@ -3,7 +3,7 @@
     <title>GitHub C# Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of C# Languages in GitHub</description>
-    <pubDate>Thu, 23 Oct 2025 19:19:12 GMT</pubDate>
+    <pubDate>Fri, 24 Oct 2025 07:22:43 GMT</pubDate>
     <item>
       <title>raysan5/raylib</title>
       <link>https://github.com/raysan5/raylib</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/raysan5/raylib</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>28,844</stars>
-      <forks>2,746</forks>
-      <addStars>48</addStars>
+      <stars>28,860</stars>
+      <forks>2,748</forks>
+      <addStars>58</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5766837?s=40&amp;v=4</avatar>
@@ -44,7 +44,7 @@
       <guid>https://github.com/valkey-io/valkey</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>23,341</stars>
+      <stars>23,352</stars>
       <forks>927</forks>
       <addStars>36</addStars>
       <contributors>
@@ -76,13 +76,51 @@
       </contributors>
     </item>
     <item>
+      <title>Adaptix-Framework/AdaptixC2</title>
+      <link>https://github.com/Adaptix-Framework/AdaptixC2</link>
+      <description/>
+      <guid>https://github.com/Adaptix-Framework/AdaptixC2</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>2,129</stars>
+      <forks>388</forks>
+      <addStars>5</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54005327?s=40&amp;v=4</avatar>
+          <name>RalfHacker</name>
+          <url>https://github.com/RalfHacker</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36565320?s=40&amp;v=4</avatar>
+          <name>Xre0uS</name>
+          <url>https://github.com/Xre0uS</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8576432?s=40&amp;v=4</avatar>
+          <name>shantanu561993</name>
+          <url>https://github.com/shantanu561993</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36631807?s=40&amp;v=4</avatar>
+          <name>exil-security</name>
+          <url>https://github.com/exil-security</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/91541985?s=40&amp;v=4</avatar>
+          <name>yinsel</name>
+          <url>https://github.com/yinsel</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>warmcat/libwebsockets</title>
       <link>https://github.com/warmcat/libwebsockets</link>
       <description>canonical libwebsockets.org networking library</description>
       <guid>https://github.com/warmcat/libwebsockets</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>5,114</stars>
+      <stars>5,115</stars>
       <forks>1,559</forks>
       <addStars>1</addStars>
       <contributors>
@@ -120,9 +158,9 @@
       <guid>https://github.com/tianocore/edk2</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>5,520</stars>
+      <stars>5,521</stars>
       <forks>2,910</forks>
-      <addStars>6</addStars>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8294960?s=40&amp;v=4</avatar>
@@ -158,8 +196,8 @@
       <guid>https://github.com/ValdikSS/GoodbyeDPI</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>27,300</stars>
-      <forks>2,062</forks>
+      <stars>27,304</stars>
+      <forks>2,063</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -196,7 +234,7 @@
       <guid>https://github.com/madler/zlib</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,446</stars>
+      <stars>6,447</stars>
       <forks>2,639</forks>
       <addStars>2</addStars>
       <contributors>
@@ -235,7 +273,7 @@
       <language>C</language>
       <languageColor>#555555</languageColor>
       <stars>1,167</stars>
-      <forks>1,399</forks>
+      <forks>1,398</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -273,8 +311,8 @@
       <language>C</language>
       <languageColor>#555555</languageColor>
       <stars>3,591</stars>
-      <forks>1,365</forks>
-      <addStars>2</addStars>
+      <forks>1,364</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3073890?s=40&amp;v=4</avatar>
@@ -310,8 +348,8 @@
       <guid>https://github.com/bol-van/zapret</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>12,826</stars>
-      <forks>906</forks>
+      <stars>12,835</stars>
+      <forks>905</forks>
       <addStars>22</addStars>
       <contributors>
         <contributor>
@@ -348,9 +386,9 @@
       <guid>https://github.com/Mbed-TLS/mbedtls</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,191</stars>
+      <stars>6,192</stars>
       <forks>2,781</forks>
-      <addStars>5</addStars>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/26596258?s=40&amp;v=4</avatar>
@@ -386,9 +424,9 @@
       <guid>https://github.com/haproxy/haproxy</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,026</stars>
+      <stars>6,028</stars>
       <forks>867</forks>
-      <addStars>3</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8141789?s=40&amp;v=4</avatar>
@@ -424,8 +462,8 @@
       <guid>https://github.com/sonic-net/sonic-buildimage</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>884</stars>
-      <forks>1,650</forks>
+      <stars>885</stars>
+      <forks>1,652</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -462,9 +500,9 @@
       <guid>https://github.com/hathach/tinyusb</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,166</stars>
+      <stars>6,167</stars>
       <forks>1,289</forks>
-      <addStars>2</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/249515?s=40&amp;v=4</avatar>
@@ -500,9 +538,9 @@
       <guid>https://github.com/netdata/netdata</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>76,460</stars>
-      <forks>6,208</forks>
-      <addStars>9</addStars>
+      <stars>76,467</stars>
+      <forks>6,207</forks>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2662304?s=40&amp;v=4</avatar>
@@ -538,9 +576,9 @@
       <guid>https://github.com/libuv/libuv</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>25,950</stars>
-      <forks>3,770</forks>
-      <addStars>3</addStars>
+      <stars>25,952</stars>
+      <forks>3,772</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/275871?s=40&amp;v=4</avatar>
@@ -576,9 +614,9 @@
       <guid>https://github.com/PerformanC/ReZygisk</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>2,605</stars>
+      <stars>2,608</stars>
       <forks>230</forks>
-      <addStars>8</addStars>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/73797168?s=40&amp;v=4</avatar>
@@ -614,9 +652,9 @@
       <guid>https://github.com/zephyrproject-rtos/zephyr</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>13,347</stars>
-      <forks>8,092</forks>
-      <addStars>7</addStars>
+      <stars>13,356</stars>
+      <forks>8,096</forks>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/180017?s=40&amp;v=4</avatar>
@@ -652,9 +690,9 @@
       <guid>https://github.com/containers/bubblewrap</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>4,891</stars>
+      <stars>4,894</stars>
       <forks>263</forks>
-      <addStars>10</addStars>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1561141?s=40&amp;v=4</avatar>
@@ -692,7 +730,7 @@
       <languageColor>#555555</languageColor>
       <stars>2,501</stars>
       <forks>441</forks>
-      <addStars>5</addStars>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4117296?s=40&amp;v=4</avatar>
@@ -729,8 +767,8 @@
       <language>C</language>
       <languageColor>#555555</languageColor>
       <stars>8,565</stars>
-      <forks>3,094</forks>
-      <addStars>1</addStars>
+      <forks>3,095</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4139006?s=40&amp;v=4</avatar>
@@ -767,7 +805,7 @@
       <language>C</language>
       <languageColor>#555555</languageColor>
       <stars>2,232</stars>
-      <forks>905</forks>
+      <forks>907</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>

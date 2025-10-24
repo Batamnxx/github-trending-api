@@ -3,7 +3,7 @@
     <title>GitHub Handlebars Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Handlebars Languages in GitHub</description>
-    <pubDate>Thu, 23 Oct 2025 19:19:12 GMT</pubDate>
+    <pubDate>Fri, 24 Oct 2025 02:24:53 GMT</pubDate>
     <item>
       <title>elastic/integrations</title>
       <link>https://github.com/elastic/integrations</link>
@@ -59,14 +59,14 @@
           <url>https://github.com/osanseviero</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11827707?s=40&amp;v=4</avatar>
-          <name>mishig25</name>
-          <url>https://github.com/mishig25</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11801849?s=40&amp;v=4</avatar>
           <name>Wauplin</name>
           <url>https://github.com/Wauplin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11827707?s=40&amp;v=4</avatar>
+          <name>mishig25</name>
+          <url>https://github.com/mishig25</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/53175384?s=40&amp;v=4</avatar>
@@ -83,7 +83,7 @@
       <language>Handlebars</language>
       <languageColor>#f7931e</languageColor>
       <stars>218</stars>
-      <forks>6,155</forks>
+      <forks>6,156</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>

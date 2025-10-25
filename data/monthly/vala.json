@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Monthly Trending",
   "description": "Monthly Trending of Vala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 25 Oct 2025 02:26:36 GMT",
+  "pubDate": "Sat, 25 Oct 2025 07:20:34 GMT",
   "items": [
     {
       "title": "linuxmint/timeshift",
@@ -254,7 +254,7 @@
       "description": "A modern compatibility tools manager",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "895",
+      "stars": "896",
       "forks": "27",
       "addStars": "44",
       "contributors": [

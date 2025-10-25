@@ -3,7 +3,7 @@
     <title>GitHub Jupyter-notebook Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
-    <pubDate>Sat, 25 Oct 2025 02:26:36 GMT</pubDate>
+    <pubDate>Sat, 25 Oct 2025 07:20:34 GMT</pubDate>
     <item>
       <title>Arize-ai/phoenix</title>
       <link>https://github.com/Arize-ai/phoenix</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/Arize-ai/phoenix</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>7,432</stars>
+      <stars>7,452</stars>
       <forks>602</forks>
       <addStars>14</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/openai/CLIP</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>31,223</stars>
+      <stars>31,226</stars>
       <forks>3,803</forks>
       <addStars>29</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>6,338</stars>
-      <forks>3,383</forks>
+      <stars>6,339</stars>
+      <forks>3,384</forks>
       <addStars>16</addStars>
       <contributors>
         <contributor>
@@ -158,7 +158,7 @@
       <guid>https://github.com/karpathy/nn-zero-to-hero</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>18,081</stars>
+      <stars>18,085</stars>
       <forks>2,496</forks>
       <addStars>21</addStars>
       <contributors>
@@ -220,7 +220,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>29,084</stars>
-      <forks>87,343</forks>
+      <forks>87,342</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>
@@ -247,7 +247,7 @@
       <guid>https://github.com/amazon-science/chronos-forecasting</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>3,828</stars>
+      <stars>3,831</stars>
       <forks>444</forks>
       <addStars>28</addStars>
       <contributors>
@@ -285,8 +285,8 @@
       <guid>https://github.com/rasbt/LLMs-from-scratch</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>76,136</stars>
-      <forks>11,203</forks>
+      <stars>76,151</stars>
+      <forks>11,205</forks>
       <addStars>79</addStars>
       <contributors>
         <contributor>
@@ -323,7 +323,7 @@
       <guid>https://github.com/facebookresearch/sam2</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>17,385</stars>
+      <stars>17,386</stars>
       <forks>2,161</forks>
       <addStars>16</addStars>
       <contributors>
@@ -362,7 +362,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>2,921</stars>
-      <forks>329</forks>
+      <forks>330</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -437,7 +437,7 @@
       <guid>https://github.com/langchain-ai/deep_research_from_scratch</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>546</stars>
+      <stars>548</stars>
       <forks>170</forks>
       <addStars>2</addStars>
       <contributors>
@@ -503,7 +503,7 @@
       <guid>https://github.com/Marktechpost/AI-Tutorial-Codes-Included</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>1,293</stars>
+      <stars>1,295</stars>
       <forks>258</forks>
       <addStars>17</addStars>
       <contributors>
@@ -544,44 +544,6 @@
           <avatar>https://avatars.githubusercontent.com/u/48327001?s=40&amp;v=4</avatar>
           <name>NielsRogge</name>
           <url>https://github.com/NielsRogge</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ghostmkg/programming-language</title>
-      <link>https://github.com/ghostmkg/programming-language</link>
-      <description>You write code in any programming language you want. And push the code.</description>
-      <guid>https://github.com/ghostmkg/programming-language</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>88</stars>
-      <forks>260</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/155181043?s=40&amp;v=4</avatar>
-          <name>ghostmkg</name>
-          <url>https://github.com/ghostmkg</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/109039306?s=40&amp;v=4</avatar>
-          <name>pukarlamichhane</name>
-          <url>https://github.com/pukarlamichhane</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/184142102?s=40&amp;v=4</avatar>
-          <name>biru-codeastromer</name>
-          <url>https://github.com/biru-codeastromer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/142304352?s=40&amp;v=4</avatar>
-          <name>surbhisharma004</name>
-          <url>https://github.com/surbhisharma004</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/126390524?s=40&amp;v=4</avatar>
-          <name>khwaishchawla</name>
-          <url>https://github.com/khwaishchawla</url>
         </contributor>
       </contributors>
     </item>

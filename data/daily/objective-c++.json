@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c++ Languages Daily Trending",
   "description": "Daily Trending of Objective-c++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 24 Oct 2025 19:19:05 GMT",
+  "pubDate": "Sat, 25 Oct 2025 02:26:36 GMT",
   "items": [
     {
       "title": "northpolesec/santa",
@@ -10,9 +10,9 @@
       "description": "A binary and file access authorization system for macOS.",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "412",
+      "stars": "411",
       "forks": "34",
-      "addStars": "4",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/69123?s=40&v=4",

@@ -2,8 +2,45 @@
   "title": "GitHub Verilog Languages Monthly Trending",
   "description": "Monthly Trending of Verilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 27 Oct 2025 07:23:49 GMT",
+  "pubDate": "Mon, 27 Oct 2025 13:31:35 GMT",
   "items": [
+    {
+      "title": "The-OpenROAD-Project/OpenROAD",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+      "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": "2,235",
+      "forks": "727",
+      "addStars": "54",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/761514?s=40&v=4",
+          "name": "maliberty",
+          "url": "https://github.com/maliberty"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43450810?s=40&v=4",
+          "name": "eder-matheus",
+          "url": "https://github.com/eder-matheus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34749589?s=40&v=4",
+          "name": "jjcherry56",
+          "url": "https://github.com/jjcherry56"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46405338?s=40&v=4",
+          "name": "gadfort",
+          "url": "https://github.com/gadfort"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56893454?s=40&v=4",
+          "name": "osamahammad21",
+          "url": "https://github.com/osamahammad21"
+        }
+      ]
+    },
     {
       "title": "vortexgpgpu/vortex",
       "url": "https://github.com/vortexgpgpu/vortex",
@@ -11,7 +48,7 @@
       "language": "Verilog",
       "languageColor": "#b2b7f8",
       "stars": "1,724",
-      "forks": "379",
+      "forks": "380",
       "addStars": "51",
       "contributors": [
         {
@@ -42,14 +79,14 @@
       ]
     },
     {
-      "title": "The-OpenROAD-Project/OpenROAD",
-      "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-      "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+      "title": "The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "2,233",
-      "forks": "727",
-      "addStars": "54",
+      "stars": "508",
+      "forks": "390",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/761514?s=40&v=4",
@@ -57,24 +94,24 @@
           "url": "https://github.com/maliberty"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/9001905?s=40&v=4",
+          "name": "vvbandeira",
+          "url": "https://github.com/vvbandeira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2798822?s=40&v=4",
+          "name": "oharboe",
+          "url": "https://github.com/oharboe"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/43450810?s=40&v=4",
           "name": "eder-matheus",
           "url": "https://github.com/eder-matheus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/34749589?s=40&v=4",
-          "name": "jjcherry56",
-          "url": "https://github.com/jjcherry56"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46405338?s=40&v=4",
-          "name": "gadfort",
-          "url": "https://github.com/gadfort"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56893454?s=40&v=4",
-          "name": "osamahammad21",
-          "url": "https://github.com/osamahammad21"
+          "avatar": "https://avatars.githubusercontent.com/u/71403620?s=40&v=4",
+          "name": "ravi-varadarajan",
+          "url": "https://github.com/ravi-varadarajan"
         }
       ]
     },
@@ -112,43 +149,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1406260?s=40&v=4",
           "name": "ncorgan",
           "url": "https://github.com/ncorgan"
-        }
-      ]
-    },
-    {
-      "title": "The-OpenROAD-Project/OpenROAD-flow-scripts",
-      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
-      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": "507",
-      "forks": "390",
-      "addStars": "14",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/761514?s=40&v=4",
-          "name": "maliberty",
-          "url": "https://github.com/maliberty"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9001905?s=40&v=4",
-          "name": "vvbandeira",
-          "url": "https://github.com/vvbandeira"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2798822?s=40&v=4",
-          "name": "oharboe",
-          "url": "https://github.com/oharboe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43450810?s=40&v=4",
-          "name": "eder-matheus",
-          "url": "https://github.com/eder-matheus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71403620?s=40&v=4",
-          "name": "ravi-varadarajan",
-          "url": "https://github.com/ravi-varadarajan"
         }
       ]
     },
@@ -227,7 +227,7 @@
       "description": "Verilog Ethernet components for FPGA implementation",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "2,733",
+      "stars": "2,735",
       "forks": "790",
       "addStars": "33",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "3,737",
+      "stars": "3,736",
       "forks": "866",
       "addStars": "54",
       "contributors": [
@@ -277,6 +277,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/1768286?s=40&v=4",
           "name": "ldoolitt",
           "url": "https://github.com/ldoolitt"
+        }
+      ]
+    },
+    {
+      "title": "nonarkitten/amiga_replacement_project",
+      "url": "https://github.com/nonarkitten/amiga_replacement_project",
+      "description": "This is an attempt to make clean Verilog sources for each chip on the Amiga.",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": "216",
+      "forks": "27",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13053976?s=40&v=4",
+          "name": "nonarkitten",
+          "url": "https://github.com/nonarkitten"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1673918?s=40&v=4",
+          "name": "jbilander",
+          "url": "https://github.com/jbilander"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1866358?s=40&v=4",
+          "name": "mbtaylor1982",
+          "url": "https://github.com/mbtaylor1982"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10224538?s=40&v=4",
+          "name": "reinauer",
+          "url": "https://github.com/reinauer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16857977?s=40&v=4",
+          "name": "scratje",
+          "url": "https://github.com/scratje"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Monthly Trending",
   "description": "Monthly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 27 Oct 2025 02:51:37 GMT",
+  "pubDate": "Mon, 27 Oct 2025 07:23:49 GMT",
   "items": [
     {
       "title": "supabase/supabase-js",
@@ -47,8 +47,8 @@
       "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "45,098",
-      "forks": "18,265",
+      "stars": "45,099",
+      "forks": "18,264",
       "addStars": "104",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "803",
+      "stars": "804",
       "forks": "59",
       "addStars": "225",
       "contributors": [
@@ -370,8 +370,8 @@
       "description": "Set of icons representing programming languages, designing & development tools",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "11,132",
-      "forks": "2,405",
+      "stars": "11,131",
+      "forks": "2,406",
       "addStars": "103",
       "contributors": [
         {
@@ -445,7 +445,7 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "847",
-      "forks": "2,748",
+      "forks": "2,749",
       "addStars": "28",
       "contributors": [
         {
@@ -476,12 +476,34 @@
       ]
     },
     {
+      "title": "elifouts/Dotfiles",
+      "url": "https://github.com/elifouts/Dotfiles",
+      "description": "My Hyprland Dotfiles For Arch!",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "658",
+      "forks": "30",
+      "addStars": "75",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/116454864?s=40&v=4",
+          "name": "elifouts",
+          "url": "https://github.com/elifouts"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52836614?s=40&v=4",
+          "name": "jaboll-ai",
+          "url": "https://github.com/jaboll-ai"
+        }
+      ]
+    },
+    {
       "title": "isocpp/CppCoreGuidelines",
       "url": "https://github.com/isocpp/CppCoreGuidelines",
       "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "44,341",
+      "stars": "44,340",
       "forks": "5,521",
       "addStars": "155",
       "contributors": [
@@ -518,8 +540,8 @@
       "description": "",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "977",
-      "forks": "5,217",
+      "stars": "978",
+      "forks": "5,218",
       "addStars": "59",
       "contributors": [
         {
@@ -545,7 +567,7 @@
       "description": "❤️静态响应式网址导航网站 - webstack.cc",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "7,077",
+      "stars": "7,078",
       "forks": "2,028",
       "addStars": "50",
       "contributors": [
@@ -609,7 +631,7 @@
       "description": "MacOS Tahoe inspired theme for GNOME",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "657",
+      "stars": "658",
       "forks": "25",
       "addStars": "106",
       "contributors": [

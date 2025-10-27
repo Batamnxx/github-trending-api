@@ -3,7 +3,7 @@
     <title>GitHub Erlang Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Erlang Languages in GitHub</description>
-    <pubDate>Mon, 27 Oct 2025 02:51:37 GMT</pubDate>
+    <pubDate>Mon, 27 Oct 2025 07:23:49 GMT</pubDate>
     <item>
       <title>erlang/otp</title>
       <link>https://github.com/erlang/otp</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/emqx/emqx</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>15,402</stars>
+      <stars>15,403</stars>
       <forks>2,386</forks>
       <addStars>149</addStars>
       <contributors>

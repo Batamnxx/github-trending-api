@@ -2,7 +2,7 @@
   "title": "GitHub Open-policy-agent Languages Monthly Trending",
   "description": "Monthly Trending of Open-policy-agent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 27 Oct 2025 13:31:35 GMT",
+  "pubDate": "Mon, 27 Oct 2025 19:19:06 GMT",
   "items": [
     {
       "title": "open-telemetry/semantic-conventions",
@@ -10,7 +10,7 @@
       "description": "Defines standards for generating consistent, accessible telemetry across a variety of domains",
       "language": "Open Policy Agent",
       "languageColor": "#7d9199",
-      "stars": "446",
+      "stars": "447",
       "forks": "276",
       "addStars": "21",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
       "language": "Open Policy Agent",
       "languageColor": "#7d9199",
-      "stars": "2,495",
+      "stars": "2,496",
       "forks": "348",
       "addStars": "17",
       "contributors": [

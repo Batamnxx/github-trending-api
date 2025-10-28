@@ -3,7 +3,7 @@
     <title>GitHub Assembly Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Assembly Languages in GitHub</description>
-    <pubDate>Tue, 28 Oct 2025 02:40:20 GMT</pubDate>
+    <pubDate>Tue, 28 Oct 2025 07:23:28 GMT</pubDate>
     <item>
       <title>ebitengine/purego</title>
       <link>https://github.com/ebitengine/purego</link>
@@ -300,7 +300,7 @@
       <guid>https://github.com/kanaka/mal</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>10,493</stars>
+      <stars>10,494</stars>
       <forks>2,659</forks>
       <addStars>9</addStars>
       <contributors>
@@ -370,13 +370,51 @@
       </contributors>
     </item>
     <item>
+      <title>mschwartz/assembly-tutorial</title>
+      <link>https://github.com/mschwartz/assembly-tutorial</link>
+      <description>Programming in assembly language tutorial</description>
+      <guid>https://github.com/mschwartz/assembly-tutorial</guid>
+      <language>Assembly</language>
+      <languageColor>#6E4C13</languageColor>
+      <stars>1,359</stars>
+      <forks>101</forks>
+      <addStars>9</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/329637?s=40&amp;v=4</avatar>
+          <name>mschwartz</name>
+          <url>https://github.com/mschwartz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63830?s=40&amp;v=4</avatar>
+          <name>willfaught</name>
+          <url>https://github.com/willfaught</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1092660?s=40&amp;v=4</avatar>
+          <name>ReneNyffenegger</name>
+          <url>https://github.com/ReneNyffenegger</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56443396?s=40&amp;v=4</avatar>
+          <name>S-Stanley</name>
+          <url>https://github.com/S-Stanley</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/72657?s=40&amp;v=4</avatar>
+          <name>snakeru</name>
+          <url>https://github.com/snakeru</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>apple/swift-crypto</title>
       <link>https://github.com/apple/swift-crypto</link>
       <description>Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</description>
       <guid>https://github.com/apple/swift-crypto</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>1,617</stars>
+      <stars>1,618</stars>
       <forks>194</forks>
       <addStars>3</addStars>
       <contributors>
@@ -452,7 +490,7 @@
       <guid>https://github.com/vxunderground/MalwareSourceCode</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>17,333</stars>
+      <stars>17,334</stars>
       <forks>1,959</forks>
       <addStars>27</addStars>
       <contributors>

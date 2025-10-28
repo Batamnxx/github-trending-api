@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Weekly Trending",
   "description": "Weekly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Oct 2025 02:40:20 GMT",
+  "pubDate": "Tue, 28 Oct 2025 07:23:28 GMT",
   "items": [
     {
       "title": "ebitengine/purego",
@@ -291,7 +291,7 @@
       "description": "mal - Make a Lisp",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "10,493",
+      "stars": "10,494",
       "forks": "2,659",
       "addStars": "9",
       "contributors": [
@@ -360,12 +360,49 @@
       ]
     },
     {
+      "title": "mschwartz/assembly-tutorial",
+      "url": "https://github.com/mschwartz/assembly-tutorial",
+      "description": "Programming in assembly language tutorial",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": "1,359",
+      "forks": "101",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/329637?s=40&v=4",
+          "name": "mschwartz",
+          "url": "https://github.com/mschwartz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63830?s=40&v=4",
+          "name": "willfaught",
+          "url": "https://github.com/willfaught"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1092660?s=40&v=4",
+          "name": "ReneNyffenegger",
+          "url": "https://github.com/ReneNyffenegger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56443396?s=40&v=4",
+          "name": "S-Stanley",
+          "url": "https://github.com/S-Stanley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72657?s=40&v=4",
+          "name": "snakeru",
+          "url": "https://github.com/snakeru"
+        }
+      ]
+    },
+    {
       "title": "apple/swift-crypto",
       "url": "https://github.com/apple/swift-crypto",
       "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "1,617",
+      "stars": "1,618",
       "forks": "194",
       "addStars": "3",
       "contributors": [
@@ -439,7 +476,7 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "17,333",
+      "stars": "17,334",
       "forks": "1,959",
       "addStars": "27",
       "contributors": [

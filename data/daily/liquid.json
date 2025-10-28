@@ -2,7 +2,7 @@
   "title": "GitHub Liquid Languages Daily Trending",
   "description": "Daily Trending of Liquid Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Oct 2025 07:23:28 GMT",
+  "pubDate": "Tue, 28 Oct 2025 13:30:36 GMT",
   "items": [
     {
       "title": "Shopify/dawn",
@@ -11,7 +11,7 @@
       "language": "Liquid",
       "languageColor": "#67b8de",
       "stars": "2,851",
-      "forks": "4,063",
+      "forks": "4,064",
       "addStars": "1",
       "contributors": [
         {

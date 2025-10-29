@@ -3,7 +3,7 @@
     <title>GitHub Haskell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Haskell Languages in GitHub</description>
-    <pubDate>Wed, 29 Oct 2025 02:47:51 GMT</pubDate>
+    <pubDate>Wed, 29 Oct 2025 07:23:54 GMT</pubDate>
     <item>
       <title>koalaman/shellcheck</title>
       <link>https://github.com/koalaman/shellcheck</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/koalaman/shellcheck</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>38,334</stars>
-      <forks>1,880</forks>
+      <stars>38,336</stars>
+      <forks>1,881</forks>
       <addStars>52</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/jgm/pandoc</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>39,870</stars>
+      <stars>39,882</stars>
       <forks>3,665</forks>
       <addStars>157</addStars>
       <contributors>
@@ -120,7 +120,7 @@
       <guid>https://github.com/NixOS/nixfmt</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>1,335</stars>
+      <stars>1,334</stars>
       <forks>62</forks>
       <addStars>10</addStars>
       <contributors>

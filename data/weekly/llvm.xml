@@ -3,7 +3,7 @@
     <title>GitHub Llvm Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Llvm Languages in GitHub</description>
-    <pubDate>Wed, 29 Oct 2025 13:32:51 GMT</pubDate>
+    <pubDate>Wed, 29 Oct 2025 19:19:07 GMT</pubDate>
     <item>
       <title>llvm/llvm-project</title>
       <link>https://github.com/llvm/llvm-project</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/llvm/llvm-project</guid>
       <language>LLVM</language>
       <languageColor>#185619</languageColor>
-      <stars>35,116</stars>
-      <forks>15,006</forks>
+      <stars>35,122</stars>
+      <forks>15,004</forks>
       <addStars>113</addStars>
       <contributors>
         <contributor>
@@ -50,7 +50,7 @@
       <language>LLVM</language>
       <languageColor>#185619</languageColor>
       <stars>1,383</stars>
-      <forks>793</forks>
+      <forks>794</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>

@@ -3,7 +3,7 @@
     <title>GitHub Pascal Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Pascal Languages in GitHub</description>
-    <pubDate>Fri, 31 Oct 2025 13:29:44 GMT</pubDate>
+    <pubDate>Fri, 31 Oct 2025 19:17:43 GMT</pubDate>
     <item>
       <title>peazip/PeaZip</title>
       <link>https://github.com/peazip/PeaZip</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/peazip/PeaZip</guid>
       <language>Pascal</language>
       <languageColor>#E3F171</languageColor>
-      <stars>6,364</stars>
+      <stars>6,366</stars>
       <forks>344</forks>
-      <addStars>7</addStars>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/479850?s=40&amp;v=4</avatar>
@@ -49,7 +49,7 @@
       <guid>https://github.com/HeidiSQL/HeidiSQL</guid>
       <language>Pascal</language>
       <languageColor>#E3F171</languageColor>
-      <stars>5,455</stars>
+      <stars>5,456</stars>
       <forks>519</forks>
       <addStars>2</addStars>
       <contributors>
@@ -87,9 +87,9 @@
       <guid>https://github.com/cheat-engine/cheat-engine</guid>
       <language>Pascal</language>
       <languageColor>#E3F171</languageColor>
-      <stars>17,194</stars>
-      <forks>2,437</forks>
-      <addStars>7</addStars>
+      <stars>17,198</stars>
+      <forks>2,438</forks>
+      <addStars>14</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12006555?s=40&amp;v=4</avatar>
@@ -127,7 +127,7 @@
       <languageColor>#E3F171</languageColor>
       <stars>703</stars>
       <forks>41</forks>
-      <addStars>2</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/63312605?s=40&amp;v=4</avatar>
@@ -224,7 +224,7 @@
       <guid>https://github.com/stascorp/rdpwrap</guid>
       <language>Pascal</language>
       <languageColor>#E3F171</languageColor>
-      <stars>15,980</stars>
+      <stars>15,981</stars>
       <forks>3,974</forks>
       <addStars>2</addStars>
       <contributors>
@@ -264,7 +264,7 @@
       <languageColor>#E3F171</languageColor>
       <stars>3,558</stars>
       <forks>248</forks>
-      <addStars>2</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13401398?s=40&amp;v=4</avatar>
@@ -302,7 +302,7 @@
       <languageColor>#E3F171</languageColor>
       <stars>4,924</stars>
       <forks>1,049</forks>
-      <addStars>4</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1092369?s=40&amp;v=4</avatar>

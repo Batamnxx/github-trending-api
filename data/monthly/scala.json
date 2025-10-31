@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Monthly Trending",
   "description": "Monthly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 31 Oct 2025 13:29:44 GMT",
+  "pubDate": "Fri, 31 Oct 2025 19:17:43 GMT",
   "items": [
     {
       "title": "apache/spark",
@@ -10,8 +10,8 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "42,194",
-      "forks": "28,903",
+      "stars": "42,195",
+      "forks": "28,904",
       "addStars": "226",
       "contributors": [
         {
@@ -175,7 +175,7 @@
       "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "17,268",
+      "stars": "17,269",
       "forks": "2,484",
       "addStars": "135",
       "contributors": [
@@ -212,7 +212,7 @@
       "description": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "2,020",
+      "stars": "2,021",
       "forks": "777",
       "addStars": "39",
       "contributors": [

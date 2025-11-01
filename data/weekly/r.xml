@@ -3,7 +3,7 @@
     <title>GitHub R Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of R Languages in GitHub</description>
-    <pubDate>Sat, 01 Nov 2025 02:44:49 GMT</pubDate>
+    <pubDate>Sat, 01 Nov 2025 07:20:01 GMT</pubDate>
     <item>
       <title>JGCRI/gcam-core</title>
       <link>https://github.com/JGCRI/gcam-core</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/satijalab/seurat</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>2,553</stars>
-      <forks>977</forks>
+      <stars>2,552</stars>
+      <forks>976</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
@@ -430,7 +430,7 @@
       <language>R</language>
       <languageColor>#198CE7</languageColor>
       <stars>870</stars>
-      <forks>144,001</forks>
+      <forks>144,000</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -490,8 +490,8 @@
       <guid>https://github.com/tidyverse/ggplot2</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>6,818</stars>
-      <forks>2,108</forks>
+      <stars>6,817</stars>
+      <forks>2,107</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>

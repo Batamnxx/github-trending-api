@@ -2,7 +2,7 @@
   "title": "GitHub Logos Languages Daily Trending",
   "description": "Daily Trending of Logos Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 02 Nov 2025 02:48:21 GMT",
+  "pubDate": "Sun, 02 Nov 2025 07:21:18 GMT",
   "items": [
     {
       "title": "dayanch96/YTLite",
@@ -10,8 +10,8 @@
       "description": "A flexible enhancer for YouTube on iOS",
       "language": "Logos",
       "languageColor": "#ccc",
-      "stars": "3,030",
-      "forks": "11,692",
+      "stars": "3,031",
+      "forks": "11,697",
       "addStars": "9",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Logos",
       "languageColor": "#ccc",
       "stars": "3,227",
-      "forks": "5,447",
+      "forks": "5,448",
       "addStars": "3",
       "contributors": [
         {

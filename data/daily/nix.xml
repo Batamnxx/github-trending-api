@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Nix Languages in GitHub</description>
-    <pubDate>Sun, 02 Nov 2025 02:48:21 GMT</pubDate>
+    <pubDate>Sun, 02 Nov 2025 07:21:18 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -159,7 +159,7 @@
     <item>
       <title>nix-community/stylix</title>
       <link>https://github.com/nix-community/stylix</link>
-      <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]</description>
+      <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
       <guid>https://github.com/nix-community/stylix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/nvmd/nixos-raspberrypi</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>280</stars>
+      <stars>281</stars>
       <forks>31</forks>
       <addStars>1</addStars>
       <contributors>

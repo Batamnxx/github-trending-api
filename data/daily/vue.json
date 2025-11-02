@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Daily Trending",
   "description": "Daily Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 01 Nov 2025 19:16:33 GMT",
+  "pubDate": "Sun, 02 Nov 2025 02:48:21 GMT",
   "items": [
     {
       "title": "HuLaSpark/HuLa",
@@ -10,9 +10,9 @@
       "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "4,413",
+      "stars": "4,421",
       "forks": "568",
-      "addStars": "67",
+      "addStars": "68",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87641407?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "练习英语，一次敲击，一点进步；Practice English, one strike, one step forward",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "4,973",
-      "forks": "587",
-      "addStars": "40",
+      "stars": "4,979",
+      "forks": "588",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19986642?s=40&v=4",
@@ -86,7 +86,7 @@
       "languageColor": "#41b883",
       "stars": "30,427",
       "forks": "8,258",
-      "addStars": "10",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28132598?s=40&v=4",
@@ -122,8 +122,8 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "5,701",
-      "forks": "3,666",
-      "addStars": "9",
+      "forks": "3,667",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2959393?s=40&v=4",
@@ -159,8 +159,8 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "90,063",
-      "forks": "30,644",
-      "addStars": "2",
+      "forks": "30,645",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8121621?s=40&v=4",
@@ -195,7 +195,7 @@
       "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "15,368",
+      "stars": "15,370",
       "forks": "1,377",
       "addStars": "16",
       "contributors": [
@@ -264,9 +264,9 @@
       "description": "Vue port of shadcn-ui",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "8,536",
-      "forks": "560",
-      "addStars": "6",
+      "stars": "8,537",
+      "forks": "561",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59365435?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "4,799",
-      "forks": "2,137",
-      "addStars": "2",
+      "stars": "4,801",
+      "forks": "2,138",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32295532?s=40&v=4",
@@ -375,7 +375,7 @@
       "description": "PvZ2 Gardendless Official Website | A rewritten Plants vs Zombies 2 PC port",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "685",
+      "stars": "686",
       "forks": "40",
       "addStars": "2",
       "contributors": [
@@ -404,7 +404,7 @@
       "languageColor": "#41b883",
       "stars": "2,884",
       "forks": "1,261",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2015545?s=40&v=4",
@@ -439,9 +439,9 @@
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "22,941",
-      "forks": "1,678",
-      "addStars": "15",
+      "stars": "22,946",
+      "forks": "1,679",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1862727?s=40&v=4",
@@ -476,9 +476,9 @@
       "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "31,951",
-      "forks": "4,686",
-      "addStars": "8",
+      "stars": "31,953",
+      "forks": "4,687",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/68148142?s=40&v=4",
@@ -513,9 +513,9 @@
       "description": "Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "12,645",
+      "stars": "12,646",
       "forks": "674",
-      "addStars": "8",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1577992?s=40&v=4",
@@ -545,7 +545,7 @@
       "description": "🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "5,456",
+      "stars": "5,457",
       "forks": "949",
       "addStars": "10",
       "contributors": [

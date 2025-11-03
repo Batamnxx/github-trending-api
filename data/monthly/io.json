@@ -2,7 +2,7 @@
   "title": "GitHub Io Languages Monthly Trending",
   "description": "Monthly Trending of Io Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 03 Nov 2025 07:24:18 GMT",
+  "pubDate": "Mon, 03 Nov 2025 13:30:45 GMT",
   "items": [
     {
       "title": "ethereum/execution-apis",
@@ -10,7 +10,7 @@
       "description": "Collection of APIs provided by Ethereum execution layer clients",
       "language": "Io",
       "languageColor": "#a9188d",
-      "stars": "1,064",
+      "stars": "1,066",
       "forks": "453",
       "addStars": "13",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Weekly Trending",
   "description": "Weekly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 03 Nov 2025 02:49:08 GMT",
+  "pubDate": "Mon, 03 Nov 2025 07:24:18 GMT",
   "items": [
     {
       "title": "karthink/gptel",
@@ -10,7 +10,7 @@
       "description": "A simple LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,982",
+      "stars": "2,983",
       "forks": "329",
       "addStars": "20",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Emacs mode for the Go programming language",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "1,437",
+      "stars": "1,438",
       "forks": "211",
       "addStars": "2",
       "contributors": [
@@ -518,7 +518,7 @@
       "description": "Emacs configuration for Rust",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "1,201",
+      "stars": "1,202",
       "forks": "189",
       "addStars": "5",
       "contributors": [

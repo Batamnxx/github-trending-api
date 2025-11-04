@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 04 Nov 2025 13:33:41 GMT",
+  "pubDate": "Tue, 04 Nov 2025 19:19:37 GMT",
   "items": [
     {
       "title": "noah-nuebling/mac-mouse-fix",
@@ -286,7 +286,7 @@
       "description": "Command line interface for the built-in speech recognition and transcription capabilities in macOS.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "577",
+      "stars": "578",
       "forks": "32",
       "addStars": "4",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Daily Trending",
   "description": "Daily Trending of Smali Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 03 Nov 2025 19:18:54 GMT",
+  "pubDate": "Tue, 04 Nov 2025 02:43:54 GMT",
   "items": [
     {
       "title": "phhusson/treble_experimentations",
@@ -108,7 +108,7 @@
       "languageColor": "#ccc",
       "stars": "1,102",
       "forks": "283",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/64344168?s=40&v=4",

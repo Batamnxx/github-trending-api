@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 05 Nov 2025 13:31:47 GMT",
+  "pubDate": "Wed, 05 Nov 2025 19:19:49 GMT",
   "items": [
     {
       "title": "666ghj/BettaFish",
@@ -10,8 +10,8 @@
       "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,081",
-      "forks": "2,410",
+      "stars": "14,577",
+      "forks": "2,508",
       "addStars": "3,825",
       "contributors": [
         {
@@ -25,6 +25,11 @@
           "url": "https://github.com/Qst137"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/25550075?s=40&v=4",
+          "name": "DoiiarX",
+          "url": "https://github.com/DoiiarX"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/145646858?s=40&v=4",
           "name": "YYL469",
           "url": "https://github.com/YYL469"
@@ -33,22 +38,17 @@
           "avatar": "https://avatars.githubusercontent.com/u/188834327?s=40&v=4",
           "name": "ghmark675",
           "url": "https://github.com/ghmark675"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113490885?s=40&v=4",
-          "name": "redhongx",
-          "url": "https://github.com/redhongx"
         }
       ]
     },
     {
       "title": "Skyvern-AI/skyvern",
       "url": "https://github.com/Skyvern-AI/skyvern",
-      "description": "Automate browser-based workflows with LLMs and Computer Vision",
+      "description": "Automate browser based workflows with AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,836",
-      "forks": "1,347",
+      "stars": "16,057",
+      "forks": "1,364",
       "addStars": "221",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,305",
-      "forks": "1,266",
+      "stars": "9,367",
+      "forks": "1,274",
       "addStars": "266",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,729",
-      "forks": "2,028",
+      "stars": "17,801",
+      "forks": "2,036",
       "addStars": "220",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "37,106",
-      "forks": "2,931",
+      "stars": "37,190",
+      "forks": "2,935",
       "addStars": "334",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,363",
-      "forks": "157",
+      "stars": "4,413",
+      "forks": "161",
       "addStars": "800",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "Prometheus Alertmanager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,309",
-      "forks": "2,284",
+      "stars": "7,327",
+      "forks": "2,286",
       "addStars": "3",
       "contributors": [
         {
@@ -244,9 +244,9 @@
       "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "21,077",
-      "forks": "1,462",
-      "addStars": "161",
+      "stars": "21,127",
+      "forks": "1,463",
+      "addStars": "128",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13160176?s=40&v=4",
@@ -281,8 +281,8 @@
       "description": "An evolving how-to guide for securing a Linux server.",
       "language": "",
       "languageColor": "",
-      "stars": "21,099",
-      "forks": "1,327",
+      "stars": "21,421",
+      "forks": "1,357",
       "addStars": "530",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "32,000",
-      "forks": "1,253",
+      "stars": "32,090",
+      "forks": "1,257",
       "addStars": "463",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "532",
-      "forks": "202",
+      "stars": "561",
+      "forks": "204",
       "addStars": "7",
       "contributors": [
         {
@@ -387,9 +387,9 @@
       "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,512",
-      "forks": "265",
-      "addStars": "276",
+      "stars": "3,577",
+      "forks": "267",
+      "addStars": "96",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&v=4",
@@ -414,8 +414,8 @@
       "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,695",
-      "forks": "1,676",
+      "stars": "4,711",
+      "forks": "1,680",
       "addStars": "62",
       "contributors": [
         {
@@ -441,8 +441,8 @@
       "description": "Download web video and audio",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,123",
-      "forks": "190",
+      "stars": "4,161",
+      "forks": "192",
       "addStars": "14",
       "contributors": [
         {
@@ -478,8 +478,8 @@
       "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,833",
-      "forks": "481",
+      "stars": "5,910",
+      "forks": "484",
       "addStars": "44",
       "contributors": [
         {
@@ -515,8 +515,8 @@
       "description": "The AI coding agent built for the terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,512",
-      "forks": "2,438",
+      "stars": "31,624",
+      "forks": "2,448",
       "addStars": "186",
       "contributors": [
         {
@@ -552,8 +552,8 @@
       "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "61,191",
-      "forks": "4,291",
+      "stars": "61,300",
+      "forks": "4,295",
       "addStars": "25",
       "contributors": [
         {
@@ -589,8 +589,8 @@
       "description": "A complete computer science study plan to become a software engineer.",
       "language": "",
       "languageColor": "",
-      "stars": "332,293",
-      "forks": "81,102",
+      "stars": "332,390",
+      "forks": "81,109",
       "addStars": "79",
       "contributors": [
         {

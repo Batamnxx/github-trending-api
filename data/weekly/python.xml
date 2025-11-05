@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Wed, 05 Nov 2025 13:31:47 GMT</pubDate>
+    <pubDate>Wed, 05 Nov 2025 19:19:49 GMT</pubDate>
     <item>
       <title>666ghj/BettaFish</title>
       <link>https://github.com/666ghj/BettaFish</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/666ghj/BettaFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,115</stars>
-      <forks>2,417</forks>
+      <stars>14,585</stars>
+      <forks>2,509</forks>
       <addStars>8,228</addStars>
       <contributors>
         <contributor>
@@ -26,6 +26,11 @@
           <url>https://github.com/Qst137</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25550075?s=40&amp;v=4</avatar>
+          <name>DoiiarX</name>
+          <url>https://github.com/DoiiarX</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/145646858?s=40&amp;v=4</avatar>
           <name>YYL469</name>
           <url>https://github.com/YYL469</url>
@@ -34,11 +39,6 @@
           <avatar>https://avatars.githubusercontent.com/u/188834327?s=40&amp;v=4</avatar>
           <name>ghmark675</name>
           <url>https://github.com/ghmark675</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/113490885?s=40&amp;v=4</avatar>
-          <name>redhongx</name>
-          <url>https://github.com/redhongx</url>
         </contributor>
       </contributors>
     </item>
@@ -49,8 +49,8 @@
       <guid>https://github.com/microsoft/agent-lightning</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,979</stars>
-      <forks>523</forks>
+      <stars>7,043</stars>
+      <forks>532</forks>
       <addStars>3,618</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/HKUDS/DeepCode</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,309</stars>
-      <forks>1,266</forks>
+      <stars>9,373</stars>
+      <forks>1,274</forks>
       <addStars>1,160</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/hacksider/Deep-Live-Cam</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>75,212</stars>
-      <forks>10,934</forks>
+      <stars>75,273</stars>
+      <forks>10,953</forks>
       <addStars>988</addStars>
       <contributors>
         <contributor>
@@ -153,7 +153,7 @@
       <guid>https://github.com/suitenumerique/docs</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,546</stars>
+      <stars>14,566</stars>
       <forks>446</forks>
       <addStars>561</addStars>
       <contributors>
@@ -186,8 +186,8 @@
       <guid>https://github.com/Project-MONAI/MONAI</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,357</stars>
-      <forks>1,324</forks>
+      <stars>7,361</stars>
+      <forks>1,325</forks>
       <addStars>370</addStars>
       <contributors>
         <contributor>
@@ -219,7 +219,7 @@
       <guid>https://github.com/langchain-ai/deepagents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,346</stars>
+      <stars>5,354</stars>
       <forks>786</forks>
       <addStars>572</addStars>
       <contributors>
@@ -257,7 +257,7 @@
       <guid>https://github.com/allenai/olmocr</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,796</stars>
+      <stars>15,803</stars>
       <forks>1,195</forks>
       <addStars>1,087</addStars>
       <contributors>
@@ -295,8 +295,8 @@
       <guid>https://github.com/Shubhamsaboo/awesome-llm-apps</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>74,919</stars>
-      <forks>9,811</forks>
+      <stars>74,951</stars>
+      <forks>9,820</forks>
       <addStars>1,032</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/harvard-edge/cs249r_book</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,403</stars>
-      <forks>851</forks>
+      <stars>8,428</stars>
+      <forks>854</forks>
       <addStars>1,406</addStars>
       <contributors>
         <contributor>
@@ -366,7 +366,7 @@
       <guid>https://github.com/vanna-ai/vanna</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,475</stars>
+      <stars>21,479</stars>
       <forks>2,006</forks>
       <addStars>235</addStars>
       <contributors>
@@ -404,8 +404,8 @@
       <guid>https://github.com/Fosowl/agenticSeek</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,386</stars>
-      <forks>2,513</forks>
+      <stars>23,406</stars>
+      <forks>2,516</forks>
       <addStars>967</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/GeeeekExplorer/nano-vllm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,309</stars>
-      <forks>1,015</forks>
+      <stars>8,315</stars>
+      <forks>1,016</forks>
       <addStars>1,072</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/donnemartin/system-design-primer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>325,536</stars>
-      <forks>53,041</forks>
+      <stars>325,572</stars>
+      <forks>53,046</forks>
       <addStars>1,136</addStars>
       <contributors>
         <contributor>
@@ -518,8 +518,8 @@
       <guid>https://github.com/VectifyAI/PageIndex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,517</stars>
-      <forks>265</forks>
+      <stars>3,578</stars>
+      <forks>267</forks>
       <addStars>557</addStars>
       <contributors>
         <contributor>

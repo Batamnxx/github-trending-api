@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 05 Nov 2025 13:31:47 GMT",
+  "pubDate": "Wed, 05 Nov 2025 19:19:49 GMT",
   "items": [
     {
       "title": "sbdchd/squawk",
@@ -47,7 +47,7 @@
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "3,999",
+      "stars": "4,001",
       "forks": "115",
       "addStars": "27",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Partition management extension for PostgreSQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "2,476",
+      "stars": "2,477",
       "forks": "302",
       "addStars": "1",
       "contributors": [

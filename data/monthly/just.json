@@ -2,7 +2,7 @@
   "title": "GitHub Just Languages Monthly Trending",
   "description": "Monthly Trending of Just Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 06 Nov 2025 07:23:29 GMT",
+  "pubDate": "Thu, 06 Nov 2025 13:31:16 GMT",
   "items": [
     {
       "title": "pop-os/cosmic-epoch",
@@ -47,7 +47,7 @@
       "description": "Build your own custom Universal Blue Image!",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "499",
+      "stars": "500",
       "forks": "109",
       "addStars": "34",
       "contributors": [

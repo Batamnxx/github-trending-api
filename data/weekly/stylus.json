@@ -2,7 +2,7 @@
   "title": "GitHub Stylus Languages Weekly Trending",
   "description": "Weekly Trending of Stylus Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 06 Nov 2025 13:31:16 GMT",
+  "pubDate": "Thu, 06 Nov 2025 19:19:32 GMT",
   "items": [
     {
       "title": "theme-next/hexo-theme-next",
@@ -48,7 +48,7 @@
       "language": "Stylus",
       "languageColor": "#ff6347",
       "stars": "2,291",
-      "forks": "363",
+      "forks": "364",
       "addStars": "8",
       "contributors": [
         {

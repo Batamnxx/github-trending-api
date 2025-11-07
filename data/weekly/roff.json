@@ -2,7 +2,7 @@
   "title": "GitHub Roff Languages Weekly Trending",
   "description": "Weekly Trending of Roff Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 07 Nov 2025 02:43:54 GMT",
+  "pubDate": "Fri, 07 Nov 2025 07:23:12 GMT",
   "items": [
     {
       "title": "sidpalas/devops-directive-docker-course",
@@ -121,7 +121,7 @@
       "description": "Simple Python version management",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": "43,579",
+      "stars": "43,580",
       "forks": "3,217",
       "addStars": "81",
       "contributors": [

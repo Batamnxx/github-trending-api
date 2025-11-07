@@ -2,7 +2,7 @@
   "title": "GitHub Mojo Languages Weekly Trending",
   "description": "Weekly Trending of Mojo Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 06 Nov 2025 19:19:32 GMT",
+  "pubDate": "Fri, 07 Nov 2025 02:43:54 GMT",
   "items": [
     {
       "title": "modular/mojo-gpu-puzzles",
@@ -12,7 +12,7 @@
       "languageColor": "#ff4c1f",
       "stars": "225",
       "forks": "213",
-      "addStars": "28",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6980212?s=40&v=4",
@@ -47,7 +47,7 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "25,133",
+      "stars": "25,135",
       "forks": "2,717",
       "addStars": "56",
       "contributors": [

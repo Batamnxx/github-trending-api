@@ -2,7 +2,7 @@
   "title": "GitHub Xslt Languages Monthly Trending",
   "description": "Monthly Trending of Xslt Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 08 Nov 2025 13:23:23 GMT",
+  "pubDate": "Sat, 08 Nov 2025 19:17:42 GMT",
   "items": [
     {
       "title": "LOLBAS-Project/LOLBAS",
@@ -84,7 +84,7 @@
       "description": "Microsoft Word XSD for generating APA 7th edition references",
       "language": "XSLT",
       "languageColor": "#EB8CEB",
-      "stars": "176",
+      "stars": "177",
       "forks": "37",
       "addStars": "4",
       "contributors": [

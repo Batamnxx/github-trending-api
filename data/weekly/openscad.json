@@ -2,7 +2,7 @@
   "title": "GitHub Openscad Languages Weekly Trending",
   "description": "Weekly Trending of Openscad Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 08 Nov 2025 02:25:56 GMT",
+  "pubDate": "Sat, 08 Nov 2025 07:20:54 GMT",
   "items": [
     {
       "title": "kennetek/gridfinity-rebuilt-openscad",
@@ -10,7 +10,7 @@
       "description": "A ground-up rebuild of the stock gridfinity bins in OpenSCAD",
       "language": "OpenSCAD",
       "languageColor": "#e5cd45",
-      "stars": "1,917",
+      "stars": "1,916",
       "forks": "280",
       "addStars": "13",
       "contributors": [

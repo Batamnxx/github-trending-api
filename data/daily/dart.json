@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 09 Nov 2025 13:23:27 GMT",
+  "pubDate": "Sun, 09 Nov 2025 19:17:07 GMT",
   "items": [
     {
       "title": "GopeedLab/gopeed",
@@ -10,9 +10,9 @@
       "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "21,586",
-      "forks": "1,492",
-      "addStars": "154",
+      "stars": "21,596",
+      "forks": "1,493",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13160176?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "173,789",
-      "forks": "29,472",
+      "stars": "173,792",
+      "forks": "29,473",
       "addStars": "12",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "24,138",
-      "forks": "2,116",
-      "addStars": "21",
+      "stars": "24,142",
+      "forks": "2,118",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/114227601?s=40&v=4",
@@ -121,7 +121,7 @@
       "description": "Get Android app updates straight from the source.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "13,282",
+      "stars": "13,290",
       "forks": "332",
       "addStars": "15",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "10,904",
+      "stars": "10,902",
       "forks": "1,708",
       "addStars": "3",
       "contributors": [
@@ -195,9 +195,9 @@
       "description": "🎧 Open source music client! Available for both desktop & mobile!",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "42,271",
-      "forks": "1,866",
-      "addStars": "18",
+      "stars": "42,276",
+      "forks": "1,867",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/61944859?s=40&v=4",
@@ -227,7 +227,7 @@
       "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "7,835",
+      "stars": "7,840",
       "forks": "683",
       "addStars": "16",
       "contributors": [
@@ -254,7 +254,7 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "17,615",
+      "stars": "17,619",
       "forks": "508",
       "addStars": "26",
       "contributors": [
@@ -292,7 +292,7 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "2,617",
-      "forks": "236",
+      "forks": "235",
       "addStars": "9",
       "contributors": [
         {
@@ -324,8 +324,8 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "13,871",
-      "forks": "1,733",
-      "addStars": "17",
+      "forks": "1,734",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16559082?s=40&v=4",
@@ -362,7 +362,7 @@
       "languageColor": "#00B4AB",
       "stars": "2,557",
       "forks": "1,038",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28806196?s=40&v=4",
@@ -382,7 +382,7 @@
       "description": "New Lichess mobile app in Flutter",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,944",
+      "stars": "1,946",
       "forks": "312",
       "addStars": "6",
       "contributors": [
@@ -419,7 +419,7 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "24,822",
+      "stars": "24,831",
       "forks": "1,502",
       "addStars": "58",
       "contributors": [
@@ -446,7 +446,7 @@
       "description": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "10,091",
+      "stars": "10,092",
       "forks": "381",
       "addStars": "10",
       "contributors": [
@@ -485,7 +485,7 @@
       "languageColor": "#00B4AB",
       "stars": "1,412",
       "forks": "128",
-      "addStars": "4",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65885023?s=40&v=4",
@@ -520,7 +520,7 @@
       "description": "Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,690",
+      "stars": "2,692",
       "forks": "53",
       "addStars": "3",
       "contributors": [
@@ -557,9 +557,9 @@
       "description": "A collection of Flutter examples and demos",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "18,721",
-      "forks": "7,797",
-      "addStars": "6",
+      "stars": "18,724",
+      "forks": "7,799",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30503?s=40&v=4",
@@ -590,7 +590,7 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "8,444",
-      "forks": "1,026",
+      "forks": "1,027",
       "addStars": "1",
       "contributors": [
         {
@@ -626,9 +626,9 @@
       "description": "Code Push for Flutter and other tools for Flutter businesses.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,812",
+      "stars": "2,814",
       "forks": "190",
-      "addStars": "1",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8855632?s=40&v=4",
@@ -658,7 +658,7 @@
       "description": "The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,281",
+      "stars": "1,283",
       "forks": "274",
       "addStars": "3",
       "contributors": [
@@ -696,7 +696,7 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "22,236",
-      "forks": "4,787",
+      "forks": "4,788",
       "addStars": "8",
       "contributors": [
         {

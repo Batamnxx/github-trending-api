@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Weekly Trending",
   "description": "Weekly Trending of Bicep Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 09 Nov 2025 13:23:27 GMT",
+  "pubDate": "Sun, 09 Nov 2025 19:17:07 GMT",
   "items": [
     {
       "title": "Azure/AI-Landing-Zones",
@@ -185,8 +185,8 @@
       "description": "Clean Architecture Solution Template for ASP.NET Core",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": "19,207",
-      "forks": "4,050",
+      "stars": "19,209",
+      "forks": "4,051",
       "addStars": "37",
       "contributors": [
         {

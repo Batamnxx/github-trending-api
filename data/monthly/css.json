@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Monthly Trending",
   "description": "Monthly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 09 Nov 2025 13:23:27 GMT",
+  "pubDate": "Sun, 09 Nov 2025 19:17:07 GMT",
   "items": [
     {
       "title": "supabase/supabase-js",
@@ -10,8 +10,8 @@
       "description": "An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "4,070",
-      "forks": "510",
+      "stars": "4,071",
+      "forks": "511",
       "addStars": "99",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,642",
-      "forks": "110",
+      "stars": "1,644",
+      "forks": "111",
       "addStars": "103",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "45,137",
-      "forks": "18,260",
+      "stars": "45,138",
+      "forks": "18,259",
       "addStars": "115",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "889",
+      "stars": "890",
       "forks": "62",
       "addStars": "274",
       "contributors": [
@@ -244,8 +244,8 @@
       "description": "50+ mini web projects using HTML, CSS & JS",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "40,041",
-      "forks": "9,703",
+      "stars": "40,046",
+      "forks": "9,702",
       "addStars": "219",
       "contributors": [
         {
@@ -387,7 +387,7 @@
       "description": "❤️静态响应式网址导航网站 - webstack.cc",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "7,091",
+      "stars": "7,093",
       "forks": "2,039",
       "addStars": "48",
       "contributors": [
@@ -424,7 +424,7 @@
       "description": "The Most Complete React UI Component Library",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "8,086",
+      "stars": "8,087",
       "forks": "1,186",
       "addStars": "66",
       "contributors": [

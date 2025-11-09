@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 09 Nov 2025 02:46:28 GMT",
+  "pubDate": "Sun, 09 Nov 2025 07:21:50 GMT",
   "items": [
     {
       "title": "saicaca/fuwari",
@@ -10,8 +10,8 @@
       "description": "✨A static blog template built with Astro.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "3,486",
-      "forks": "927",
+      "stars": "3,488",
+      "forks": "929",
       "addStars": "6",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "5,129",
+      "stars": "5,131",
       "forks": "1,456",
       "addStars": "5",
       "contributors": [
@@ -212,7 +212,7 @@
       "description": "⌨️ A curated list of Open Source Mechanical Keyboard resources.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "3,176",
+      "stars": "3,177",
       "forks": "200",
       "addStars": "1",
       "contributors": [

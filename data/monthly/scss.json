@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Monthly Trending",
   "description": "Monthly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 10 Nov 2025 02:50:39 GMT",
+  "pubDate": "Mon, 10 Nov 2025 07:23:54 GMT",
   "items": [
     {
       "title": "vinceliuice/Colloid-gtk-theme",
@@ -138,7 +138,7 @@
       "description": "The conventional commits specification",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,251",
+      "stars": "8,252",
       "forks": "627",
       "addStars": "112",
       "contributors": [
@@ -313,8 +313,8 @@
       "description": "(FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS 🚀 in minutes built for developers. (with CMS) ✨",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "734",
-      "forks": "1,029",
+      "stars": "735",
+      "forks": "1,030",
       "addStars": "2",
       "contributors": [
         {
@@ -493,7 +493,7 @@
       "description": "MacOS Tahoe theme for gtk desktops",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "343",
+      "stars": "344",
       "forks": "17",
       "addStars": "49",
       "contributors": [

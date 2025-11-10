@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 10 Nov 2025 02:50:39 GMT",
+  "pubDate": "Mon, 10 Nov 2025 07:23:54 GMT",
   "items": [
     {
       "title": "openwrt/packages",
@@ -190,7 +190,7 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "931",
+      "stars": "932",
       "forks": "174",
       "addStars": "1",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Weekly Trending",
   "description": "Weekly Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 10 Nov 2025 02:50:39 GMT",
+  "pubDate": "Mon, 10 Nov 2025 07:23:54 GMT",
   "items": [
     {
       "title": "patcg-individual-drafts/topics",
@@ -180,7 +180,7 @@
       "description": "Where the GPU for the Web work happens!",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "5,204",
+      "stars": "5,205",
       "forks": "342",
       "addStars": "11",
       "contributors": [

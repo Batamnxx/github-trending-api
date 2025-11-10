@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 10 Nov 2025 13:31:15 GMT",
+  "pubDate": "Mon, 10 Nov 2025 19:19:49 GMT",
   "items": [
     {
       "title": "ocaml/ocaml",
@@ -11,7 +11,7 @@
       "language": "OCaml",
       "languageColor": "#ef7a08",
       "stars": "6,014",
-      "forks": "1,184",
+      "forks": "1,185",
       "addStars": "2",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "13,290",
+      "stars": "13,291",
       "forks": "819",
       "addStars": "5",
       "contributors": [

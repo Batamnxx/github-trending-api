@@ -2,7 +2,7 @@
   "title": "GitHub Gherkin Languages Weekly Trending",
   "description": "Weekly Trending of Gherkin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 09 Nov 2025 19:17:07 GMT",
+  "pubDate": "Mon, 10 Nov 2025 02:50:39 GMT",
   "items": [
     {
       "title": "git-town/git-town",
@@ -10,9 +10,9 @@
       "description": "Git branches made easy",
       "language": "Gherkin",
       "languageColor": "#5B2063",
-      "stars": "2,937",
+      "stars": "2,938",
       "forks": "126",
-      "addStars": "10",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/268934?s=40&v=4",

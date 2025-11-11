@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Weekly Trending",
   "description": "Weekly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 11 Nov 2025 13:30:24 GMT",
+  "pubDate": "Tue, 11 Nov 2025 19:19:29 GMT",
   "items": [
     {
       "title": "godotengine/godot-demo-projects",
@@ -10,7 +10,7 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "7,708",
+      "stars": "7,710",
       "forks": "1,976",
       "addStars": "38",
       "contributors": [
@@ -42,12 +42,81 @@
       ]
     },
     {
+      "title": "Phazorknight/Cogito",
+      "url": "https://github.com/Phazorknight/Cogito",
+      "description": "Immersive Sim Template Project for GODOT 4",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "1,564",
+      "forks": "178",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70389309?s=40&v=4",
+          "name": "Phazorknight",
+          "url": "https://github.com/Phazorknight"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99533148?s=40&v=4",
+          "name": "niefia",
+          "url": "https://github.com/niefia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5461795?s=40&v=4",
+          "name": "ac-arcana",
+          "url": "https://github.com/ac-arcana"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9100196?s=40&v=4",
+          "name": "FailSpy",
+          "url": "https://github.com/FailSpy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71503746?s=40&v=4",
+          "name": "aronand",
+          "url": "https://github.com/aronand"
+        }
+      ]
+    },
+    {
+      "title": "csprance/gecs",
+      "url": "https://github.com/csprance/gecs",
+      "description": "Godot Entity Component System - GECS",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "284",
+      "forks": "15",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7902617?s=40&v=4",
+          "name": "csprance",
+          "url": "https://github.com/csprance"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3920492?s=40&v=4",
+          "name": "hwh008",
+          "url": "https://github.com/hwh008"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53952?s=40&v=4",
+          "name": "dustinlacewell",
+          "url": "https://github.com/dustinlacewell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7884968?s=40&v=4",
+          "name": "Makosai",
+          "url": "https://github.com/Makosai"
+        }
+      ]
+    },
+    {
       "title": "Orama-Interactive/Pixelorama",
       "url": "https://github.com/Orama-Interactive/Pixelorama",
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "8,781",
+      "stars": "8,783",
       "forks": "454",
       "addStars": "37",
       "contributors": [
@@ -116,223 +185,6 @@
       ]
     },
     {
-      "title": "Phazorknight/Cogito",
-      "url": "https://github.com/Phazorknight/Cogito",
-      "description": "Immersive Sim Template Project for GODOT 4",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "1,562",
-      "forks": "178",
-      "addStars": "15",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70389309?s=40&v=4",
-          "name": "Phazorknight",
-          "url": "https://github.com/Phazorknight"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99533148?s=40&v=4",
-          "name": "niefia",
-          "url": "https://github.com/niefia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5461795?s=40&v=4",
-          "name": "ac-arcana",
-          "url": "https://github.com/ac-arcana"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9100196?s=40&v=4",
-          "name": "FailSpy",
-          "url": "https://github.com/FailSpy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71503746?s=40&v=4",
-          "name": "aronand",
-          "url": "https://github.com/aronand"
-        }
-      ]
-    },
-    {
-      "title": "mbrlabs/Lorien",
-      "url": "https://github.com/mbrlabs/Lorien",
-      "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "6,293",
-      "forks": "288",
-      "addStars": "20",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8750135?s=40&v=4",
-          "name": "mbrlabs",
-          "url": "https://github.com/mbrlabs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/542105?s=40&v=4",
-          "name": "MrApplejuice",
-          "url": "https://github.com/MrApplejuice"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17379814?s=40&v=4",
-          "name": "tafode",
-          "url": "https://github.com/tafode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89324754?s=40&v=4",
-          "name": "Gurchain",
-          "url": "https://github.com/Gurchain"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&v=4",
-          "name": "albanobattistella",
-          "url": "https://github.com/albanobattistella"
-        }
-      ]
-    },
-    {
-      "title": "cherriesandmochi/gdmaim",
-      "url": "https://github.com/cherriesandmochi/gdmaim",
-      "description": "GDMaim is a GDScript obfuscation plugin for the Godot Engine.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "720",
-      "forks": "48",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5922740?s=40&v=4",
-          "name": "cherriesandmochi",
-          "url": "https://github.com/cherriesandmochi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/153237709?s=40&v=4",
-          "name": "CodeNameTwister",
-          "url": "https://github.com/CodeNameTwister"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78945904?s=40&v=4",
-          "name": "Kaleb-Reid",
-          "url": "https://github.com/Kaleb-Reid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13348029?s=40&v=4",
-          "name": "bloodwiing",
-          "url": "https://github.com/bloodwiing"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47663743?s=40&v=4",
-          "name": "Ayzurus",
-          "url": "https://github.com/Ayzurus"
-        }
-      ]
-    },
-    {
-      "title": "nathanhoad/godot_dialogue_manager",
-      "url": "https://github.com/nathanhoad/godot_dialogue_manager",
-      "description": "A powerful nonlinear dialogue system for Godot",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "3,110",
-      "forks": "228",
-      "addStars": "14",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78984?s=40&v=4",
-          "name": "nathanhoad",
-          "url": "https://github.com/nathanhoad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31015897?s=40&v=4",
-          "name": "Selenyhr",
-          "url": "https://github.com/Selenyhr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45439844?s=40&v=4",
-          "name": "Fireye04",
-          "url": "https://github.com/Fireye04"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108631328?s=40&v=4",
-          "name": "Veydzher",
-          "url": "https://github.com/Veydzher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/839653?s=40&v=4",
-          "name": "4kxz",
-          "url": "https://github.com/4kxz"
-        }
-      ]
-    },
-    {
-      "title": "csprance/gecs",
-      "url": "https://github.com/csprance/gecs",
-      "description": "Godot Entity Component System - GECS",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "283",
-      "forks": "15",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7902617?s=40&v=4",
-          "name": "csprance",
-          "url": "https://github.com/csprance"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3920492?s=40&v=4",
-          "name": "hwh008",
-          "url": "https://github.com/hwh008"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53952?s=40&v=4",
-          "name": "dustinlacewell",
-          "url": "https://github.com/dustinlacewell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7884968?s=40&v=4",
-          "name": "Makosai",
-          "url": "https://github.com/Makosai"
-        }
-      ]
-    },
-    {
-      "title": "derkork/godot-statecharts",
-      "url": "https://github.com/derkork/godot-statecharts",
-      "description": "A state charts extension for Godot 4",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "1,332",
-      "forks": "71",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/327257?s=40&v=4",
-          "name": "derkork",
-          "url": "https://github.com/derkork"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19820741?s=40&v=4",
-          "name": "joelgomes1994",
-          "url": "https://github.com/joelgomes1994"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113554?s=40&v=4",
-          "name": "jammons",
-          "url": "https://github.com/jammons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/640587?s=40&v=4",
-          "name": "jtakakura",
-          "url": "https://github.com/jtakakura"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35243344?s=40&v=4",
-          "name": "cerpinn",
-          "url": "https://github.com/cerpinn"
-        }
-      ]
-    },
-    {
       "title": "bitbrain/beehave",
       "url": "https://github.com/bitbrain/beehave",
       "description": "🐝 behavior tree AI for Godot Engine",
@@ -375,7 +227,7 @@
       "description": "👻🎥 Control the movement and dynamically tween 2D & 3D cameras. Built for Godot 4. Inspired by Cinemachine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "2,941",
+      "stars": "2,942",
       "forks": "112",
       "addStars": "16",
       "contributors": [
@@ -403,6 +255,117 @@
           "avatar": "https://avatars.githubusercontent.com/u/44378225?s=40&v=4",
           "name": "P5ina",
           "url": "https://github.com/P5ina"
+        }
+      ]
+    },
+    {
+      "title": "mbrlabs/Lorien",
+      "url": "https://github.com/mbrlabs/Lorien",
+      "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "6,294",
+      "forks": "288",
+      "addStars": "20",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8750135?s=40&v=4",
+          "name": "mbrlabs",
+          "url": "https://github.com/mbrlabs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/542105?s=40&v=4",
+          "name": "MrApplejuice",
+          "url": "https://github.com/MrApplejuice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17379814?s=40&v=4",
+          "name": "tafode",
+          "url": "https://github.com/tafode"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89324754?s=40&v=4",
+          "name": "Gurchain",
+          "url": "https://github.com/Gurchain"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&v=4",
+          "name": "albanobattistella",
+          "url": "https://github.com/albanobattistella"
+        }
+      ]
+    },
+    {
+      "title": "cherriesandmochi/gdmaim",
+      "url": "https://github.com/cherriesandmochi/gdmaim",
+      "description": "GDMaim is a GDScript obfuscation plugin for the Godot Engine.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "721",
+      "forks": "48",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5922740?s=40&v=4",
+          "name": "cherriesandmochi",
+          "url": "https://github.com/cherriesandmochi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/153237709?s=40&v=4",
+          "name": "CodeNameTwister",
+          "url": "https://github.com/CodeNameTwister"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/78945904?s=40&v=4",
+          "name": "Kaleb-Reid",
+          "url": "https://github.com/Kaleb-Reid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13348029?s=40&v=4",
+          "name": "bloodwiing",
+          "url": "https://github.com/bloodwiing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47663743?s=40&v=4",
+          "name": "Ayzurus",
+          "url": "https://github.com/Ayzurus"
+        }
+      ]
+    },
+    {
+      "title": "nathanhoad/godot_dialogue_manager",
+      "url": "https://github.com/nathanhoad/godot_dialogue_manager",
+      "description": "A powerful nonlinear dialogue system for Godot",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "3,110",
+      "forks": "229",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/78984?s=40&v=4",
+          "name": "nathanhoad",
+          "url": "https://github.com/nathanhoad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31015897?s=40&v=4",
+          "name": "Selenyhr",
+          "url": "https://github.com/Selenyhr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45439844?s=40&v=4",
+          "name": "Fireye04",
+          "url": "https://github.com/Fireye04"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108631328?s=40&v=4",
+          "name": "Veydzher",
+          "url": "https://github.com/Veydzher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/839653?s=40&v=4",
+          "name": "4kxz",
+          "url": "https://github.com/4kxz"
         }
       ]
     },
@@ -440,6 +403,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/7095429?s=40&v=4",
           "name": "henriquelalves",
           "url": "https://github.com/henriquelalves"
+        }
+      ]
+    },
+    {
+      "title": "derkork/godot-statecharts",
+      "url": "https://github.com/derkork/godot-statecharts",
+      "description": "A state charts extension for Godot 4",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "1,332",
+      "forks": "71",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/327257?s=40&v=4",
+          "name": "derkork",
+          "url": "https://github.com/derkork"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19820741?s=40&v=4",
+          "name": "joelgomes1994",
+          "url": "https://github.com/joelgomes1994"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/113554?s=40&v=4",
+          "name": "jammons",
+          "url": "https://github.com/jammons"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/640587?s=40&v=4",
+          "name": "jtakakura",
+          "url": "https://github.com/jtakakura"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35243344?s=40&v=4",
+          "name": "cerpinn",
+          "url": "https://github.com/cerpinn"
+        }
+      ]
+    },
+    {
+      "title": "Maaack/Godot-Game-Template",
+      "url": "https://github.com/Maaack/Godot-Game-Template",
+      "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "1,105",
+      "forks": "74",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/788630?s=40&v=4",
+          "name": "Maaack",
+          "url": "https://github.com/Maaack"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58109554?s=40&v=4",
+          "name": "oulianov",
+          "url": "https://github.com/oulianov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43008564?s=40&v=4",
+          "name": "catprisbrey",
+          "url": "https://github.com/catprisbrey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11499929?s=40&v=4",
+          "name": "3ter",
+          "url": "https://github.com/3ter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18683331?s=40&v=4",
+          "name": "NgWenYang",
+          "url": "https://github.com/NgWenYang"
         }
       ]
     }

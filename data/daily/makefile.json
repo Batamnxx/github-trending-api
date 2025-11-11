@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 11 Nov 2025 07:24:40 GMT",
+  "pubDate": "Tue, 11 Nov 2025 13:30:24 GMT",
   "items": [
     {
       "title": "openwrt/packages",
@@ -47,7 +47,7 @@
       "description": "A programming font focused on source code legibility",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "2,331",
+      "stars": "2,333",
       "forks": "20",
       "addStars": "2",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "3,436",
+      "stars": "3,437",
       "forks": "176",
       "addStars": "3",
       "contributors": [
@@ -286,7 +286,7 @@
       "description": "The Uber Go Style Guide.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "17,031",
+      "stars": "17,032",
       "forks": "1,780",
       "addStars": "3",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "3,774",
+      "stars": "3,775",
       "forks": "115",
       "addStars": "5",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Weekly Trending",
   "description": "Weekly Trending of Mdx Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 11 Nov 2025 07:24:40 GMT",
+  "pubDate": "Tue, 11 Nov 2025 13:30:24 GMT",
   "items": [
     {
       "title": "langchain-ai/docs",
@@ -11,7 +11,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "88",
-      "forks": "714",
+      "forks": "718",
       "addStars": "19",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "173,702",
-      "forks": "79,160",
+      "stars": "173,704",
+      "forks": "79,157",
       "addStars": "84",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "35,288",
-      "forks": "2,999",
+      "stars": "35,302",
+      "forks": "3,001",
       "addStars": "201",
       "contributors": [
         {
@@ -117,7 +117,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "4,087",
-      "forks": "9,942",
+      "forks": "9,954",
       "addStars": "16",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "23,323",
-      "forks": "2,469",
+      "stars": "23,329",
+      "forks": "2,470",
       "addStars": "82",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "📖 The starter kit for your Mintlify docs",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,441",
+      "stars": "1,442",
       "forks": "452",
       "addStars": "20",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Cross-Platform React Native UI Toolkit",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "25,654",
+      "stars": "25,656",
       "forks": "4,693",
       "addStars": "14",
       "contributors": [
@@ -403,7 +403,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "361",
-      "forks": "251",
+      "forks": "252",
       "addStars": "4",
       "contributors": [
         {
@@ -466,7 +466,7 @@
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "9,836",
+      "stars": "9,837",
       "forks": "686",
       "addStars": "70",
       "contributors": [
@@ -498,8 +498,8 @@
       "description": "The best way to connect a wallet 🌈 🧰",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "2,720",
-      "forks": "765",
+      "stars": "2,721",
+      "forks": "766",
       "addStars": "2",
       "contributors": [
         {
@@ -567,7 +567,7 @@
       "description": "The Hugging Face course on Transformers",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "3,490",
+      "stars": "3,491",
       "forks": "1,172",
       "addStars": "21",
       "contributors": [
@@ -678,7 +678,7 @@
       "description": "The Tailwind CSS documentation website.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "3,664",
+      "stars": "3,665",
       "forks": "1,949",
       "addStars": "6",
       "contributors": [
@@ -716,7 +716,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "1,550",
-      "forks": "1,751",
+      "forks": "1,752",
       "addStars": "3",
       "contributors": [
         {
@@ -752,8 +752,8 @@
       "description": "This repo contains the Hugging Face Deep Reinforcement Learning Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "4,597",
-      "forks": "743",
+      "stars": "4,598",
+      "forks": "742",
       "addStars": "11",
       "contributors": [
         {

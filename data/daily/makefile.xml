@@ -3,7 +3,7 @@
     <title>GitHub Makefile Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Makefile Languages in GitHub</description>
-    <pubDate>Tue, 11 Nov 2025 07:24:40 GMT</pubDate>
+    <pubDate>Tue, 11 Nov 2025 13:30:24 GMT</pubDate>
     <item>
       <title>openwrt/packages</title>
       <link>https://github.com/openwrt/packages</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/0xType/0xProto</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>2,331</stars>
+      <stars>2,333</stars>
       <forks>20</forks>
       <addStars>2</addStars>
       <contributors>
@@ -191,7 +191,7 @@
       <guid>https://github.com/manna-harbour/miryoku</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>3,436</stars>
+      <stars>3,437</stars>
       <forks>176</forks>
       <addStars>3</addStars>
       <contributors>
@@ -295,7 +295,7 @@
       <guid>https://github.com/uber-go/guide</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>17,031</stars>
+      <stars>17,032</stars>
       <forks>1,780</forks>
       <addStars>3</addStars>
       <contributors>
@@ -333,7 +333,7 @@
       <guid>https://github.com/HaveAGitGat/Tdarr</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>3,774</stars>
+      <stars>3,775</stars>
       <forks>115</forks>
       <addStars>5</addStars>
       <contributors>

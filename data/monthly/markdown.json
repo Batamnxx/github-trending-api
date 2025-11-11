@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Monthly Trending",
   "description": "Monthly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 11 Nov 2025 07:24:40 GMT",
+  "pubDate": "Tue, 11 Nov 2025 13:30:24 GMT",
   "items": [
     {
       "title": "codecrafters-io/build-your-own-x",
@@ -10,8 +10,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "436,950",
-      "forks": "40,938",
+      "stars": "437,031",
+      "forks": "40,949",
       "addStars": "12,130",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "📚 Collaborative cheatsheets for console commands",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "60,033",
-      "forks": "4,869",
+      "stars": "60,038",
+      "forks": "4,871",
       "addStars": "549",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "4,424",
-      "forks": "8,023",
+      "forks": "8,025",
       "addStars": "20",
       "contributors": [
         {
@@ -196,7 +196,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "10,676",
-      "forks": "21,855",
+      "forks": "21,854",
       "addStars": "31",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "Markdown Architectural Decision Records",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "1,881",
+      "stars": "1,883",
       "forks": "438",
       "addStars": "42",
       "contributors": [
@@ -259,8 +259,8 @@
       "description": "Ethereum.org is a primary online resource for the Ethereum community.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "5,706",
-      "forks": "5,289",
+      "stars": "5,708",
+      "forks": "5,288",
       "addStars": "83",
       "contributors": [
         {
@@ -329,7 +329,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "1,909",
-      "forks": "8,305",
+      "forks": "8,306",
       "addStars": "19",
       "contributors": [
         {
@@ -403,7 +403,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "6,232",
-      "forks": "5,417",
+      "forks": "5,419",
       "addStars": "50",
       "contributors": [
         {

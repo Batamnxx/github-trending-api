@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Monthly Trending",
   "description": "Monthly Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 11 Nov 2025 07:24:40 GMT",
+  "pubDate": "Tue, 11 Nov 2025 13:30:24 GMT",
   "items": [
     {
       "title": "sunnyyoung/WeChatTweak-macOS",
@@ -10,7 +10,7 @@
       "description": "A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "12,587",
+      "stars": "12,586",
       "forks": "1,499",
       "addStars": "88",
       "contributors": [
@@ -196,7 +196,7 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": "265",
-      "forks": "163",
+      "forks": "164",
       "addStars": "4",
       "contributors": [
         {
@@ -296,7 +296,7 @@
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "13,050",
+      "stars": "13,051",
       "forks": "1,546",
       "addStars": "20",
       "contributors": [
@@ -482,7 +482,7 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": "665",
-      "forks": "244",
+      "forks": "245",
       "addStars": "21",
       "contributors": [
         {

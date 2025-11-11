@@ -3,7 +3,7 @@
     <title>GitHub Ocaml Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Ocaml Languages in GitHub</description>
-    <pubDate>Tue, 11 Nov 2025 07:24:40 GMT</pubDate>
+    <pubDate>Tue, 11 Nov 2025 13:30:24 GMT</pubDate>
     <item>
       <title>ocaml/ocaml</title>
       <link>https://github.com/ocaml/ocaml</link>
@@ -12,7 +12,7 @@
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
       <stars>6,016</stars>
-      <forks>1,185</forks>
+      <forks>1,186</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/semgrep/semgrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>13,294</stars>
+      <stars>13,295</stars>
       <forks>820</forks>
       <addStars>67</addStars>
       <contributors>
@@ -201,7 +201,7 @@
       <guid>https://github.com/opengrep/opengrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>1,838</stars>
+      <stars>1,839</stars>
       <forks>136</forks>
       <addStars>26</addStars>
       <contributors>
@@ -234,7 +234,7 @@
       <guid>https://github.com/facebook/infer</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>15,428</stars>
+      <stars>15,429</stars>
       <forks>2,058</forks>
       <addStars>9</addStars>
       <contributors>
@@ -273,7 +273,7 @@
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
       <stars>559</stars>
-      <forks>122</forks>
+      <forks>123</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -348,7 +348,7 @@
       <guid>https://github.com/rocq-prover/rocq</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>5,263</stars>
+      <stars>5,264</stars>
       <forks>700</forks>
       <addStars>8</addStars>
       <contributors>

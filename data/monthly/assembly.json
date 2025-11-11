@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Monthly Trending",
   "description": "Monthly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 11 Nov 2025 07:24:40 GMT",
+  "pubDate": "Tue, 11 Nov 2025 13:30:24 GMT",
   "items": [
     {
       "title": "BLAKE3-team/BLAKE3",
@@ -148,7 +148,7 @@
       "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "11,583",
+      "stars": "11,582",
       "forks": "2,030",
       "addStars": "83",
       "contributors": [

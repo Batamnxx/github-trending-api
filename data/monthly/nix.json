@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 11 Nov 2025 07:24:40 GMT",
+  "pubDate": "Tue, 11 Nov 2025 13:30:24 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "22,391",
-      "forks": "17,186",
+      "stars": "22,394",
+      "forks": "17,188",
       "addStars": "381",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,773",
-      "forks": "820",
+      "stars": "2,774",
+      "forks": "821",
       "addStars": "73",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,644",
+      "stars": "2,645",
       "forks": "268",
       "addStars": "73",
       "contributors": [
@@ -139,7 +139,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "8,864",
-      "forks": "2,201",
+      "forks": "2,202",
       "addStars": "143",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "Community-driven Nix Flake for the Zen browser",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "662",
+      "stars": "663",
       "forks": "62",
       "addStars": "78",
       "contributors": [
@@ -392,7 +392,7 @@
       "description": "Exploring the integration between Nix and AI coding agents",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "248",
+      "stars": "250",
       "forks": "24",
       "addStars": "81",
       "contributors": [
@@ -488,7 +488,7 @@
       "description": "",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "285",
+      "stars": "286",
       "forks": "32",
       "addStars": "23",
       "contributors": [
@@ -611,7 +611,7 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,368",
+      "stars": "2,369",
       "forks": "196",
       "addStars": "67",
       "contributors": [
@@ -633,8 +633,8 @@
       "description": "❄️ NixOs / Hyprland rice with Home-Manager ❄️",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "808",
-      "forks": "89",
+      "stars": "809",
+      "forks": "86",
       "addStars": "43",
       "contributors": [
         {
@@ -707,7 +707,7 @@
       "description": "An unofficial NixOS fork with a FreeBSD kernel",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "794",
+      "stars": "795",
       "forks": "28",
       "addStars": "21",
       "contributors": [

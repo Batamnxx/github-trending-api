@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 11 Nov 2025 07:24:40 GMT",
+  "pubDate": "Tue, 11 Nov 2025 13:30:24 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "22,391",
-      "forks": "17,186",
+      "stars": "22,394",
+      "forks": "17,188",
       "addStars": "9",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "8,864",
-      "forks": "2,201",
+      "forks": "2,202",
       "addStars": "3",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,644",
+      "stars": "2,645",
       "forks": "268",
       "addStars": "4",
       "contributors": [
@@ -180,8 +180,8 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,773",
-      "forks": "820",
+      "stars": "2,774",
+      "forks": "821",
       "addStars": "1",
       "contributors": [
         {
@@ -345,8 +345,8 @@
       "description": "❄️ NixOs / Hyprland rice with Home-Manager ❄️",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "808",
-      "forks": "89",
+      "stars": "809",
+      "forks": "86",
       "addStars": "1",
       "contributors": [
         {
@@ -419,7 +419,7 @@
       "description": "",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "285",
+      "stars": "286",
       "forks": "32",
       "addStars": "2",
       "contributors": [
@@ -441,7 +441,7 @@
       "description": "age-encrypted secrets for NixOS and Home manager",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,051",
+      "stars": "2,052",
       "forks": "144",
       "addStars": "1",
       "contributors": [
@@ -478,7 +478,7 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,368",
+      "stars": "2,369",
       "forks": "196",
       "addStars": "2",
       "contributors": [

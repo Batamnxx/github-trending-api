@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nix Languages in GitHub</description>
-    <pubDate>Tue, 11 Nov 2025 07:24:40 GMT</pubDate>
+    <pubDate>Tue, 11 Nov 2025 13:30:24 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>22,391</stars>
-      <forks>17,186</forks>
+      <stars>22,394</stars>
+      <forks>17,188</forks>
       <addStars>86</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/NixOS/nixos-hardware</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,773</stars>
-      <forks>820</forks>
+      <stars>2,774</stars>
+      <forks>821</forks>
       <addStars>19</addStars>
       <contributors>
         <contributor>
@@ -83,7 +83,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>8,864</stars>
-      <forks>2,201</forks>
+      <forks>2,202</forks>
       <addStars>25</addStars>
       <contributors>
         <contributor>
@@ -120,7 +120,7 @@
       <guid>https://github.com/numtide/nix-ai-tools</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>248</stars>
+      <stars>250</stars>
       <forks>24</forks>
       <addStars>27</addStars>
       <contributors>
@@ -143,7 +143,7 @@
       <guid>https://github.com/0xc000022070/zen-browser-flake</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>662</stars>
+      <stars>663</stars>
       <forks>62</forks>
       <addStars>22</addStars>
       <contributors>
@@ -399,7 +399,7 @@
       <guid>https://github.com/mkellyxp/nixbook</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>285</stars>
+      <stars>286</stars>
       <forks>32</forks>
       <addStars>12</addStars>
       <contributors>
@@ -607,7 +607,7 @@
       <guid>https://github.com/nix-community/disko</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,644</stars>
+      <stars>2,645</stars>
       <forks>268</forks>
       <addStars>16</addStars>
       <contributors>
@@ -673,7 +673,7 @@
       <guid>https://github.com/ryantm/agenix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,051</stars>
+      <stars>2,052</stars>
       <forks>144</forks>
       <addStars>10</addStars>
       <contributors>

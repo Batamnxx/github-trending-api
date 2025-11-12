@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Monthly Trending",
   "description": "Monthly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 12 Nov 2025 13:32:36 GMT",
+  "pubDate": "Wed, 12 Nov 2025 19:20:36 GMT",
   "items": [
     {
       "title": "codecrafters-io/build-your-own-x",
@@ -10,8 +10,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "437,389",
-      "forks": "40,992",
+      "stars": "437,465",
+      "forks": "40,997",
       "addStars": "12,241",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "📚 Collaborative cheatsheets for console commands",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "60,042",
+      "stars": "60,043",
       "forks": "4,882",
       "addStars": "537",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "4,424",
-      "forks": "8,028",
+      "forks": "8,027",
       "addStars": "20",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Open source documentation of Microsoft Azure",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "10,676",
-      "forks": "21,854",
+      "stars": "10,677",
+      "forks": "21,853",
       "addStars": "30",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "Protect your data against global mass surveillance programs.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "3,693",
+      "stars": "3,694",
       "forks": "256",
       "addStars": "91",
       "contributors": [
@@ -297,7 +297,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "12,079",
-      "forks": "3,539",
+      "forks": "3,541",
       "addStars": "54",
       "contributors": [
         {

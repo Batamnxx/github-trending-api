@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 12 Nov 2025 19:20:36 GMT",
+  "pubDate": "Thu, 13 Nov 2025 02:47:11 GMT",
   "items": [
     {
       "title": "triton-lang/triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "17,533",
+      "stars": "17,534",
       "forks": "2,382",
-      "addStars": "10",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/614788?s=40&v=4",

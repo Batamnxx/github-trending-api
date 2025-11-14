@@ -2,7 +2,7 @@
   "title": "GitHub Roff Languages Weekly Trending",
   "description": "Weekly Trending of Roff Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 14 Nov 2025 02:45:13 GMT",
+  "pubDate": "Fri, 14 Nov 2025 07:24:16 GMT",
   "items": [
     {
       "title": "TapXWorld/ChinaTextbook",
@@ -10,8 +10,8 @@
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": "56,065",
-      "forks": "12,522",
+      "stars": "56,152",
+      "forks": "12,545",
       "addStars": "1,566",
       "contributors": [
         {

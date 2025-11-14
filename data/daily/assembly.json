@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 14 Nov 2025 02:45:13 GMT",
+  "pubDate": "Fri, 14 Nov 2025 07:24:16 GMT",
   "items": [
     {
       "title": "chrislgarry/Apollo-11",
@@ -11,7 +11,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "63,880",
-      "forks": "7,364",
+      "forks": "7,365",
       "addStars": "5",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "17,396",
+      "stars": "17,397",
       "forks": "1,962",
       "addStars": "4",
       "contributors": [

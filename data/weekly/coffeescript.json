@@ -2,7 +2,7 @@
   "title": "GitHub Coffeescript Languages Weekly Trending",
   "description": "Weekly Trending of Coffeescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 13 Nov 2025 19:19:43 GMT",
+  "pubDate": "Fri, 14 Nov 2025 02:45:13 GMT",
   "items": [
     {
       "title": "slackapi/hubot-slack",
@@ -12,7 +12,7 @@
       "languageColor": "#244776",
       "stars": "2,351",
       "forks": "642",
-      "addStars": "12",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/494795?s=40&v=4",

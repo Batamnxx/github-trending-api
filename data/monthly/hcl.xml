@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Thu, 13 Nov 2025 19:19:43 GMT</pubDate>
+    <pubDate>Fri, 14 Nov 2025 02:45:13 GMT</pubDate>
     <item>
       <title>terraform-aws-modules/terraform-aws-eks</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
@@ -13,7 +13,7 @@
       <languageColor>#844FBA</languageColor>
       <stars>4,840</stars>
       <forks>4,307</forks>
-      <addStars>38</addStars>
+      <addStars>37</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
@@ -84,7 +84,7 @@
       <languageColor>#844FBA</languageColor>
       <stars>3,174</stars>
       <forks>4,602</forks>
-      <addStars>13</addStars>
+      <addStars>14</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
@@ -121,8 +121,8 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>1,866</stars>
-      <forks>1,131</forks>
-      <addStars>32</addStars>
+      <forks>1,132</forks>
+      <addStars>31</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/66007?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/SadServers/sadservers</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>2,541</stars>
+      <stars>2,542</stars>
       <forks>89</forks>
-      <addStars>209</addStars>
+      <addStars>210</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/711345?s=40&amp;v=4</avatar>
@@ -183,7 +183,7 @@
       <languageColor>#844FBA</languageColor>
       <stars>1,014</stars>
       <forks>741</forks>
-      <addStars>1</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
@@ -209,44 +209,6 @@
           <avatar>https://avatars.githubusercontent.com/u/318490?s=40&amp;v=4</avatar>
           <name>pdecat</name>
           <url>https://github.com/pdecat</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>terraform-aws-modules/terraform-aws-ecs</title>
-      <link>https://github.com/terraform-aws-modules/terraform-aws-ecs</link>
-      <description>Terraform module to create AWS ECS resources 🇺🇦</description>
-      <guid>https://github.com/terraform-aws-modules/terraform-aws-ecs</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>646</stars>
-      <forks>637</forks>
-      <addStars>7</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
-          <name>semantic-release-bot</name>
-          <url>https://github.com/semantic-release-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
-          <name>bryantbiggs</name>
-          <url>https://github.com/bryantbiggs</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
-          <name>antonbabenko</name>
-          <url>https://github.com/antonbabenko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/481964?s=40&amp;v=4</avatar>
-          <name>arminc</name>
-          <url>https://github.com/arminc</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
-          <name>betajobot</name>
-          <url>https://github.com/betajobot</url>
         </contributor>
       </contributors>
     </item>
@@ -297,7 +259,7 @@
       <languageColor>#844FBA</languageColor>
       <stars>289</stars>
       <forks>473</forks>
-      <addStars>2</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>

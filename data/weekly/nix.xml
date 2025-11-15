@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nix Languages in GitHub</description>
-    <pubDate>Sat, 15 Nov 2025 02:39:44 GMT</pubDate>
+    <pubDate>Sat, 15 Nov 2025 07:20:59 GMT</pubDate>
     <item>
       <title>nix-community/home-manager</title>
       <link>https://github.com/nix-community/home-manager</link>
@@ -82,8 +82,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>22,425</stars>
-      <forks>17,215</forks>
+      <stars>22,427</stars>
+      <forks>17,216</forks>
       <addStars>87</addStars>
       <contributors>
         <contributor>
@@ -328,7 +328,7 @@
       <guid>https://github.com/mkellyxp/nixbook</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>290</stars>
+      <stars>291</stars>
       <forks>34</forks>
       <addStars>11</addStars>
       <contributors>
@@ -352,7 +352,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>3,169</stars>
-      <forks>180</forks>
+      <forks>179</forks>
       <addStars>28</addStars>
       <contributors>
         <contributor>
@@ -384,7 +384,7 @@
       <guid>https://github.com/nix-community/disko</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,652</stars>
+      <stars>2,653</stars>
       <forks>268</forks>
       <addStars>15</addStars>
       <contributors>

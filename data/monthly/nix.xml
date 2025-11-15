@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Nix Languages in GitHub</description>
-    <pubDate>Sat, 15 Nov 2025 02:39:44 GMT</pubDate>
+    <pubDate>Sat, 15 Nov 2025 07:20:59 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>22,425</stars>
-      <forks>17,215</forks>
+      <stars>22,427</stars>
+      <forks>17,216</forks>
       <addStars>391</addStars>
       <contributors>
         <contributor>
@@ -115,7 +115,7 @@
       <guid>https://github.com/nix-community/disko</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,652</stars>
+      <stars>2,653</stars>
       <forks>268</forks>
       <addStars>72</addStars>
       <contributors>
@@ -400,7 +400,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>539</stars>
-      <forks>70</forks>
+      <forks>71</forks>
       <addStars>78</addStars>
       <contributors>
         <contributor>
@@ -432,7 +432,7 @@
       <guid>https://github.com/nix-community/nix-on-droid</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,845</stars>
+      <stars>1,846</stars>
       <forks>119</forks>
       <addStars>63</addStars>
       <contributors>

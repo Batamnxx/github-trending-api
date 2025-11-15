@@ -3,7 +3,7 @@
     <title>GitHub Roff Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Roff Languages in GitHub</description>
-    <pubDate>Sat, 15 Nov 2025 02:39:44 GMT</pubDate>
+    <pubDate>Sat, 15 Nov 2025 07:20:59 GMT</pubDate>
     <item>
       <title>TapXWorld/ChinaTextbook</title>
       <link>https://github.com/TapXWorld/ChinaTextbook</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/TapXWorld/ChinaTextbook</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>56,313</stars>
-      <forks>12,586</forks>
+      <stars>56,362</stars>
+      <forks>12,594</forks>
       <addStars>320</addStars>
       <contributors>
         <contributor>
@@ -110,7 +110,7 @@
       <guid>https://github.com/pyenv/pyenv</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>43,644</stars>
+      <stars>43,643</stars>
       <forks>3,218</forks>
       <addStars>13</addStars>
       <contributors>
@@ -148,8 +148,8 @@
       <guid>https://github.com/ophub/amlogic-s9xxx-armbian</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>8,113</stars>
-      <forks>2,588</forks>
+      <stars>8,115</stars>
+      <forks>2,592</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>

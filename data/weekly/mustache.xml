@@ -3,7 +3,7 @@
     <title>GitHub Mustache Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Mustache Languages in GitHub</description>
-    <pubDate>Sat, 15 Nov 2025 07:20:59 GMT</pubDate>
+    <pubDate>Sat, 15 Nov 2025 13:24:14 GMT</pubDate>
     <item>
       <title>goharbor/harbor-helm</title>
       <link>https://github.com/goharbor/harbor-helm</link>
@@ -229,7 +229,7 @@
       <guid>https://github.com/codecentric/helm-charts</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>684</stars>
+      <stars>685</stars>
       <forks>624</forks>
       <addStars>5</addStars>
       <contributors>

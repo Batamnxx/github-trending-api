@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Daily Trending",
   "description": "Daily Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 15 Nov 2025 13:24:14 GMT",
+  "pubDate": "Sat, 15 Nov 2025 19:16:49 GMT",
   "items": [
     {
       "title": "cobiwave/simplefolio",
@@ -11,7 +11,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "14,041",
-      "forks": "6,045",
+      "forks": "6,046",
       "addStars": "1",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "746",
+      "stars": "747",
       "forks": "25",
       "addStars": "1",
       "contributors": [
@@ -107,7 +107,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "2,390",
-      "forks": "4,858",
+      "forks": "4,862",
       "addStars": "1",
       "contributors": [
         {
@@ -320,7 +320,7 @@
       "description": "A list of RSS related stuff: tools, services, communities and tutorials, etc.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "5,506",
+      "stars": "5,508",
       "forks": "219",
       "addStars": "3",
       "contributors": [
@@ -357,7 +357,7 @@
       "description": "📫 SMTP Server + Web Interface for viewing and testing emails during development.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "5,714",
+      "stars": "5,715",
       "forks": "537",
       "addStars": "2",
       "contributors": [
@@ -431,7 +431,7 @@
       "description": "Badges for your personal developer branding, profile, and projects.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "15,804",
+      "stars": "15,806",
       "forks": "1,764",
       "addStars": "7",
       "contributors": [

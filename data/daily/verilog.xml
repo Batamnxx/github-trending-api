@@ -3,7 +3,7 @@
     <title>GitHub Verilog Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Verilog Languages in GitHub</description>
-    <pubDate>Sun, 16 Nov 2025 07:22:47 GMT</pubDate>
+    <pubDate>Sun, 16 Nov 2025 13:23:44 GMT</pubDate>
     <item>
       <title>The-OpenROAD-Project/OpenROAD</title>
       <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
@@ -148,7 +148,7 @@
       <guid>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>516</stars>
+      <stars>517</stars>
       <forks>395</forks>
       <addStars>0</addStars>
       <contributors>
@@ -224,7 +224,7 @@
       <guid>https://github.com/YosysHQ/picorv32</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>3,767</stars>
+      <stars>3,769</stars>
       <forks>878</forks>
       <addStars>1</addStars>
       <contributors>
@@ -262,7 +262,7 @@
       <guid>https://github.com/vortexgpgpu/vortex</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>1,748</stars>
+      <stars>1,749</stars>
       <forks>395</forks>
       <addStars>1</addStars>
       <contributors>

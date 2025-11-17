@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 17 Nov 2025 13:31:49 GMT",
+  "pubDate": "Mon, 17 Nov 2025 19:19:28 GMT",
   "items": [
     {
       "title": "brendangregg/FlameGraph",
@@ -10,7 +10,7 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "18,947",
+      "stars": "18,949",
       "forks": "2,059",
       "addStars": "4",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "22,025",
+      "stars": "22,024",
       "forks": "1,084",
       "addStars": "4",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "526",
+      "stars": "527",
       "forks": "222",
       "addStars": "0",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "1,560",
+      "stars": "1,561",
       "forks": "311",
       "addStars": "0",
       "contributors": [
@@ -375,7 +375,7 @@
       "description": "Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "1,533",
+      "stars": "1,534",
       "forks": "340",
       "addStars": "1",
       "contributors": [
@@ -523,7 +523,7 @@
       "description": "LCOV",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "1,044",
+      "stars": "1,045",
       "forks": "257",
       "addStars": "2",
       "contributors": [
@@ -560,7 +560,7 @@
       "description": "A web-based network management tool.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "795",
+      "stars": "797",
       "forks": "91",
       "addStars": "0",
       "contributors": [

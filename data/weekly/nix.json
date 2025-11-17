@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 17 Nov 2025 13:31:49 GMT",
+  "pubDate": "Mon, 17 Nov 2025 19:19:28 GMT",
   "items": [
     {
       "title": "nix-community/home-manager",
@@ -10,7 +10,7 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "8,895",
+      "stars": "8,897",
       "forks": "2,205",
       "addStars": "37",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "22,442",
-      "forks": "17,240",
+      "stars": "22,446",
+      "forks": "17,245",
       "addStars": "80",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,425",
+      "stars": "3,426",
       "forks": "302",
       "addStars": "16",
       "contributors": [
@@ -154,7 +154,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "259",
-      "forks": "28",
+      "forks": "29",
       "addStars": "15",
       "contributors": [
         {
@@ -175,7 +175,7 @@
       "description": "Community-driven Nix Flake for the Zen browser",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "674",
+      "stars": "675",
       "forks": "62",
       "addStars": "13",
       "contributors": [
@@ -239,7 +239,7 @@
       "description": "NixOS on WSL [maintainer=@nzbr]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,573",
+      "stars": "2,574",
       "forks": "153",
       "addStars": "13",
       "contributors": [
@@ -271,7 +271,7 @@
       "description": "Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,472",
+      "stars": "2,473",
       "forks": "361",
       "addStars": "12",
       "contributors": [
@@ -362,7 +362,7 @@
       "description": "General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,173",
+      "stars": "3,175",
       "forks": "179",
       "addStars": "31",
       "contributors": [
@@ -394,7 +394,7 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,661",
+      "stars": "2,663",
       "forks": "268",
       "addStars": "16",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Mustache Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Mustache Languages in GitHub</description>
-    <pubDate>Mon, 17 Nov 2025 02:47:41 GMT</pubDate>
+    <pubDate>Mon, 17 Nov 2025 07:25:07 GMT</pubDate>
     <item>
       <title>argoproj/argo-helm</title>
       <link>https://github.com/argoproj/argo-helm</link>
@@ -272,7 +272,7 @@
       <guid>https://github.com/prometheus-community/helm-charts</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>5,841</stars>
+      <stars>5,843</stars>
       <forks>5,333</forks>
       <addStars>0</addStars>
       <contributors>

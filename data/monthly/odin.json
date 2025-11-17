@@ -2,7 +2,7 @@
   "title": "GitHub Odin Languages Monthly Trending",
   "description": "Monthly Trending of Odin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 17 Nov 2025 02:47:41 GMT",
+  "pubDate": "Mon, 17 Nov 2025 07:25:07 GMT",
   "items": [
     {
       "title": "odin-lang/Odin",
@@ -10,7 +10,7 @@
       "description": "Odin Programming Language",
       "language": "Odin",
       "languageColor": "#60AFFE",
-      "stars": "9,255",
+      "stars": "9,256",
       "forks": "849",
       "addStars": "164",
       "contributors": [

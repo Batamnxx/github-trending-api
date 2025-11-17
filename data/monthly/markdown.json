@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Monthly Trending",
   "description": "Monthly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 17 Nov 2025 02:47:41 GMT",
+  "pubDate": "Mon, 17 Nov 2025 07:25:07 GMT",
   "items": [
     {
       "title": "codecrafters-io/build-your-own-x",
@@ -10,8 +10,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "439,091",
-      "forks": "41,157",
+      "stars": "439,201",
+      "forks": "41,169",
       "addStars": "13,136",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "📚 Collaborative cheatsheets for console commands",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "60,084",
-      "forks": "4,919",
+      "stars": "60,086",
+      "forks": "4,922",
       "addStars": "487",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "4,427",
-      "forks": "8,038",
+      "forks": "8,042",
       "addStars": "22",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "Protect your data against global mass surveillance programs.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "3,707",
+      "stars": "3,708",
       "forks": "256",
       "addStars": "91",
       "contributors": [

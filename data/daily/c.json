@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 18 Nov 2025 13:32:01 GMT",
+  "pubDate": "Tue, 18 Nov 2025 19:19:59 GMT",
   "items": [
     {
       "title": "mackron/miniaudio",
@@ -11,8 +11,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "5,540",
-      "forks": "481",
-      "addStars": "6",
+      "forks": "482",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1232553?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "An opensource OpenWrt variant for mainland China users.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "9,304",
+      "stars": "9,305",
       "forks": "2,904",
-      "addStars": "6",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19352056?s=40&v=4",
@@ -84,7 +84,7 @@
       "description": "NCS downstream of https://github.com/zephyrproject-rtos/zephyr",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "360",
+      "stars": "361",
       "forks": "731",
       "addStars": "2",
       "contributors": [
@@ -121,9 +121,9 @@
       "description": "TLS/SSL and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "29,015",
+      "stars": "29,016",
       "forks": "10,939",
-      "addStars": "9",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/698918?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "28,739",
+      "stars": "28,742",
       "forks": "2,219",
-      "addStars": "14",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51009775?s=40&v=4",
@@ -217,7 +217,7 @@
       "description": "A fast entity component system (ECS) for C & C++",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,687",
+      "stars": "7,686",
       "forks": "560",
       "addStars": "2",
       "contributors": [
@@ -254,9 +254,9 @@
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "18,127",
+      "stars": "18,138",
       "forks": "618",
-      "addStars": "22",
+      "addStars": "34",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6134068?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "39,625",
-      "forks": "7,960",
-      "addStars": "6",
+      "stars": "39,627",
+      "forks": "7,962",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2510034?s=40&v=4",
@@ -328,8 +328,8 @@
       "description": "Open Source Flight Controller Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "10,237",
-      "forks": "3,470",
+      "stars": "10,238",
+      "forks": "3,472",
       "addStars": "4",
       "contributors": [
         {
@@ -365,9 +365,9 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "39,915",
-      "forks": "6,946",
-      "addStars": "15",
+      "stars": "39,918",
+      "forks": "6,947",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
@@ -402,9 +402,9 @@
       "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "6,262",
+      "stars": "6,263",
       "forks": "2,794",
-      "addStars": "3",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26596258?s=40&v=4",
@@ -476,7 +476,7 @@
       "description": "Mirror of Apache HTTP Server. Issues: http://issues.apache.org",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "3,834",
+      "stars": "3,836",
       "forks": "1,201",
       "addStars": "4",
       "contributors": [
@@ -514,7 +514,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "2,605",
-      "forks": "643",
+      "forks": "644",
       "addStars": "1",
       "contributors": [
         {
@@ -550,9 +550,9 @@
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "76,736",
+      "stars": "76,737",
       "forks": "6,226",
-      "addStars": "14",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2662304?s=40&v=4",
@@ -588,8 +588,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "1,194",
-      "forks": "1,415",
-      "addStars": "3",
+      "forks": "1,417",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29888381?s=40&v=4",
@@ -624,9 +624,9 @@
       "description": "A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "299",
+      "stars": "302",
       "forks": "51",
-      "addStars": "2",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/177025505?s=40&v=4",
@@ -648,7 +648,7 @@
       "languageColor": "#555555",
       "stars": "9,307",
       "forks": "1,699",
-      "addStars": "7",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7284063?s=40&v=4",

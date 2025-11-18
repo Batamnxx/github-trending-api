@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Monthly Trending",
   "description": "Monthly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 18 Nov 2025 13:32:01 GMT",
+  "pubDate": "Tue, 18 Nov 2025 19:19:59 GMT",
   "items": [
     {
       "title": "cobiwave/simplefolio",
@@ -47,7 +47,7 @@
       "description": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,691",
+      "stars": "8,692",
       "forks": "3,789",
       "addStars": "90",
       "contributors": [
@@ -138,8 +138,8 @@
       "description": "AcadHomepage: A Modern and Responsive Academic Personal Homepage",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "2,398",
-      "forks": "4,883",
+      "stars": "2,399",
+      "forks": "4,884",
       "addStars": "70",
       "contributors": [
         {
@@ -303,7 +303,7 @@
       "description": "",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "810",
+      "stars": "809",
       "forks": "528",
       "addStars": "6",
       "contributors": [
@@ -372,8 +372,8 @@
       "description": "The conventional commits specification",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,277",
-      "forks": "630",
+      "stars": "8,278",
+      "forks": "631",
       "addStars": "105",
       "contributors": [
         {

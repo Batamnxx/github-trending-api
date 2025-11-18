@@ -2,7 +2,7 @@
   "title": "GitHub Brightscript Languages Monthly Trending",
   "description": "Monthly Trending of Brightscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 18 Nov 2025 13:32:01 GMT",
+  "pubDate": "Tue, 18 Nov 2025 19:19:59 GMT",
   "items": [
     {
       "title": "rokudev/samples",
@@ -10,7 +10,7 @@
       "description": "Collection of sample channels for side-loading on your Roku device",
       "language": "Brightscript",
       "languageColor": "#662D91",
-      "stars": "510",
+      "stars": "511",
       "forks": "313",
       "addStars": "8",
       "contributors": [

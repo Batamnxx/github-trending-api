@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Monthly Trending",
   "description": "Monthly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 18 Nov 2025 13:32:01 GMT",
+  "pubDate": "Tue, 18 Nov 2025 19:19:59 GMT",
   "items": [
     {
       "title": "codecrafters-io/build-your-own-x",
@@ -10,8 +10,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "439,776",
-      "forks": "41,213",
+      "stars": "439,877",
+      "forks": "41,224",
       "addStars": "13,409",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "📚 Collaborative cheatsheets for console commands",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "60,104",
-      "forks": "4,922",
+      "stars": "60,107",
+      "forks": "4,924",
       "addStars": "469",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "4,429",
-      "forks": "8,042",
+      "forks": "8,043",
       "addStars": "22",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Open source documentation of Microsoft Azure",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "10,679",
-      "forks": "21,848",
+      "stars": "10,680",
+      "forks": "21,847",
       "addStars": "32",
       "contributors": [
         {
@@ -154,7 +154,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "9,826",
-      "forks": "22,940",
+      "forks": "22,942",
       "addStars": "64",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "Protect your data against global mass surveillance programs.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "3,708",
+      "stars": "3,709",
       "forks": "256",
       "addStars": "91",
       "contributors": [
@@ -260,7 +260,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "5,715",
-      "forks": "5,292",
+      "forks": "5,294",
       "addStars": "76",
       "contributors": [
         {

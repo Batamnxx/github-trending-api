@@ -2,7 +2,7 @@
   "title": "GitHub Groovy Languages Monthly Trending",
   "description": "Monthly Trending of Groovy Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 18 Nov 2025 13:32:01 GMT",
+  "pubDate": "Tue, 18 Nov 2025 19:19:59 GMT",
   "items": [
     {
       "title": "gradle/gradle",
@@ -48,7 +48,7 @@
       "language": "Groovy",
       "languageColor": "#4298b8",
       "stars": "9,322",
-      "forks": "2,332",
+      "forks": "2,333",
       "addStars": "75",
       "contributors": [
         {

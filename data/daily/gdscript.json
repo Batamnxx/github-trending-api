@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 19 Nov 2025 02:45:02 GMT",
+  "pubDate": "Wed, 19 Nov 2025 07:24:24 GMT",
   "items": [
     {
       "title": "Phazorknight/Cogito",
@@ -269,7 +269,7 @@
       "description": "Godot Entity Component System - GECS",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "298",
+      "stars": "299",
       "forks": "15",
       "addStars": "2",
       "contributors": [
@@ -301,7 +301,7 @@
       "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "6,308",
+      "stars": "6,307",
       "forks": "291",
       "addStars": "1",
       "contributors": [

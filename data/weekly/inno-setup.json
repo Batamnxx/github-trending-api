@@ -2,7 +2,7 @@
   "title": "GitHub Inno-setup Languages Weekly Trending",
   "description": "Weekly Trending of Inno-setup Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 19 Nov 2025 13:31:40 GMT",
+  "pubDate": "Wed, 19 Nov 2025 19:20:11 GMT",
   "items": [
     {
       "title": "mentebinaria/retoolkit",
@@ -10,7 +10,7 @@
       "description": "Reverse Engineer's Toolkit",
       "language": "Inno Setup",
       "languageColor": "#264b99",
-      "stars": "5,111",
+      "stars": "5,112",
       "forks": "532",
       "addStars": "2",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Additional files and scripts to help build Git for Windows on MSYS2.",
       "language": "Inno Setup",
       "languageColor": "#264b99",
-      "stars": "652",
+      "stars": "653",
       "forks": "635",
       "addStars": "2",
       "contributors": [

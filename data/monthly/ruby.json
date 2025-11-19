@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Monthly Trending",
   "description": "Monthly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 19 Nov 2025 13:31:40 GMT",
+  "pubDate": "Wed, 19 Nov 2025 19:20:11 GMT",
   "items": [
     {
       "title": "ubicloud/ubicloud",
@@ -10,7 +10,7 @@
       "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "11,352",
+      "stars": "11,368",
       "forks": "512",
       "addStars": "963",
       "contributors": [
@@ -42,8 +42,8 @@
       "description": "Deploy web apps anywhere.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "13,530",
-      "forks": "641",
+      "stars": "13,535",
+      "forks": "642",
       "addStars": "218",
       "contributors": [
         {
@@ -102,6 +102,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/88774276?s=40&v=4",
           "name": "Eduard-Gimaev",
           "url": "https://github.com/Eduard-Gimaev"
+        }
+      ]
+    },
+    {
+      "title": "tobi/try",
+      "url": "https://github.com/tobi/try",
+      "description": "fresh directories for every vibe",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "1,866",
+      "forks": "65",
+      "addStars": "1,058",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/347?s=40&v=4",
+          "name": "tobi",
+          "url": "https://github.com/tobi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/817039?s=40&v=4",
+          "name": "pcasaretto",
+          "url": "https://github.com/pcasaretto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1227896?s=40&v=4",
+          "name": "o6uoq",
+          "url": "https://github.com/o6uoq"
         }
       ]
     },
@@ -180,8 +212,8 @@
       "description": "Sell stuff and see what sticks",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "7,577",
-      "forks": "1,433",
+      "stars": "7,581",
+      "forks": "1,434",
       "addStars": "343",
       "contributors": [
         {
@@ -207,7 +239,7 @@
       "description": "Liquid markup language. Safe, customer facing template language for flexible web apps.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "11,574",
+      "stars": "11,576",
       "forks": "1,480",
       "addStars": "59",
       "contributors": [
@@ -244,8 +276,8 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "26,056",
-      "forks": "5,772",
+      "stars": "26,063",
+      "forks": "5,774",
       "addStars": "361",
       "contributors": [
         {
@@ -281,7 +313,7 @@
       "description": "Zammad is a web based open source helpdesk/customer support system.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "5,224",
+      "stars": "5,225",
       "forks": "892",
       "addStars": "84",
       "contributors": [
@@ -318,7 +350,7 @@
       "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "48,100",
+      "stars": "48,099",
       "forks": "4,196",
       "addStars": "419",
       "contributors": [
@@ -355,7 +387,7 @@
       "description": "Database-backed Active Job backend",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "2,283",
+      "stars": "2,284",
       "forks": "206",
       "addStars": "40",
       "contributors": [
@@ -387,7 +419,7 @@
       "description": "The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "628",
+      "stars": "629",
       "forks": "80",
       "addStars": "59",
       "contributors": [
@@ -424,7 +456,7 @@
       "description": "🍺 The missing package manager for macOS (or Linux)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "45,513",
+      "stars": "45,519",
       "forks": "10,683",
       "addStars": "448",
       "contributors": [
@@ -461,7 +493,7 @@
       "description": "🤖 Dependabot's core logic for creating update PRs.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "5,292",
+      "stars": "5,293",
       "forks": "1,231",
       "addStars": "53",
       "contributors": [
@@ -679,7 +711,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "3,236",
-      "forks": "309",
+      "forks": "310",
       "addStars": "167",
       "contributors": [
         {
@@ -715,8 +747,8 @@
       "description": "Informative site with EoL dates of everything",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "3,039",
-      "forks": "1,076",
+      "stars": "3,040",
+      "forks": "1,078",
       "addStars": "45",
       "contributors": [
         {

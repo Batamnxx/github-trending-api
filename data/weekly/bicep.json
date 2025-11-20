@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Weekly Trending",
   "description": "Weekly Trending of Bicep Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 20 Nov 2025 07:24:26 GMT",
+  "pubDate": "Thu, 20 Nov 2025 13:29:56 GMT",
   "items": [
     {
       "title": "Azure/bicep-registry-modules",
@@ -80,7 +80,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": "19,267",
-      "forks": "4,058",
+      "forks": "4,059",
       "addStars": "47",
       "contributors": [
         {
@@ -112,7 +112,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": "168",
-      "forks": "246",
+      "forks": "247",
       "addStars": "6",
       "contributors": [
         {

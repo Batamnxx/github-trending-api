@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Monthly Trending",
   "description": "Monthly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 20 Nov 2025 02:43:20 GMT",
+  "pubDate": "Thu, 20 Nov 2025 07:24:26 GMT",
   "items": [
     {
       "title": "adam-maj/tiny-gpu",
@@ -10,7 +10,7 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "8,904",
+      "stars": "8,905",
       "forks": "699",
       "addStars": "114",
       "contributors": [
@@ -376,7 +376,7 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": "1,614",
-      "forks": "532",
+      "forks": "531",
       "addStars": "9",
       "contributors": [
         {

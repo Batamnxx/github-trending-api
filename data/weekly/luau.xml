@@ -3,7 +3,7 @@
     <title>GitHub Luau Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Luau Languages in GitHub</description>
-    <pubDate>Thu, 20 Nov 2025 13:29:56 GMT</pubDate>
+    <pubDate>Thu, 20 Nov 2025 19:19:43 GMT</pubDate>
     <item>
       <title>rojo-rbx/rojo</title>
       <link>https://github.com/rojo-rbx/rojo</link>
@@ -12,7 +12,7 @@
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
       <stars>1,309</stars>
-      <forks>231</forks>
+      <forks>233</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>

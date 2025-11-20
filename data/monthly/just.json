@@ -2,7 +2,7 @@
   "title": "GitHub Just Languages Monthly Trending",
   "description": "Monthly Trending of Just Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 20 Nov 2025 13:29:56 GMT",
+  "pubDate": "Thu, 20 Nov 2025 19:19:43 GMT",
   "items": [
     {
       "title": "ublue-os/image-template",
@@ -10,7 +10,7 @@
       "description": "Build your own custom Universal Blue Image!",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "513",
+      "stars": "514",
       "forks": "111",
       "addStars": "39",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "🦀 Soothing pastel theme for Zed",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "659",
+      "stars": "660",
       "forks": "22",
       "addStars": "36",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "Next generation Cosmic desktop environment",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "4,964",
+      "stars": "4,965",
       "forks": "134",
       "addStars": "223",
       "contributors": [

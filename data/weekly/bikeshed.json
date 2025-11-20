@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Weekly Trending",
   "description": "Weekly Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 20 Nov 2025 13:29:56 GMT",
+  "pubDate": "Thu, 20 Nov 2025 19:19:43 GMT",
   "items": [
     {
       "title": "w3c/attribution",
@@ -48,7 +48,7 @@
       "language": "Bikeshed",
       "languageColor": "#5562ac",
       "stars": "746",
-      "forks": "666",
+      "forks": "667",
       "addStars": "7",
       "contributors": [
         {

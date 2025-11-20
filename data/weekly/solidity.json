@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Weekly Trending",
   "description": "Weekly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 20 Nov 2025 13:29:56 GMT",
+  "pubDate": "Thu, 20 Nov 2025 19:19:43 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -10,8 +10,8 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "26,749",
-      "forks": "12,313",
+      "stars": "26,748",
+      "forks": "12,314",
       "addStars": "33",
       "contributors": [
         {
@@ -292,7 +292,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "123",
-      "forks": "41",
+      "forks": "42",
       "addStars": "1",
       "contributors": [
         {

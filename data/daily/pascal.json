@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Daily Trending",
   "description": "Daily Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 21 Nov 2025 02:43:39 GMT",
+  "pubDate": "Fri, 21 Nov 2025 07:24:40 GMT",
   "items": [
     {
       "title": "stascorp/rdpwrap",
@@ -10,7 +10,7 @@
       "description": "RDP Wrapper Library",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "16,052",
+      "stars": "16,053",
       "forks": "3,983",
       "addStars": "5",
       "contributors": [
@@ -192,7 +192,7 @@
       "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "3,597",
+      "stars": "3,598",
       "forks": "253",
       "addStars": "2",
       "contributors": [
@@ -229,7 +229,7 @@
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "6,478",
+      "stars": "6,481",
       "forks": "353",
       "addStars": "4",
       "contributors": [

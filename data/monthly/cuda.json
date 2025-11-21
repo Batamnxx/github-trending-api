@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 21 Nov 2025 13:28:17 GMT",
+  "pubDate": "Fri, 21 Nov 2025 19:20:01 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -10,7 +10,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "28,207",
+      "stars": "28,205",
       "forks": "3,289",
       "addStars": "344",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,075",
+      "stars": "2,076",
       "forks": "393",
       "addStars": "446",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "17,084",
+      "stars": "17,085",
       "forks": "2,030",
       "addStars": "158",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "CUDA accelerated rasterization of gaussian splatting",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,984",
+      "stars": "3,986",
       "forks": "615",
       "addStars": "194",
       "contributors": [
@@ -551,7 +551,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "465",
-      "forks": "54",
+      "forks": "55",
       "addStars": "7",
       "contributors": [
         {

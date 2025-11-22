@@ -2,7 +2,7 @@
   "title": "GitHub Blade Languages Daily Trending",
   "description": "Daily Trending of Blade Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 22 Nov 2025 13:23:46 GMT",
+  "pubDate": "Sat, 22 Nov 2025 19:18:16 GMT",
   "items": [
     {
       "title": "grocy/grocy",
@@ -10,7 +10,7 @@
       "description": "ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home",
       "language": "Blade",
       "languageColor": "#f7523f",
-      "stars": "8,411",
+      "stars": "8,413",
       "forks": "691",
       "addStars": "5",
       "contributors": [

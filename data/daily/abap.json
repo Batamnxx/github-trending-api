@@ -2,7 +2,7 @@
   "title": "GitHub Abap Languages Daily Trending",
   "description": "Daily Trending of Abap Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 22 Nov 2025 13:23:46 GMT",
+  "pubDate": "Sat, 22 Nov 2025 19:18:16 GMT",
   "items": [
     {
       "title": "abapGit/abapGit",
@@ -84,8 +84,8 @@
       "description": "Generate your professional Excel spreadsheet from ABAP",
       "language": "ABAP",
       "languageColor": "#E8274B",
-      "stars": "815",
-      "forks": "305",
+      "stars": "816",
+      "forks": "306",
       "addStars": "0",
       "contributors": [
         {

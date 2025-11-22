@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Monthly Trending",
   "description": "Monthly Trending of Bicep Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 22 Nov 2025 13:23:46 GMT",
+  "pubDate": "Sat, 22 Nov 2025 19:18:16 GMT",
   "items": [
     {
       "title": "Azure/AI-Landing-Zones",
@@ -42,7 +42,7 @@
       "description": "Clean Architecture Solution Template for ASP.NET Core",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": "19,287",
+      "stars": "19,289",
       "forks": "4,059",
       "addStars": "221",
       "contributors": [
@@ -74,8 +74,8 @@
       "description": "Azure Quickstart Templates",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": "14,632",
-      "forks": "16,329",
+      "stars": "14,633",
+      "forks": "16,328",
       "addStars": "51",
       "contributors": [
         {
@@ -144,7 +144,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": "171",
-      "forks": "247",
+      "forks": "248",
       "addStars": "21",
       "contributors": [
         {
@@ -392,7 +392,7 @@
       "description": "Basic sample for deploying AI agents web app with Azure AI Foundry and SDKs",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": "256",
+      "stars": "257",
       "forks": "308",
       "addStars": "32",
       "contributors": [

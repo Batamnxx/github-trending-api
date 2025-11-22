@@ -2,7 +2,7 @@
   "title": "GitHub Autoit Languages Weekly Trending",
   "description": "Weekly Trending of Autoit Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 21 Nov 2025 19:20:01 GMT",
+  "pubDate": "Sat, 22 Nov 2025 02:37:20 GMT",
   "items": [
     {
       "title": "SegoCode/AutoWall",
@@ -42,9 +42,9 @@
       "description": "A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser",
       "language": "AutoIt",
       "languageColor": "#1C3552",
-      "stars": "5,446",
-      "forks": "110",
-      "addStars": "22",
+      "stars": "5,445",
+      "forks": "109",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/716581?s=40&v=4",

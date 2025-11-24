@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Monthly Trending",
   "description": "Monthly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 24 Nov 2025 07:24:58 GMT",
+  "pubDate": "Mon, 24 Nov 2025 13:33:05 GMT",
   "items": [
     {
       "title": "adam-maj/tiny-gpu",
@@ -190,7 +190,7 @@
       "description": "Common SystemVerilog components",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "674",
+      "stars": "675",
       "forks": "186",
       "addStars": "11",
       "contributors": [

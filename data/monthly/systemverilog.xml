@@ -3,7 +3,7 @@
     <title>GitHub Systemverilog Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Systemverilog Languages in GitHub</description>
-    <pubDate>Mon, 24 Nov 2025 07:24:58 GMT</pubDate>
+    <pubDate>Mon, 24 Nov 2025 13:33:05 GMT</pubDate>
     <item>
       <title>adam-maj/tiny-gpu</title>
       <link>https://github.com/adam-maj/tiny-gpu</link>
@@ -196,7 +196,7 @@
       <guid>https://github.com/pulp-platform/common_cells</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>674</stars>
+      <stars>675</stars>
       <forks>186</forks>
       <addStars>11</addStars>
       <contributors>

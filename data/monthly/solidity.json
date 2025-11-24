@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Monthly Trending",
   "description": "Monthly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 24 Nov 2025 07:24:58 GMT",
+  "pubDate": "Mon, 24 Nov 2025 13:33:05 GMT",
   "items": [
     {
       "title": "AmazingAng/WTF-Solidity",
@@ -10,8 +10,8 @@
       "description": "WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "13,583",
-      "forks": "2,355",
+      "stars": "13,587",
+      "forks": "2,356",
       "addStars": "217",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "3,178",
-      "forks": "443",
+      "stars": "3,179",
+      "forks": "444",
       "addStars": "58",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "417",
-      "forks": "321",
+      "forks": "322",
       "addStars": "66",
       "contributors": [
         {
@@ -233,7 +233,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "1,239",
-      "forks": "1,788",
+      "forks": "1,787",
       "addStars": "10",
       "contributors": [
         {
@@ -265,7 +265,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "4,230",
-      "forks": "693",
+      "forks": "694",
       "addStars": "21",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "26,759",
-      "forks": "12,316",
+      "stars": "26,761",
+      "forks": "12,317",
       "addStars": "164",
       "contributors": [
         {
@@ -375,7 +375,7 @@
       "description": "Centrifuge Protocol: The open infrastructure for onchain asset management",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "36",
+      "stars": "37",
       "forks": "16",
       "addStars": "6",
       "contributors": [

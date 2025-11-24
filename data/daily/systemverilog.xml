@@ -3,7 +3,7 @@
     <title>GitHub Systemverilog Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Systemverilog Languages in GitHub</description>
-    <pubDate>Mon, 24 Nov 2025 07:24:58 GMT</pubDate>
+    <pubDate>Mon, 24 Nov 2025 13:33:05 GMT</pubDate>
     <item>
       <title>lowRISC/opentitan</title>
       <link>https://github.com/lowRISC/opentitan</link>
@@ -159,7 +159,7 @@
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
       <stars>116</stars>
-      <forks>66</forks>
+      <forks>67</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -196,7 +196,7 @@
       <guid>https://github.com/pulp-platform/common_cells</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>674</stars>
+      <stars>675</stars>
       <forks>186</forks>
       <addStars>0</addStars>
       <contributors>
@@ -234,7 +234,7 @@
       <guid>https://github.com/pulp-platform/croc</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>155</stars>
+      <stars>156</stars>
       <forks>82</forks>
       <addStars>0</addStars>
       <contributors>

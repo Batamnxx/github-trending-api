@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Mon, 24 Nov 2025 07:24:58 GMT</pubDate>
+    <pubDate>Mon, 24 Nov 2025 13:33:05 GMT</pubDate>
     <item>
       <title>yangshun/tech-interview-handbook</title>
       <link>https://github.com/yangshun/tech-interview-handbook</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/yangshun/tech-interview-handbook</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>134,535</stars>
-      <forks>16,203</forks>
-      <addStars>87</addStars>
+      <stars>134,583</stars>
+      <forks>16,205</forks>
+      <addStars>181</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1315101?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/iptv-org/iptv</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>102,836</stars>
-      <forks>4,551</forks>
-      <addStars>204</addStars>
+      <stars>102,894</stars>
+      <forks>4,556</forks>
+      <addStars>198</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7253922?s=40&amp;v=4</avatar>
@@ -82,7 +82,7 @@
       <guid>https://github.com/requestly/requestly</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,300</stars>
+      <stars>5,304</stars>
       <forks>494</forks>
       <addStars>10</addStars>
       <contributors>
@@ -120,7 +120,7 @@
       <guid>https://github.com/kubernetes-sigs/headlamp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,855</stars>
+      <stars>4,859</stars>
       <forks>468</forks>
       <addStars>10</addStars>
       <contributors>
@@ -158,8 +158,8 @@
       <guid>https://github.com/angular/angular</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>99,376</stars>
-      <forks>26,810</forks>
+      <stars>99,373</stars>
+      <forks>26,814</forks>
       <addStars>15</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/google-gemini/gemini-cli</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>84,292</stars>
-      <forks>9,534</forks>
+      <stars>84,366</stars>
+      <forks>9,543</forks>
       <addStars>163</addStars>
       <contributors>
         <contributor>
@@ -234,7 +234,7 @@
       <guid>https://github.com/vendure-ecommerce/vendure</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,816</stars>
+      <stars>6,817</stars>
       <forks>1,218</forks>
       <addStars>11</addStars>
       <contributors>
@@ -267,8 +267,8 @@
       <guid>https://github.com/firecrawl/firecrawl</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>68,436</stars>
-      <forks>5,345</forks>
+      <stars>68,450</stars>
+      <forks>5,347</forks>
       <addStars>81</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/plait-board/drawnix</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,512</stars>
-      <forks>1,009</forks>
+      <stars>12,519</stars>
+      <forks>1,010</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -338,7 +338,7 @@
       <guid>https://github.com/stan-smith/FossFLOW</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,244</stars>
+      <stars>13,252</stars>
       <forks>826</forks>
       <addStars>16</addStars>
       <contributors>
@@ -376,7 +376,7 @@
       <guid>https://github.com/farion1231/cc-switch</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,965</stars>
+      <stars>4,993</stars>
       <forks>332</forks>
       <addStars>59</addStars>
       <contributors>
@@ -414,8 +414,8 @@
       <guid>https://github.com/Dokploy/dokploy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,123</stars>
-      <forks>1,771</forks>
+      <stars>27,141</stars>
+      <forks>1,772</forks>
       <addStars>21</addStars>
       <contributors>
         <contributor>
@@ -447,7 +447,7 @@
       <guid>https://github.com/google/adk-web</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>675</stars>
+      <stars>676</stars>
       <forks>162</forks>
       <addStars>2</addStars>
       <contributors>
@@ -485,9 +485,9 @@
       <guid>https://github.com/freeCodeCamp/freeCodeCamp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>433,040</stars>
-      <forks>42,547</forks>
-      <addStars>126</addStars>
+      <stars>433,087</stars>
+      <forks>42,554</forks>
+      <addStars>124</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15801806?s=40&amp;v=4</avatar>
@@ -518,8 +518,8 @@
       <guid>https://github.com/modelcontextprotocol/modelcontextprotocol</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,360</stars>
-      <forks>1,127</forks>
+      <stars>6,363</stars>
+      <forks>1,129</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -556,8 +556,8 @@
       <guid>https://github.com/portainer/portainer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>35,424</stars>
-      <forks>2,732</forks>
+      <stars>35,426</stars>
+      <forks>2,731</forks>
       <addStars>12</addStars>
       <contributors>
         <contributor>
@@ -595,7 +595,7 @@
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
       <stars>14,398</stars>
-      <forks>3,184</forks>
+      <forks>3,187</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>

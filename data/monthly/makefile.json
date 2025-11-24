@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Monthly Trending",
   "description": "Monthly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 24 Nov 2025 07:24:58 GMT",
+  "pubDate": "Mon, 24 Nov 2025 13:33:05 GMT",
   "items": [
     {
       "title": "openwrt/packages",
@@ -10,7 +10,7 @@
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "4,346",
+      "stars": "4,347",
       "forks": "3,752",
       "addStars": "18",
       "contributors": [
@@ -218,7 +218,7 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": "790",
-      "forks": "639",
+      "forks": "638",
       "addStars": "26",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Utility functions for dbt projects.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "1,652",
-      "forks": "593",
+      "stars": "1,653",
+      "forks": "592",
       "addStars": "22",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Repository containing reusable workflows / actions for building DuckDB extensions",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "39",
-      "forks": "48",
+      "stars": "40",
+      "forks": "49",
       "addStars": "3",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "54,499",
-      "forks": "5,405",
+      "stars": "54,503",
+      "forks": "5,404",
       "addStars": "346",
       "contributors": [
         {
@@ -429,7 +429,7 @@
       "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "6,983",
+      "stars": "6,985",
       "forks": "1,071",
       "addStars": "115",
       "contributors": [

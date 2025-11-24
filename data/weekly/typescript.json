@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 24 Nov 2025 07:24:58 GMT",
+  "pubDate": "Mon, 24 Nov 2025 13:33:05 GMT",
   "items": [
     {
       "title": "nocobase/nocobase",
@@ -10,8 +10,8 @@
       "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,055",
-      "forks": "2,251",
+      "stars": "20,071",
+      "forks": "2,252",
       "addStars": "454",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,893",
-      "forks": "3,413",
+      "stars": "29,900",
+      "forks": "3,412",
       "addStars": "269",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,462",
+      "stars": "5,469",
       "forks": "209",
       "addStars": "303",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "83,530",
-      "forks": "6,171",
+      "stars": "83,625",
+      "forks": "6,174",
       "addStars": "1,382",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Open-source platform to build and deploy AI agent workflows.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,522",
-      "forks": "2,488",
+      "stars": "18,528",
+      "forks": "2,490",
       "addStars": "169",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,700",
-      "forks": "5,921",
+      "stars": "33,714",
+      "forks": "5,925",
       "addStars": "149",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Curated coding interview preparation materials for busy software engineers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "134,535",
-      "forks": "16,203",
+      "stars": "134,583",
+      "forks": "16,205",
       "addStars": "1,422",
       "contributors": [
         {
@@ -259,7 +259,7 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,965",
+      "stars": "4,993",
       "forks": "332",
       "addStars": "580",
       "contributors": [
@@ -333,8 +333,8 @@
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "102,836",
-      "forks": "4,551",
+      "stars": "102,894",
+      "forks": "4,556",
       "addStars": "2,018",
       "contributors": [
         {
@@ -365,7 +365,7 @@
       "description": "The Progressive Web Framework.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "58,912",
+      "stars": "58,914",
       "forks": "5,447",
       "addStars": "80",
       "contributors": [
@@ -397,7 +397,7 @@
       "description": "💌 Build and send emails using React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,338",
+      "stars": "17,343",
       "forks": "864",
       "addStars": "91",
       "contributors": [
@@ -424,8 +424,8 @@
       "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,153",
-      "forks": "2,828",
+      "stars": "20,154",
+      "forks": "2,831",
       "addStars": "49",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "The AI coding agent built for the terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,765",
-      "forks": "2,746",
+      "stars": "33,800",
+      "forks": "2,748",
       "addStars": "769",
       "contributors": [
         {
@@ -493,8 +493,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "93,391",
-      "forks": "10,791",
+      "stars": "93,410",
+      "forks": "10,799",
       "addStars": "524",
       "contributors": [
         {
@@ -530,8 +530,8 @@
       "description": "Presentation Slides for Developers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "41,845",
-      "forks": "1,784",
+      "stars": "41,848",
+      "forks": "1,785",
       "addStars": "134",
       "contributors": [
         {

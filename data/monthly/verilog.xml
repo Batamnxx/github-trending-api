@@ -3,7 +3,7 @@
     <title>GitHub Verilog Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Verilog Languages in GitHub</description>
-    <pubDate>Mon, 24 Nov 2025 13:33:05 GMT</pubDate>
+    <pubDate>Mon, 24 Nov 2025 19:18:14 GMT</pubDate>
     <item>
       <title>vortexgpgpu/vortex</title>
       <link>https://github.com/vortexgpgpu/vortex</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/vortexgpgpu/vortex</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>1,770</stars>
-      <forks>403</forks>
+      <stars>1,772</stars>
+      <forks>404</forks>
       <addStars>59</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/alexforencich/verilog-ethernet</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>2,766</stars>
+      <stars>2,767</stars>
       <forks>794</forks>
       <addStars>38</addStars>
       <contributors>

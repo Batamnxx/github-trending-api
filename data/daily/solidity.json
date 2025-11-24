@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 24 Nov 2025 13:33:05 GMT",
+  "pubDate": "Mon, 24 Nov 2025 19:18:14 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -11,7 +11,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "26,761",
-      "forks": "12,317",
+      "forks": "12,315",
       "addStars": "5",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "13,587",
-      "forks": "2,356",
+      "forks": "2,357",
       "addStars": "2",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "3,179",
+      "stars": "3,180",
       "forks": "444",
       "addStars": "1",
       "contributors": [

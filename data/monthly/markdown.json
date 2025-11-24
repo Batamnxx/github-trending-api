@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Monthly Trending",
   "description": "Monthly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 24 Nov 2025 13:33:05 GMT",
+  "pubDate": "Mon, 24 Nov 2025 19:18:14 GMT",
   "items": [
     {
       "title": "codecrafters-io/build-your-own-x",
@@ -10,8 +10,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "442,784",
-      "forks": "41,514",
+      "stars": "442,891",
+      "forks": "41,529",
       "addStars": "14,372",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "📚 Collaborative cheatsheets for console commands",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "60,157",
-      "forks": "4,935",
+      "stars": "60,161",
+      "forks": "4,934",
       "addStars": "431",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "4,433",
-      "forks": "8,059",
+      "forks": "8,060",
       "addStars": "23",
       "contributors": [
         {
@@ -122,7 +122,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "10,686",
-      "forks": "21,848",
+      "forks": "21,847",
       "addStars": "39",
       "contributors": [
         {
@@ -154,7 +154,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "9,844",
-      "forks": "22,950",
+      "forks": "22,949",
       "addStars": "70",
       "contributors": [
         {
@@ -260,7 +260,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "5,727",
-      "forks": "5,302",
+      "forks": "5,301",
       "addStars": "72",
       "contributors": [
         {

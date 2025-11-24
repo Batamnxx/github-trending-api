@@ -2,7 +2,7 @@
   "title": "GitHub Svelte Languages Monthly Trending",
   "description": "Monthly Trending of Svelte Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 24 Nov 2025 13:33:05 GMT",
+  "pubDate": "Mon, 24 Nov 2025 19:18:14 GMT",
   "items": [
     {
       "title": "saadeghi/daisyui",
@@ -10,7 +10,7 @@
       "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "39,426",
+      "stars": "39,427",
       "forks": "1,580",
       "addStars": "400",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "766",
-      "forks": "101",
+      "stars": "770",
+      "forks": "102",
       "addStars": "104",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "Stunning status pages, batteries included!",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "4,540",
+      "stars": "4,543",
       "forks": "227",
       "addStars": "109",
       "contributors": [
@@ -308,7 +308,7 @@
       "description": "Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "2,803",
+      "stars": "2,804",
       "forks": "161",
       "addStars": "84",
       "contributors": [
@@ -372,7 +372,7 @@
       "description": "",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "2,544",
+      "stars": "2,545",
       "forks": "309",
       "addStars": "30",
       "contributors": [
@@ -410,7 +410,7 @@
       "language": "Svelte",
       "languageColor": "#ff3e00",
       "stars": "37,346",
-      "forks": "3,075",
+      "forks": "3,076",
       "addStars": "483",
       "contributors": [
         {

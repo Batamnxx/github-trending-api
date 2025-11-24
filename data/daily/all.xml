@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 24 Nov 2025 13:33:05 GMT</pubDate>
+    <pubDate>Mon, 24 Nov 2025 19:18:14 GMT</pubDate>
     <item>
       <title>sansan0/TrendRadar</title>
       <link>https://github.com/sansan0/TrendRadar</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/sansan0/TrendRadar</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,703</stars>
-      <forks>14,506</forks>
+      <stars>26,900</stars>
+      <forks>14,616</forks>
       <addStars>1,564</addStars>
       <contributors>
         <contributor>
@@ -34,8 +34,8 @@
       <guid>https://github.com/google/adk-go</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,753</stars>
-      <forks>309</forks>
+      <stars>4,781</stars>
+      <forks>311</forks>
       <addStars>234</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/TapXWorld/ChinaTextbook</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>58,788</stars>
-      <forks>13,124</forks>
+      <stars>58,864</stars>
+      <forks>13,141</forks>
       <addStars>390</addStars>
       <contributors>
         <contributor>
@@ -95,8 +95,8 @@
       <guid>https://github.com/yeongpin/cursor-free-vip</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>43,486</stars>
-      <forks>5,214</forks>
+      <stars>43,509</stars>
+      <forks>5,218</forks>
       <addStars>202</addStars>
       <contributors>
         <contributor>
@@ -133,8 +133,8 @@
       <guid>https://github.com/nvm-sh/nvm</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>89,704</stars>
-      <forks>9,590</forks>
+      <stars>89,708</stars>
+      <forks>9,594</forks>
       <addStars>64</addStars>
       <contributors>
         <contributor>
@@ -171,8 +171,8 @@
       <guid>https://github.com/traefik/traefik</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>59,185</stars>
-      <forks>5,633</forks>
+      <stars>59,206</stars>
+      <forks>5,643</forks>
       <addStars>121</addStars>
       <contributors>
         <contributor>
@@ -209,8 +209,8 @@
       <guid>https://github.com/HKUDS/LightRAG</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>24,258</stars>
-      <forks>3,541</forks>
+      <stars>24,279</stars>
+      <forks>3,542</forks>
       <addStars>120</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/bobeff/open-source-games</guid>
       <language/>
       <languageColor/>
-      <stars>8,081</stars>
-      <forks>618</forks>
+      <stars>8,140</stars>
+      <forks>621</forks>
       <addStars>257</addStars>
       <contributors>
         <contributor>
@@ -285,8 +285,8 @@
       <guid>https://github.com/volcengine/verl</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,486</stars>
-      <forks>2,630</forks>
+      <stars>16,501</stars>
+      <forks>2,633</forks>
       <addStars>91</addStars>
       <contributors>
         <contributor>
@@ -323,8 +323,8 @@
       <guid>https://github.com/GibsonAI/Memori</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,470</stars>
-      <forks>465</forks>
+      <stars>6,547</stars>
+      <forks>474</forks>
       <addStars>239</addStars>
       <contributors>
         <contributor>
@@ -356,8 +356,8 @@
       <guid>https://github.com/yangshun/tech-interview-handbook</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>134,578</stars>
-      <forks>16,205</forks>
+      <stars>134,605</stars>
+      <forks>16,206</forks>
       <addStars>181</addStars>
       <contributors>
         <contributor>
@@ -394,8 +394,8 @@
       <guid>https://github.com/microsoft/call-center-ai</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,479</stars>
-      <forks>536</forks>
+      <stars>4,512</stars>
+      <forks>542</forks>
       <addStars>180</addStars>
       <contributors>
         <contributor>
@@ -417,8 +417,8 @@
       <guid>https://github.com/MustardChef/WSABuilds</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,908</stars>
-      <forks>2,043</forks>
+      <stars>13,918</stars>
+      <forks>2,044</forks>
       <addStars>86</addStars>
       <contributors>
         <contributor>
@@ -455,7 +455,7 @@
       <guid>https://github.com/playcanvas/engine</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>12,941</stars>
+      <stars>12,965</stars>
       <forks>1,616</forks>
       <addStars>120</addStars>
       <contributors>
@@ -493,8 +493,8 @@
       <guid>https://github.com/iptv-org/iptv</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>102,889</stars>
-      <forks>4,555</forks>
+      <stars>102,919</stars>
+      <forks>4,557</forks>
       <addStars>198</addStars>
       <contributors>
         <contributor>
@@ -526,8 +526,8 @@
       <guid>https://github.com/Zie619/n8n-workflows</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>43,916</stars>
-      <forks>4,652</forks>
+      <stars>43,988</stars>
+      <forks>4,672</forks>
       <addStars>307</addStars>
       <contributors>
         <contributor>
@@ -564,7 +564,7 @@
       <guid>https://github.com/milvus-io/milvus</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>40,152</stars>
+      <stars>40,184</stars>
       <forks>3,614</forks>
       <addStars>154</addStars>
       <contributors>
@@ -602,7 +602,7 @@
       <guid>https://github.com/wolfpld/tracy</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>14,088</stars>
+      <stars>14,103</stars>
       <forks>936</forks>
       <addStars>104</addStars>
       <contributors>

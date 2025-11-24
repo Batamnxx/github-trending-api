@@ -3,7 +3,7 @@
     <title>GitHub Ocaml Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Ocaml Languages in GitHub</description>
-    <pubDate>Mon, 24 Nov 2025 13:33:05 GMT</pubDate>
+    <pubDate>Mon, 24 Nov 2025 19:18:14 GMT</pubDate>
     <item>
       <title>rocq-prover/rocq</title>
       <link>https://github.com/rocq-prover/rocq</link>
@@ -44,7 +44,7 @@
       <guid>https://github.com/semgrep/semgrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>13,422</stars>
+      <stars>13,426</stars>
       <forks>827</forks>
       <addStars>301</addStars>
       <contributors>
@@ -234,7 +234,7 @@
       <guid>https://github.com/opengrep/opengrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>1,887</stars>
+      <stars>1,888</stars>
       <forks>144</forks>
       <addStars>111</addStars>
       <contributors>

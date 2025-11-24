@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 24 Nov 2025 02:55:09 GMT",
+  "pubDate": "Mon, 24 Nov 2025 07:24:58 GMT",
   "items": [
     {
       "title": "KhronosGroup/SPIRV-Cross",
@@ -121,7 +121,7 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "11,544",
+      "stars": "11,545",
       "forks": "2,164",
       "addStars": "1",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "A repository containing many free shaders to use with ghostty (the terminal)",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "892",
+      "stars": "893",
       "forks": "59",
       "addStars": "1",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "4,879",
+      "stars": "4,880",
       "forks": "130",
       "addStars": "3",
       "contributors": [

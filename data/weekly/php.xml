@@ -3,7 +3,7 @@
     <title>GitHub Php Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Php Languages in GitHub</description>
-    <pubDate>Tue, 25 Nov 2025 02:47:30 GMT</pubDate>
+    <pubDate>Tue, 25 Nov 2025 07:24:40 GMT</pubDate>
     <item>
       <title>coollabsio/coolify</title>
       <link>https://github.com/coollabsio/coolify</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/coollabsio/coolify</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>47,665</stars>
-      <forks>3,193</forks>
+      <stars>47,668</stars>
+      <forks>3,195</forks>
       <addStars>277</addStars>
       <contributors>
         <contributor>
@@ -44,7 +44,7 @@
       <guid>https://github.com/filamentphp/filament</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>27,765</stars>
+      <stars>27,766</stars>
       <forks>3,943</forks>
       <addStars>151</addStars>
       <contributors>
@@ -121,7 +121,7 @@
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
       <stars>6,639</stars>
-      <forks>1,722</forks>
+      <forks>1,723</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>
@@ -229,7 +229,7 @@
       <guid>https://github.com/bagisto/bagisto</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>24,418</stars>
+      <stars>24,422</stars>
       <forks>2,823</forks>
       <addStars>168</addStars>
       <contributors>
@@ -267,7 +267,7 @@
       <guid>https://github.com/krayin/laravel-crm</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>20,263</stars>
+      <stars>20,267</stars>
       <forks>1,292</forks>
       <addStars>120</addStars>
       <contributors>
@@ -344,7 +344,7 @@
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
       <stars>4,559</stars>
-      <forks>172</forks>
+      <forks>173</forks>
       <addStars>38</addStars>
       <contributors>
         <contributor>
@@ -399,7 +399,7 @@
       <guid>https://github.com/zabbix/zabbix</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>5,408</stars>
+      <stars>5,409</stars>
       <forks>1,129</forks>
       <addStars>20</addStars>
       <contributors>
@@ -427,34 +427,6 @@
           <avatar>https://avatars.githubusercontent.com/u/113012312?s=40&amp;v=4</avatar>
           <name>arseniuss-zabbix</name>
           <url>https://github.com/arseniuss-zabbix</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>easychen/one-person-businesses-methodology-v2.0</title>
-      <link>https://github.com/easychen/one-person-businesses-methodology-v2.0</link>
-      <description>《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。</description>
-      <guid>https://github.com/easychen/one-person-businesses-methodology-v2.0</guid>
-      <language>PHP</language>
-      <languageColor>#4F5D95</languageColor>
-      <stars>11,165</stars>
-      <forks>1,197</forks>
-      <addStars>128</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1294760?s=40&amp;v=4</avatar>
-          <name>easychen</name>
-          <url>https://github.com/easychen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1312723?s=40&amp;v=4</avatar>
-          <name>liul85</name>
-          <url>https://github.com/liul85</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1646590?s=40&amp;v=4</avatar>
-          <name>mzlogin</name>
-          <url>https://github.com/mzlogin</url>
         </contributor>
       </contributors>
     </item>
@@ -536,7 +508,7 @@
       <guid>https://github.com/monicahq/monica</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>23,665</stars>
+      <stars>23,667</stars>
       <forks>2,393</forks>
       <addStars>34</addStars>
       <contributors>
@@ -565,7 +537,7 @@
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
       <stars>5,342</stars>
-      <forks>1,539</forks>
+      <forks>1,540</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
@@ -640,7 +612,7 @@
       <guid>https://github.com/librespeed/speedtest</guid>
       <language>PHP</language>
       <languageColor>#4F5D95</languageColor>
-      <stars>13,873</stars>
+      <stars>13,875</stars>
       <forks>2,405</forks>
       <addStars>39</addStars>
       <contributors>

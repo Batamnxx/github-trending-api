@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c++ Languages Monthly Trending",
   "description": "Monthly Trending of Objective-c++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Nov 2025 02:47:36 GMT",
+  "pubDate": "Wed, 26 Nov 2025 07:24:02 GMT",
   "items": [
     {
       "title": "KhronosGroup/MoltenVK",
@@ -57,11 +57,6 @@
           "url": "https://github.com/rahul-goel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1446793?s=40&v=4",
-          "name": "emepetres",
-          "url": "https://github.com/emepetres"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/17990405?s=40&v=4",
           "name": "pxl-th",
           "url": "https://github.com/pxl-th"
@@ -75,6 +70,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/33105911?s=40&v=4",
           "name": "jonahjnewton",
           "url": "https://github.com/jonahjnewton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33876434?s=40&v=4",
+          "name": "MrNeRF",
+          "url": "https://github.com/MrNeRF"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "description": "",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "2,533",
+      "stars": "2,534",
       "forks": "715",
       "addStars": "17",
       "contributors": [

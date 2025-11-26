@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Monthly Trending",
   "description": "Monthly Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Nov 2025 13:34:16 GMT",
+  "pubDate": "Wed, 26 Nov 2025 19:19:17 GMT",
   "items": [
     {
       "title": "benbaker76/Hackintool",
@@ -10,8 +10,8 @@
       "description": "The Swiss army knife of vanilla Hackintoshing",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "3,338",
-      "forks": "259",
+      "stars": "3,341",
+      "forks": "260",
       "addStars": "27",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "12,610",
+      "stars": "12,611",
       "forks": "1,503",
       "addStars": "68",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "25,833",
+      "stars": "25,834",
       "forks": "5,999",
       "addStars": "52",
       "contributors": [
@@ -344,7 +344,7 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": "6,156",
-      "forks": "1,131",
+      "forks": "1,132",
       "addStars": "166",
       "contributors": [
         {
@@ -555,7 +555,7 @@
       "description": "AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "498",
+      "stars": "499",
       "forks": "15",
       "addStars": "21",
       "contributors": [

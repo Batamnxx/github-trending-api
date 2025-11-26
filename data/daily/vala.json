@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 25 Nov 2025 19:21:33 GMT",
+  "pubDate": "Wed, 26 Nov 2025 02:47:36 GMT",
   "items": [
     {
       "title": "ErikReider/SwayNotificationCenter",
@@ -12,7 +12,7 @@
       "languageColor": "#a56de2",
       "stars": "2,131",
       "forks": "85",
-      "addStars": "5",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35975961?s=40&v=4",
@@ -49,7 +49,7 @@
       "languageColor": "#a56de2",
       "stars": "4,679",
       "forks": "276",
-      "addStars": "10",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33765137?s=40&v=4",
@@ -57,14 +57,14 @@
           "url": "https://github.com/alainm23"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
-          "name": "weblate",
-          "url": "https://github.com/weblate"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
           "name": "actions-user",
           "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+          "name": "weblate",
+          "url": "https://github.com/weblate"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/43657314?s=40&v=4",
@@ -122,8 +122,8 @@
       "language": "Vala",
       "languageColor": "#a56de2",
       "stars": "2,630",
-      "forks": "185",
-      "addStars": "3",
+      "forks": "186",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2003017?s=40&v=4",

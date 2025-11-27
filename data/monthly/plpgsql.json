@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Monthly Trending",
   "description": "Monthly Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 27 Nov 2025 07:26:03 GMT",
+  "pubDate": "Thu, 27 Nov 2025 13:31:56 GMT",
   "items": [
     {
       "title": "pgmq/pgmq",
@@ -10,7 +10,7 @@
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "4,162",
+      "stars": "4,165",
       "forks": "120",
       "addStars": "415",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "3,293",
+      "stars": "3,296",
       "forks": "111",
       "addStars": "171",
       "contributors": [
@@ -117,7 +117,7 @@
       "language": "PLpgSQL",
       "languageColor": "#336790",
       "stars": "5,530",
-      "forks": "287",
+      "forks": "288",
       "addStars": "81",
       "contributors": [
         {

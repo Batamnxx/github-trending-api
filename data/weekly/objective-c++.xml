@@ -3,7 +3,7 @@
     <title>GitHub Objective-c++ Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Objective-c++ Languages in GitHub</description>
-    <pubDate>Thu, 27 Nov 2025 13:31:56 GMT</pubDate>
+    <pubDate>Thu, 27 Nov 2025 19:19:40 GMT</pubDate>
     <item>
       <title>pocketsvg/PocketSVG</title>
       <link>https://github.com/pocketsvg/PocketSVG</link>
@@ -125,7 +125,7 @@
       <guid>https://github.com/KhronosGroup/MoltenVK</guid>
       <language>Objective-C++</language>
       <languageColor>#6866fb</languageColor>
-      <stars>5,381</stars>
+      <stars>5,382</stars>
       <forks>465</forks>
       <addStars>4</addStars>
       <contributors>
@@ -173,14 +173,14 @@
           <url>https://github.com/kstenerud</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5239394?s=40&amp;v=4</avatar>
-          <name>twometresteve</name>
-          <url>https://github.com/twometresteve</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/126675445?s=40&amp;v=4</avatar>
           <name>robert-smartbear</name>
           <url>https://github.com/robert-smartbear</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5239394?s=40&amp;v=4</avatar>
+          <name>twometresteve</name>
+          <url>https://github.com/twometresteve</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/46817760?s=40&amp;v=4</avatar>

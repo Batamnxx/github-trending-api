@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Daily Trending",
   "description": "Daily Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 28 Nov 2025 13:30:12 GMT",
+  "pubDate": "Fri, 28 Nov 2025 19:19:49 GMT",
   "items": [
     {
       "title": "Anonym-tsk/nfqws-keenetic",
@@ -12,7 +12,7 @@
       "languageColor": "#663399",
       "stars": "1,692",
       "forks": "114",
-      "addStars": "4",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1973755?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "3,944",
+      "stars": "3,945",
       "forks": "251",
-      "addStars": "2",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/86649490?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "The package of IBM’s typeface, IBM Plex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "11,054",
+      "stars": "11,055",
       "forks": "603",
-      "addStars": "2",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4078018?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "4,120",
+      "stars": "4,121",
       "forks": "534",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31685197?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "16,827",
+      "stars": "16,831",
       "forks": "547",
-      "addStars": "16",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42460055?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "7,150",
-      "forks": "690",
-      "addStars": "9",
+      "stars": "7,152",
+      "forks": "691",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2817396?s=40&v=4",
@@ -264,8 +264,8 @@
       "description": "",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,021",
-      "forks": "5,591",
+      "stars": "1,022",
+      "forks": "5,594",
       "addStars": "2",
       "contributors": [
         {
@@ -291,9 +291,9 @@
       "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "60,630",
-      "forks": "3,839",
-      "addStars": "6",
+      "stars": "60,633",
+      "forks": "3,840",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16012374?s=40&v=4",
@@ -319,8 +319,8 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "45,182",
-      "forks": "18,265",
-      "addStars": "6",
+      "forks": "18,266",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1554582?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "50+ mini web projects using HTML, CSS & JS",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "40,170",
-      "forks": "9,724",
-      "addStars": "14",
+      "stars": "40,172",
+      "forks": "9,726",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5550850?s=40&v=4",
@@ -426,7 +426,7 @@
       "languageColor": "#663399",
       "stars": "3,398",
       "forks": "500",
-      "addStars": "8",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15773463?s=40&v=4",
@@ -451,9 +451,9 @@
       "description": "Collection of userstyles affecting the browser",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "4,235",
+      "stars": "4,236",
       "forks": "362",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31620503?s=40&v=4",
@@ -488,9 +488,9 @@
       "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "44,480",
+      "stars": "44,482",
       "forks": "5,535",
-      "addStars": "5",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1801526?s=40&v=4",
@@ -527,7 +527,7 @@
       "languageColor": "#663399",
       "stars": "193",
       "forks": "3,204",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38470430?s=40&v=4",

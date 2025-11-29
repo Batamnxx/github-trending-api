@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Weekly Trending",
   "description": "Weekly Trending of Vala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 29 Nov 2025 13:26:31 GMT",
+  "pubDate": "Sat, 29 Nov 2025 19:19:05 GMT",
   "items": [
     {
       "title": "alainm23/planify",
@@ -10,7 +10,7 @@
       "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "4,689",
+      "stars": "4,691",
       "forks": "277",
       "addStars": "31",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Budgie Desktop is a familiar, modern desktop environment.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "1,196",
-      "forks": "55",
+      "stars": "1,202",
+      "forks": "56",
       "addStars": "37",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "A modern compatibility tools manager",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "959",
+      "stars": "958",
       "forks": "33",
       "addStars": "13",
       "contributors": [

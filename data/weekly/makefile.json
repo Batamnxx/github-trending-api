@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Weekly Trending",
   "description": "Weekly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 29 Nov 2025 07:23:00 GMT",
+  "pubDate": "Sat, 29 Nov 2025 13:26:31 GMT",
   "items": [
     {
       "title": "openwrt/packages",
@@ -249,7 +249,7 @@
       "description": "Just enough OS for KODI",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "2,631",
+      "stars": "2,632",
       "forks": "1,169",
       "addStars": "17",
       "contributors": [
@@ -323,8 +323,8 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "54,565",
-      "forks": "5,405",
+      "stars": "54,566",
+      "forks": "5,404",
       "addStars": "97",
       "contributors": [
         {

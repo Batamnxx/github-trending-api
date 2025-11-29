@@ -2,7 +2,7 @@
   "title": "GitHub Restructuredtext Languages Weekly Trending",
   "description": "Weekly Trending of Restructuredtext Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 29 Nov 2025 07:23:00 GMT",
+  "pubDate": "Sat, 29 Nov 2025 13:26:31 GMT",
   "items": [
     {
       "title": "odoo/documentation",
@@ -11,7 +11,7 @@
       "language": "reStructuredText",
       "languageColor": "#141414",
       "stars": "1,040",
-      "forks": "10,695",
+      "forks": "10,696",
       "addStars": "3",
       "contributors": [
         {

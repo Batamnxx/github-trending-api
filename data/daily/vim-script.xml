@@ -3,7 +3,7 @@
     <title>GitHub Vim-script Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Vim-script Languages in GitHub</description>
-    <pubDate>Sat, 29 Nov 2025 07:23:00 GMT</pubDate>
+    <pubDate>Sat, 29 Nov 2025 13:26:31 GMT</pubDate>
     <item>
       <title>junegunn/vim-plug</title>
       <link>https://github.com/junegunn/vim-plug</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/junegunn/vim-plug</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>35,409</stars>
+      <stars>35,410</stars>
       <forks>1,956</forks>
       <addStars>5</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/tpope/vim-surround</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>13,966</stars>
+      <stars>13,967</stars>
       <forks>445</forks>
       <addStars>3</addStars>
       <contributors>
@@ -315,7 +315,7 @@
       <guid>https://github.com/vim-airline/vim-airline</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>17,925</stars>
+      <stars>17,924</stars>
       <forks>1,108</forks>
       <addStars>1</addStars>
       <contributors>
@@ -353,7 +353,7 @@
       <guid>https://github.com/christoomey/vim-tmux-navigator</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>5,969</stars>
+      <stars>5,970</stars>
       <forks>356</forks>
       <addStars>2</addStars>
       <contributors>
@@ -391,7 +391,7 @@
       <guid>https://github.com/vim/vim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>39,357</stars>
+      <stars>39,360</stars>
       <forks>5,885</forks>
       <addStars>11</addStars>
       <contributors>
@@ -429,8 +429,8 @@
       <guid>https://github.com/github/copilot.vim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>11,044</stars>
-      <forks>673</forks>
+      <stars>11,045</stars>
+      <forks>674</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -789,7 +789,7 @@
       <guid>https://github.com/dense-analysis/ale</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>13,920</stars>
+      <stars>13,921</stars>
       <forks>1,471</forks>
       <addStars>1</addStars>
       <contributors>

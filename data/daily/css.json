@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Daily Trending",
   "description": "Daily Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 30 Nov 2025 13:26:12 GMT",
+  "pubDate": "Sun, 30 Nov 2025 19:19:17 GMT",
   "items": [
     {
       "title": "Anonym-tsk/nfqws-keenetic",
@@ -10,7 +10,7 @@
       "description": "",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,694",
+      "stars": "1,695",
       "forks": "114",
       "addStars": "3",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "3,947",
+      "stars": "3,949",
       "forks": "251",
       "addStars": "1",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "The package of IBM’s typeface, IBM Plex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "11,059",
+      "stars": "11,060",
       "forks": "603",
       "addStars": "2",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "4,125",
+      "stars": "4,127",
       "forks": "535",
       "addStars": "2",
       "contributors": [
@@ -222,50 +222,13 @@
       ]
     },
     {
-      "title": "simeydotme/pokemon-cards-css",
-      "url": "https://github.com/simeydotme/pokemon-cards-css",
-      "description": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": "7,161",
-      "forks": "693",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2817396?s=40&v=4",
-          "name": "simeydotme",
-          "url": "https://github.com/simeydotme"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44031065?s=40&v=4",
-          "name": "mxcop",
-          "url": "https://github.com/mxcop"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/83799?s=40&v=4",
-          "name": "evoactivity",
-          "url": "https://github.com/evoactivity"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2037007?s=40&v=4",
-          "name": "Jameskmonger",
-          "url": "https://github.com/Jameskmonger"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31282758?s=40&v=4",
-          "name": "james-work-account",
-          "url": "https://github.com/james-work-account"
-        }
-      ]
-    },
-    {
       "title": "hkhcoder/vprofile-project",
       "url": "https://github.com/hkhcoder/vprofile-project",
       "description": "",
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "1,026",
-      "forks": "5,605",
+      "forks": "5,607",
       "addStars": "4",
       "contributors": [
         {
@@ -291,8 +254,8 @@
       "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "60,656",
-      "forks": "3,841",
+      "stars": "60,667",
+      "forks": "3,842",
       "addStars": "12",
       "contributors": [
         {
@@ -319,7 +282,7 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "45,188",
-      "forks": "18,266",
+      "forks": "18,265",
       "addStars": "4",
       "contributors": [
         {
@@ -488,8 +451,8 @@
       "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "44,484",
-      "forks": "5,534",
+      "stars": "44,486",
+      "forks": "5,533",
       "addStars": "6",
       "contributors": [
         {

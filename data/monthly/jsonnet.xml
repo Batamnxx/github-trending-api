@@ -3,7 +3,7 @@
     <title>GitHub Jsonnet Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Jsonnet Languages in GitHub</description>
-    <pubDate>Mon, 01 Dec 2025 03:10:04 GMT</pubDate>
+    <pubDate>Mon, 01 Dec 2025 07:27:53 GMT</pubDate>
     <item>
       <title>google/jsonnet</title>
       <link>https://github.com/google/jsonnet</link>
@@ -163,7 +163,7 @@
       <guid>https://github.com/prometheus-operator/kube-prometheus</guid>
       <language>Jsonnet</language>
       <languageColor>#0064bd</languageColor>
-      <stars>7,487</stars>
+      <stars>7,488</stars>
       <forks>2,051</forks>
       <addStars>52</addStars>
       <contributors>

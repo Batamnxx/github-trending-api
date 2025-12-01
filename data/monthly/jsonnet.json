@@ -2,7 +2,7 @@
   "title": "GitHub Jsonnet Languages Monthly Trending",
   "description": "Monthly Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 01 Dec 2025 03:10:04 GMT",
+  "pubDate": "Mon, 01 Dec 2025 07:27:53 GMT",
   "items": [
     {
       "title": "google/jsonnet",
@@ -158,7 +158,7 @@
       "description": "Use Prometheus to monitor Kubernetes and applications running on Kubernetes",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": "7,487",
+      "stars": "7,488",
       "forks": "2,051",
       "addStars": "52",
       "contributors": [

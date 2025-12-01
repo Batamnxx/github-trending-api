@@ -3,7 +3,7 @@
     <title>GitHub Vim-script Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Vim-script Languages in GitHub</description>
-    <pubDate>Mon, 01 Dec 2025 07:27:53 GMT</pubDate>
+    <pubDate>Mon, 01 Dec 2025 13:35:37 GMT</pubDate>
     <item>
       <title>neovim/neovim</title>
       <link>https://github.com/neovim/neovim</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/neovim/neovim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>94,649</stars>
-      <forks>6,446</forks>
+      <stars>94,652</stars>
+      <forks>6,448</forks>
       <addStars>203</addStars>
       <contributors>
         <contributor>
@@ -148,7 +148,7 @@
       <guid>https://github.com/amix/vimrc</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>31,603</stars>
+      <stars>31,604</stars>
       <forks>7,311</forks>
       <addStars>17</addStars>
       <contributors>
@@ -779,8 +779,8 @@
       <guid>https://github.com/junegunn/vim-plug</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>35,414</stars>
-      <forks>1,956</forks>
+      <stars>35,415</stars>
+      <forks>1,955</forks>
       <addStars>23</addStars>
       <contributors>
         <contributor>

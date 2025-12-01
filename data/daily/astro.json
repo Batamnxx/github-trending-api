@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 01 Dec 2025 07:27:53 GMT",
+  "pubDate": "Mon, 01 Dec 2025 13:35:37 GMT",
   "items": [
     {
       "title": "arthelokyo/astrowind",
@@ -11,7 +11,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "5,212",
-      "forks": "1,483",
+      "forks": "1,484",
       "addStars": "4",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A minimal, accessible and SEO-friendly Astro blog theme",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "3,912",
-      "forks": "814",
+      "stars": "3,914",
+      "forks": "815",
       "addStars": "1",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "✨A static blog template built with Astro.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "3,627",
-      "forks": "958",
+      "stars": "3,630",
+      "forks": "959",
       "addStars": "14",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Revive the beauty of typography.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "554",
-      "forks": "162",
+      "stars": "555",
+      "forks": "161",
       "addStars": "1",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Adblock-filter-list Languages Weekly Trending",
   "description": "Weekly Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 02 Dec 2025 13:36:34 GMT",
+  "pubDate": "Tue, 02 Dec 2025 19:23:19 GMT",
   "items": [
     {
       "title": "AdguardTeam/AdguardFilters",
@@ -85,7 +85,7 @@
       "language": "Adblock Filter List",
       "languageColor": "#800000",
       "stars": "2,752",
-      "forks": "808",
+      "forks": "809",
       "addStars": "8",
       "contributors": [
         {
@@ -104,9 +104,9 @@
           "url": "https://github.com/monzta"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/58900598?s=40&v=4",
-          "name": "Yuki2718",
-          "url": "https://github.com/Yuki2718"
+          "avatar": "https://avatars.githubusercontent.com/u/513375?s=40&v=4",
+          "name": "nitrox",
+          "url": "https://github.com/nitrox"
         }
       ]
     },
@@ -117,7 +117,7 @@
       "language": "Adblock Filter List",
       "languageColor": "#800000",
       "stars": "1,963",
-      "forks": "175",
+      "forks": "176",
       "addStars": "10",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Weekly Trending",
   "description": "Weekly Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 02 Dec 2025 02:50:18 GMT",
+  "pubDate": "Tue, 02 Dec 2025 07:26:46 GMT",
   "items": [
     {
       "title": "neovim/neovim",
@@ -47,7 +47,7 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "39,364",
+      "stars": "39,363",
       "forks": "5,885",
       "addStars": "52",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Neovim plugin for GitHub Copilot",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "11,059",
-      "forks": "674",
+      "stars": "11,062",
+      "forks": "676",
       "addStars": "31",
       "contributors": [
         {
@@ -143,7 +143,7 @@
       "description": "The ultimate Vim configuration (vimrc)",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "31,606",
+      "stars": "31,605",
       "forks": "7,312",
       "addStars": "16",
       "contributors": [
@@ -757,7 +757,7 @@
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "35,417",
+      "stars": "35,419",
       "forks": "1,955",
       "addStars": "26",
       "contributors": [

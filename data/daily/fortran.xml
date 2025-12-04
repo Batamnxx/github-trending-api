@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Fortran Languages in GitHub</description>
-    <pubDate>Thu, 04 Dec 2025 02:50:30 GMT</pubDate>
+    <pubDate>Thu, 04 Dec 2025 07:26:18 GMT</pubDate>
     <item>
       <title>OpenFAST/openfast</title>
       <link>https://github.com/OpenFAST/openfast</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/cp2k/cp2k</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>1,027</stars>
+      <stars>1,026</stars>
       <forks>433</forks>
       <addStars>0</addStars>
       <contributors>
@@ -158,8 +158,8 @@
       <guid>https://github.com/wrf-model/WRF</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>1,523</stars>
-      <forks>799</forks>
+      <stars>1,524</stars>
+      <forks>800</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>

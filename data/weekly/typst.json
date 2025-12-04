@@ -2,7 +2,7 @@
   "title": "GitHub Typst Languages Weekly Trending",
   "description": "Weekly Trending of Typst Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 04 Dec 2025 02:50:30 GMT",
+  "pubDate": "Thu, 04 Dec 2025 07:26:18 GMT",
   "items": [
     {
       "title": "parallel101/cppguidebook",
@@ -116,7 +116,7 @@
       "description": "Advanced data visualization with Typst.",
       "language": "Typst",
       "languageColor": "#239dad",
-      "stars": "535",
+      "stars": "536",
       "forks": "15",
       "addStars": "6",
       "contributors": [

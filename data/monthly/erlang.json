@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Monthly Trending",
   "description": "Monthly Trending of Erlang Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 05 Dec 2025 19:21:11 GMT",
+  "pubDate": "Sat, 06 Dec 2025 02:42:26 GMT",
   "items": [
     {
       "title": "emqx/emqx",
@@ -11,8 +11,8 @@
       "language": "Erlang",
       "languageColor": "#B83998",
       "stars": "15,649",
-      "forks": "2,415",
-      "addStars": "207",
+      "forks": "2,416",
+      "addStars": "214",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/164324?s=40&v=4",
@@ -49,7 +49,7 @@
       "languageColor": "#B83998",
       "stars": "6,747",
       "forks": "1,059",
-      "addStars": "31",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47223?s=40&v=4",
@@ -234,7 +234,7 @@
       "languageColor": "#B83998",
       "stars": "7,462",
       "forks": "1,178",
-      "addStars": "15",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/141739?s=40&v=4",
@@ -382,7 +382,7 @@
       "languageColor": "#B83998",
       "stars": "1,402",
       "forks": "280",
-      "addStars": "4",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/111141?s=40&v=4",
@@ -454,8 +454,8 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "11,952",
-      "forks": "3,038",
+      "stars": "11,953",
+      "forks": "3,039",
       "addStars": "40",
       "contributors": [
         {
@@ -676,9 +676,9 @@
       "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "6,497",
+      "stars": "6,498",
       "forks": "1,539",
-      "addStars": "36",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/96807?s=40&v=4",

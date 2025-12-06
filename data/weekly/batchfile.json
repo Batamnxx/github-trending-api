@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Weekly Trending",
   "description": "Weekly Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 06 Dec 2025 07:22:36 GMT",
+  "pubDate": "Sat, 06 Dec 2025 13:26:27 GMT",
   "items": [
     {
       "title": "Flowseal/zapret-discord-youtube",
@@ -10,8 +10,8 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "18,847",
-      "forks": "1,472",
+      "stars": "18,862",
+      "forks": "1,479",
       "addStars": "361",
       "contributors": [
         {
@@ -42,49 +42,12 @@
       ]
     },
     {
-      "title": "enhorse/java-interview",
-      "url": "https://github.com/enhorse/java-interview",
-      "description": "Вопросы и ответы к интервью Java разработчика",
-      "language": "Batchfile",
-      "languageColor": "#C1F12E",
-      "stars": "5,953",
-      "forks": "2,029",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/757085?s=40&v=4",
-          "name": "KhArtNJava",
-          "url": "https://github.com/KhArtNJava"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6253660?s=40&v=4",
-          "name": "enhorse",
-          "url": "https://github.com/enhorse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54657539?s=40&v=4",
-          "name": "Cupcake-master",
-          "url": "https://github.com/Cupcake-master"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4526420?s=40&v=4",
-          "name": "lehaSVV2009",
-          "url": "https://github.com/lehaSVV2009"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5359109?s=40&v=4",
-          "name": "andrii-ashomok",
-          "url": "https://github.com/andrii-ashomok"
-        }
-      ]
-    },
-    {
       "title": "RockBlack-VPN/ip-address",
       "url": "https://github.com/RockBlack-VPN/ip-address",
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "1,351",
+      "stars": "1,353",
       "forks": "107",
       "addStars": "26",
       "contributors": [
@@ -116,12 +79,49 @@
       ]
     },
     {
+      "title": "enhorse/java-interview",
+      "url": "https://github.com/enhorse/java-interview",
+      "description": "Вопросы и ответы к интервью Java разработчика",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": "5,954",
+      "forks": "2,029",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/757085?s=40&v=4",
+          "name": "KhArtNJava",
+          "url": "https://github.com/KhArtNJava"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6253660?s=40&v=4",
+          "name": "enhorse",
+          "url": "https://github.com/enhorse"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54657539?s=40&v=4",
+          "name": "Cupcake-master",
+          "url": "https://github.com/Cupcake-master"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4526420?s=40&v=4",
+          "name": "lehaSVV2009",
+          "url": "https://github.com/lehaSVV2009"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5359109?s=40&v=4",
+          "name": "andrii-ashomok",
+          "url": "https://github.com/andrii-ashomok"
+        }
+      ]
+    },
+    {
       "title": "redis-windows/redis-windows",
       "url": "https://github.com/redis-windows/redis-windows",
       "description": "Redis 6.0.20 6.2.18 7.0.15 7.2.8 7.4.3 8.0.0 for Windows",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "3,176",
+      "stars": "3,179",
       "forks": "276",
       "addStars": "34",
       "contributors": [
@@ -148,28 +148,6 @@
       ]
     },
     {
-      "title": "Alex313031/Thorium-Win",
-      "url": "https://github.com/Alex313031/Thorium-Win",
-      "description": "Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium",
-      "language": "Batchfile",
-      "languageColor": "#C1F12E",
-      "stars": "2,066",
-      "forks": "44",
-      "addStars": "13",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45863095?s=40&v=4",
-          "name": "Alex313031",
-          "url": "https://github.com/Alex313031"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
-          "name": "eltociear",
-          "url": "https://github.com/eltociear"
-        }
-      ]
-    },
-    {
       "title": "ankddev/zapret-discord-youtube",
       "url": "https://github.com/ankddev/zapret-discord-youtube",
       "description": "Zapret build for Windows that fixes YouTube, Discord, Viber in Russia and other services.",
@@ -188,6 +166,28 @@
           "avatar": "https://avatars.githubusercontent.com/u/2002983?s=40&v=4",
           "name": "jimdi",
           "url": "https://github.com/jimdi"
+        }
+      ]
+    },
+    {
+      "title": "Alex313031/Thorium-Win",
+      "url": "https://github.com/Alex313031/Thorium-Win",
+      "description": "Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": "2,066",
+      "forks": "44",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45863095?s=40&v=4",
+          "name": "Alex313031",
+          "url": "https://github.com/Alex313031"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
+          "name": "eltociear",
+          "url": "https://github.com/eltociear"
         }
       ]
     },

@@ -3,7 +3,7 @@
     <title>GitHub Powershell Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Powershell Languages in GitHub</description>
-    <pubDate>Sun, 07 Dec 2025 02:59:09 GMT</pubDate>
+    <pubDate>Sun, 07 Dec 2025 07:23:14 GMT</pubDate>
     <item>
       <title>microsoft/winget-pkgs</title>
       <link>https://github.com/microsoft/winget-pkgs</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/microsoft/winget-pkgs</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>9,981</stars>
+      <stars>9,982</stars>
       <forks>5,697</forks>
       <addStars>125</addStars>
       <contributors>
@@ -116,7 +116,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>1,996</stars>
-      <forks>1,549</forks>
+      <forks>1,548</forks>
       <addStars>19</addStars>
       <contributors>
         <contributor>
@@ -176,7 +176,7 @@
       <guid>https://github.com/Raphire/Win11Debloat</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>34,601</stars>
+      <stars>34,610</stars>
       <forks>1,349</forks>
       <addStars>2,388</addStars>
       <contributors>
@@ -214,7 +214,7 @@
       <guid>https://github.com/Orange-Cyberdefense/GOAD</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>7,196</stars>
+      <stars>7,198</stars>
       <forks>1,005</forks>
       <addStars>132</addStars>
       <contributors>
@@ -356,7 +356,7 @@
       <guid>https://github.com/hak5/usbrubberducky-payloads</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>5,332</stars>
+      <stars>5,333</stars>
       <forks>1,576</forks>
       <addStars>103</addStars>
       <contributors>
@@ -395,7 +395,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>263</stars>
-      <forks>6,152</forks>
+      <forks>6,153</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Monthly Trending",
   "description": "Monthly Trending of D Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 07 Dec 2025 13:25:10 GMT",
+  "pubDate": "Sun, 07 Dec 2025 19:18:57 GMT",
   "items": [
     {
       "title": "abraunegg/onedrive",
@@ -10,7 +10,7 @@
       "description": "OneDrive Client for Linux",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "11,787",
+      "stars": "11,788",
       "forks": "898",
       "addStars": "154",
       "contributors": [

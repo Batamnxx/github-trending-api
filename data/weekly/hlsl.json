@@ -2,7 +2,7 @@
   "title": "GitHub Hlsl Languages Weekly Trending",
   "description": "Weekly Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 08 Dec 2025 13:34:34 GMT",
+  "pubDate": "Mon, 08 Dec 2025 19:21:51 GMT",
   "items": [
     {
       "title": "clshortfuse/renodx",
@@ -10,8 +10,8 @@
       "description": "Renovation Engine for DirectX Games",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": "687",
-      "forks": "58",
+      "stars": "689",
+      "forks": "59",
       "addStars": "20",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "Unlock the full potential of your Intel/AMD based device.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": "2,324",
+      "stars": "2,325",
       "forks": "65",
       "addStars": "18",
       "contributors": [
@@ -112,7 +112,7 @@
       "language": "HLSL",
       "languageColor": "#aace60",
       "stars": "852",
-      "forks": "86",
+      "forks": "87",
       "addStars": "4",
       "contributors": [
         {
@@ -133,7 +133,7 @@
       "description": "RetroBat repository",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": "58",
+      "stars": "59",
       "forks": "3",
       "addStars": "7",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Rpc Languages Monthly Trending",
   "description": "Monthly Trending of Rpc Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 08 Dec 2025 13:34:34 GMT",
+  "pubDate": "Mon, 08 Dec 2025 19:21:51 GMT",
   "items": [
     {
       "title": "llvm/llvm-test-suite",
@@ -10,7 +10,7 @@
       "description": "",
       "language": "RPC",
       "languageColor": "#ccc",
-      "stars": "216",
+      "stars": "217",
       "forks": "376",
       "addStars": "7",
       "contributors": [

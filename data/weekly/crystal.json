@@ -2,7 +2,7 @@
   "title": "GitHub Crystal Languages Weekly Trending",
   "description": "Weekly Trending of Crystal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 09 Dec 2025 07:27:04 GMT",
+  "pubDate": "Tue, 09 Dec 2025 13:35:44 GMT",
   "items": [
     {
       "title": "iv-org/invidious",
@@ -47,7 +47,7 @@
       "description": "The Crystal Programming Language",
       "language": "Crystal",
       "languageColor": "#000100",
-      "stars": "20,083",
+      "stars": "20,082",
       "forks": "1,657",
       "addStars": "16",
       "contributors": [

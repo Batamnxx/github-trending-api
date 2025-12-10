@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Wed, 10 Dec 2025 13:37:03 GMT</pubDate>
+    <pubDate>Wed, 10 Dec 2025 19:22:21 GMT</pubDate>
     <item>
       <title>Anduin2017/HowToCook</title>
       <link>https://github.com/Anduin2017/HowToCook</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/Anduin2017/HowToCook</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>96,368</stars>
+      <stars>96,377</stars>
       <forks>10,721</forks>
-      <addStars>46</addStars>
+      <addStars>50</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/19531547?s=40&amp;v=4</avatar>
@@ -45,7 +45,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>888</stars>
-      <forks>1,561</forks>
+      <forks>1,562</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -83,7 +83,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>409</stars>
-      <forks>1,030</forks>
+      <forks>1,032</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -154,7 +154,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>104,658</stars>
-      <forks>10,650</forks>
+      <forks>10,651</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -187,7 +187,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>2,332</stars>
-      <forks>283</forks>
+      <forks>282</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -389,7 +389,7 @@
       <guid>https://github.com/jaywcjlove/reference</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>14,766</stars>
+      <stars>14,767</stars>
       <forks>2,195</forks>
       <addStars>7</addStars>
       <contributors>
@@ -531,7 +531,7 @@
       <guid>https://github.com/astral-sh/uv-docker-example</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>637</stars>
+      <stars>638</stars>
       <forks>62</forks>
       <addStars>3</addStars>
       <contributors>
@@ -569,7 +569,7 @@
       <guid>https://github.com/TechHutTV/homelab</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>2,177</stars>
+      <stars>2,182</stars>
       <forks>239</forks>
       <addStars>5</addStars>
       <contributors>

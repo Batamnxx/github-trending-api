@@ -2,7 +2,7 @@
   "title": "GitHub Ejs Languages Weekly Trending",
   "description": "Weekly Trending of Ejs Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 10 Dec 2025 02:53:57 GMT",
+  "pubDate": "Wed, 10 Dec 2025 07:28:06 GMT",
   "items": [
     {
       "title": "github/haikus-for-codespaces",
@@ -116,7 +116,7 @@
       "description": "⭕ Share quick reference cheat sheet for developers.",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": "9,623",
+      "stars": "9,624",
       "forks": "1,192",
       "addStars": "46",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Shaderlab Languages Daily Trending",
   "description": "Daily Trending of Shaderlab Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 10 Dec 2025 02:53:57 GMT",
+  "pubDate": "Wed, 10 Dec 2025 07:28:06 GMT",
   "items": [
     {
       "title": "lilxyzw/lilToon",
@@ -48,7 +48,7 @@
       "language": "ShaderLab",
       "languageColor": "#222c37",
       "stars": "536",
-      "forks": "73",
+      "forks": "74",
       "addStars": "2",
       "contributors": [
         {

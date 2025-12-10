@@ -3,7 +3,7 @@
     <title>GitHub Bicep Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Bicep Languages in GitHub</description>
-    <pubDate>Wed, 10 Dec 2025 02:53:57 GMT</pubDate>
+    <pubDate>Wed, 10 Dec 2025 07:28:06 GMT</pubDate>
     <item>
       <title>azure-ai-foundry/foundry-samples</title>
       <link>https://github.com/azure-ai-foundry/foundry-samples</link>
@@ -154,7 +154,7 @@
       <language>Bicep</language>
       <languageColor>#519aba</languageColor>
       <stars>1,113</stars>
-      <forks>287</forks>
+      <forks>288</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -466,7 +466,7 @@
       <language>Bicep</language>
       <languageColor>#519aba</languageColor>
       <stars>152</stars>
-      <forks>119</forks>
+      <forks>120</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>

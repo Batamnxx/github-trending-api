@@ -3,7 +3,7 @@
     <title>GitHub Emacs-lisp Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Emacs-lisp Languages in GitHub</description>
-    <pubDate>Thu, 11 Dec 2025 02:56:04 GMT</pubDate>
+    <pubDate>Thu, 11 Dec 2025 07:29:12 GMT</pubDate>
     <item>
       <title>doomemacs/doomemacs</title>
       <link>https://github.com/doomemacs/doomemacs</link>
@@ -391,7 +391,7 @@
       <guid>https://github.com/qjcg/awesome-typst</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>3,126</stars>
+      <stars>3,127</stars>
       <forks>148</forks>
       <addStars>79</addStars>
       <contributors>

@@ -2,52 +2,15 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 07:29:12 GMT",
+  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
   "items": [
-    {
-      "title": "vulhub/vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "19,939",
-      "forks": "4,734",
-      "addStars": "197",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5711185?s=40&v=4",
-          "name": "phith0n",
-          "url": "https://github.com/phith0n"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37445725?s=40&v=4",
-          "name": "JrDw0",
-          "url": "https://github.com/JrDw0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/83867734?s=40&v=4",
-          "name": "D3vil0p3r",
-          "url": "https://github.com/D3vil0p3r"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11970685?s=40&v=4",
-          "name": "monburan",
-          "url": "https://github.com/monburan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22583325?s=40&v=4",
-          "name": "CatAndCoffee",
-          "url": "https://github.com/CatAndCoffee"
-        }
-      ]
-    },
     {
       "title": "TechHutTV/homelab",
       "url": "https://github.com/TechHutTV/homelab",
       "description": "Homelab stacks, templates, and more fun resources!",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,187",
+      "stars": "2,188",
       "forks": "240",
       "addStars": "217",
       "contributors": [
@@ -84,7 +47,7 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "10,875",
+      "stars": "10,879",
       "forks": "3,457",
       "addStars": "355",
       "contributors": [
@@ -101,29 +64,39 @@
       ]
     },
     {
-      "title": "jaywcjlove/reference",
-      "url": "https://github.com/jaywcjlove/reference",
-      "description": "为开发人员分享快速参考备忘清单(速查表)",
+      "title": "vulhub/vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "14,769",
-      "forks": "2,196",
-      "addStars": "186",
+      "stars": "19,943",
+      "forks": "4,734",
+      "addStars": "197",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
-          "name": "jaywcjlove",
-          "url": "https://github.com/jaywcjlove"
+          "avatar": "https://avatars.githubusercontent.com/u/5711185?s=40&v=4",
+          "name": "phith0n",
+          "url": "https://github.com/phith0n"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/82551626?s=40&v=4",
-          "name": "fwqaaq",
-          "url": "https://github.com/fwqaaq"
+          "avatar": "https://avatars.githubusercontent.com/u/37445725?s=40&v=4",
+          "name": "JrDw0",
+          "url": "https://github.com/JrDw0"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/40376181?s=40&v=4",
-          "name": "zhangymPerson",
-          "url": "https://github.com/zhangymPerson"
+          "avatar": "https://avatars.githubusercontent.com/u/83867734?s=40&v=4",
+          "name": "D3vil0p3r",
+          "url": "https://github.com/D3vil0p3r"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11970685?s=40&v=4",
+          "name": "monburan",
+          "url": "https://github.com/monburan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22583325?s=40&v=4",
+          "name": "CatAndCoffee",
+          "url": "https://github.com/CatAndCoffee"
         }
       ]
     },
@@ -134,7 +107,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "411",
-      "forks": "1,037",
+      "forks": "1,038",
       "addStars": "63",
       "contributors": [
         {
@@ -197,13 +170,40 @@
       ]
     },
     {
+      "title": "jaywcjlove/reference",
+      "url": "https://github.com/jaywcjlove/reference",
+      "description": "为开发人员分享快速参考备忘清单(速查表)",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "14,770",
+      "forks": "2,197",
+      "addStars": "186",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
+          "name": "jaywcjlove",
+          "url": "https://github.com/jaywcjlove"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82551626?s=40&v=4",
+          "name": "fwqaaq",
+          "url": "https://github.com/fwqaaq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40376181?s=40&v=4",
+          "name": "zhangymPerson",
+          "url": "https://github.com/zhangymPerson"
+        }
+      ]
+    },
+    {
       "title": "dotnet/dotnet-docker",
       "url": "https://github.com/dotnet/dotnet-docker",
       "description": "Official container images for .NET",
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "4,791",
-      "forks": "1,967",
+      "forks": "1,966",
       "addStars": "30",
       "contributors": [
         {
@@ -230,6 +230,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/17344677?s=40&v=4",
           "name": "jander-msft",
           "url": "https://github.com/jander-msft"
+        }
+      ]
+    },
+    {
+      "title": "piyushsachdeva/CKA-2024",
+      "url": "https://github.com/piyushsachdeva/CKA-2024",
+      "description": "This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "890",
+      "forks": "1,563",
+      "addStars": "34",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40286378?s=40&v=4",
+          "name": "piyushsachdeva",
+          "url": "https://github.com/piyushsachdeva"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43399466?s=40&v=4",
+          "name": "iam-veeramalla",
+          "url": "https://github.com/iam-veeramalla"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44505088?s=40&v=4",
+          "name": "guntrer",
+          "url": "https://github.com/guntrer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/85953650?s=40&v=4",
+          "name": "codewithmitesh",
+          "url": "https://github.com/codewithmitesh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101830709?s=40&v=4",
+          "name": "itsBaivab",
+          "url": "https://github.com/itsBaivab"
         }
       ]
     },
@@ -293,39 +330,24 @@
       ]
     },
     {
-      "title": "piyushsachdeva/CKA-2024",
-      "url": "https://github.com/piyushsachdeva/CKA-2024",
-      "description": "This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.",
+      "title": "serfriz/caddy-custom-builds",
+      "url": "https://github.com/serfriz/caddy-custom-builds",
+      "description": "Caddy Docker custom images built with different combinations of modules. All images are updated automatically when a new version of Caddy is released.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "890",
-      "forks": "1,563",
-      "addStars": "34",
+      "stars": "253",
+      "forks": "17",
+      "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/40286378?s=40&v=4",
-          "name": "piyushsachdeva",
-          "url": "https://github.com/piyushsachdeva"
+          "avatar": "https://avatars.githubusercontent.com/u/37709447?s=40&v=4",
+          "name": "serfriz",
+          "url": "https://github.com/serfriz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43399466?s=40&v=4",
-          "name": "iam-veeramalla",
-          "url": "https://github.com/iam-veeramalla"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44505088?s=40&v=4",
-          "name": "guntrer",
-          "url": "https://github.com/guntrer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/85953650?s=40&v=4",
-          "name": "codewithmitesh",
-          "url": "https://github.com/codewithmitesh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101830709?s=40&v=4",
-          "name": "itsBaivab",
-          "url": "https://github.com/itsBaivab"
+          "avatar": "https://avatars.githubusercontent.com/u/34134086?s=40&v=4",
+          "name": "wachkyri",
+          "url": "https://github.com/wachkyri"
         }
       ]
     },
@@ -335,7 +357,7 @@
       "description": "Java Vulnerability Exploitation Platform",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "1,875",
+      "stars": "1,876",
       "forks": "153",
       "addStars": "78",
       "contributors": [
@@ -358,28 +380,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/40414720?s=40&v=4",
           "name": "xcxmiku",
           "url": "https://github.com/xcxmiku"
-        }
-      ]
-    },
-    {
-      "title": "streetsidesoftware/cspell-cli",
-      "url": "https://github.com/streetsidesoftware/cspell-cli",
-      "description": "CSpell command line spell checker.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "116",
-      "forks": "11",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3740137?s=40&v=4",
-          "name": "Jason3S",
-          "url": "https://github.com/Jason3S"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5067549?s=40&v=4",
-          "name": "pellared",
-          "url": "https://github.com/pellared"
         }
       ]
     },
@@ -417,6 +417,28 @@
           "avatar": "https://avatars.githubusercontent.com/u/1115625?s=40&v=4",
           "name": "bashtoni",
           "url": "https://github.com/bashtoni"
+        }
+      ]
+    },
+    {
+      "title": "streetsidesoftware/cspell-cli",
+      "url": "https://github.com/streetsidesoftware/cspell-cli",
+      "description": "CSpell command line spell checker.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "116",
+      "forks": "11",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3740137?s=40&v=4",
+          "name": "Jason3S",
+          "url": "https://github.com/Jason3S"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5067549?s=40&v=4",
+          "name": "pellared",
+          "url": "https://github.com/pellared"
         }
       ]
     }

@@ -3,7 +3,7 @@
     <title>GitHub Swift Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Swift Languages in GitHub</description>
-    <pubDate>Thu, 11 Dec 2025 13:39:04 GMT</pubDate>
+    <pubDate>Thu, 11 Dec 2025 19:24:14 GMT</pubDate>
     <item>
       <title>alienator88/Pearcleaner</title>
       <link>https://github.com/alienator88/Pearcleaner</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/alienator88/Pearcleaner</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>9,978</stars>
-      <forks>236</forks>
-      <addStars>53</addStars>
+      <stars>9,980</stars>
+      <forks>237</forks>
+      <addStars>35</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6263626?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/github/CopilotForXcode</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>5,350</stars>
+      <stars>5,352</stars>
       <forks>1,603</forks>
-      <addStars>4</addStars>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
@@ -82,7 +82,7 @@
       <guid>https://github.com/nikitabobko/AeroSpace</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>17,465</stars>
+      <stars>17,468</stars>
       <forks>364</forks>
       <addStars>32</addStars>
       <contributors>
@@ -158,9 +158,9 @@
       <guid>https://github.com/glushchenko/fsnotes</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>7,097</stars>
-      <forks>525</forks>
-      <addStars>15</addStars>
+      <stars>7,099</stars>
+      <forks>526</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1089917?s=40&amp;v=4</avatar>
@@ -196,7 +196,7 @@
       <guid>https://github.com/MrKai77/Loop</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>9,572</stars>
+      <stars>9,571</stars>
       <forks>205</forks>
       <addStars>4</addStars>
       <contributors>
@@ -229,7 +229,7 @@
       <guid>https://github.com/vapor/vapor</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>25,849</stars>
+      <stars>25,847</stars>
       <forks>1,518</forks>
       <addStars>8</addStars>
       <contributors>
@@ -305,7 +305,7 @@
       <guid>https://github.com/PlayCover/PlayCover</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>10,300</stars>
+      <stars>10,302</stars>
       <forks>856</forks>
       <addStars>7</addStars>
       <contributors>
@@ -343,8 +343,8 @@
       <guid>https://github.com/lihaoyun6/QuickRecorder</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>7,583</stars>
-      <forks>409</forks>
+      <stars>7,586</stars>
+      <forks>410</forks>
       <addStars>24</addStars>
       <contributors>
         <contributor>
@@ -381,9 +381,9 @@
       <guid>https://github.com/realm/SwiftLint</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>19,311</stars>
+      <stars>19,312</stars>
       <forks>2,274</forks>
-      <addStars>0</addStars>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/474794?s=40&amp;v=4</avatar>
@@ -419,7 +419,7 @@
       <guid>https://github.com/mrousavy/react-native-vision-camera</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>9,048</stars>
+      <stars>9,049</stars>
       <forks>1,304</forks>
       <addStars>3</addStars>
       <contributors>
@@ -452,7 +452,7 @@
       <guid>https://github.com/permissionlesstech/bitchat</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>23,520</stars>
+      <stars>23,521</stars>
       <forks>2,181</forks>
       <addStars>9</addStars>
       <contributors>
@@ -490,7 +490,7 @@
       <guid>https://github.com/p0deje/Maccy</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>17,809</stars>
+      <stars>17,810</stars>
       <forks>799</forks>
       <addStars>11</addStars>
       <contributors>
@@ -568,7 +568,7 @@
       <languageColor>#F05138</languageColor>
       <stars>4,092</stars>
       <forks>641</forks>
-      <addStars>2</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/658?s=40&amp;v=4</avatar>
@@ -642,7 +642,7 @@
       <guid>https://github.com/argmaxinc/WhisperKit</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>5,270</stars>
+      <stars>5,271</stars>
       <forks>477</forks>
       <addStars>3</addStars>
       <contributors>
@@ -718,8 +718,8 @@
       <guid>https://github.com/lwouis/alt-tab-macos</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>13,930</stars>
-      <forks>435</forks>
+      <stars>13,932</stars>
+      <forks>436</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>

@@ -3,7 +3,7 @@
     <title>GitHub Erlang Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Erlang Languages in GitHub</description>
-    <pubDate>Thu, 11 Dec 2025 13:39:04 GMT</pubDate>
+    <pubDate>Thu, 11 Dec 2025 19:24:14 GMT</pubDate>
     <item>
       <title>emqx/emqx</title>
       <link>https://github.com/emqx/emqx</link>
@@ -429,7 +429,7 @@
       <guid>https://github.com/ninenines/gun</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>929</stars>
+      <stars>930</stars>
       <forks>236</forks>
       <addStars>5</addStars>
       <contributors>

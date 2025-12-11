@@ -3,7 +3,7 @@
     <title>GitHub Objective-c Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Objective-c Languages in GitHub</description>
-    <pubDate>Thu, 11 Dec 2025 13:39:04 GMT</pubDate>
+    <pubDate>Thu, 11 Dec 2025 19:24:14 GMT</pubDate>
     <item>
       <title>SDWebImage/SDWebImage</title>
       <link>https://github.com/SDWebImage/SDWebImage</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/Hammerspoon/hammerspoon</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>14,086</stars>
+      <stars>14,088</stars>
       <forks>642</forks>
       <addStars>36</addStars>
       <contributors>
@@ -196,7 +196,7 @@
       <guid>https://github.com/google/GoogleUtilities</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>124</stars>
+      <stars>125</stars>
       <forks>57</forks>
       <addStars>1</addStars>
       <contributors>
@@ -414,7 +414,7 @@
       <guid>https://github.com/google/GoogleSignIn-iOS</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>673</stars>
+      <stars>674</stars>
       <forks>246</forks>
       <addStars>1</addStars>
       <contributors>
@@ -756,7 +756,7 @@
       <guid>https://github.com/realm/realm-swift</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>16,571</stars>
+      <stars>16,572</stars>
       <forks>2,208</forks>
       <addStars>6</addStars>
       <contributors>

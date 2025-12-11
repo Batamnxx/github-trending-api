@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Weekly Trending",
   "description": "Weekly Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "semgrep/semgrep",
@@ -153,8 +153,8 @@
       ]
     },
     {
-      "title": "dfinity/motoko",
-      "url": "https://github.com/dfinity/motoko",
+      "title": "caffeinelabs/motoko",
+      "url": "https://github.com/caffeinelabs/motoko",
       "description": "Simple high-level language for writing Internet Computer canisters",
       "language": "OCaml",
       "languageColor": "#ef7a08",

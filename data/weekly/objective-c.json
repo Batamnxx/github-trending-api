@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Weekly Trending",
   "description": "Weekly Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "SDWebImage/SDWebImage",
@@ -47,7 +47,7 @@
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "14,086",
+      "stars": "14,088",
       "forks": "642",
       "addStars": "36",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "124",
+      "stars": "125",
       "forks": "57",
       "addStars": "1",
       "contributors": [
@@ -402,7 +402,7 @@
       "description": "Enables iOS and macOS apps to sign in with Google.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "673",
+      "stars": "674",
       "forks": "246",
       "addStars": "1",
       "contributors": [
@@ -735,7 +735,7 @@
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "16,571",
+      "stars": "16,572",
       "forks": "2,208",
       "addStars": "6",
       "contributors": [

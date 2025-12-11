@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "alienator88/Pearcleaner",
@@ -10,9 +10,9 @@
       "description": "A free, source-available and fair-code licensed mac app cleaner",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "9,978",
-      "forks": "236",
-      "addStars": "53",
+      "stars": "9,980",
+      "forks": "237",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6263626?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "AI coding assistant for Xcode",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,350",
+      "stars": "5,352",
       "forks": "1,603",
-      "addStars": "4",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -79,7 +79,7 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "17,465",
+      "stars": "17,468",
       "forks": "364",
       "addStars": "32",
       "contributors": [
@@ -153,9 +153,9 @@
       "description": "Notes manager for macOS/iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "7,097",
-      "forks": "525",
-      "addStars": "15",
+      "stars": "7,099",
+      "forks": "526",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1089917?s=40&v=4",
@@ -190,7 +190,7 @@
       "description": "Window management made elegant.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "9,572",
+      "stars": "9,571",
       "forks": "205",
       "addStars": "4",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "💧 A server-side Swift HTTP web framework.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "25,849",
+      "stars": "25,847",
       "forks": "1,518",
       "addStars": "8",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "Community fork of PlayCover",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "10,300",
+      "stars": "10,302",
       "forks": "856",
       "addStars": "7",
       "contributors": [
@@ -333,8 +333,8 @@
       "description": "A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "7,583",
-      "forks": "409",
+      "stars": "7,586",
+      "forks": "410",
       "addStars": "24",
       "contributors": [
         {
@@ -370,9 +370,9 @@
       "description": "A tool to enforce Swift style and conventions.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "19,311",
+      "stars": "19,312",
       "forks": "2,274",
-      "addStars": "0",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/474794?s=40&v=4",
@@ -407,7 +407,7 @@
       "description": "📸 A powerful, high-performance React Native Camera library.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "9,048",
+      "stars": "9,049",
       "forks": "1,304",
       "addStars": "3",
       "contributors": [
@@ -439,7 +439,7 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "23,520",
+      "stars": "23,521",
       "forks": "2,181",
       "addStars": "9",
       "contributors": [
@@ -476,7 +476,7 @@
       "description": "Lightweight clipboard manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "17,809",
+      "stars": "17,810",
       "forks": "799",
       "addStars": "11",
       "contributors": [
@@ -552,7 +552,7 @@
       "languageColor": "#F05138",
       "stars": "4,092",
       "forks": "641",
-      "addStars": "2",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4",
@@ -624,7 +624,7 @@
       "description": "On-device Speech Recognition for Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,270",
+      "stars": "5,271",
       "forks": "477",
       "addStars": "3",
       "contributors": [
@@ -698,8 +698,8 @@
       "description": "Windows alt-tab on macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "13,930",
-      "forks": "435",
+      "stars": "13,932",
+      "forks": "436",
       "addStars": "8",
       "contributors": [
         {

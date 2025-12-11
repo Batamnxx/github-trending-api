@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Monthly Trending",
   "description": "Monthly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "lichess-org/lila",
@@ -85,7 +85,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "8,451",
-      "forks": "1,968",
+      "forks": "1,969",
       "addStars": "69",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "42,467",
-      "forks": "28,966",
+      "stars": "42,469",
+      "forks": "28,967",
       "addStars": "233",
       "contributors": [
         {
@@ -444,8 +444,8 @@
       "description": "Source code for the X Recommendation Algorithm",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "67,944",
-      "forks": "12,636",
+      "stars": "67,946",
+      "forks": "12,638",
       "addStars": "269",
       "contributors": [
         {
@@ -545,7 +545,7 @@
       "description": "The Daml smart contract language",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "851",
+      "stars": "850",
       "forks": "238",
       "addStars": "7",
       "contributors": [
@@ -715,7 +715,7 @@
       "description": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "2,061",
+      "stars": "2,063",
       "forks": "790",
       "addStars": "33",
       "contributors": [

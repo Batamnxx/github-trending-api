@@ -3,7 +3,7 @@
     <title>GitHub Kotlin Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Kotlin Languages in GitHub</description>
-    <pubDate>Thu, 11 Dec 2025 13:39:04 GMT</pubDate>
+    <pubDate>Thu, 11 Dec 2025 19:24:14 GMT</pubDate>
     <item>
       <title>kavishdevar/librepods</title>
       <link>https://github.com/kavishdevar/librepods</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/kavishdevar/librepods</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>21,257</stars>
-      <forks>1,065</forks>
-      <addStars>378</addStars>
+      <stars>21,316</stars>
+      <forks>1,069</forks>
+      <addStars>411</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/46088622?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/keiyoushi/extensions-source</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>3,469</stars>
-      <forks>961</forks>
-      <addStars>11</addStars>
+      <stars>3,470</stars>
+      <forks>962</forks>
+      <addStars>7</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/156493704?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/AAswordman/Operit</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>2,362</stars>
+      <stars>2,373</stars>
       <forks>161</forks>
-      <addStars>62</addStars>
+      <addStars>50</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/66207760?s=40&amp;v=4</avatar>
@@ -125,9 +125,9 @@
       <guid>https://github.com/coredevices/mobileapp</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>546</stars>
+      <stars>548</stars>
       <forks>48</forks>
-      <addStars>45</addStars>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7893269?s=40&amp;v=4</avatar>
@@ -163,8 +163,8 @@
       <guid>https://github.com/bannedbook/fanqiang</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>41,087</stars>
-      <forks>7,421</forks>
+      <stars>41,089</stars>
+      <forks>7,422</forks>
       <addStars>16</addStars>
       <contributors>
         <contributor>
@@ -214,9 +214,9 @@
       <guid>https://github.com/mobile-dev-inc/Maestro</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>9,594</stars>
+      <stars>9,597</stars>
       <forks>529</forks>
-      <addStars>13</addStars>
+      <addStars>14</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2990722?s=40&amp;v=4</avatar>
@@ -290,7 +290,7 @@
       <guid>https://github.com/pppscn/SmsForwarder</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>23,721</stars>
+      <stars>23,722</stars>
       <forks>3,032</forks>
       <addStars>13</addStars>
       <contributors>
@@ -328,9 +328,9 @@
       <guid>https://github.com/Kotlin/kotlin-lsp</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>2,618</stars>
+      <stars>2,619</stars>
       <forks>60</forks>
-      <addStars>5</addStars>
+      <addStars>15</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16403337?s=40&amp;v=4</avatar>
@@ -366,9 +366,9 @@
       <guid>https://github.com/JetBrains/kotlin</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>51,978</stars>
-      <forks>6,151</forks>
-      <addStars>15</addStars>
+      <stars>51,980</stars>
+      <forks>6,152</forks>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/292714?s=40&amp;v=4</avatar>
@@ -404,7 +404,7 @@
       <guid>https://github.com/Ackites/Nrfr</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>5,421</stars>
+      <stars>5,425</stars>
       <forks>472</forks>
       <addStars>16</addStars>
       <contributors>
@@ -427,7 +427,7 @@
       <guid>https://github.com/yairm210/Unciv</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>9,830</stars>
+      <stars>9,831</stars>
       <forks>1,761</forks>
       <addStars>5</addStars>
       <contributors>
@@ -465,7 +465,7 @@
       <guid>https://github.com/JetBrains/Exposed</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>9,104</stars>
+      <stars>9,105</stars>
       <forks>753</forks>
       <addStars>1</addStars>
       <contributors>
@@ -498,8 +498,8 @@
       <guid>https://github.com/fumiama/copymanga</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>4,014</stars>
-      <forks>93</forks>
+      <stars>4,016</stars>
+      <forks>94</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -537,7 +537,7 @@
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
       <stars>9,825</stars>
-      <forks>7,897</forks>
+      <forks>7,898</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -602,7 +602,7 @@
       <guid>https://github.com/JetBrains/compose-multiplatform</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>18,589</stars>
+      <stars>18,591</stars>
       <forks>1,354</forks>
       <addStars>7</addStars>
       <contributors>
@@ -642,7 +642,7 @@
       <languageColor>#A97BFF</languageColor>
       <stars>20,153</stars>
       <forks>4,034</forks>
-      <addStars>6</addStars>
+      <addStars>19</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/873212?s=40&amp;v=4</avatar>
@@ -678,7 +678,7 @@
       <guid>https://github.com/connectbot/connectbot</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>2,883</stars>
+      <stars>2,884</stars>
       <forks>663</forks>
       <addStars>4</addStars>
       <contributors>
@@ -708,7 +708,7 @@
       <languageColor>#A97BFF</languageColor>
       <stars>1,221</stars>
       <forks>70</forks>
-      <addStars>8</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/108592928?s=40&amp;v=4</avatar>

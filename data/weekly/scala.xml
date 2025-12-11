@@ -3,7 +3,7 @@
     <title>GitHub Scala Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Scala Languages in GitHub</description>
-    <pubDate>Thu, 11 Dec 2025 13:39:04 GMT</pubDate>
+    <pubDate>Thu, 11 Dec 2025 19:24:14 GMT</pubDate>
     <item>
       <title>OpenXiangShan/XiangShan</title>
       <link>https://github.com/OpenXiangShan/XiangShan</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/twitter/the-algorithm</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>67,944</stars>
-      <forks>12,636</forks>
+      <stars>67,946</stars>
+      <forks>12,638</forks>
       <addStars>74</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/apache/spark</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>42,467</stars>
-      <forks>28,966</forks>
+      <stars>42,469</stars>
+      <forks>28,967</forks>
       <addStars>49</addStars>
       <contributors>
         <contributor>
@@ -153,7 +153,7 @@
       <guid>https://github.com/ucb-bar/chipyard</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>2,061</stars>
+      <stars>2,063</stars>
       <forks>790</forks>
       <addStars>7</addStars>
       <contributors>
@@ -258,7 +258,7 @@
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
       <stars>8,451</stars>
-      <forks>1,968</forks>
+      <forks>1,969</forks>
       <addStars>18</addStars>
       <contributors>
         <contributor>

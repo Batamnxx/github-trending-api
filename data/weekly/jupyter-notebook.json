@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Weekly Trending",
   "description": "Weekly Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "patchy631/ai-engineering-hub",
@@ -10,8 +10,8 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "23,065",
-      "forks": "3,710",
+      "stars": "23,074",
+      "forks": "3,713",
       "addStars": "1,848",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "81,543",
-      "forks": "19,104",
+      "stars": "81,570",
+      "forks": "19,116",
       "addStars": "1,780",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "103,605",
-      "forks": "54,969",
+      "stars": "103,631",
+      "forks": "54,989",
       "addStars": "1,015",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "46,660",
-      "forks": "16,007",
+      "stars": "46,680",
+      "forks": "16,011",
       "addStars": "667",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "46,283",
-      "forks": "18,637",
+      "stars": "46,285",
+      "forks": "18,638",
       "addStars": "90",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,317",
-      "forks": "3,018",
+      "stars": "18,329",
+      "forks": "3,020",
       "addStars": "358",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "Repo for the Complete Agentic AI Engineering Course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "3,201",
-      "forks": "2,640",
+      "stars": "3,202",
+      "forks": "2,641",
       "addStars": "159",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "16,499",
-      "forks": "4,541",
+      "stars": "16,503",
+      "forks": "4,543",
       "addStars": "76",
       "contributors": [
         {
@@ -375,7 +375,7 @@
       "description": "📚 从零开始的大语言模型原理与实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "22,620",
+      "stars": "22,626",
       "forks": "2,033",
       "addStars": "379",
       "contributors": [
@@ -412,8 +412,8 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "176,262",
-      "forks": "55,113",
+      "stars": "176,275",
+      "forks": "55,114",
       "addStars": "493",
       "contributors": [
         {
@@ -486,8 +486,8 @@
       "description": "Repo to accompany my mastering LLM engineering course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "4,154",
-      "forks": "3,716",
+      "stars": "4,156",
+      "forks": "3,718",
       "addStars": "86",
       "contributors": [
         {
@@ -523,7 +523,7 @@
       "description": "Anthropic's educational courses",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "17,714",
+      "stars": "17,713",
       "forks": "1,654",
       "addStars": "56",
       "contributors": [
@@ -597,8 +597,8 @@
       "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "8,371",
-      "forks": "59,843",
+      "stars": "8,370",
+      "forks": "59,853",
       "addStars": "21",
       "contributors": [
         {

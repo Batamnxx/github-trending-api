@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Weekly Trending",
   "description": "Weekly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "ethereum/ethereum-org-website",
@@ -10,7 +10,7 @@
       "description": "Ethereum.org is a primary online resource for the Ethereum community.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "5,775",
+      "stars": "5,777",
       "forks": "5,340",
       "addStars": "21",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Public documentation for Visual Studio Code",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "6,289",
+      "stars": "6,290",
       "forks": "5,482",
       "addStars": "20",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "The OpenAPI Specification Repository",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "30,702",
+      "stars": "30,703",
       "forks": "9,165",
       "addStars": "44",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "448,175",
-      "forks": "42,039",
+      "stars": "448,225",
+      "forks": "42,050",
       "addStars": "2,427",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "Open source documentation of Microsoft Azure",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "10,698",
-      "forks": "21,847",
+      "stars": "10,699",
+      "forks": "21,849",
       "addStars": "10",
       "contributors": [
         {
@@ -264,7 +264,7 @@
       "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "9,880",
+      "stars": "9,881",
       "forks": "22,977",
       "addStars": "20",
       "contributors": [
@@ -375,7 +375,7 @@
       "description": "A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "5,737",
+      "stars": "5,739",
       "forks": "872",
       "addStars": "16",
       "contributors": [
@@ -412,8 +412,8 @@
       "description": "📚 Collaborative cheatsheets for console commands",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "60,389",
-      "forks": "4,956",
+      "stars": "60,391",
+      "forks": "4,957",
       "addStars": "107",
       "contributors": [
         {
@@ -486,7 +486,7 @@
       "description": "Code documentation written as code! How novel and totally my idea!",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "12,103",
+      "stars": "12,104",
       "forks": "3,547",
       "addStars": "11",
       "contributors": [

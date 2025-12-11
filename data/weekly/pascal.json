@@ -2,52 +2,15 @@
   "title": "GitHub Pascal Languages Weekly Trending",
   "description": "Weekly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 07:29:12 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
-    {
-      "title": "peazip/PeaZip",
-      "url": "https://github.com/peazip/PeaZip",
-      "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": "6,600",
-      "forks": "359",
-      "addStars": "44",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/479850?s=40&v=4",
-          "name": "peazip",
-          "url": "https://github.com/peazip"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63919734?s=40&v=4",
-          "name": "ViktorOn",
-          "url": "https://github.com/ViktorOn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15143134?s=40&v=4",
-          "name": "theavege",
-          "url": "https://github.com/theavege"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102175066?s=40&v=4",
-          "name": "SmartDever02",
-          "url": "https://github.com/SmartDever02"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49920661?s=40&v=4",
-          "name": "marc-romu",
-          "url": "https://github.com/marc-romu"
-        }
-      ]
-    },
     {
       "title": "stascorp/rdpwrap",
       "url": "https://github.com/stascorp/rdpwrap",
       "description": "RDP Wrapper Library",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "16,110",
+      "stars": "16,113",
       "forks": "3,988",
       "addStars": "27",
       "contributors": [
@@ -79,12 +42,49 @@
       ]
     },
     {
+      "title": "peazip/PeaZip",
+      "url": "https://github.com/peazip/PeaZip",
+      "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": "6,603",
+      "forks": "359",
+      "addStars": "44",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/479850?s=40&v=4",
+          "name": "peazip",
+          "url": "https://github.com/peazip"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63919734?s=40&v=4",
+          "name": "ViktorOn",
+          "url": "https://github.com/ViktorOn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15143134?s=40&v=4",
+          "name": "theavege",
+          "url": "https://github.com/theavege"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/102175066?s=40&v=4",
+          "name": "SmartDever02",
+          "url": "https://github.com/SmartDever02"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49920661?s=40&v=4",
+          "name": "marc-romu",
+          "url": "https://github.com/marc-romu"
+        }
+      ]
+    },
+    {
       "title": "HeidiSQL/HeidiSQL",
       "url": "https://github.com/HeidiSQL/HeidiSQL",
       "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "5,619",
+      "stars": "5,627",
       "forks": "535",
       "addStars": "20",
       "contributors": [
@@ -112,6 +112,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/421851?s=40&v=4",
           "name": "rentalhost",
           "url": "https://github.com/rentalhost"
+        }
+      ]
+    },
+    {
+      "title": "cheat-engine/cheat-engine",
+      "url": "https://github.com/cheat-engine/cheat-engine",
+      "description": "Cheat Engine. A development environment focused on modding",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": "17,409",
+      "forks": "2,456",
+      "addStars": "44",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12006555?s=40&v=4",
+          "name": "cheat-engine",
+          "url": "https://github.com/cheat-engine"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16142641?s=40&v=4",
+          "name": "supMarco",
+          "url": "https://github.com/supMarco"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9157726?s=40&v=4",
+          "name": "mgrinzPlayer",
+          "url": "https://github.com/mgrinzPlayer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12674385?s=40&v=4",
+          "name": "rzndsa",
+          "url": "https://github.com/rzndsa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31028289?s=40&v=4",
+          "name": "BlankUserLing",
+          "url": "https://github.com/BlankUserLing"
+        }
+      ]
+    },
+    {
+      "title": "benjamimgois/goverlay",
+      "url": "https://github.com/benjamimgois/goverlay",
+      "description": "Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": "966",
+      "forks": "50",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104206575?s=40&v=4",
+          "name": "benjamimgois",
+          "url": "https://github.com/benjamimgois"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36420837?s=40&v=4",
+          "name": "Samueru-sama",
+          "url": "https://github.com/Samueru-sama"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36662302?s=40&v=4",
+          "name": "stephanlachnit",
+          "url": "https://github.com/stephanlachnit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11287837?s=40&v=4",
+          "name": "GloriousEggroll",
+          "url": "https://github.com/GloriousEggroll"
         }
       ]
     },
@@ -149,144 +223,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1497707?s=40&v=4",
           "name": "bohning",
           "url": "https://github.com/bohning"
-        }
-      ]
-    },
-    {
-      "title": "doublecmd/doublecmd",
-      "url": "https://github.com/doublecmd/doublecmd",
-      "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": "3,662",
-      "forks": "257",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13401398?s=40&v=4",
-          "name": "alexx2000",
-          "url": "https://github.com/alexx2000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102933068?s=40&v=4",
-          "name": "rich2014",
-          "url": "https://github.com/rich2014"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16710801?s=40&v=4",
-          "name": "denis-bisson",
-          "url": "https://github.com/denis-bisson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6333198?s=40&v=4",
-          "name": "Skif-off",
-          "url": "https://github.com/Skif-off"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30291994?s=40&v=4",
-          "name": "j2969719",
-          "url": "https://github.com/j2969719"
-        }
-      ]
-    },
-    {
-      "title": "benjamimgois/goverlay",
-      "url": "https://github.com/benjamimgois/goverlay",
-      "description": "Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": "965",
-      "forks": "50",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104206575?s=40&v=4",
-          "name": "benjamimgois",
-          "url": "https://github.com/benjamimgois"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36420837?s=40&v=4",
-          "name": "Samueru-sama",
-          "url": "https://github.com/Samueru-sama"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36662302?s=40&v=4",
-          "name": "stephanlachnit",
-          "url": "https://github.com/stephanlachnit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11287837?s=40&v=4",
-          "name": "GloriousEggroll",
-          "url": "https://github.com/GloriousEggroll"
-        }
-      ]
-    },
-    {
-      "title": "FrankBijnen/ExifToolGui",
-      "url": "https://github.com/FrankBijnen/ExifToolGui",
-      "description": "A GUI for ExifTool",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": "749",
-      "forks": "43",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63312605?s=40&v=4",
-          "name": "FrankBijnen",
-          "url": "https://github.com/FrankBijnen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67090612?s=40&v=4",
-          "name": "Temerold",
-          "url": "https://github.com/Temerold"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86864914?s=40&v=4",
-          "name": "wcxu21",
-          "url": "https://github.com/wcxu21"
-        }
-      ]
-    },
-    {
-      "title": "cheat-engine/cheat-engine",
-      "url": "https://github.com/cheat-engine/cheat-engine",
-      "description": "Cheat Engine. A development environment focused on modding",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": "17,407",
-      "forks": "2,455",
-      "addStars": "44",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12006555?s=40&v=4",
-          "name": "cheat-engine",
-          "url": "https://github.com/cheat-engine"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16142641?s=40&v=4",
-          "name": "supMarco",
-          "url": "https://github.com/supMarco"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9157726?s=40&v=4",
-          "name": "mgrinzPlayer",
-          "url": "https://github.com/mgrinzPlayer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12674385?s=40&v=4",
-          "name": "rzndsa",
-          "url": "https://github.com/rzndsa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31028289?s=40&v=4",
-          "name": "BlankUserLing",
-          "url": "https://github.com/BlankUserLing"
         }
       ]
     },
@@ -350,7 +286,7 @@
       "description": "xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "833",
+      "stars": "832",
       "forks": "146",
       "addStars": "3",
       "contributors": [
@@ -378,6 +314,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/2236426?s=40&v=4",
           "name": "Hugues92",
           "url": "https://github.com/Hugues92"
+        }
+      ]
+    },
+    {
+      "title": "doublecmd/doublecmd",
+      "url": "https://github.com/doublecmd/doublecmd",
+      "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": "3,665",
+      "forks": "257",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13401398?s=40&v=4",
+          "name": "alexx2000",
+          "url": "https://github.com/alexx2000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/102933068?s=40&v=4",
+          "name": "rich2014",
+          "url": "https://github.com/rich2014"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16710801?s=40&v=4",
+          "name": "denis-bisson",
+          "url": "https://github.com/denis-bisson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6333198?s=40&v=4",
+          "name": "Skif-off",
+          "url": "https://github.com/Skif-off"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30291994?s=40&v=4",
+          "name": "j2969719",
+          "url": "https://github.com/j2969719"
+        }
+      ]
+    },
+    {
+      "title": "MagicFoundation/Alcinoe",
+      "url": "https://github.com/MagicFoundation/Alcinoe",
+      "description": "Alcinoe empowers developers to build fast, modern apps without the usual complexity or performance bottlenecks. It keeps the focus on innovation—not tool constraints—delivering top performance, deep customization, and great cross-platform UX while staying independent of GAFA ecosystems.",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": "1,089",
+      "forks": "241",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4325047?s=40&v=4",
+          "name": "Zeus64",
+          "url": "https://github.com/Zeus64"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2126394?s=40&v=4",
+          "name": "checkdigits",
+          "url": "https://github.com/checkdigits"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5359931?s=40&v=4",
+          "name": "marlonnardi",
+          "url": "https://github.com/marlonnardi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24677471?s=40&v=4",
+          "name": "marcosnielsen",
+          "url": "https://github.com/marcosnielsen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24930020?s=40&v=4",
+          "name": "MuminjonGuru",
+          "url": "https://github.com/MuminjonGuru"
         }
       ]
     },
@@ -419,12 +429,39 @@
       ]
     },
     {
+      "title": "FrankBijnen/ExifToolGui",
+      "url": "https://github.com/FrankBijnen/ExifToolGui",
+      "description": "A GUI for ExifTool",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": "750",
+      "forks": "43",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63312605?s=40&v=4",
+          "name": "FrankBijnen",
+          "url": "https://github.com/FrankBijnen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67090612?s=40&v=4",
+          "name": "Temerold",
+          "url": "https://github.com/Temerold"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86864914?s=40&v=4",
+          "name": "wcxu21",
+          "url": "https://github.com/wcxu21"
+        }
+      ]
+    },
+    {
       "title": "jrsoftware/issrc",
       "url": "https://github.com/jrsoftware/issrc",
       "description": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "5,011",
+      "stars": "5,012",
       "forks": "1,058",
       "addStars": "11",
       "contributors": [

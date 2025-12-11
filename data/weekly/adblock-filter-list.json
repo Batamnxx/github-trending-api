@@ -2,7 +2,7 @@
   "title": "GitHub Adblock-filter-list Languages Weekly Trending",
   "description": "Weekly Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 07:29:12 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "uBlockOrigin/uAssets",
@@ -10,7 +10,7 @@
       "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "5,337",
+      "stars": "5,339",
       "forks": "932",
       "addStars": "19",
       "contributors": [
@@ -42,8 +42,8 @@
       "description": "EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "2,768",
-      "forks": "814",
+      "stars": "2,770",
+      "forks": "815",
       "addStars": "18",
       "contributors": [
         {
@@ -75,7 +75,7 @@
       "language": "Adblock Filter List",
       "languageColor": "#800000",
       "stars": "4,016",
-      "forks": "758",
+      "forks": "759",
       "addStars": "13",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "AdGuard DNS filter",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "1,104",
+      "stars": "1,105",
       "forks": "166",
       "addStars": "7",
       "contributors": [
@@ -139,43 +139,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/91964807?s=40&v=4",
           "name": "jellizaveta",
           "url": "https://github.com/jellizaveta"
-        }
-      ]
-    },
-    {
-      "title": "DandelionSprout/adfilt",
-      "url": "https://github.com/DandelionSprout/adfilt",
-      "description": "The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.",
-      "language": "Adblock Filter List",
-      "languageColor": "#800000",
-      "stars": "1,971",
-      "forks": "176",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22780683?s=40&v=4",
-          "name": "DandelionSprout",
-          "url": "https://github.com/DandelionSprout"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84232764?s=40&v=4",
-          "name": "iam-py-test",
-          "url": "https://github.com/iam-py-test"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84513173?s=40&v=4",
-          "name": "Nojuuu",
-          "url": "https://github.com/Nojuuu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66902050?s=40&v=4",
-          "name": "DeepChirp",
-          "url": "https://github.com/DeepChirp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8069557?s=40&v=4",
-          "name": "HankAviator",
-          "url": "https://github.com/HankAviator"
         }
       ]
     }

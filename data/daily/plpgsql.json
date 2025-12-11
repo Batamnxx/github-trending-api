@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "timescale/pgai",
@@ -10,8 +10,8 @@
       "description": "A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "5,553",
-      "forks": "289",
+      "stars": "5,554",
+      "forks": "290",
       "addStars": "4",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "OpenMapTiles Vector Tile Schema Implementation",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "2,920",
+      "stars": "2,921",
       "forks": "655",
       "addStars": "1",
       "contributors": [

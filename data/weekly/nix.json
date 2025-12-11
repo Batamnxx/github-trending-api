@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -11,7 +11,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "22,721",
-      "forks": "17,434",
+      "forks": "17,438",
       "addStars": "97",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Nix flake for a fully declarative NixOS on Raspberry Pi",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "343",
+      "stars": "344",
       "forks": "39",
       "addStars": "20",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,034",
+      "stars": "2,035",
       "forks": "164",
       "addStars": "18",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,467",
+      "stars": "3,468",
       "forks": "304",
       "addStars": "9",
       "contributors": [
@@ -259,7 +259,7 @@
       "description": "Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern. Mirror from https://tangled.org/oeiuwq.com/dendrix. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "59",
+      "stars": "61",
       "forks": "4",
       "addStars": "5",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,485",
+      "stars": "3,486",
       "forks": "173",
       "addStars": "17",
       "contributors": [
@@ -397,8 +397,8 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,836",
-      "forks": "831",
+      "stars": "2,837",
+      "forks": "832",
       "addStars": "17",
       "contributors": [
         {
@@ -429,7 +429,7 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "9,025",
+      "stars": "9,027",
       "forks": "2,226",
       "addStars": "40",
       "contributors": [
@@ -498,7 +498,7 @@
       "description": "Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,514",
+      "stars": "2,515",
       "forks": "363",
       "addStars": "14",
       "contributors": [
@@ -599,7 +599,7 @@
       "description": "General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,236",
+      "stars": "3,237",
       "forks": "188",
       "addStars": "16",
       "contributors": [
@@ -631,7 +631,7 @@
       "description": "Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "845",
+      "stars": "849",
       "forks": "83",
       "addStars": "11",
       "contributors": [

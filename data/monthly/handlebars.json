@@ -2,7 +2,7 @@
   "title": "GitHub Handlebars Languages Monthly Trending",
   "description": "Monthly Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "rust-lang/rust-by-example",
@@ -85,7 +85,7 @@
       "language": "Handlebars",
       "languageColor": "#f7931e",
       "stars": "219",
-      "forks": "6,297",
+      "forks": "6,296",
       "addStars": "1",
       "contributors": [
         {

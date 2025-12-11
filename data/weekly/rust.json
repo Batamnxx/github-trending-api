@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "rustfs/rustfs",
@@ -10,7 +10,7 @@
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,647",
+      "stars": "16,678",
       "forks": "724",
       "addStars": "4,669",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "23,649",
-      "forks": "2,122",
+      "stars": "23,737",
+      "forks": "2,129",
       "addStars": "617",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "The Parity Polkadot Blockchain SDK",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,603",
+      "stars": "2,606",
       "forks": "1,095",
       "addStars": "53",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "The Magic Mask for Android",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "57,488",
+      "stars": "57,493",
       "forks": "16,129",
       "addStars": "190",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Kanban board to manage your AI coding agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,456",
+      "stars": "6,459",
       "forks": "659",
       "addStars": "310",
       "contributors": [
@@ -191,7 +191,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "60,958",
-      "forks": "11,032",
+      "forks": "11,031",
       "addStars": "114",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,760",
-      "forks": "719",
+      "stars": "8,763",
+      "forks": "720",
       "addStars": "261",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,663",
-      "forks": "294",
+      "stars": "3,667",
+      "forks": "296",
       "addStars": "152",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "A markup-based typesetting system that is powerful and easy to learn.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,374",
+      "stars": "49,384",
       "forks": "1,356",
       "addStars": "448",
       "contributors": [
@@ -366,7 +366,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "24,862",
-      "forks": "1,961",
+      "forks": "1,962",
       "addStars": "150",
       "contributors": [
         {
@@ -402,7 +402,7 @@
       "description": "Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - agent routing and orchestration, guardrails, zero-code logs and traces, and unified access to LLMs (OpenAI, Anthropic, Ollama, etc.). Build agents faster and deliver them reliably to prod.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,540",
+      "stars": "4,542",
       "forks": "253",
       "addStars": "65",
       "contributors": [
@@ -439,8 +439,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "52,306",
-      "forks": "6,678",
+      "stars": "52,315",
+      "forks": "6,680",
       "addStars": "658",
       "contributors": [
         {
@@ -550,7 +550,7 @@
       "description": "Rust / Wasm framework for creating reliable and efficient web applications",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "32,196",
+      "stars": "32,198",
       "forks": "1,455",
       "addStars": "52",
       "contributors": [
@@ -582,7 +582,7 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,230",
+      "stars": "5,231",
       "forks": "204",
       "addStars": "88",
       "contributors": [
@@ -619,8 +619,8 @@
       "description": "A Git-compatible VCS that is both simple and powerful",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "22,938",
-      "forks": "835",
+      "stars": "22,950",
+      "forks": "834",
       "addStars": "207",
       "contributors": [
         {
@@ -652,7 +652,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "28,627",
-      "forks": "1,422",
+      "forks": "1,423",
       "addStars": "237",
       "contributors": [
         {
@@ -688,7 +688,7 @@
       "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "30,529",
+      "stars": "30,531",
       "forks": "1,083",
       "addStars": "81",
       "contributors": [
@@ -725,7 +725,7 @@
       "description": "🤖 Just a command runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "29,140",
+      "stars": "29,147",
       "forks": "627",
       "addStars": "186",
       "contributors": [

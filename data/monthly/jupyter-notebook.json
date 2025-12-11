@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Monthly Trending",
   "description": "Monthly Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 13:39:04 GMT",
+  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
   "items": [
     {
       "title": "microsoft/ML-For-Beginners",
@@ -10,8 +10,8 @@
       "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "81,543",
-      "forks": "19,104",
+      "stars": "81,570",
+      "forks": "19,116",
       "addStars": "2,545",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "176,262",
-      "forks": "55,113",
+      "stars": "176,275",
+      "forks": "55,114",
       "addStars": "2,155",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Repo to accompany my mastering LLM engineering course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "4,154",
-      "forks": "3,716",
+      "stars": "4,156",
+      "forks": "3,718",
       "addStars": "305",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "23,065",
-      "forks": "3,710",
+      "stars": "23,074",
+      "forks": "3,713",
       "addStars": "2,271",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "17,971",
-      "forks": "2,274",
+      "stars": "17,973",
+      "forks": "2,275",
       "addStars": "401",
       "contributors": [
         {
@@ -269,7 +269,7 @@
       "description": "A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5VL.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "8,980",
+      "stars": "8,982",
       "forks": "1,395",
       "addStars": "313",
       "contributors": [
@@ -454,7 +454,7 @@
       "description": "This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "15,714",
+      "stars": "15,724",
       "forks": "2,067",
       "addStars": "921",
       "contributors": [
@@ -469,6 +469,11 @@
           "url": "https://github.com/FareedKhan-dev"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/59469935?s=40&v=4",
+          "name": "NitishGourishetty",
+          "url": "https://github.com/NitishGourishetty"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/28788271?s=40&v=4",
           "name": "ranshn",
           "url": "https://github.com/ranshn"
@@ -477,11 +482,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/20304844?s=40&v=4",
           "name": "tylerhutcherson",
           "url": "https://github.com/tylerhutcherson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59469935?s=40&v=4",
-          "name": "NitishGourishetty",
-          "url": "https://github.com/NitishGourishetty"
         }
       ]
     },
@@ -491,8 +491,8 @@
       "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "52,863",
-      "forks": "6,171",
+      "stars": "52,866",
+      "forks": "6,173",
       "addStars": "476",
       "contributors": [
         {
@@ -528,8 +528,8 @@
       "description": "Repo for the Complete Agentic AI Engineering Course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "3,201",
-      "forks": "2,640",
+      "stars": "3,202",
+      "forks": "2,641",
       "addStars": "362",
       "contributors": [
         {
@@ -565,8 +565,8 @@
       "description": "A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "1,047",
-      "forks": "145",
+      "stars": "1,049",
+      "forks": "146",
       "addStars": "194",
       "contributors": [
         {
@@ -634,8 +634,8 @@
       "description": "Examples and guides for using the Gemini API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "15,816",
-      "forks": "2,308",
+      "stars": "15,819",
+      "forks": "2,309",
       "addStars": "456",
       "contributors": [
         {
@@ -708,7 +708,7 @@
       "description": "Silero Models: pre-trained text-to-speech models made embarrassingly simple",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "5,656",
+      "stars": "5,655",
       "forks": "358",
       "addStars": "106",
       "contributors": [

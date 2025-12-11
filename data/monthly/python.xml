@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Python Languages in GitHub</description>
-    <pubDate>Thu, 11 Dec 2025 13:39:04 GMT</pubDate>
+    <pubDate>Thu, 11 Dec 2025 19:24:14 GMT</pubDate>
     <item>
       <title>sansan0/TrendRadar</title>
       <link>https://github.com/sansan0/TrendRadar</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/sansan0/TrendRadar</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,724</stars>
-      <forks>20,363</forks>
+      <stars>38,738</stars>
+      <forks>20,366</forks>
       <addStars>33,441</addStars>
       <contributors>
         <contributor>
@@ -34,8 +34,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,283</stars>
-      <forks>1,888</forks>
+      <stars>17,330</stars>
+      <forks>1,899</forks>
       <addStars>6,924</addStars>
       <contributors>
         <contributor>
@@ -67,8 +67,8 @@
       <guid>https://github.com/MemoriLabs/Memori</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,027</stars>
-      <forks>696</forks>
+      <stars>10,173</stars>
+      <forks>700</forks>
       <addStars>7,849</addStars>
       <contributors>
         <contributor>
@@ -100,7 +100,7 @@
       <guid>https://github.com/microsoft/magentic-ui</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,005</stars>
+      <stars>9,011</stars>
       <forks>919</forks>
       <addStars>1,064</addStars>
       <contributors>
@@ -138,8 +138,8 @@
       <guid>https://github.com/usestrix/strix</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,479</stars>
-      <forks>1,779</forks>
+      <stars>17,489</stars>
+      <forks>1,780</forks>
       <addStars>9,157</addStars>
       <contributors>
         <contributor>
@@ -171,8 +171,8 @@
       <guid>https://github.com/anthropics/claude-quickstarts</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,899</stars>
-      <forks>2,066</forks>
+      <stars>11,925</stars>
+      <forks>2,071</forks>
       <addStars>1,598</addStars>
       <contributors>
         <contributor>
@@ -209,8 +209,8 @@
       <guid>https://github.com/ostris/ai-toolkit</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,044</stars>
-      <forks>955</forks>
+      <stars>8,052</stars>
+      <forks>956</forks>
       <addStars>1,190</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/datawhalechina/hello-agents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,678</stars>
-      <forks>839</forks>
+      <stars>7,755</stars>
+      <forks>849</forks>
       <addStars>3,567</addStars>
       <contributors>
         <contributor>
@@ -285,7 +285,7 @@
       <guid>https://github.com/trustedsec/social-engineer-toolkit</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,593</stars>
+      <stars>13,599</stars>
       <forks>3,168</forks>
       <addStars>950</addStars>
       <contributors>
@@ -318,8 +318,8 @@
       <guid>https://github.com/GoogleCloudPlatform/agent-starter-pack</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,955</stars>
-      <forks>1,072</forks>
+      <stars>4,050</stars>
+      <forks>1,080</forks>
       <addStars>1,042</addStars>
       <contributors>
         <contributor>
@@ -346,8 +346,8 @@
       <guid>https://github.com/HKUDS/LightRAG</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>25,791</stars>
-      <forks>3,688</forks>
+      <stars>25,804</stars>
+      <forks>3,692</forks>
       <addStars>3,285</addStars>
       <contributors>
         <contributor>
@@ -384,7 +384,7 @@
       <guid>https://github.com/lzhoang2801/OpCore-Simplify</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,801</stars>
+      <stars>3,804</stars>
       <forks>366</forks>
       <addStars>1,612</addStars>
       <contributors>
@@ -417,8 +417,8 @@
       <guid>https://github.com/comfyanonymous/ComfyUI</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>96,522</stars>
-      <forks>10,933</forks>
+      <stars>96,546</stars>
+      <forks>10,934</forks>
       <addStars>3,398</addStars>
       <contributors>
         <contributor>
@@ -455,8 +455,8 @@
       <guid>https://github.com/9001/copyparty</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,968</stars>
-      <forks>1,598</forks>
+      <stars>38,976</stars>
+      <forks>1,600</forks>
       <addStars>4,879</addStars>
       <contributors>
         <contributor>
@@ -493,7 +493,7 @@
       <guid>https://github.com/yeongpin/cursor-free-vip</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,620</stars>
+      <stars>45,626</stars>
       <forks>5,455</forks>
       <addStars>5,492</addStars>
       <contributors>
@@ -526,7 +526,7 @@
       <guid>https://github.com/langchain-ai/deepagents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,008</stars>
+      <stars>7,012</stars>
       <forks>1,078</forks>
       <addStars>1,433</addStars>
       <contributors>
@@ -564,8 +564,8 @@
       <guid>https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,470</stars>
-      <forks>106</forks>
+      <stars>1,473</stars>
+      <forks>107</forks>
       <addStars>417</addStars>
       <contributors>
         <contributor>
@@ -602,8 +602,8 @@
       <guid>https://github.com/sgl-project/sglang</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,191</stars>
-      <forks>3,712</forks>
+      <stars>21,194</stars>
+      <forks>3,714</forks>
       <addStars>1,471</addStars>
       <contributors>
         <contributor>

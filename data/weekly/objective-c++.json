@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c++ Languages Weekly Trending",
   "description": "Weekly Trending of Objective-c++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 10 Dec 2025 19:22:21 GMT",
+  "pubDate": "Thu, 11 Dec 2025 02:56:04 GMT",
   "items": [
     {
       "title": "software-mansion/react-native-enriched",
@@ -10,9 +10,9 @@
       "description": "Rich Text Editor for React Native",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "876",
+      "stars": "880",
       "forks": "25",
-      "addStars": "13",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/74370735?s=40&v=4",
@@ -84,7 +84,7 @@
       "description": "AutoRaise (and focus) a window when hovering over it with the mouse",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "2,315",
+      "stars": "2,316",
       "forks": "88",
       "addStars": "8",
       "contributors": [

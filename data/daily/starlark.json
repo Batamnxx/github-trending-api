@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 12 Dec 2025 02:54:43 GMT",
+  "pubDate": "Fri, 12 Dec 2025 07:27:27 GMT",
   "items": [
     {
       "title": "bazel-contrib/rules_python",
@@ -186,7 +186,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": "8,298",
-      "forks": "2,498",
+      "forks": "2,497",
       "addStars": "3",
       "contributors": [
         {
@@ -217,7 +217,7 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "21,817",
+      "stars": "21,820",
       "forks": "1,329",
       "addStars": "6",
       "contributors": [

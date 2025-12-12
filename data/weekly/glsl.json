@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Weekly Trending",
   "description": "Weekly Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 12 Dec 2025 02:54:43 GMT",
+  "pubDate": "Fri, 12 Dec 2025 07:27:27 GMT",
   "items": [
     {
       "title": "SaschaWillems/Vulkan",
@@ -10,8 +10,8 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "11,593",
-      "forks": "2,169",
+      "stars": "11,594",
+      "forks": "2,171",
       "addStars": "24",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "4,942",
+      "stars": "4,943",
       "forks": "136",
       "addStars": "39",
       "contributors": [

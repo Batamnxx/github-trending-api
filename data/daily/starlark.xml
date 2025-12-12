@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Starlark Languages in GitHub</description>
-    <pubDate>Fri, 12 Dec 2025 02:54:43 GMT</pubDate>
+    <pubDate>Fri, 12 Dec 2025 07:27:27 GMT</pubDate>
     <item>
       <title>bazel-contrib/rules_python</title>
       <link>https://github.com/bazel-contrib/rules_python</link>
@@ -192,7 +192,7 @@
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
       <stars>8,298</stars>
-      <forks>2,498</forks>
+      <forks>2,497</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -224,7 +224,7 @@
       <guid>https://github.com/GoogleContainerTools/distroless</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>21,817</stars>
+      <stars>21,820</stars>
       <forks>1,329</forks>
       <addStars>6</addStars>
       <contributors>

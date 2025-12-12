@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Weekly Trending",
   "description": "Weekly Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 11 Dec 2025 19:24:14 GMT",
+  "pubDate": "Fri, 12 Dec 2025 02:54:43 GMT",
   "items": [
     {
       "title": "patchy631/ai-engineering-hub",
@@ -10,9 +10,9 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "23,074",
-      "forks": "3,713",
-      "addStars": "1,848",
+      "stars": "23,083",
+      "forks": "3,716",
+      "addStars": "1,903",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38653995?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "81,570",
-      "forks": "19,116",
-      "addStars": "1,780",
+      "stars": "81,589",
+      "forks": "19,128",
+      "addStars": "1,970",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "103,631",
-      "forks": "54,989",
-      "addStars": "1,015",
+      "stars": "103,655",
+      "forks": "55,020",
+      "addStars": "1,045",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "46,680",
-      "forks": "16,011",
-      "addStars": "667",
+      "stars": "46,711",
+      "forks": "16,018",
+      "addStars": "739",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
@@ -155,7 +155,7 @@
       "languageColor": "#DA5B0B",
       "stars": "9,699",
       "forks": "1,272",
-      "addStars": "72",
+      "addStars": "73",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50672250?s=40&v=4",
@@ -191,8 +191,8 @@
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
       "stars": "46,285",
-      "forks": "18,638",
-      "addStars": "90",
+      "forks": "18,639",
+      "addStars": "74",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/781659?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,329",
-      "forks": "3,020",
-      "addStars": "358",
+      "stars": "18,354",
+      "forks": "3,026",
+      "addStars": "438",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28316913?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "Repo for the Complete Agentic AI Engineering Course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "3,202",
-      "forks": "2,641",
-      "addStars": "159",
+      "stars": "3,208",
+      "forks": "2,642",
+      "addStars": "194",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/96339824?s=40&v=4",
@@ -303,7 +303,7 @@
       "languageColor": "#DA5B0B",
       "stars": "3,258",
       "forks": "955",
-      "addStars": "40",
+      "addStars": "39",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1177582?s=40&v=4",
@@ -338,8 +338,8 @@
       "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "16,503",
-      "forks": "4,543",
+      "stars": "16,504",
+      "forks": "4,544",
       "addStars": "76",
       "contributors": [
         {
@@ -375,9 +375,9 @@
       "description": "📚 从零开始的大语言模型原理与实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "22,626",
+      "stars": "22,636",
       "forks": "2,033",
-      "addStars": "379",
+      "addStars": "366",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/77671993?s=40&v=4",
@@ -412,9 +412,9 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "176,275",
-      "forks": "55,114",
-      "addStars": "493",
+      "stars": "176,283",
+      "forks": "55,113",
+      "addStars": "521",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7474657?s=40&v=4",
@@ -449,9 +449,9 @@
       "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "5,248",
+      "stars": "5,250",
       "forks": "511",
-      "addStars": "159",
+      "addStars": "107",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45738728?s=40&v=4",
@@ -486,9 +486,9 @@
       "description": "Repo to accompany my mastering LLM engineering course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "4,156",
-      "forks": "3,718",
-      "addStars": "86",
+      "stars": "4,158",
+      "forks": "3,719",
+      "addStars": "89",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/96339824?s=40&v=4",
@@ -525,7 +525,7 @@
       "languageColor": "#DA5B0B",
       "stars": "17,713",
       "forks": "1,654",
-      "addStars": "56",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5498438?s=40&v=4",
@@ -560,9 +560,9 @@
       "description": "🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "9,491",
+      "stars": "9,493",
       "forks": "1,005",
-      "addStars": "34",
+      "addStars": "38",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10505555?s=40&v=4",
@@ -597,9 +597,9 @@
       "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "8,370",
-      "forks": "59,853",
-      "addStars": "21",
+      "stars": "8,373",
+      "forks": "59,856",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/730492?s=40&v=4",

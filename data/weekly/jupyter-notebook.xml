@@ -3,7 +3,7 @@
     <title>GitHub Jupyter-notebook Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Jupyter-notebook Languages in GitHub</description>
-    <pubDate>Thu, 11 Dec 2025 19:24:14 GMT</pubDate>
+    <pubDate>Fri, 12 Dec 2025 02:54:43 GMT</pubDate>
     <item>
       <title>patchy631/ai-engineering-hub</title>
       <link>https://github.com/patchy631/ai-engineering-hub</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/patchy631/ai-engineering-hub</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>23,074</stars>
-      <forks>3,713</forks>
-      <addStars>1,848</addStars>
+      <stars>23,083</stars>
+      <forks>3,716</forks>
+      <addStars>1,903</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/38653995?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/microsoft/ML-For-Beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>81,570</stars>
-      <forks>19,116</forks>
-      <addStars>1,780</addStars>
+      <stars>81,589</stars>
+      <forks>19,128</forks>
+      <addStars>1,970</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1450004?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/microsoft/generative-ai-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>103,631</stars>
-      <forks>54,989</forks>
-      <addStars>1,015</addStars>
+      <stars>103,655</stars>
+      <forks>55,020</forks>
+      <addStars>1,045</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7462909?s=40&amp;v=4</avatar>
@@ -125,9 +125,9 @@
       <guid>https://github.com/microsoft/ai-agents-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>46,680</stars>
-      <forks>16,011</forks>
-      <addStars>667</addStars>
+      <stars>46,711</stars>
+      <forks>16,018</forks>
+      <addStars>739</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4</avatar>
@@ -160,7 +160,7 @@
       <languageColor>#DA5B0B</languageColor>
       <stars>9,699</stars>
       <forks>1,272</forks>
-      <addStars>72</addStars>
+      <addStars>73</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/50672250?s=40&amp;v=4</avatar>
@@ -197,8 +197,8 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>46,285</stars>
-      <forks>18,638</forks>
-      <addStars>90</addStars>
+      <forks>18,639</forks>
+      <addStars>74</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/781659?s=40&amp;v=4</avatar>
@@ -234,9 +234,9 @@
       <guid>https://github.com/NirDiamant/GenAI_Agents</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>18,329</stars>
-      <forks>3,020</forks>
-      <addStars>358</addStars>
+      <stars>18,354</stars>
+      <forks>3,026</forks>
+      <addStars>438</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28316913?s=40&amp;v=4</avatar>
@@ -272,9 +272,9 @@
       <guid>https://github.com/ed-donner/agents</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>3,202</stars>
-      <forks>2,641</forks>
-      <addStars>159</addStars>
+      <stars>3,208</stars>
+      <forks>2,642</forks>
+      <addStars>194</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96339824?s=40&amp;v=4</avatar>
@@ -312,7 +312,7 @@
       <languageColor>#DA5B0B</languageColor>
       <stars>3,258</stars>
       <forks>955</forks>
-      <addStars>40</addStars>
+      <addStars>39</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1177582?s=40&amp;v=4</avatar>
@@ -348,8 +348,8 @@
       <guid>https://github.com/mrdbourke/pytorch-deep-learning</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>16,503</stars>
-      <forks>4,543</forks>
+      <stars>16,504</stars>
+      <forks>4,544</forks>
       <addStars>76</addStars>
       <contributors>
         <contributor>
@@ -386,9 +386,9 @@
       <guid>https://github.com/datawhalechina/happy-llm</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>22,626</stars>
+      <stars>22,636</stars>
       <forks>2,033</forks>
-      <addStars>379</addStars>
+      <addStars>366</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/77671993?s=40&amp;v=4</avatar>
@@ -424,9 +424,9 @@
       <guid>https://github.com/jackfrued/Python-100-Days</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>176,275</stars>
-      <forks>55,114</forks>
-      <addStars>493</addStars>
+      <stars>176,283</stars>
+      <forks>55,113</forks>
+      <addStars>521</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7474657?s=40&amp;v=4</avatar>
@@ -462,9 +462,9 @@
       <guid>https://github.com/PriorLabs/TabPFN</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>5,248</stars>
+      <stars>5,250</stars>
       <forks>511</forks>
-      <addStars>159</addStars>
+      <addStars>107</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45738728?s=40&amp;v=4</avatar>
@@ -500,9 +500,9 @@
       <guid>https://github.com/ed-donner/llm_engineering</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>4,156</stars>
-      <forks>3,718</forks>
-      <addStars>86</addStars>
+      <stars>4,158</stars>
+      <forks>3,719</forks>
+      <addStars>89</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96339824?s=40&amp;v=4</avatar>
@@ -540,7 +540,7 @@
       <languageColor>#DA5B0B</languageColor>
       <stars>17,713</stars>
       <forks>1,654</forks>
-      <addStars>56</addStars>
+      <addStars>57</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5498438?s=40&amp;v=4</avatar>
@@ -576,9 +576,9 @@
       <guid>https://github.com/advimman/lama</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>9,491</stars>
+      <stars>9,493</stars>
       <forks>1,005</forks>
-      <addStars>34</addStars>
+      <addStars>38</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10505555?s=40&amp;v=4</avatar>
@@ -614,9 +614,9 @@
       <guid>https://github.com/digitalinnovationone/dio-lab-open-source</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>8,370</stars>
-      <forks>59,853</forks>
-      <addStars>21</addStars>
+      <stars>8,373</stars>
+      <forks>59,856</forks>
+      <addStars>20</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/730492?s=40&amp;v=4</avatar>

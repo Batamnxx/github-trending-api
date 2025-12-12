@@ -2,7 +2,7 @@
   "title": "GitHub Autoit Languages Daily Trending",
   "description": "Daily Trending of Autoit Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 12 Dec 2025 13:34:54 GMT",
+  "pubDate": "Fri, 12 Dec 2025 19:21:02 GMT",
   "items": [
     {
       "title": "rcmaehl/MSEdgeRedirect",
@@ -10,7 +10,7 @@
       "description": "A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser",
       "language": "AutoIt",
       "languageColor": "#1C3552",
-      "stars": "5,482",
+      "stars": "5,483",
       "forks": "110",
       "addStars": "2",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 13 Dec 2025 02:47:15 GMT",
+  "pubDate": "Sat, 13 Dec 2025 07:25:56 GMT",
   "items": [
     {
       "title": "kavishdevar/librepods",
@@ -10,8 +10,8 @@
       "description": "AirPods liberated from Apple's ecosystem.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "21,630",
-      "forks": "1,100",
+      "stars": "21,686",
+      "forks": "1,103",
       "addStars": "20,041",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,871",
-      "forks": "20,420",
+      "stars": "38,899",
+      "forks": "20,426",
       "addStars": "31,125",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,600",
-      "forks": "1,931",
+      "stars": "17,627",
+      "forks": "1,937",
       "addStars": "7,669",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,369",
-      "forks": "704",
+      "stars": "10,402",
+      "forks": "705",
       "addStars": "8,057",
       "contributors": [
         {
@@ -133,7 +133,7 @@
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,898",
+      "stars": "16,919",
       "forks": "734",
       "addStars": "5,667",
       "contributors": [
@@ -170,7 +170,7 @@
       "description": "A research prototype of a human-centered web agent",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,046",
+      "stars": "9,050",
       "forks": "921",
       "addStars": "1,135",
       "contributors": [
@@ -207,8 +207,8 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,067",
-      "forks": "2,079",
+      "stars": "12,092",
+      "forks": "2,080",
       "addStars": "1,812",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,353",
-      "forks": "899",
+      "stars": "8,450",
+      "forks": "908",
       "addStars": "4,658",
       "contributors": [
         {
@@ -281,7 +281,7 @@
       "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,240",
+      "stars": "6,244",
       "forks": "426",
       "addStars": "3,575",
       "contributors": [
@@ -318,8 +318,8 @@
       "description": "Open-source AI agents for penetration testing",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,592",
-      "forks": "1,793",
+      "stars": "17,604",
+      "forks": "1,795",
       "addStars": "7,634",
       "contributors": [
         {
@@ -350,7 +350,7 @@
       "description": "The ultimate training toolkit for finetuning diffusion models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,105",
+      "stars": "8,110",
       "forks": "960",
       "addStars": "1,277",
       "contributors": [
@@ -387,8 +387,8 @@
       "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,402",
-      "forks": "1,116",
+      "stars": "4,459",
+      "forks": "1,119",
       "addStars": "1,433",
       "contributors": [
         {
@@ -414,8 +414,8 @@
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "87,086",
-      "forks": "9,959",
+      "stars": "87,104",
+      "forks": "9,960",
       "addStars": "5,222",
       "contributors": [
         {
@@ -451,7 +451,7 @@
       "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,660",
+      "stars": "13,665",
       "forks": "3,174",
       "addStars": "1,067",
       "contributors": [
@@ -483,8 +483,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "38,381",
-      "forks": "3,235",
+      "stars": "38,410",
+      "forks": "3,242",
       "addStars": "5,929",
       "contributors": [
         {
@@ -520,8 +520,8 @@
       "description": "Elegant reading of real-time and hottest news",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,217",
-      "forks": "4,520",
+      "stars": "15,223",
+      "forks": "4,521",
       "addStars": "1,380",
       "contributors": [
         {
@@ -557,7 +557,7 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "84,981",
+      "stars": "84,988",
       "forks": "3,794",
       "addStars": "3,015",
       "contributors": [
@@ -589,8 +589,8 @@
       "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,874",
-      "forks": "3,705",
+      "stars": "25,878",
+      "forks": "3,706",
       "addStars": "3,338",
       "contributors": [
         {

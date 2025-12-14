@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 14 Dec 2025 03:00:25 GMT",
+  "pubDate": "Sun, 14 Dec 2025 07:23:35 GMT",
   "items": [
     {
       "title": "simplex-chat/simplex-chat",
@@ -47,7 +47,7 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "26,240",
+      "stars": "26,241",
       "forks": "1,138",
       "addStars": "6",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,770",
+      "stars": "40,772",
       "forks": "3,709",
       "addStars": "13",
       "contributors": [

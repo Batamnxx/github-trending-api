@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Monthly Trending",
   "description": "Monthly Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 14 Dec 2025 13:27:12 GMT",
+  "pubDate": "Sun, 14 Dec 2025 19:19:42 GMT",
   "items": [
     {
       "title": "guchengwuyue/yshop-drink",
@@ -69,7 +69,7 @@
       "description": "Partition management extension for PostgreSQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "2,529",
+      "stars": "2,528",
       "forks": "305",
       "addStars": "42",
       "contributors": [

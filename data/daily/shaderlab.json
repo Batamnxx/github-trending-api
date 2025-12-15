@@ -2,7 +2,7 @@
   "title": "GitHub Shaderlab Languages Daily Trending",
   "description": "Daily Trending of Shaderlab Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 14 Dec 2025 19:19:42 GMT",
+  "pubDate": "Mon, 15 Dec 2025 03:00:56 GMT",
   "items": [
     {
       "title": "poiyomi/PoiyomiToonShader",
@@ -48,8 +48,8 @@
       "language": "ShaderLab",
       "languageColor": "#222c37",
       "stars": "1,306",
-      "forks": "143",
-      "addStars": "2",
+      "forks": "144",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/74490257?s=40&v=4",

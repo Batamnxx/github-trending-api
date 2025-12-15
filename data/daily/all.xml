@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 15 Dec 2025 03:00:56 GMT</pubDate>
+    <pubDate>Mon, 15 Dec 2025 07:29:35 GMT</pubDate>
     <item>
       <title>simstudioai/sim</title>
       <link>https://github.com/simstudioai/sim</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/simstudioai/sim</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,411</stars>
-      <forks>2,641</forks>
+      <stars>20,704</stars>
+      <forks>2,664</forks>
       <addStars>235</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/openai/codex</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>53,252</stars>
-      <forks>6,763</forks>
+      <stars>53,492</stars>
+      <forks>6,775</forks>
       <addStars>121</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/mdn/content</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>10,037</stars>
-      <forks>22,987</forks>
+      <stars>10,096</stars>
+      <forks>22,995</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
@@ -125,7 +125,7 @@
       <guid>https://github.com/Morganamilo/paru</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>7,823</stars>
+      <stars>7,838</stars>
       <forks>288</forks>
       <addStars>45</addStars>
       <contributors>
@@ -163,8 +163,8 @@
       <guid>https://github.com/Mebus/cupp</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,227</stars>
-      <forks>1,339</forks>
+      <stars>5,250</stars>
+      <forks>1,344</forks>
       <addStars>19</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/ZJU-LLMs/Foundations-of-LLMs</guid>
       <language/>
       <languageColor/>
-      <stars>13,757</stars>
-      <forks>1,278</forks>
+      <stars>13,873</stars>
+      <forks>1,291</forks>
       <addStars>227</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/daytonaio/daytona</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>37,267</stars>
-      <forks>2,786</forks>
+      <stars>37,323</stars>
+      <forks>2,787</forks>
       <addStars>482</addStars>
       <contributors>
         <contributor>
@@ -277,8 +277,8 @@
       <guid>https://github.com/shadcn-ui/ui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>102,370</stars>
-      <forks>7,445</forks>
+      <stars>102,441</stars>
+      <forks>7,449</forks>
       <addStars>388</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/datawhalechina/hello-agents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,186</stars>
-      <forks>972</forks>
+      <stars>9,367</stars>
+      <forks>983</forks>
       <addStars>354</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/HuLaSpark/HuLa</guid>
       <language>Vue</language>
       <languageColor>#41b883</languageColor>
-      <stars>5,982</stars>
-      <forks>800</forks>
+      <stars>6,093</stars>
+      <forks>803</forks>
       <addStars>91</addStars>
       <contributors>
         <contributor>
@@ -381,8 +381,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,891</stars>
-      <forks>341</forks>
+      <stars>6,157</stars>
+      <forks>355</forks>
       <addStars>334</addStars>
       <contributors>
         <contributor>
@@ -409,8 +409,8 @@
       <guid>https://github.com/thinking-machines-lab/tinker-cookbook</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,486</stars>
-      <forks>230</forks>
+      <stars>2,501</stars>
+      <forks>234</forks>
       <addStars>38</addStars>
       <contributors>
         <contributor>
@@ -447,7 +447,7 @@
       <guid>https://github.com/tursodatabase/turso</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>15,526</stars>
+      <stars>15,561</stars>
       <forks>636</forks>
       <addStars>143</addStars>
       <contributors>
@@ -485,8 +485,8 @@
       <guid>https://github.com/Tencent/WeKnora</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>8,811</stars>
-      <forks>956</forks>
+      <stars>8,892</stars>
+      <forks>960</forks>
       <addStars>212</addStars>
       <contributors>
         <contributor>
@@ -523,8 +523,8 @@
       <guid>https://github.com/virattt/ai-hedge-fund</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,757</stars>
-      <forks>7,610</forks>
+      <stars>42,806</stars>
+      <forks>7,615</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>

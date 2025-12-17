@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Monthly Trending",
   "description": "Monthly Trending of Smali Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 17 Dec 2025 02:52:05 GMT",
+  "pubDate": "Wed, 17 Dec 2025 07:27:29 GMT",
   "items": [
     {
       "title": "AhMyth/AhMyth-Android-RAT",
@@ -11,7 +11,7 @@
       "language": "Smali",
       "languageColor": "#ccc",
       "stars": "5,010",
-      "forks": "1,814",
+      "forks": "1,815",
       "addStars": "42",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Cross-Platform Android Remote Administration Tool | Official maintained repository for the AhMyth R.A.T Project | A dedicated revival of the original repository at https://GitHub.com/AhMyth/AhMyth-Android-RAT",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "1,151",
+      "stars": "1,152",
       "forks": "301",
       "addStars": "42",
       "contributors": [

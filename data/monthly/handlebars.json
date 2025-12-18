@@ -2,16 +2,16 @@
   "title": "GitHub Handlebars Languages Monthly Trending",
   "description": "Monthly Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 18 Dec 2025 13:36:18 GMT",
+  "pubDate": "Thu, 18 Dec 2025 19:20:24 GMT",
   "items": [
     {
       "title": "CrunchyData/postgres-operator-examples",
       "url": "https://github.com/CrunchyData/postgres-operator-examples",
       "description": "Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data",
-      "language": "Handlebars",
-      "languageColor": "#f7931e",
+      "language": "Smarty",
+      "languageColor": "#f0c040",
       "stars": "220",
-      "forks": "6,305",
+      "forks": "6,307",
       "addStars": "2",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Handlebars",
       "languageColor": "#f7931e",
       "stars": "7,747",
-      "forks": "1,489",
+      "forks": "1,490",
       "addStars": "48",
       "contributors": [
         {
@@ -99,14 +99,14 @@
           "url": "https://github.com/marc-gr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11301409?s=40&v=4",
-          "name": "kcreddy",
-          "url": "https://github.com/kcreddy"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/4565752?s=40&v=4",
           "name": "andrewkroh",
           "url": "https://github.com/andrewkroh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11301409?s=40&v=4",
+          "name": "kcreddy",
+          "url": "https://github.com/kcreddy"
         }
       ]
     },

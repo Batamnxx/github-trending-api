@@ -3,7 +3,7 @@
     <title>GitHub Handlebars Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Handlebars Languages in GitHub</description>
-    <pubDate>Wed, 17 Dec 2025 19:23:50 GMT</pubDate>
+    <pubDate>Thu, 18 Dec 2025 02:53:06 GMT</pubDate>
     <item>
       <title>rust-lang/rust-by-example</title>
       <link>https://github.com/rust-lang/rust-by-example</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/rust-lang/rust-by-example</guid>
       <language>Handlebars</language>
       <languageColor>#f7931e</languageColor>
-      <stars>7,745</stars>
+      <stars>7,746</stars>
       <forks>1,489</forks>
-      <addStars>3</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/27786?s=40&amp;v=4</avatar>
@@ -64,14 +64,14 @@
           <url>https://github.com/marc-gr</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4565752?s=40&amp;v=4</avatar>
-          <name>andrewkroh</name>
-          <url>https://github.com/andrewkroh</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11301409?s=40&amp;v=4</avatar>
           <name>kcreddy</name>
           <url>https://github.com/kcreddy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4565752?s=40&amp;v=4</avatar>
+          <name>andrewkroh</name>
+          <url>https://github.com/andrewkroh</url>
         </contributor>
       </contributors>
     </item>
@@ -83,8 +83,8 @@
       <language>Handlebars</language>
       <languageColor>#f7931e</languageColor>
       <stars>220</stars>
-      <forks>6,304</forks>
-      <addStars>1</addStars>
+      <forks>6,305</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1694?s=40&amp;v=4</avatar>
@@ -122,7 +122,7 @@
       <languageColor>#f7931e</languageColor>
       <stars>484</stars>
       <forks>390</forks>
-      <addStars>0</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/326577?s=40&amp;v=4</avatar>

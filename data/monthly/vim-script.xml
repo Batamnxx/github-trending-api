@@ -3,7 +3,7 @@
     <title>GitHub Vim-script Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Vim-script Languages in GitHub</description>
-    <pubDate>Thu, 18 Dec 2025 02:53:06 GMT</pubDate>
+    <pubDate>Thu, 18 Dec 2025 07:27:46 GMT</pubDate>
     <item>
       <title>sainnhe/everforest</title>
       <link>https://github.com/sainnhe/everforest</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/sainnhe/everforest</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>3,732</stars>
+      <stars>3,731</stars>
       <forks>142</forks>
       <addStars>67</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/neovim/neovim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>95,013</stars>
+      <stars>95,012</stars>
       <forks>6,466</forks>
       <addStars>871</addStars>
       <contributors>
@@ -234,7 +234,7 @@
       <guid>https://github.com/justinmk/vim-sneak</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>3,472</stars>
+      <stars>3,473</stars>
       <forks>90</forks>
       <addStars>18</addStars>
       <contributors>
@@ -577,7 +577,7 @@
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
       <stars>39,416</stars>
-      <forks>5,891</forks>
+      <forks>5,890</forks>
       <addStars>187</addStars>
       <contributors>
         <contributor>

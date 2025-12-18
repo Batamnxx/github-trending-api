@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Weekly Trending",
   "description": "Weekly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 18 Dec 2025 02:53:06 GMT",
+  "pubDate": "Thu, 18 Dec 2025 07:27:46 GMT",
   "items": [
     {
       "title": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
@@ -47,7 +47,7 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "7,894",
+      "stars": "7,895",
       "forks": "1,993",
       "addStars": "39",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "👻🎥 Control the movement and dynamically tween 2D & 3D cameras. Built for Godot 4. Inspired by Cinemachine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "3,000",
+      "stars": "3,001",
       "forks": "113",
       "addStars": "16",
       "contributors": [

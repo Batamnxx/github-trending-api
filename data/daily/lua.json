@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 19 Dec 2025 02:54:56 GMT",
+  "pubDate": "Fri, 19 Dec 2025 07:26:36 GMT",
   "items": [
     {
       "title": "olimorris/codecompanion.nvim",
@@ -10,7 +10,7 @@
       "description": "✨ AI Coding, Vim Style",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "5,793",
+      "stars": "5,794",
       "forks": "342",
       "addStars": "4",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "14,604",
+      "stars": "14,612",
       "forks": "930",
       "addStars": "41",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "🧩 Claude Code Neovim IDE Extension",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,526",
+      "stars": "1,528",
       "forks": "109",
       "addStars": "5",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "24,545",
+      "stars": "24,546",
       "forks": "1,579",
       "addStars": "13",
       "contributors": [
@@ -175,7 +175,7 @@
       "description": "Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。Q群：11033572/11631066",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,315",
+      "stars": "2,317",
       "forks": "91",
       "addStars": "22",
       "contributors": [
@@ -207,8 +207,8 @@
       "description": "💤 A modern plugin manager for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "19,702",
-      "forks": "518",
+      "stars": "19,707",
+      "forks": "520",
       "addStars": "6",
       "contributors": [
         {
@@ -271,8 +271,8 @@
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "28,660",
-      "forks": "42,627",
+      "stars": "28,664",
+      "forks": "42,635",
       "addStars": "21",
       "contributors": [
         {
@@ -345,7 +345,7 @@
       "description": "Obsidian 🤝 Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "5,762",
+      "stars": "5,764",
       "forks": "245",
       "addStars": "7",
       "contributors": [
@@ -414,7 +414,7 @@
       "description": "The Cloud-Native API Gateway and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "15,985",
+      "stars": "15,986",
       "forks": "2,748",
       "addStars": "5",
       "contributors": [
@@ -451,8 +451,8 @@
       "description": "Turn any webpage/Vue/React and so on into desktop and mobile app with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app/",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,361",
-      "forks": "3,901",
+      "stars": "4,371",
+      "forks": "3,899",
       "addStars": "19",
       "contributors": [
         {

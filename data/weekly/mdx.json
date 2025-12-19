@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Weekly Trending",
   "description": "Weekly Trending of Mdx Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 19 Dec 2025 02:54:56 GMT",
+  "pubDate": "Fri, 19 Dec 2025 07:26:36 GMT",
   "items": [
     {
       "title": "huggingface/agents-course",
@@ -10,8 +10,8 @@
       "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "24,273",
-      "forks": "1,714",
+      "stars": "24,276",
+      "forks": "1,713",
       "addStars": "201",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "36,271",
+      "stars": "36,282",
       "forks": "3,083",
       "addStars": "232",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "173,817",
+      "stars": "173,818",
       "forks": "79,172",
       "addStars": "57",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "67,935",
-      "forks": "7,198",
+      "stars": "67,940",
+      "forks": "7,201",
       "addStars": "350",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "A highly opinionated, zero-configuration linter and formatter.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "2,406",
+      "stars": "2,407",
       "forks": "78",
       "addStars": "49",
       "contributors": [
@@ -171,7 +171,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "4,199",
-      "forks": "10,929",
+      "forks": "10,930",
       "addStars": "32",
       "contributors": [
         {
@@ -208,7 +208,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "563",
-      "forks": "3,641",
+      "forks": "3,642",
       "addStars": "4",
       "contributors": [
         {
@@ -415,7 +415,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "152",
-      "forks": "1,456",
+      "forks": "1,459",
       "addStars": "11",
       "contributors": [
         {
@@ -599,7 +599,7 @@
       "description": "A collection of modern, server-safe React hooks – from the ui.dev team",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "11,268",
+      "stars": "11,273",
       "forks": "582",
       "addStars": "41",
       "contributors": [

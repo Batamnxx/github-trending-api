@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Fri, 19 Dec 2025 13:33:02 GMT</pubDate>
+    <pubDate>Fri, 19 Dec 2025 19:20:32 GMT</pubDate>
     <item>
       <title>danieljprice/phantom</title>
       <link>https://github.com/danieljprice/phantom</link>
@@ -88,7 +88,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>1,539</stars>
-      <forks>805</forks>
+      <forks>806</forks>
       <addStars>29</addStars>
       <contributors>
         <contributor>

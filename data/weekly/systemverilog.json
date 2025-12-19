@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 19 Dec 2025 13:33:02 GMT",
+  "pubDate": "Fri, 19 Dec 2025 19:20:32 GMT",
   "items": [
     {
       "title": "verilator/verilator",
@@ -10,7 +10,7 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,242",
+      "stars": "3,243",
       "forks": "730",
       "addStars": "23",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": "1,705",
-      "forks": "671",
+      "forks": "672",
       "addStars": "5",
       "contributors": [
         {

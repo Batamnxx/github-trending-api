@@ -2,7 +2,7 @@
   "title": "GitHub Typst Languages Monthly Trending",
   "description": "Monthly Trending of Typst Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 19 Dec 2025 13:33:02 GMT",
+  "pubDate": "Fri, 19 Dec 2025 19:20:32 GMT",
   "items": [
     {
       "title": "lilaq-project/lilaq",
@@ -25,19 +25,19 @@
           "url": "https://github.com/kianmeng"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/5060853?s=40&v=4",
+          "name": "koole",
+          "url": "https://github.com/koole"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/13004777?s=40&v=4",
           "name": "xkevio",
           "url": "https://github.com/xkevio"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19860638?s=40&v=4",
-          "name": "eltos",
-          "url": "https://github.com/eltos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25280710?s=40&v=4",
-          "name": "Xendergo",
-          "url": "https://github.com/Xendergo"
+          "avatar": "https://avatars.githubusercontent.com/u/16924802?s=40&v=4",
+          "name": "bastienvoirin",
+          "url": "https://github.com/bastienvoirin"
         }
       ]
     },
@@ -79,7 +79,7 @@
       "description": "CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.",
       "language": "Typst",
       "languageColor": "#239dad",
-      "stars": "1,539",
+      "stars": "1,540",
       "forks": "64",
       "addStars": "41",
       "contributors": [

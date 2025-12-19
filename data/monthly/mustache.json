@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Monthly Trending",
   "description": "Monthly Trending of Mustache Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 19 Dec 2025 13:33:02 GMT",
+  "pubDate": "Fri, 19 Dec 2025 19:20:32 GMT",
   "items": [
     {
       "title": "prometheus-community/helm-charts",
@@ -11,7 +11,7 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": "5,909",
-      "forks": "5,345",
+      "forks": "5,346",
       "addStars": "67",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "ArgoProj Helm Charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": "2,173",
+      "stars": "2,174",
       "forks": "2,023",
       "addStars": "37",
       "contributors": [
@@ -207,7 +207,7 @@
       "description": "My awesome README.md",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": "515",
+      "stars": "514",
       "forks": "1,197",
       "addStars": "5",
       "contributors": [

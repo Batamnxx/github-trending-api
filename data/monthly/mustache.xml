@@ -3,7 +3,7 @@
     <title>GitHub Mustache Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Mustache Languages in GitHub</description>
-    <pubDate>Fri, 19 Dec 2025 13:33:02 GMT</pubDate>
+    <pubDate>Fri, 19 Dec 2025 19:20:32 GMT</pubDate>
     <item>
       <title>prometheus-community/helm-charts</title>
       <link>https://github.com/prometheus-community/helm-charts</link>
@@ -12,7 +12,7 @@
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
       <stars>5,909</stars>
-      <forks>5,345</forks>
+      <forks>5,346</forks>
       <addStars>67</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/argoproj/argo-helm</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>2,173</stars>
+      <stars>2,174</stars>
       <forks>2,023</forks>
       <addStars>37</addStars>
       <contributors>
@@ -214,7 +214,7 @@
       <guid>https://github.com/thmsgbrt/thmsgbrt</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>515</stars>
+      <stars>514</stars>
       <forks>1,197</forks>
       <addStars>5</addStars>
       <contributors>

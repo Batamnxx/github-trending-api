@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Monthly Trending",
   "description": "Monthly Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 20 Dec 2025 13:27:37 GMT",
+  "pubDate": "Sat, 20 Dec 2025 19:19:46 GMT",
   "items": [
     {
       "title": "ocaml/ocaml",
@@ -296,7 +296,7 @@
       "description": "A composable build system for OCaml.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "1,811",
+      "stars": "1,812",
       "forks": "456",
       "addStars": "12",
       "contributors": [

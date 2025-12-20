@@ -2,7 +2,7 @@
   "title": "GitHub Svelte Languages Monthly Trending",
   "description": "Monthly Trending of Svelte Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 20 Dec 2025 02:46:28 GMT",
+  "pubDate": "Sat, 20 Dec 2025 07:22:37 GMT",
   "items": [
     {
       "title": "open-webui/open-webui",
@@ -10,8 +10,8 @@
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "118,251",
-      "forks": "16,655",
+      "stars": "118,267",
+      "forks": "16,657",
       "addStars": "2,847",
       "contributors": [
         {
@@ -64,7 +64,7 @@
       "description": "",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "1,816",
+      "stars": "1,817",
       "forks": "219",
       "addStars": "1,112",
       "contributors": [
@@ -197,7 +197,7 @@
       "description": "Svelte AI Elements is a custom registry built on top of shadcn-svelte to help you build AI-native applications faster.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "182",
+      "stars": "183",
       "forks": "8",
       "addStars": "83",
       "contributors": [
@@ -234,7 +234,7 @@
       "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "39,674",
+      "stars": "39,675",
       "forks": "1,590",
       "addStars": "356",
       "contributors": [
@@ -271,8 +271,8 @@
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "37,663",
-      "forks": "3,099",
+      "stars": "37,666",
+      "forks": "3,100",
       "addStars": "453",
       "contributors": [
         {
@@ -308,7 +308,7 @@
       "description": "Turn key shadcn-svelte components to help finish your app.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "438",
+      "stars": "439",
       "forks": "22",
       "addStars": "45",
       "contributors": [

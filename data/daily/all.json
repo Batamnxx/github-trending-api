@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 21 Dec 2025 03:00:33 GMT",
+  "pubDate": "Sun, 21 Dec 2025 07:23:42 GMT",
   "items": [
     {
       "title": "exo-explore/exo",
@@ -10,8 +10,8 @@
       "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,636",
-      "forks": "2,341",
+      "stars": "34,815",
+      "forks": "2,345",
       "addStars": "618",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,061",
-      "forks": "219",
+      "stars": "2,128",
+      "forks": "224",
       "addStars": "85",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "47,455",
-      "forks": "3,328",
+      "stars": "47,506",
+      "forks": "3,332",
       "addStars": "337",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "15,076",
-      "forks": "1,765",
+      "stars": "15,150",
+      "forks": "1,771",
       "addStars": "231",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "72,869",
-      "forks": "16,363",
+      "stars": "72,915",
+      "forks": "16,365",
       "addStars": "307",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,721",
-      "forks": "134",
+      "stars": "1,770",
+      "forks": "140",
       "addStars": "311",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/",
       "language": "",
       "languageColor": "",
-      "stars": "47,198",
-      "forks": "3,175",
+      "stars": "47,273",
+      "forks": "3,180",
       "addStars": "244",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "A GPT-empowered penetration testing tool",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,814",
-      "forks": "1,435",
+      "stars": "9,845",
+      "forks": "1,437",
       "addStars": "256",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,778",
-      "forks": "876",
+      "stars": "6,821",
+      "forks": "878",
       "addStars": "300",
       "contributors": [
         {
@@ -318,7 +318,7 @@
       "description": "An extremely fast Python type checker and language server, written in Rust.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,269",
+      "stars": "15,315",
       "forks": "160",
       "addStars": "97",
       "contributors": [
@@ -350,8 +350,8 @@
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "105,881",
-      "forks": "4,845",
+      "stars": "105,945",
+      "forks": "4,849",
       "addStars": "228",
       "contributors": [
         {

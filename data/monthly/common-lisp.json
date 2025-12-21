@@ -2,7 +2,7 @@
   "title": "GitHub Common-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Common-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 21 Dec 2025 13:27:50 GMT",
+  "pubDate": "Sun, 21 Dec 2025 19:19:30 GMT",
   "items": [
     {
       "title": "atlas-engineer/nyxt",
@@ -104,14 +104,14 @@
           "url": "https://github.com/orodley"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13713?s=40&v=4",
-          "name": "Ferada",
-          "url": "https://github.com/Ferada"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/6486990?s=40&v=4",
           "name": "kchanqvq",
           "url": "https://github.com/kchanqvq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13713?s=40&v=4",
+          "name": "Ferada",
+          "url": "https://github.com/Ferada"
         }
       ]
     }

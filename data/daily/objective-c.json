@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 20 Dec 2025 19:19:46 GMT",
+  "pubDate": "Sun, 21 Dec 2025 03:00:33 GMT",
   "items": [
     {
       "title": "sparkle-project/Sparkle",
@@ -47,9 +47,9 @@
       "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "16,661",
+      "stars": "16,663",
       "forks": "1,270",
-      "addStars": "5",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/427546?s=40&v=4",
@@ -197,7 +197,7 @@
       "languageColor": "#438eff",
       "stars": "7,237",
       "forks": "281",
-      "addStars": "2",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10710367?s=40&v=4",

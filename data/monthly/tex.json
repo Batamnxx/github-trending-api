@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Monthly Trending",
   "description": "Monthly Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 22 Dec 2025 03:03:00 GMT",
+  "pubDate": "Mon, 22 Dec 2025 07:29:12 GMT",
   "items": [
     {
       "title": "riscv/riscv-isa-manual",
@@ -84,7 +84,7 @@
       "description": "Latex code for making neural networks diagrams",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "24,267",
+      "stars": "24,268",
       "forks": "3,033",
       "addStars": "169",
       "contributors": [
@@ -301,7 +301,7 @@
       "description": "贵校课程资料民间整理",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "33,172",
+      "stars": "33,175",
       "forks": "8,283",
       "addStars": "106",
       "contributors": [

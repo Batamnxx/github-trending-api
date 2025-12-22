@@ -3,7 +3,7 @@
     <title>GitHub Yaml Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Yaml Languages in GitHub</description>
-    <pubDate>Mon, 22 Dec 2025 03:03:00 GMT</pubDate>
+    <pubDate>Mon, 22 Dec 2025 07:29:12 GMT</pubDate>
     <item>
       <title>usnistgov/macos_security</title>
       <link>https://github.com/usnistgov/macos_security</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/web-platform-dx/web-features</guid>
       <language>YAML</language>
       <languageColor>#cb171e</languageColor>
-      <stars>741</stars>
-      <forks>222</forks>
+      <stars>743</stars>
+      <forks>223</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
@@ -115,7 +115,7 @@
       <guid>https://github.com/kubeflow/manifests</guid>
       <language>YAML</language>
       <languageColor>#cb171e</languageColor>
-      <stars>974</stars>
+      <stars>975</stars>
       <forks>1,022</forks>
       <addStars>3</addStars>
       <contributors>
@@ -154,7 +154,7 @@
       <language>YAML</language>
       <languageColor>#cb171e</languageColor>
       <stars>191</stars>
-      <forks>525</forks>
+      <forks>526</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>

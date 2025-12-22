@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Weekly Trending",
   "description": "Weekly Trending of Yaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 22 Dec 2025 03:03:00 GMT",
+  "pubDate": "Mon, 22 Dec 2025 07:29:12 GMT",
   "items": [
     {
       "title": "usnistgov/macos_security",
@@ -47,8 +47,8 @@
       "description": "Exploring how to present Web platform features adoptability",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "741",
-      "forks": "222",
+      "stars": "743",
+      "forks": "223",
       "addStars": "9",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "Kubeflow Deployment Manifests",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "974",
+      "stars": "975",
       "forks": "1,022",
       "addStars": "3",
       "contributors": [
@@ -149,7 +149,7 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": "191",
-      "forks": "525",
+      "forks": "526",
       "addStars": "1",
       "contributors": [
         {

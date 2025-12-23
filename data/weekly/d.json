@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Weekly Trending",
   "description": "Weekly Trending of D Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 23 Dec 2025 13:35:56 GMT",
+  "pubDate": "Tue, 23 Dec 2025 19:21:24 GMT",
   "items": [
     {
       "title": "abraunegg/onedrive",
@@ -10,7 +10,7 @@
       "description": "OneDrive Client for Linux",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "11,843",
+      "stars": "11,844",
       "forks": "900",
       "addStars": "26",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "811",
-      "forks": "90",
+      "stars": "810",
+      "forks": "91",
       "addStars": "15",
       "contributors": [
         {

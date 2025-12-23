@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Monthly Trending",
   "description": "Monthly Trending of D Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 23 Dec 2025 13:35:56 GMT",
+  "pubDate": "Tue, 23 Dec 2025 19:21:24 GMT",
   "items": [
     {
       "title": "Dadoum/anisette-v3-server",
@@ -47,8 +47,8 @@
       "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "811",
-      "forks": "90",
+      "stars": "810",
+      "forks": "91",
       "addStars": "53",
       "contributors": [
         {

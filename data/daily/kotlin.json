@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 23 Dec 2025 02:57:44 GMT",
+  "pubDate": "Tue, 23 Dec 2025 07:28:40 GMT",
   "items": [
     {
       "title": "bannedbook/fanqiang",
@@ -10,7 +10,7 @@
       "description": "翻墙-科学上网",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "41,250",
+      "stars": "41,251",
       "forks": "7,436",
       "addStars": "31",
       "contributors": [
@@ -32,7 +32,7 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "14,568",
+      "stars": "14,570",
       "forks": "1,228",
       "addStars": "14",
       "contributors": [
@@ -96,7 +96,7 @@
       "description": "Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,015",
+      "stars": "11,014",
       "forks": "805",
       "addStars": "1",
       "contributors": [
@@ -166,7 +166,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": "2,770",
-      "forks": "76",
+      "forks": "77",
       "addStars": "13",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "14,497",
-      "forks": "2,934",
+      "stars": "14,500",
+      "forks": "2,935",
       "addStars": "14",
       "contributors": [
         {
@@ -266,7 +266,7 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "48,544",
+      "stars": "48,554",
       "forks": "6,719",
       "addStars": "45",
       "contributors": [
@@ -303,8 +303,8 @@
       "description": "A Download Manager that speeds up your downloads",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "12,391",
-      "forks": "652",
+      "stars": "12,402",
+      "forks": "653",
       "addStars": "26",
       "contributors": [
         {
@@ -328,9 +328,9 @@
           "url": "https://github.com/dagimg-dot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32303768?s=40&v=4",
-          "name": "peanut996",
-          "url": "https://github.com/peanut996"
+          "avatar": "https://avatars.githubusercontent.com/u/57851661?s=40&v=4",
+          "name": "CoZooo",
+          "url": "https://github.com/CoZooo"
         }
       ]
     },
@@ -340,7 +340,7 @@
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "13,749",
+      "stars": "13,755",
       "forks": "339",
       "addStars": "24",
       "contributors": [
@@ -452,7 +452,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": "929",
-      "forks": "3,090",
+      "forks": "3,089",
       "addStars": "2",
       "contributors": [
         {
@@ -488,7 +488,7 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "8,490",
+      "stars": "8,491",
       "forks": "735",
       "addStars": "7",
       "contributors": [
@@ -525,7 +525,7 @@
       "description": "PennyWise automatically reads transaction SMS messages and transforms them into organized financial data with on-device AI assistance. No manual entry, no cloud processing, complete privacy.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "281",
+      "stars": "283",
       "forks": "46",
       "addStars": "12",
       "contributors": [

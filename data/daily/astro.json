@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 23 Dec 2025 02:57:44 GMT",
+  "pubDate": "Tue, 23 Dec 2025 07:28:40 GMT",
   "items": [
     {
       "title": "saicaca/fuwari",
@@ -42,7 +42,7 @@
       "description": "🦄 A curated list of privacy & security-focused software and services",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "8,589",
+      "stars": "8,591",
       "forks": "405",
       "addStars": "1",
       "contributors": [
@@ -175,8 +175,8 @@
       "description": "A coder-ready Astro blog theme with 60 of your favorite color schemes to choose from 🎨⚡️",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "267",
-      "forks": "61",
+      "stars": "268",
+      "forks": "62",
       "addStars": "3",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Asl Languages Daily Trending",
   "description": "Daily Trending of Asl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 24 Dec 2025 02:54:40 GMT",
+  "pubDate": "Wed, 24 Dec 2025 07:28:09 GMT",
   "items": [
     {
       "title": "Project-Aloha/mu_aloha_platforms",
@@ -10,7 +10,7 @@
       "description": "Port of mu_andromeda_platforms for other qualcomm based devices.",
       "language": "ASL",
       "languageColor": "#ccc",
-      "stars": "177",
+      "stars": "178",
       "forks": "119",
       "addStars": "0",
       "contributors": [

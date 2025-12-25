@@ -2,7 +2,7 @@
   "title": "GitHub Less Languages Daily Trending",
   "description": "Daily Trending of Less Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 24 Dec 2025 19:19:52 GMT",
+  "pubDate": "Thu, 25 Dec 2025 02:57:43 GMT",
   "items": [
     {
       "title": "Remix-Design/RemixIcon",
@@ -122,8 +122,8 @@
       "language": "Less",
       "languageColor": "#1d365d",
       "stars": "950",
-      "forks": "247",
-      "addStars": "2",
+      "forks": "248",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47499684?s=40&v=4",

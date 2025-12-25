@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Weekly Trending",
   "description": "Weekly Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 25 Dec 2025 13:31:47 GMT",
+  "pubDate": "Thu, 25 Dec 2025 19:20:09 GMT",
   "items": [
     {
       "title": "catsout/wallpaper-engine-kde-plugin",
@@ -47,7 +47,7 @@
       "description": "Series of modern looking themes for SDDM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "2,264",
+      "stars": "2,266",
       "forks": "178",
       "addStars": "37",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "2,924",
-      "forks": "188",
+      "stars": "2,931",
+      "forks": "190",
       "addStars": "187",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "uhh questioning the meaning of dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "11,640",
-      "forks": "910",
+      "stars": "11,645",
+      "forks": "911",
       "addStars": "158",
       "contributors": [
         {
@@ -154,7 +154,7 @@
       "language": "QML",
       "languageColor": "#44a51c",
       "stars": "12,447",
-      "forks": "1,178",
+      "forks": "1,179",
       "addStars": "14",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Latte-Dock and WM status bar customization for the KDE Plasma panels",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "754",
+      "stars": "755",
       "forks": "14",
       "addStars": "7",
       "contributors": [

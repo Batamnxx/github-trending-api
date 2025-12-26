@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 26 Dec 2025 02:55:47 GMT",
+  "pubDate": "Fri, 26 Dec 2025 07:26:21 GMT",
   "items": [
     {
       "title": "rendercv/rendercv",
@@ -10,8 +10,8 @@
       "description": "CV/resume generator for academics and engineers, YAML to PDF",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,958",
-      "forks": "729",
+      "stars": "11,353",
+      "forks": "761",
       "addStars": "1,818",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,224",
-      "forks": "399",
+      "stars": "3,299",
+      "forks": "405",
       "addStars": "55",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Source code for the X Recommendation Algorithm",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "68,816",
-      "forks": "12,726",
+      "stars": "68,869",
+      "forks": "12,736",
       "addStars": "326",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,606",
-      "forks": "1,292",
+      "stars": "7,642",
+      "forks": "1,294",
       "addStars": "272",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,140",
-      "forks": "606",
+      "stars": "6,211",
+      "forks": "610",
       "addStars": "262",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "SoTA open-source TTS",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,790",
-      "forks": "2,371",
+      "stars": "17,875",
+      "forks": "2,377",
       "addStars": "472",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "41,824",
-      "forks": "3,074",
+      "stars": "41,910",
+      "forks": "3,078",
       "addStars": "303",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "A framework for efficient model inference with omni-modality models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,730",
-      "forks": "216",
+      "stars": "1,770",
+      "forks": "217",
       "addStars": "121",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Light Video Generation Inference Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,454",
-      "forks": "96",
+      "stars": "1,506",
+      "forks": "100",
       "addStars": "43",
       "contributors": [
         {

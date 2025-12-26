@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 26 Dec 2025 13:33:18 GMT",
+  "pubDate": "Fri, 26 Dec 2025 19:19:47 GMT",
   "items": [
     {
       "title": "google/A2UI",
@@ -10,8 +10,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,540",
-      "forks": "491",
+      "stars": "7,584",
+      "forks": "496",
       "addStars": "3,133",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Personal AI Infrastructure for upgrading humans.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,145",
-      "forks": "421",
+      "stars": "2,171",
+      "forks": "428",
       "addStars": "592",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "42,478",
-      "forks": "3,636",
+      "stars": "42,558",
+      "forks": "3,646",
       "addStars": "2,215",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "744",
+      "stars": "745",
       "forks": "106",
       "addStars": "182",
       "contributors": [
@@ -158,8 +158,8 @@
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "41,985",
-      "forks": "3,084",
+      "stars": "42,005",
+      "forks": "3,085",
       "addStars": "991",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "553",
-      "forks": "52",
+      "stars": "556",
+      "forks": "54",
       "addStars": "347",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "107,063",
-      "forks": "5,025",
+      "stars": "107,091",
+      "forks": "5,028",
       "addStars": "1,818",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "Make beautiful isometric infrastructure diagrams",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,180",
-      "forks": "982",
+      "stars": "15,214",
+      "forks": "983",
       "addStars": "1,390",
       "contributors": [
         {
@@ -279,14 +279,14 @@
           "url": "https://github.com/stan-smith"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/113254225?s=40&v=4",
-          "name": "abhinav-1305",
-          "url": "https://github.com/abhinav-1305"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
           "name": "semantic-release-bot",
           "url": "https://github.com/semantic-release-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/113254225?s=40&v=4",
+          "name": "abhinav-1305",
+          "url": "https://github.com/abhinav-1305"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/61375428?s=40&v=4",
@@ -301,7 +301,7 @@
       "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,678",
+      "stars": "7,683",
       "forks": "1,295",
       "addStars": "592",
       "contributors": [
@@ -333,8 +333,8 @@
       "description": "Production-ready platform for agentic workflow development.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "123,414",
-      "forks": "19,187",
+      "stars": "123,536",
+      "forks": "19,203",
       "addStars": "1,138",
       "contributors": [
         {
@@ -370,8 +370,8 @@
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "34,730",
-      "forks": "8,231",
+      "stars": "34,737",
+      "forks": "8,234",
       "addStars": "71",
       "contributors": [
         {
@@ -407,8 +407,8 @@
       "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "71,325",
-      "forks": "5,571",
+      "stars": "71,371",
+      "forks": "5,577",
       "addStars": "1,209",
       "contributors": [
         {
@@ -439,8 +439,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,931",
-      "forks": "1,104",
+      "stars": "17,946",
+      "forks": "1,105",
       "addStars": "767",
       "contributors": [
         {

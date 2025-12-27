@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Daily Trending",
   "description": "Daily Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 27 Dec 2025 02:53:05 GMT",
+  "pubDate": "Sat, 27 Dec 2025 07:23:39 GMT",
   "items": [
     {
       "title": "posquit0/Awesome-CV",
@@ -116,7 +116,7 @@
       "description": "Zhejiang University Graduation Thesis LaTeX Template",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "3,376",
+      "stars": "3,377",
       "forks": "709",
       "addStars": "1",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Release repo for our SLAM Handbook",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "4,020",
+      "stars": "4,021",
       "forks": "241",
       "addStars": "3",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "Software developer resume in Latex",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,342",
+      "stars": "6,341",
       "forks": "1,763",
       "addStars": "2",
       "contributors": [

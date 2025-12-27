@@ -2,7 +2,7 @@
   "title": "GitHub Mojo Languages Weekly Trending",
   "description": "Weekly Trending of Mojo Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 27 Dec 2025 02:53:05 GMT",
+  "pubDate": "Sat, 27 Dec 2025 07:23:39 GMT",
   "items": [
     {
       "title": "modular/modular",
@@ -47,7 +47,7 @@
       "description": "Learn GPU Programming in Mojo🔥 by Solving Puzzles",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": "265",
+      "stars": "266",
       "forks": "270",
       "addStars": "6",
       "contributors": [

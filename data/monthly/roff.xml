@@ -3,7 +3,7 @@
     <title>GitHub Roff Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Roff Languages in GitHub</description>
-    <pubDate>Sat, 27 Dec 2025 02:53:05 GMT</pubDate>
+    <pubDate>Sat, 27 Dec 2025 07:23:39 GMT</pubDate>
     <item>
       <title>TapXWorld/ChinaTextbook</title>
       <link>https://github.com/TapXWorld/ChinaTextbook</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/TapXWorld/ChinaTextbook</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>63,342</stars>
-      <forks>14,063</forks>
+      <stars>63,350</stars>
+      <forks>14,065</forks>
       <addStars>4,118</addStars>
       <contributors>
         <contributor>
@@ -34,7 +34,7 @@
       <guid>https://github.com/pyenv/pyenv</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>43,948</stars>
+      <stars>43,949</stars>
       <forks>3,238</forks>
       <addStars>261</addStars>
       <contributors>

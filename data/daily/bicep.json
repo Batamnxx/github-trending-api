@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 27 Dec 2025 02:53:05 GMT",
+  "pubDate": "Sat, 27 Dec 2025 07:23:39 GMT",
   "items": [
     {
       "title": "Azure/azure-quickstart-templates",
@@ -84,7 +84,7 @@
       "description": "Clean Architecture Solution Template for ASP.NET Core",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": "19,436",
+      "stars": "19,438",
       "forks": "4,090",
       "addStars": "5",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Markdown Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Markdown Languages in GitHub</description>
-    <pubDate>Sat, 27 Dec 2025 07:23:39 GMT</pubDate>
+    <pubDate>Sat, 27 Dec 2025 13:28:38 GMT</pubDate>
     <item>
       <title>ethereum/ethereum-org-website</title>
       <link>https://github.com/ethereum/ethereum-org-website</link>
@@ -50,7 +50,7 @@
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
       <stars>10,403</stars>
-      <forks>23,044</forks>
+      <forks>23,046</forks>
       <addStars>575</addStars>
       <contributors>
         <contributor>
@@ -81,14 +81,52 @@
       </contributors>
     </item>
     <item>
+      <title>adambard/learnxinyminutes-docs</title>
+      <link>https://github.com/adambard/learnxinyminutes-docs</link>
+      <description>Code documentation written as code! How novel and totally my idea!</description>
+      <guid>https://github.com/adambard/learnxinyminutes-docs</guid>
+      <language>Markdown</language>
+      <languageColor>#083fa1</languageColor>
+      <stars>12,128</stars>
+      <forks>3,560</forks>
+      <addStars>57</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/515720?s=40&amp;v=4</avatar>
+          <name>adambard</name>
+          <url>https://github.com/adambard</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/199499?s=40&amp;v=4</avatar>
+          <name>vendethiel</name>
+          <url>https://github.com/vendethiel</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11337492?s=40&amp;v=4</avatar>
+          <name>divayprakash</name>
+          <url>https://github.com/divayprakash</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2041082?s=40&amp;v=4</avatar>
+          <name>levibostian</name>
+          <url>https://github.com/levibostian</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5687998?s=40&amp;v=4</avatar>
+          <name>verhovsky</name>
+          <url>https://github.com/verhovsky</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>codecrafters-io/build-your-own-x</title>
       <link>https://github.com/codecrafters-io/build-your-own-x</link>
       <description>Master programming by recreating your favorite technologies from scratch.</description>
       <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>452,245</stars>
-      <forks>42,422</forks>
+      <stars>452,331</stars>
+      <forks>42,426</forks>
       <addStars>9,334</addStars>
       <contributors>
         <contributor>
@@ -228,156 +266,14 @@
       </contributors>
     </item>
     <item>
-      <title>adambard/learnxinyminutes-docs</title>
-      <link>https://github.com/adambard/learnxinyminutes-docs</link>
-      <description>Code documentation written as code! How novel and totally my idea!</description>
-      <guid>https://github.com/adambard/learnxinyminutes-docs</guid>
-      <language>Markdown</language>
-      <languageColor>#083fa1</languageColor>
-      <stars>12,128</stars>
-      <forks>3,560</forks>
-      <addStars>57</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/515720?s=40&amp;v=4</avatar>
-          <name>adambard</name>
-          <url>https://github.com/adambard</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199499?s=40&amp;v=4</avatar>
-          <name>vendethiel</name>
-          <url>https://github.com/vendethiel</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11337492?s=40&amp;v=4</avatar>
-          <name>divayprakash</name>
-          <url>https://github.com/divayprakash</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2041082?s=40&amp;v=4</avatar>
-          <name>levibostian</name>
-          <url>https://github.com/levibostian</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5687998?s=40&amp;v=4</avatar>
-          <name>verhovsky</name>
-          <url>https://github.com/verhovsky</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>tiekoettercom/searx-instances-uptime</title>
-      <link>https://github.com/tiekoettercom/searx-instances-uptime</link>
-      <description>📈 Uptime monitor and status page for SearXNG and SearX instances</description>
-      <guid>https://github.com/tiekoettercom/searx-instances-uptime</guid>
-      <language>Markdown</language>
-      <languageColor>#083fa1</languageColor>
-      <stars>21</stars>
-      <forks>2</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102522440?s=40&amp;v=4</avatar>
-          <name>tiekoetter-bot</name>
-          <url>https://github.com/tiekoetter-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/73812536?s=40&amp;v=4</avatar>
-          <name>upptime-bot</name>
-          <url>https://github.com/upptime-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/77782671?s=40&amp;v=4</avatar>
-          <name>tiekoetter</name>
-          <url>https://github.com/tiekoetter</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>rust-lang/rfcs</title>
-      <link>https://github.com/rust-lang/rfcs</link>
-      <description>RFCs for changes to Rust</description>
-      <guid>https://github.com/rust-lang/rfcs</guid>
-      <language>Markdown</language>
-      <languageColor>#083fa1</languageColor>
-      <stars>6,352</stars>
-      <forks>1,652</forks>
-      <addStars>28</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64996?s=40&amp;v=4</avatar>
-          <name>alexcrichton</name>
-          <url>https://github.com/alexcrichton</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/709807?s=40&amp;v=4</avatar>
-          <name>aturon</name>
-          <url>https://github.com/aturon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/155238?s=40&amp;v=4</avatar>
-          <name>nikomatsakis</name>
-          <url>https://github.com/nikomatsakis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60961?s=40&amp;v=4</avatar>
-          <name>epage</name>
-          <url>https://github.com/epage</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/162737?s=40&amp;v=4</avatar>
-          <name>joshtriplett</name>
-          <url>https://github.com/joshtriplett</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>JetBrains/intellij-sdk-docs</title>
-      <link>https://github.com/JetBrains/intellij-sdk-docs</link>
-      <description>IntelliJ SDK Platform Documentation</description>
-      <guid>https://github.com/JetBrains/intellij-sdk-docs</guid>
-      <language>Markdown</language>
-      <languageColor>#083fa1</languageColor>
-      <stars>1,279</stars>
-      <forks>980</forks>
-      <addStars>8</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/570887?s=40&amp;v=4</avatar>
-          <name>YannCebron</name>
-          <url>https://github.com/YannCebron</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1154140?s=40&amp;v=4</avatar>
-          <name>karollewandowski</name>
-          <url>https://github.com/karollewandowski</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/108333?s=40&amp;v=4</avatar>
-          <name>hsz</name>
-          <url>https://github.com/hsz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4640460?s=40&amp;v=4</avatar>
-          <name>boogiecat</name>
-          <url>https://github.com/boogiecat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46553?s=40&amp;v=4</avatar>
-          <name>yole</name>
-          <url>https://github.com/yole</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>tldr-pages/tldr</title>
       <link>https://github.com/tldr-pages/tldr</link>
       <description>📚 Collaborative cheatsheets for console commands</description>
       <guid>https://github.com/tldr-pages/tldr</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>60,596</stars>
-      <forks>4,971</forks>
+      <stars>60,598</stars>
+      <forks>4,972</forks>
       <addStars>478</addStars>
       <contributors>
         <contributor>
@@ -408,40 +304,30 @@
       </contributors>
     </item>
     <item>
-      <title>OAI/OpenAPI-Specification</title>
-      <link>https://github.com/OAI/OpenAPI-Specification</link>
-      <description>The OpenAPI Specification Repository</description>
-      <guid>https://github.com/OAI/OpenAPI-Specification</guid>
+      <title>tiekoettercom/searx-instances-uptime</title>
+      <link>https://github.com/tiekoettercom/searx-instances-uptime</link>
+      <description>📈 Uptime monitor and status page for SearXNG and SearX instances</description>
+      <guid>https://github.com/tiekoettercom/searx-instances-uptime</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>30,741</stars>
-      <forks>9,164</forks>
-      <addStars>134</addStars>
+      <stars>21</stars>
+      <forks>2</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/951576?s=40&amp;v=4</avatar>
-          <name>ralfhandl</name>
-          <url>https://github.com/ralfhandl</url>
+          <avatar>https://avatars.githubusercontent.com/u/102522440?s=40&amp;v=4</avatar>
+          <name>tiekoetter-bot</name>
+          <url>https://github.com/tiekoetter-bot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2358015?s=40&amp;v=4</avatar>
-          <name>handrews</name>
-          <url>https://github.com/handrews</url>
+          <avatar>https://avatars.githubusercontent.com/u/73812536?s=40&amp;v=4</avatar>
+          <name>upptime-bot</name>
+          <url>https://github.com/upptime-bot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/241629?s=40&amp;v=4</avatar>
-          <name>webron</name>
-          <url>https://github.com/webron</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/249413?s=40&amp;v=4</avatar>
-          <name>fehguy</name>
-          <url>https://github.com/fehguy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/172607?s=40&amp;v=4</avatar>
-          <name>lornajane</name>
-          <url>https://github.com/lornajane</url>
+          <avatar>https://avatars.githubusercontent.com/u/77782671?s=40&amp;v=4</avatar>
+          <name>tiekoetter</name>
+          <url>https://github.com/tiekoetter</url>
         </contributor>
       </contributors>
     </item>
@@ -484,13 +370,127 @@
       </contributors>
     </item>
     <item>
+      <title>JetBrains/intellij-sdk-docs</title>
+      <link>https://github.com/JetBrains/intellij-sdk-docs</link>
+      <description>IntelliJ SDK Platform Documentation</description>
+      <guid>https://github.com/JetBrains/intellij-sdk-docs</guid>
+      <language>Markdown</language>
+      <languageColor>#083fa1</languageColor>
+      <stars>1,279</stars>
+      <forks>980</forks>
+      <addStars>8</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/570887?s=40&amp;v=4</avatar>
+          <name>YannCebron</name>
+          <url>https://github.com/YannCebron</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1154140?s=40&amp;v=4</avatar>
+          <name>karollewandowski</name>
+          <url>https://github.com/karollewandowski</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/108333?s=40&amp;v=4</avatar>
+          <name>hsz</name>
+          <url>https://github.com/hsz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4640460?s=40&amp;v=4</avatar>
+          <name>boogiecat</name>
+          <url>https://github.com/boogiecat</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46553?s=40&amp;v=4</avatar>
+          <name>yole</name>
+          <url>https://github.com/yole</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>rust-lang/rfcs</title>
+      <link>https://github.com/rust-lang/rfcs</link>
+      <description>RFCs for changes to Rust</description>
+      <guid>https://github.com/rust-lang/rfcs</guid>
+      <language>Markdown</language>
+      <languageColor>#083fa1</languageColor>
+      <stars>6,352</stars>
+      <forks>1,652</forks>
+      <addStars>28</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64996?s=40&amp;v=4</avatar>
+          <name>alexcrichton</name>
+          <url>https://github.com/alexcrichton</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/709807?s=40&amp;v=4</avatar>
+          <name>aturon</name>
+          <url>https://github.com/aturon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/155238?s=40&amp;v=4</avatar>
+          <name>nikomatsakis</name>
+          <url>https://github.com/nikomatsakis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60961?s=40&amp;v=4</avatar>
+          <name>epage</name>
+          <url>https://github.com/epage</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/162737?s=40&amp;v=4</avatar>
+          <name>joshtriplett</name>
+          <url>https://github.com/joshtriplett</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>OAI/OpenAPI-Specification</title>
+      <link>https://github.com/OAI/OpenAPI-Specification</link>
+      <description>The OpenAPI Specification Repository</description>
+      <guid>https://github.com/OAI/OpenAPI-Specification</guid>
+      <language>Markdown</language>
+      <languageColor>#083fa1</languageColor>
+      <stars>30,741</stars>
+      <forks>9,165</forks>
+      <addStars>134</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/951576?s=40&amp;v=4</avatar>
+          <name>ralfhandl</name>
+          <url>https://github.com/ralfhandl</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2358015?s=40&amp;v=4</avatar>
+          <name>handrews</name>
+          <url>https://github.com/handrews</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/241629?s=40&amp;v=4</avatar>
+          <name>webron</name>
+          <url>https://github.com/webron</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/249413?s=40&amp;v=4</avatar>
+          <name>fehguy</name>
+          <url>https://github.com/fehguy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/172607?s=40&amp;v=4</avatar>
+          <name>lornajane</name>
+          <url>https://github.com/lornajane</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>TRaSH-Guides/Guides</title>
       <link>https://github.com/TRaSH-Guides/Guides</link>
       <description>TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.</description>
       <guid>https://github.com/TRaSH-Guides/Guides</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>2,654</stars>
+      <stars>2,655</stars>
       <forks>292</forks>
       <addStars>74</addStars>
       <contributors>

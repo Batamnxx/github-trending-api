@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Monthly Trending",
   "description": "Monthly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 27 Dec 2025 07:23:39 GMT",
+  "pubDate": "Sat, 27 Dec 2025 13:28:38 GMT",
   "items": [
     {
       "title": "ethereum/ethereum-org-website",
@@ -48,7 +48,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "10,403",
-      "forks": "23,044",
+      "forks": "23,046",
       "addStars": "575",
       "contributors": [
         {
@@ -79,13 +79,50 @@
       ]
     },
     {
+      "title": "adambard/learnxinyminutes-docs",
+      "url": "https://github.com/adambard/learnxinyminutes-docs",
+      "description": "Code documentation written as code! How novel and totally my idea!",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "12,128",
+      "forks": "3,560",
+      "addStars": "57",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/515720?s=40&v=4",
+          "name": "adambard",
+          "url": "https://github.com/adambard"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199499?s=40&v=4",
+          "name": "vendethiel",
+          "url": "https://github.com/vendethiel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11337492?s=40&v=4",
+          "name": "divayprakash",
+          "url": "https://github.com/divayprakash"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2041082?s=40&v=4",
+          "name": "levibostian",
+          "url": "https://github.com/levibostian"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5687998?s=40&v=4",
+          "name": "verhovsky",
+          "url": "https://github.com/verhovsky"
+        }
+      ]
+    },
+    {
       "title": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "452,245",
-      "forks": "42,422",
+      "stars": "452,331",
+      "forks": "42,426",
       "addStars": "9,334",
       "contributors": [
         {
@@ -222,151 +259,13 @@
       ]
     },
     {
-      "title": "adambard/learnxinyminutes-docs",
-      "url": "https://github.com/adambard/learnxinyminutes-docs",
-      "description": "Code documentation written as code! How novel and totally my idea!",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": "12,128",
-      "forks": "3,560",
-      "addStars": "57",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/515720?s=40&v=4",
-          "name": "adambard",
-          "url": "https://github.com/adambard"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199499?s=40&v=4",
-          "name": "vendethiel",
-          "url": "https://github.com/vendethiel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11337492?s=40&v=4",
-          "name": "divayprakash",
-          "url": "https://github.com/divayprakash"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2041082?s=40&v=4",
-          "name": "levibostian",
-          "url": "https://github.com/levibostian"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5687998?s=40&v=4",
-          "name": "verhovsky",
-          "url": "https://github.com/verhovsky"
-        }
-      ]
-    },
-    {
-      "title": "tiekoettercom/searx-instances-uptime",
-      "url": "https://github.com/tiekoettercom/searx-instances-uptime",
-      "description": "📈 Uptime monitor and status page for SearXNG and SearX instances",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": "21",
-      "forks": "2",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102522440?s=40&v=4",
-          "name": "tiekoetter-bot",
-          "url": "https://github.com/tiekoetter-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73812536?s=40&v=4",
-          "name": "upptime-bot",
-          "url": "https://github.com/upptime-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77782671?s=40&v=4",
-          "name": "tiekoetter",
-          "url": "https://github.com/tiekoetter"
-        }
-      ]
-    },
-    {
-      "title": "rust-lang/rfcs",
-      "url": "https://github.com/rust-lang/rfcs",
-      "description": "RFCs for changes to Rust",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": "6,352",
-      "forks": "1,652",
-      "addStars": "28",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64996?s=40&v=4",
-          "name": "alexcrichton",
-          "url": "https://github.com/alexcrichton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/709807?s=40&v=4",
-          "name": "aturon",
-          "url": "https://github.com/aturon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/155238?s=40&v=4",
-          "name": "nikomatsakis",
-          "url": "https://github.com/nikomatsakis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60961?s=40&v=4",
-          "name": "epage",
-          "url": "https://github.com/epage"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/162737?s=40&v=4",
-          "name": "joshtriplett",
-          "url": "https://github.com/joshtriplett"
-        }
-      ]
-    },
-    {
-      "title": "JetBrains/intellij-sdk-docs",
-      "url": "https://github.com/JetBrains/intellij-sdk-docs",
-      "description": "IntelliJ SDK Platform Documentation",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": "1,279",
-      "forks": "980",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/570887?s=40&v=4",
-          "name": "YannCebron",
-          "url": "https://github.com/YannCebron"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1154140?s=40&v=4",
-          "name": "karollewandowski",
-          "url": "https://github.com/karollewandowski"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108333?s=40&v=4",
-          "name": "hsz",
-          "url": "https://github.com/hsz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4640460?s=40&v=4",
-          "name": "boogiecat",
-          "url": "https://github.com/boogiecat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46553?s=40&v=4",
-          "name": "yole",
-          "url": "https://github.com/yole"
-        }
-      ]
-    },
-    {
       "title": "tldr-pages/tldr",
       "url": "https://github.com/tldr-pages/tldr",
       "description": "📚 Collaborative cheatsheets for console commands",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "60,596",
-      "forks": "4,971",
+      "stars": "60,598",
+      "forks": "4,972",
       "addStars": "478",
       "contributors": [
         {
@@ -397,39 +296,29 @@
       ]
     },
     {
-      "title": "OAI/OpenAPI-Specification",
-      "url": "https://github.com/OAI/OpenAPI-Specification",
-      "description": "The OpenAPI Specification Repository",
+      "title": "tiekoettercom/searx-instances-uptime",
+      "url": "https://github.com/tiekoettercom/searx-instances-uptime",
+      "description": "📈 Uptime monitor and status page for SearXNG and SearX instances",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "30,741",
-      "forks": "9,164",
-      "addStars": "134",
+      "stars": "21",
+      "forks": "2",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/951576?s=40&v=4",
-          "name": "ralfhandl",
-          "url": "https://github.com/ralfhandl"
+          "avatar": "https://avatars.githubusercontent.com/u/102522440?s=40&v=4",
+          "name": "tiekoetter-bot",
+          "url": "https://github.com/tiekoetter-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2358015?s=40&v=4",
-          "name": "handrews",
-          "url": "https://github.com/handrews"
+          "avatar": "https://avatars.githubusercontent.com/u/73812536?s=40&v=4",
+          "name": "upptime-bot",
+          "url": "https://github.com/upptime-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/241629?s=40&v=4",
-          "name": "webron",
-          "url": "https://github.com/webron"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/249413?s=40&v=4",
-          "name": "fehguy",
-          "url": "https://github.com/fehguy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/172607?s=40&v=4",
-          "name": "lornajane",
-          "url": "https://github.com/lornajane"
+          "avatar": "https://avatars.githubusercontent.com/u/77782671?s=40&v=4",
+          "name": "tiekoetter",
+          "url": "https://github.com/tiekoetter"
         }
       ]
     },
@@ -471,12 +360,123 @@
       ]
     },
     {
+      "title": "JetBrains/intellij-sdk-docs",
+      "url": "https://github.com/JetBrains/intellij-sdk-docs",
+      "description": "IntelliJ SDK Platform Documentation",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "1,279",
+      "forks": "980",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/570887?s=40&v=4",
+          "name": "YannCebron",
+          "url": "https://github.com/YannCebron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1154140?s=40&v=4",
+          "name": "karollewandowski",
+          "url": "https://github.com/karollewandowski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108333?s=40&v=4",
+          "name": "hsz",
+          "url": "https://github.com/hsz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4640460?s=40&v=4",
+          "name": "boogiecat",
+          "url": "https://github.com/boogiecat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46553?s=40&v=4",
+          "name": "yole",
+          "url": "https://github.com/yole"
+        }
+      ]
+    },
+    {
+      "title": "rust-lang/rfcs",
+      "url": "https://github.com/rust-lang/rfcs",
+      "description": "RFCs for changes to Rust",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "6,352",
+      "forks": "1,652",
+      "addStars": "28",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64996?s=40&v=4",
+          "name": "alexcrichton",
+          "url": "https://github.com/alexcrichton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/709807?s=40&v=4",
+          "name": "aturon",
+          "url": "https://github.com/aturon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/155238?s=40&v=4",
+          "name": "nikomatsakis",
+          "url": "https://github.com/nikomatsakis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60961?s=40&v=4",
+          "name": "epage",
+          "url": "https://github.com/epage"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/162737?s=40&v=4",
+          "name": "joshtriplett",
+          "url": "https://github.com/joshtriplett"
+        }
+      ]
+    },
+    {
+      "title": "OAI/OpenAPI-Specification",
+      "url": "https://github.com/OAI/OpenAPI-Specification",
+      "description": "The OpenAPI Specification Repository",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "30,741",
+      "forks": "9,165",
+      "addStars": "134",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/951576?s=40&v=4",
+          "name": "ralfhandl",
+          "url": "https://github.com/ralfhandl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2358015?s=40&v=4",
+          "name": "handrews",
+          "url": "https://github.com/handrews"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/241629?s=40&v=4",
+          "name": "webron",
+          "url": "https://github.com/webron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/249413?s=40&v=4",
+          "name": "fehguy",
+          "url": "https://github.com/fehguy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/172607?s=40&v=4",
+          "name": "lornajane",
+          "url": "https://github.com/lornajane"
+        }
+      ]
+    },
+    {
       "title": "TRaSH-Guides/Guides",
       "url": "https://github.com/TRaSH-Guides/Guides",
       "description": "TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "2,654",
+      "stars": "2,655",
       "forks": "292",
       "addStars": "74",
       "contributors": [

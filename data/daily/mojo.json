@@ -2,8 +2,45 @@
   "title": "GitHub Mojo Languages Daily Trending",
   "description": "Daily Trending of Mojo Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 27 Dec 2025 07:23:39 GMT",
+  "pubDate": "Sat, 27 Dec 2025 13:28:38 GMT",
   "items": [
+    {
+      "title": "modular/modular",
+      "url": "https://github.com/modular/modular",
+      "description": "The Modular Platform (includes MAX & Mojo)",
+      "language": "Mojo",
+      "languageColor": "#ff4c1f",
+      "stars": "25,388",
+      "forks": "2,744",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
+          "name": "abduld",
+          "url": "https://github.com/abduld"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
+          "name": "lattner",
+          "url": "https://github.com/lattner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6462525?s=40&v=4",
+          "name": "JoeLoser",
+          "url": "https://github.com/JoeLoser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
+          "name": "keith",
+          "url": "https://github.com/keith"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13106676?s=40&v=4",
+          "name": "laszlokindrat",
+          "url": "https://github.com/laszlokindrat"
+        }
+      ]
+    },
     {
       "title": "modular/mojo-gpu-puzzles",
       "url": "https://github.com/modular/mojo-gpu-puzzles",
@@ -38,43 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/37776449?s=40&v=4",
           "name": "dunnoconnor",
           "url": "https://github.com/dunnoconnor"
-        }
-      ]
-    },
-    {
-      "title": "modular/modular",
-      "url": "https://github.com/modular/modular",
-      "description": "The Modular Platform (includes MAX & Mojo)",
-      "language": "Mojo",
-      "languageColor": "#ff4c1f",
-      "stars": "25,387",
-      "forks": "2,744",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1404191?s=40&v=4",
-          "name": "abduld",
-          "url": "https://github.com/abduld"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
-          "name": "lattner",
-          "url": "https://github.com/lattner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6462525?s=40&v=4",
-          "name": "JoeLoser",
-          "url": "https://github.com/JoeLoser"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/283886?s=40&v=4",
-          "name": "keith",
-          "url": "https://github.com/keith"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13106676?s=40&v=4",
-          "name": "laszlokindrat",
-          "url": "https://github.com/laszlokindrat"
         }
       ]
     }

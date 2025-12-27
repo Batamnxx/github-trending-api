@@ -3,7 +3,7 @@
     <title>GitHub Gdscript Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Gdscript Languages in GitHub</description>
-    <pubDate>Sat, 27 Dec 2025 13:28:38 GMT</pubDate>
+    <pubDate>Sat, 27 Dec 2025 19:19:18 GMT</pubDate>
     <item>
       <title>godotengine/godot-demo-projects</title>
       <link>https://github.com/godotengine/godot-demo-projects</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/godotengine/godot-demo-projects</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>7,933</stars>
-      <forks>2,000</forks>
+      <stars>7,935</stars>
+      <forks>1,999</forks>
       <addStars>28</addStars>
       <contributors>
         <contributor>
@@ -315,7 +315,7 @@
       <guid>https://github.com/Maaack/Godot-Game-Template</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>1,156</stars>
+      <stars>1,157</stars>
       <forks>78</forks>
       <addStars>8</addStars>
       <contributors>

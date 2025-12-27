@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 27 Dec 2025 13:28:38 GMT",
+  "pubDate": "Sat, 27 Dec 2025 19:19:18 GMT",
   "items": [
     {
       "title": "steinbergmedia/vst3sdk",
@@ -37,8 +37,8 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "26,345",
-      "forks": "7,261",
+      "stars": "26,346",
+      "forks": "7,260",
       "addStars": "10",
       "contributors": [
         {
@@ -175,7 +175,7 @@
       "description": "🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "5,242",
+      "stars": "5,243",
       "forks": "474",
       "addStars": "3",
       "contributors": [
@@ -360,7 +360,7 @@
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,400",
+      "stars": "1,401",
       "forks": "110",
       "addStars": "2",
       "contributors": [

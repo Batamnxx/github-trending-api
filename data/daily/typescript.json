@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 26 Dec 2025 19:19:47 GMT",
+  "pubDate": "Sat, 27 Dec 2025 02:53:05 GMT",
   "items": [
     {
       "title": "langgenius/dify",
@@ -10,9 +10,9 @@
       "description": "Production-ready platform for agentic workflow development.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "123,536",
-      "forks": "19,203",
-      "addStars": "265",
+      "stars": "123,625",
+      "forks": "19,216",
+      "addStars": "283",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/100913391?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,169",
-      "forks": "70",
-      "addStars": "433",
+      "stars": "1,231",
+      "forks": "77",
+      "addStars": "432",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25787943?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,629",
-      "forks": "3,487",
-      "addStars": "3",
+      "stars": "4,632",
+      "forks": "3,486",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76178356?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Build your personal knowledge base with Trilium Notes",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,683",
+      "stars": "33,690",
       "forks": "2,237",
-      "addStars": "29",
+      "addStars": "43",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21236836?s=40&v=4",
@@ -148,8 +148,8 @@
       "description": "🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "69,486",
-      "forks": "14,287",
+      "stars": "69,491",
+      "forks": "14,288",
       "addStars": "54",
       "contributors": [
         {
@@ -180,9 +180,9 @@
       "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,683",
-      "forks": "1,295",
-      "addStars": "208",
+      "stars": "7,687",
+      "forks": "1,296",
+      "addStars": "186",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6275952?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,145",
-      "forks": "2,262",
-      "addStars": "38",
+      "stars": "18,149",
+      "forks": "2,264",
+      "addStars": "34",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32978552?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "42,005",
-      "forks": "3,085",
-      "addStars": "435",
+      "stars": "42,017",
+      "forks": "3,086",
+      "addStars": "420",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
@@ -286,7 +286,7 @@
       "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,687",
+      "stars": "26,688",
       "forks": "6,845",
       "addStars": "15",
       "contributors": [
@@ -318,9 +318,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "42,558",
-      "forks": "3,646",
-      "addStars": "326",
+      "stars": "42,641",
+      "forks": "3,654",
+      "addStars": "307",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",

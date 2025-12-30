@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Monthly Trending",
   "description": "Monthly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 30 Dec 2025 02:58:34 GMT",
+  "pubDate": "Tue, 30 Dec 2025 07:27:50 GMT",
   "items": [
     {
       "title": "chrislgarry/Apollo-11",
@@ -47,7 +47,7 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "17,591",
+      "stars": "17,594",
       "forks": "1,994",
       "addStars": "154",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "11,695",
+      "stars": "11,696",
       "forks": "2,052",
       "addStars": "83",
       "contributors": [
@@ -223,7 +223,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "495",
-      "forks": "1,366",
+      "forks": "1,367",
       "addStars": "3",
       "contributors": [
         {
@@ -445,7 +445,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "650",
-      "forks": "157",
+      "forks": "158",
       "addStars": "14",
       "contributors": [
         {

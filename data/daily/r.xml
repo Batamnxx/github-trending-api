@@ -3,7 +3,7 @@
     <title>GitHub R Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of R Languages in GitHub</description>
-    <pubDate>Wed, 31 Dec 2025 02:57:37 GMT</pubDate>
+    <pubDate>Wed, 31 Dec 2025 07:27:59 GMT</pubDate>
     <item>
       <title>Rdatatable/data.table</title>
       <link>https://github.com/Rdatatable/data.table</link>
@@ -315,7 +315,7 @@
       <guid>https://github.com/chris-mcginnis-ucsf/DoubletFinder</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>516</stars>
+      <stars>515</stars>
       <forks>123</forks>
       <addStars>1</addStars>
       <contributors>

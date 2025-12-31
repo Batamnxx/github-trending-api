@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 31 Dec 2025 02:57:37 GMT",
+  "pubDate": "Wed, 31 Dec 2025 07:27:59 GMT",
   "items": [
     {
       "title": "Rdatatable/data.table",
@@ -306,7 +306,7 @@
       "description": "R package for detecting doublets in single-cell RNA sequencing data",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "516",
+      "stars": "515",
       "forks": "123",
       "addStars": "1",
       "contributors": [

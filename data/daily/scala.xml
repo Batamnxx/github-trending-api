@@ -3,7 +3,7 @@
     <title>GitHub Scala Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Scala Languages in GitHub</description>
-    <pubDate>Wed, 31 Dec 2025 02:57:37 GMT</pubDate>
+    <pubDate>Wed, 31 Dec 2025 07:27:59 GMT</pubDate>
     <item>
       <title>lichess-org/lila</title>
       <link>https://github.com/lichess-org/lila</link>
@@ -125,7 +125,7 @@
       <guid>https://github.com/apache/spark</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>42,566</stars>
+      <stars>42,565</stars>
       <forks>28,990</forks>
       <addStars>14</addStars>
       <contributors>
@@ -316,7 +316,7 @@
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
       <stars>1,491</stars>
-      <forks>555</forks>
+      <forks>556</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -452,7 +452,7 @@
       <guid>https://github.com/scalameta/mdoc</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>402</stars>
+      <stars>403</stars>
       <forks>86</forks>
       <addStars>0</addStars>
       <contributors>

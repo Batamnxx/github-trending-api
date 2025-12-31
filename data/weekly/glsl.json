@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Weekly Trending",
   "description": "Weekly Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 31 Dec 2025 13:32:47 GMT",
+  "pubDate": "Wed, 31 Dec 2025 19:20:24 GMT",
   "items": [
     {
       "title": "sixthsurge/photon",
@@ -47,7 +47,7 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "11,630",
+      "stars": "11,631",
       "forks": "2,180",
       "addStars": "21",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "Enhanced OS for the TrimUI Smart Pro",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "884",
+      "stars": "885",
       "forks": "80",
       "addStars": "4",
       "contributors": [

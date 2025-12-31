@@ -2,7 +2,7 @@
   "title": "GitHub Autohotkey Languages Monthly Trending",
   "description": "Monthly Trending of Autohotkey Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 31 Dec 2025 13:32:47 GMT",
+  "pubDate": "Wed, 31 Dec 2025 19:20:24 GMT",
   "items": [
     {
       "title": "NatroTeam/NatroMacro",
@@ -10,7 +10,7 @@
       "description": "A Bee Swarm Simulator macro for Windows",
       "language": "AutoHotkey",
       "languageColor": "#6594b9",
-      "stars": "1,984",
+      "stars": "1,988",
       "forks": "205",
       "addStars": "125",
       "contributors": [

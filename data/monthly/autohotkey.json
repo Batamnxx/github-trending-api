@@ -2,7 +2,7 @@
   "title": "GitHub Autohotkey Languages Monthly Trending",
   "description": "Monthly Trending of Autohotkey Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 31 Dec 2025 07:27:59 GMT",
+  "pubDate": "Wed, 31 Dec 2025 13:32:47 GMT",
   "items": [
     {
       "title": "NatroTeam/NatroMacro",
@@ -42,6 +42,28 @@
       ]
     },
     {
+      "title": "umageddon/namDHC",
+      "url": "https://github.com/umageddon/namDHC",
+      "description": "Windows frontend for CHDMAN - written in Autohotkey",
+      "language": "AutoHotkey",
+      "languageColor": "#6594b9",
+      "stars": "479",
+      "forks": "20",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4080439?s=40&v=4",
+          "name": "umageddon",
+          "url": "https://github.com/umageddon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9045213?s=40&v=4",
+          "name": "TFWol",
+          "url": "https://github.com/TFWol"
+        }
+      ]
+    },
+    {
       "title": "Descolada/UIA-v2",
       "url": "https://github.com/Descolada/UIA-v2",
       "description": "UIAutomation library for AHK v2, based on thqby's UIA library",
@@ -75,28 +97,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1466933?s=40&v=4",
           "name": "marium0505",
           "url": "https://github.com/marium0505"
-        }
-      ]
-    },
-    {
-      "title": "umageddon/namDHC",
-      "url": "https://github.com/umageddon/namDHC",
-      "description": "Windows frontend for CHDMAN - written in Autohotkey",
-      "language": "AutoHotkey",
-      "languageColor": "#6594b9",
-      "stars": "479",
-      "forks": "20",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4080439?s=40&v=4",
-          "name": "umageddon",
-          "url": "https://github.com/umageddon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9045213?s=40&v=4",
-          "name": "TFWol",
-          "url": "https://github.com/TFWol"
         }
       ]
     }

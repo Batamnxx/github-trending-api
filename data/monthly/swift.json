@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Monthly Trending",
   "description": "Monthly Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 01 Jan 2026 03:10:26 GMT",
+  "pubDate": "Thu, 01 Jan 2026 07:27:43 GMT",
   "items": [
     {
       "title": "TelegramMessenger/Telegram-iOS",
@@ -84,7 +84,7 @@
       "description": "A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "7,769",
+      "stars": "7,777",
       "forks": "428",
       "addStars": "348",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "8,373",
+      "stars": "8,372",
       "forks": "722",
       "addStars": "52",
       "contributors": [
@@ -306,8 +306,8 @@
       "description": "A tweak to enhance Spotify experience",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,031",
-      "forks": "8,923",
+      "stars": "2,032",
+      "forks": "8,928",
       "addStars": "352",
       "contributors": [
         {
@@ -343,7 +343,7 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "6,216",
+      "stars": "6,217",
       "forks": "433",
       "addStars": "590",
       "contributors": [
@@ -412,7 +412,7 @@
       "description": "📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "22,566",
+      "stars": "22,567",
       "forks": "1,139",
       "addStars": "213",
       "contributors": [
@@ -486,7 +486,7 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "35,524",
+      "stars": "35,526",
       "forks": "1,135",
       "addStars": "615",
       "contributors": [
@@ -597,8 +597,8 @@
       "description": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "3,380",
-      "forks": "293",
+      "stars": "3,381",
+      "forks": "294",
       "addStars": "184",
       "contributors": [
         {
@@ -634,7 +634,7 @@
       "description": "Use your Mac trackpad as a weighing scale",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "8,429",
+      "stars": "8,431",
       "forks": "361",
       "addStars": "907",
       "contributors": [
@@ -671,7 +671,7 @@
       "description": "The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,807",
+      "stars": "2,808",
       "forks": "112",
       "addStars": "1,219",
       "contributors": [

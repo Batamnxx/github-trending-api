@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Monthly Trending",
   "description": "Monthly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Jan 2026 03:00:54 GMT",
+  "pubDate": "Fri, 02 Jan 2026 07:29:05 GMT",
   "items": [
     {
       "title": "chrislgarry/Apollo-11",
@@ -10,7 +10,7 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "64,347",
+      "stars": "64,350",
       "forks": "7,375",
       "addStars": "373",
       "contributors": [
@@ -186,7 +186,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "497",
-      "forks": "1,372",
+      "forks": "1,373",
       "addStars": "5",
       "contributors": [
         {

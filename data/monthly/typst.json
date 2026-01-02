@@ -2,7 +2,7 @@
   "title": "GitHub Typst Languages Monthly Trending",
   "description": "Monthly Trending of Typst Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Jan 2026 13:32:48 GMT",
+  "pubDate": "Fri, 02 Jan 2026 19:17:26 GMT",
   "items": [
     {
       "title": "parallel101/cppguidebook",
@@ -10,7 +10,7 @@
       "description": "小彭老师领衔编写，现代C++的中文百科全书",
       "language": "Typst",
       "languageColor": "#239dad",
-      "stars": "1,008",
+      "stars": "1,009",
       "forks": "73",
       "addStars": "20",
       "contributors": [
@@ -48,7 +48,7 @@
       "language": "Typst",
       "languageColor": "#239dad",
       "stars": "1,812",
-      "forks": "53",
+      "forks": "55",
       "addStars": "70",
       "contributors": [
         {

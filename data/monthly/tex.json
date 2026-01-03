@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Monthly Trending",
   "description": "Monthly Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 03 Jan 2026 13:28:41 GMT",
+  "pubDate": "Sat, 03 Jan 2026 19:19:30 GMT",
   "items": [
     {
       "title": "exacity/deeplearningbook-chinese",
@@ -10,7 +10,7 @@
       "description": "Deep Learning Book Chinese Translation",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "37,110",
+      "stars": "37,109",
       "forks": "9,186",
       "addStars": "231",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "13,311",
+      "stars": "13,314",
       "forks": "775",
       "addStars": "82",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "Latex code for making neural networks diagrams",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "24,293",
+      "stars": "24,295",
       "forks": "3,034",
       "addStars": "152",
       "contributors": [
@@ -343,7 +343,7 @@
       "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "10,616",
+      "stars": "10,617",
       "forks": "2,797",
       "addStars": "69",
       "contributors": [
@@ -380,8 +380,8 @@
       "description": "Software developer resume in Latex",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,362",
-      "forks": "1,763",
+      "stars": "6,366",
+      "forks": "1,764",
       "addStars": "66",
       "contributors": [
         {
@@ -518,7 +518,7 @@
       "description": "A general repo for Monero Research Lab work in progress and completed work",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "287",
+      "stars": "288",
       "forks": "83",
       "addStars": "3",
       "contributors": [

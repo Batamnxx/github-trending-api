@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Weekly Trending",
   "description": "Weekly Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 03 Jan 2026 02:52:25 GMT",
+  "pubDate": "Sat, 03 Jan 2026 07:23:58 GMT",
   "items": [
     {
       "title": "yetone/avante.nvim",
@@ -10,7 +10,7 @@
       "description": "Use your Neovim like using Cursor AI IDE!",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "16,986",
+      "stars": "16,987",
       "forks": "777",
       "addStars": "92",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "24,776",
+      "stars": "24,779",
       "forks": "1,589",
       "addStars": "149",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。Q群：11033572/11631066",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,471",
+      "stars": "2,477",
       "forks": "98",
       "addStars": "101",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "Find, Filter, Preview, Pick. All lua, all the time.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "18,838",
-      "forks": "939",
+      "stars": "18,840",
+      "forks": "940",
       "addStars": "53",
       "contributors": [
         {
@@ -229,8 +229,8 @@
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "28,876",
-      "forks": "43,097",
+      "stars": "28,877",
+      "forks": "43,098",
       "addStars": "118",
       "contributors": [
         {
@@ -267,7 +267,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "165",
-      "forks": "208",
+      "forks": "209",
       "addStars": "5",
       "contributors": [
         {
@@ -283,7 +283,7 @@
       "description": "Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,319",
+      "stars": "1,321",
       "forks": "44",
       "addStars": "77",
       "contributors": [
@@ -394,8 +394,8 @@
       "description": "The Simple Config Template Of Rime By Mintimate.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,081",
-      "forks": "267",
+      "stars": "4,084",
+      "forks": "269",
       "addStars": "47",
       "contributors": [
         {
@@ -463,8 +463,8 @@
       "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "14,902",
-      "forks": "949",
+      "stars": "14,909",
+      "forks": "950",
       "addStars": "174",
       "contributors": [
         {
@@ -527,7 +527,7 @@
       "description": "Modernity meets insane extensibility. The future of organizing your life in Neovim.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "7,164",
+      "stars": "7,165",
       "forks": "234",
       "addStars": "16",
       "contributors": [
@@ -565,7 +565,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "13,169",
-      "forks": "2,390",
+      "forks": "2,391",
       "addStars": "38",
       "contributors": [
         {
@@ -597,7 +597,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "2,135",
-      "forks": "83",
+      "forks": "84",
       "addStars": "12",
       "contributors": [
         {
@@ -634,7 +634,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "2,683",
-      "forks": "512",
+      "forks": "513",
       "addStars": "8",
       "contributors": [
         {

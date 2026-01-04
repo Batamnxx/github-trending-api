@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Monthly Trending",
   "description": "Monthly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Jan 2026 13:29:31 GMT",
+  "pubDate": "Sun, 04 Jan 2026 19:19:53 GMT",
   "items": [
     {
       "title": "vinceliuice/MacTahoe-gtk-theme",
@@ -10,8 +10,8 @@
       "description": "MacOS Tahoe theme for gtk desktops",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "755",
-      "forks": "29",
+      "stars": "756",
+      "forks": "30",
       "addStars": "327",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "The conventional commits specification",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,421",
+      "stars": "8,420",
       "forks": "644",
       "addStars": "91",
       "contributors": [
@@ -160,7 +160,7 @@
       "description": "Badges for your personal developer branding, profile, and projects.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "16,033",
+      "stars": "16,035",
       "forks": "1,762",
       "addStars": "179",
       "contributors": [
@@ -419,8 +419,8 @@
       "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "16,177",
-      "forks": "4,805",
+      "stars": "16,179",
+      "forks": "4,806",
       "addStars": "209",
       "contributors": [
         {

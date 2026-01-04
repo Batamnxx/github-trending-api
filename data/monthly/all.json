@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Jan 2026 13:29:31 GMT",
+  "pubDate": "Sun, 04 Jan 2026 19:19:53 GMT",
   "items": [
     {
       "title": "thedotmack/claude-mem",
@@ -10,8 +10,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,186",
-      "forks": "622",
+      "stars": "10,211",
+      "forks": "624",
       "addStars": "9,616",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,462",
-      "forks": "2,160",
+      "stars": "19,498",
+      "forks": "2,168",
       "addStars": "9,365",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,663",
-      "forks": "1,715",
+      "stars": "16,689",
+      "forks": "1,718",
       "addStars": "14,163",
       "contributors": [
         {
@@ -96,8 +96,8 @@
       "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,361",
-      "forks": "2,660",
+      "stars": "39,387",
+      "forks": "2,662",
       "addStars": "6,763",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "Get 10X more out of Claude Code, Codex or any coding agent",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,319",
-      "forks": "1,139",
+      "stars": "12,407",
+      "forks": "1,153",
       "addStars": "5,578",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "47,081",
-      "forks": "4,044",
+      "stars": "47,433",
+      "forks": "4,066",
       "addStars": "11,263",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "SoTA open-source TTS",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,526",
-      "forks": "2,677",
+      "stars": "20,563",
+      "forks": "2,680",
       "addStars": "5,600",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,865",
-      "forks": "1,166",
+      "stars": "10,875",
+      "forks": "1,167",
       "addStars": "3,097",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "50,985",
-      "forks": "3,658",
+      "stars": "51,072",
+      "forks": "3,668",
       "addStars": "6,425",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "AGENTS.md — a simple, open format for guiding coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,077",
-      "forks": "994",
+      "stars": "14,121",
+      "forks": "997",
       "addStars": "5,262",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Open-source platform to build and deploy AI agent workflows.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,927",
-      "forks": "3,113",
+      "stars": "24,935",
+      "forks": "3,114",
       "addStars": "6,387",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,140",
-      "forks": "1,504",
+      "stars": "14,180",
+      "forks": "1,509",
       "addStars": "8,456",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,799",
-      "forks": "2,972",
+      "stars": "32,942",
+      "forks": "2,982",
       "addStars": "13,018",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,730",
-      "forks": "88",
+      "stars": "1,737",
+      "forks": "89",
       "addStars": "1,733",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "Personal AI Infrastructure for upgrading humans.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,203",
-      "forks": "573",
+      "stars": "3,258",
+      "forks": "580",
       "addStars": "1,854",
       "contributors": [
         {

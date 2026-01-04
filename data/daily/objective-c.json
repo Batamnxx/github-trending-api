@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Jan 2026 13:29:31 GMT",
+  "pubDate": "Sun, 04 Jan 2026 19:19:53 GMT",
   "items": [
     {
       "title": "gnachman/iTerm2",
@@ -158,7 +158,7 @@
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "14,214",
+      "stars": "14,216",
       "forks": "652",
       "addStars": "8",
       "contributors": [
@@ -577,7 +577,7 @@
       "description": "A software update framework for macOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "8,435",
+      "stars": "8,436",
       "forks": "1,090",
       "addStars": "4",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Sun, 04 Jan 2026 13:29:31 GMT</pubDate>
+    <pubDate>Sun, 04 Jan 2026 19:19:53 GMT</pubDate>
     <item>
       <title>goldbergyoni/nodebestpractices</title>
       <link>https://github.com/goldbergyoni/nodebestpractices</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/goldbergyoni/nodebestpractices</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>104,884</stars>
+      <stars>104,886</stars>
       <forks>10,683</forks>
-      <addStars>10</addStars>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8571500?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/piyushsachdeva/CKA-2024</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>918</stars>
-      <forks>1,604</forks>
-      <addStars>0</addStars>
+      <stars>919</stars>
+      <forks>1,605</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/40286378?s=40&amp;v=4</avatar>
@@ -82,8 +82,8 @@
       <guid>https://github.com/Anduin2017/HowToCook</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>96,811</stars>
-      <forks>10,738</forks>
+      <stars>96,816</stars>
+      <forks>10,739</forks>
       <addStars>18</addStars>
       <contributors>
         <contributor>
@@ -115,9 +115,9 @@
       <guid>https://github.com/TechHutTV/homelab</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>2,334</stars>
+      <stars>2,335</stars>
       <forks>256</forks>
-      <addStars>7</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/76761586?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/Vinpink2/JUNE-X</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>467</stars>
-      <forks>1,226</forks>
-      <addStars>1</addStars>
+      <stars>468</stars>
+      <forks>1,230</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/166421298?s=40&amp;v=4</avatar>
@@ -219,7 +219,7 @@
       <guid>https://github.com/YanWenKun/ComfyUI-Docker</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>1,297</stars>
+      <stars>1,298</stars>
       <forks>210</forks>
       <addStars>0</addStars>
       <contributors>
@@ -297,7 +297,7 @@
       <languageColor>#384d54</languageColor>
       <stars>4,013</stars>
       <forks>405</forks>
-      <addStars>0</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/26030610?s=40&amp;v=4</avatar>
@@ -333,9 +333,9 @@
       <guid>https://github.com/OWASP/wstg</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>8,692</stars>
-      <forks>1,525</forks>
-      <addStars>3</addStars>
+      <stars>8,693</stars>
+      <forks>1,526</forks>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7570458?s=40&amp;v=4</avatar>

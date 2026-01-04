@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c++ Languages Monthly Trending",
   "description": "Monthly Trending of Objective-c++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Jan 2026 03:11:04 GMT",
+  "pubDate": "Sun, 04 Jan 2026 07:26:25 GMT",
   "items": [
     {
       "title": "thusvill/LiveWallpaperMacOS",
@@ -84,7 +84,7 @@
       "description": "Rich Text Editor for React Native",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "909",
+      "stars": "910",
       "forks": "28",
       "addStars": "50",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "5,426",
+      "stars": "5,427",
       "forks": "466",
       "addStars": "51",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "TextMate is a graphical text editor for macOS 10.12 or later",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "14,736",
+      "stars": "14,737",
       "forks": "1,730",
       "addStars": "39",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Mon, 05 Jan 2026 03:14:21 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 07:33:29 GMT</pubDate>
     <item>
       <title>nocodb/nocodb</title>
       <link>https://github.com/nocodb/nocodb</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/nocodb/nocodb</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>60,658</stars>
-      <forks>4,508</forks>
+      <stars>60,745</stars>
+      <forks>4,515</forks>
       <addStars>383</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/ourongxing/newsnow</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,615</stars>
-      <forks>4,813</forks>
+      <stars>16,655</stars>
+      <forks>4,821</forks>
       <addStars>332</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>48,003</stars>
-      <forks>4,104</forks>
+      <stars>48,476</stars>
+      <forks>4,128</forks>
       <addStars>1,046</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/johannesjo/super-productivity</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,777</stars>
-      <forks>1,374</forks>
+      <stars>16,780</stars>
+      <forks>1,375</forks>
       <addStars>22</addStars>
       <contributors>
         <contributor>
@@ -186,7 +186,7 @@
       <guid>https://github.com/withastro/astro</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>55,317</stars>
+      <stars>55,319</stars>
       <forks>3,050</forks>
       <addStars>29</addStars>
       <contributors>
@@ -219,8 +219,8 @@
       <guid>https://github.com/danielmiessler/Personal_AI_Infrastructure</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,360</stars>
-      <forks>592</forks>
+      <stars>3,412</stars>
+      <forks>597</forks>
       <addStars>216</addStars>
       <contributors>
         <contributor>
@@ -239,14 +239,14 @@
           <url>https://github.com/mvoehringer</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18382402?s=40&amp;v=4</avatar>
+          <name>sti0</name>
+          <url>https://github.com/sti0</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/234407473?s=40&amp;v=4</avatar>
           <name>fayerman-source</name>
           <url>https://github.com/fayerman-source</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/660055?s=40&amp;v=4</avatar>
-          <name>emory</name>
-          <url>https://github.com/emory</url>
         </contributor>
       </contributors>
     </item>
@@ -257,7 +257,7 @@
       <guid>https://github.com/maplibre/maplibre-gl-js</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,216</stars>
+      <stars>9,225</stars>
       <forks>965</forks>
       <addStars>262</addStars>
       <contributors>
@@ -290,8 +290,8 @@
       <guid>https://github.com/ChatGPTNextWeb/NextChat</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>86,924</stars>
-      <forks>60,593</forks>
+      <stars>86,931</stars>
+      <forks>60,594</forks>
       <addStars>20</addStars>
       <contributors>
         <contributor>
@@ -328,7 +328,7 @@
       <guid>https://github.com/voideditor/void</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,948</stars>
+      <stars>27,951</stars>
       <forks>2,233</forks>
       <addStars>28</addStars>
       <contributors>
@@ -366,7 +366,7 @@
       <guid>https://github.com/angular/angular</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>99,613</stars>
+      <stars>99,615</stars>
       <forks>26,957</forks>
       <addStars>9</addStars>
       <contributors>
@@ -404,7 +404,7 @@
       <guid>https://github.com/nukeop/nuclear</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,925</stars>
+      <stars>16,928</stars>
       <forks>1,261</forks>
       <addStars>241</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 05 Jan 2026 03:14:21 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 07:33:29 GMT</pubDate>
     <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,243</stars>
+      <stars>10,276</stars>
       <forks>626</forks>
       <addStars>9,735</addStars>
       <contributors>
@@ -39,8 +39,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,539</stars>
-      <forks>2,173</forks>
+      <stars>19,567</stars>
+      <forks>2,177</forks>
       <addStars>9,438</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/DayuanJiang/next-ai-draw-io</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,749</stars>
-      <forks>1,724</forks>
+      <stars>16,805</stars>
+      <forks>1,727</forks>
       <addStars>13,848</addStars>
       <contributors>
         <contributor>
@@ -100,8 +100,8 @@
       <guid>https://github.com/exo-explore/exo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>39,411</stars>
-      <forks>2,662</forks>
+      <stars>39,427</stars>
+      <forks>2,663</forks>
       <addStars>6,813</addStars>
       <contributors>
         <contributor>
@@ -138,8 +138,8 @@
       <guid>https://github.com/BloopAI/vibe-kanban</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,530</stars>
-      <forks>1,164</forks>
+      <stars>12,630</stars>
+      <forks>1,175</forks>
       <addStars>6,206</addStars>
       <contributors>
         <contributor>
@@ -176,8 +176,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>47,972</stars>
-      <forks>4,101</forks>
+      <stars>48,436</stars>
+      <forks>4,127</forks>
       <addStars>12,011</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/resemble-ai/chatterbox</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,607</stars>
-      <forks>2,684</forks>
+      <stars>20,647</stars>
+      <forks>2,685</forks>
       <addStars>5,750</addStars>
       <contributors>
         <contributor>
@@ -252,8 +252,8 @@
       <guid>https://github.com/Tencent/WeKnora</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>10,900</stars>
-      <forks>1,168</forks>
+      <stars>10,914</stars>
+      <forks>1,170</forks>
       <addStars>3,157</addStars>
       <contributors>
         <contributor>
@@ -290,8 +290,8 @@
       <guid>https://github.com/anthropics/claude-code</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>51,187</stars>
-      <forks>3,677</forks>
+      <stars>51,264</stars>
+      <forks>3,688</forks>
       <addStars>6,620</addStars>
       <contributors>
         <contributor>
@@ -328,7 +328,7 @@
       <guid>https://github.com/agentsmd/agents.md</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,176</stars>
+      <stars>14,212</stars>
       <forks>1,002</forks>
       <addStars>5,351</addStars>
       <contributors>
@@ -366,7 +366,7 @@
       <guid>https://github.com/simstudioai/sim</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,950</stars>
+      <stars>24,958</stars>
       <forks>3,115</forks>
       <addStars>6,420</addStars>
       <contributors>
@@ -404,8 +404,8 @@
       <guid>https://github.com/datawhalechina/hello-agents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,224</stars>
-      <forks>1,515</forks>
+      <stars>14,287</stars>
+      <forks>1,520</forks>
       <addStars>8,614</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>33,130</stars>
-      <forks>2,992</forks>
+      <stars>33,339</stars>
+      <forks>3,011</forks>
       <addStars>13,586</addStars>
       <contributors>
         <contributor>
@@ -480,7 +480,7 @@
       <guid>https://github.com/NVIDIA/cutile-python</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,745</stars>
+      <stars>1,750</stars>
       <forks>89</forks>
       <addStars>1,736</addStars>
       <contributors>
@@ -518,8 +518,8 @@
       <guid>https://github.com/danielmiessler/Personal_AI_Infrastructure</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,357</stars>
-      <forks>592</forks>
+      <stars>3,408</stars>
+      <forks>597</forks>
       <addStars>2,039</addStars>
       <contributors>
         <contributor>
@@ -538,14 +538,14 @@
           <url>https://github.com/mvoehringer</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18382402?s=40&amp;v=4</avatar>
+          <name>sti0</name>
+          <url>https://github.com/sti0</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/234407473?s=40&amp;v=4</avatar>
           <name>fayerman-source</name>
           <url>https://github.com/fayerman-source</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/660055?s=40&amp;v=4</avatar>
-          <name>emory</name>
-          <url>https://github.com/emory</url>
         </contributor>
       </contributors>
     </item>

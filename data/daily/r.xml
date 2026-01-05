@@ -3,7 +3,7 @@
     <title>GitHub R Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of R Languages in GitHub</description>
-    <pubDate>Mon, 05 Jan 2026 03:14:21 GMT</pubDate>
+    <pubDate>Mon, 05 Jan 2026 07:33:29 GMT</pubDate>
     <item>
       <title>rstudio/rmarkdown</title>
       <link>https://github.com/rstudio/rmarkdown</link>
@@ -50,7 +50,7 @@
       <language>R</language>
       <languageColor>#198CE7</languageColor>
       <stars>376</stars>
-      <forks>201</forks>
+      <forks>202</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -125,7 +125,7 @@
       <guid>https://github.com/tidyverse/ggplot2</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>6,846</stars>
+      <stars>6,845</stars>
       <forks>2,118</forks>
       <addStars>1</addStars>
       <contributors>
@@ -344,7 +344,7 @@
       <language>R</language>
       <languageColor>#198CE7</languageColor>
       <stars>872</stars>
-      <forks>143,975</forks>
+      <forks>143,974</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Monthly Trending",
   "description": "Monthly Trending of Yaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Jan 2026 19:19:53 GMT",
+  "pubDate": "Mon, 05 Jan 2026 03:14:21 GMT",
   "items": [
     {
       "title": "web-platform-dx/web-features",
@@ -10,9 +10,9 @@
       "description": "Exploring how to present Web platform features adoptability",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "755",
+      "stars": "757",
       "forks": "233",
-      "addStars": "32",
+      "addStars": "31",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/64103?s=40&v=4",
@@ -187,7 +187,7 @@
       "languageColor": "#cb171e",
       "stars": "417",
       "forks": "75",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2350?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "2,649",
+      "stars": "2,650",
       "forks": "945",
-      "addStars": "47",
+      "addStars": "46",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11727736?s=40&v=4",
@@ -259,7 +259,7 @@
       "description": "aqua's Standard Registry",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "253",
+      "stars": "254",
       "forks": "246",
       "addStars": "14",
       "contributors": [

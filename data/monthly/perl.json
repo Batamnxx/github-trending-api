@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 07 Jan 2026 03:00:17 GMT",
+  "pubDate": "Wed, 07 Jan 2026 07:30:48 GMT",
   "items": [
     {
       "title": "Aetherinox/csf-firewall",
@@ -79,7 +79,7 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "19,111",
+      "stars": "19,113",
       "forks": "2,076",
       "addStars": "89",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "22,325",
+      "stars": "22,327",
       "forks": "1,089",
       "addStars": "202",
       "contributors": [
@@ -286,7 +286,7 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,436",
+      "stars": "3,437",
       "forks": "162",
       "addStars": "60",
       "contributors": [

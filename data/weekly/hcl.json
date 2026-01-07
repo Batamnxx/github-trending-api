@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 07 Jan 2026 03:00:17 GMT",
+  "pubDate": "Wed, 07 Jan 2026 07:30:48 GMT",
   "items": [
     {
       "title": "antonputra/tutorials",
@@ -10,7 +10,7 @@
       "description": "DevOps Tutorials",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "4,374",
+      "stars": "4,375",
       "forks": "2,999",
       "addStars": "20",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "1,682",
+      "stars": "1,683",
       "forks": "1,199",
       "addStars": "60",
       "contributors": [
@@ -180,8 +180,8 @@
       "description": "",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "207",
-      "forks": "280",
+      "stars": "208",
+      "forks": "281",
       "addStars": "17",
       "contributors": [
         {

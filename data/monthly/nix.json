@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 07 Jan 2026 03:00:17 GMT",
+  "pubDate": "Wed, 07 Jan 2026 07:30:48 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,7 +10,7 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "22,974",
+      "stars": "22,975",
       "forks": "17,642",
       "addStars": "373",
       "contributors": [
@@ -175,7 +175,7 @@
       "description": "My NixOS configurations.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,817",
+      "stars": "2,818",
       "forks": "242",
       "addStars": "68",
       "contributors": [
@@ -584,7 +584,7 @@
       "description": "A Nix library to create wrapped executables via the module system",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "215",
+      "stars": "216",
       "forks": "24",
       "addStars": "27",
       "contributors": [

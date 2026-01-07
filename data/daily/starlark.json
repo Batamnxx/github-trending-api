@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 07 Jan 2026 03:00:17 GMT",
+  "pubDate": "Wed, 07 Jan 2026 07:30:48 GMT",
   "items": [
     {
       "title": "googleapis/googleapis",
@@ -10,8 +10,8 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "8,349",
-      "forks": "2,514",
+      "stars": "8,350",
+      "forks": "2,515",
       "addStars": "2",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "22,011",
-      "forks": "1,335",
+      "stars": "22,012",
+      "forks": "1,336",
       "addStars": "4",
       "contributors": [
         {
@@ -144,7 +144,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": "376",
-      "forks": "73",
+      "forks": "74",
       "addStars": "0",
       "contributors": [
         {

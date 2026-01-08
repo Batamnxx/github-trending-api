@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 08 Jan 2026 13:40:42 GMT",
+  "pubDate": "Thu, 08 Jan 2026 19:24:12 GMT",
   "items": [
     {
       "title": "MiroMindAI/MiroThinker",
@@ -10,8 +10,8 @@
       "description": "MiroThinker is an open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,240",
-      "forks": "208",
+      "stars": "3,344",
+      "forks": "216",
       "addStars": "799",
       "contributors": [
         {
@@ -37,13 +37,50 @@
       ]
     },
     {
+      "title": "NVlabs/alpasim",
+      "url": "https://github.com/NVlabs/alpasim",
+      "description": "",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "507",
+      "forks": "42",
+      "addStars": "65",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/157857377?s=40&v=4",
+          "name": "mwatson-nvidia",
+          "url": "https://github.com/mwatson-nvidia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4333579?s=40&v=4",
+          "name": "maximilianigl",
+          "url": "https://github.com/maximilianigl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/232947330?s=40&v=4",
+          "name": "aarons-nv",
+          "url": "https://github.com/aarons-nv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13118582?s=40&v=4",
+          "name": "wilsonCernWq",
+          "url": "https://github.com/wilsonCernWq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10713926?s=40&v=4",
+          "name": "karkuspeter",
+          "url": "https://github.com/karkuspeter"
+        }
+      ]
+    },
+    {
       "title": "Lightricks/ComfyUI-LTXVideo",
       "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
       "description": "LTX-Video Support for ComfyUI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,584",
-      "forks": "256",
+      "stars": "2,623",
+      "forks": "263",
       "addStars": "44",
       "contributors": [
         {
@@ -79,8 +116,8 @@
       "description": "Memory infrastructure for LLMs and AI agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,613",
-      "forks": "244",
+      "stars": "3,718",
+      "forks": "249",
       "addStars": "97",
       "contributors": [
         {
@@ -111,8 +148,8 @@
       "description": "[KDD'2026] \"VideoRAG: Chat with Your Videos\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,910",
-      "forks": "283",
+      "stars": "1,986",
+      "forks": "286",
       "addStars": "120",
       "contributors": [
         {
@@ -148,8 +185,8 @@
       "description": "Universal memory layer for AI Agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,212",
-      "forks": "4,929",
+      "stars": "45,231",
+      "forks": "4,931",
       "addStars": "84",
       "contributors": [
         {
@@ -185,7 +222,7 @@
       "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,405",
+      "stars": "42,421",
       "forks": "5,689",
       "addStars": "57",
       "contributors": [
@@ -222,8 +259,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "390,184",
-      "forks": "41,707",
+      "stars": "390,226",
+      "forks": "41,706",
       "addStars": "211",
       "contributors": [
         {
@@ -259,8 +296,8 @@
       "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "74,963",
-      "forks": "8,951",
+      "stars": "74,985",
+      "forks": "8,956",
       "addStars": "171",
       "contributors": [
         {
@@ -296,7 +333,7 @@
       "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "65,231",
+      "stars": "65,240",
       "forks": "7,929",
       "addStars": "123",
       "contributors": [
@@ -333,7 +370,7 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "96,438",
+      "stars": "96,443",
       "forks": "26,454",
       "addStars": "36",
       "contributors": [
@@ -370,7 +407,7 @@
       "description": "MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,927",
+      "stars": "1,937",
       "forks": "201",
       "addStars": "75",
       "contributors": [
@@ -407,8 +444,8 @@
       "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,398",
-      "forks": "997",
+      "stars": "6,405",
+      "forks": "1,000",
       "addStars": "27",
       "contributors": [
         {
@@ -444,8 +481,8 @@
       "description": "🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,882",
-      "forks": "1,320",
+      "stars": "2,891",
+      "forks": "1,321",
       "addStars": "55",
       "contributors": [
         {
@@ -481,9 +518,9 @@
       "description": "🦜🔗 The platform for reliable agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "123,735",
-      "forks": "20,385",
-      "addStars": "100",
+      "stars": "123,747",
+      "forks": "20,386",
+      "addStars": "112",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22008038?s=40&v=4",
@@ -518,7 +555,7 @@
       "description": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,221",
+      "stars": "7,223",
       "forks": "1,545",
       "addStars": "43",
       "contributors": [
@@ -550,8 +587,8 @@
       "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,844",
-      "forks": "1,355",
+      "stars": "16,849",
+      "forks": "1,356",
       "addStars": "317",
       "contributors": [
         {

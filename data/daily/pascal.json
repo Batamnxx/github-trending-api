@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Daily Trending",
   "description": "Daily Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 08 Jan 2026 13:40:42 GMT",
+  "pubDate": "Thu, 08 Jan 2026 19:24:12 GMT",
   "items": [
     {
       "title": "HeidiSQL/HeidiSQL",
@@ -47,8 +47,8 @@
       "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "3,731",
-      "forks": "259",
+      "stars": "3,733",
+      "forks": "260",
       "addStars": "4",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Cheat Engine. A development environment focused on modding",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "17,559",
+      "stars": "17,558",
       "forks": "2,476",
       "addStars": "6",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "A fast, portable, simple, and free C/C++ IDE",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "2,867",
+      "stars": "2,869",
       "forks": "315",
       "addStars": "1",
       "contributors": [
@@ -158,8 +158,8 @@
       "description": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "5,060",
-      "forks": "1,060",
+      "stars": "5,061",
+      "forks": "1,061",
       "addStars": "1",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "3,389",
+      "stars": "3,388",
       "forks": "285",
       "addStars": "2",
       "contributors": [

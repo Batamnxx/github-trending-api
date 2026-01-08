@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Monthly Trending",
   "description": "Monthly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 08 Jan 2026 02:59:56 GMT",
+  "pubDate": "Thu, 08 Jan 2026 07:29:43 GMT",
   "items": [
     {
       "title": "openwrt/packages",
@@ -227,8 +227,8 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "54,947",
-      "forks": "5,420",
+      "stars": "54,949",
+      "forks": "5,419",
       "addStars": "368",
       "contributors": [
         {
@@ -264,7 +264,7 @@
       "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "2,766",
+      "stars": "2,767",
       "forks": "122",
       "addStars": "84",
       "contributors": [
@@ -302,7 +302,7 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": "17,257",
-      "forks": "1,796",
+      "forks": "1,797",
       "addStars": "109",
       "contributors": [
         {

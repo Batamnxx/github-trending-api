@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Fortran Languages in GitHub</description>
-    <pubDate>Thu, 08 Jan 2026 02:59:56 GMT</pubDate>
+    <pubDate>Thu, 08 Jan 2026 07:29:43 GMT</pubDate>
     <item>
       <title>MetOffice/lfric_apps</title>
       <link>https://github.com/MetOffice/lfric_apps</link>
@@ -311,7 +311,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>850</stars>
-      <forks>507</forks>
+      <forks>508</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>

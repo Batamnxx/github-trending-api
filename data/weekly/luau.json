@@ -2,7 +2,7 @@
   "title": "GitHub Luau Languages Weekly Trending",
   "description": "Weekly Trending of Luau Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 09 Jan 2026 07:30:39 GMT",
+  "pubDate": "Fri, 09 Jan 2026 13:37:56 GMT",
   "items": [
     {
       "title": "littensy/charm",
@@ -10,7 +10,7 @@
       "description": "🍀 Atomic state management for Roblox",
       "language": "Luau",
       "languageColor": "#00A2FF",
-      "stars": "154",
+      "stars": "155",
       "forks": "15",
       "addStars": "2",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "Luau",
       "languageColor": "#00A2FF",
       "stars": "466",
-      "forks": "147",
+      "forks": "148",
       "addStars": "2",
       "contributors": [
         {

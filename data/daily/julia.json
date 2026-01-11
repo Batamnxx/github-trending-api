@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Jan 2026 03:10:35 GMT",
+  "pubDate": "Sun, 11 Jan 2026 07:26:31 GMT",
   "items": [
     {
       "title": "JuliaRegistries/General",
@@ -80,7 +80,7 @@
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": "48,209",
-      "forks": "5,704",
+      "forks": "5,703",
       "addStars": "1",
       "contributors": [
         {

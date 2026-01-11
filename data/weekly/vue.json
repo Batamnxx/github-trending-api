@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Weekly Trending",
   "description": "Weekly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Jan 2026 13:30:03 GMT",
+  "pubDate": "Sun, 11 Jan 2026 19:20:09 GMT",
   "items": [
     {
       "title": "requarks/wiki",
@@ -48,7 +48,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "5,599",
-      "forks": "2,545",
+      "forks": "2,546",
       "addStars": "165",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,049",
+      "stars": "6,051",
       "forks": "469",
       "addStars": "32",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "31,204",
-      "forks": "8,485",
+      "stars": "31,205",
+      "forks": "8,484",
       "addStars": "97",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Friendship management tool for VRChat",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,571",
-      "forks": "304",
+      "stars": "1,573",
+      "forks": "305",
       "addStars": "15",
       "contributors": [
         {
@@ -259,7 +259,7 @@
       "description": "Fully featured, open source CRM",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,183",
+      "stars": "2,184",
       "forks": "811",
       "addStars": "31",
       "contributors": [
@@ -297,7 +297,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "7,630",
-      "forks": "1,343",
+      "forks": "1,342",
       "addStars": "140",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "一个基于 Vue 3 + Element Plus 的智能Ai小说创作工具，集成多种 AI 模型，助力作者高效创作",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,151",
+      "stars": "1,152",
       "forks": "285",
       "addStars": "73",
       "contributors": [
@@ -387,7 +387,7 @@
       "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "90,260",
+      "stars": "90,259",
       "forks": "30,655",
       "addStars": "27",
       "contributors": [
@@ -424,7 +424,7 @@
       "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "11,428",
+      "stars": "11,430",
       "forks": "1,939",
       "addStars": "94",
       "contributors": [
@@ -456,8 +456,8 @@
       "description": "测试站，密码admin",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,440",
-      "forks": "1,970",
+      "stars": "1,443",
+      "forks": "1,969",
       "addStars": "43",
       "contributors": [
         {
@@ -493,7 +493,7 @@
       "description": "Next Generation Vue UI Component Library",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "13,922",
+      "stars": "13,923",
       "forks": "1,623",
       "addStars": "42",
       "contributors": [
@@ -530,7 +530,7 @@
       "description": "AI 写作伙伴，点亮你的创作灵感",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,054",
+      "stars": "1,055",
       "forks": "255",
       "addStars": "40",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Jan 2026 13:30:03 GMT",
+  "pubDate": "Sun, 11 Jan 2026 19:20:09 GMT",
   "items": [
     {
       "title": "anomalyco/opencode",
@@ -10,8 +10,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "60,813",
-      "forks": "5,222",
+      "stars": "61,393",
+      "forks": "5,278",
       "addStars": "12,889",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,300",
-      "forks": "99",
+      "stars": "1,452",
+      "forks": "104",
       "addStars": "748",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "55,036",
-      "forks": "3,980",
+      "stars": "55,164",
+      "forks": "3,992",
       "addStars": "3,895",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,581",
-      "forks": "2,187",
+      "stars": "22,703",
+      "forks": "2,193",
       "addStars": "1,824",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,067",
-      "forks": "5,633",
+      "stars": "58,103",
+      "forks": "5,636",
       "addStars": "1,763",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,231",
-      "forks": "1,232",
+      "stars": "20,285",
+      "forks": "1,233",
       "addStars": "1,459",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "53,004",
-      "forks": "3,791",
+      "stars": "53,061",
+      "forks": "3,792",
       "addStars": "3,513",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Claude Code superpowers: core skills library",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "16,540",
-      "forks": "1,303",
+      "stars": "16,836",
+      "forks": "1,333",
       "addStars": "2,576",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "38,053",
+      "stars": "38,057",
       "forks": "10,665",
       "addStars": "335",
       "contributors": [
@@ -323,8 +323,8 @@
       "description": "Get 10X more out of Claude Code, Codex or any coding agent",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "14,700",
-      "forks": "1,371",
+      "stars": "14,775",
+      "forks": "1,376",
       "addStars": "2,879",
       "contributors": [
         {

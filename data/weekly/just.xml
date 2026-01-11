@@ -3,7 +3,7 @@
     <title>GitHub Just Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Just Languages in GitHub</description>
-    <pubDate>Sun, 11 Jan 2026 13:30:03 GMT</pubDate>
+    <pubDate>Sun, 11 Jan 2026 19:20:09 GMT</pubDate>
     <item>
       <title>ublue-os/image-template</title>
       <link>https://github.com/ublue-os/image-template</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ublue-os/image-template</guid>
       <language>Just</language>
       <languageColor>#384d54</languageColor>
-      <stars>578</stars>
-      <forks>124</forks>
+      <stars>579</stars>
+      <forks>125</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>
@@ -39,7 +39,7 @@
       <guid>https://github.com/catppuccin/zed</guid>
       <language>Just</language>
       <languageColor>#384d54</languageColor>
-      <stars>693</stars>
+      <stars>694</stars>
       <forks>23</forks>
       <addStars>11</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Monthly Trending",
   "description": "Monthly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Jan 2026 13:30:03 GMT",
+  "pubDate": "Sun, 11 Jan 2026 19:20:09 GMT",
   "items": [
     {
       "title": "CorentinTh/it-tools",
@@ -10,8 +10,8 @@
       "description": "Collection of handy online tools for developers, with great UX.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "36,371",
-      "forks": "4,499",
+      "stars": "36,373",
+      "forks": "4,498",
       "addStars": "1,146",
       "contributors": [
         {
@@ -43,7 +43,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "5,599",
-      "forks": "2,545",
+      "forks": "2,546",
       "addStars": "571",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,075",
+      "stars": "6,077",
       "forks": "1,044",
       "addStars": "308",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "11,428",
+      "stars": "11,430",
       "forks": "1,939",
       "addStars": "296",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "19,569",
+      "stars": "19,570",
       "forks": "3,645",
       "addStars": "289",
       "contributors": [
@@ -223,7 +223,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "289",
-      "forks": "28,823",
+      "forks": "28,876",
       "addStars": "14",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "18,598",
-      "forks": "3,920",
+      "stars": "18,599",
+      "forks": "3,921",
       "addStars": "229",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,049",
+      "stars": "1,050",
       "forks": "283",
       "addStars": "55",
       "contributors": [
@@ -350,7 +350,7 @@
       "description": "An Open Source YouTube app for privacy",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "19,869",
+      "stars": "19,872",
       "forks": "1,299",
       "addStars": "372",
       "contributors": [
@@ -483,8 +483,8 @@
       "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "32,420",
-      "forks": "4,735",
+      "stars": "32,428",
+      "forks": "4,734",
       "addStars": "315",
       "contributors": [
         {
@@ -521,7 +521,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "7,630",
-      "forks": "1,343",
+      "forks": "1,342",
       "addStars": "219",
       "contributors": [
         {
@@ -552,8 +552,8 @@
       "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "13,783",
-      "forks": "1,137",
+      "stars": "13,787",
+      "forks": "1,138",
       "addStars": "650",
       "contributors": [
         {
@@ -589,7 +589,7 @@
       "description": "Fully featured, open source CRM",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,183",
+      "stars": "2,184",
       "forks": "811",
       "addStars": "101",
       "contributors": [

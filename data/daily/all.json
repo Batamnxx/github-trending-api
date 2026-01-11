@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Jan 2026 13:30:03 GMT",
+  "pubDate": "Sun, 11 Jan 2026 19:20:09 GMT",
   "items": [
     {
       "title": "anomalyco/opencode",
@@ -10,9 +10,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "60,813",
-      "forks": "5,222",
-      "addStars": "2,248",
+      "stars": "61,393",
+      "forks": "5,278",
+      "addStars": "2,088",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "Claude Code superpowers: core skills library",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "16,540",
-      "forks": "1,303",
+      "stars": "16,836",
+      "forks": "1,333",
       "addStars": "702",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,300",
-      "forks": "99",
-      "addStars": "196",
+      "stars": "1,452",
+      "forks": "104",
+      "addStars": "357",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/136862992?s=40&v=4",
@@ -116,8 +116,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,416",
-      "forks": "1,340",
+      "stars": "15,517",
+      "forks": "1,344",
       "addStars": "131",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,321",
-      "forks": "3,255",
+      "stars": "43,430",
+      "forks": "3,262",
       "addStars": "317",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Emoji for everyone. https://twemoji.twitter.com/",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "17,391",
-      "forks": "1,904",
+      "stars": "17,420",
+      "forks": "1,903",
       "addStars": "10",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,581",
-      "forks": "2,187",
+      "stars": "22,703",
+      "forks": "2,193",
       "addStars": "471",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "38,523",
-      "forks": "4,905",
+      "stars": "38,588",
+      "forks": "4,909",
       "addStars": "343",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "📘 Home Assistant User documentation",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "7,798",
-      "forks": "8,074",
+      "stars": "7,873",
+      "forks": "8,078",
       "addStars": "5",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "55,036",
-      "forks": "3,980",
+      "stars": "55,164",
+      "forks": "3,992",
       "addStars": "602",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,433",
-      "forks": "769",
+      "stars": "14,514",
+      "forks": "773",
       "addStars": "312",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "Open-source platform to build and deploy AI agent workflows.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,320",
-      "forks": "3,151",
+      "stars": "25,378",
+      "forks": "3,153",
       "addStars": "145",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,269",
-      "forks": "615",
+      "stars": "2,380",
+      "forks": "637",
       "addStars": "340",
       "contributors": [
         {

@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Mon, 12 Jan 2026 13:42:05 GMT</pubDate>
+    <pubDate>Mon, 12 Jan 2026 19:24:47 GMT</pubDate>
     <item>
       <title>anomalyco/opencode</title>
       <link>https://github.com/anomalyco/opencode</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>64,100</stars>
-      <forks>5,498</forks>
+      <stars>64,499</stars>
+      <forks>5,538</forks>
       <addStars>22,938</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,399</stars>
-      <forks>867</forks>
+      <stars>13,435</stars>
+      <forks>874</forks>
       <addStars>9,771</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/danielmiessler/Personal_AI_Infrastructure</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,396</stars>
-      <forks>717</forks>
+      <stars>4,425</stars>
+      <forks>719</forks>
       <addStars>3,011</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>23,080</stars>
-      <forks>2,236</forks>
+      <stars>23,148</stars>
+      <forks>2,244</forks>
       <addStars>2,828</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/Lissy93/web-check</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>29,456</stars>
-      <forks>2,358</forks>
+      <stars>29,486</stars>
+      <forks>2,361</forks>
       <addStars>2,415</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/simstudioai/sim</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,514</stars>
-      <forks>3,164</forks>
+      <stars>25,547</stars>
+      <forks>3,167</forks>
       <addStars>6,739</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,547</stars>
-      <forks>201</forks>
+      <stars>1,557</stars>
+      <forks>203</forks>
       <addStars>1,067</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/DayuanJiang/next-ai-draw-io</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>18,048</stars>
-      <forks>1,844</forks>
+      <stars>18,066</stars>
+      <forks>1,849</forks>
       <addStars>11,008</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/tailwindlabs/tailwindcss</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>92,769</stars>
-      <forks>4,963</forks>
+      <stars>92,783</stars>
+      <forks>4,966</forks>
       <addStars>1,378</addStars>
       <contributors>
         <contributor>
@@ -328,8 +328,8 @@
       <guid>https://github.com/iptv-org/iptv</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>109,235</stars>
-      <forks>5,325</forks>
+      <stars>109,313</stars>
+      <forks>5,328</forks>
       <addStars>4,496</addStars>
       <contributors>
         <contributor>
@@ -361,8 +361,8 @@
       <guid>https://github.com/f/awesome-chatgpt-prompts</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>142,163</stars>
-      <forks>18,861</forks>
+      <stars>142,176</stars>
+      <forks>18,863</forks>
       <addStars>3,327</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/nocodb/nocodb</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>61,351</stars>
-      <forks>4,555</forks>
+      <stars>61,360</stars>
+      <forks>4,559</forks>
       <addStars>2,382</addStars>
       <contributors>
         <contributor>
@@ -437,7 +437,7 @@
       <guid>https://github.com/anthropics/claude-agent-sdk-demos</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,107</stars>
+      <stars>1,110</stars>
       <forks>176</forks>
       <addStars>365</addStars>
       <contributors>
@@ -475,8 +475,8 @@
       <guid>https://github.com/makeplane/plane</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>43,803</stars>
-      <forks>3,289</forks>
+      <stars>43,843</stars>
+      <forks>3,291</forks>
       <addStars>3,049</addStars>
       <contributors>
         <contributor>
@@ -513,8 +513,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,517</stars>
-      <forks>1,241</forks>
+      <stars>20,560</stars>
+      <forks>1,244</forks>
       <addStars>3,987</addStars>
       <contributors>
         <contributor>
@@ -546,7 +546,7 @@
       <guid>https://github.com/daytonaio/daytona</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>45,301</stars>
+      <stars>45,429</stars>
       <forks>3,911</forks>
       <addStars>9,979</addStars>
       <contributors>
@@ -584,7 +584,7 @@
       <guid>https://github.com/refly-ai/refly</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,943</stars>
+      <stars>5,945</stars>
       <forks>570</forks>
       <addStars>938</addStars>
       <contributors>

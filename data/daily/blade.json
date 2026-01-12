@@ -2,7 +2,7 @@
   "title": "GitHub Blade Languages Daily Trending",
   "description": "Daily Trending of Blade Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 12 Jan 2026 03:08:26 GMT",
+  "pubDate": "Mon, 12 Jan 2026 07:32:32 GMT",
   "items": [
     {
       "title": "livewire/flux",
@@ -48,7 +48,7 @@
       "language": "Blade",
       "languageColor": "#f7523f",
       "stars": "83,289",
-      "forks": "24,656",
+      "forks": "24,658",
       "addStars": "9",
       "contributors": [
         {

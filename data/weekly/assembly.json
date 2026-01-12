@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Weekly Trending",
   "description": "Weekly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 12 Jan 2026 03:08:26 GMT",
+  "pubDate": "Mon, 12 Jan 2026 07:32:32 GMT",
   "items": [
     {
       "title": "vxunderground/MalwareSourceCode",
@@ -10,7 +10,7 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "17,733",
+      "stars": "17,732",
       "forks": "2,004",
       "addStars": "126",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "Official Go implementation of Apache Arrow",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "302",
+      "stars": "303",
       "forks": "85",
       "addStars": "2",
       "contributors": [
@@ -424,7 +424,7 @@
       "description": "Functional verification project for the CORE-V family of RISC-V cores.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "639",
+      "stars": "640",
       "forks": "263",
       "addStars": "8",
       "contributors": [
@@ -498,7 +498,7 @@
       "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "5,982",
+      "stars": "5,984",
       "forks": "421",
       "addStars": "9",
       "contributors": [

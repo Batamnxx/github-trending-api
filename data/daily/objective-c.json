@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 12 Jan 2026 03:08:26 GMT",
+  "pubDate": "Mon, 12 Jan 2026 07:32:32 GMT",
   "items": [
     {
       "title": "geode-sdk/ios-launcher",
@@ -48,7 +48,7 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": "1,467",
-      "forks": "796",
+      "forks": "797",
       "addStars": "6",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "LuLu is the free open-source macOS firewall",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "11,778",
+      "stars": "11,777",
       "forks": "540",
       "addStars": "7",
       "contributors": [
@@ -264,7 +264,7 @@
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "14,254",
+      "stars": "14,255",
       "forks": "655",
       "addStars": "5",
       "contributors": [
@@ -301,8 +301,8 @@
       "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "20,698",
-      "forks": "1,433",
+      "stars": "20,701",
+      "forks": "1,434",
       "addStars": "3",
       "contributors": [
         {

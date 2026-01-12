@@ -3,7 +3,45 @@
     <title>GitHub Haskell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Haskell Languages in GitHub</description>
-    <pubDate>Mon, 12 Jan 2026 07:32:32 GMT</pubDate>
+    <pubDate>Mon, 12 Jan 2026 13:42:05 GMT</pubDate>
+    <item>
+      <title>jgm/pandoc</title>
+      <link>https://github.com/jgm/pandoc</link>
+      <description>Universal markup converter</description>
+      <guid>https://github.com/jgm/pandoc</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>41,362</stars>
+      <forks>3,739</forks>
+      <addStars>160</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3044?s=40&amp;v=4</avatar>
+          <name>jgm</name>
+          <url>https://github.com/jgm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/507994?s=40&amp;v=4</avatar>
+          <name>tarleb</name>
+          <url>https://github.com/tarleb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/835121?s=40&amp;v=4</avatar>
+          <name>jkr</name>
+          <url>https://github.com/jkr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1216657?s=40&amp;v=4</avatar>
+          <name>mpickering</name>
+          <url>https://github.com/mpickering</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/157497?s=40&amp;v=4</avatar>
+          <name>mb21</name>
+          <url>https://github.com/mb21</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>koalaman/shellcheck</title>
       <link>https://github.com/koalaman/shellcheck</link>
@@ -11,7 +49,7 @@
       <guid>https://github.com/koalaman/shellcheck</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>38,816</stars>
+      <stars>38,820</stars>
       <forks>1,890</forks>
       <addStars>61</addStars>
       <contributors>
@@ -43,78 +81,68 @@
       </contributors>
     </item>
     <item>
-      <title>jgm/pandoc</title>
-      <link>https://github.com/jgm/pandoc</link>
-      <description>Universal markup converter</description>
-      <guid>https://github.com/jgm/pandoc</guid>
+      <title>hadolint/hadolint</title>
+      <link>https://github.com/hadolint/hadolint</link>
+      <description>Dockerfile linter, validate inline bash, written in Haskell</description>
+      <guid>https://github.com/hadolint/hadolint</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>41,356</stars>
-      <forks>3,738</forks>
-      <addStars>160</addStars>
+      <stars>11,837</stars>
+      <forks>484</forks>
+      <addStars>24</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3044?s=40&amp;v=4</avatar>
-          <name>jgm</name>
-          <url>https://github.com/jgm</url>
+          <avatar>https://avatars.githubusercontent.com/u/37621?s=40&amp;v=4</avatar>
+          <name>lorenzo</name>
+          <url>https://github.com/lorenzo</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/507994?s=40&amp;v=4</avatar>
-          <name>tarleb</name>
-          <url>https://github.com/tarleb</url>
+          <avatar>https://avatars.githubusercontent.com/u/1288339?s=40&amp;v=4</avatar>
+          <name>lukasmartinelli</name>
+          <url>https://github.com/lukasmartinelli</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/835121?s=40&amp;v=4</avatar>
-          <name>jkr</name>
-          <url>https://github.com/jkr</url>
+          <avatar>https://avatars.githubusercontent.com/u/17141774?s=40&amp;v=4</avatar>
+          <name>m-ildefons</name>
+          <url>https://github.com/m-ildefons</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1216657?s=40&amp;v=4</avatar>
-          <name>mpickering</name>
-          <url>https://github.com/mpickering</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/157497?s=40&amp;v=4</avatar>
-          <name>mb21</name>
-          <url>https://github.com/mb21</url>
+          <avatar>https://avatars.githubusercontent.com/u/18702153?s=40&amp;v=4</avatar>
+          <name>zemanlx</name>
+          <url>https://github.com/zemanlx</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>PostgREST/postgrest</title>
-      <link>https://github.com/PostgREST/postgrest</link>
-      <description>REST API for any Postgres database</description>
-      <guid>https://github.com/PostgREST/postgrest</guid>
+      <title>IntersectMBO/cardano-node</title>
+      <link>https://github.com/IntersectMBO/cardano-node</link>
+      <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
+      <guid>https://github.com/IntersectMBO/cardano-node</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>26,338</stars>
-      <forks>1,144</forks>
-      <addStars>32</addStars>
+      <stars>3,176</stars>
+      <forks>749</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1829294?s=40&amp;v=4</avatar>
-          <name>steve-chavez</name>
-          <url>https://github.com/steve-chavez</url>
+          <avatar>https://avatars.githubusercontent.com/u/9418537?s=40&amp;v=4</avatar>
+          <name>Jimbo4350</name>
+          <url>https://github.com/Jimbo4350</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/911911?s=40&amp;v=4</avatar>
-          <name>begriffs</name>
-          <url>https://github.com/begriffs</url>
+          <avatar>https://avatars.githubusercontent.com/u/63014?s=40&amp;v=4</avatar>
+          <name>newhoggy</name>
+          <url>https://github.com/newhoggy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9132420?s=40&amp;v=4</avatar>
-          <name>wolfgangwalther</name>
-          <url>https://github.com/wolfgangwalther</url>
+          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
+          <name>dcoutts</name>
+          <url>https://github.com/dcoutts</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18169764?s=40&amp;v=4</avatar>
-          <name>laurenceisla</name>
-          <url>https://github.com/laurenceisla</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87592739?s=40&amp;v=4</avatar>
-          <name>taimoorzaeem</name>
-          <url>https://github.com/taimoorzaeem</url>
+          <avatar>https://avatars.githubusercontent.com/u/452652?s=40&amp;v=4</avatar>
+          <name>deepfire</name>
+          <url>https://github.com/deepfire</url>
         </contributor>
       </contributors>
     </item>
@@ -157,51 +185,13 @@
       </contributors>
     </item>
     <item>
-      <title>unisonweb/unison</title>
-      <link>https://github.com/unisonweb/unison</link>
-      <description>A friendly programming language from the future</description>
-      <guid>https://github.com/unisonweb/unison</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>6,466</stars>
-      <forks>291</forks>
-      <addStars>12</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11074?s=40&amp;v=4</avatar>
-          <name>pchiusano</name>
-          <url>https://github.com/pchiusano</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/538571?s=40&amp;v=4</avatar>
-          <name>aryairani</name>
-          <url>https://github.com/aryairani</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6439644?s=40&amp;v=4</avatar>
-          <name>ChrisPenner</name>
-          <url>https://github.com/ChrisPenner</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1074598?s=40&amp;v=4</avatar>
-          <name>mitchellwrosen</name>
-          <url>https://github.com/mitchellwrosen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/750648?s=40&amp;v=4</avatar>
-          <name>dolio</name>
-          <url>https://github.com/dolio</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>monoscope-tech/monoscope</title>
       <link>https://github.com/monoscope-tech/monoscope</link>
       <description>Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.</description>
       <guid>https://github.com/monoscope-tech/monoscope</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>437</stars>
+      <stars>438</stars>
       <forks>8</forks>
       <addStars>13</addStars>
       <contributors>
@@ -228,144 +218,40 @@
       </contributors>
     </item>
     <item>
-      <title>IntersectMBO/cardano-node</title>
-      <link>https://github.com/IntersectMBO/cardano-node</link>
-      <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
-      <guid>https://github.com/IntersectMBO/cardano-node</guid>
+      <title>PostgREST/postgrest</title>
+      <link>https://github.com/PostgREST/postgrest</link>
+      <description>REST API for any Postgres database</description>
+      <guid>https://github.com/PostgREST/postgrest</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>3,176</stars>
-      <forks>749</forks>
-      <addStars>4</addStars>
+      <stars>26,338</stars>
+      <forks>1,144</forks>
+      <addStars>32</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9418537?s=40&amp;v=4</avatar>
-          <name>Jimbo4350</name>
-          <url>https://github.com/Jimbo4350</url>
+          <avatar>https://avatars.githubusercontent.com/u/1829294?s=40&amp;v=4</avatar>
+          <name>steve-chavez</name>
+          <url>https://github.com/steve-chavez</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63014?s=40&amp;v=4</avatar>
-          <name>newhoggy</name>
-          <url>https://github.com/newhoggy</url>
+          <avatar>https://avatars.githubusercontent.com/u/911911?s=40&amp;v=4</avatar>
+          <name>begriffs</name>
+          <url>https://github.com/begriffs</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
-          <name>dcoutts</name>
-          <url>https://github.com/dcoutts</url>
+          <avatar>https://avatars.githubusercontent.com/u/9132420?s=40&amp;v=4</avatar>
+          <name>wolfgangwalther</name>
+          <url>https://github.com/wolfgangwalther</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/452652?s=40&amp;v=4</avatar>
-          <name>deepfire</name>
-          <url>https://github.com/deepfire</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>hadolint/hadolint</title>
-      <link>https://github.com/hadolint/hadolint</link>
-      <description>Dockerfile linter, validate inline bash, written in Haskell</description>
-      <guid>https://github.com/hadolint/hadolint</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>11,833</stars>
-      <forks>484</forks>
-      <addStars>24</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37621?s=40&amp;v=4</avatar>
-          <name>lorenzo</name>
-          <url>https://github.com/lorenzo</url>
+          <avatar>https://avatars.githubusercontent.com/u/18169764?s=40&amp;v=4</avatar>
+          <name>laurenceisla</name>
+          <url>https://github.com/laurenceisla</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1288339?s=40&amp;v=4</avatar>
-          <name>lukasmartinelli</name>
-          <url>https://github.com/lukasmartinelli</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17141774?s=40&amp;v=4</avatar>
-          <name>m-ildefons</name>
-          <url>https://github.com/m-ildefons</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18702153?s=40&amp;v=4</avatar>
-          <name>zemanlx</name>
-          <url>https://github.com/zemanlx</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>simplex-chat/simplex-chat</title>
-      <link>https://github.com/simplex-chat/simplex-chat</link>
-      <description>SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!</description>
-      <guid>https://github.com/simplex-chat/simplex-chat</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>10,183</stars>
-      <forks>539</forks>
-      <addStars>30</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2769109?s=40&amp;v=4</avatar>
-          <name>epoberezkin</name>
-          <url>https://github.com/epoberezkin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8711996?s=40&amp;v=4</avatar>
-          <name>spaced4ndy</name>
-          <url>https://github.com/spaced4ndy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7953703?s=40&amp;v=4</avatar>
-          <name>avently</name>
-          <url>https://github.com/avently</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/112780386?s=40&amp;v=4</avatar>
-          <name>mlanp</name>
-          <url>https://github.com/mlanp</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37271604?s=40&amp;v=4</avatar>
-          <name>shumvgolove</name>
-          <url>https://github.com/shumvgolove</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>SimulaVR/Simula</title>
-      <link>https://github.com/SimulaVR/Simula</link>
-      <description>Linux VR Desktop</description>
-      <guid>https://github.com/SimulaVR/Simula</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>3,154</stars>
-      <forks>107</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10677444?s=40&amp;v=4</avatar>
-          <name>georgewsinger</name>
-          <url>https://github.com/georgewsinger</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64677724?s=40&amp;v=4</avatar>
-          <name>haruki7049</name>
-          <url>https://github.com/haruki7049</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8109607?s=40&amp;v=4</avatar>
-          <name>KaneTW</name>
-          <url>https://github.com/KaneTW</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6375669?s=40&amp;v=4</avatar>
-          <name>lboklin</name>
-          <url>https://github.com/lboklin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38359347?s=40&amp;v=4</avatar>
-          <name>CaydenPierce</name>
-          <url>https://github.com/CaydenPierce</url>
+          <avatar>https://avatars.githubusercontent.com/u/87592739?s=40&amp;v=4</avatar>
+          <name>taimoorzaeem</name>
+          <url>https://github.com/taimoorzaeem</url>
         </contributor>
       </contributors>
     </item>
@@ -408,6 +294,120 @@
       </contributors>
     </item>
     <item>
+      <title>unisonweb/unison</title>
+      <link>https://github.com/unisonweb/unison</link>
+      <description>A friendly programming language from the future</description>
+      <guid>https://github.com/unisonweb/unison</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>6,466</stars>
+      <forks>291</forks>
+      <addStars>12</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11074?s=40&amp;v=4</avatar>
+          <name>pchiusano</name>
+          <url>https://github.com/pchiusano</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/538571?s=40&amp;v=4</avatar>
+          <name>aryairani</name>
+          <url>https://github.com/aryairani</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6439644?s=40&amp;v=4</avatar>
+          <name>ChrisPenner</name>
+          <url>https://github.com/ChrisPenner</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1074598?s=40&amp;v=4</avatar>
+          <name>mitchellwrosen</name>
+          <url>https://github.com/mitchellwrosen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/750648?s=40&amp;v=4</avatar>
+          <name>dolio</name>
+          <url>https://github.com/dolio</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>simplex-chat/simplex-chat</title>
+      <link>https://github.com/simplex-chat/simplex-chat</link>
+      <description>SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!</description>
+      <guid>https://github.com/simplex-chat/simplex-chat</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>10,181</stars>
+      <forks>539</forks>
+      <addStars>30</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2769109?s=40&amp;v=4</avatar>
+          <name>epoberezkin</name>
+          <url>https://github.com/epoberezkin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8711996?s=40&amp;v=4</avatar>
+          <name>spaced4ndy</name>
+          <url>https://github.com/spaced4ndy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7953703?s=40&amp;v=4</avatar>
+          <name>avently</name>
+          <url>https://github.com/avently</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/112780386?s=40&amp;v=4</avatar>
+          <name>mlanp</name>
+          <url>https://github.com/mlanp</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37271604?s=40&amp;v=4</avatar>
+          <name>shumvgolove</name>
+          <url>https://github.com/shumvgolove</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>b3nj5m1n/xdg-ninja</title>
+      <link>https://github.com/b3nj5m1n/xdg-ninja</link>
+      <description>A shell script which checks your $HOME for unwanted files and directories.</description>
+      <guid>https://github.com/b3nj5m1n/xdg-ninja</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>3,076</stars>
+      <forks>177</forks>
+      <addStars>10</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47924309?s=40&amp;v=4</avatar>
+          <name>b3nj5m1n</name>
+          <url>https://github.com/b3nj5m1n</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59440032?s=40&amp;v=4</avatar>
+          <name>Layerex</name>
+          <url>https://github.com/Layerex</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1565959?s=40&amp;v=4</avatar>
+          <name>Ballasi</name>
+          <url>https://github.com/Ballasi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34899572?s=40&amp;v=4</avatar>
+          <name>jopejoe1</name>
+          <url>https://github.com/jopejoe1</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2254105?s=40&amp;v=4</avatar>
+          <name>FranzXaver</name>
+          <url>https://github.com/FranzXaver</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>mtolly/onyx</title>
       <link>https://github.com/mtolly/onyx</link>
       <description>Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games</description>
@@ -427,44 +427,6 @@
           <avatar>https://avatars.githubusercontent.com/u/74471839?s=40&amp;v=4</avatar>
           <name>AddyMills</name>
           <url>https://github.com/AddyMills</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>digital-asset/cn-quickstart</title>
-      <link>https://github.com/digital-asset/cn-quickstart</link>
-      <description>Accelerate building apps on Canton Network using this quickstart to start quick!</description>
-      <guid>https://github.com/digital-asset/cn-quickstart</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>31</stars>
-      <forks>20</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/144497255?s=40&amp;v=4</avatar>
-          <name>miller-da</name>
-          <url>https://github.com/miller-da</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64521017?s=40&amp;v=4</avatar>
-          <name>peterkvokacka-da</name>
-          <url>https://github.com/peterkvokacka-da</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64114680?s=40&amp;v=4</avatar>
-          <name>iggy-da</name>
-          <url>https://github.com/iggy-da</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9493272?s=40&amp;v=4</avatar>
-          <name>TheChronicMonster</name>
-          <url>https://github.com/TheChronicMonster</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40190826?s=40&amp;v=4</avatar>
-          <name>pgarmaz-da</name>
-          <url>https://github.com/pgarmaz-da</url>
         </contributor>
       </contributors>
     </item>

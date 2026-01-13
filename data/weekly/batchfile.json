@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Weekly Trending",
   "description": "Weekly Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Jan 2026 13:41:19 GMT",
+  "pubDate": "Tue, 13 Jan 2026 19:25:13 GMT",
   "items": [
     {
       "title": "Flowseal/zapret-discord-youtube",
@@ -10,7 +10,7 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "20,979",
+      "stars": "20,991",
       "forks": "1,758",
       "addStars": "337",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "1,456",
+      "stars": "1,457",
       "forks": "123",
       "addStars": "22",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Shell Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Shell Languages in GitHub</description>
-    <pubDate>Tue, 13 Jan 2026 02:59:02 GMT</pubDate>
+    <pubDate>Tue, 13 Jan 2026 07:29:49 GMT</pubDate>
     <item>
       <title>frankbria/ralph-claude-code</title>
       <link>https://github.com/frankbria/ralph-claude-code</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/frankbria/ralph-claude-code</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>2,288</stars>
-      <forks>153</forks>
+      <stars>2,381</stars>
+      <forks>160</forks>
       <addStars>673</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>18,916</stars>
-      <forks>1,450</forks>
+      <stars>19,272</stars>
+      <forks>1,473</forks>
       <addStars>1,538</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/ophub/amlogic-s9xxx-armbian</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>8,494</stars>
-      <forks>2,714</forks>
+      <stars>8,496</stars>
+      <forks>2,713</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/github/copilot-cli</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>6,506</stars>
-      <forks>864</forks>
+      <stars>6,509</stars>
+      <forks>867</forks>
       <addStars>36</addStars>
       <contributors>
         <contributor>
@@ -186,7 +186,7 @@
       <guid>https://github.com/vernu/vps-audit</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>1,788</stars>
+      <stars>1,789</stars>
       <forks>144</forks>
       <addStars>63</addStars>
       <contributors>
@@ -224,8 +224,8 @@
       <guid>https://github.com/anthropics/claude-code</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>55,790</stars>
-      <forks>4,050</forks>
+      <stars>55,880</stars>
+      <forks>4,063</forks>
       <addStars>583</addStars>
       <contributors>
         <contributor>
@@ -244,14 +244,14 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4</avatar>
-          <name>ashwin-ant</name>
-          <url>https://github.com/ashwin-ant</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4</avatar>
           <name>ant-kurt</name>
           <url>https://github.com/ant-kurt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4</avatar>
+          <name>ashwin-ant</name>
+          <url>https://github.com/ashwin-ant</url>
         </contributor>
       </contributors>
     </item>
@@ -262,7 +262,7 @@
       <guid>https://github.com/pi-hole/pi-hole</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>55,231</stars>
+      <stars>55,234</stars>
       <forks>2,954</forks>
       <addStars>25</addStars>
       <contributors>
@@ -333,7 +333,7 @@
       <guid>https://github.com/termux/termux-packages</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>15,528</stars>
+      <stars>15,529</stars>
       <forks>3,838</forks>
       <addStars>7</addStars>
       <contributors>
@@ -371,7 +371,7 @@
       <guid>https://github.com/sabamdarif/termux-desktop</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>1,396</stars>
+      <stars>1,397</stars>
       <forks>649</forks>
       <addStars>5</addStars>
       <contributors>
@@ -442,7 +442,7 @@
       <guid>https://github.com/themactep/thingino-firmware</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>1,438</stars>
+      <stars>1,439</stars>
       <forks>186</forks>
       <addStars>2</addStars>
       <contributors>
@@ -480,7 +480,7 @@
       <guid>https://github.com/HariSekhon/DevOps-Bash-tools</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>7,948</stars>
+      <stars>7,950</stars>
       <forks>1,484</forks>
       <addStars>42</addStars>
       <contributors>
@@ -550,51 +550,13 @@
       </contributors>
     </item>
     <item>
-      <title>fabioluciano/tmux-powerkit</title>
-      <link>https://github.com/fabioluciano/tmux-powerkit</link>
-      <description>The Ultimate tmux Status Bar Framework</description>
-      <guid>https://github.com/fabioluciano/tmux-powerkit</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>428</stars>
-      <forks>72</forks>
-      <addStars>13</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/499057?s=40&amp;v=4</avatar>
-          <name>fabioluciano</name>
-          <url>https://github.com/fabioluciano</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
-          <name>semantic-release-bot</name>
-          <url>https://github.com/semantic-release-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38429?s=40&amp;v=4</avatar>
-          <name>cameronr</name>
-          <url>https://github.com/cameronr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6212427?s=40&amp;v=4</avatar>
-          <name>pnedkov</name>
-          <url>https://github.com/pnedkov</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3480497?s=40&amp;v=4</avatar>
-          <name>franjozen</name>
-          <url>https://github.com/franjozen</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>kholia/OSX-KVM</title>
       <link>https://github.com/kholia/OSX-KVM</link>
       <description>Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.</description>
       <guid>https://github.com/kholia/OSX-KVM</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>22,681</stars>
+      <stars>22,680</stars>
       <forks>1,980</forks>
       <addStars>3</addStars>
       <contributors>

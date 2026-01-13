@@ -2,7 +2,7 @@
   "title": "GitHub G-code Languages Weekly Trending",
   "description": "Weekly Trending of G-code Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Jan 2026 02:59:02 GMT",
+  "pubDate": "Tue, 13 Jan 2026 07:29:49 GMT",
   "items": [
     {
       "title": "Phil1988/FreeDi",
@@ -38,7 +38,7 @@
       "language": "G-code",
       "languageColor": "#D08CF2",
       "stars": "2,360",
-      "forks": "332",
+      "forks": "333",
       "addStars": "8",
       "contributors": [
         {

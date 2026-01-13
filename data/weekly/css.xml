@@ -3,7 +3,7 @@
     <title>GitHub Css Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Css Languages in GitHub</description>
-    <pubDate>Tue, 13 Jan 2026 07:29:49 GMT</pubDate>
+    <pubDate>Tue, 13 Jan 2026 13:41:19 GMT</pubDate>
     <item>
       <title>hkhcoder/vprofile-project</title>
       <link>https://github.com/hkhcoder/vprofile-project</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/hkhcoder/vprofile-project</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>1,097</stars>
-      <forks>6,023</forks>
+      <stars>1,099</stars>
+      <forks>6,029</forks>
       <addStars>21</addStars>
       <contributors>
         <contributor>
@@ -33,51 +33,13 @@
       </contributors>
     </item>
     <item>
-      <title>AnubisNekhet/AnuPpuccin</title>
-      <link>https://github.com/AnubisNekhet/AnuPpuccin</link>
-      <description>Personal theme for Obsidian</description>
-      <guid>https://github.com/AnubisNekhet/AnuPpuccin</guid>
-      <language>CSS</language>
-      <languageColor>#663399</languageColor>
-      <stars>2,969</stars>
-      <forks>199</forks>
-      <addStars>17</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102488279?s=40&amp;v=4</avatar>
-          <name>AnubisNekhet</name>
-          <url>https://github.com/AnubisNekhet</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/134939?s=40&amp;v=4</avatar>
-          <name>pryley</name>
-          <url>https://github.com/pryley</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/97590612?s=40&amp;v=4</avatar>
-          <name>notnotnescap</name>
-          <url>https://github.com/notnotnescap</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19956672?s=40&amp;v=4</avatar>
-          <name>iwa</name>
-          <url>https://github.com/iwa</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8266075?s=40&amp;v=4</avatar>
-          <name>DIYgod</name>
-          <url>https://github.com/DIYgod</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>kepano/obsidian-minimal</title>
       <link>https://github.com/kepano/obsidian-minimal</link>
       <description>A distraction-free and highly customizable theme for Obsidian.</description>
       <guid>https://github.com/kepano/obsidian-minimal</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>4,599</stars>
+      <stars>4,601</stars>
       <forks>217</forks>
       <addStars>31</addStars>
       <contributors>
@@ -147,40 +109,40 @@
       </contributors>
     </item>
     <item>
-      <title>lscambo13/ElegantFin</title>
-      <link>https://github.com/lscambo13/ElegantFin</link>
-      <description>A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.</description>
-      <guid>https://github.com/lscambo13/ElegantFin</guid>
+      <title>AnubisNekhet/AnuPpuccin</title>
+      <link>https://github.com/AnubisNekhet/AnuPpuccin</link>
+      <description>Personal theme for Obsidian</description>
+      <guid>https://github.com/AnubisNekhet/AnuPpuccin</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>1,266</stars>
-      <forks>75</forks>
-      <addStars>48</addStars>
+      <stars>2,970</stars>
+      <forks>199</forks>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32175188?s=40&amp;v=4</avatar>
-          <name>lscambo13</name>
-          <url>https://github.com/lscambo13</url>
+          <avatar>https://avatars.githubusercontent.com/u/102488279?s=40&amp;v=4</avatar>
+          <name>AnubisNekhet</name>
+          <url>https://github.com/AnubisNekhet</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63308171?s=40&amp;v=4</avatar>
-          <name>Tormak9970</name>
-          <url>https://github.com/Tormak9970</url>
+          <avatar>https://avatars.githubusercontent.com/u/134939?s=40&amp;v=4</avatar>
+          <name>pryley</name>
+          <url>https://github.com/pryley</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35922365?s=40&amp;v=4</avatar>
-          <name>MadsKelberg</name>
-          <url>https://github.com/MadsKelberg</url>
+          <avatar>https://avatars.githubusercontent.com/u/97590612?s=40&amp;v=4</avatar>
+          <name>notnotnescap</name>
+          <url>https://github.com/notnotnescap</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53971316?s=40&amp;v=4</avatar>
-          <name>KeyboardDabbler</name>
-          <url>https://github.com/KeyboardDabbler</url>
+          <avatar>https://avatars.githubusercontent.com/u/19956672?s=40&amp;v=4</avatar>
+          <name>iwa</name>
+          <url>https://github.com/iwa</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1153142?s=40&amp;v=4</avatar>
-          <name>co-go</name>
-          <url>https://github.com/co-go</url>
+          <avatar>https://avatars.githubusercontent.com/u/8266075?s=40&amp;v=4</avatar>
+          <name>DIYgod</name>
+          <url>https://github.com/DIYgod</url>
         </contributor>
       </contributors>
     </item>
@@ -223,167 +185,40 @@
       </contributors>
     </item>
     <item>
-      <title>sumruler/typora-theme-phycat</title>
-      <link>https://github.com/sumruler/typora-theme-phycat</link>
-      <description>一款精心打磨过的多色多功能Typora主题</description>
-      <guid>https://github.com/sumruler/typora-theme-phycat</guid>
+      <title>Akifyss/obsidian-border</title>
+      <link>https://github.com/Akifyss/obsidian-border</link>
+      <description>A theme for obsidian.md</description>
+      <guid>https://github.com/Akifyss/obsidian-border</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>380</stars>
-      <forks>23</forks>
-      <addStars>50</addStars>
+      <stars>2,186</stars>
+      <forks>75</forks>
+      <addStars>16</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/56953545?s=40&amp;v=4</avatar>
-          <name>sumruler</name>
-          <url>https://github.com/sumruler</url>
+          <avatar>https://avatars.githubusercontent.com/u/23567154?s=40&amp;v=4</avatar>
+          <name>Akifyss</name>
+          <url>https://github.com/Akifyss</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/110774045?s=40&amp;v=4</avatar>
-          <name>FangSuYu</name>
-          <url>https://github.com/FangSuYu</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>isocpp/CppCoreGuidelines</title>
-      <link>https://github.com/isocpp/CppCoreGuidelines</link>
-      <description>The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++</description>
-      <guid>https://github.com/isocpp/CppCoreGuidelines</guid>
-      <language>CSS</language>
-      <languageColor>#663399</languageColor>
-      <stars>44,695</stars>
-      <forks>5,548</forks>
-      <addStars>33</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1801526?s=40&amp;v=4</avatar>
-          <name>hsutter</name>
-          <url>https://github.com/hsutter</url>
+          <avatar>https://avatars.githubusercontent.com/u/23419678?s=40&amp;v=4</avatar>
+          <name>velviagris</name>
+          <url>https://github.com/velviagris</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11031650?s=40&amp;v=4</avatar>
-          <name>gdr-at-ms</name>
-          <url>https://github.com/gdr-at-ms</url>
+          <avatar>https://avatars.githubusercontent.com/u/93238080?s=40&amp;v=4</avatar>
+          <name>ProudBenzene</name>
+          <url>https://github.com/ProudBenzene</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1525116?s=40&amp;v=4</avatar>
-          <name>tkruse</name>
-          <url>https://github.com/tkruse</url>
+          <avatar>https://avatars.githubusercontent.com/u/8663074?s=40&amp;v=4</avatar>
+          <name>chasemccoy</name>
+          <url>https://github.com/chasemccoy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9330739?s=40&amp;v=4</avatar>
-          <name>cubbimew</name>
-          <url>https://github.com/cubbimew</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10933044?s=40&amp;v=4</avatar>
-          <name>BjarneStroustrup</name>
-          <url>https://github.com/BjarneStroustrup</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>moveit/moveit2_tutorials</title>
-      <link>https://github.com/moveit/moveit2_tutorials</link>
-      <description>A sphinx-based centralized documentation repo for MoveIt 2</description>
-      <guid>https://github.com/moveit/moveit2_tutorials</guid>
-      <language>CSS</language>
-      <languageColor>#663399</languageColor>
-      <stars>298</stars>
-      <forks>244</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/561060?s=40&amp;v=4</avatar>
-          <name>davetcoleman</name>
-          <url>https://github.com/davetcoleman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2490389?s=40&amp;v=4</avatar>
-          <name>tylerjw</name>
-          <url>https://github.com/tylerjw</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3253549?s=40&amp;v=4</avatar>
-          <name>mlautman</name>
-          <url>https://github.com/mlautman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13888103?s=40&amp;v=4</avatar>
-          <name>vatanaksoytezer</name>
-          <url>https://github.com/vatanaksoytezer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4603398?s=40&amp;v=4</avatar>
-          <name>sea-bass</name>
-          <url>https://github.com/sea-bass</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>tanabe/markdown-live-preview</title>
-      <link>https://github.com/tanabe/markdown-live-preview</link>
-      <description>markdown editor with live preview</description>
-      <guid>https://github.com/tanabe/markdown-live-preview</guid>
-      <language>CSS</language>
-      <languageColor>#663399</languageColor>
-      <stars>615</stars>
-      <forks>150</forks>
-      <addStars>18</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14134?s=40&amp;v=4</avatar>
-          <name>tanabe</name>
-          <url>https://github.com/tanabe</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6686963?s=40&amp;v=4</avatar>
-          <name>jeffersonlam</name>
-          <url>https://github.com/jeffersonlam</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8226466?s=40&amp;v=4</avatar>
-          <name>mathisto</name>
-          <url>https://github.com/mathisto</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>IBM/plex</title>
-      <link>https://github.com/IBM/plex</link>
-      <description>The package of IBM’s typeface, IBM Plex.</description>
-      <guid>https://github.com/IBM/plex</guid>
-      <language>CSS</language>
-      <languageColor>#663399</languageColor>
-      <stars>11,130</stars>
-      <forks>600</forks>
-      <addStars>10</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4078018?s=40&amp;v=4</avatar>
-          <name>vpicone</name>
-          <url>https://github.com/vpicone</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7519029?s=40&amp;v=4</avatar>
-          <name>seejamescode</name>
-          <url>https://github.com/seejamescode</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2753488?s=40&amp;v=4</avatar>
-          <name>alisonjoseph</name>
-          <url>https://github.com/alisonjoseph</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3360588?s=40&amp;v=4</avatar>
-          <name>tay1orjones</name>
-          <url>https://github.com/tay1orjones</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3901764?s=40&amp;v=4</avatar>
-          <name>joshblack</name>
-          <url>https://github.com/joshblack</url>
+          <avatar>https://avatars.githubusercontent.com/u/62891170?s=40&amp;v=4</avatar>
+          <name>4rtamis</name>
+          <url>https://github.com/4rtamis</url>
         </contributor>
       </contributors>
     </item>
@@ -416,35 +251,205 @@
       </contributors>
     </item>
     <item>
-      <title>progit/progit2</title>
-      <link>https://github.com/progit/progit2</link>
-      <description>Pro Git 2nd Edition</description>
-      <guid>https://github.com/progit/progit2</guid>
+      <title>lscambo13/ElegantFin</title>
+      <link>https://github.com/lscambo13/ElegantFin</link>
+      <description>A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.</description>
+      <guid>https://github.com/lscambo13/ElegantFin</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>6,379</stars>
-      <forks>2,089</forks>
-      <addStars>7</addStars>
+      <stars>1,266</stars>
+      <forks>75</forks>
+      <addStars>48</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39902?s=40&amp;v=4</avatar>
-          <name>ben</name>
-          <url>https://github.com/ben</url>
+          <avatar>https://avatars.githubusercontent.com/u/32175188?s=40&amp;v=4</avatar>
+          <name>lscambo13</name>
+          <url>https://github.com/lscambo13</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34918129?s=40&amp;v=4</avatar>
-          <name>HonkingGoose</name>
-          <url>https://github.com/HonkingGoose</url>
+          <avatar>https://avatars.githubusercontent.com/u/63308171?s=40&amp;v=4</avatar>
+          <name>Tormak9970</name>
+          <url>https://github.com/Tormak9970</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70?s=40&amp;v=4</avatar>
-          <name>schacon</name>
-          <url>https://github.com/schacon</url>
+          <avatar>https://avatars.githubusercontent.com/u/35922365?s=40&amp;v=4</avatar>
+          <name>MadsKelberg</name>
+          <url>https://github.com/MadsKelberg</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/156172?s=40&amp;v=4</avatar>
-          <name>jnavila</name>
-          <url>https://github.com/jnavila</url>
+          <avatar>https://avatars.githubusercontent.com/u/53971316?s=40&amp;v=4</avatar>
+          <name>KeyboardDabbler</name>
+          <url>https://github.com/KeyboardDabbler</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1153142?s=40&amp;v=4</avatar>
+          <name>co-go</name>
+          <url>https://github.com/co-go</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>tanabe/markdown-live-preview</title>
+      <link>https://github.com/tanabe/markdown-live-preview</link>
+      <description>markdown editor with live preview</description>
+      <guid>https://github.com/tanabe/markdown-live-preview</guid>
+      <language>CSS</language>
+      <languageColor>#663399</languageColor>
+      <stars>620</stars>
+      <forks>150</forks>
+      <addStars>18</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14134?s=40&amp;v=4</avatar>
+          <name>tanabe</name>
+          <url>https://github.com/tanabe</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6686963?s=40&amp;v=4</avatar>
+          <name>jeffersonlam</name>
+          <url>https://github.com/jeffersonlam</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8226466?s=40&amp;v=4</avatar>
+          <name>mathisto</name>
+          <url>https://github.com/mathisto</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Terminus2049/Terminus2049.github.io</title>
+      <link>https://github.com/Terminus2049/Terminus2049.github.io</link>
+      <description>No more 404</description>
+      <guid>https://github.com/Terminus2049/Terminus2049.github.io</guid>
+      <language>CSS</language>
+      <languageColor>#663399</languageColor>
+      <stars>2,034</stars>
+      <forks>350</forks>
+      <addStars>26</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7903661?s=40&amp;v=4</avatar>
+          <name>TerminusBot</name>
+          <url>https://github.com/TerminusBot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30530581?s=40&amp;v=4</avatar>
+          <name>fireindark707</name>
+          <url>https://github.com/fireindark707</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/38690785?s=40&amp;v=4</avatar>
+          <name>IchiroArisugawa</name>
+          <url>https://github.com/IchiroArisugawa</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16057538?s=40&amp;v=4</avatar>
+          <name>tetsuhou</name>
+          <url>https://github.com/tetsuhou</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23207079?s=40&amp;v=4</avatar>
+          <name>Jiyang00</name>
+          <url>https://github.com/Jiyang00</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>devicons/devicon</title>
+      <link>https://github.com/devicons/devicon</link>
+      <description>Set of icons representing programming languages, designing &amp; development tools</description>
+      <guid>https://github.com/devicons/devicon</guid>
+      <language>CSS</language>
+      <languageColor>#663399</languageColor>
+      <stars>11,378</stars>
+      <forks>2,433</forks>
+      <addStars>32</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/49886351?s=40&amp;v=4</avatar>
+          <name>canaleal</name>
+          <url>https://github.com/canaleal</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43018778?s=40&amp;v=4</avatar>
+          <name>Thomas-Boi</name>
+          <url>https://github.com/Thomas-Boi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8781699?s=40&amp;v=4</avatar>
+          <name>amacado</name>
+          <url>https://github.com/amacado</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43886029?s=40&amp;v=4</avatar>
+          <name>Snailedlt</name>
+          <url>https://github.com/Snailedlt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/51391473?s=40&amp;v=4</avatar>
+          <name>Panquesito7</name>
+          <url>https://github.com/Panquesito7</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>sumruler/typora-theme-phycat</title>
+      <link>https://github.com/sumruler/typora-theme-phycat</link>
+      <description>一款精心打磨过的多色多功能Typora主题</description>
+      <guid>https://github.com/sumruler/typora-theme-phycat</guid>
+      <language>CSS</language>
+      <languageColor>#663399</languageColor>
+      <stars>381</stars>
+      <forks>23</forks>
+      <addStars>50</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56953545?s=40&amp;v=4</avatar>
+          <name>sumruler</name>
+          <url>https://github.com/sumruler</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/110774045?s=40&amp;v=4</avatar>
+          <name>FangSuYu</name>
+          <url>https://github.com/FangSuYu</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>wso2/docs-apim</title>
+      <link>https://github.com/wso2/docs-apim</link>
+      <description/>
+      <guid>https://github.com/wso2/docs-apim</guid>
+      <language>CSS</language>
+      <languageColor>#663399</languageColor>
+      <stars>86</stars>
+      <forks>545</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5195851?s=40&amp;v=4</avatar>
+          <name>Mariangela</name>
+          <url>https://github.com/Mariangela</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19791901?s=40&amp;v=4</avatar>
+          <name>samgnaniah</name>
+          <url>https://github.com/samgnaniah</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23217207?s=40&amp;v=4</avatar>
+          <name>ruthryi</name>
+          <url>https://github.com/ruthryi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/21237558?s=40&amp;v=4</avatar>
+          <name>nilminiwso2</name>
+          <url>https://github.com/nilminiwso2</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7173347?s=40&amp;v=4</avatar>
+          <name>shaniR</name>
+          <url>https://github.com/shaniR</url>
         </contributor>
       </contributors>
     </item>

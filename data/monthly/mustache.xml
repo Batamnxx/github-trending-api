@@ -3,7 +3,7 @@
     <title>GitHub Mustache Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Mustache Languages in GitHub</description>
-    <pubDate>Wed, 14 Jan 2026 07:30:51 GMT</pubDate>
+    <pubDate>Wed, 14 Jan 2026 13:40:03 GMT</pubDate>
     <item>
       <title>prometheus-community/helm-charts</title>
       <link>https://github.com/prometheus-community/helm-charts</link>
@@ -228,7 +228,7 @@
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
       <stars>1,330</stars>
-      <forks>571</forks>
+      <forks>570</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Monthly Trending",
   "description": "Monthly Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 15 Jan 2026 13:39:43 GMT",
+  "pubDate": "Thu, 15 Jan 2026 19:29:18 GMT",
   "items": [
     {
       "title": "sixthsurge/photon",
@@ -10,7 +10,7 @@
       "description": "A gameplay-focused shader pack for Minecraft",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "1,621",
+      "stars": "1,622",
       "forks": "261",
       "addStars": "157",
       "contributors": [
@@ -48,7 +48,7 @@
       "language": "GLSL",
       "languageColor": "#5686a5",
       "stars": "11,663",
-      "forks": "2,186",
+      "forks": "2,187",
       "addStars": "88",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "GLSL",
       "languageColor": "#5686a5",
       "stars": "882",
-      "forks": "72",
+      "forks": "73",
       "addStars": "28",
       "contributors": [
         {
@@ -264,7 +264,7 @@
       "description": "本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "1,497",
+      "stars": "1,498",
       "forks": "73",
       "addStars": "53",
       "contributors": [

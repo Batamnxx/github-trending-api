@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Monthly Trending",
   "description": "Monthly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 15 Jan 2026 03:01:03 GMT",
+  "pubDate": "Thu, 15 Jan 2026 07:30:17 GMT",
   "items": [
     {
       "title": "twitter/the-algorithm",
@@ -10,8 +10,8 @@
       "description": "Source code for the X Recommendation Algorithm",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "69,938",
-      "forks": "12,903",
+      "stars": "70,013",
+      "forks": "12,913",
       "addStars": "2,022",
       "contributors": [
         {
@@ -37,7 +37,7 @@
       "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "17,589",
+      "stars": "17,590",
       "forks": "2,534",
       "addStars": "159",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "42,628",
+      "stars": "42,630",
       "forks": "28,998",
       "addStars": "190",
       "contributors": [
@@ -476,8 +476,8 @@
       "description": "Chisel: A Modern Hardware Design Language",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "4,533",
-      "forks": "646",
+      "stars": "4,534",
+      "forks": "647",
       "addStars": "38",
       "contributors": [
         {

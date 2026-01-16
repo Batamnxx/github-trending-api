@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Monthly Trending",
   "description": "Monthly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Jan 2026 03:01:56 GMT",
+  "pubDate": "Fri, 16 Jan 2026 07:29:41 GMT",
   "items": [
     {
       "title": "godotengine/godot-demo-projects",
@@ -10,7 +10,7 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "8,052",
+      "stars": "8,053",
       "forks": "2,021",
       "addStars": "176",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "1,952",
+      "stars": "1,953",
       "forks": "225",
       "addStars": "52",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "6,431",
+      "stars": "6,432",
       "forks": "295",
       "addStars": "86",
       "contributors": [
@@ -306,7 +306,7 @@
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "5,136",
+      "stars": "5,137",
       "forks": "301",
       "addStars": "71",
       "contributors": [
@@ -343,7 +343,7 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "4,927",
+      "stars": "4,928",
       "forks": "285",
       "addStars": "103",
       "contributors": [
@@ -445,43 +445,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/338843?s=40&v=4",
           "name": "godofgrunts",
           "url": "https://github.com/godofgrunts"
-        }
-      ]
-    },
-    {
-      "title": "nathanhoad/godot_dialogue_manager",
-      "url": "https://github.com/nathanhoad/godot_dialogue_manager",
-      "description": "A powerful nonlinear dialogue system for Godot",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "3,249",
-      "forks": "239",
-      "addStars": "55",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78984?s=40&v=4",
-          "name": "nathanhoad",
-          "url": "https://github.com/nathanhoad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31015897?s=40&v=4",
-          "name": "Selenyhr",
-          "url": "https://github.com/Selenyhr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45439844?s=40&v=4",
-          "name": "Fireye04",
-          "url": "https://github.com/Fireye04"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108631328?s=40&v=4",
-          "name": "Veydzher",
-          "url": "https://github.com/Veydzher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/839653?s=40&v=4",
-          "name": "4kxz",
-          "url": "https://github.com/4kxz"
         }
       ]
     },

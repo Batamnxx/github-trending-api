@@ -3,7 +3,7 @@
     <title>GitHub Haskell Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Haskell Languages in GitHub</description>
-    <pubDate>Fri, 16 Jan 2026 03:01:56 GMT</pubDate>
+    <pubDate>Fri, 16 Jan 2026 07:29:41 GMT</pubDate>
     <item>
       <title>jgm/pandoc</title>
       <link>https://github.com/jgm/pandoc</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/jgm/pandoc</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>41,450</stars>
-      <forks>3,746</forks>
+      <stars>41,457</stars>
+      <forks>3,745</forks>
       <addStars>22</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/PostgREST/postgrest</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>26,349</stars>
+      <stars>26,350</stars>
       <forks>1,144</forks>
       <addStars>3</addStars>
       <contributors>

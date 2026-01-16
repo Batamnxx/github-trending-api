@@ -2,7 +2,7 @@
   "title": "GitHub Rich-text-format Languages Monthly Trending",
   "description": "Monthly Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Jan 2026 13:37:44 GMT",
+  "pubDate": "Fri, 16 Jan 2026 19:23:10 GMT",
   "items": [
     {
       "title": "mathoudebine/turing-smart-screen-python",
@@ -43,7 +43,7 @@
       "language": "Rich Text Format",
       "languageColor": "#ccc",
       "stars": "1,145",
-      "forks": "42,191",
+      "forks": "42,190",
       "addStars": "3",
       "contributors": [
         {
@@ -101,7 +101,7 @@
       "description": "☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": "647",
+      "stars": "648",
       "forks": "743",
       "addStars": "12",
       "contributors": [

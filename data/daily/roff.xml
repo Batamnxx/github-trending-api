@@ -3,7 +3,7 @@
     <title>GitHub Roff Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Roff Languages in GitHub</description>
-    <pubDate>Sat, 17 Jan 2026 02:53:18 GMT</pubDate>
+    <pubDate>Sat, 17 Jan 2026 07:24:02 GMT</pubDate>
     <item>
       <title>pyenv/pyenv</title>
       <link>https://github.com/pyenv/pyenv</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/pyenv/pyenv</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>44,066</stars>
+      <stars>44,069</stars>
       <forks>3,235</forks>
       <addStars>10</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/TapXWorld/ChinaTextbook</guid>
       <language>Roff</language>
       <languageColor>#ecdebe</languageColor>
-      <stars>64,184</stars>
-      <forks>14,294</forks>
+      <stars>64,192</stars>
+      <forks>14,295</forks>
       <addStars>35</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>25,113</stars>
-      <forks>3,858</forks>
+      <stars>25,116</stars>
+      <forks>3,859</forks>
       <addStars>21</addStars>
       <contributors>
         <contributor>

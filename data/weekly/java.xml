@@ -3,7 +3,7 @@
     <title>GitHub Java Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Java Languages in GitHub</description>
-    <pubDate>Sun, 18 Jan 2026 03:08:10 GMT</pubDate>
+    <pubDate>Sun, 18 Jan 2026 07:25:04 GMT</pubDate>
     <item>
       <title>NotHarshhaa/DevOps-Projects</title>
       <link>https://github.com/NotHarshhaa/DevOps-Projects</link>
@@ -34,8 +34,8 @@
       <guid>https://github.com/spring-projects/spring-framework</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>59,517</stars>
-      <forks>38,912</forks>
+      <stars>59,518</stars>
+      <forks>38,915</forks>
       <addStars>66</addStars>
       <contributors>
         <contributor>
@@ -111,7 +111,7 @@
       <language>Java</language>
       <languageColor>#b07219</languageColor>
       <stars>16,582</stars>
-      <forks>1,530</forks>
+      <forks>1,529</forks>
       <addStars>41</addStars>
       <contributors>
         <contributor>
@@ -148,7 +148,7 @@
       <guid>https://github.com/openjdk/jdk</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>22,375</stars>
+      <stars>22,376</stars>
       <forks>6,226</forks>
       <addStars>44</addStars>
       <contributors>
@@ -224,8 +224,8 @@
       <guid>https://github.com/quarkusio/quarkus</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>15,409</stars>
-      <forks>3,057</forks>
+      <stars>15,410</stars>
+      <forks>3,056</forks>
       <addStars>24</addStars>
       <contributors>
         <contributor>
@@ -257,7 +257,7 @@
       <guid>https://github.com/eugenp/tutorials</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>37,331</stars>
+      <stars>37,332</stars>
       <forks>53,911</forks>
       <addStars>13</addStars>
       <contributors>
@@ -404,8 +404,8 @@
       <guid>https://github.com/spring-projects/spring-security</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>9,407</stars>
-      <forks>6,216</forks>
+      <stars>9,408</stars>
+      <forks>6,217</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -438,7 +438,7 @@
       <language>Java</language>
       <languageColor>#b07219</languageColor>
       <stars>8,822</stars>
-      <forks>3,955</forks>
+      <forks>3,957</forks>
       <addStars>19</addStars>
       <contributors>
         <contributor>
@@ -508,8 +508,8 @@
       <guid>https://github.com/spring-projects/spring-ai</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>7,701</stars>
-      <forks>2,222</forks>
+      <stars>7,700</stars>
+      <forks>2,223</forks>
       <addStars>73</addStars>
       <contributors>
         <contributor>

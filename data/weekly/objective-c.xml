@@ -3,7 +3,7 @@
     <title>GitHub Objective-c Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Objective-c Languages in GitHub</description>
-    <pubDate>Sun, 18 Jan 2026 03:08:10 GMT</pubDate>
+    <pubDate>Sun, 18 Jan 2026 07:25:04 GMT</pubDate>
     <item>
       <title>geode-sdk/ios-launcher</title>
       <link>https://github.com/geode-sdk/ios-launcher</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/geode-sdk/ios-launcher</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>307</stars>
+      <stars>308</stars>
       <forks>95</forks>
       <addStars>19</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/roothide/Bootstrap</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>1,481</stars>
+      <stars>1,482</stars>
       <forks>798</forks>
       <addStars>22</addStars>
       <contributors>
@@ -82,7 +82,7 @@
       <guid>https://github.com/gnachman/iTerm2</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>16,806</stars>
+      <stars>16,807</stars>
       <forks>1,281</forks>
       <addStars>50</addStars>
       <contributors>
@@ -120,7 +120,7 @@
       <guid>https://github.com/Hammerspoon/hammerspoon</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>14,308</stars>
+      <stars>14,310</stars>
       <forks>658</forks>
       <addStars>64</addStars>
       <contributors>
@@ -196,7 +196,7 @@
       <guid>https://github.com/objective-see/LuLu</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>11,815</stars>
+      <stars>11,816</stars>
       <forks>540</forks>
       <addStars>45</addStars>
       <contributors>
@@ -452,7 +452,7 @@
       <guid>https://github.com/google/GoogleSignIn-iOS</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>688</stars>
+      <stars>689</stars>
       <forks>248</forks>
       <addStars>3</addStars>
       <contributors>

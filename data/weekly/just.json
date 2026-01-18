@@ -2,7 +2,7 @@
   "title": "GitHub Just Languages Weekly Trending",
   "description": "Weekly Trending of Just Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 18 Jan 2026 13:28:20 GMT",
+  "pubDate": "Sun, 18 Jan 2026 19:19:53 GMT",
   "items": [
     {
       "title": "ublue-os/image-template",
@@ -10,7 +10,7 @@
       "description": "Build your own custom Universal Blue Image!",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "588",
+      "stars": "589",
       "forks": "125",
       "addStars": "12",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "Next generation Cosmic desktop environment",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "5,500",
+      "stars": "5,503",
       "forks": "164",
       "addStars": "60",
       "contributors": [

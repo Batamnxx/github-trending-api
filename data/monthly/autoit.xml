@@ -3,7 +3,7 @@
     <title>GitHub Autoit Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Autoit Languages in GitHub</description>
-    <pubDate>Sun, 18 Jan 2026 13:28:20 GMT</pubDate>
+    <pubDate>Sun, 18 Jan 2026 19:19:53 GMT</pubDate>
     <item>
       <title>rcmaehl/MSEdgeRedirect</title>
       <link>https://github.com/rcmaehl/MSEdgeRedirect</link>
@@ -38,6 +38,44 @@
       </contributors>
     </item>
     <item>
+      <title>caustic-kronos/BotsHub</title>
+      <link>https://github.com/caustic-kronos/BotsHub</link>
+      <description>Hub for GW Bots</description>
+      <guid>https://github.com/caustic-kronos/BotsHub</guid>
+      <language>AutoIt</language>
+      <languageColor>#1C3552</languageColor>
+      <stars>24</stars>
+      <forks>17</forks>
+      <addStars>9</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/55841461?s=40&amp;v=4</avatar>
+          <name>caustic-kronos</name>
+          <url>https://github.com/caustic-kronos</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/234474746?s=40&amp;v=4</avatar>
+          <name>Gahais</name>
+          <url>https://github.com/Gahais</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/212777880?s=40&amp;v=4</avatar>
+          <name>TDowg</name>
+          <url>https://github.com/TDowg</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/212016633?s=40&amp;v=4</avatar>
+          <name>Cruxi4711</name>
+          <url>https://github.com/Cruxi4711</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8395520?s=40&amp;v=4</avatar>
+          <name>n1kn4x</name>
+          <url>https://github.com/n1kn4x</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>KovaaK/InterAccel</title>
       <link>https://github.com/KovaaK/InterAccel</link>
       <description>QuakeLive style mouse acceleration across your entire OS and any game</description>
@@ -67,7 +105,7 @@
       <guid>https://github.com/Bioruebe/UniExtract2</guid>
       <language>AutoIt</language>
       <languageColor>#1C3552</languageColor>
-      <stars>4,158</stars>
+      <stars>4,159</stars>
       <forks>367</forks>
       <addStars>40</addStars>
       <contributors>

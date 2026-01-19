@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Hcl Languages in GitHub</description>
-    <pubDate>Mon, 19 Jan 2026 03:08:55 GMT</pubDate>
+    <pubDate>Mon, 19 Jan 2026 07:34:14 GMT</pubDate>
     <item>
       <title>mysticaltech/terraform-hcloud-kube-hetzner</title>
       <link>https://github.com/mysticaltech/terraform-hcloud-kube-hetzner</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/mysticaltech/terraform-hcloud-kube-hetzner</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>3,613</stars>
+      <stars>3,614</stars>
       <forks>523</forks>
       <addStars>3</addStars>
       <contributors>
@@ -78,7 +78,7 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>229</stars>
-      <forks>327</forks>
+      <forks>328</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -252,7 +252,7 @@
       <guid>https://github.com/techiescamp/devops-projects</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>1,708</stars>
+      <stars>1,709</stars>
       <forks>1,209</forks>
       <addStars>2</addStars>
       <contributors>

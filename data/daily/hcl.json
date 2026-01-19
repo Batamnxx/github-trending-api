@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 19 Jan 2026 03:08:55 GMT",
+  "pubDate": "Mon, 19 Jan 2026 07:34:14 GMT",
   "items": [
     {
       "title": "mysticaltech/terraform-hcloud-kube-hetzner",
@@ -10,7 +10,7 @@
       "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "3,613",
+      "stars": "3,614",
       "forks": "523",
       "addStars": "3",
       "contributors": [
@@ -75,7 +75,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "229",
-      "forks": "327",
+      "forks": "328",
       "addStars": "3",
       "contributors": [
         {
@@ -244,7 +244,7 @@
       "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "1,708",
+      "stars": "1,709",
       "forks": "1,209",
       "addStars": "2",
       "contributors": [

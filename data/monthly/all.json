@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 18 Jan 2026 19:19:53 GMT",
+  "pubDate": "Mon, 19 Jan 2026 03:08:55 GMT",
   "items": [
     {
       "title": "anomalyco/opencode",
@@ -10,9 +10,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "76,486",
-      "forks": "6,734",
-      "addStars": "35,141",
+      "stars": "76,966",
+      "forks": "6,779",
+      "addStars": "36,319",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,486",
-      "forks": "4,142",
-      "addStars": "22,192",
+      "stars": "44,759",
+      "forks": "4,172",
+      "addStars": "22,624",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Get 10X more out of Claude Code, Codex or any coding agent",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,984",
-      "forks": "1,575",
-      "addStars": "10,270",
+      "stars": "17,051",
+      "forks": "1,583",
+      "addStars": "10,422",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7957964?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "28,275",
-      "forks": "2,130",
-      "addStars": "16,947",
+      "stars": "28,642",
+      "forks": "2,159",
+      "addStars": "17,860",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "57,854",
-      "forks": "4,256",
-      "addStars": "11,414",
+      "stars": "57,950",
+      "forks": "4,267",
+      "addStars": "11,541",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,167",
-      "forks": "2,142",
-      "addStars": "13,091",
+      "stars": "21,343",
+      "forks": "2,165",
+      "addStars": "13,459",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/67639393?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,214",
-      "forks": "2,347",
-      "addStars": "4,167",
+      "stars": "24,252",
+      "forks": "2,349",
+      "addStars": "4,286",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23133919?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "54,693",
-      "forks": "3,923",
-      "addStars": "7,509",
+      "stars": "54,734",
+      "forks": "3,924",
+      "addStars": "7,603",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24653555?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "Personal AI Infrastructure for upgrading humans.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,106",
-      "forks": "816",
-      "addStars": "3,463",
+      "stars": "5,158",
+      "forks": "825",
+      "addStars": "3,626",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "40,190",
-      "forks": "2,709",
-      "addStars": "7,453",
+      "stars": "40,210",
+      "forks": "2,710",
+      "addStars": "7,507",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/41707476?s=40&v=4",
@@ -375,9 +375,9 @@
       "description": "How can we build a true AI agent? Like Claude Code.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,543",
-      "forks": "3,350",
-      "addStars": "2,845",
+      "stars": "14,575",
+      "forks": "3,356",
+      "addStars": "2,900",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35400185?s=40&v=4",
@@ -402,9 +402,9 @@
       "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,207",
-      "forks": "2,391",
-      "addStars": "3,123",
+      "stars": "30,258",
+      "forks": "2,393",
+      "addStars": "3,197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1862727?s=40&v=4",
@@ -439,9 +439,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,966",
-      "forks": "679",
-      "addStars": "5,273",
+      "stars": "11,058",
+      "forks": "683",
+      "addStars": "5,288",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/613744?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "Source code for the X Recommendation Algorithm",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "70,480",
-      "forks": "12,956",
-      "addStars": "2,568",
+      "stars": "70,520",
+      "forks": "12,960",
+      "addStars": "2,610",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25687?s=40&v=4",
@@ -498,9 +498,9 @@
       "description": "SoTA open-source TTS",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,670",
+      "stars": "21,694",
       "forks": "2,821",
-      "addStars": "6,099",
+      "addStars": "5,747",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&v=4",
@@ -535,9 +535,9 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,339",
-      "forks": "917",
-      "addStars": "3,081",
+      "stars": "7,376",
+      "forks": "923",
+      "addStars": "3,217",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&v=4",
@@ -567,9 +567,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,938",
-      "forks": "248",
-      "addStars": "1,355",
+      "stars": "1,953",
+      "forks": "251",
+      "addStars": "1,377",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
@@ -604,9 +604,9 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,104",
-      "forks": "1,515",
-      "addStars": "4,127",
+      "stars": "17,219",
+      "forks": "1,530",
+      "addStars": "4,391",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
@@ -624,9 +624,9 @@
           "url": "https://github.com/actions-user"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29456968?s=40&v=4",
-          "name": "Ray0907",
-          "url": "https://github.com/Ray0907"
+          "avatar": "https://avatars.githubusercontent.com/u/90089610?s=40&v=4",
+          "name": "odoldotol",
+          "url": "https://github.com/odoldotol"
         }
       ]
     }

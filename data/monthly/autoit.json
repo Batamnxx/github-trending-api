@@ -2,7 +2,7 @@
   "title": "GitHub Autoit Languages Monthly Trending",
   "description": "Monthly Trending of Autoit Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 18 Jan 2026 19:19:53 GMT",
+  "pubDate": "Mon, 19 Jan 2026 03:08:55 GMT",
   "items": [
     {
       "title": "rcmaehl/MSEdgeRedirect",
@@ -10,9 +10,9 @@
       "description": "A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser",
       "language": "AutoIt",
       "languageColor": "#1C3552",
-      "stars": "5,587",
+      "stars": "5,588",
       "forks": "111",
-      "addStars": "102",
+      "addStars": "101",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/716581?s=40&v=4",
@@ -42,8 +42,8 @@
       "description": "Hub for GW Bots",
       "language": "AutoIt",
       "languageColor": "#1C3552",
-      "stars": "24",
-      "forks": "17",
+      "stars": "25",
+      "forks": "16",
       "addStars": "9",
       "contributors": [
         {
@@ -67,9 +67,9 @@
           "url": "https://github.com/Cruxi4711"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8395520?s=40&v=4",
-          "name": "n1kn4x",
-          "url": "https://github.com/n1kn4x"
+          "avatar": "https://avatars.githubusercontent.com/u/253520619?s=40&v=4",
+          "name": "buddyleex",
+          "url": "https://github.com/buddyleex"
         }
       ]
     },
@@ -101,7 +101,7 @@
       "description": "Universal Extractor 2 is a tool to extract files from any type of archive or installer.",
       "language": "AutoIt",
       "languageColor": "#1C3552",
-      "stars": "4,159",
+      "stars": "4,160",
       "forks": "367",
       "addStars": "40",
       "contributors": [

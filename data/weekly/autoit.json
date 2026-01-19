@@ -2,7 +2,7 @@
   "title": "GitHub Autoit Languages Weekly Trending",
   "description": "Weekly Trending of Autoit Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 18 Jan 2026 19:19:53 GMT",
+  "pubDate": "Mon, 19 Jan 2026 03:08:55 GMT",
   "items": [
     {
       "title": "rcmaehl/MSEdgeRedirect",
@@ -10,9 +10,9 @@
       "description": "A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser",
       "language": "AutoIt",
       "languageColor": "#1C3552",
-      "stars": "5,587",
+      "stars": "5,588",
       "forks": "111",
-      "addStars": "47",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/716581?s=40&v=4",
@@ -44,7 +44,7 @@
       "languageColor": "#1C3552",
       "stars": "332",
       "forks": "43",
-      "addStars": "1",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66497848?s=40&v=4",
@@ -64,9 +64,9 @@
       "description": "Universal Extractor 2 is a tool to extract files from any type of archive or installer.",
       "language": "AutoIt",
       "languageColor": "#1C3552",
-      "stars": "4,159",
+      "stars": "4,160",
       "forks": "367",
-      "addStars": "9",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3521951?s=40&v=4",
@@ -101,8 +101,8 @@
       "description": "Hub for GW Bots",
       "language": "AutoIt",
       "languageColor": "#1C3552",
-      "stars": "24",
-      "forks": "17",
+      "stars": "25",
+      "forks": "16",
       "addStars": "2",
       "contributors": [
         {
@@ -126,9 +126,9 @@
           "url": "https://github.com/Cruxi4711"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8395520?s=40&v=4",
-          "name": "n1kn4x",
-          "url": "https://github.com/n1kn4x"
+          "avatar": "https://avatars.githubusercontent.com/u/253520619?s=40&v=4",
+          "name": "buddyleex",
+          "url": "https://github.com/buddyleex"
         }
       ]
     }

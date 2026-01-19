@@ -3,7 +3,7 @@
     <title>GitHub Yaml Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Yaml Languages in GitHub</description>
-    <pubDate>Mon, 19 Jan 2026 13:45:57 GMT</pubDate>
+    <pubDate>Mon, 19 Jan 2026 19:23:13 GMT</pubDate>
     <item>
       <title>kubeflow/manifests</title>
       <link>https://github.com/kubeflow/manifests</link>
@@ -126,7 +126,7 @@
       <language>YAML</language>
       <languageColor>#cb171e</languageColor>
       <stars>12,518</stars>
-      <forks>1,484</forks>
+      <forks>1,485</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/k3s-io/k3s-ansible</guid>
       <language>YAML</language>
       <languageColor>#cb171e</languageColor>
-      <stars>2,669</stars>
+      <stars>2,670</stars>
       <forks>946</forks>
       <addStars>1</addStars>
       <contributors>

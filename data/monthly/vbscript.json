@@ -2,7 +2,7 @@
   "title": "GitHub Vbscript Languages Monthly Trending",
   "description": "Monthly Trending of Vbscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Jan 2026 03:04:08 GMT",
+  "pubDate": "Tue, 20 Jan 2026 07:33:35 GMT",
   "items": [
     {
       "title": "abbodi1406/vcredist",
@@ -11,7 +11,7 @@
       "language": "VBScript",
       "languageColor": "#15dcdc",
       "stars": "7,273",
-      "forks": "398",
+      "forks": "399",
       "addStars": "144",
       "contributors": [
         {
@@ -32,7 +32,7 @@
       "description": "A repository full of malware samples.",
       "language": "VBScript",
       "languageColor": "#15dcdc",
-      "stars": "1,529",
+      "stars": "1,530",
       "forks": "362",
       "addStars": "24",
       "contributors": [

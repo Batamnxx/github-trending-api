@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Weekly Trending",
   "description": "Weekly Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Jan 2026 03:04:08 GMT",
+  "pubDate": "Tue, 20 Jan 2026 07:33:35 GMT",
   "items": [
     {
       "title": "permissionlesstech/bitchat",
@@ -10,8 +10,8 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "24,372",
-      "forks": "2,279",
+      "stars": "24,396",
+      "forks": "2,280",
       "addStars": "493",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "3,318",
+      "stars": "3,319",
       "forks": "410",
       "addStars": "185",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,057",
+      "stars": "1,059",
       "forks": "67",
       "addStars": "86",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "Free Weather Forecast API for non-commercial use",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,547",
+      "stars": "4,550",
       "forks": "294",
       "addStars": "120",
       "contributors": [
@@ -212,7 +212,7 @@
       "description": "A virtual platform team for mobile devs who ship",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,474",
+      "stars": "5,475",
       "forks": "688",
       "addStars": "17",
       "contributors": [
@@ -234,8 +234,8 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "35,892",
-      "forks": "1,145",
+      "stars": "35,896",
+      "forks": "1,146",
       "addStars": "185",
       "contributors": [
         {
@@ -308,7 +308,7 @@
       "description": "AI coding assistant for Xcode",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,553",
+      "stars": "5,554",
       "forks": "1,695",
       "addStars": "48",
       "contributors": [
@@ -377,7 +377,7 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "32,163",
+      "stars": "32,164",
       "forks": "919",
       "addStars": "84",
       "contributors": [
@@ -415,7 +415,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": "12,832",
-      "forks": "3,156",
+      "forks": "3,157",
       "addStars": "10",
       "contributors": [
         {
@@ -520,7 +520,7 @@
       "description": "A command-line tool and Xcode Extension for formatting Swift code",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "8,661",
+      "stars": "8,662",
       "forks": "670",
       "addStars": "14",
       "contributors": [
@@ -589,7 +589,7 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "18,264",
+      "stars": "18,267",
       "forks": "391",
       "addStars": "166",
       "contributors": [
@@ -663,7 +663,7 @@
       "description": "【鼠鬚管】Rime for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,653",
+      "stars": "5,654",
       "forks": "461",
       "addStars": "45",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Jan 2026 03:04:08 GMT",
+  "pubDate": "Tue, 20 Jan 2026 07:33:35 GMT",
   "items": [
     {
       "title": "LazyVim/LazyVim",
@@ -42,7 +42,7 @@
       "description": "Lightweight yet powerful formatter plugin for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,845",
+      "stars": "4,846",
       "forks": "271",
       "addStars": "6",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "9,936",
+      "stars": "9,940",
       "forks": "325",
       "addStars": "6",
       "contributors": [
@@ -143,7 +143,7 @@
       "description": "Improved fzf.vim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,010",
+      "stars": "4,009",
       "forks": "232",
       "addStars": "3",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "7,746",
+      "stars": "7,745",
       "forks": "516",
       "addStars": "6",
       "contributors": [
@@ -313,7 +313,7 @@
       "description": "A Neovim Plugin for the yazi terminal file manager",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,500",
+      "stars": "1,499",
       "forks": "47",
       "addStars": "2",
       "contributors": [
@@ -372,8 +372,8 @@
       "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "15,238",
-      "forks": "975",
+      "stars": "15,244",
+      "forks": "976",
       "addStars": "16",
       "contributors": [
         {
@@ -404,8 +404,8 @@
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "29,091",
-      "forks": "43,521",
+      "stars": "29,095",
+      "forks": "43,522",
       "addStars": "17",
       "contributors": [
         {
@@ -441,7 +441,7 @@
       "description": "Neovim file explorer: edit your filesystem like a buffer",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,160",
+      "stars": "6,159",
       "forks": "199",
       "addStars": "7",
       "contributors": [
@@ -473,7 +473,7 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "25,040",
+      "stars": "25,041",
       "forks": "1,602",
       "addStars": "19",
       "contributors": [
@@ -510,7 +510,7 @@
       "description": "Break bad habits, master Vim motions",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,633",
+      "stars": "3,634",
       "forks": "44",
       "addStars": "4",
       "contributors": [

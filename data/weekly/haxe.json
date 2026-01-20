@@ -2,7 +2,7 @@
   "title": "GitHub Haxe Languages Weekly Trending",
   "description": "Weekly Trending of Haxe Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Jan 2026 03:04:08 GMT",
+  "pubDate": "Tue, 20 Jan 2026 07:33:35 GMT",
   "items": [
     {
       "title": "HaxeFoundation/haxe",
@@ -190,7 +190,7 @@
       "description": "",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": "109",
+      "stars": "110",
       "forks": "142",
       "addStars": "2",
       "contributors": [

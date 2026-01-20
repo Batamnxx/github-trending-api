@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Monthly Trending",
   "description": "Monthly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Jan 2026 03:04:08 GMT",
+  "pubDate": "Tue, 20 Jan 2026 07:33:35 GMT",
   "items": [
     {
       "title": "adam-maj/tiny-gpu",
@@ -10,7 +10,7 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "10,494",
+      "stars": "10,499",
       "forks": "836",
       "addStars": "1,519",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "RISC-V Debug Support for our PULP RISC-V Cores",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "289",
+      "stars": "290",
       "forks": "91",
       "addStars": "2",
       "contributors": [

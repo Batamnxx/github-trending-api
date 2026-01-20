@@ -3,7 +3,7 @@
     <title>GitHub Emacs-lisp Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Emacs-lisp Languages in GitHub</description>
-    <pubDate>Tue, 20 Jan 2026 03:04:08 GMT</pubDate>
+    <pubDate>Tue, 20 Jan 2026 07:33:35 GMT</pubDate>
     <item>
       <title>xenodium/agent-shell</title>
       <link>https://github.com/xenodium/agent-shell</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/xenodium/agent-shell</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>516</stars>
+      <stars>517</stars>
       <forks>60</forks>
       <addStars>106</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/doomemacs/doomemacs</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>21,536</stars>
+      <stars>21,538</stars>
       <forks>3,149</forks>
       <addStars>186</addStars>
       <contributors>

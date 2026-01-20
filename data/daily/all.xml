@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 19 Jan 2026 19:23:13 GMT</pubDate>
+    <pubDate>Tue, 20 Jan 2026 03:04:08 GMT</pubDate>
     <item>
       <title>OpenBMB/VoxCPM</title>
       <link>https://github.com/OpenBMB/VoxCPM</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/OpenBMB/VoxCPM</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,788</stars>
-      <forks>561</forks>
-      <addStars>650</addStars>
+      <stars>4,956</stars>
+      <forks>581</forks>
+      <addStars>673</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/167593451?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/google/langextract</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,594</stars>
-      <forks>1,560</forks>
-      <addStars>621</addStars>
+      <stars>22,750</stars>
+      <forks>1,570</forks>
+      <addStars>652</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/19271735?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/iOfficeAI/AionUi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,687</stars>
-      <forks>519</forks>
-      <addStars>1,179</addStars>
+      <stars>6,934</stars>
+      <forks>528</forks>
+      <addStars>1,192</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4</avatar>
@@ -102,14 +102,14 @@
           <url>https://github.com/IceyLiu</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4</avatar>
-          <name>goworm</name>
-          <url>https://github.com/goworm</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28083037?s=40&amp;v=4</avatar>
+          <name>goworm</name>
+          <url>https://github.com/goworm</url>
         </contributor>
       </contributors>
     </item>
@@ -120,9 +120,9 @@
       <guid>https://github.com/czlonkowski/n8n-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,110</stars>
-      <forks>2,217</forks>
-      <addStars>132</addStars>
+      <stars>12,220</stars>
+      <forks>2,219</forks>
+      <addStars>95</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/56956555?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/nautechsystems/nautilus_trader</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>17,980</stars>
-      <forks>2,119</forks>
-      <addStars>525</addStars>
+      <stars>18,090</stars>
+      <forks>2,126</forks>
+      <addStars>518</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/22510164?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/ahujasid/blender-mcp</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,845</stars>
-      <forks>1,512</forks>
-      <addStars>174</addStars>
+      <stars>15,965</stars>
+      <forks>1,518</forks>
+      <addStars>188</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11807284?s=40&amp;v=4</avatar>
@@ -234,9 +234,9 @@
       <guid>https://github.com/yichuan-w/LEANN</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,260</stars>
-      <forks>802</forks>
-      <addStars>372</addStars>
+      <stars>9,344</stars>
+      <forks>807</forks>
+      <addStars>374</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/73766326?s=40&amp;v=4</avatar>
@@ -272,9 +272,9 @@
       <guid>https://github.com/DavidXanatos/TaskExplorer</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>2,406</stars>
+      <stars>2,495</stars>
       <forks>212</forks>
-      <addStars>238</addStars>
+      <addStars>236</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3890945?s=40&amp;v=4</avatar>

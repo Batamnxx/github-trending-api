@@ -3,7 +3,7 @@
     <title>GitHub Restructuredtext Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Restructuredtext Languages in GitHub</description>
-    <pubDate>Mon, 19 Jan 2026 19:23:13 GMT</pubDate>
+    <pubDate>Tue, 20 Jan 2026 03:04:08 GMT</pubDate>
     <item>
       <title>godotengine/godot-docs</title>
       <link>https://github.com/godotengine/godot-docs</link>
@@ -12,7 +12,7 @@
       <language>reStructuredText</language>
       <languageColor>#141414</languageColor>
       <stars>4,896</stars>
-      <forks>3,558</forks>
+      <forks>3,557</forks>
       <addStars>26</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/odoo/documentation</guid>
       <language>reStructuredText</language>
       <languageColor>#141414</languageColor>
-      <stars>1,087</stars>
-      <forks>11,039</forks>
+      <stars>1,088</stars>
+      <forks>11,042</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -89,7 +89,7 @@
       <languageColor>#141414</languageColor>
       <stars>4,839</stars>
       <forks>1,727</forks>
-      <addStars>16</addStars>
+      <addStars>15</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/54418?s=40&amp;v=4</avatar>

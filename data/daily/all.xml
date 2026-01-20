@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 20 Jan 2026 13:47:20 GMT</pubDate>
+    <pubDate>Tue, 20 Jan 2026 20:15:31 GMT</pubDate>
     <item>
       <title>microsoft/agent-lightning</title>
       <link>https://github.com/microsoft/agent-lightning</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/microsoft/agent-lightning</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,573</stars>
-      <forks>867</forks>
+      <stars>10,689</stars>
+      <forks>874</forks>
       <addStars>43</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/iOfficeAI/AionUi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,419</stars>
-      <forks>566</forks>
+      <stars>7,678</stars>
+      <forks>583</forks>
       <addStars>961</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/google/langextract</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,011</stars>
-      <forks>1,582</forks>
+      <stars>23,117</stars>
+      <forks>1,586</forks>
       <addStars>566</addStars>
       <contributors>
         <contributor>
@@ -115,9 +115,9 @@
       <guid>https://github.com/AlexxIT/go2rtc</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>11,344</stars>
-      <forks>863</forks>
-      <addStars>25</addStars>
+      <stars>11,458</stars>
+      <forks>869</forks>
+      <addStars>160</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/511909?s=40&amp;v=4</avatar>
@@ -153,8 +153,8 @@
       <guid>https://github.com/lukasz-madon/awesome-remote-job</guid>
       <language/>
       <languageColor/>
-      <stars>42,339</stars>
-      <forks>4,411</forks>
+      <stars>42,473</stars>
+      <forks>4,416</forks>
       <addStars>244</addStars>
       <contributors>
         <contributor>
@@ -191,9 +191,9 @@
       <guid>https://github.com/tobi/try</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>2,858</stars>
-      <forks>105</forks>
-      <addStars>168</addStars>
+      <stars>2,907</stars>
+      <forks>107</forks>
+      <addStars>78</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/347?s=40&amp;v=4</avatar>
@@ -224,8 +224,8 @@
       <guid>https://github.com/DavidXanatos/TaskExplorer</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>2,654</stars>
-      <forks>222</forks>
+      <stars>2,716</stars>
+      <forks>224</forks>
       <addStars>326</addStars>
       <contributors>
         <contributor>

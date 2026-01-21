@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Weekly Trending",
   "description": "Weekly Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Jan 2026 03:02:33 GMT",
+  "pubDate": "Wed, 21 Jan 2026 07:34:43 GMT",
   "items": [
     {
       "title": "RockBlack-VPN/ip-address",
@@ -70,7 +70,7 @@
       "language": "Batchfile",
       "languageColor": "#C1F12E",
       "stars": "19,400",
-      "forks": "699",
+      "forks": "700",
       "addStars": "86",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Uninstall Microsoft Edge with an executable or batch script.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "4,830",
-      "forks": "181",
+      "stars": "4,831",
+      "forks": "182",
       "addStars": "47",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "Вопросы и ответы к интервью Java разработчика",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "5,995",
+      "stars": "5,997",
       "forks": "2,032",
       "addStars": "8",
       "contributors": [
@@ -254,7 +254,7 @@
       "description": "Free RDP from Github Actions",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "50",
+      "stars": "51",
       "forks": "735",
       "addStars": "4",
       "contributors": [

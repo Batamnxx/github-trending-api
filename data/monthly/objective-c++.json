@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c++ Languages Monthly Trending",
   "description": "Monthly Trending of Objective-c++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Jan 2026 03:02:33 GMT",
+  "pubDate": "Wed, 21 Jan 2026 07:34:43 GMT",
   "items": [
     {
       "title": "thusvill/LiveWallpaperMacOS",
@@ -10,7 +10,7 @@
       "description": "This is a Opensource Live wallpaper solution for MacOS",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "616",
+      "stars": "618",
       "forks": "23",
       "addStars": "68",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "AutoRaise (and focus) a window when hovering over it with the mouse",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "2,386",
+      "stars": "2,387",
       "forks": "93",
       "addStars": "56",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "5,452",
+      "stars": "5,453",
       "forks": "468",
       "addStars": "40",
       "contributors": [

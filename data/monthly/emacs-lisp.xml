@@ -3,7 +3,7 @@
     <title>GitHub Emacs-lisp Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Emacs-lisp Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>xenodium/agent-shell</title>
       <link>https://github.com/xenodium/agent-shell</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/xenodium/agent-shell</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>528</stars>
+      <stars>530</stars>
       <forks>63</forks>
       <addStars>114</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/qjcg/awesome-typst</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>3,265</stars>
+      <stars>3,267</stars>
       <forks>154</forks>
       <addStars>119</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/doomemacs/doomemacs</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>21,549</stars>
-      <forks>3,149</forks>
+      <stars>21,552</stars>
+      <forks>3,150</forks>
       <addStars>185</addStars>
       <contributors>
         <contributor>
@@ -239,7 +239,7 @@
       <guid>https://github.com/karthink/gptel</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>3,115</stars>
+      <stars>3,116</stars>
       <forks>353</forks>
       <addStars>64</addStars>
       <contributors>
@@ -505,7 +505,7 @@
       <guid>https://github.com/magnars/multiple-cursors.el</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>2,467</stars>
+      <stars>2,468</stars>
       <forks>165</forks>
       <addStars>36</addStars>
       <contributors>
@@ -658,7 +658,7 @@
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
       <stars>24,857</stars>
-      <forks>4,862</forks>
+      <forks>4,863</forks>
       <addStars>101</addStars>
       <contributors>
         <contributor>

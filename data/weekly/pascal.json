@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Weekly Trending",
   "description": "Weekly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "jrsoftware/issrc",
@@ -195,7 +195,7 @@
       "description": "Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "1,086",
+      "stars": "1,085",
       "forks": "52",
       "addStars": "16",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "3,798",
+      "stars": "3,799",
       "forks": "264",
       "addStars": "27",
       "contributors": [
@@ -306,8 +306,8 @@
       "description": "Cheat Engine. A development environment focused on modding",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "17,634",
-      "forks": "2,481",
+      "stars": "17,635",
+      "forks": "2,482",
       "addStars": "42",
       "contributors": [
         {

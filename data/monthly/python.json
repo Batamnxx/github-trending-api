@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Monthly Trending",
   "description": "Monthly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "anthropics/skills",
@@ -10,8 +10,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "49,119",
-      "forks": "4,665",
+      "stars": "49,361",
+      "forks": "4,714",
       "addStars": "24,110",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,994",
-      "forks": "2,356",
+      "stars": "24,132",
+      "forks": "2,368",
       "addStars": "15,415",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "How can we build a true AI agent? Like Claude Code.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,941",
-      "forks": "3,389",
+      "stars": "14,964",
+      "forks": "3,390",
       "addStars": "3,210",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,014",
-      "forks": "1,629",
+      "stars": "18,049",
+      "forks": "1,634",
       "addStars": "5,069",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,262",
-      "forks": "1,544",
+      "stars": "16,283",
+      "forks": "1,545",
       "addStars": "1,679",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "SoTA open-source TTS",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,804",
-      "forks": "2,850",
+      "stars": "21,812",
+      "forks": "2,852",
       "addStars": "5,335",
       "contributors": [
         {
@@ -222,7 +222,7 @@
       "description": "CV/resume generator for academics and engineers, YAML to PDF",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,200",
+      "stars": "15,208",
       "forks": "1,027",
       "addStars": "11,213",
       "contributors": [
@@ -254,8 +254,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,486",
-      "forks": "1,613",
+      "stars": "23,514",
+      "forks": "1,615",
       "addStars": "5,761",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,204",
-      "forks": "5,762",
+      "stars": "59,210",
+      "forks": "5,763",
       "addStars": "3,620",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,405",
-      "forks": "1,212",
+      "stars": "21,437",
+      "forks": "1,216",
       "addStars": "2,972",
       "contributors": [
         {
@@ -350,7 +350,7 @@
       "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,560",
+      "stars": "9,567",
       "forks": "822",
       "addStars": "4,544",
       "contributors": [
@@ -387,7 +387,7 @@
       "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,179",
+      "stars": "1,200",
       "forks": "150",
       "addStars": "773",
       "contributors": [
@@ -409,7 +409,7 @@
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,964",
+      "stars": "28,968",
       "forks": "3,632",
       "addStars": "1,092",
       "contributors": [
@@ -446,8 +446,8 @@
       "description": "Stable Diffusion web UI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "160,137",
-      "forks": "29,834",
+      "stars": "160,142",
+      "forks": "29,836",
       "addStars": "1,273",
       "contributors": [
         {
@@ -483,7 +483,7 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,794",
+      "stars": "25,795",
       "forks": "2,085",
       "addStars": "1,405",
       "contributors": [
@@ -520,7 +520,7 @@
       "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,236",
+      "stars": "11,241",
       "forks": "1,104",
       "addStars": "398",
       "contributors": [

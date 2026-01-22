@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Weekly Trending",
   "description": "Weekly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "academicpages/academicpages.github.io",
@@ -11,7 +11,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "16,307",
-      "forks": "5,224",
+      "forks": "5,229",
       "addStars": "65",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "2,535",
-      "forks": "5,179",
+      "forks": "5,181",
       "addStars": "20",
       "contributors": [
         {
@@ -64,7 +64,7 @@
       "description": "Material Design Web Components",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "10,676",
+      "stars": "10,677",
       "forks": "1,046",
       "addStars": "16",
       "contributors": [
@@ -138,7 +138,7 @@
       "description": "The conventional commits specification",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,470",
+      "stars": "8,471",
       "forks": "648",
       "addStars": "23",
       "contributors": [
@@ -170,8 +170,8 @@
       "description": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,799",
-      "forks": "3,795",
+      "stars": "8,800",
+      "forks": "3,794",
       "addStars": "14",
       "contributors": [
         {
@@ -293,7 +293,7 @@
       "description": "Minima is a one-size-fits-all Jekyll theme for writers.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "3,772",
+      "stars": "3,773",
       "forks": "3,805",
       "addStars": "4",
       "contributors": [
@@ -367,7 +367,7 @@
       "description": "📫 SMTP Server + Web Interface for viewing and testing emails during development.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "5,803",
+      "stars": "5,804",
       "forks": "540",
       "addStars": "13",
       "contributors": [
@@ -405,7 +405,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "2,128",
-      "forks": "2,472",
+      "forks": "2,473",
       "addStars": "3",
       "contributors": [
         {

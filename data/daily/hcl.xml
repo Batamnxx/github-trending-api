@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Hcl Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>terraform-aws-modules/terraform-aws-eks</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
@@ -12,7 +12,7 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>4,876</stars>
-      <forks>4,352</forks>
+      <forks>4,353</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/antonputra/tutorials</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>4,400</stars>
+      <stars>4,401</stars>
       <forks>3,009</forks>
       <addStars>4</addStars>
       <contributors>
@@ -126,7 +126,7 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>2,351</stars>
-      <forks>6,156</forks>
+      <forks>6,157</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/moabukar/tech-vault</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>3,324</stars>
+      <stars>3,325</stars>
       <forks>747</forks>
       <addStars>7</addStars>
       <contributors>
@@ -311,7 +311,7 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>1,247</stars>
-      <forks>5,624</forks>
+      <forks>5,626</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Weekly Trending",
   "description": "Weekly Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "permissionlesstech/bitchat",
@@ -10,8 +10,8 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "24,635",
-      "forks": "2,299",
+      "stars": "24,649",
+      "forks": "2,302",
       "addStars": "639",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "23,491",
-      "forks": "594",
+      "stars": "23,495",
+      "forks": "595",
       "addStars": "222",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "3,356",
-      "forks": "416",
+      "stars": "3,358",
+      "forks": "417",
       "addStars": "178",
       "contributors": [
         {
@@ -138,7 +138,7 @@
       "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "42,313",
+      "stars": "42,314",
       "forks": "7,670",
       "addStars": "20",
       "contributors": [
@@ -212,8 +212,8 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "6,612",
-      "forks": "460",
+      "stars": "6,618",
+      "forks": "461",
       "addStars": "159",
       "contributors": [
         {
@@ -286,7 +286,7 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "18,330",
+      "stars": "18,334",
       "forks": "394",
       "addStars": "175",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "32,194",
+      "stars": "32,195",
       "forks": "919",
       "addStars": "98",
       "contributors": [
@@ -503,7 +503,7 @@
       "description": "An ultra-light MacOS utility that helps hide menu bar icons",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "13,211",
+      "stars": "13,213",
       "forks": "366",
       "addStars": "48",
       "contributors": [
@@ -540,7 +540,7 @@
       "description": "Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,007",
+      "stars": "2,009",
       "forks": "105",
       "addStars": "64",
       "contributors": [
@@ -730,14 +730,14 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16605023?s=40&v=4",
-          "name": "satishbabariya",
-          "url": "https://github.com/satishbabariya"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/5923044?s=40&v=4",
           "name": "grdsdev",
           "url": "https://github.com/grdsdev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16605023?s=40&v=4",
+          "name": "satishbabariya",
+          "url": "https://github.com/satishbabariya"
         }
       ]
     }

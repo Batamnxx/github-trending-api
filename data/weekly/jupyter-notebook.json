@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Weekly Trending",
   "description": "Weekly Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "microsoft/ai-agents-for-beginners",
@@ -10,8 +10,8 @@
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "49,240",
-      "forks": "17,135",
+      "stars": "49,249",
+      "forks": "17,141",
       "addStars": "534",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "10 Weeks, 20 Lessons, Data Science for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "32,648",
-      "forks": "6,833",
+      "stars": "32,764",
+      "forks": "6,842",
       "addStars": "436",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "6,538",
-      "forks": "1,703",
+      "stars": "6,551",
+      "forks": "1,705",
       "addStars": "268",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "The fastai book, published as Jupyter Notebooks",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "24,482",
-      "forks": "9,395",
+      "stars": "24,484",
+      "forks": "9,396",
       "addStars": "141",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "27,010",
-      "forks": "4,422",
+      "stars": "27,038",
+      "forks": "4,426",
       "addStars": "973",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "7,931",
-      "forks": "737",
+      "stars": "8,108",
+      "forks": "750",
       "addStars": "377",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "20,021",
-      "forks": "2,842",
+      "stars": "20,024",
+      "forks": "2,843",
       "addStars": "254",
       "contributors": [
         {
@@ -239,7 +239,7 @@
       "description": "",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "1,241",
+      "stars": "1,242",
       "forks": "207",
       "addStars": "77",
       "contributors": [
@@ -271,8 +271,8 @@
       "description": "📚 从零开始的大语言模型原理与实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "24,783",
-      "forks": "2,282",
+      "stars": "24,796",
+      "forks": "2,283",
       "addStars": "442",
       "contributors": [
         {
@@ -308,7 +308,7 @@
       "description": "This repo is meant to serve as a guide for Machine Learning/AI technical interviews.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "7,637",
+      "stars": "7,639",
       "forks": "1,376",
       "addStars": "95",
       "contributors": [
@@ -345,7 +345,7 @@
       "description": "Anthropic's educational courses",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,196",
+      "stars": "18,201",
       "forks": "1,723",
       "addStars": "114",
       "contributors": [
@@ -382,7 +382,7 @@
       "description": "Gonka AI Compute",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "316",
+      "stars": "318",
       "forks": "59",
       "addStars": "24",
       "contributors": [
@@ -419,8 +419,8 @@
       "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "2,370",
-      "forks": "436",
+      "stars": "2,381",
+      "forks": "440",
       "addStars": "210",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "17,749",
-      "forks": "3,027",
+      "stars": "17,750",
+      "forks": "3,030",
       "addStars": "60",
       "contributors": [
         {
@@ -493,7 +493,7 @@
       "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "6,842",
+      "stars": "6,843",
       "forks": "3,522",
       "addStars": "61",
       "contributors": [

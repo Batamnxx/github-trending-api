@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Monthly Trending",
   "description": "Monthly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "dreamhunter2333/cloudflare_temp_email",
@@ -10,7 +10,7 @@
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "5,704",
+      "stars": "5,705",
       "forks": "2,657",
       "addStars": "532",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "27,721",
-      "forks": "3,138",
+      "stars": "27,723",
+      "forks": "3,139",
       "addStars": "264",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "11,543",
-      "forks": "1,963",
+      "stars": "11,544",
+      "forks": "1,964",
       "addStars": "327",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Mihomo Dashboard, The Official One, XD",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,948",
+      "stars": "2,949",
       "forks": "393",
       "addStars": "163",
       "contributors": [
@@ -144,7 +144,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "294",
-      "forks": "30,534",
+      "forks": "30,471",
       "addStars": "15",
       "contributors": [
         {
@@ -208,7 +208,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "31,331",
-      "forks": "8,517",
+      "forks": "8,518",
       "addStars": "396",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "Fully featured, open source CRM",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,220",
-      "forks": "842",
+      "stars": "2,222",
+      "forks": "843",
       "addStars": "100",
       "contributors": [
         {
@@ -355,7 +355,7 @@
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "23,763",
+      "stars": "23,768",
       "forks": "1,744",
       "addStars": "400",
       "contributors": [
@@ -493,7 +493,7 @@
       "description": "测试站，密码admin",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,483",
+      "stars": "1,484",
       "forks": "2,001",
       "addStars": "148",
       "contributors": [
@@ -567,8 +567,8 @@
       "description": "AI辅助长篇小说创作，卡片式创作，支持基于 JSON Schema的结构化 AI 生成与上下文引用，可扩展性强。",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "323",
-      "forks": "52",
+      "stars": "324",
+      "forks": "53",
       "addStars": "71",
       "contributors": [
         {

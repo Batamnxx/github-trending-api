@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Monthly Trending",
   "description": "Monthly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -222,7 +222,7 @@
       "description": "BNB Evolution Proposals",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "940",
+      "stars": "941",
       "forks": "655",
       "addStars": "12",
       "contributors": [
@@ -328,7 +328,7 @@
       "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "2,422",
+      "stars": "2,423",
       "forks": "1,249",
       "addStars": "39",
       "contributors": [
@@ -476,7 +476,7 @@
       "description": "WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "13,831",
+      "stars": "13,833",
       "forks": "2,399",
       "addStars": "138",
       "contributors": [
@@ -514,7 +514,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "107",
-      "forks": "40",
+      "forks": "41",
       "addStars": "15",
       "contributors": [
         {
@@ -550,8 +550,8 @@
       "description": "A book on all things Foundry, available at https://book.getfoundry.sh.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "932",
-      "forks": "935",
+      "stars": "933",
+      "forks": "934",
       "addStars": "14",
       "contributors": [
         {

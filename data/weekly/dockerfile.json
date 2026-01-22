@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Weekly Trending",
   "description": "Weekly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "microsoft/vscode-remote-release",
@@ -47,8 +47,8 @@
       "description": "为开发人员分享快速参考备忘清单(速查表)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "14,910",
-      "forks": "2,217",
+      "stars": "14,911",
+      "forks": "2,216",
       "addStars": "52",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "97,250",
+      "stars": "97,268",
       "forks": "10,770",
       "addStars": "211",
       "contributors": [
@@ -245,7 +245,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "171",
-      "forks": "629",
+      "forks": "628",
       "addStars": "1",
       "contributors": [
         {
@@ -264,14 +264,14 @@
           "url": "https://github.com/DaneEveritt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1757840?s=40&v=4",
-          "name": "notAreYouScared",
-          "url": "https://github.com/notAreYouScared"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/14863743?s=40&v=4",
           "name": "WilliamVenner",
           "url": "https://github.com/WilliamVenner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1757840?s=40&v=4",
+          "name": "notAreYouScared",
+          "url": "https://github.com/notAreYouScared"
         }
       ]
     },
@@ -282,7 +282,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "4,813",
-      "forks": "1,959",
+      "forks": "1,960",
       "addStars": "6",
       "contributors": [
         {
@@ -355,7 +355,7 @@
       "description": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "8,756",
+      "stars": "8,758",
       "forks": "1,541",
       "addStars": "31",
       "contributors": [
@@ -503,7 +503,7 @@
       "description": "Full PHP development environment for Docker.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "12,653",
+      "stars": "12,654",
       "forks": "4,441",
       "addStars": "7",
       "contributors": [

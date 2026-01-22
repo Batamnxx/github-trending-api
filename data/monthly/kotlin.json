@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Monthly Trending",
   "description": "Monthly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "permissionlesstech/bitchat-android",
@@ -10,7 +10,7 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "4,557",
+      "stars": "4,561",
       "forks": "636",
       "addStars": "370",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "翻墙-科学上网",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "41,956",
+      "stars": "41,959",
       "forks": "7,558",
       "addStars": "804",
       "contributors": [
@@ -69,7 +69,7 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "20,969",
+      "stars": "20,977",
       "forks": "1,910",
       "addStars": "1,191",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "7,236",
+      "stars": "7,248",
       "forks": "328",
       "addStars": "891",
       "contributors": [
@@ -143,8 +143,8 @@
       "description": "YouTube Music client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "5,969",
-      "forks": "299",
+      "stars": "5,978",
+      "forks": "301",
       "addStars": "814",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,571",
-      "forks": "162",
+      "stars": "2,573",
+      "forks": "163",
       "addStars": "682",
       "contributors": [
         {
@@ -207,7 +207,7 @@
       "description": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "43,469",
+      "stars": "43,474",
       "forks": "4,869",
       "addStars": "1,012",
       "contributors": [
@@ -234,7 +234,7 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "49,878",
+      "stars": "49,879",
       "forks": "6,829",
       "addStars": "1,489",
       "contributors": [
@@ -271,7 +271,7 @@
       "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "24,111",
+      "stars": "24,114",
       "forks": "1,032",
       "addStars": "729",
       "contributors": [
@@ -308,8 +308,8 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "14,934",
-      "forks": "1,278",
+      "stars": "14,938",
+      "forks": "1,280",
       "addStars": "400",
       "contributors": [
         {
@@ -340,7 +340,7 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,260",
+      "stars": "3,265",
       "forks": "102",
       "addStars": "517",
       "contributors": [
@@ -377,8 +377,8 @@
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "10,575",
-      "forks": "2,638",
+      "stars": "10,579",
+      "forks": "2,639",
       "addStars": "191",
       "contributors": [
         {
@@ -441,7 +441,7 @@
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "10,132",
+      "stars": "10,137",
       "forks": "571",
       "addStars": "483",
       "contributors": [
@@ -478,7 +478,7 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,166",
+      "stars": "11,164",
       "forks": "554",
       "addStars": "254",
       "contributors": [
@@ -510,8 +510,8 @@
       "description": "A Minecraft: Java Edition Launcher for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "634",
-      "forks": "60",
+      "stars": "635",
+      "forks": "61",
       "addStars": "176",
       "contributors": [
         {
@@ -548,7 +548,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": "957",
-      "forks": "3,494",
+      "forks": "3,497",
       "addStars": "31",
       "contributors": [
         {
@@ -584,7 +584,7 @@
       "description": "🧩 Patches for ReVanced",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,420",
+      "stars": "1,421",
       "forks": "72",
       "addStars": "205",
       "contributors": [

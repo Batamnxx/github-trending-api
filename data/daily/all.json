@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "remotion-dev/remotion",
@@ -10,8 +10,8 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,341",
-      "forks": "1,529",
+      "stars": "26,726",
+      "forks": "1,568",
       "addStars": "518",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "26,939",
-      "forks": "2,459",
+      "stars": "27,052",
+      "forks": "2,464",
       "addStars": "334",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Source code for the X Recommendation Algorithm",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "71,645",
-      "forks": "13,117",
+      "stars": "71,710",
+      "forks": "13,132",
       "addStars": "468",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Grok open release",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "51,141",
-      "forks": "8,446",
+      "stars": "51,187",
+      "forks": "8,451",
       "addStars": "344",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "12,077",
-      "forks": "944",
+      "stars": "12,111",
+      "forks": "948",
       "addStars": "25",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,390",
-      "forks": "927",
+      "stars": "11,432",
+      "forks": "929",
       "addStars": "333",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,974",
-      "forks": "695",
+      "stars": "9,120",
+      "forks": "712",
       "addStars": "562",
       "contributors": [
         {
@@ -254,9 +254,9 @@
       "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,024",
-      "forks": "1,440",
-      "addStars": "460",
+      "stars": "20,108",
+      "forks": "1,445",
+      "addStars": "213",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2359375?s=40&v=4",
@@ -286,8 +286,8 @@
       "description": "10 Weeks, 20 Lessons, Data Science for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "32,644",
-      "forks": "6,833",
+      "stars": "32,760",
+      "forks": "6,842",
       "addStars": "660",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Download videos from almost any website worldwide",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,290",
-      "forks": "316",
+      "stars": "4,487",
+      "forks": "325",
       "addStars": "262",
       "contributors": [
         {
@@ -340,9 +340,9 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,183",
-      "forks": "1,022",
-      "addStars": "505",
+      "stars": "8,291",
+      "forks": "1,034",
+      "addStars": "272",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&v=4",

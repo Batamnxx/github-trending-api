@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Weekly Trending",
   "description": "Weekly Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "X0nk/Bliss-Shader",
@@ -47,7 +47,7 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "11,683",
+      "stars": "11,684",
       "forks": "2,188",
       "addStars": "25",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "An explorative shaderpack for Minecraft: Java Edition",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "452",
+      "stars": "453",
       "forks": "23",
       "addStars": "2",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "1,508",
+      "stars": "1,509",
       "forks": "74",
       "addStars": "11",
       "contributors": [

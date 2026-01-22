@@ -3,7 +3,7 @@
     <title>GitHub Astro Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Astro Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>zeon-studio/astroplate</title>
       <link>https://github.com/zeon-studio/astroplate</link>
@@ -12,7 +12,7 @@
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
       <stars>974</stars>
-      <forks>312</forks>
+      <forks>313</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -83,7 +83,7 @@
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
       <stars>5,374</stars>
-      <forks>1,536</forks>
+      <forks>1,537</forks>
       <addStars>28</addStars>
       <contributors>
         <contributor>
@@ -159,7 +159,7 @@
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
       <stars>351</stars>
-      <forks>4,308</forks>
+      <forks>4,309</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -196,7 +196,7 @@
       <guid>https://github.com/saicaca/fuwari</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>3,983</stars>
+      <stars>3,984</stars>
       <forks>1,068</forks>
       <addStars>44</addStars>
       <contributors>
@@ -285,8 +285,8 @@
       <guid>https://github.com/cworld1/astro-theme-pure</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>767</stars>
-      <forks>217</forks>
+      <stars>768</stars>
+      <forks>216</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>
@@ -319,7 +319,7 @@
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
       <stars>1,882</stars>
-      <forks>1,058</forks>
+      <forks>1,059</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -356,7 +356,7 @@
       <guid>https://github.com/midudev/tailwind-animations</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>1,283</stars>
+      <stars>1,284</stars>
       <forks>95</forks>
       <addStars>31</addStars>
       <contributors>

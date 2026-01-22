@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>eigent-ai/eigent</title>
       <link>https://github.com/eigent-ai/eigent</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/eigent-ai/eigent</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,655</stars>
-      <forks>1,192</forks>
+      <stars>10,710</stars>
+      <forks>1,197</forks>
       <addStars>5,834</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/iOfficeAI/AionUi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,974</stars>
-      <forks>695</forks>
+      <stars>9,120</stars>
+      <forks>712</forks>
       <addStars>4,825</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>33,099</stars>
-      <forks>2,492</forks>
+      <stars>33,292</stars>
+      <forks>2,513</forks>
       <addStars>10,471</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>83,337</stars>
-      <forks>7,447</forks>
+      <stars>83,686</stars>
+      <forks>7,490</forks>
       <addStars>13,360</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/liyupi/ai-guide</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,395</stars>
-      <forks>531</forks>
+      <stars>4,418</stars>
+      <forks>533</forks>
       <addStars>1,975</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/frankbria/ralph-claude-code</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>5,082</stars>
-      <forks>347</forks>
+      <stars>5,163</stars>
+      <forks>350</forks>
       <addStars>1,943</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/permissionlesstech/bitchat</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>24,635</stars>
-      <forks>2,299</forks>
+      <stars>24,647</stars>
+      <forks>2,302</forks>
       <addStars>639</addStars>
       <contributors>
         <contributor>
@@ -267,7 +267,7 @@
       <guid>https://github.com/alirezarezvani/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,179</stars>
+      <stars>1,199</stars>
       <forks>150</forks>
       <addStars>486</addStars>
       <contributors>
@@ -290,8 +290,8 @@
       <guid>https://github.com/google/langextract</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,484</stars>
-      <forks>1,612</forks>
+      <stars>23,513</stars>
+      <forks>1,615</forks>
       <addStars>2,854</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "Aetherinox/csf-firewall",
@@ -79,7 +79,7 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "22,426",
+      "stars": "22,429",
       "forks": "1,090",
       "addStars": "223",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "19,177",
+      "stars": "19,178",
       "forks": "2,082",
       "addStars": "106",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "4,356",
+      "stars": "4,357",
       "forks": "407",
       "addStars": "95",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "lm-sensors repository",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "1,061",
+      "stars": "1,062",
       "forks": "290",
       "addStars": "11",
       "contributors": [
@@ -434,7 +434,7 @@
       "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,297",
+      "stars": "3,298",
       "forks": "380",
       "addStars": "51",
       "contributors": [
@@ -582,7 +582,7 @@
       "description": "Various scripts for VMware based solutions",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "921",
+      "stars": "922",
       "forks": "505",
       "addStars": "7",
       "contributors": [

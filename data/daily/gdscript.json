@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
@@ -10,7 +10,7 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "1,969",
+      "stars": "1,971",
       "forks": "227",
       "addStars": "6",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "4,992",
+      "stars": "4,994",
       "forks": "289",
       "addStars": "32",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "GDScript",
       "languageColor": "#355570",
       "stars": "8,088",
-      "forks": "2,024",
+      "forks": "2,023",
       "addStars": "7",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "Atmospheric Day/Night Cycle for Godot 4",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "665",
+      "stars": "667",
       "forks": "48",
       "addStars": "3",
       "contributors": [

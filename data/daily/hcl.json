@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-eks",
@@ -11,7 +11,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "4,876",
-      "forks": "4,352",
+      "forks": "4,353",
       "addStars": "1",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "DevOps Tutorials",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "4,400",
+      "stars": "4,401",
       "forks": "3,009",
       "addStars": "4",
       "contributors": [
@@ -122,7 +122,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "2,351",
-      "forks": "6,156",
+      "forks": "6,157",
       "addStars": "1",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "3,324",
+      "stars": "3,325",
       "forks": "747",
       "addStars": "7",
       "contributors": [
@@ -302,7 +302,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "1,247",
-      "forks": "5,624",
+      "forks": "5,626",
       "addStars": "2",
       "contributors": [
         {

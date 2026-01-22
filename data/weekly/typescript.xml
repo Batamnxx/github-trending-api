@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>eigent-ai/eigent</title>
       <link>https://github.com/eigent-ai/eigent</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/eigent-ai/eigent</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,658</stars>
-      <forks>1,192</forks>
+      <stars>10,709</stars>
+      <forks>1,197</forks>
       <addStars>5,834</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/iOfficeAI/AionUi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,983</stars>
-      <forks>695</forks>
+      <stars>9,123</stars>
+      <forks>712</forks>
       <addStars>4,825</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>83,358</stars>
-      <forks>7,449</forks>
+      <stars>83,699</stars>
+      <forks>7,492</forks>
       <addStars>13,360</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,799</stars>
-      <forks>842</forks>
+      <stars>12,842</stars>
+      <forks>844</forks>
       <addStars>1,829</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/puckeditor/puck</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,770</stars>
+      <stars>11,774</stars>
       <forks>805</forks>
       <addStars>1,425</addStars>
       <contributors>
@@ -196,8 +196,8 @@
       <guid>https://github.com/tambo-ai/tambo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,617</stars>
-      <forks>219</forks>
+      <stars>3,649</stars>
+      <forks>220</forks>
       <addStars>1,674</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/czlonkowski/n8n-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,548</stars>
-      <forks>2,266</forks>
+      <stars>12,563</stars>
+      <forks>2,269</forks>
       <addStars>873</addStars>
       <contributors>
         <contributor>
@@ -267,7 +267,7 @@
       <guid>https://github.com/upstash/context7</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>42,954</stars>
+      <stars>42,986</stars>
       <forks>2,067</forks>
       <addStars>945</addStars>
       <contributors>
@@ -300,8 +300,8 @@
       <guid>https://github.com/ruvnet/claude-flow</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,668</stars>
-      <forks>1,546</forks>
+      <stars>12,685</stars>
+      <forks>1,548</forks>
       <addStars>676</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/wechat-article/wechat-article-exporter</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,217</stars>
-      <forks>1,069</forks>
+      <stars>6,225</stars>
+      <forks>1,070</forks>
       <addStars>501</addStars>
       <contributors>
         <contributor>
@@ -376,7 +376,7 @@
       <guid>https://github.com/darrenhinde/OpenAgentsControl</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,289</stars>
+      <stars>1,303</stars>
       <forks>130</forks>
       <addStars>416</addStars>
       <contributors>
@@ -409,8 +409,8 @@
       <guid>https://github.com/backstage/backstage</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,382</stars>
-      <forks>7,040</forks>
+      <stars>32,386</stars>
+      <forks>7,042</forks>
       <addStars>93</addStars>
       <contributors>
         <contributor>

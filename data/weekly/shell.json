@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Weekly Trending",
   "description": "Weekly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "obra/superpowers",
@@ -10,8 +10,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "33,107",
-      "forks": "2,493",
+      "stars": "33,294",
+      "forks": "2,514",
       "addStars": "10,471",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "5,089",
-      "forks": "348",
+      "stars": "5,165",
+      "forks": "350",
       "addStars": "1,943",
       "contributors": [
         {
@@ -80,7 +80,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "1,251",
-      "forks": "191",
+      "forks": "192",
       "addStars": "192",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "fresh directories for every vibe",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,234",
-      "forks": "119",
+      "stars": "3,241",
+      "forks": "120",
       "addStars": "593",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,899",
-      "forks": "936",
+      "stars": "6,923",
+      "forks": "935",
       "addStars": "305",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "59,342",
-      "forks": "4,396",
+      "stars": "59,418",
+      "forks": "4,412",
       "addStars": "2,633",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "90,977",
+      "stars": "90,981",
       "forks": "9,784",
       "addStars": "145",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,759",
+      "stars": "1,760",
       "forks": "259",
       "addStars": "52",
       "contributors": [
@@ -281,7 +281,7 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "10,794",
+      "stars": "10,795",
       "forks": "663",
       "addStars": "206",
       "contributors": [
@@ -387,7 +387,7 @@
       "description": "Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,916",
+      "stars": "1,917",
       "forks": "882",
       "addStars": "10",
       "contributors": [
@@ -419,7 +419,7 @@
       "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "15,590",
+      "stars": "15,589",
       "forks": "3,863",
       "addStars": "45",
       "contributors": [
@@ -456,7 +456,7 @@
       "description": "Fast, light, simple Docker containers & Linux machines",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "7,904",
+      "stars": "7,906",
       "forks": "81",
       "addStars": "40",
       "contributors": [

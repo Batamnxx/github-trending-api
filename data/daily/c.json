@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "zephyrproject-rtos/zephyr",
@@ -12,7 +12,7 @@
       "languageColor": "#555555",
       "stars": "14,245",
       "forks": "8,539",
-      "addStars": "20",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/180017?s=40&v=4",
@@ -47,7 +47,7 @@
       "description": "Power full Task Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "2,977",
+      "stars": "2,981",
       "forks": "236",
       "addStars": "62",
       "contributors": [
@@ -84,9 +84,9 @@
       "description": "Lightweight image viewer for Windows with animated GIF/WEBP support",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "989",
+      "stars": "991",
       "forks": "60",
-      "addStars": "38",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31149593?s=40&v=4",
@@ -107,7 +107,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "6,256",
-      "forks": "1,243",
+      "forks": "1,244",
       "addStars": "5",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "19,503",
+      "stars": "19,510",
       "forks": "664",
       "addStars": "31",
       "contributors": [
@@ -217,8 +217,8 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "14,529",
-      "forks": "2,123",
+      "stars": "14,532",
+      "forks": "2,124",
       "addStars": "11",
       "contributors": [
         {
@@ -254,9 +254,9 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "29,159",
+      "stars": "29,158",
       "forks": "7,732",
-      "addStars": "15",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/201187?s=40&v=4",
@@ -291,7 +291,7 @@
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "15,512",
+      "stars": "15,514",
       "forks": "1,530",
       "addStars": "16",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "12,435",
+      "stars": "12,437",
       "forks": "5,349",
       "addStars": "6",
       "contributors": [
@@ -360,8 +360,8 @@
       "description": "Checkpoint/Restore tool",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "3,643",
-      "forks": "695",
+      "stars": "3,645",
+      "forks": "696",
       "addStars": "6",
       "contributors": [
         {
@@ -397,7 +397,7 @@
       "description": "TLS/SSL and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "29,414",
+      "stars": "29,416",
       "forks": "11,006",
       "addStars": "6",
       "contributors": [
@@ -434,7 +434,7 @@
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "77,461",
+      "stars": "77,465",
       "forks": "6,312",
       "addStars": "25",
       "contributors": [
@@ -471,7 +471,7 @@
       "description": "A Simple cross-platform library for communicating with HID devices",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "2,099",
+      "stars": "2,102",
       "forks": "453",
       "addStars": "3",
       "contributors": [
@@ -508,8 +508,8 @@
       "description": "Cross-platform asynchronous I/O",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "26,497",
-      "forks": "3,827",
+      "stars": "26,496",
+      "forks": "3,828",
       "addStars": "8",
       "contributors": [
         {
@@ -545,8 +545,8 @@
       "description": "GNU toolchain for RISC-V, including GCC",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,332",
-      "forks": "1,341",
+      "stars": "4,334",
+      "forks": "1,340",
       "addStars": "5",
       "contributors": [
         {
@@ -582,8 +582,8 @@
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "17,149",
-      "forks": "8,071",
+      "stars": "17,150",
+      "forks": "8,072",
       "addStars": "11",
       "contributors": [
         {

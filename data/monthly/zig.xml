@@ -3,7 +3,7 @@
     <title>GitHub Zig Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Zig Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>ghostty-org/ghostty</title>
       <link>https://github.com/ghostty-org/ghostty</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/ghostty-org/ghostty</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>41,809</stars>
+      <stars>41,825</stars>
       <forks>1,465</forks>
       <addStars>2,038</addStars>
       <contributors>
@@ -49,8 +49,8 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>11,650</stars>
-      <forks>340</forks>
+      <stars>11,652</stars>
+      <forks>342</forks>
       <addStars>502</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/tigerbeetle/tigerbeetle</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>14,971</stars>
+      <stars>14,976</stars>
       <forks>766</forks>
       <addStars>254</addStars>
       <contributors>
@@ -125,8 +125,8 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>86,554</stars>
-      <forks>3,952</forks>
+      <stars>86,563</stars>
+      <forks>3,954</forks>
       <addStars>1,288</addStars>
       <contributors>
         <contributor>
@@ -310,7 +310,7 @@
       <guid>https://github.com/mitchellh/libxev</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>3,283</stars>
+      <stars>3,284</stars>
       <forks>149</forks>
       <addStars>68</addStars>
       <contributors>
@@ -457,7 +457,7 @@
       <guid>https://github.com/PixelGuys/Cubyz</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>3,037</stars>
+      <stars>3,039</stars>
       <forks>187</forks>
       <addStars>68</addStars>
       <contributors>
@@ -533,7 +533,7 @@
       <guid>https://github.com/ziglang/zig</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>42,640</stars>
+      <stars>42,641</stars>
       <forks>3,092</forks>
       <addStars>171</addStars>
       <contributors>

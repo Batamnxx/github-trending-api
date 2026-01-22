@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Monthly Trending",
   "description": "Monthly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "just-the-docs/just-the-docs",
@@ -10,8 +10,8 @@
       "description": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,799",
-      "forks": "3,795",
+      "stars": "8,800",
+      "forks": "3,794",
       "addStars": "64",
       "contributors": [
         {
@@ -43,7 +43,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "16,307",
-      "forks": "5,224",
+      "forks": "5,229",
       "addStars": "221",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "The conventional commits specification",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,470",
+      "stars": "8,471",
       "forks": "648",
       "addStars": "96",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "Minima is a one-size-fits-all Jekyll theme for writers.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "3,772",
+      "stars": "3,773",
       "forks": "3,805",
       "addStars": "25",
       "contributors": [
@@ -223,7 +223,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "1,769",
-      "forks": "6,375",
+      "forks": "6,376",
       "addStars": "15",
       "contributors": [
         {
@@ -259,7 +259,7 @@
       "description": "Material Design Web Components",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "10,676",
+      "stars": "10,677",
       "forks": "1,046",
       "addStars": "87",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "MacOS Tahoe theme for gtk desktops",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "811",
+      "stars": "812",
       "forks": "33",
       "addStars": "118",
       "contributors": [
@@ -371,7 +371,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "2,535",
-      "forks": "5,179",
+      "forks": "5,181",
       "addStars": "61",
       "contributors": [
         {

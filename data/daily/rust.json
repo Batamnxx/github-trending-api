@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "block/goose",
@@ -10,8 +10,8 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "26,946",
-      "forks": "2,460",
+      "stars": "27,059",
+      "forks": "2,464",
       "addStars": "334",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Lightning-fast and Powerful Code Editor written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,937",
-      "forks": "1,222",
+      "stars": "37,938",
+      "forks": "1,223",
       "addStars": "33",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "Fuzzy Finder in rust!",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,391",
+      "stars": "6,393",
       "forks": "234",
       "addStars": "29",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,205",
-      "forks": "136",
+      "stars": "1,216",
+      "forks": "137",
       "addStars": "104",
       "contributors": [
         {
@@ -143,7 +143,7 @@
       "description": "A post-modern modal text editor.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "42,528",
+      "stars": "42,530",
       "forks": "3,275",
       "addStars": "29",
       "contributors": [
@@ -175,7 +175,7 @@
       "description": "Use your Android phone as a microphone for your PC",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "851",
+      "stars": "856",
       "forks": "53",
       "addStars": "56",
       "contributors": [
@@ -244,8 +244,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "106,146",
-      "forks": "15,711",
+      "stars": "106,148",
+      "forks": "15,715",
       "addStars": "67",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "Apache DataFusion SQL Query Engine",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,306",
-      "forks": "1,899",
+      "stars": "8,307",
+      "forks": "1,902",
       "addStars": "7",
       "contributors": [
         {
@@ -313,7 +313,7 @@
       "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "28,327",
+      "stars": "28,334",
       "forks": "2,009",
       "addStars": "22",
       "contributors": [
@@ -345,7 +345,7 @@
       "description": "A high-performance observability data pipeline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,156",
+      "stars": "21,157",
       "forks": "1,983",
       "addStars": "9",
       "contributors": [
@@ -377,7 +377,7 @@
       "description": "Secure and fast microVMs for serverless computing.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,987",
+      "stars": "31,989",
       "forks": "2,218",
       "addStars": "22",
       "contributors": [
@@ -414,8 +414,8 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,996",
-      "forks": "831",
+      "stars": "13,034",
+      "forks": "834",
       "addStars": "270",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "56,835",
-      "forks": "7,356",
+      "stars": "56,856",
+      "forks": "7,365",
       "addStars": "129",
       "contributors": [
         {
@@ -488,7 +488,7 @@
       "description": "A simple, decentralized mesh VPN with WireGuard support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,456",
+      "stars": "9,462",
       "forks": "898",
       "addStars": "18",
       "contributors": [
@@ -525,7 +525,7 @@
       "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,633",
+      "stars": "17,654",
       "forks": "555",
       "addStars": "144",
       "contributors": [
@@ -557,7 +557,7 @@
       "description": "A native gRPC client & server implementation with async/await support.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,744",
+      "stars": "11,746",
       "forks": "1,167",
       "addStars": "7",
       "contributors": [
@@ -594,8 +594,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "73,826",
-      "forks": "6,685",
+      "stars": "73,843",
+      "forks": "6,686",
       "addStars": "92",
       "contributors": [
         {

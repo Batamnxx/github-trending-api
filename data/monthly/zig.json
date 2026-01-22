@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Monthly Trending",
   "description": "Monthly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "ghostty-org/ghostty",
@@ -10,7 +10,7 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "41,809",
+      "stars": "41,825",
       "forks": "1,465",
       "addStars": "2,038",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "11,650",
-      "forks": "340",
+      "stars": "11,652",
+      "forks": "342",
       "addStars": "502",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "14,971",
+      "stars": "14,976",
       "forks": "766",
       "addStars": "254",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "86,554",
-      "forks": "3,952",
+      "stars": "86,563",
+      "forks": "3,954",
       "addStars": "1,288",
       "contributors": [
         {
@@ -301,7 +301,7 @@
       "description": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,283",
+      "stars": "3,284",
       "forks": "149",
       "addStars": "68",
       "contributors": [
@@ -444,7 +444,7 @@
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,037",
+      "stars": "3,039",
       "forks": "187",
       "addStars": "68",
       "contributors": [
@@ -518,7 +518,7 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "42,640",
+      "stars": "42,641",
       "forks": "3,092",
       "addStars": "171",
       "contributors": [

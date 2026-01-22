@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Nix Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -12,7 +12,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>23,170</stars>
-      <forks>17,783</forks>
+      <forks>17,789</forks>
       <addStars>396</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/Mic92/sops-nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,546</stars>
+      <stars>2,547</stars>
       <forks>205</forks>
       <addStars>92</addStars>
       <contributors>
@@ -252,7 +252,7 @@
       <guid>https://github.com/the-nix-way/dev-templates</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,125</stars>
+      <stars>2,126</stars>
       <forks>170</forks>
       <addStars>75</addStars>
       <contributors>
@@ -384,7 +384,7 @@
       <guid>https://github.com/sodiboo/niri-flake</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>673</stars>
+      <stars>674</stars>
       <forks>92</forks>
       <addStars>65</addStars>
       <contributors>
@@ -493,7 +493,7 @@
       <guid>https://github.com/dustinlyons/nixos-config</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>3,319</stars>
+      <stars>3,320</stars>
       <forks>188</forks>
       <addStars>76</addStars>
       <contributors>

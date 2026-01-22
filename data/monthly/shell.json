@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Monthly Trending",
   "description": "Monthly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "obra/superpowers",
@@ -10,8 +10,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "33,107",
-      "forks": "2,493",
+      "stars": "33,294",
+      "forks": "2,514",
       "addStars": "21,166",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "59,342",
-      "forks": "4,396",
+      "stars": "59,418",
+      "forks": "4,412",
       "addStars": "11,609",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "1,251",
-      "forks": "191",
+      "forks": "192",
       "addStars": "332",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "(NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "961",
-      "forks": "42",
+      "stars": "962",
+      "forks": "43",
       "addStars": "194",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "29,875",
-      "forks": "1,534",
+      "stars": "29,880",
+      "forks": "1,535",
       "addStars": "454",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "13,711",
+      "stars": "13,713",
       "forks": "596",
       "addStars": "759",
       "contributors": [
@@ -264,7 +264,7 @@
       "description": "Proxmox VE Helper-Scripts (Community Edition)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "25,215",
+      "stars": "25,223",
       "forks": "2,304",
       "addStars": "1,157",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,086",
+      "stars": "6,087",
       "forks": "643",
       "addStars": "414",
       "contributors": [
@@ -328,7 +328,7 @@
       "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "15,590",
+      "stars": "15,589",
       "forks": "3,863",
       "addStars": "222",
       "contributors": [
@@ -365,7 +365,7 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "10,794",
+      "stars": "10,795",
       "forks": "663",
       "addStars": "453",
       "contributors": [
@@ -402,7 +402,7 @@
       "description": "Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,990",
+      "stars": "1,992",
       "forks": "175",
       "addStars": "177",
       "contributors": [
@@ -439,7 +439,7 @@
       "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "8,569",
+      "stars": "8,571",
       "forks": "2,735",
       "addStars": "270",
       "contributors": [

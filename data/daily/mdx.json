@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "twbs/bootstrap",
@@ -10,8 +10,8 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "173,938",
-      "forks": "79,168",
+      "stars": "173,937",
+      "forks": "79,167",
       "addStars": "11",
       "contributors": [
         {
@@ -43,7 +43,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "202",
-      "forks": "1,711",
+      "forks": "1,712",
       "addStars": "7",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,698",
-      "forks": "185",
+      "stars": "1,700",
+      "forks": "184",
       "addStars": "3",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "69,421",
-      "forks": "7,409",
+      "stars": "69,428",
+      "forks": "7,410",
       "addStars": "55",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "37,266",
-      "forks": "3,175",
+      "stars": "37,277",
+      "forks": "3,176",
       "addStars": "39",
       "contributors": [
         {
@@ -186,7 +186,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "582",
-      "forks": "3,714",
+      "forks": "3,715",
       "addStars": "0",
       "contributors": [
         {
@@ -218,7 +218,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "41",
-      "forks": "143",
+      "forks": "144",
       "addStars": "1",
       "contributors": [
         {
@@ -254,7 +254,7 @@
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "10,589",
+      "stars": "10,591",
       "forks": "755",
       "addStars": "17",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "23,945",
+      "stars": "23,947",
       "forks": "2,562",
       "addStars": "14",
       "contributors": [
@@ -387,7 +387,7 @@
       "description": "Front End interview preparation materials for busy engineers (updated for 2025)",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "43,814",
+      "stars": "43,819",
       "forks": "5,946",
       "addStars": "7",
       "contributors": [
@@ -456,7 +456,7 @@
       "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "24,919",
+      "stars": "24,922",
       "forks": "1,744",
       "addStars": "21",
       "contributors": [
@@ -493,7 +493,7 @@
       "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "20,018",
+      "stars": "20,022",
       "forks": "922",
       "addStars": "22",
       "contributors": [
@@ -525,7 +525,7 @@
       "description": "ngrok's official documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "129",
+      "stars": "130",
       "forks": "4,167",
       "addStars": "0",
       "contributors": [
@@ -557,8 +557,8 @@
       "description": "Astro documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,580",
-      "forks": "1,785",
+      "stars": "1,581",
+      "forks": "1,787",
       "addStars": "3",
       "contributors": [
         {
@@ -595,7 +595,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "127",
-      "forks": "361",
+      "forks": "362",
       "addStars": "0",
       "contributors": [
         {

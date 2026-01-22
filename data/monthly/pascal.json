@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Monthly Trending",
   "description": "Monthly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "benjamimgois/goverlay",
@@ -10,7 +10,7 @@
       "description": "Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "1,086",
+      "stars": "1,085",
       "forks": "52",
       "addStars": "104",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Cheat Engine. A development environment focused on modding",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "17,634",
-      "forks": "2,481",
+      "stars": "17,635",
+      "forks": "2,482",
       "addStars": "191",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "3,798",
+      "stars": "3,799",
       "forks": "264",
       "addStars": "108",
       "contributors": [
@@ -306,7 +306,7 @@
       "description": "A GUI for ExifTool",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "793",
+      "stars": "794",
       "forks": "44",
       "addStars": "38",
       "contributors": [
@@ -407,7 +407,7 @@
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "6,789",
+      "stars": "6,793",
       "forks": "371",
       "addStars": "167",
       "contributors": [
@@ -444,7 +444,7 @@
       "description": "PS4 compatibility layer (emulator) on Free Pascal",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "2,113",
+      "stars": "2,112",
       "forks": "152",
       "addStars": "2",
       "contributors": [

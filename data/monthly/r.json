@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Monthly Trending",
   "description": "Monthly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "satijalab/seurat",
@@ -10,7 +10,7 @@
       "description": "R toolkit for single cell genomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "2,618",
+      "stars": "2,619",
       "forks": "978",
       "addStars": "31",
       "contributors": [
@@ -48,7 +48,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": "876",
-      "forks": "143,971",
+      "forks": "143,970",
       "addStars": "5",
       "contributors": [
         {
@@ -143,7 +143,7 @@
       "description": "🎓 A collection of interactive courses for the swirl R package.",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "4,521",
+      "stars": "4,522",
       "forks": "7,241",
       "addStars": "14",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "R for data science: a book",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "4,976",
+      "stars": "4,977",
       "forks": "4,406",
       "addStars": "38",
       "contributors": [
@@ -583,7 +583,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": "328",
-      "forks": "33",
+      "forks": "34",
       "addStars": "16",
       "contributors": [
         {

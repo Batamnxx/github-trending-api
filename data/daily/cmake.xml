@@ -3,7 +3,7 @@
     <title>GitHub Cmake Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Cmake Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>microsoft/vcpkg</title>
       <link>https://github.com/microsoft/vcpkg</link>
@@ -163,7 +163,7 @@
       <guid>https://github.com/nasa/cFS</guid>
       <language>CMake</language>
       <languageColor>#DA3434</languageColor>
-      <stars>1,151</stars>
+      <stars>1,152</stars>
       <forks>319</forks>
       <addStars>1</addStars>
       <contributors>

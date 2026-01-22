@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Monthly Trending",
   "description": "Monthly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "antiwork/gumroad",
@@ -10,8 +10,8 @@
       "description": "Sell stuff and see what sticks",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "8,274",
-      "forks": "1,631",
+      "stars": "8,276",
+      "forks": "1,632",
       "addStars": "498",
       "contributors": [
         {
@@ -37,7 +37,7 @@
       "description": "OpenProject is the leading open source project management software.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "14,192",
+      "stars": "14,195",
       "forks": "3,058",
       "addStars": "806",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "23,280",
+      "stars": "23,281",
       "forks": "5,553",
       "addStars": "134",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "11,220",
+      "stars": "11,230",
       "forks": "929",
       "addStars": "197",
       "contributors": [
@@ -144,7 +144,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "37,324",
-      "forks": "14,709",
+      "forks": "14,708",
       "addStars": "254",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "26,995",
-      "forks": "6,158",
+      "stars": "26,997",
+      "forks": "6,161",
       "addStars": "445",
       "contributors": [
         {
@@ -217,7 +217,7 @@
       "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "7,779",
+      "stars": "7,784",
       "forks": "242",
       "addStars": "290",
       "contributors": [
@@ -281,8 +281,8 @@
       "description": "🍻 Default formulae for the missing package manager for macOS (or Linux)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "14,970",
-      "forks": "13,317",
+      "stars": "14,971",
+      "forks": "13,315",
       "addStars": "102",
       "contributors": [
         {
@@ -382,8 +382,8 @@
       "description": "🍺 The missing package manager for macOS (or Linux)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "46,291",
-      "forks": "10,892",
+      "stars": "46,296",
+      "forks": "10,893",
       "addStars": "450",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "21,766",
-      "forks": "11,290",
+      "stars": "21,768",
+      "forks": "11,289",
       "addStars": "69",
       "contributors": [
         {
@@ -456,7 +456,7 @@
       "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "51,377",
+      "stars": "51,378",
       "forks": "10,287",
       "addStars": "187",
       "contributors": [
@@ -530,7 +530,7 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "46,103",
+      "stars": "46,104",
       "forks": "8,790",
       "addStars": "297",
       "contributors": [
@@ -562,7 +562,7 @@
       "description": "The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "1,784",
+      "stars": "1,785",
       "forks": "667",
       "addStars": "35",
       "contributors": [
@@ -631,7 +631,7 @@
       "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,153",
+      "stars": "15,154",
       "forks": "5,221",
       "addStars": "70",
       "contributors": [
@@ -706,7 +706,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "36,891",
-      "forks": "1,937",
+      "forks": "1,938",
       "addStars": "306",
       "contributors": [
         {
@@ -742,7 +742,7 @@
       "description": "Zammad is a web based open source helpdesk/customer support system.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "5,343",
+      "stars": "5,344",
       "forks": "925",
       "addStars": "58",
       "contributors": [
@@ -780,7 +780,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "4,650",
-      "forks": "13,928",
+      "forks": "13,927",
       "addStars": "55",
       "contributors": [
         {
@@ -816,7 +816,7 @@
       "description": "A self-hosted digital asset manager for 3d print files.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "1,720",
+      "stars": "1,721",
       "forks": "100",
       "addStars": "118",
       "contributors": [

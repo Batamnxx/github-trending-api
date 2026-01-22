@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Weekly Trending",
   "description": "Weekly Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "semgrep/semgrep",
@@ -10,7 +10,7 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "13,910",
+      "stars": "13,913",
       "forks": "864",
       "addStars": "65",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "2,046",
+      "stars": "2,047",
       "forks": "166",
       "addStars": "25",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "527",
+      "stars": "528",
       "forks": "40",
       "addStars": "15",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "Unison file synchronizer",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "5,055",
+      "stars": "5,056",
       "forks": "262",
       "addStars": "13",
       "contributors": [

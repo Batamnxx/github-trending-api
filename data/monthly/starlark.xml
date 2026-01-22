@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>googleapis/googleapis</title>
       <link>https://github.com/googleapis/googleapis</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/googleapis/googleapis</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>8,385</stars>
-      <forks>2,518</forks>
+      <stars>8,387</stars>
+      <forks>2,519</forks>
       <addStars>78</addStars>
       <contributors>
         <contributor>
@@ -182,7 +182,7 @@
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
       <stars>352</stars>
-      <forks>644</forks>
+      <forks>645</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>
@@ -361,7 +361,7 @@
       <guid>https://github.com/GoogleContainerTools/distroless</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>22,100</stars>
+      <stars>22,102</stars>
       <forks>1,339</forks>
       <addStars>246</addStars>
       <contributors>

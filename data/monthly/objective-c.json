@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Monthly Trending",
   "description": "Monthly Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "noah-nuebling/mac-mouse-fix",
@@ -10,8 +10,8 @@
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "9,027",
-      "forks": "264",
+      "stars": "9,032",
+      "forks": "265",
       "addStars": "476",
       "contributors": [
         {
@@ -37,7 +37,7 @@
       "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "20,756",
+      "stars": "20,759",
       "forks": "1,446",
       "addStars": "200",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "16,828",
+      "stars": "16,829",
       "forks": "1,284",
       "addStars": "182",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "A software update framework for macOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "8,497",
+      "stars": "8,498",
       "forks": "1,093",
       "addStars": "127",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "1,968",
+      "stars": "1,969",
       "forks": "838",
       "addStars": "15",
       "contributors": [
@@ -382,7 +382,7 @@
       "description": "Enables iOS and macOS apps to sign in with Google.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "691",
+      "stars": "692",
       "forks": "248",
       "addStars": "16",
       "contributors": [
@@ -530,7 +530,7 @@
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "14,335",
+      "stars": "14,336",
       "forks": "659",
       "addStars": "226",
       "contributors": [

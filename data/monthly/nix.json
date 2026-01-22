@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -11,7 +11,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "23,170",
-      "forks": "17,783",
+      "forks": "17,789",
       "addStars": "396",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,546",
+      "stars": "2,547",
       "forks": "205",
       "addStars": "92",
       "contributors": [
@@ -244,7 +244,7 @@
       "description": "Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,125",
+      "stars": "2,126",
       "forks": "170",
       "addStars": "75",
       "contributors": [
@@ -372,7 +372,7 @@
       "description": "Nix-native configuration for niri",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "673",
+      "stars": "674",
       "forks": "92",
       "addStars": "65",
       "contributors": [
@@ -478,7 +478,7 @@
       "description": "General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,319",
+      "stars": "3,320",
       "forks": "188",
       "addStars": "76",
       "contributors": [

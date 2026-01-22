@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>remotion-dev/remotion</title>
       <link>https://github.com/remotion-dev/remotion</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,367</stars>
-      <forks>1,531</forks>
+      <stars>26,737</stars>
+      <forks>1,569</forks>
       <addStars>518</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/iOfficeAI/AionUi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,983</stars>
-      <forks>695</forks>
+      <stars>9,123</stars>
+      <forks>712</forks>
       <addStars>562</addStars>
       <contributors>
         <contributor>
@@ -87,9 +87,9 @@
       <guid>https://github.com/mastra-ai/mastra</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,029</stars>
-      <forks>1,440</forks>
-      <addStars>460</addStars>
+      <stars>20,111</stars>
+      <forks>1,445</forks>
+      <addStars>213</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2359375?s=40&amp;v=4</avatar>
@@ -120,8 +120,8 @@
       <guid>https://github.com/nexmoe/VidBee</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,300</stars>
-      <forks>317</forks>
+      <stars>4,492</stars>
+      <forks>325</forks>
       <addStars>262</addStars>
       <contributors>
         <contributor>
@@ -143,9 +143,9 @@
       <guid>https://github.com/virattt/dexter</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,198</stars>
-      <forks>1,024</forks>
-      <addStars>505</addStars>
+      <stars>8,298</stars>
+      <forks>1,034</forks>
+      <addStars>272</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4</avatar>
@@ -156,11 +156,6 @@
           <avatar>https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4</avatar>
           <name>gupta-8</name>
           <url>https://github.com/gupta-8</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/218712309?s=40&amp;v=4</avatar>
-          <name>bittoby</name>
-          <url>https://github.com/bittoby</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/345155?s=40&amp;v=4</avatar>
@@ -181,8 +176,8 @@
       <guid>https://github.com/tambo-ai/tambo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,617</stars>
-      <forks>219</forks>
+      <stars>3,649</stars>
+      <forks>220</forks>
       <addStars>619</addStars>
       <contributors>
         <contributor>
@@ -214,9 +209,9 @@
       <guid>https://github.com/maotoumao/MusicFree</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,955</stars>
-      <forks>1,592</forks>
-      <addStars>72</addStars>
+      <stars>22,960</stars>
+      <forks>1,593</forks>
+      <addStars>28</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/31655147?s=40&amp;v=4</avatar>
@@ -252,7 +247,7 @@
       <guid>https://github.com/CyberTimon/RapidRAW</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,283</stars>
+      <stars>4,295</stars>
       <forks>144</forks>
       <addStars>30</addStars>
       <contributors>
@@ -290,7 +285,7 @@
       <guid>https://github.com/strapi/strapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>71,039</stars>
+      <stars>71,042</stars>
       <forks>9,385</forks>
       <addStars>15</addStars>
       <contributors>
@@ -328,7 +323,7 @@
       <guid>https://github.com/vuetifyjs/vuetify</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>40,912</stars>
+      <stars>40,911</stars>
       <forks>7,145</forks>
       <addStars>8</addStars>
       <contributors>
@@ -366,7 +361,7 @@
       <guid>https://github.com/vuejs/core</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>52,780</stars>
+      <stars>52,782</stars>
       <forks>9,033</forks>
       <addStars>14</addStars>
       <contributors>
@@ -394,7 +389,7 @@
       <guid>https://github.com/langchain-ai/social-media-agent</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,968</stars>
+      <stars>1,977</stars>
       <forks>354</forks>
       <addStars>56</addStars>
       <contributors>
@@ -422,8 +417,8 @@
       <guid>https://github.com/bia-pain-bache/BPB-Worker-Panel</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,455</stars>
-      <forks>31,506</forks>
+      <stars>9,459</stars>
+      <forks>31,505</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>

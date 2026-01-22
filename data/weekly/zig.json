@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "ziglang/zig",
@@ -10,7 +10,7 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "42,640",
+      "stars": "42,641",
       "forks": "3,092",
       "addStars": "45",
       "contributors": [
@@ -69,8 +69,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "86,554",
-      "forks": "3,952",
+      "stars": "86,563",
+      "forks": "3,954",
       "addStars": "266",
       "contributors": [
         {
@@ -101,7 +101,7 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "41,809",
+      "stars": "41,825",
       "forks": "1,465",
       "addStars": "433",
       "contributors": [
@@ -175,8 +175,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "11,650",
-      "forks": "340",
+      "stars": "11,652",
+      "forks": "342",
       "addStars": "82",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "14,971",
+      "stars": "14,976",
       "forks": "766",
       "addStars": "54",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "An HTTP/1.1 server for zig",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,347",
+      "stars": "1,349",
       "forks": "92",
       "addStars": "12",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,065",
+      "stars": "3,066",
       "forks": "112",
       "addStars": "12",
       "contributors": [
@@ -361,7 +361,7 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": "705",
-      "forks": "19",
+      "forks": "20",
       "addStars": "26",
       "contributors": [
         {

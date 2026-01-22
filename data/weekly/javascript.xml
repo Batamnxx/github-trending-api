@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Javascript Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>liyupi/ai-guide</title>
       <link>https://github.com/liyupi/ai-guide</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/liyupi/ai-guide</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,396</stars>
-      <forks>531</forks>
+      <stars>4,418</stars>
+      <forks>533</forks>
       <addStars>1,975</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/prettier/prettier</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>51,465</stars>
+      <stars>51,466</stars>
       <forks>4,641</forks>
       <addStars>82</addStars>
       <contributors>
@@ -110,7 +110,7 @@
       <guid>https://github.com/juliangarnier/anime</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>66,112</stars>
+      <stars>66,122</stars>
       <forks>4,423</forks>
       <addStars>251</addStars>
       <contributors>
@@ -148,7 +148,7 @@
       <guid>https://github.com/grab/cursor-talk-to-figma-mcp</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>6,166</stars>
+      <stars>6,169</stars>
       <forks>647</forks>
       <addStars>250</addStars>
       <contributors>
@@ -186,8 +186,8 @@
       <guid>https://github.com/github/awesome-copilot</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>18,486</stars>
-      <forks>2,112</forks>
+      <stars>18,521</stars>
+      <forks>2,116</forks>
       <addStars>854</addStars>
       <contributors>
         <contributor>
@@ -201,14 +201,14 @@
           <url>https://github.com/codemillmatt</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10998676?s=40&amp;v=4</avatar>
+          <name>jhauga</name>
+          <url>https://github.com/jhauga</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/44444967?s=40&amp;v=4</avatar>
           <name>troystaylor</name>
           <url>https://github.com/troystaylor</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7757139?s=40&amp;v=4</avatar>
-          <name>abbas133</name>
-          <url>https://github.com/abbas133</url>
         </contributor>
       </contributors>
     </item>
@@ -219,8 +219,8 @@
       <guid>https://github.com/marktext/marktext</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>53,376</stars>
-      <forks>3,953</forks>
+      <stars>53,385</stars>
+      <forks>3,954</forks>
       <addStars>160</addStars>
       <contributors>
         <contributor>

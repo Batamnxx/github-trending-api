@@ -3,7 +3,7 @@
     <title>GitHub Java Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Java Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>apache/nifi</title>
       <link>https://github.com/apache/nifi</link>
@@ -49,9 +49,9 @@
       <guid>https://github.com/LawnchairLauncher/lawnchair</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>11,946</stars>
+      <stars>11,944</stars>
       <forks>1,413</forks>
-      <addStars>33</addStars>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/672456?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/dbeaver/dbeaver</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>48,342</stars>
+      <stars>48,345</stars>
       <forks>4,007</forks>
-      <addStars>35</addStars>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6398845?s=40&amp;v=4</avatar>
@@ -125,8 +125,8 @@
       <guid>https://github.com/ashishps1/awesome-leetcode-resources</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>15,325</stars>
-      <forks>3,336</forks>
+      <stars>15,346</stars>
+      <forks>3,337</forks>
       <addStars>50</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/OpenAPITools/openapi-generator</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>25,652</stars>
+      <stars>25,656</stars>
       <forks>7,361</forks>
       <addStars>11</addStars>
       <contributors>
@@ -201,9 +201,9 @@
       <guid>https://github.com/thingsboard/thingsboard</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>20,970</stars>
+      <stars>20,972</stars>
       <forks>6,053</forks>
-      <addStars>5</addStars>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8308069?s=40&amp;v=4</avatar>
@@ -239,8 +239,8 @@
       <guid>https://github.com/ashishps1/awesome-system-design-resources</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>29,181</stars>
-      <forks>6,697</forks>
+      <stars>29,198</stars>
+      <forks>6,700</forks>
       <addStars>26</addStars>
       <contributors>
         <contributor>
@@ -272,7 +272,7 @@
       <guid>https://github.com/apache/fesod</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>5,740</stars>
+      <stars>5,741</stars>
       <forks>475</forks>
       <addStars>14</addStars>
       <contributors>
@@ -310,7 +310,7 @@
       <guid>https://github.com/apache/doris</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>14,913</stars>
+      <stars>14,912</stars>
       <forks>3,691</forks>
       <addStars>5</addStars>
       <contributors>
@@ -348,7 +348,7 @@
       <guid>https://github.com/OpenRefine/OpenRefine</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>11,698</stars>
+      <stars>11,700</stars>
       <forks>2,121</forks>
       <addStars>6</addStars>
       <contributors>
@@ -414,7 +414,7 @@
       <guid>https://github.com/skylot/jadx</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>46,975</stars>
+      <stars>46,979</stars>
       <forks>5,400</forks>
       <addStars>13</addStars>
       <contributors>
@@ -452,7 +452,7 @@
       <guid>https://github.com/xpipe-io/xpipe</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>13,558</stars>
+      <stars>13,559</stars>
       <forks>522</forks>
       <addStars>38</addStars>
       <contributors>
@@ -492,7 +492,7 @@
       <languageColor>#b07219</languageColor>
       <stars>32,567</stars>
       <forks>13,243</forks>
-      <addStars>10</addStars>
+      <addStars>7</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37170243?s=40&amp;v=4</avatar>
@@ -528,9 +528,9 @@
       <guid>https://github.com/datahub-project/datahub</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>11,475</stars>
+      <stars>11,476</stars>
       <forks>3,344</forks>
-      <addStars>6</addStars>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12566801?s=40&amp;v=4</avatar>
@@ -567,7 +567,7 @@
       <language>Java</language>
       <languageColor>#b07219</languageColor>
       <stars>79,744</stars>
-      <forks>41,822</forks>
+      <forks>41,823</forks>
       <addStars>15</addStars>
       <contributors>
         <contributor>
@@ -642,7 +642,7 @@
       <guid>https://github.com/kafbat/kafka-ui</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>1,948</stars>
+      <stars>1,949</stars>
       <forks>242</forks>
       <addStars>5</addStars>
       <contributors>
@@ -680,9 +680,9 @@
       <guid>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>21,670</stars>
-      <forks>12,990</forks>
-      <addStars>21</addStars>
+      <stars>21,674</stars>
+      <forks>12,991</forks>
+      <addStars>14</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/42698533?s=40&amp;v=4</avatar>
@@ -751,7 +751,7 @@
       <guid>https://github.com/neoforged/NeoForge</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>1,773</stars>
+      <stars>1,775</stars>
       <forks>281</forks>
       <addStars>3</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nix Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>Mic92/sops-nix</title>
       <link>https://github.com/Mic92/sops-nix</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/Mic92/sops-nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,546</stars>
+      <stars>2,547</stars>
       <forks>205</forks>
       <addStars>18</addStars>
       <contributors>
@@ -110,7 +110,7 @@
       <guid>https://github.com/feel-co/hjem</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>291</stars>
+      <stars>293</stars>
       <forks>20</forks>
       <addStars>6</addStars>
       <contributors>
@@ -144,7 +144,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>23,170</stars>
-      <forks>17,783</forks>
+      <forks>17,789</forks>
       <addStars>99</addStars>
       <contributors>
         <contributor>
@@ -290,7 +290,7 @@
       <guid>https://github.com/sodiboo/niri-flake</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>673</stars>
+      <stars>674</stars>
       <forks>92</forks>
       <addStars>18</addStars>
       <contributors>
@@ -422,7 +422,7 @@
       <guid>https://github.com/dustinlyons/nixos-config</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>3,319</stars>
+      <stars>3,320</stars>
       <forks>188</forks>
       <addStars>18</addStars>
       <contributors>
@@ -488,7 +488,7 @@
       <guid>https://github.com/nix-community/impermanence</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,655</stars>
+      <stars>1,656</stars>
       <forks>116</forks>
       <addStars>10</addStars>
       <contributors>
@@ -560,7 +560,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>3,537</stars>
-      <forks>170</forks>
+      <forks>171</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>

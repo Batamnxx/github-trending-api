@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "dataease/SQLBot",
@@ -10,9 +10,9 @@
       "description": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,325",
+      "stars": "5,327",
       "forks": "566",
-      "addStars": "23",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106045316?s=40&v=4",
@@ -47,7 +47,7 @@
       "description": "Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "174",
+      "stars": "178",
       "forks": "58",
       "addStars": "58",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "JavaScript animation engine",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "66,112",
+      "stars": "66,122",
       "forks": "4,423",
       "addStars": "63",
       "contributors": [
@@ -123,7 +123,7 @@
       "languageColor": "#f1e05a",
       "stars": "59,784",
       "forks": "20,501",
-      "addStars": "20",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1615?s=40&v=4",
@@ -158,7 +158,7 @@
       "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "40,163",
+      "stars": "40,172",
       "forks": "2,070",
       "addStars": "39",
       "contributors": [
@@ -195,8 +195,8 @@
       "description": "Holy Unblocker LTS is a web proxy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup. It does this securely and with additional privacy features. Browse Tor/Onion sites in any browser, hide browsing activity and bypass filters. (Star if you fork it!)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,177",
-      "forks": "4,451",
+      "stars": "1,179",
+      "forks": "4,453",
       "addStars": "6",
       "contributors": [
         {
@@ -232,9 +232,9 @@
       "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "75,588",
+      "stars": "75,587",
       "forks": "7,270",
-      "addStars": "9",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5502029?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "115,332",
-      "forks": "34,459",
-      "addStars": "31",
+      "stars": "115,336",
+      "forks": "34,462",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&v=4",
@@ -301,7 +301,7 @@
       "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "13,415",
+      "stars": "13,417",
       "forks": "3,988",
       "addStars": "4",
       "contributors": [
@@ -338,7 +338,7 @@
       "description": "An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "33,057",
+      "stars": "33,056",
       "forks": "5,950",
       "addStars": "8",
       "contributors": [
@@ -370,8 +370,8 @@
       "description": "web development, streamlined",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "20,203",
-      "forks": "2,195",
+      "stars": "20,204",
+      "forks": "2,194",
       "addStars": "6",
       "contributors": [
         {
@@ -402,7 +402,7 @@
       "description": "🌲 super fast, all natural json logger",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "17,199",
+      "stars": "17,200",
       "forks": "937",
       "addStars": "9",
       "contributors": [
@@ -434,8 +434,8 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "18,486",
-      "forks": "2,112",
+      "stars": "18,521",
+      "forks": "2,116",
       "addStars": "149",
       "contributors": [
         {
@@ -449,14 +449,14 @@
           "url": "https://github.com/codemillmatt"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/10998676?s=40&v=4",
+          "name": "jhauga",
+          "url": "https://github.com/jhauga"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/44444967?s=40&v=4",
           "name": "troystaylor",
           "url": "https://github.com/troystaylor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7757139?s=40&v=4",
-          "name": "abbas133",
-          "url": "https://github.com/abbas133"
         }
       ]
     },
@@ -466,7 +466,7 @@
       "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "29,205",
+      "stars": "29,208",
       "forks": "5,669",
       "addStars": "28",
       "contributors": [

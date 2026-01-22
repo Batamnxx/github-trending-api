@@ -2,7 +2,7 @@
   "title": "GitHub Html Languages Weekly Trending",
   "description": "Weekly Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "windmill-labs/windmill",
@@ -10,7 +10,7 @@
       "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "15,603",
+      "stars": "15,610",
       "forks": "869",
       "addStars": "90",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "A Clash Client For OpenWrt",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "23,926",
+      "stars": "23,928",
       "forks": "3,723",
       "addStars": "373",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "Examples of ComfyUI workflows",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "3,833",
+      "stars": "3,835",
       "forks": "1,188",
       "addStars": "45",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "程序员技能图谱",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "20,299",
+      "stars": "20,304",
       "forks": "4,334",
       "addStars": "60",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "28,958",
+      "stars": "28,968",
       "forks": "5,724",
       "addStars": "367",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "5,978",
+      "stars": "5,981",
       "forks": "790",
       "addStars": "42",
       "contributors": [
@@ -286,8 +286,8 @@
       "description": "Official repo for the #tidytuesday project",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "7,928",
-      "forks": "2,540",
+      "stars": "7,929",
+      "forks": "2,539",
       "addStars": "18",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "Style guides for Google-originated open-source projects",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "38,880",
+      "stars": "38,882",
       "forks": "12,998",
       "addStars": "43",
       "contributors": [
@@ -355,8 +355,8 @@
       "description": "Curso de HTML5 e CSS3",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "15,877",
-      "forks": "3,805",
+      "stars": "15,879",
+      "forks": "3,803",
       "addStars": "41",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "12,010",
-      "forks": "1,213",
+      "stars": "12,013",
+      "forks": "1,214",
       "addStars": "154",
       "contributors": [
         {
@@ -424,7 +424,7 @@
       "description": "🎓 Path to a free self-taught education in Computer Science!",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "200,588",
+      "stars": "200,592",
       "forks": "24,958",
       "addStars": "363",
       "contributors": [
@@ -498,7 +498,7 @@
       "description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models. Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "13,690",
+      "stars": "13,692",
       "forks": "1,137",
       "addStars": "71",
       "contributors": [

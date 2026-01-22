@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "xenodium/agent-shell",
@@ -10,7 +10,7 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "528",
+      "stars": "530",
       "forks": "63",
       "addStars": "114",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Awesome Typst Links",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "3,265",
+      "stars": "3,267",
       "forks": "154",
       "addStars": "119",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "21,549",
-      "forks": "3,149",
+      "stars": "21,552",
+      "forks": "3,150",
       "addStars": "185",
       "contributors": [
         {
@@ -232,7 +232,7 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "3,115",
+      "stars": "3,116",
       "forks": "353",
       "addStars": "64",
       "contributors": [
@@ -491,7 +491,7 @@
       "description": "Multiple cursors for emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,467",
+      "stars": "2,468",
       "forks": "165",
       "addStars": "36",
       "contributors": [
@@ -640,7 +640,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": "24,857",
-      "forks": "4,862",
+      "forks": "4,863",
       "addStars": "101",
       "contributors": [
         {

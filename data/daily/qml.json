@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "end-4/dots-hyprland",
@@ -10,8 +10,8 @@
       "description": "Usability-first dotfiles with a corporate-ish-level cleanliness",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "12,258",
-      "forks": "964",
+      "stars": "12,267",
+      "forks": "965",
       "addStars": "33",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "‼️ No waybar here ‼️",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "7,103",
+      "stars": "7,107",
       "forks": "448",
       "addStars": "22",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "24,939",
+      "stars": "24,943",
       "forks": "941",
       "addStars": "8",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Series of modern looking themes for SDDM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "2,390",
+      "stars": "2,392",
       "forks": "184",
       "addStars": "5",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "Latte-Dock and WM status bar customization for the KDE Plasma panels",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "822",
+      "stars": "823",
       "forks": "14",
       "addStars": "2",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "An Axtremely customizable shell.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "197",
+      "stars": "198",
       "forks": "12",
       "addStars": "5",
       "contributors": [

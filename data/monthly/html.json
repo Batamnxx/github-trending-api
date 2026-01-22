@@ -2,7 +2,7 @@
   "title": "GitHub Html Languages Monthly Trending",
   "description": "Monthly Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "home-assistant/home-assistant.io",
@@ -11,7 +11,7 @@
       "language": "HTML",
       "languageColor": "#e34c26",
       "stars": "8,678",
-      "forks": "8,144",
+      "forks": "8,143",
       "addStars": "1,012",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "28,958",
+      "stars": "28,968",
       "forks": "5,724",
       "addStars": "1,498",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "A Clash Client For OpenWrt",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "23,926",
+      "stars": "23,928",
       "forks": "3,723",
       "addStars": "797",
       "contributors": [
@@ -106,8 +106,8 @@
       "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "24,118",
-      "forks": "5,198",
+      "stars": "24,126",
+      "forks": "5,201",
       "addStars": "1,741",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "12,010",
-      "forks": "1,213",
+      "stars": "12,013",
+      "forks": "1,214",
       "addStars": "612",
       "contributors": [
         {
@@ -217,7 +217,7 @@
       "description": "Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "9,359",
+      "stars": "9,360",
       "forks": "1,773",
       "addStars": "129",
       "contributors": [
@@ -314,7 +314,7 @@
       "language": "HTML",
       "languageColor": "#e34c26",
       "stars": "3,256",
-      "forks": "970",
+      "forks": "971",
       "addStars": "45",
       "contributors": [
         {
@@ -372,7 +372,7 @@
       "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "31,050",
+      "stars": "31,051",
       "forks": "1,337",
       "addStars": "280",
       "contributors": [
@@ -409,7 +409,7 @@
       "description": "A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "5,978",
+      "stars": "5,981",
       "forks": "790",
       "addStars": "162",
       "contributors": [

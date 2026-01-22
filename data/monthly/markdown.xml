@@ -3,7 +3,7 @@
     <title>GitHub Markdown Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Markdown Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>mdn/content</title>
       <link>https://github.com/mdn/content</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/mdn/content</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>10,455</stars>
-      <forks>23,083</forks>
+      <stars>10,456</stars>
+      <forks>23,085</forks>
       <addStars>81</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/tldr-pages/tldr</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>60,923</stars>
+      <stars>60,925</stars>
       <forks>4,998</forks>
       <addStars>449</addStars>
       <contributors>
@@ -164,7 +164,7 @@
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
       <stars>10,740</stars>
-      <forks>21,846</forks>
+      <forks>21,845</forks>
       <addStars>43</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>459,306</stars>
-      <forks>43,060</forks>
+      <stars>459,401</stars>
+      <forks>43,070</forks>
       <addStars>9,216</addStars>
       <contributors>
         <contributor>
@@ -310,7 +310,7 @@
       <guid>https://github.com/privacyguides/privacyguides.org</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>3,811</stars>
+      <stars>3,812</stars>
       <forks>262</forks>
       <addStars>70</addStars>
       <contributors>
@@ -343,7 +343,7 @@
       <guid>https://github.com/TRaSH-Guides/Guides</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>2,737</stars>
+      <stars>2,739</stars>
       <forks>293</forks>
       <addStars>102</addStars>
       <contributors>

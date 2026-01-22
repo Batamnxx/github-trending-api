@@ -3,7 +3,7 @@
     <title>GitHub Elixir Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Elixir Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>phoenixframework/phoenix</title>
       <link>https://github.com/phoenixframework/phoenix</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/phoenixframework/phoenix</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>22,736</stars>
+      <stars>22,737</stars>
       <forks>3,040</forks>
       <addStars>2</addStars>
       <contributors>
@@ -161,7 +161,7 @@
       <guid>https://github.com/phoenixframework/phoenix_live_view</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>6,684</stars>
+      <stars>6,685</stars>
       <forks>1,028</forks>
       <addStars>2</addStars>
       <contributors>
@@ -308,7 +308,7 @@
       <guid>https://github.com/bartblast/hologram</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>1,135</stars>
+      <stars>1,137</stars>
       <forks>97</forks>
       <addStars>3</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Monthly Trending",
   "description": "Monthly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "twitter/the-algorithm",
@@ -10,8 +10,8 @@
       "description": "Source code for the X Recommendation Algorithm",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "71,648",
-      "forks": "13,118",
+      "stars": "71,713",
+      "forks": "13,133",
       "addStars": "3,286",
       "contributors": [
         {
@@ -37,7 +37,7 @@
       "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "8,555",
+      "stars": "8,556",
       "forks": "1,992",
       "addStars": "90",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "17,622",
+      "stars": "17,624",
       "forks": "2,542",
       "addStars": "144",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "42,681",
+      "stars": "42,682",
       "forks": "29,019",
       "addStars": "207",
       "contributors": [
@@ -149,7 +149,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "68",
-      "forks": "101",
+      "forks": "102",
       "addStars": "21",
       "contributors": [
         {
@@ -218,7 +218,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "6,848",
-      "forks": "865",
+      "forks": "864",
       "addStars": "54",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "sbt, the interactive build tool",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "4,889",
-      "forks": "980",
+      "stars": "4,888",
+      "forks": "982",
       "addStars": "14",
       "contributors": [
         {

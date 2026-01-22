@@ -2,7 +2,7 @@
   "title": "GitHub Shaderlab Languages Monthly Trending",
   "description": "Monthly Trending of Shaderlab Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "poiyomi/PoiyomiToonShader",
@@ -10,7 +10,7 @@
       "description": "A feature rich toon shader for unity and VR Chat",
       "language": "ShaderLab",
       "languageColor": "#222c37",
-      "stars": "1,552",
+      "stars": "1,553",
       "forks": "201",
       "addStars": "20",
       "contributors": [

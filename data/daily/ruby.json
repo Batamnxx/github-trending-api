@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "discourse/discourse",
@@ -10,7 +10,7 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "46,103",
+      "stars": "46,104",
       "forks": "8,790",
       "addStars": "12",
       "contributors": [
@@ -44,7 +44,7 @@
       "languageColor": "#701516",
       "stars": "40,923",
       "forks": "5,970",
-      "addStars": "11",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/869950?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "26,995",
-      "forks": "6,158",
-      "addStars": "18",
+      "stars": "26,997",
+      "forks": "6,161",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2246121?s=40&v=4",
@@ -116,8 +116,8 @@
       "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "13,260",
-      "forks": "4,968",
+      "stars": "13,261",
+      "forks": "4,969",
       "addStars": "5",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "Deploy web apps anywhere.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "13,760",
+      "stars": "13,762",
       "forks": "668",
       "addStars": "3",
       "contributors": [
@@ -190,9 +190,9 @@
       "description": "The open LMS by Instructure, Inc.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "6,402",
+      "stars": "6,404",
       "forks": "2,839",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/191320?s=40&v=4",
@@ -227,7 +227,7 @@
       "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,153",
+      "stars": "15,154",
       "forks": "5,221",
       "addStars": "0",
       "contributors": [
@@ -264,7 +264,7 @@
       "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "7,779",
+      "stars": "7,784",
       "forks": "242",
       "addStars": "28",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "Simple, efficient background processing for Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "13,479",
+      "stars": "13,480",
       "forks": "2,467",
       "addStars": "0",
       "contributors": [
@@ -333,7 +333,7 @@
       "description": "Kanban as it should be. Not as it has been.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "6,742",
+      "stars": "6,748",
       "forks": "900",
       "addStars": "14",
       "contributors": [
@@ -371,7 +371,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "6,366",
-      "forks": "977",
+      "forks": "978",
       "addStars": "3",
       "contributors": [
         {
@@ -407,7 +407,7 @@
       "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "3,441",
+      "stars": "3,442",
       "forks": "359",
       "addStars": "6",
       "contributors": [
@@ -445,7 +445,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "37,324",
-      "forks": "14,709",
+      "forks": "14,708",
       "addStars": "3",
       "contributors": [
         {
@@ -481,7 +481,7 @@
       "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "51,377",
+      "stars": "51,378",
       "forks": "10,287",
       "addStars": "5",
       "contributors": [
@@ -592,7 +592,7 @@
       "description": "A Ruby/Rack web server built for parallelism",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "7,847",
+      "stars": "7,848",
       "forks": "1,466",
       "addStars": "1",
       "contributors": [

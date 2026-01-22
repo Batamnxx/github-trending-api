@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Weekly Trending",
   "description": "Weekly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "xenodium/agent-shell",
@@ -10,7 +10,7 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "528",
+      "stars": "530",
       "forks": "63",
       "addStars": "42",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "3,115",
+      "stars": "3,116",
       "forks": "353",
       "addStars": "13",
       "contributors": [
@@ -122,7 +122,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": "24,857",
-      "forks": "4,862",
+      "forks": "4,863",
       "addStars": "29",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "21,549",
-      "forks": "3,149",
+      "stars": "21,552",
+      "forks": "3,150",
       "addStars": "44",
       "contributors": [
         {
@@ -455,7 +455,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": "2,011",
-      "forks": "225",
+      "forks": "226",
       "addStars": "13",
       "contributors": [
         {
@@ -565,7 +565,7 @@
       "description": "Unified Emacs interface supporting Claude Code, Gemini CLI, OpenAI Codex, Opencode, GitHub Copilot CLI, and more",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "115",
+      "stars": "117",
       "forks": "17",
       "addStars": "7",
       "contributors": [

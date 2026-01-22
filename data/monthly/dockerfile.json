@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "OWASP/wstg",
@@ -10,7 +10,7 @@
       "description": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "8,756",
+      "stars": "8,758",
       "forks": "1,541",
       "addStars": "126",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "18,383",
-      "forks": "910",
+      "stars": "18,386",
+      "forks": "911",
       "addStars": "363",
       "contributors": [
         {
@@ -154,7 +154,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "20,128",
-      "forks": "4,749",
+      "forks": "4,750",
       "addStars": "162",
       "contributors": [
         {
@@ -191,7 +191,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "85",
-      "forks": "355",
+      "forks": "356",
       "addStars": "13",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "97,251",
+      "stars": "97,268",
       "forks": "10,770",
       "addStars": "722",
       "contributors": [
@@ -244,8 +244,8 @@
       "description": "为开发人员分享快速参考备忘清单(速查表)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "14,910",
-      "forks": "2,217",
+      "stars": "14,911",
+      "forks": "2,216",
       "addStars": "132",
       "contributors": [
         {
@@ -298,7 +298,7 @@
       "description": "✅ The Node.js best practices list (July 2024)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "104,948",
+      "stars": "104,949",
       "forks": "10,683",
       "addStars": "273",
       "contributors": [
@@ -404,7 +404,7 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,384",
+      "stars": "2,385",
       "forks": "285",
       "addStars": "39",
       "contributors": [

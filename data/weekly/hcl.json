@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Weekly Trending",
   "description": "Weekly Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-eks",
@@ -11,7 +11,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "4,876",
-      "forks": "4,352",
+      "forks": "4,353",
       "addStars": "7",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "1,926",
-      "forks": "1,159",
+      "forks": "1,158",
       "addStars": "10",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "3,624",
+      "stars": "3,625",
       "forks": "525",
       "addStars": "21",
       "contributors": [
@@ -260,7 +260,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "234",
-      "forks": "344",
+      "forks": "345",
       "addStars": "14",
       "contributors": [
         {

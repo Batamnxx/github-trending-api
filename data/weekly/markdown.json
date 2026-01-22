@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Weekly Trending",
   "description": "Weekly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "codecrafters-io/build-your-own-x",
@@ -10,8 +10,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "459,306",
-      "forks": "43,060",
+      "stars": "459,401",
+      "forks": "43,070",
       "addStars": "2,807",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "The OpenAPI Specification Repository",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "30,838",
+      "stars": "30,837",
       "forks": "9,165",
       "addStars": "34",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "Protect your data against global mass surveillance programs.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "3,811",
+      "stars": "3,812",
       "forks": "262",
       "addStars": "22",
       "contributors": [
@@ -301,8 +301,8 @@
       "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "10,455",
-      "forks": "23,083",
+      "stars": "10,456",
+      "forks": "23,085",
       "addStars": "22",
       "contributors": [
         {
@@ -338,7 +338,7 @@
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "35,387",
+      "stars": "35,388",
       "forks": "6,575",
       "addStars": "52",
       "contributors": [

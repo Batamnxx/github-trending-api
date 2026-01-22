@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Monthly Trending",
   "description": "Monthly Trending of Mdx Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "carlvellotti/claude-code-pm-course",
@@ -10,7 +10,7 @@
       "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "374",
+      "stars": "375",
       "forks": "95",
       "addStars": "204",
       "contributors": [
@@ -32,8 +32,8 @@
       "description": "📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "37,266",
-      "forks": "3,175",
+      "stars": "37,277",
+      "forks": "3,176",
       "addStars": "1,023",
       "contributors": [
         {
@@ -69,7 +69,7 @@
       "description": "Cloudflare’s documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "4,313",
+      "stars": "4,312",
       "forks": "11,673",
       "addStars": "116",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "10,589",
+      "stars": "10,591",
       "forks": "755",
       "addStars": "399",
       "contributors": [
@@ -138,8 +138,8 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "173,938",
-      "forks": "79,168",
+      "stars": "173,937",
+      "forks": "79,167",
       "addStars": "285",
       "contributors": [
         {
@@ -170,7 +170,7 @@
       "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "20,018",
+      "stars": "20,022",
       "forks": "922",
       "addStars": "319",
       "contributors": [
@@ -239,7 +239,7 @@
       "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "24,919",
+      "stars": "24,922",
       "forks": "1,744",
       "addStars": "651",
       "contributors": [
@@ -276,8 +276,8 @@
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "69,421",
-      "forks": "7,409",
+      "stars": "69,428",
+      "forks": "7,410",
       "addStars": "1,449",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "Astro documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,580",
-      "forks": "1,785",
+      "stars": "1,581",
+      "forks": "1,787",
       "addStars": "14",
       "contributors": [
         {
@@ -388,7 +388,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "41",
-      "forks": "143",
+      "forks": "144",
       "addStars": "4",
       "contributors": [
         {
@@ -424,7 +424,7 @@
       "description": "Meshtastic project website and documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,531",
+      "stars": "1,532",
       "forks": "872",
       "addStars": "96",
       "contributors": [
@@ -462,7 +462,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "39",
-      "forks": "491",
+      "forks": "492",
       "addStars": "3",
       "contributors": [
         {
@@ -498,7 +498,7 @@
       "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "23,945",
+      "stars": "23,947",
       "forks": "2,562",
       "addStars": "297",
       "contributors": [
@@ -531,7 +531,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "1,038",
-      "forks": "850",
+      "forks": "851",
       "addStars": "14",
       "contributors": [
         {
@@ -557,8 +557,8 @@
       "description": "Collection of APIs provided by Ethereum execution layer clients",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,083",
-      "forks": "474",
+      "stars": "1,084",
+      "forks": "477",
       "addStars": "7",
       "contributors": [
         {
@@ -627,7 +627,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "178",
-      "forks": "957",
+      "forks": "958",
       "addStars": "5",
       "contributors": [
         {

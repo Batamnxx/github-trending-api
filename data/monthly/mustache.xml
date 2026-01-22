@@ -3,7 +3,7 @@
     <title>GitHub Mustache Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Mustache Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>argoproj/argo-helm</title>
       <link>https://github.com/argoproj/argo-helm</link>
@@ -72,7 +72,7 @@
       <guid>https://github.com/prometheus-community/helm-charts</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>5,959</stars>
+      <stars>5,960</stars>
       <forks>5,356</forks>
       <addStars>47</addStars>
       <contributors>
@@ -177,7 +177,7 @@
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
       <stars>520</stars>
-      <forks>1,232</forks>
+      <forks>1,233</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -270,7 +270,7 @@
       <guid>https://github.com/codecentric/helm-charts</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>703</stars>
+      <stars>704</stars>
       <forks>623</forks>
       <addStars>6</addStars>
       <contributors>
@@ -308,7 +308,7 @@
       <guid>https://github.com/MoJo2600/pihole-kubernetes</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>632</stars>
+      <stars>633</stars>
       <forks>211</forks>
       <addStars>8</addStars>
       <contributors>

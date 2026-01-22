@@ -3,7 +3,7 @@
     <title>GitHub Ruby Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Ruby Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>antiwork/gumroad</title>
       <link>https://github.com/antiwork/gumroad</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/antiwork/gumroad</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>8,274</stars>
-      <forks>1,631</forks>
+      <stars>8,276</stars>
+      <forks>1,632</forks>
       <addStars>498</addStars>
       <contributors>
         <contributor>
@@ -39,7 +39,7 @@
       <guid>https://github.com/opf/openproject</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>14,192</stars>
+      <stars>14,195</stars>
       <forks>3,058</forks>
       <addStars>806</addStars>
       <contributors>
@@ -77,7 +77,7 @@
       <guid>https://github.com/ruby/ruby</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>23,280</stars>
+      <stars>23,281</stars>
       <forks>5,553</forks>
       <addStars>134</addStars>
       <contributors>
@@ -115,7 +115,7 @@
       <guid>https://github.com/docusealco/docuseal</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>11,220</stars>
+      <stars>11,230</stars>
       <forks>929</forks>
       <addStars>197</addStars>
       <contributors>
@@ -149,7 +149,7 @@
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
       <stars>37,324</stars>
-      <forks>14,709</forks>
+      <forks>14,708</forks>
       <addStars>254</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/chatwoot/chatwoot</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>26,995</stars>
-      <forks>6,158</forks>
+      <stars>26,997</stars>
+      <forks>6,161</forks>
       <addStars>445</addStars>
       <contributors>
         <contributor>
@@ -224,7 +224,7 @@
       <guid>https://github.com/Freika/dawarich</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>7,779</stars>
+      <stars>7,784</stars>
       <forks>242</forks>
       <addStars>290</addStars>
       <contributors>
@@ -290,8 +290,8 @@
       <guid>https://github.com/Homebrew/homebrew-core</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>14,970</stars>
-      <forks>13,317</forks>
+      <stars>14,971</stars>
+      <forks>13,315</forks>
       <addStars>102</addStars>
       <contributors>
         <contributor>
@@ -394,8 +394,8 @@
       <guid>https://github.com/Homebrew/brew</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>46,291</stars>
-      <forks>10,892</forks>
+      <stars>46,296</stars>
+      <forks>10,893</forks>
       <addStars>450</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/Homebrew/homebrew-cask</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>21,766</stars>
-      <forks>11,290</forks>
+      <stars>21,768</stars>
+      <forks>11,289</forks>
       <addStars>69</addStars>
       <contributors>
         <contributor>
@@ -470,7 +470,7 @@
       <guid>https://github.com/jekyll/jekyll</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>51,377</stars>
+      <stars>51,378</stars>
       <forks>10,287</forks>
       <addStars>187</addStars>
       <contributors>
@@ -546,7 +546,7 @@
       <guid>https://github.com/discourse/discourse</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>46,103</stars>
+      <stars>46,104</stars>
       <forks>8,790</forks>
       <addStars>297</addStars>
       <contributors>
@@ -579,7 +579,7 @@
       <guid>https://github.com/otwcode/otwarchive</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>1,784</stars>
+      <stars>1,785</stars>
       <forks>667</forks>
       <addStars>35</addStars>
       <contributors>
@@ -650,7 +650,7 @@
       <guid>https://github.com/spree/spree</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>15,153</stars>
+      <stars>15,154</stars>
       <forks>5,221</forks>
       <addStars>70</addStars>
       <contributors>
@@ -727,7 +727,7 @@
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
       <stars>36,891</stars>
-      <forks>1,937</forks>
+      <forks>1,938</forks>
       <addStars>306</addStars>
       <contributors>
         <contributor>
@@ -764,7 +764,7 @@
       <guid>https://github.com/zammad/zammad</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>5,343</stars>
+      <stars>5,344</stars>
       <forks>925</forks>
       <addStars>58</addStars>
       <contributors>
@@ -803,7 +803,7 @@
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
       <stars>4,650</stars>
-      <forks>13,928</forks>
+      <forks>13,927</forks>
       <addStars>55</addStars>
       <contributors>
         <contributor>
@@ -840,7 +840,7 @@
       <guid>https://github.com/manyfold3d/manyfold</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>1,720</stars>
+      <stars>1,721</stars>
       <forks>100</forks>
       <addStars>118</addStars>
       <contributors>

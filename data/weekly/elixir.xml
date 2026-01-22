@@ -3,7 +3,7 @@
     <title>GitHub Elixir Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Elixir Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>elixir-lang/elixir</title>
       <link>https://github.com/elixir-lang/elixir</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/elixir-lang/elixir</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>26,291</stars>
+      <stars>26,294</stars>
       <forks>3,481</forks>
       <addStars>42</addStars>
       <contributors>
@@ -224,7 +224,7 @@
       <guid>https://github.com/bartblast/hologram</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>1,135</stars>
+      <stars>1,137</stars>
       <forks>97</forks>
       <addStars>19</addStars>
       <contributors>
@@ -356,7 +356,7 @@
       <guid>https://github.com/phoenixframework/phoenix</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>22,736</stars>
+      <stars>22,737</stars>
       <forks>3,040</forks>
       <addStars>14</addStars>
       <contributors>
@@ -460,7 +460,7 @@
       <guid>https://github.com/phoenixframework/phoenix_live_view</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>6,684</stars>
+      <stars>6,685</stars>
       <forks>1,028</forks>
       <addStars>7</addStars>
       <contributors>
@@ -574,8 +574,8 @@
       <guid>https://github.com/elixir-lang/expert</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>1,750</stars>
-      <forks>75</forks>
+      <stars>1,751</stars>
+      <forks>76</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>

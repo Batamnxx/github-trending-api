@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Monthly Trending",
   "description": "Monthly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "godotengine/godot-demo-projects",
@@ -11,7 +11,7 @@
       "language": "GDScript",
       "languageColor": "#355570",
       "stars": "8,088",
-      "forks": "2,024",
+      "forks": "2,023",
       "addStars": "173",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "4,992",
+      "stars": "4,994",
       "forks": "289",
       "addStars": "138",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "6,441",
+      "stars": "6,440",
       "forks": "295",
       "addStars": "83",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "2,229",
+      "stars": "2,230",
       "forks": "106",
       "addStars": "91",
       "contributors": [
@@ -306,7 +306,7 @@
       "description": "A Camera addon for Godot 4. Inspired by Cinemachine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "3,082",
+      "stars": "3,083",
       "forks": "115",
       "addStars": "78",
       "contributors": [
@@ -343,7 +343,7 @@
       "description": "An Open-source PNGTubing app :D",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "231",
+      "stars": "232",
       "forks": "30",
       "addStars": "33",
       "contributors": [
@@ -491,7 +491,7 @@
       "description": "Learn Godot's GDScript programming language from zero, right in your browser, for free.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "2,555",
+      "stars": "2,556",
       "forks": "210",
       "addStars": "41",
       "contributors": [
@@ -565,7 +565,7 @@
       "description": "Atmospheric Day/Night Cycle for Godot 4",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "665",
+      "stars": "667",
       "forks": "48",
       "addStars": "35",
       "contributors": [
@@ -602,7 +602,7 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "1,969",
+      "stars": "1,971",
       "forks": "227",
       "addStars": "54",
       "contributors": [

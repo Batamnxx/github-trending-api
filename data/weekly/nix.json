@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "Mic92/sops-nix",
@@ -10,7 +10,7 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,546",
+      "stars": "2,547",
       "forks": "205",
       "addStars": "18",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "Streamlined, elegant $HOME management with Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "291",
+      "stars": "293",
       "forks": "20",
       "addStars": "6",
       "contributors": [
@@ -139,7 +139,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "23,170",
-      "forks": "17,783",
+      "forks": "17,789",
       "addStars": "99",
       "contributors": [
         {
@@ -281,7 +281,7 @@
       "description": "Nix-native configuration for niri",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "673",
+      "stars": "674",
       "forks": "92",
       "addStars": "18",
       "contributors": [
@@ -409,7 +409,7 @@
       "description": "General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,319",
+      "stars": "3,320",
       "forks": "188",
       "addStars": "18",
       "contributors": [
@@ -473,7 +473,7 @@
       "description": "Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,655",
+      "stars": "1,656",
       "forks": "116",
       "addStars": "10",
       "contributors": [
@@ -543,7 +543,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "3,537",
-      "forks": "170",
+      "forks": "171",
       "addStars": "13",
       "contributors": [
         {

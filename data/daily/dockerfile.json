@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "Anduin2017/HowToCook",
@@ -10,9 +10,9 @@
       "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "97,250",
+      "stars": "97,268",
       "forks": "10,770",
-      "addStars": "55",
+      "addStars": "72",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19531547?s=40&v=4",
@@ -44,7 +44,7 @@
       "languageColor": "#384d54",
       "stars": "939",
       "forks": "1,640",
-      "addStars": "2",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/40286378?s=40&v=4",
@@ -79,7 +79,7 @@
       "description": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "8,756",
+      "stars": "8,758",
       "forks": "1,541",
       "addStars": "5",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "Full PHP development environment for Docker.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "12,653",
+      "stars": "12,654",
       "forks": "4,441",
       "addStars": "2",
       "contributors": [
@@ -153,8 +153,8 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "18,383",
-      "forks": "910",
+      "stars": "18,386",
+      "forks": "911",
       "addStars": "11",
       "contributors": [
         {
@@ -264,9 +264,9 @@
       "description": "✅ The Node.js best practices list (July 2024)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "104,948",
+      "stars": "104,949",
       "forks": "10,683",
-      "addStars": "6",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8571500?s=40&v=4",
@@ -372,7 +372,7 @@
       "languageColor": "#384d54",
       "stars": "1,156",
       "forks": "1,702",
-      "addStars": "1",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/334923?s=40&v=4",
@@ -473,7 +473,7 @@
       "languageColor": "#384d54",
       "stars": "10,999",
       "forks": "3,482",
-      "addStars": "5",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/579333?s=40&v=4",
@@ -500,7 +500,7 @@
       "languageColor": "#384d54",
       "stars": "3,988",
       "forks": "2,021",
-      "addStars": "0",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11618900?s=40&v=4",
@@ -641,9 +641,9 @@
       "description": "Homelab stacks, templates, and more fun resources!",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,436",
+      "stars": "2,439",
       "forks": "268",
-      "addStars": "9",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76761586?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "liyupi/ai-guide",
@@ -10,8 +10,8 @@
       "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,396",
-      "forks": "531",
+      "stars": "4,418",
+      "forks": "533",
       "addStars": "1,975",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "Prettier is an opinionated code formatter.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "51,465",
+      "stars": "51,466",
       "forks": "4,641",
       "addStars": "82",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "JavaScript animation engine",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "66,112",
+      "stars": "66,122",
       "forks": "4,423",
       "addStars": "251",
       "contributors": [
@@ -143,7 +143,7 @@
       "description": "TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,166",
+      "stars": "6,169",
       "forks": "647",
       "addStars": "250",
       "contributors": [
@@ -180,8 +180,8 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "18,486",
-      "forks": "2,112",
+      "stars": "18,521",
+      "forks": "2,116",
       "addStars": "854",
       "contributors": [
         {
@@ -195,14 +195,14 @@
           "url": "https://github.com/codemillmatt"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/10998676?s=40&v=4",
+          "name": "jhauga",
+          "url": "https://github.com/jhauga"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/44444967?s=40&v=4",
           "name": "troystaylor",
           "url": "https://github.com/troystaylor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7757139?s=40&v=4",
-          "name": "abbas133",
-          "url": "https://github.com/abbas133"
         }
       ]
     },
@@ -212,8 +212,8 @@
       "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "53,376",
-      "forks": "3,953",
+      "stars": "53,385",
+      "forks": "3,954",
       "addStars": "160",
       "contributors": [
         {

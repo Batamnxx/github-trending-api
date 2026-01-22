@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Monthly Trending",
   "description": "Monthly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "Anonym-tsk/nfqws-keenetic",
@@ -10,7 +10,7 @@
       "description": "",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,883",
+      "stars": "1,885",
       "forks": "123",
       "addStars": "140",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "61,351",
+      "stars": "61,355",
       "forks": "3,868",
       "addStars": "479",
       "contributors": [
@@ -133,7 +133,7 @@
       "description": "Minimal CSS Framework for semantic HTML",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "16,224",
+      "stars": "16,226",
       "forks": "486",
       "addStars": "148",
       "contributors": [
@@ -170,7 +170,7 @@
       "description": "A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,315",
+      "stars": "1,317",
       "forks": "76",
       "addStars": "209",
       "contributors": [
@@ -244,7 +244,7 @@
       "description": "📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "4,092",
+      "stars": "4,093",
       "forks": "261",
       "addStars": "111",
       "contributors": [
@@ -282,7 +282,7 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "8,899",
-      "forks": "27,908",
+      "forks": "27,910",
       "addStars": "92",
       "contributors": [
         {
@@ -378,7 +378,7 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "1,199",
-      "forks": "3,255",
+      "forks": "3,254",
       "addStars": "11",
       "contributors": [
         {
@@ -473,8 +473,8 @@
       "description": "a dark, customizable discord theme.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,226",
-      "forks": "473",
+      "stars": "1,228",
+      "forks": "474",
       "addStars": "32",
       "contributors": [
         {

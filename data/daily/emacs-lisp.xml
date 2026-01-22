@@ -3,7 +3,7 @@
     <title>GitHub Emacs-lisp Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>emacs-mirror/emacs</title>
       <link>https://github.com/emacs-mirror/emacs</link>
@@ -50,7 +50,7 @@
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
       <stars>2,011</stars>
-      <forks>225</forks>
+      <forks>226</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -88,7 +88,7 @@
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
       <stars>24,857</stars>
-      <forks>4,862</forks>
+      <forks>4,863</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/doomemacs/doomemacs</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>21,549</stars>
-      <forks>3,149</forks>
+      <stars>21,552</stars>
+      <forks>3,150</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/karthink/gptel</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>3,115</stars>
+      <stars>3,116</stars>
       <forks>353</forks>
       <addStars>1</addStars>
       <contributors>
@@ -277,7 +277,7 @@
       <guid>https://github.com/xenodium/agent-shell</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>528</stars>
+      <stars>530</stars>
       <forks>63</forks>
       <addStars>6</addStars>
       <contributors>
@@ -353,7 +353,7 @@
       <guid>https://github.com/dgutov/diff-hl</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>1,044</stars>
+      <stars>1,045</stars>
       <forks>58</forks>
       <addStars>0</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Weekly Trending",
   "description": "Weekly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "iamgio/quarkdown",
@@ -10,7 +10,7 @@
       "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "9,938",
+      "stars": "9,939",
       "forks": "249",
       "addStars": "114",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "4,557",
+      "stars": "4,561",
       "forks": "636",
       "addStars": "218",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "13,044",
+      "stars": "13,042",
       "forks": "2,688",
       "addStars": "44",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Android application for Meshtastic",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,343",
+      "stars": "1,345",
       "forks": "379",
       "addStars": "30",
       "contributors": [
@@ -323,8 +323,8 @@
       "description": "Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,566",
-      "forks": "88",
+      "stars": "1,567",
+      "forks": "89",
       "addStars": "47",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,931",
-      "forks": "123",
+      "stars": "3,974",
+      "forks": "124",
       "addStars": "199",
       "contributors": [
         {
@@ -429,7 +429,7 @@
       "description": "vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "571",
+      "stars": "574",
       "forks": "43",
       "addStars": "161",
       "contributors": [
@@ -466,7 +466,7 @@
       "description": "Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,645",
+      "stars": "3,647",
       "forks": "301",
       "addStars": "27",
       "contributors": [
@@ -503,7 +503,7 @@
       "description": "A private messenger for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "28,189",
+      "stars": "28,192",
       "forks": "6,644",
       "addStars": "50",
       "contributors": [
@@ -540,7 +540,7 @@
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "14,523",
+      "stars": "14,528",
       "forks": "364",
       "addStars": "259",
       "contributors": [
@@ -577,7 +577,7 @@
       "description": "Android app to notify others if you haven't used your device in a given period of time.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "397",
+      "stars": "398",
       "forks": "31",
       "addStars": "44",
       "contributors": [
@@ -614,7 +614,7 @@
       "description": "An open-source keyboard for Android which respects your privacy. Currently in beta.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "7,942",
+      "stars": "7,943",
       "forks": "568",
       "addStars": "48",
       "contributors": [

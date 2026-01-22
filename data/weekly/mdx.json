@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Weekly Trending",
   "description": "Weekly Trending of Mdx Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "PatrickJS/awesome-cursorrules",
@@ -10,8 +10,8 @@
       "description": "📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "37,266",
-      "forks": "3,175",
+      "stars": "37,277",
+      "forks": "3,176",
       "addStars": "267",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "41",
-      "forks": "143",
+      "forks": "144",
       "addStars": "1",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,698",
-      "forks": "185",
+      "stars": "1,700",
+      "forks": "184",
       "addStars": "31",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "10,589",
+      "stars": "10,591",
       "forks": "755",
       "addStars": "106",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "20,018",
+      "stars": "20,022",
       "forks": "922",
       "addStars": "122",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "23,945",
+      "stars": "23,947",
       "forks": "2,562",
       "addStars": "79",
       "contributors": [
@@ -212,7 +212,7 @@
       "description": "Meshtastic project website and documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,531",
+      "stars": "1,532",
       "forks": "872",
       "addStars": "25",
       "contributors": [
@@ -249,8 +249,8 @@
       "description": "Astro documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,580",
-      "forks": "1,785",
+      "stars": "1,581",
+      "forks": "1,787",
       "addStars": "6",
       "contributors": [
         {
@@ -324,7 +324,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "202",
-      "forks": "1,711",
+      "forks": "1,712",
       "addStars": "11",
       "contributors": [
         {
@@ -360,7 +360,7 @@
       "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "374",
+      "stars": "375",
       "forks": "95",
       "addStars": "35",
       "contributors": [
@@ -419,7 +419,7 @@
       "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "24,919",
+      "stars": "24,922",
       "forks": "1,744",
       "addStars": "136",
       "contributors": [
@@ -493,7 +493,7 @@
       "description": "AdGuard knowledge base",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "104",
+      "stars": "105",
       "forks": "345",
       "addStars": "2",
       "contributors": [
@@ -531,7 +531,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "2,759",
-      "forks": "784",
+      "forks": "785",
       "addStars": "5",
       "contributors": [
         {
@@ -562,7 +562,7 @@
       "description": "Cross-Platform React Native UI Toolkit",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "25,734",
+      "stars": "25,732",
       "forks": "4,695",
       "addStars": "5",
       "contributors": [
@@ -600,7 +600,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "39",
-      "forks": "491",
+      "forks": "492",
       "addStars": "1",
       "contributors": [
         {

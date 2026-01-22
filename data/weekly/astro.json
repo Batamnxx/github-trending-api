@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Weekly Trending",
   "description": "Weekly Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
+  "pubDate": "Thu, 22 Jan 2026 19:29:21 GMT",
   "items": [
     {
       "title": "zeon-studio/astroplate",
@@ -11,7 +11,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "974",
-      "forks": "312",
+      "forks": "313",
       "addStars": "6",
       "contributors": [
         {
@@ -80,7 +80,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "5,374",
-      "forks": "1,536",
+      "forks": "1,537",
       "addStars": "28",
       "contributors": [
         {
@@ -154,7 +154,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "351",
-      "forks": "4,308",
+      "forks": "4,309",
       "addStars": "2",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "✨A static blog template built with Astro.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "3,983",
+      "stars": "3,984",
       "forks": "1,068",
       "addStars": "44",
       "contributors": [
@@ -276,8 +276,8 @@
       "description": "⭐ A simple, fast and powerful blog & document theme built by Astro",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "767",
-      "forks": "217",
+      "stars": "768",
+      "forks": "216",
       "addStars": "11",
       "contributors": [
         {
@@ -309,7 +309,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "1,882",
-      "forks": "1,058",
+      "forks": "1,059",
       "addStars": "4",
       "contributors": [
         {
@@ -345,7 +345,7 @@
       "description": "Easy peasy animations for your Tailwind project",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "1,283",
+      "stars": "1,284",
       "forks": "95",
       "addStars": "31",
       "contributors": [

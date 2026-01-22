@@ -3,7 +3,7 @@
     <title>GitHub Systemverilog Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Systemverilog Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 19:29:21 GMT</pubDate>
     <item>
       <title>adam-maj/tiny-gpu</title>
       <link>https://github.com/adam-maj/tiny-gpu</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/adam-maj/tiny-gpu</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>10,594</stars>
-      <forks>849</forks>
+      <stars>10,630</stars>
+      <forks>854</forks>
       <addStars>1,574</addStars>
       <contributors>
         <contributor>
@@ -44,7 +44,7 @@
       <guid>https://github.com/verilator/verilator</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>3,314</stars>
+      <stars>3,315</stars>
       <forks>743</forks>
       <addStars>72</addStars>
       <contributors>
@@ -82,7 +82,7 @@
       <guid>https://github.com/lowRISC/opentitan</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>3,107</stars>
+      <stars>3,108</stars>
       <forks>938</forks>
       <addStars>43</addStars>
       <contributors>
@@ -196,7 +196,7 @@
       <guid>https://github.com/pulp-platform/riscv-dbg</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>290</stars>
+      <stars>291</stars>
       <forks>91</forks>
       <addStars>3</addStars>
       <contributors>
@@ -348,8 +348,8 @@
       <guid>https://github.com/openhwgroup/cvw</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>471</stars>
-      <forks>349</forks>
+      <stars>473</stars>
+      <forks>350</forks>
       <addStars>15</addStars>
       <contributors>
         <contributor>
@@ -424,7 +424,7 @@
       <guid>https://github.com/pulp-platform/axi</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>1,469</stars>
+      <stars>1,470</stars>
       <forks>333</forks>
       <addStars>31</addStars>
       <contributors>

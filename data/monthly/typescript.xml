@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 03:07:23 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 07:32:51 GMT</pubDate>
     <item>
       <title>anomalyco/opencode</title>
       <link>https://github.com/anomalyco/opencode</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>82,485</stars>
-      <forks>7,359</forks>
+      <stars>82,858</stars>
+      <forks>7,392</forks>
       <addStars>41,168</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,561</stars>
-      <forks>2,371</forks>
+      <stars>24,577</stars>
+      <forks>2,373</forks>
       <addStars>4,560</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/Lissy93/web-check</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>30,642</stars>
+      <stars>30,661</stars>
       <forks>2,413</forks>
       <addStars>3,609</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/danielmiessler/Personal_AI_Infrastructure</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,499</stars>
+      <stars>5,517</stars>
       <forks>859</forks>
       <addStars>3,841</addStars>
       <contributors>
@@ -163,8 +163,8 @@
       <guid>https://github.com/virattt/dexter</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,063</stars>
-      <forks>1,017</forks>
+      <stars>8,096</stars>
+      <forks>1,020</forks>
       <addStars>3,754</addStars>
       <contributors>
         <contributor>
@@ -176,11 +176,6 @@
           <avatar>https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4</avatar>
           <name>gupta-8</name>
           <url>https://github.com/gupta-8</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/218712309?s=40&amp;v=4</avatar>
-          <name>bittoby</name>
-          <url>https://github.com/bittoby</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/345155?s=40&amp;v=4</avatar>
@@ -201,8 +196,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,775</stars>
-      <forks>1,008</forks>
+      <stars>14,790</stars>
+      <forks>1,009</forks>
       <addStars>6,326</addStars>
       <contributors>
         <contributor>
@@ -229,7 +224,7 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,083</stars>
+      <stars>2,092</stars>
       <forks>268</forks>
       <addStars>1,468</addStars>
       <contributors>
@@ -267,8 +262,8 @@
       <guid>https://github.com/makeplane/plane</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>44,702</stars>
-      <forks>3,405</forks>
+      <stars>44,713</stars>
+      <forks>3,407</forks>
       <addStars>4,079</addStars>
       <contributors>
         <contributor>
@@ -305,7 +300,7 @@
       <guid>https://github.com/tailwindlabs/tailwindcss</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>93,094</stars>
+      <stars>93,097</stars>
       <forks>5,003</forks>
       <addStars>1,602</addStars>
       <contributors>
@@ -338,8 +333,8 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,717</stars>
-      <forks>840</forks>
+      <stars>12,737</stars>
+      <forks>841</forks>
       <addStars>3,939</addStars>
       <contributors>
         <contributor>
@@ -376,7 +371,7 @@
       <guid>https://github.com/nocodb/nocodb</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>61,624</stars>
+      <stars>61,628</stars>
       <forks>4,592</forks>
       <addStars>2,536</addStars>
       <contributors>
@@ -414,8 +409,8 @@
       <guid>https://github.com/puckeditor/puck</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,757</stars>
-      <forks>803</forks>
+      <stars>11,762</stars>
+      <forks>804</forks>
       <addStars>1,566</addStars>
       <contributors>
         <contributor>
@@ -447,8 +442,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,849</stars>
-      <forks>1,301</forks>
+      <stars>21,875</stars>
+      <forks>1,303</forks>
       <addStars>4,446</addStars>
       <contributors>
         <contributor>
@@ -480,7 +475,7 @@
       <guid>https://github.com/numman-ali/opencode-openai-codex-auth</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,501</stars>
+      <stars>1,503</stars>
       <forks>95</forks>
       <addStars>697</addStars>
       <contributors>
@@ -518,7 +513,7 @@
       <guid>https://github.com/stan-smith/FossFLOW</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,727</stars>
+      <stars>16,736</stars>
       <forks>1,069</forks>
       <addStars>2,973</addStars>
       <contributors>

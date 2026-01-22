@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 03:07:23 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 07:32:51 GMT</pubDate>
     <item>
       <title>eigent-ai/eigent</title>
       <link>https://github.com/eigent-ai/eigent</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/eigent-ai/eigent</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,500</stars>
-      <forks>1,167</forks>
+      <stars>10,562</stars>
+      <forks>1,179</forks>
       <addStars>5,834</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>32,466</stars>
-      <forks>2,450</forks>
+      <stars>32,770</stars>
+      <forks>2,477</forks>
       <addStars>10,471</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/iOfficeAI/AionUi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,749</stars>
-      <forks>670</forks>
+      <stars>8,837</stars>
+      <forks>681</forks>
       <addStars>4,825</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/liyupi/ai-guide</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,275</stars>
-      <forks>521</forks>
+      <stars>4,327</stars>
+      <forks>527</forks>
       <addStars>1,975</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>82,454</stars>
-      <forks>7,351</forks>
+      <stars>82,817</stars>
+      <forks>7,389</forks>
       <addStars>13,360</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/permissionlesstech/bitchat</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>24,598</stars>
-      <forks>2,295</forks>
+      <stars>24,617</stars>
+      <forks>2,296</forks>
       <addStars>639</addStars>
       <contributors>
         <contributor>
@@ -234,7 +234,7 @@
       <guid>https://github.com/prowler-cloud/prowler</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,751</stars>
+      <stars>12,759</stars>
       <forks>1,938</forks>
       <addStars>171</addStars>
       <contributors>
@@ -267,7 +267,7 @@
       <guid>https://github.com/alirezarezvani/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,131</stars>
+      <stars>1,146</stars>
       <forks>149</forks>
       <addStars>486</addStars>
       <contributors>
@@ -290,7 +290,7 @@
       <guid>https://github.com/neuphonic/neutts</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,669</stars>
+      <stars>4,678</stars>
       <forks>492</forks>
       <addStars>289</addStars>
       <contributors>
@@ -328,8 +328,8 @@
       <guid>https://github.com/frankbria/ralph-claude-code</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>4,936</stars>
-      <forks>329</forks>
+      <stars>5,013</stars>
+      <forks>337</forks>
       <addStars>1,943</addStars>
       <contributors>
         <contributor>
@@ -361,7 +361,7 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,714</stars>
+      <stars>12,732</stars>
       <forks>840</forks>
       <addStars>1,829</addStars>
       <contributors>
@@ -399,8 +399,8 @@
       <guid>https://github.com/ultralytics/ultralytics</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>52,230</stars>
-      <forks>9,989</forks>
+      <stars>52,253</stars>
+      <forks>9,990</forks>
       <addStars>1,077</addStars>
       <contributors>
         <contributor>

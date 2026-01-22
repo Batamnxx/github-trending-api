@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 03:07:23 GMT",
+  "pubDate": "Thu, 22 Jan 2026 07:32:51 GMT",
   "items": [
     {
       "title": "googleapis/googleapis",
@@ -10,7 +10,7 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "8,383",
+      "stars": "8,385",
       "forks": "2,518",
       "addStars": "78",
       "contributors": [
@@ -158,14 +158,14 @@
           "url": "https://github.com/brentleyjones"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/13840545?s=40&v=4",
+          "name": "luispadron",
+          "url": "https://github.com/luispadron"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/10502938?s=40&v=4",
           "name": "aaronsky",
           "url": "https://github.com/aaronsky"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1062427?s=40&v=4",
-          "name": "allevato",
-          "url": "https://github.com/allevato"
         }
       ]
     },

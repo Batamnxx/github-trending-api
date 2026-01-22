@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Monthly Trending",
   "description": "Monthly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 07:32:51 GMT",
+  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
   "items": [
     {
       "title": "MetOffice/lfric_apps",
@@ -85,7 +85,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": "1,056",
-      "forks": "441",
+      "forks": "442",
       "addStars": "21",
       "contributors": [
         {
@@ -112,43 +112,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/16081490?s=40&v=4",
           "name": "juerghutter",
           "url": "https://github.com/juerghutter"
-        }
-      ]
-    },
-    {
-      "title": "wrf-model/WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,558",
-      "forks": "813",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
-          "name": "davegill",
-          "url": "https://github.com/davegill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
-          "name": "weiwangncar",
-          "url": "https://github.com/weiwangncar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
-          "name": "dudhia",
-          "url": "https://github.com/dudhia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
-          "name": "mkavulich",
-          "url": "https://github.com/mkavulich"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
-          "name": "jamiebresch",
-          "url": "https://github.com/jamiebresch"
         }
       ]
     },
@@ -190,6 +153,43 @@
       ]
     },
     {
+      "title": "wrf-model/WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "1,558",
+      "forks": "813",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
+          "name": "davegill",
+          "url": "https://github.com/davegill"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
+          "name": "weiwangncar",
+          "url": "https://github.com/weiwangncar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
+          "name": "dudhia",
+          "url": "https://github.com/dudhia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
+          "name": "mkavulich",
+          "url": "https://github.com/mkavulich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
+          "name": "jamiebresch",
+          "url": "https://github.com/jamiebresch"
+        }
+      ]
+    },
+    {
       "title": "MCSclimate/MCT",
       "url": "https://github.com/MCSclimate/MCT",
       "description": "Model Coupling Tookit",
@@ -223,6 +223,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/13952101?s=40&v=4",
           "name": "Katetc",
           "url": "https://github.com/Katetc"
+        }
+      ]
+    },
+    {
+      "title": "firemodels/fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "791",
+      "forks": "663",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12403014?s=40&v=4",
+          "name": "gforney",
+          "url": "https://github.com/gforney"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11333911?s=40&v=4",
+          "name": "mcgratta",
+          "url": "https://github.com/mcgratta"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4418497?s=40&v=4",
+          "name": "rmcdermo",
+          "url": "https://github.com/rmcdermo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12799217?s=40&v=4",
+          "name": "drjfloyd",
+          "url": "https://github.com/drjfloyd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
+          "name": "marcosvanella",
+          "url": "https://github.com/marcosvanella"
         }
       ]
     },
@@ -264,39 +301,39 @@
       ]
     },
     {
-      "title": "firemodels/fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
+      "title": "MPAS-Dev/MPAS-Model",
+      "url": "https://github.com/MPAS-Dev/MPAS-Model",
+      "description": "Repository for MPAS models and shared framework releases.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "791",
-      "forks": "663",
+      "stars": "289",
+      "forks": "385",
       "addStars": "7",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12403014?s=40&v=4",
-          "name": "gforney",
-          "url": "https://github.com/gforney"
+          "avatar": "https://avatars.githubusercontent.com/u/3979544?s=40&v=4",
+          "name": "mgduda",
+          "url": "https://github.com/mgduda"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11333911?s=40&v=4",
-          "name": "mcgratta",
-          "url": "https://github.com/mcgratta"
+          "avatar": "https://avatars.githubusercontent.com/u/334984?s=40&v=4",
+          "name": "douglasjacobsen",
+          "url": "https://github.com/douglasjacobsen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4418497?s=40&v=4",
-          "name": "rmcdermo",
-          "url": "https://github.com/rmcdermo"
+          "avatar": "https://avatars.githubusercontent.com/u/4036816?s=40&v=4",
+          "name": "mark-petersen",
+          "url": "https://github.com/mark-petersen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12799217?s=40&v=4",
-          "name": "drjfloyd",
-          "url": "https://github.com/drjfloyd"
+          "avatar": "https://avatars.githubusercontent.com/u/4182034?s=40&v=4",
+          "name": "matthewhoffman",
+          "url": "https://github.com/matthewhoffman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
-          "name": "marcosvanella",
-          "url": "https://github.com/marcosvanella"
+          "avatar": "https://avatars.githubusercontent.com/u/4108894?s=40&v=4",
+          "name": "ldfowler58",
+          "url": "https://github.com/ldfowler58"
         }
       ]
     }

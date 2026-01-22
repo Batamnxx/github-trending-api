@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Monthly Trending",
   "description": "Monthly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Jan 2026 07:32:51 GMT",
+  "pubDate": "Thu, 22 Jan 2026 13:47:02 GMT",
   "items": [
     {
       "title": "ghostty-org/ghostty",
@@ -10,7 +10,7 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "41,791",
+      "stars": "41,809",
       "forks": "1,465",
       "addStars": "2,038",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "11,645",
-      "forks": "339",
+      "stars": "11,650",
+      "forks": "340",
       "addStars": "502",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "14,967",
-      "forks": "765",
+      "stars": "14,971",
+      "forks": "766",
       "addStars": "254",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "86,546",
-      "forks": "3,950",
+      "stars": "86,554",
+      "forks": "3,952",
       "addStars": "1,288",
       "contributors": [
         {
@@ -185,12 +185,49 @@
       ]
     },
     {
+      "title": "david-vanderson/dvui",
+      "url": "https://github.com/david-vanderson/dvui",
+      "description": "Immediate Zig GUI for Apps and Games",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "1,139",
+      "forks": "87",
+      "addStars": "74",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3290996?s=40&v=4",
+          "name": "david-vanderson",
+          "url": "https://github.com/david-vanderson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/94024065?s=40&v=4",
+          "name": "RedPhoenixQ",
+          "url": "https://github.com/RedPhoenixQ"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13688765?s=40&v=4",
+          "name": "phatchman",
+          "url": "https://github.com/phatchman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48253336?s=40&v=4",
+          "name": "VisenDev",
+          "url": "https://github.com/VisenDev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49629865?s=40&v=4",
+          "name": "foxnne",
+          "url": "https://github.com/foxnne"
+        }
+      ]
+    },
+    {
       "title": "zigtools/zls",
       "url": "https://github.com/zigtools/zls",
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,511",
+      "stars": "4,512",
       "forks": "407",
       "addStars": "92",
       "contributors": [
@@ -222,49 +259,12 @@
       ]
     },
     {
-      "title": "david-vanderson/dvui",
-      "url": "https://github.com/david-vanderson/dvui",
-      "description": "Immediate Zig GUI for Apps and Games",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "1,137",
-      "forks": "86",
-      "addStars": "74",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3290996?s=40&v=4",
-          "name": "david-vanderson",
-          "url": "https://github.com/david-vanderson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/94024065?s=40&v=4",
-          "name": "RedPhoenixQ",
-          "url": "https://github.com/RedPhoenixQ"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13688765?s=40&v=4",
-          "name": "phatchman",
-          "url": "https://github.com/phatchman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48253336?s=40&v=4",
-          "name": "VisenDev",
-          "url": "https://github.com/VisenDev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49629865?s=40&v=4",
-          "name": "foxnne",
-          "url": "https://github.com/foxnne"
-        }
-      ]
-    },
-    {
       "title": "ZigEmbeddedGroup/microzig",
       "url": "https://github.com/ZigEmbeddedGroup/microzig",
       "description": "MicroZig is a toolbox for building embedded applications in Zig.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,020",
+      "stars": "2,019",
       "forks": "164",
       "addStars": "67",
       "contributors": [
@@ -296,12 +296,44 @@
       ]
     },
     {
+      "title": "mitchellh/libxev",
+      "url": "https://github.com/mitchellh/libxev",
+      "description": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "3,283",
+      "forks": "149",
+      "addStars": "68",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
+          "name": "mitchellh",
+          "url": "https://github.com/mitchellh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1839807?s=40&v=4",
+          "name": "Corendos",
+          "url": "https://github.com/Corendos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26132682?s=40&v=4",
+          "name": "charlesrocket",
+          "url": "https://github.com/charlesrocket"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35909?s=40&v=4",
+          "name": "ianic",
+          "url": "https://github.com/ianic"
+        }
+      ]
+    },
+    {
       "title": "pedropark99/zig-book",
       "url": "https://github.com/pedropark99/zig-book",
       "description": "An open, technical and introductory book for the Zig programming language 📚📖",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,311",
+      "stars": "2,314",
       "forks": "134",
       "addStars": "105",
       "contributors": [
@@ -333,34 +365,76 @@
       ]
     },
     {
-      "title": "mitchellh/libxev",
-      "url": "https://github.com/mitchellh/libxev",
-      "description": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+      "title": "andrewrk/poop",
+      "url": "https://github.com/andrewrk/poop",
+      "description": "Performance Optimizer Observation Platform",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,282",
-      "forks": "149",
-      "addStars": "68",
+      "stars": "1,838",
+      "forks": "83",
+      "addStars": "43",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
-          "name": "mitchellh",
-          "url": "https://github.com/mitchellh"
+          "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
+          "name": "andrewrk",
+          "url": "https://github.com/andrewrk"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1839807?s=40&v=4",
-          "name": "Corendos",
-          "url": "https://github.com/Corendos"
+          "avatar": "https://avatars.githubusercontent.com/u/5464072?s=40&v=4",
+          "name": "nektro",
+          "url": "https://github.com/nektro"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26132682?s=40&v=4",
-          "name": "charlesrocket",
-          "url": "https://github.com/charlesrocket"
+          "avatar": "https://avatars.githubusercontent.com/u/246317?s=40&v=4",
+          "name": "moderation",
+          "url": "https://github.com/moderation"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35909?s=40&v=4",
-          "name": "ianic",
-          "url": "https://github.com/ianic"
+          "avatar": "https://avatars.githubusercontent.com/u/1671644?s=40&v=4",
+          "name": "arrufat",
+          "url": "https://github.com/arrufat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32912555?s=40&v=4",
+          "name": "candrewlee14",
+          "url": "https://github.com/candrewlee14"
+        }
+      ]
+    },
+    {
+      "title": "neurocyte/flow",
+      "url": "https://github.com/neurocyte/flow",
+      "description": "Flow Control: a programmer's text editor",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "1,589",
+      "forks": "79",
+      "addStars": "117",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1552770?s=40&v=4",
+          "name": "neurocyte",
+          "url": "https://github.com/neurocyte"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/531285?s=40&v=4",
+          "name": "ikks",
+          "url": "https://github.com/ikks"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/304904?s=40&v=4",
+          "name": "marler8997",
+          "url": "https://github.com/marler8997"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48253336?s=40&v=4",
+          "name": "VisenDev",
+          "url": "https://github.com/VisenDev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/171623196?s=40&v=4",
+          "name": "ivelsantos",
+          "url": "https://github.com/ivelsantos"
         }
       ]
     },
@@ -407,7 +481,7 @@
       "description": "Web framework for Zig that leverages dependency injection for clean, modular application development.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "566",
+      "stars": "567",
       "forks": "20",
       "addStars": "18",
       "contributors": [
@@ -439,76 +513,39 @@
       ]
     },
     {
-      "title": "neurocyte/flow",
-      "url": "https://github.com/neurocyte/flow",
-      "description": "Flow Control: a programmer's text editor",
+      "title": "ziglang/zig",
+      "url": "https://github.com/ziglang/zig",
+      "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,589",
-      "forks": "79",
-      "addStars": "117",
+      "stars": "42,640",
+      "forks": "3,092",
+      "addStars": "171",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1552770?s=40&v=4",
-          "name": "neurocyte",
-          "url": "https://github.com/neurocyte"
+          "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
+          "name": "andrewrk",
+          "url": "https://github.com/andrewrk"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/531285?s=40&v=4",
-          "name": "ikks",
-          "url": "https://github.com/ikks"
+          "avatar": "https://avatars.githubusercontent.com/u/1519747?s=40&v=4",
+          "name": "kubkon",
+          "url": "https://github.com/kubkon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/304904?s=40&v=4",
-          "name": "marler8997",
-          "url": "https://github.com/marler8997"
+          "avatar": "https://avatars.githubusercontent.com/u/44076?s=40&v=4",
+          "name": "alexrp",
+          "url": "https://github.com/alexrp"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48253336?s=40&v=4",
-          "name": "VisenDev",
-          "url": "https://github.com/VisenDev"
+          "avatar": "https://avatars.githubusercontent.com/u/15308111?s=40&v=4",
+          "name": "Vexu",
+          "url": "https://github.com/Vexu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/171623196?s=40&v=4",
-          "name": "ivelsantos",
-          "url": "https://github.com/ivelsantos"
-        }
-      ]
-    },
-    {
-      "title": "karlseguin/http.zig",
-      "url": "https://github.com/karlseguin/http.zig",
-      "description": "An HTTP/1.1 server for zig",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "1,347",
-      "forks": "92",
-      "addStars": "50",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&v=4",
-          "name": "karlseguin",
-          "url": "https://github.com/karlseguin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72305366?s=40&v=4",
-          "name": "zigster64",
-          "url": "https://github.com/zigster64"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/92444995?s=40&v=4",
-          "name": "ItsMeSamey",
-          "url": "https://github.com/ItsMeSamey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18470?s=40&v=4",
-          "name": "bobf",
-          "url": "https://github.com/bobf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31389342?s=40&v=4",
-          "name": "philipmv",
-          "url": "https://github.com/philipmv"
+          "avatar": "https://avatars.githubusercontent.com/u/15544577?s=40&v=4",
+          "name": "jacobly0",
+          "url": "https://github.com/jacobly0"
         }
       ]
     }

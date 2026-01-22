@@ -3,7 +3,45 @@
     <title>GitHub Odin Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Odin Languages in GitHub</description>
-    <pubDate>Thu, 22 Jan 2026 07:32:51 GMT</pubDate>
+    <pubDate>Thu, 22 Jan 2026 13:47:02 GMT</pubDate>
+    <item>
+      <title>karl-zylinski/karl2d</title>
+      <link>https://github.com/karl-zylinski/karl2d</link>
+      <description>Odin 2D game library. Beginner friendly and easy to modify.</description>
+      <guid>https://github.com/karl-zylinski/karl2d</guid>
+      <language>Odin</language>
+      <languageColor>#60AFFE</languageColor>
+      <stars>272</stars>
+      <forks>10</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6352002?s=40&amp;v=4</avatar>
+          <name>karl-zylinski</name>
+          <url>https://github.com/karl-zylinski</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1086543?s=40&amp;v=4</avatar>
+          <name>greenya</name>
+          <url>https://github.com/greenya</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1490756?s=40&amp;v=4</avatar>
+          <name>cpoile</name>
+          <url>https://github.com/cpoile</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2652464?s=40&amp;v=4</avatar>
+          <name>jqcorreia</name>
+          <url>https://github.com/jqcorreia</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23323?s=40&amp;v=4</avatar>
+          <name>moomerman</name>
+          <url>https://github.com/moomerman</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>odin-lang/Odin</title>
       <link>https://github.com/odin-lang/Odin</link>
@@ -12,7 +50,7 @@
       <language>Odin</language>
       <languageColor>#60AFFE</languageColor>
       <stars>9,615</stars>
-      <forks>882</forks>
+      <forks>883</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>

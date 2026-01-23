@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 23 Jan 2026 13:42:40 GMT",
+  "pubDate": "Fri, 23 Jan 2026 19:28:09 GMT",
   "items": [
     {
       "title": "iOfficeAI/AionUi",
@@ -10,8 +10,8 @@
       "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,643",
-      "forks": "742",
+      "stars": "9,715",
+      "forks": "752",
       "addStars": "5,193",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,944",
-      "forks": "1,228",
+      "stars": "10,999",
+      "forks": "1,235",
       "addStars": "5,513",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "34,208",
-      "forks": "2,591",
+      "stars": "34,435",
+      "forks": "2,608",
       "addStars": "9,614",
       "contributors": [
         {
@@ -104,14 +104,14 @@
           "url": "https://github.com/jjshanks"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&v=4",
-          "name": "oribarilan",
-          "url": "https://github.com/oribarilan"
+          "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&v=4",
+          "name": "sotte",
+          "url": "https://github.com/sotte"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/60989975?s=40&v=4",
-          "name": "vmotta8",
-          "url": "https://github.com/vmotta8"
+          "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&v=4",
+          "name": "rhuss",
+          "url": "https://github.com/rhuss"
         }
       ]
     },
@@ -121,8 +121,8 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,878",
-      "forks": "1,644",
+      "stars": "28,200",
+      "forks": "1,665",
       "addStars": "2,491",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "5,330",
-      "forks": "359",
+      "stars": "5,373",
+      "forks": "360",
       "addStars": "2,070",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "24,701",
-      "forks": "2,301",
+      "stars": "24,719",
+      "forks": "2,303",
       "addStars": "675",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Generative UI SDK for React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,434",
-      "forks": "226",
+      "stars": "4,600",
+      "forks": "227",
       "addStars": "1,704",
       "contributors": [
         {

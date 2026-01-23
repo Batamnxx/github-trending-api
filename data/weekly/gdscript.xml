@@ -3,7 +3,7 @@
     <title>GitHub Gdscript Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Gdscript Languages in GitHub</description>
-    <pubDate>Fri, 23 Jan 2026 03:02:56 GMT</pubDate>
+    <pubDate>Fri, 23 Jan 2026 07:31:05 GMT</pubDate>
     <item>
       <title>godotengine/godot-demo-projects</title>
       <link>https://github.com/godotengine/godot-demo-projects</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/godotengine/godot-demo-projects</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>8,088</stars>
+      <stars>8,090</stars>
       <forks>2,023</forks>
       <addStars>39</addStars>
       <contributors>
@@ -49,14 +49,19 @@
       <guid>https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>1,974</stars>
-      <forks>228</forks>
+      <stars>1,975</stars>
+      <forks>227</forks>
       <addStars>21</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/97353363?s=40&amp;v=4</avatar>
           <name>JHDev2006</name>
           <url>https://github.com/JHDev2006</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/121629562?s=40&amp;v=4</avatar>
+          <name>guzlad</name>
+          <url>https://github.com/guzlad</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70983335?s=40&amp;v=4</avatar>
@@ -72,11 +77,6 @@
           <avatar>https://avatars.githubusercontent.com/u/17443689?s=40&amp;v=4</avatar>
           <name>jdaster64</name>
           <url>https://github.com/jdaster64</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23617175?s=40&amp;v=4</avatar>
-          <name>kittenchilly</name>
-          <url>https://github.com/kittenchilly</url>
         </contributor>
       </contributors>
     </item>
@@ -125,8 +125,8 @@
       <guid>https://github.com/RodZill4/material-maker</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>4,996</stars>
-      <forks>289</forks>
+      <stars>4,998</stars>
+      <forks>290</forks>
       <addStars>70</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/HungryProton/scatter</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>2,721</stars>
+      <stars>2,722</stars>
       <forks>119</forks>
       <addStars>12</addStars>
       <contributors>

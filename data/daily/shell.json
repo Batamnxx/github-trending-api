@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 23 Jan 2026 03:02:56 GMT",
+  "pubDate": "Fri, 23 Jan 2026 07:31:05 GMT",
   "items": [
     {
       "title": "frankbria/ralph-claude-code",
@@ -10,8 +10,8 @@
       "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "5,230",
-      "forks": "350",
+      "stars": "5,273",
+      "forks": "352",
       "addStars": "351",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "fresh directories for every vibe",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,246",
+      "stars": "3,248",
       "forks": "120",
       "addStars": "137",
       "contributors": [
@@ -74,8 +74,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "33,601",
-      "forks": "2,542",
+      "stars": "33,880",
+      "forks": "2,571",
       "addStars": "1,162",
       "contributors": [
         {
@@ -94,14 +94,14 @@
           "url": "https://github.com/jjshanks"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/79138?s=40&v=4",
-          "name": "sotte",
-          "url": "https://github.com/sotte"
+          "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&v=4",
+          "name": "oribarilan",
+          "url": "https://github.com/oribarilan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/99080?s=40&v=4",
-          "name": "rhuss",
-          "url": "https://github.com/rhuss"
+          "avatar": "https://avatars.githubusercontent.com/u/60989975?s=40&v=4",
+          "name": "vmotta8",
+          "url": "https://github.com/vmotta8"
         }
       ]
     },
@@ -111,8 +111,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "59,517",
-      "forks": "4,421",
+      "stars": "59,608",
+      "forks": "4,428",
       "addStars": "398",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "Bash Automated Testing System",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "5,769",
+      "stars": "5,770",
       "forks": "458",
       "addStars": "1",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "90,982",
+      "stars": "90,985",
       "forks": "9,786",
       "addStars": "19",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "Persists tmux environment across system restarts.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "12,375",
+      "stars": "12,377",
       "forks": "472",
       "addStars": "6",
       "contributors": [
@@ -254,7 +254,7 @@
       "description": "An innovative superfamily of fonts for code",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "17,964",
+      "stars": "17,970",
       "forks": "315",
       "addStars": "31",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "🐧 在 Linux 上提供一套完整的 Clash / Mihomo（Clash Meta） 代理与管理面板",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,909",
+      "stars": "3,912",
       "forks": "1,050",
       "addStars": "10",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "14,038",
+      "stars": "14,042",
       "forks": "435",
       "addStars": "43",
       "contributors": [
@@ -350,7 +350,7 @@
       "description": "Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,174",
+      "stars": "1,175",
       "forks": "290",
       "addStars": "1",
       "contributors": [

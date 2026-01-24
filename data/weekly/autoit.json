@@ -2,7 +2,7 @@
   "title": "GitHub Autoit Languages Weekly Trending",
   "description": "Weekly Trending of Autoit Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 24 Jan 2026 13:30:55 GMT",
+  "pubDate": "Sat, 24 Jan 2026 19:20:55 GMT",
   "items": [
     {
       "title": "Bioruebe/UniExtract2",
@@ -11,7 +11,7 @@
       "language": "AutoIt",
       "languageColor": "#1C3552",
       "stars": "4,167",
-      "forks": "368",
+      "forks": "369",
       "addStars": "11",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "QuakeLive style mouse acceleration across your entire OS and any game",
       "language": "AutoIt",
       "languageColor": "#1C3552",
-      "stars": "333",
+      "stars": "334",
       "forks": "43",
       "addStars": "1",
       "contributors": [
@@ -70,7 +70,7 @@
       "language": "AutoIt",
       "languageColor": "#1C3552",
       "stars": "26",
-      "forks": "16",
+      "forks": "15",
       "addStars": "2",
       "contributors": [
         {

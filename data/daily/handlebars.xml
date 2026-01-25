@@ -3,7 +3,7 @@
     <title>GitHub Handlebars Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Handlebars Languages in GitHub</description>
-    <pubDate>Sun, 25 Jan 2026 13:32:23 GMT</pubDate>
+    <pubDate>Sun, 25 Jan 2026 19:21:29 GMT</pubDate>
     <item>
       <title>rust-lang/rust-by-example</title>
       <link>https://github.com/rust-lang/rust-by-example</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/huggingface/hub-docs</guid>
       <language>Handlebars</language>
       <languageColor>#f7931e</languageColor>
-      <stars>494</stars>
+      <stars>495</stars>
       <forks>409</forks>
       <addStars>0</addStars>
       <contributors>
@@ -120,7 +120,7 @@
       <guid>https://github.com/microsoft/vscode-codicons</guid>
       <language>Handlebars</language>
       <languageColor>#f7931e</languageColor>
-      <stars>1,062</stars>
+      <stars>1,061</stars>
       <forks>206</forks>
       <addStars>1</addStars>
       <contributors>

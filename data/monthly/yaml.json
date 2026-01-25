@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Monthly Trending",
   "description": "Monthly Trending of Yaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 25 Jan 2026 13:32:23 GMT",
+  "pubDate": "Sun, 25 Jan 2026 19:21:29 GMT",
   "items": [
     {
       "title": "kubeflow/manifests",
@@ -48,7 +48,7 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": "12,539",
-      "forks": "1,485",
+      "forks": "1,486",
       "addStars": "132",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "2,679",
-      "forks": "947",
+      "stars": "2,681",
+      "forks": "946",
       "addStars": "47",
       "contributors": [
         {

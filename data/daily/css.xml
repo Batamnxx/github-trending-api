@@ -3,7 +3,7 @@
     <title>GitHub Css Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Css Languages in GitHub</description>
-    <pubDate>Sun, 25 Jan 2026 03:15:18 GMT</pubDate>
+    <pubDate>Sun, 25 Jan 2026 07:26:28 GMT</pubDate>
     <item>
       <title>isocpp/CppCoreGuidelines</title>
       <link>https://github.com/isocpp/CppCoreGuidelines</link>
@@ -291,7 +291,7 @@
       <language>CSS</language>
       <languageColor>#663399</languageColor>
       <stars>45,270</stars>
-      <forks>18,261</forks>
+      <forks>18,260</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>

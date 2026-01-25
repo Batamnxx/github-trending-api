@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Weekly Trending",
   "description": "Weekly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 25 Jan 2026 03:15:18 GMT",
+  "pubDate": "Sun, 25 Jan 2026 07:26:28 GMT",
   "items": [
     {
       "title": "leanprover/lean4",
@@ -85,7 +85,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "2,813",
-      "forks": "1,029",
+      "forks": "1,030",
       "addStars": "35",
       "contributors": [
         {

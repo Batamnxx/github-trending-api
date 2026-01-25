@@ -3,7 +3,7 @@
     <title>GitHub Mustache Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Mustache Languages in GitHub</description>
-    <pubDate>Sun, 25 Jan 2026 03:15:18 GMT</pubDate>
+    <pubDate>Sun, 25 Jan 2026 07:26:28 GMT</pubDate>
     <item>
       <title>aws/eks-charts</title>
       <link>https://github.com/aws/eks-charts</link>
@@ -87,7 +87,7 @@
       <guid>https://github.com/swagger-api/swagger-codegen</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>17,684</stars>
+      <stars>17,685</stars>
       <forks>6,035</forks>
       <addStars>0</addStars>
       <contributors>

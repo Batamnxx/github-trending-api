@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Monthly Trending",
   "description": "Monthly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 25 Jan 2026 07:26:28 GMT",
+  "pubDate": "Sun, 25 Jan 2026 13:32:23 GMT",
   "items": [
     {
       "title": "anthropics/skills",
@@ -10,8 +10,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,223",
-      "forks": "5,058",
+      "stars": "52,549",
+      "forks": "5,108",
       "addStars": "25,497",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Bash is all you need！write a claude code with only 16 line code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,196",
-      "forks": "3,417",
+      "stars": "15,230",
+      "forks": "3,425",
       "addStars": "3,458",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,400",
-      "forks": "2,487",
+      "stars": "25,559",
+      "forks": "2,503",
       "addStars": "15,999",
       "contributors": [
         {
@@ -94,6 +94,11 @@
           "url": "https://github.com/claude"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/24948667?s=40&v=4",
+          "name": "sanjay3290",
+          "url": "https://github.com/sanjay3290"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/167574?s=40&v=4",
           "name": "mellson",
           "url": "https://github.com/mellson"
@@ -102,11 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1811651?s=40&v=4",
           "name": "ykdojo",
           "url": "https://github.com/ykdojo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11697794?s=40&v=4",
-          "name": "LeoVS09",
-          "url": "https://github.com/LeoVS09"
         }
       ]
     },
@@ -116,8 +116,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,290",
-      "forks": "1,665",
+      "stars": "18,330",
+      "forks": "1,668",
       "addStars": "4,759",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,401",
-      "forks": "1,553",
+      "stars": "16,412",
+      "forks": "1,556",
       "addStars": "1,795",
       "contributors": [
         {
@@ -217,29 +217,29 @@
       ]
     },
     {
-      "title": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
+      "title": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,348",
-      "forks": "155",
-      "addStars": "998",
+      "stars": "8,801",
+      "forks": "652",
+      "addStars": "3,677",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5697919?s=40&v=4",
-          "name": "alirezarezvani",
-          "url": "https://github.com/alirezarezvani"
+          "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&v=4",
+          "name": "rejojer",
+          "url": "https://github.com/rejojer"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&v=4",
+          "name": "zmtomorrow",
+          "url": "https://github.com/zmtomorrow"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/23409189?s=40&v=4",
-          "name": "olgasafonova",
-          "url": "https://github.com/olgasafonova"
+          "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&v=4",
+          "name": "clarenceluo78",
+          "url": "https://github.com/clarenceluo78"
         }
       ]
     },
@@ -249,8 +249,8 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,747",
-      "forks": "1,229",
+      "stars": "21,784",
+      "forks": "1,231",
       "addStars": "3,195",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,319",
-      "forks": "5,771",
+      "stars": "59,336",
+      "forks": "5,772",
       "addStars": "3,669",
       "contributors": [
         {
@@ -308,13 +308,40 @@
       ]
     },
     {
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "1,353",
+      "forks": "156",
+      "addStars": "998",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5697919?s=40&v=4",
+          "name": "alirezarezvani",
+          "url": "https://github.com/alirezarezvani"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23409189?s=40&v=4",
+          "name": "olgasafonova",
+          "url": "https://github.com/olgasafonova"
+        }
+      ]
+    },
+    {
       "title": "google/langextract",
       "url": "https://github.com/google/langextract",
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,657",
-      "forks": "1,622",
+      "stars": "23,662",
+      "forks": "1,623",
       "addStars": "4,761",
       "contributors": [
         {
@@ -340,12 +367,49 @@
       ]
     },
     {
+      "title": "hacksider/Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "78,976",
+      "forks": "11,520",
+      "addStars": "2,763",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1267200?s=40&v=4",
+          "name": "hacksider",
+          "url": "https://github.com/hacksider"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/136873090?s=40&v=4",
+          "name": "KRSHH",
+          "url": "https://github.com/KRSHH"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5672864?s=40&v=4",
+          "name": "vic4key",
+          "url": "https://github.com/vic4key"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52257639?s=40&v=4",
+          "name": "pereiraroland26",
+          "url": "https://github.com/pereiraroland26"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8604601?s=40&v=4",
+          "name": "kier007",
+          "url": "https://github.com/kier007"
+        }
+      ]
+    },
+    {
       "title": "alexta69/metube",
       "url": "https://github.com/alexta69/metube",
       "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,337",
+      "stars": "12,341",
       "forks": "842",
       "addStars": "1,150",
       "contributors": [
@@ -377,77 +441,13 @@
       ]
     },
     {
-      "title": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "8,589",
-      "forks": "637",
-      "addStars": "3,677",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&v=4",
-          "name": "rejojer",
-          "url": "https://github.com/rejojer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13518252?s=40&v=4",
-          "name": "zmtomorrow",
-          "url": "https://github.com/zmtomorrow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71917860?s=40&v=4",
-          "name": "clarenceluo78",
-          "url": "https://github.com/clarenceluo78"
-        }
-      ]
-    },
-    {
-      "title": "hacksider/Deep-Live-Cam",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "78,967",
-      "forks": "11,519",
-      "addStars": "2,763",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1267200?s=40&v=4",
-          "name": "hacksider",
-          "url": "https://github.com/hacksider"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/136873090?s=40&v=4",
-          "name": "KRSHH",
-          "url": "https://github.com/KRSHH"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5672864?s=40&v=4",
-          "name": "vic4key",
-          "url": "https://github.com/vic4key"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52257639?s=40&v=4",
-          "name": "pereiraroland26",
-          "url": "https://github.com/pereiraroland26"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8604601?s=40&v=4",
-          "name": "kier007",
-          "url": "https://github.com/kier007"
-        }
-      ]
-    },
-    {
       "title": "Polymarket/agents",
       "url": "https://github.com/Polymarket/agents",
       "description": "Trade autonomously on Polymarket using AI Agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,856",
-      "forks": "486",
+      "stars": "1,861",
+      "forks": "487",
       "addStars": "901",
       "contributors": [
         {
@@ -478,72 +478,13 @@
       ]
     },
     {
-      "title": "resemble-ai/chatterbox",
-      "url": "https://github.com/resemble-ai/chatterbox",
-      "description": "SoTA open-source TTS",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "21,897",
-      "forks": "2,857",
-      "addStars": "4,849",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&v=4",
-          "name": "fatchord",
-          "url": "https://github.com/fatchord"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&v=4",
-          "name": "JeremyCCHsu",
-          "url": "https://github.com/JeremyCCHsu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&v=4",
-          "name": "manmay-nakhashi",
-          "url": "https://github.com/manmay-nakhashi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&v=4",
-          "name": "ZohaibAhmed",
-          "url": "https://github.com/ZohaibAhmed"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&v=4",
-          "name": "TediPapajorgji",
-          "url": "https://github.com/TediPapajorgji"
-        }
-      ]
-    },
-    {
-      "title": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "5,436",
-      "forks": "473",
-      "addStars": "5,139",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
-          "name": "ruvnet",
-          "url": "https://github.com/ruvnet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
       "title": "yichuan-w/LEANN",
       "url": "https://github.com/yichuan-w/LEANN",
       "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,671",
-      "forks": "825",
+      "stars": "9,682",
+      "forks": "828",
       "addStars": "3,959",
       "contributors": [
         {
@@ -570,6 +511,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "resemble-ai/chatterbox",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "21,903",
+      "forks": "2,860",
+      "addStars": "4,849",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37295764?s=40&v=4",
+          "name": "fatchord",
+          "url": "https://github.com/fatchord"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16027371?s=40&v=4",
+          "name": "JeremyCCHsu",
+          "url": "https://github.com/JeremyCCHsu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17176700?s=40&v=4",
+          "name": "manmay-nakhashi",
+          "url": "https://github.com/manmay-nakhashi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/660224?s=40&v=4",
+          "name": "ZohaibAhmed",
+          "url": "https://github.com/ZohaibAhmed"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5790075?s=40&v=4",
+          "name": "TediPapajorgji",
+          "url": "https://github.com/TediPapajorgji"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "title": "GitHub Hlsl Languages Weekly Trending",
   "description": "Weekly Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 26 Jan 2026 13:44:07 GMT",
+  "pubDate": "Mon, 26 Jan 2026 19:28:16 GMT",
   "items": [
     {
       "title": "Blinue/Magpie",
@@ -10,7 +10,7 @@
       "description": "A general-purpose window upscaler for Windows 10/11.",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": "13,116",
+      "stars": "13,117",
       "forks": "549",
       "addStars": "53",
       "contributors": [
@@ -37,7 +37,7 @@
       "description": "Renovation Engine for DirectX Games",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": "791",
+      "stars": "793",
       "forks": "62",
       "addStars": "9",
       "contributors": [

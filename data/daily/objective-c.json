@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 26 Jan 2026 13:44:07 GMT",
+  "pubDate": "Mon, 26 Jan 2026 19:28:16 GMT",
   "items": [
     {
       "title": "syncthing/syncthing-macos",
@@ -185,7 +185,7 @@
       "description": "Fast image loading for React Native",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "959",
+      "stars": "962",
       "forks": "139",
       "addStars": "4",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "20,774",
+      "stars": "20,776",
       "forks": "1,448",
       "addStars": "6",
       "contributors": [
@@ -333,7 +333,7 @@
       "description": "A software update framework for macOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "8,514",
+      "stars": "8,515",
       "forks": "1,093",
       "addStars": "6",
       "contributors": [

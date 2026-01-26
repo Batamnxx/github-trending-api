@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Mon, 26 Jan 2026 13:44:07 GMT</pubDate>
+    <pubDate>Mon, 26 Jan 2026 19:28:16 GMT</pubDate>
     <item>
       <title>anomalyco/opencode</title>
       <link>https://github.com/anomalyco/opencode</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>88,446</stars>
-      <forks>8,071</forks>
+      <stars>88,688</stars>
+      <forks>8,097</forks>
       <addStars>45,294</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,836</stars>
-      <forks>2,397</forks>
+      <stars>24,850</stars>
+      <forks>2,398</forks>
       <addStars>4,747</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/Lissy93/web-check</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>31,070</stars>
-      <forks>2,436</forks>
+      <stars>31,099</stars>
+      <forks>2,437</forks>
       <addStars>3,947</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>31,519</stars>
-      <forks>1,891</forks>
+      <stars>31,778</stars>
+      <forks>1,910</forks>
       <addStars>5,140</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/virattt/dexter</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,987</stars>
-      <forks>1,099</forks>
+      <stars>9,020</stars>
+      <forks>1,100</forks>
       <addStars>4,696</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/danielmiessler/Personal_AI_Infrastructure</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,895</stars>
+      <stars>5,910</stars>
       <forks>903</forks>
       <addStars>3,784</addStars>
       <contributors>
@@ -233,14 +233,37 @@
       </contributors>
     </item>
     <item>
+      <title>numman-ali/openskills</title>
+      <link>https://github.com/numman-ali/openskills</link>
+      <description>Universal skills loader for AI coding agents - npm i -g openskills</description>
+      <guid>https://github.com/numman-ali/openskills</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>7,141</stars>
+      <forks>477</forks>
+      <addStars>3,797</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35879093?s=40&amp;v=4</avatar>
+          <name>numman-ali</name>
+          <url>https://github.com/numman-ali</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
       <description>A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.</description>
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,160</stars>
-      <forks>1,048</forks>
+      <stars>15,179</stars>
+      <forks>1,049</forks>
       <addStars>6,171</addStars>
       <contributors>
         <contributor>
@@ -267,8 +290,8 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,335</stars>
-      <forks>885</forks>
+      <stars>13,356</stars>
+      <forks>886</forks>
       <addStars>4,421</addStars>
       <contributors>
         <contributor>
@@ -305,8 +328,8 @@
       <guid>https://github.com/darrenhinde/OpenAgentsControl</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,442</stars>
-      <forks>135</forks>
+      <stars>1,447</stars>
+      <forks>136</forks>
       <addStars>1,016</addStars>
       <contributors>
         <contributor>
@@ -338,8 +361,8 @@
       <guid>https://github.com/nocodb/nocodb</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>61,716</stars>
-      <forks>4,598</forks>
+      <stars>61,719</stars>
+      <forks>4,599</forks>
       <addStars>2,585</addStars>
       <contributors>
         <contributor>
@@ -376,8 +399,8 @@
       <guid>https://github.com/EveryInc/compound-engineering-plugin</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,370</stars>
-      <forks>508</forks>
+      <stars>6,391</stars>
+      <forks>511</forks>
       <addStars>3,197</addStars>
       <contributors>
         <contributor>
@@ -414,8 +437,8 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,356</stars>
-      <forks>296</forks>
+      <stars>2,385</stars>
+      <forks>299</forks>
       <addStars>1,525</addStars>
       <contributors>
         <contributor>
@@ -452,8 +475,8 @@
       <guid>https://github.com/makeplane/plane</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>44,898</stars>
-      <forks>3,425</forks>
+      <stars>44,910</stars>
+      <forks>3,424</forks>
       <addStars>3,393</addStars>
       <contributors>
         <contributor>
@@ -490,8 +513,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,298</stars>
-      <forks>1,327</forks>
+      <stars>22,314</stars>
+      <forks>1,328</forks>
       <addStars>4,438</addStars>
       <contributors>
         <contributor>
@@ -523,8 +546,8 @@
       <guid>https://github.com/puckeditor/puck</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,833</stars>
-      <forks>811</forks>
+      <stars>11,842</stars>
+      <forks>810</forks>
       <addStars>1,619</addStars>
       <contributors>
         <contributor>

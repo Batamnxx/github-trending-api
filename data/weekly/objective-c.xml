@@ -3,7 +3,7 @@
     <title>GitHub Objective-c Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Objective-c Languages in GitHub</description>
-    <pubDate>Mon, 26 Jan 2026 13:44:07 GMT</pubDate>
+    <pubDate>Mon, 26 Jan 2026 19:28:16 GMT</pubDate>
     <item>
       <title>microsoftconnect/ms-intune-app-sdk-ios</title>
       <link>https://github.com/microsoftconnect/ms-intune-app-sdk-ios</link>
@@ -44,7 +44,7 @@
       <guid>https://github.com/noah-nuebling/mac-mouse-fix</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>9,083</stars>
+      <stars>9,086</stars>
       <forks>267</forks>
       <addStars>162</addStars>
       <contributors>
@@ -110,7 +110,7 @@
       <guid>https://github.com/opa334/TrollStore</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>20,774</stars>
+      <stars>20,776</stars>
       <forks>1,448</forks>
       <addStars>50</addStars>
       <contributors>
@@ -149,7 +149,7 @@
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
       <stars>1,695</stars>
-      <forks>704</forks>
+      <forks>705</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -670,7 +670,7 @@
       <guid>https://github.com/facebookincubator/SocketRocket</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>9,622</stars>
+      <stars>9,624</stars>
       <forks>2,016</forks>
       <addStars>4</addStars>
       <contributors>
@@ -708,7 +708,7 @@
       <guid>https://github.com/realm/realm-swift</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>16,586</stars>
+      <stars>16,587</stars>
       <forks>2,212</forks>
       <addStars>4</addStars>
       <contributors>

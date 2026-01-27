@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 26 Jan 2026 19:28:16 GMT</pubDate>
+    <pubDate>Tue, 27 Jan 2026 03:08:06 GMT</pubDate>
     <item>
       <title>remotion-dev/remotion</title>
       <link>https://github.com/remotion-dev/remotion</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>31,769</stars>
-      <forks>1,909</forks>
-      <addStars>4,795</addStars>
+      <stars>32,113</stars>
+      <forks>1,932</forks>
+      <addStars>6,069</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4</avatar>
@@ -45,13 +45,13 @@
     <item>
       <title>iOfficeAI/AionUi</title>
       <link>https://github.com/iOfficeAI/AionUi</link>
-      <description>Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!</description>
+      <description>Free, local, open-source 24/7 Cowork for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!</description>
       <guid>https://github.com/iOfficeAI/AionUi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,985</stars>
-      <forks>833</forks>
-      <addStars>5,288</addStars>
+      <stars>11,066</stars>
+      <forks>841</forks>
+      <addStars>4,571</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/54054995?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/VectifyAI/PageIndex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,671</stars>
-      <forks>708</forks>
-      <addStars>3,307</addStars>
+      <stars>9,833</stars>
+      <forks>718</forks>
+      <addStars>3,973</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8255061?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>36,838</stars>
-      <forks>2,810</forks>
-      <addStars>7,732</addStars>
+      <stars>37,109</stars>
+      <forks>2,847</forks>
+      <addStars>7,391</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/block/goose</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>29,085</stars>
-      <forks>2,619</forks>
-      <addStars>2,713</addStars>
+      <stars>29,197</stars>
+      <forks>2,626</forks>
+      <addStars>2,902</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15972783?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>54,115</stars>
-      <forks>5,283</forks>
-      <addStars>8,362</addStars>
+      <stars>54,482</stars>
+      <forks>5,309</forks>
+      <addStars>8,586</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4</avatar>

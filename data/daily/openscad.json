@@ -2,7 +2,7 @@
   "title": "GitHub Openscad Languages Daily Trending",
   "description": "Daily Trending of Openscad Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 27 Jan 2026 13:48:16 GMT",
+  "pubDate": "Tue, 27 Jan 2026 19:31:55 GMT",
   "items": [
     {
       "title": "kennetek/gridfinity-rebuilt-openscad",
@@ -47,7 +47,7 @@
       "description": "A modular 3d-printable mini rack system.",
       "language": "OpenSCAD",
       "languageColor": "#e5cd45",
-      "stars": "1,267",
+      "stars": "1,268",
       "forks": "71",
       "addStars": "3",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA",
       "language": "OpenSCAD",
       "languageColor": "#e5cd45",
-      "stars": "1,936",
+      "stars": "1,937",
       "forks": "174",
       "addStars": "1",
       "contributors": [

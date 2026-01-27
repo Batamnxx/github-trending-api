@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Monthly Trending",
   "description": "Monthly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 27 Jan 2026 13:48:16 GMT",
+  "pubDate": "Tue, 27 Jan 2026 19:31:55 GMT",
   "items": [
     {
       "title": "golang-standards/project-layout",
@@ -10,8 +10,8 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "55,192",
-      "forks": "5,427",
+      "stars": "55,195",
+      "forks": "5,428",
       "addStars": "414",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "machine-readable data for https://awesome-selfhosted.net",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "863",
+      "stars": "864",
       "forks": "703",
       "addStars": "45",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "3,917",
+      "stars": "3,918",
       "forks": "116",
       "addStars": "69",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "4,407",
+      "stars": "4,405",
       "forks": "3,784",
       "addStars": "35",
       "contributors": [
@@ -228,7 +228,7 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": "148",
-      "forks": "549",
+      "forks": "548",
       "addStars": "4",
       "contributors": [
         {
@@ -393,7 +393,7 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": "1,131",
-      "forks": "823",
+      "forks": "824",
       "addStars": "22",
       "contributors": [
         {

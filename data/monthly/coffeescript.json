@@ -2,7 +2,7 @@
   "title": "GitHub Coffeescript Languages Monthly Trending",
   "description": "Monthly Trending of Coffeescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Jan 2026 03:05:38 GMT",
+  "pubDate": "Wed, 28 Jan 2026 07:32:11 GMT",
   "items": [
     {
       "title": "dropbox/zxcvbn",
@@ -10,7 +10,7 @@
       "description": "Low-Budget Password Strength Estimation",
       "language": "CoffeeScript",
       "languageColor": "#244776",
-      "stars": "15,821",
+      "stars": "15,820",
       "forks": "1,005",
       "addStars": "57",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "No longer maintained, see pinned issues",
       "language": "CoffeeScript",
       "languageColor": "#244776",
-      "stars": "22,488",
+      "stars": "22,489",
       "forks": "3,556",
       "addStars": "53",
       "contributors": [

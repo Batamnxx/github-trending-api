@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Monthly Trending",
   "description": "Monthly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Jan 2026 03:05:38 GMT",
+  "pubDate": "Wed, 28 Jan 2026 07:32:11 GMT",
   "items": [
     {
       "title": "mdn/content",
@@ -10,7 +10,7 @@
       "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "10,471",
+      "stars": "10,472",
       "forks": "23,088",
       "addStars": "82",
       "contributors": [
@@ -222,8 +222,8 @@
       "description": "📚 Collaborative cheatsheets for console commands",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "60,987",
-      "forks": "5,055",
+      "stars": "60,991",
+      "forks": "5,056",
       "addStars": "451",
       "contributors": [
         {
@@ -370,8 +370,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "461,336",
-      "forks": "43,302",
+      "stars": "461,417",
+      "forks": "43,317",
       "addStars": "9,777",
       "contributors": [
         {

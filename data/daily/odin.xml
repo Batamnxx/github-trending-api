@@ -3,7 +3,7 @@
     <title>GitHub Odin Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Odin Languages in GitHub</description>
-    <pubDate>Wed, 28 Jan 2026 07:32:11 GMT</pubDate>
+    <pubDate>Wed, 28 Jan 2026 13:49:27 GMT</pubDate>
     <item>
       <title>karl-zylinski/karl2d</title>
       <link>https://github.com/karl-zylinski/karl2d</link>
@@ -26,14 +26,14 @@
           <url>https://github.com/greenya</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/85904049?s=40&amp;v=4</avatar>
-          <name>EliasPrescott</name>
-          <url>https://github.com/EliasPrescott</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1490756?s=40&amp;v=4</avatar>
           <name>cpoile</name>
           <url>https://github.com/cpoile</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/85904049?s=40&amp;v=4</avatar>
+          <name>EliasPrescott</name>
+          <url>https://github.com/EliasPrescott</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2652464?s=40&amp;v=4</avatar>
@@ -49,7 +49,7 @@
       <guid>https://github.com/odin-lang/Odin</guid>
       <language>Odin</language>
       <languageColor>#60AFFE</languageColor>
-      <stars>9,648</stars>
+      <stars>9,652</stars>
       <forks>889</forks>
       <addStars>5</addStars>
       <contributors>

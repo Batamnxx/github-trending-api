@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Wed, 28 Jan 2026 07:32:11 GMT</pubDate>
+    <pubDate>Wed, 28 Jan 2026 13:49:27 GMT</pubDate>
     <item>
       <title>VectifyAI/PageIndex</title>
       <link>https://github.com/VectifyAI/PageIndex</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/VectifyAI/PageIndex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,223</stars>
-      <forks>747</forks>
+      <stars>10,300</stars>
+      <forks>750</forks>
       <addStars>4,241</addStars>
       <contributors>
         <contributor>
@@ -39,8 +39,8 @@
       <guid>https://github.com/OpenBMB/UltraRAG</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,506</stars>
-      <forks>314</forks>
+      <stars>4,532</stars>
+      <forks>316</forks>
       <addStars>2,030</addStars>
       <contributors>
         <contributor>
@@ -71,14 +71,52 @@
       </contributors>
     </item>
     <item>
+      <title>Free-TV/IPTV</title>
+      <link>https://github.com/Free-TV/IPTV</link>
+      <description>M3U Playlist for free TV channels</description>
+      <guid>https://github.com/Free-TV/IPTV</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>12,799</stars>
+      <forks>1,901</forks>
+      <addStars>1,314</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5292264?s=40&amp;v=4</avatar>
+          <name>KAMI911</name>
+          <url>https://github.com/KAMI911</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/82442641?s=40&amp;v=4</avatar>
+          <name>freetv332</name>
+          <url>https://github.com/freetv332</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47603275?s=40&amp;v=4</avatar>
+          <name>NezbednikSK</name>
+          <url>https://github.com/NezbednikSK</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/103857112?s=40&amp;v=4</avatar>
+          <name>TVKaista</name>
+          <url>https://github.com/TVKaista</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17656192?s=40&amp;v=4</avatar>
+          <name>infid0</name>
+          <url>https://github.com/infid0</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>anthropics/skills</title>
       <link>https://github.com/anthropics/skills</link>
       <description>Public repository for Agent Skills</description>
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>56,274</stars>
-      <forks>5,499</forks>
+      <stars>56,697</stars>
+      <forks>5,544</forks>
       <addStars>8,921</addStars>
       <contributors>
         <contributor>
@@ -109,46 +147,13 @@
       </contributors>
     </item>
     <item>
-      <title>microsoft/agent-lightning</title>
-      <link>https://github.com/microsoft/agent-lightning</link>
-      <description>The absolute trainer to light up AI agents.</description>
-      <guid>https://github.com/microsoft/agent-lightning</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>11,817</stars>
-      <forks>963</forks>
-      <addStars>1,170</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
-          <name>actions-user</name>
-          <url>https://github.com/actions-user</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8463288?s=40&amp;v=4</avatar>
-          <name>ultmaster</name>
-          <url>https://github.com/ultmaster</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10276763?s=40&amp;v=4</avatar>
-          <name>acured</name>
-          <url>https://github.com/acured</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5806609?s=40&amp;v=4</avatar>
-          <name>wizardlancet</name>
-          <url>https://github.com/wizardlancet</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>KellerJordan/modded-nanogpt</title>
       <link>https://github.com/KellerJordan/modded-nanogpt</link>
       <description>NanoGPT (124M) in 2 minutes</description>
       <guid>https://github.com/KellerJordan/modded-nanogpt</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,487</stars>
+      <stars>4,492</stars>
       <forks>594</forks>
       <addStars>315</addStars>
       <contributors>
@@ -180,52 +185,14 @@
       </contributors>
     </item>
     <item>
-      <title>thu-ml/tianshou</title>
-      <link>https://github.com/thu-ml/tianshou</link>
-      <description>An elegant PyTorch deep reinforcement learning library.</description>
-      <guid>https://github.com/thu-ml/tianshou</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>9,978</stars>
-      <forks>1,253</forks>
-      <addStars>358</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1295099?s=40&amp;v=4</avatar>
-          <name>opcode81</name>
-          <url>https://github.com/opcode81</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35432522?s=40&amp;v=4</avatar>
-          <name>MischaPanch</name>
-          <url>https://github.com/MischaPanch</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8189182?s=40&amp;v=4</avatar>
-          <name>Trinkle23897</name>
-          <url>https://github.com/Trinkle23897</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9161765?s=40&amp;v=4</avatar>
-          <name>rtz19970824</name>
-          <url>https://github.com/rtz19970824</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50958143?s=40&amp;v=4</avatar>
-          <name>carlocagnetta</name>
-          <url>https://github.com/carlocagnetta</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>microsoft/VibeVoice</title>
       <link>https://github.com/microsoft/VibeVoice</link>
       <description>Open-Source Frontier Voice AI</description>
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,456</stars>
-      <forks>2,435</forks>
+      <stars>22,485</stars>
+      <forks>2,439</forks>
       <addStars>1,902</addStars>
       <contributors>
         <contributor>
@@ -256,40 +223,68 @@
       </contributors>
     </item>
     <item>
-      <title>Free-TV/IPTV</title>
-      <link>https://github.com/Free-TV/IPTV</link>
-      <description>M3U Playlist for free TV channels</description>
-      <guid>https://github.com/Free-TV/IPTV</guid>
+      <title>microsoft/agent-lightning</title>
+      <link>https://github.com/microsoft/agent-lightning</link>
+      <description>The absolute trainer to light up AI agents.</description>
+      <guid>https://github.com/microsoft/agent-lightning</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,731</stars>
-      <forks>1,895</forks>
-      <addStars>1,314</addStars>
+      <stars>11,826</stars>
+      <forks>963</forks>
+      <addStars>1,170</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5292264?s=40&amp;v=4</avatar>
-          <name>KAMI911</name>
-          <url>https://github.com/KAMI911</url>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/82442641?s=40&amp;v=4</avatar>
-          <name>freetv332</name>
-          <url>https://github.com/freetv332</url>
+          <avatar>https://avatars.githubusercontent.com/u/8463288?s=40&amp;v=4</avatar>
+          <name>ultmaster</name>
+          <url>https://github.com/ultmaster</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47603275?s=40&amp;v=4</avatar>
-          <name>NezbednikSK</name>
-          <url>https://github.com/NezbednikSK</url>
+          <avatar>https://avatars.githubusercontent.com/u/10276763?s=40&amp;v=4</avatar>
+          <name>acured</name>
+          <url>https://github.com/acured</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/103857112?s=40&amp;v=4</avatar>
-          <name>TVKaista</name>
-          <url>https://github.com/TVKaista</url>
+          <avatar>https://avatars.githubusercontent.com/u/5806609?s=40&amp;v=4</avatar>
+          <name>wizardlancet</name>
+          <url>https://github.com/wizardlancet</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>MoonshotAI/kimi-cli</title>
+      <link>https://github.com/MoonshotAI/kimi-cli</link>
+      <description>Kimi Code CLI is your next CLI agent.</description>
+      <guid>https://github.com/MoonshotAI/kimi-cli</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>4,363</stars>
+      <forks>433</forks>
+      <addStars>395</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5317095?s=40&amp;v=4</avatar>
+          <name>stdrc</name>
+          <url>https://github.com/stdrc</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17656192?s=40&amp;v=4</avatar>
-          <name>infid0</name>
-          <url>https://github.com/infid0</url>
+          <avatar>https://avatars.githubusercontent.com/u/37948597?s=40&amp;v=4</avatar>
+          <name>xxchan</name>
+          <url>https://github.com/xxchan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3744223?s=40&amp;v=4</avatar>
+          <name>Epsirom</name>
+          <url>https://github.com/Epsirom</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15976103?s=40&amp;v=4</avatar>
+          <name>yihong0618</name>
+          <url>https://github.com/yihong0618</url>
         </contributor>
       </contributors>
     </item>
@@ -300,8 +295,8 @@
       <guid>https://github.com/browser-use/browser-use</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>77,278</stars>
-      <forks>9,161</forks>
+      <stars>77,305</stars>
+      <forks>9,162</forks>
       <addStars>1,487</addStars>
       <contributors>
         <contributor>
@@ -338,8 +333,8 @@
       <guid>https://github.com/Blaizzy/mlx-audio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,502</stars>
-      <forks>396</forks>
+      <stars>5,543</stars>
+      <forks>398</forks>
       <addStars>2,107</addStars>
       <contributors>
         <contributor>
@@ -376,8 +371,8 @@
       <guid>https://github.com/xai-org/grok-1</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,427</stars>
-      <forks>8,490</forks>
+      <stars>51,428</stars>
+      <forks>8,491</forks>
       <addStars>781</addStars>
       <contributors>
         <contributor>
@@ -408,35 +403,25 @@
       </contributors>
     </item>
     <item>
-      <title>AtsushiSakai/PythonRobotics</title>
-      <link>https://github.com/AtsushiSakai/PythonRobotics</link>
-      <description>Python sample codes and textbook for robotics algorithms.</description>
-      <guid>https://github.com/AtsushiSakai/PythonRobotics</guid>
+      <title>business-science/ai-data-science-team</title>
+      <link>https://github.com/business-science/ai-data-science-team</link>
+      <description>An AI-powered data science team of agents to help you perform common data science tasks 10X faster.</description>
+      <guid>https://github.com/business-science/ai-data-science-team</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>28,419</stars>
-      <forks>7,191</forks>
-      <addStars>213</addStars>
+      <stars>4,528</stars>
+      <forks>790</forks>
+      <addStars>886</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3813847?s=40&amp;v=4</avatar>
-          <name>AtsushiSakai</name>
-          <url>https://github.com/AtsushiSakai</url>
+          <avatar>https://avatars.githubusercontent.com/u/13734662?s=40&amp;v=4</avatar>
+          <name>mdancho84</name>
+          <url>https://github.com/mdancho84</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
-          <name>actions-user</name>
-          <url>https://github.com/actions-user</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6797340?s=40&amp;v=4</avatar>
-          <name>Gjacquenot</name>
-          <url>https://github.com/Gjacquenot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43545812?s=40&amp;v=4</avatar>
-          <name>guilyx</name>
-          <url>https://github.com/guilyx</url>
+          <avatar>https://avatars.githubusercontent.com/u/184815126?s=40&amp;v=4</avatar>
+          <name>Ehsaan08-ai</name>
+          <url>https://github.com/Ehsaan08-ai</url>
         </contributor>
       </contributors>
     </item>
@@ -447,8 +432,8 @@
       <guid>https://github.com/ManimCommunity/manim</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,487</stars>
-      <forks>2,624</forks>
+      <stars>36,495</stars>
+      <forks>2,625</forks>
       <addStars>165</addStars>
       <contributors>
         <contributor>
@@ -470,67 +455,6 @@
           <avatar>https://avatars.githubusercontent.com/u/49693820?s=40&amp;v=4</avatar>
           <name>naveen521kk</name>
           <url>https://github.com/naveen521kk</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>vllm-project/vllm</title>
-      <link>https://github.com/vllm-project/vllm</link>
-      <description>A high-throughput and memory-efficient inference and serving engine for LLMs</description>
-      <guid>https://github.com/vllm-project/vllm</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>68,812</stars>
-      <forks>12,969</forks>
-      <addStars>845</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44970335?s=40&amp;v=4</avatar>
-          <name>DarkLight1337</name>
-          <url>https://github.com/DarkLight1337</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46394894?s=40&amp;v=4</avatar>
-          <name>WoosukKwon</name>
-          <url>https://github.com/WoosukKwon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3195154?s=40&amp;v=4</avatar>
-          <name>mgoin</name>
-          <url>https://github.com/mgoin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23236638?s=40&amp;v=4</avatar>
-          <name>youkaichao</name>
-          <url>https://github.com/youkaichao</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19981378?s=40&amp;v=4</avatar>
-          <name>hmellor</name>
-          <url>https://github.com/hmellor</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>business-science/ai-data-science-team</title>
-      <link>https://github.com/business-science/ai-data-science-team</link>
-      <description>An AI-powered data science team of agents to help you perform common data science tasks 10X faster.</description>
-      <guid>https://github.com/business-science/ai-data-science-team</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>4,491</stars>
-      <forks>787</forks>
-      <addStars>886</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13734662?s=40&amp;v=4</avatar>
-          <name>mdancho84</name>
-          <url>https://github.com/mdancho84</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/184815126?s=40&amp;v=4</avatar>
-          <name>Ehsaan08-ai</name>
-          <url>https://github.com/Ehsaan08-ai</url>
         </contributor>
       </contributors>
     </item>

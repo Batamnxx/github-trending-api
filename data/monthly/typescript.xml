@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Thu, 29 Jan 2026 03:29:30 GMT</pubDate>
+    <pubDate>Thu, 29 Jan 2026 07:42:58 GMT</pubDate>
     <item>
       <title>moltbot/moltbot</title>
       <link>https://github.com/moltbot/moltbot</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/moltbot/moltbot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>91,521</stars>
-      <forks>12,518</forks>
+      <stars>95,059</stars>
+      <forks>13,064</forks>
       <addStars>88,133</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>91,446</stars>
-      <forks>8,399</forks>
+      <stars>91,664</stars>
+      <forks>8,433</forks>
       <addStars>48,330</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>33,370</stars>
-      <forks>2,003</forks>
+      <stars>33,442</stars>
+      <forks>2,007</forks>
       <addStars>8,173</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/Lissy93/web-check</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>31,331</stars>
-      <forks>2,452</forks>
+      <stars>31,346</stars>
+      <forks>2,453</forks>
       <addStars>4,287</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,981</stars>
+      <stars>24,987</stars>
       <forks>2,410</forks>
       <addStars>4,904</addStars>
       <contributors>
@@ -201,8 +201,8 @@
       <guid>https://github.com/virattt/dexter</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,304</stars>
-      <forks>1,139</forks>
+      <stars>9,317</stars>
+      <forks>1,141</forks>
       <addStars>4,911</addStars>
       <contributors>
         <contributor>
@@ -239,7 +239,7 @@
       <guid>https://github.com/danielmiessler/Personal_AI_Infrastructure</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,007</stars>
+      <stars>6,015</stars>
       <forks>924</forks>
       <addStars>3,685</addStars>
       <contributors>
@@ -277,8 +277,8 @@
       <guid>https://github.com/numman-ali/openskills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,355</stars>
-      <forks>494</forks>
+      <stars>7,382</stars>
+      <forks>498</forks>
       <addStars>3,887</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,183</stars>
-      <forks>386</forks>
+      <stars>3,261</stars>
+      <forks>390</forks>
       <addStars>2,233</addStars>
       <contributors>
         <contributor>
@@ -338,7 +338,7 @@
       <guid>https://github.com/afkarxyz/SpotiFLAC</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,806</stars>
+      <stars>3,808</stars>
       <forks>222</forks>
       <addStars>3,074</addStars>
       <contributors>
@@ -376,8 +376,8 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,552</stars>
-      <forks>897</forks>
+      <stars>13,560</stars>
+      <forks>901</forks>
       <addStars>4,537</addStars>
       <contributors>
         <contributor>
@@ -414,7 +414,7 @@
       <guid>https://github.com/nocodb/nocodb</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>61,772</stars>
+      <stars>61,774</stars>
       <forks>4,604</forks>
       <addStars>2,583</addStars>
       <contributors>
@@ -452,8 +452,8 @@
       <guid>https://github.com/EveryInc/compound-engineering-plugin</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,555</stars>
-      <forks>527</forks>
+      <stars>6,567</stars>
+      <forks>529</forks>
       <addStars>3,366</addStars>
       <contributors>
         <contributor>
@@ -490,8 +490,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,325</stars>
-      <forks>1,067</forks>
+      <stars>15,341</stars>
+      <forks>1,069</forks>
       <addStars>6,165</addStars>
       <contributors>
         <contributor>
@@ -518,8 +518,8 @@
       <guid>https://github.com/darrenhinde/OpenAgentsControl</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,515</stars>
-      <forks>137</forks>
+      <stars>1,520</stars>
+      <forks>139</forks>
       <addStars>1,062</addStars>
       <contributors>
         <contributor>
@@ -551,7 +551,7 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,603</stars>
+      <stars>22,630</stars>
       <forks>1,346</forks>
       <addStars>4,593</addStars>
       <contributors>
@@ -584,8 +584,8 @@
       <guid>https://github.com/anthropics/claude-code-action</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,374</stars>
-      <forks>1,403</forks>
+      <stars>5,378</stars>
+      <forks>1,404</forks>
       <addStars>930</addStars>
       <contributors>
         <contributor>
@@ -617,8 +617,8 @@
       <guid>https://github.com/supermemoryai/supermemory</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,817</stars>
-      <forks>1,609</forks>
+      <stars>15,820</stars>
+      <forks>1,610</forks>
       <addStars>1,978</addStars>
       <contributors>
         <contributor>

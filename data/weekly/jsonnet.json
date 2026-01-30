@@ -2,7 +2,7 @@
   "title": "GitHub Jsonnet Languages Weekly Trending",
   "description": "Weekly Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Jan 2026 13:56:58 GMT",
+  "pubDate": "Fri, 30 Jan 2026 19:37:01 GMT",
   "items": [
     {
       "title": "grafana/jsonnet-libs",
@@ -48,7 +48,7 @@
       "language": "Jsonnet",
       "languageColor": "#0064bd",
       "stars": "7,573",
-      "forks": "2,054",
+      "forks": "2,055",
       "addStars": "7",
       "contributors": [
         {
@@ -154,7 +154,7 @@
       "language": "Jsonnet",
       "languageColor": "#0064bd",
       "stars": "2,034",
-      "forks": "9,303",
+      "forks": "9,304",
       "addStars": "8",
       "contributors": [
         {

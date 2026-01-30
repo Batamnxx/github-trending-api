@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Monthly Trending",
   "description": "Monthly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Jan 2026 07:42:31 GMT",
+  "pubDate": "Fri, 30 Jan 2026 13:56:58 GMT",
   "items": [
     {
       "title": "anthropics/skills",
@@ -10,8 +10,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,476",
-      "forks": "5,726",
+      "stars": "58,753",
+      "forks": "5,747",
       "addStars": "29,129",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,696",
-      "forks": "767",
+      "stars": "10,761",
+      "forks": "771",
       "addStars": "6,153",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Bash is all you need！write a claude code with only 16 line code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,846",
-      "forks": "3,486",
+      "stars": "15,873",
+      "forks": "3,487",
       "addStars": "4,053",
       "contributors": [
         {
@@ -97,6 +97,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/88922959?s=40&v=4",
           "name": "Octane0411",
           "url": "https://github.com/Octane0411"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4",
+          "name": "salmanmkc",
+          "url": "https://github.com/salmanmkc"
         }
       ]
     },
@@ -106,8 +111,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,079",
-      "forks": "2,713",
+      "stars": "28,210",
+      "forks": "2,728",
       "addStars": "15,383",
       "contributors": [
         {
@@ -143,7 +148,7 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,276",
+      "stars": "1,281",
       "forks": "194",
       "addStars": "981",
       "contributors": [
@@ -180,8 +185,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,912",
-      "forks": "1,738",
+      "stars": "18,938",
+      "forks": "1,742",
       "addStars": "4,867",
       "contributors": [
         {
@@ -212,8 +217,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,709",
-      "forks": "1,586",
+      "stars": "16,716",
+      "forks": "1,587",
       "addStars": "2,063",
       "contributors": [
         {
@@ -249,7 +254,7 @@
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,628",
+      "stars": "59,639",
       "forks": "5,809",
       "addStars": "3,877",
       "contributors": [
@@ -286,8 +291,8 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,321",
-      "forks": "1,270",
+      "stars": "22,340",
+      "forks": "1,274",
       "addStars": "3,468",
       "contributors": [
         {
@@ -313,8 +318,8 @@
       "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,809",
-      "forks": "339",
+      "stars": "4,840",
+      "forks": "341",
       "addStars": "2,357",
       "contributors": [
         {
@@ -350,8 +355,8 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "79,137",
-      "forks": "11,542",
+      "stars": "79,143",
+      "forks": "11,543",
       "addStars": "2,819",
       "contributors": [
         {
@@ -387,7 +392,7 @@
       "description": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,473",
+      "stars": "1,474",
       "forks": "173",
       "addStars": "1,020",
       "contributors": [
@@ -414,8 +419,8 @@
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,098",
-      "forks": "349",
+      "stars": "2,110",
+      "forks": "350",
       "addStars": "1,212",
       "contributors": [
         {
@@ -451,7 +456,7 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,201",
+      "stars": "2,205",
       "forks": "146",
       "addStars": "1,166",
       "contributors": [
@@ -488,7 +493,7 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,770",
+      "stars": "23,775",
       "forks": "1,635",
       "addStars": "4,115",
       "contributors": [
@@ -520,8 +525,8 @@
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "67,292",
-      "forks": "8,376",
+      "stars": "67,299",
+      "forks": "8,379",
       "addStars": "1,437",
       "contributors": [
         {
@@ -552,7 +557,7 @@
       "description": "MiroFlow is an agent framework that enables tool-use agent tasks, featuring a reproducible GAIA score of 82.4%.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,357",
+      "stars": "2,364",
       "forks": "246",
       "addStars": "697",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Handlebars Languages Monthly Trending",
   "description": "Monthly Trending of Handlebars Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 31 Jan 2026 03:24:58 GMT",
+  "pubDate": "Sat, 31 Jan 2026 07:33:45 GMT",
   "items": [
     {
       "title": "rust-lang/rust-by-example",
@@ -10,8 +10,8 @@
       "description": "Learn Rust with examples (Live code editor included)",
       "language": "Handlebars",
       "languageColor": "#f7931e",
-      "stars": "7,831",
-      "forks": "1,505",
+      "stars": "7,832",
+      "forks": "1,506",
       "addStars": "73",
       "contributors": [
         {

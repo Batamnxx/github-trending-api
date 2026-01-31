@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Monthly Trending",
   "description": "Monthly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Jan 2026 19:37:01 GMT",
+  "pubDate": "Sat, 31 Jan 2026 03:24:58 GMT",
   "items": [
     {
       "title": "leanprover/lean4",
@@ -11,8 +11,8 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "7,193",
-      "forks": "745",
-      "addStars": "215",
+      "forks": "746",
+      "addStars": "220",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2778936?s=40&v=4",
@@ -48,7 +48,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "2,838",
-      "forks": "1,047",
+      "forks": "1,048",
       "addStars": "130",
       "contributors": [
         {
@@ -160,7 +160,7 @@
       "languageColor": "#ccc",
       "stars": "143",
       "forks": "28",
-      "addStars": "6",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/57503246?s=40&v=4",

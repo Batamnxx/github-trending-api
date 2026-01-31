@@ -3,7 +3,7 @@
     <title>GitHub Shell Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Shell Languages in GitHub</description>
-    <pubDate>Fri, 30 Jan 2026 19:37:01 GMT</pubDate>
+    <pubDate>Sat, 31 Jan 2026 03:24:58 GMT</pubDate>
     <item>
       <title>nelvko/clash-for-linux-install</title>
       <link>https://github.com/nelvko/clash-for-linux-install</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/nelvko/clash-for-linux-install</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>8,507</stars>
+      <stars>8,512</stars>
       <forks>1,025</forks>
-      <addStars>57</addStars>
+      <addStars>40</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/76961348?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/nvm-sh/nvm</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>91,095</stars>
-      <forks>9,807</forks>
-      <addStars>26</addStars>
+      <stars>91,102</stars>
+      <forks>9,806</forks>
+      <addStars>22</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45469?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>40,524</stars>
-      <forks>3,074</forks>
-      <addStars>851</addStars>
+      <stars>40,650</stars>
+      <forks>3,090</forks>
+      <addStars>777</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4</avatar>
@@ -102,11 +102,6 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69736?s=40&amp;v=4</avatar>
-          <name>clkao</name>
-          <url>https://github.com/clkao</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/62661?s=40&amp;v=4</avatar>
           <name>jjshanks</name>
           <url>https://github.com/jjshanks</url>
@@ -115,6 +110,11 @@
           <avatar>https://avatars.githubusercontent.com/u/8760762?s=40&amp;v=4</avatar>
           <name>oribarilan</name>
           <url>https://github.com/oribarilan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60989975?s=40&amp;v=4</avatar>
+          <name>vmotta8</name>
+          <url>https://github.com/vmotta8</url>
         </contributor>
       </contributors>
     </item>
@@ -125,9 +125,9 @@
       <guid>https://github.com/DaoCloud/public-image-mirror</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>13,090</stars>
+      <stars>13,091</stars>
       <forks>1,435</forks>
-      <addStars>14</addStars>
+      <addStars>19</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6565744?s=40&amp;v=4</avatar>
@@ -224,9 +224,9 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>5,504</stars>
-      <forks>565</forks>
-      <addStars>206</addStars>
+      <stars>5,565</stars>
+      <forks>568</forks>
+      <addStars>153</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12701358?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/termux/termux-packages</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>15,631</stars>
+      <stars>15,632</stars>
       <forks>3,879</forks>
-      <addStars>6</addStars>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/99250145?s=40&amp;v=4</avatar>
@@ -300,9 +300,9 @@
       <guid>https://github.com/angristan/openvpn-install</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>15,536</stars>
+      <stars>15,538</stars>
       <forks>3,276</forks>
-      <addStars>3</addStars>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11699655?s=40&amp;v=4</avatar>
@@ -333,9 +333,9 @@
       <guid>https://github.com/dockur/windows</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>49,751</stars>
-      <forks>3,962</forks>
-      <addStars>28</addStars>
+      <stars>49,755</stars>
+      <forks>3,963</forks>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5763256?s=40&amp;v=4</avatar>
@@ -368,7 +368,7 @@
       <languageColor>#89e051</languageColor>
       <stars>2,422</stars>
       <forks>302</forks>
-      <addStars>5</addStars>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/19876404?s=40&amp;v=4</avatar>
@@ -438,7 +438,7 @@
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
       <stars>99</stars>
-      <forks>52</forks>
+      <forks>53</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -447,14 +447,14 @@
           <url>https://github.com/tmeschter</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22682497?s=40&amp;v=4</avatar>
+          <name>saikoumudi</name>
+          <url>https://github.com/saikoumudi</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/39359541?s=40&amp;v=4</avatar>
           <name>JasonYeMSFT</name>
           <url>https://github.com/JasonYeMSFT</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36966225?s=40&amp;v=4</avatar>
-          <name>bwateratmsft</name>
-          <url>https://github.com/bwateratmsft</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/102772054?s=40&amp;v=4</avatar>
@@ -472,7 +472,7 @@
       <languageColor>#89e051</languageColor>
       <stars>5,934</stars>
       <forks>665</forks>
-      <addStars>2</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/21979?s=40&amp;v=4</avatar>
@@ -508,9 +508,9 @@
       <guid>https://github.com/MacRimi/ProxMenux</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>2,225</stars>
+      <stars>2,227</stars>
       <forks>115</forks>
-      <addStars>6</addStars>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/123239993?s=40&amp;v=4</avatar>

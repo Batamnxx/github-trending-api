@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Jan 2026 19:37:01 GMT",
+  "pubDate": "Sat, 31 Jan 2026 03:24:58 GMT",
   "items": [
     {
       "title": "openclaw/openclaw",
@@ -10,9 +10,9 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "116,986",
-      "forks": "16,511",
-      "addStars": "93,052",
+      "stars": "120,940",
+      "forks": "17,131",
+      "addStars": "105,542",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,814",
-      "forks": "2,035",
-      "addStars": "7,280",
+      "stars": "33,867",
+      "forks": "2,041",
+      "addStars": "6,036",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1629785?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,806",
-      "forks": "772",
-      "addStars": "4,294",
+      "stars": "10,876",
+      "forks": "775",
+      "addStars": "4,394",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,857",
-      "forks": "342",
-      "addStars": "2,171",
+      "stars": "4,872",
+      "forks": "343",
+      "addStars": "2,181",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/56372416?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "28,439",
-      "forks": "4,591",
-      "addStars": "2,095",
+      "stars": "28,637",
+      "forks": "4,628",
+      "addStars": "2,950",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "983",
-      "forks": "120",
-      "addStars": "380",
+      "stars": "1,034",
+      "forks": "128",
+      "addStars": "544",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/273860?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,889",
-      "forks": "5,754",
-      "addStars": "8,807",
+      "stars": "59,036",
+      "forks": "5,773",
+      "addStars": "8,253",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "40,520",
-      "forks": "3,074",
-      "addStars": "6,604",
+      "stars": "40,642",
+      "forks": "3,089",
+      "addStars": "6,255",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -274,11 +274,6 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
-          "name": "clkao",
-          "url": "https://github.com/clkao"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4",
           "name": "jjshanks",
           "url": "https://github.com/jjshanks"
@@ -287,6 +282,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/8760762?s=40&v=4",
           "name": "oribarilan",
           "url": "https://github.com/oribarilan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60989975?s=40&v=4",
+          "name": "vmotta8",
+          "url": "https://github.com/vmotta8"
         }
       ]
     },
@@ -296,9 +296,9 @@
       "description": "Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,922",
+      "stars": "11,940",
       "forks": "897",
-      "addStars": "2,865",
+      "addStars": "2,336",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&v=4",

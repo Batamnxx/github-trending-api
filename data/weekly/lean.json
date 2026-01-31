@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Weekly Trending",
   "description": "Weekly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Jan 2026 19:37:01 GMT",
+  "pubDate": "Sat, 31 Jan 2026 03:24:58 GMT",
   "items": [
     {
       "title": "leanprover/lean4",
@@ -11,8 +11,8 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "7,193",
-      "forks": "745",
-      "addStars": "33",
+      "forks": "746",
+      "addStars": "40",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2778936?s=40&v=4",
@@ -49,7 +49,7 @@
       "languageColor": "#ccc",
       "stars": "801",
       "forks": "214",
-      "addStars": "18",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3491627?s=40&v=4",
@@ -85,8 +85,8 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "2,838",
-      "forks": "1,047",
-      "addStars": "34",
+      "forks": "1,048",
+      "addStars": "33",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Blueprint for the PNT+ Project",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "246",
+      "stars": "247",
       "forks": "67",
-      "addStars": "10",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58564076?s=40&v=4",
@@ -308,7 +308,7 @@
       "languageColor": "#ccc",
       "stars": "464",
       "forks": "69",
-      "addStars": "7",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/72603918?s=40&v=4",
@@ -345,7 +345,7 @@
       "languageColor": "#ccc",
       "stars": "259",
       "forks": "54",
-      "addStars": "13",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2077129?s=40&v=4",

@@ -3,7 +3,7 @@
     <title>GitHub Jupyter-notebook Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
-    <pubDate>Sat, 31 Jan 2026 07:33:45 GMT</pubDate>
+    <pubDate>Sat, 31 Jan 2026 13:41:01 GMT</pubDate>
     <item>
       <title>GoogleCloudPlatform/generative-ai</title>
       <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/GoogleCloudPlatform/generative-ai</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>12,591</stars>
-      <forks>3,685</forks>
+      <stars>12,593</stars>
+      <forks>3,686</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -44,7 +44,7 @@
       <guid>https://github.com/facebookresearch/sam2</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>18,422</stars>
+      <stars>18,425</stars>
       <forks>2,332</forks>
       <addStars>5</addStars>
       <contributors>
@@ -82,7 +82,7 @@
       <guid>https://github.com/facebookresearch/segment-anything</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>53,318</stars>
+      <stars>53,321</stars>
       <forks>6,219</forks>
       <addStars>7</addStars>
       <contributors>
@@ -158,8 +158,8 @@
       <guid>https://github.com/ageron/handson-ml3</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>12,235</stars>
-      <forks>4,779</forks>
+      <stars>12,236</stars>
+      <forks>4,780</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -196,7 +196,7 @@
       <guid>https://github.com/QwenLM/Qwen3-VL</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>18,073</stars>
+      <stars>18,079</stars>
       <forks>1,560</forks>
       <addStars>16</addStars>
       <contributors>
@@ -267,8 +267,8 @@
       <guid>https://github.com/ageron/handson-mlp</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>962</stars>
-      <forks>305</forks>
+      <stars>964</stars>
+      <forks>306</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -306,7 +306,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>4,682</stars>
-      <forks>4,345</forks>
+      <forks>4,348</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -330,9 +330,9 @@
           <url>https://github.com/solisoma</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7517953?s=40&amp;v=4</avatar>
-          <name>Carbaz</name>
-          <url>https://github.com/Carbaz</url>
+          <avatar>https://avatars.githubusercontent.com/u/222668032?s=40&amp;v=4</avatar>
+          <name>XingSBR</name>
+          <url>https://github.com/XingSBR</url>
         </contributor>
       </contributors>
     </item>
@@ -343,7 +343,7 @@
       <guid>https://github.com/udlbook/udlbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>8,995</stars>
+      <stars>8,997</stars>
       <forks>2,089</forks>
       <addStars>17</addStars>
       <contributors>
@@ -480,8 +480,8 @@
       <guid>https://github.com/google-research/google-research</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>37,182</stars>
-      <forks>8,312</forks>
+      <stars>37,186</stars>
+      <forks>8,313</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -513,7 +513,7 @@
       <guid>https://github.com/langchain-ai/langchain-academy</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>2,392</stars>
+      <stars>2,393</stars>
       <forks>1,558</forks>
       <addStars>1</addStars>
       <contributors>
@@ -552,7 +552,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>8,453</stars>
-      <forks>60,188</forks>
+      <forks>60,192</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 01 Feb 2026 13:43:06 GMT",
+  "pubDate": "Sun, 01 Feb 2026 19:29:20 GMT",
   "items": [
     {
       "title": "openclaw/openclaw",
@@ -10,8 +10,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "138,128",
-      "forks": "20,323",
+      "stars": "140,372",
+      "forks": "20,774",
       "addStars": "11,134",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "Agent Orchestration Command Center",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "828",
-      "forks": "109",
-      "addStars": "25",
+      "stars": "900",
+      "forks": "114",
+      "addStars": "69",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1253573?s=40&v=4",
@@ -70,11 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/411161?s=40&v=4",
-          "name": "oliveiraantoniocc",
-          "url": "https://github.com/oliveiraantoniocc"
         }
       ]
     },
@@ -84,8 +79,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,524",
-      "forks": "499",
+      "stars": "4,775",
+      "forks": "521",
       "addStars": "565",
       "contributors": [
         {
@@ -121,8 +116,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,873",
-      "forks": "1,113",
+      "stars": "16,009",
+      "forks": "1,122",
       "addStars": "171",
       "contributors": [
         {
@@ -148,8 +143,8 @@
       "description": "Turn any browser into your terminal & command your agents on the go.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,387",
-      "forks": "224",
+      "stars": "3,464",
+      "forks": "225",
       "addStars": "30",
       "contributors": [
         {
@@ -185,7 +180,7 @@
       "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,597",
+      "stars": "24,601",
       "forks": "1,820",
       "addStars": "27",
       "contributors": [
@@ -217,8 +212,8 @@
       "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,190",
-      "forks": "3,469",
+      "stars": "43,201",
+      "forks": "3,471",
       "addStars": "38",
       "contributors": [
         {
@@ -249,9 +244,9 @@
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,298",
-      "forks": "272",
-      "addStars": "120",
+      "stars": "2,337",
+      "forks": "276",
+      "addStars": "327",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/64375473?s=40&v=4",
@@ -281,8 +276,8 @@
       "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "52,295",
-      "forks": "4,703",
+      "stars": "52,342",
+      "forks": "4,734",
       "addStars": "358",
       "contributors": [
         {
@@ -318,7 +313,7 @@
       "description": "Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,227",
+      "stars": "1,246",
       "forks": "85",
       "addStars": "60",
       "contributors": [
@@ -350,8 +345,8 @@
       "description": "🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "78,881",
-      "forks": "5,895",
+      "stars": "78,930",
+      "forks": "5,897",
       "addStars": "215",
       "contributors": [
         {

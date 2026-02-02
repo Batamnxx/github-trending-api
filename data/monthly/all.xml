@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 02 Feb 2026 07:53:54 GMT</pubDate>
+    <pubDate>Mon, 02 Feb 2026 14:02:15 GMT</pubDate>
     <item>
       <title>openclaw/openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>145,951</stars>
-      <forks>21,892</forks>
+      <stars>148,748</stars>
+      <forks>22,377</forks>
       <addStars>137,138</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>95,082</stars>
-      <forks>8,892</forks>
+      <stars>95,422</stars>
+      <forks>8,928</forks>
       <addStars>49,851</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>42,101</stars>
-      <forks>3,211</forks>
+      <stars>42,362</stars>
+      <forks>3,231</forks>
       <addStars>28,517</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>60,606</stars>
-      <forks>5,930</forks>
+      <stars>60,888</stars>
+      <forks>5,960</forks>
       <addStars>29,077</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>6,154</stars>
-      <forks>595</forks>
+      <stars>6,187</stars>
+      <forks>596</forks>
       <addStars>4,852</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/VectifyAI/PageIndex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,091</stars>
-      <forks>853</forks>
+      <stars>12,279</stars>
+      <forks>868</forks>
       <addStars>7,091</addStars>
       <contributors>
         <contributor>
@@ -223,90 +223,14 @@
       </contributors>
     </item>
     <item>
-      <title>lbjlaq/Antigravity-Manager</title>
-      <link>https://github.com/lbjlaq/Antigravity-Manager</link>
-      <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
-      <guid>https://github.com/lbjlaq/Antigravity-Manager</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>20,372</stars>
-      <forks>2,329</forks>
-      <addStars>14,026</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22748003?s=40&amp;v=4</avatar>
-          <name>lbjlaq</name>
-          <url>https://github.com/lbjlaq</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50072344?s=40&amp;v=4</avatar>
-          <name>karasungur</name>
-          <url>https://github.com/karasungur</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12632895?s=40&amp;v=4</avatar>
-          <name>salacoste</name>
-          <url>https://github.com/salacoste</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/107487022?s=40&amp;v=4</avatar>
-          <name>Mag1cFall</name>
-          <url>https://github.com/Mag1cFall</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>anthropics/claude-code</title>
-      <link>https://github.com/anthropics/claude-code</link>
-      <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
-      <guid>https://github.com/anthropics/claude-code</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>63,144</stars>
-      <forks>4,751</forks>
-      <addStars>13,023</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
-          <name>actions-user</name>
-          <url>https://github.com/actions-user</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4</avatar>
-          <name>bcherny</name>
-          <url>https://github.com/bcherny</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4</avatar>
-          <name>ant-kurt</name>
-          <url>https://github.com/ant-kurt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4</avatar>
-          <name>ashwin-ant</name>
-          <url>https://github.com/ashwin-ant</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>remotion-dev/remotion</title>
       <link>https://github.com/remotion-dev/remotion</link>
       <description>🎥 Make videos programmatically with React</description>
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>34,411</stars>
-      <forks>2,077</forks>
+      <stars>34,464</stars>
+      <forks>2,084</forks>
       <addStars>9,210</addStars>
       <contributors>
         <contributor>
@@ -337,40 +261,78 @@
       </contributors>
     </item>
     <item>
-      <title>Lissy93/web-check</title>
-      <link>https://github.com/Lissy93/web-check</link>
-      <description>🕵️‍♂️ All-in-one OSINT tool for analysing any website</description>
-      <guid>https://github.com/Lissy93/web-check</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>31,645</stars>
-      <forks>2,492</forks>
-      <addStars>4,536</addStars>
+      <title>anthropics/claude-code</title>
+      <link>https://github.com/anthropics/claude-code</link>
+      <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
+      <guid>https://github.com/anthropics/claude-code</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>63,237</stars>
+      <forks>4,760</forks>
+      <addStars>13,023</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1862727?s=40&amp;v=4</avatar>
-          <name>Lissy93</name>
-          <url>https://github.com/Lissy93</url>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87835202?s=40&amp;v=4</avatar>
-          <name>liss-bot</name>
-          <url>https://github.com/liss-bot</url>
+          <avatar>https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4</avatar>
+          <name>bcherny</name>
+          <url>https://github.com/bcherny</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12436411?s=40&amp;v=4</avatar>
-          <name>tnga</name>
-          <url>https://github.com/tnga</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6374067?s=40&amp;v=4</avatar>
-          <name>ChrisCarini</name>
-          <url>https://github.com/ChrisCarini</url>
+          <avatar>https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4</avatar>
+          <name>ant-kurt</name>
+          <url>https://github.com/ant-kurt</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14150948?s=40&amp;v=4</avatar>
-          <name>n0a</name>
-          <url>https://github.com/n0a</url>
+          <avatar>https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4</avatar>
+          <name>ashwin-ant</name>
+          <url>https://github.com/ashwin-ant</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>lbjlaq/Antigravity-Manager</title>
+      <link>https://github.com/lbjlaq/Antigravity-Manager</link>
+      <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
+      <guid>https://github.com/lbjlaq/Antigravity-Manager</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>20,476</stars>
+      <forks>2,339</forks>
+      <addStars>14,026</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22748003?s=40&amp;v=4</avatar>
+          <name>lbjlaq</name>
+          <url>https://github.com/lbjlaq</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/50072344?s=40&amp;v=4</avatar>
+          <name>karasungur</name>
+          <url>https://github.com/karasungur</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12632895?s=40&amp;v=4</avatar>
+          <name>salacoste</name>
+          <url>https://github.com/salacoste</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/107487022?s=40&amp;v=4</avatar>
+          <name>Mag1cFall</name>
+          <url>https://github.com/Mag1cFall</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
       </contributors>
     </item>
@@ -381,8 +343,8 @@
       <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>29,481</stars>
-      <forks>4,751</forks>
+      <stars>29,563</stars>
+      <forks>4,762</forks>
       <addStars>4,649</addStars>
       <contributors>
         <contributor>
@@ -413,40 +375,40 @@
       </contributors>
     </item>
     <item>
-      <title>bytedance/UI-TARS-desktop</title>
-      <link>https://github.com/bytedance/UI-TARS-desktop</link>
-      <description>The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra</description>
-      <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
+      <title>Lissy93/web-check</title>
+      <link>https://github.com/Lissy93/web-check</link>
+      <description>🕵️‍♂️ All-in-one OSINT tool for analysing any website</description>
+      <guid>https://github.com/Lissy93/web-check</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,147</stars>
-      <forks>2,423</forks>
-      <addStars>4,868</addStars>
+      <stars>31,685</stars>
+      <forks>2,496</forks>
+      <addStars>4,536</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4</avatar>
-          <name>ulivz</name>
-          <url>https://github.com/ulivz</url>
+          <avatar>https://avatars.githubusercontent.com/u/1862727?s=40&amp;v=4</avatar>
+          <name>Lissy93</name>
+          <url>https://github.com/Lissy93</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4</avatar>
-          <name>ycjcl868</name>
-          <url>https://github.com/ycjcl868</url>
+          <avatar>https://avatars.githubusercontent.com/u/87835202?s=40&amp;v=4</avatar>
+          <name>liss-bot</name>
+          <url>https://github.com/liss-bot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4</avatar>
-          <name>ZhaoHeh</name>
-          <url>https://github.com/ZhaoHeh</url>
+          <avatar>https://avatars.githubusercontent.com/u/12436411?s=40&amp;v=4</avatar>
+          <name>tnga</name>
+          <url>https://github.com/tnga</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4</avatar>
-          <name>cjraft</name>
-          <url>https://github.com/cjraft</url>
+          <avatar>https://avatars.githubusercontent.com/u/6374067?s=40&amp;v=4</avatar>
+          <name>ChrisCarini</name>
+          <url>https://github.com/ChrisCarini</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4</avatar>
-          <name>skychx</name>
-          <url>https://github.com/skychx</url>
+          <avatar>https://avatars.githubusercontent.com/u/14150948?s=40&amp;v=4</avatar>
+          <name>n0a</name>
+          <url>https://github.com/n0a</url>
         </contributor>
       </contributors>
     </item>
@@ -457,8 +419,8 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,201</stars>
-      <forks>558</forks>
+      <stars>5,376</stars>
+      <forks>568</forks>
       <addStars>3,634</addStars>
       <contributors>
         <contributor>
@@ -489,73 +451,40 @@
       </contributors>
     </item>
     <item>
-      <title>virattt/dexter</title>
-      <link>https://github.com/virattt/dexter</link>
-      <description>An autonomous agent for deep financial research</description>
-      <guid>https://github.com/virattt/dexter</guid>
+      <title>bytedance/UI-TARS-desktop</title>
+      <link>https://github.com/bytedance/UI-TARS-desktop</link>
+      <description>The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra</description>
+      <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,624</stars>
-      <forks>1,171</forks>
-      <addStars>5,108</addStars>
+      <stars>25,165</stars>
+      <forks>2,428</forks>
+      <addStars>4,868</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4</avatar>
-          <name>virattt</name>
-          <url>https://github.com/virattt</url>
+          <avatar>https://avatars.githubusercontent.com/u/23133919?s=40&amp;v=4</avatar>
+          <name>ulivz</name>
+          <url>https://github.com/ulivz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4</avatar>
-          <name>gupta-8</name>
-          <url>https://github.com/gupta-8</url>
+          <avatar>https://avatars.githubusercontent.com/u/13595509?s=40&amp;v=4</avatar>
+          <name>ycjcl868</name>
+          <url>https://github.com/ycjcl868</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5778228?s=40&amp;v=4</avatar>
-          <name>sjhddh</name>
-          <url>https://github.com/sjhddh</url>
+          <avatar>https://avatars.githubusercontent.com/u/38528320?s=40&amp;v=4</avatar>
+          <name>ZhaoHeh</name>
+          <url>https://github.com/ZhaoHeh</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/218712309?s=40&amp;v=4</avatar>
-          <name>bittoby</name>
-          <url>https://github.com/bittoby</url>
+          <avatar>https://avatars.githubusercontent.com/u/13687952?s=40&amp;v=4</avatar>
+          <name>cjraft</name>
+          <url>https://github.com/cjraft</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/345155?s=40&amp;v=4</avatar>
-          <name>axyr</name>
-          <url>https://github.com/axyr</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>steveyegge/beads</title>
-      <link>https://github.com/steveyegge/beads</link>
-      <description>Beads - A memory upgrade for your coding agent</description>
-      <guid>https://github.com/steveyegge/beads</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>14,139</stars>
-      <forks>847</forks>
-      <addStars>6,789</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/613744?s=40&amp;v=4</avatar>
-          <name>steveyegge</name>
-          <url>https://github.com/steveyegge</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/220109460?s=40&amp;v=4</avatar>
-          <name>ampcode-com</name>
-          <url>https://github.com/ampcode-com</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/486200?s=40&amp;v=4</avatar>
-          <name>maphew</name>
-          <url>https://github.com/maphew</url>
+          <avatar>https://avatars.githubusercontent.com/u/24872439?s=40&amp;v=4</avatar>
+          <name>skychx</name>
+          <url>https://github.com/skychx</url>
         </contributor>
       </contributors>
     </item>
@@ -566,8 +495,8 @@
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,075</stars>
-      <forks>2,798</forks>
+      <stars>29,200</stars>
+      <forks>2,808</forks>
       <addStars>15,360</addStars>
       <contributors>
         <contributor>
@@ -598,14 +527,47 @@
       </contributors>
     </item>
     <item>
+      <title>steveyegge/beads</title>
+      <link>https://github.com/steveyegge/beads</link>
+      <description>Beads - A memory upgrade for your coding agent</description>
+      <guid>https://github.com/steveyegge/beads</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>14,222</stars>
+      <forks>854</forks>
+      <addStars>6,789</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/613744?s=40&amp;v=4</avatar>
+          <name>steveyegge</name>
+          <url>https://github.com/steveyegge</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/220109460?s=40&amp;v=4</avatar>
+          <name>ampcode-com</name>
+          <url>https://github.com/ampcode-com</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/486200?s=40&amp;v=4</avatar>
+          <name>maphew</name>
+          <url>https://github.com/maphew</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>DataTalksClub/data-engineering-zoomcamp</title>
       <link>https://github.com/DataTalksClub/data-engineering-zoomcamp</link>
       <description>Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼</description>
       <guid>https://github.com/DataTalksClub/data-engineering-zoomcamp</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>37,816</stars>
-      <forks>7,647</forks>
+      <stars>37,848</stars>
+      <forks>7,649</forks>
       <addStars>3,742</addStars>
       <contributors>
         <contributor>
@@ -632,6 +594,82 @@
           <avatar>https://avatars.githubusercontent.com/u/34094921?s=40&amp;v=4</avatar>
           <name>wrussell1999</name>
           <url>https://github.com/wrussell1999</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>virattt/dexter</title>
+      <link>https://github.com/virattt/dexter</link>
+      <description>An autonomous agent for deep financial research</description>
+      <guid>https://github.com/virattt/dexter</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>9,738</stars>
+      <forks>1,191</forks>
+      <addStars>5,108</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/901795?s=40&amp;v=4</avatar>
+          <name>virattt</name>
+          <url>https://github.com/virattt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/215169640?s=40&amp;v=4</avatar>
+          <name>gupta-8</name>
+          <url>https://github.com/gupta-8</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5778228?s=40&amp;v=4</avatar>
+          <name>sjhddh</name>
+          <url>https://github.com/sjhddh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/218712309?s=40&amp;v=4</avatar>
+          <name>bittoby</name>
+          <url>https://github.com/bittoby</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/345155?s=40&amp;v=4</avatar>
+          <name>axyr</name>
+          <url>https://github.com/axyr</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>microsoft/BitNet</title>
+      <link>https://github.com/microsoft/BitNet</link>
+      <description>Official inference framework for 1-bit LLMs</description>
+      <guid>https://github.com/microsoft/BitNet</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>27,605</stars>
+      <forks>2,238</forks>
+      <addStars>3,111</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54800242?s=40&amp;v=4</avatar>
+          <name>potassiummmm</name>
+          <url>https://github.com/potassiummmm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/49240599?s=40&amp;v=4</avatar>
+          <name>younesbelkada</name>
+          <url>https://github.com/younesbelkada</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/84831885?s=40&amp;v=4</avatar>
+          <name>tsong-ms</name>
+          <url>https://github.com/tsong-ms</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23658399?s=40&amp;v=4</avatar>
+          <name>dawnmsg</name>
+          <url>https://github.com/dawnmsg</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59006636?s=40&amp;v=4</avatar>
+          <name>sd983527</name>
+          <url>https://github.com/sd983527</url>
         </contributor>
       </contributors>
     </item>

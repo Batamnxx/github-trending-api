@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Feb 2026 03:43:38 GMT",
+  "pubDate": "Mon, 02 Feb 2026 07:53:54 GMT",
   "items": [
     {
       "title": "xenodium/agent-shell",
@@ -10,7 +10,7 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "613",
+      "stars": "614",
       "forks": "78",
       "addStars": "9",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "4,924",
+      "stars": "4,925",
       "forks": "1,353",
       "addStars": "4",
       "contributors": [

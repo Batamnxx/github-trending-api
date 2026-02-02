@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Sun, 01 Feb 2026 19:29:20 GMT</pubDate>
+    <pubDate>Mon, 02 Feb 2026 03:43:38 GMT</pubDate>
     <item>
       <title>openclaw/openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>140,372</stars>
-      <forks>20,774</forks>
-      <addStars>11,134</addStars>
+      <stars>143,936</stars>
+      <forks>21,533</forks>
+      <addStars>10,794</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/pedramamini/Maestro</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>900</stars>
-      <forks>114</forks>
-      <addStars>69</addStars>
+      <stars>1,032</stars>
+      <forks>125</forks>
+      <addStars>49</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1253573?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,775</stars>
-      <forks>521</forks>
-      <addStars>565</addStars>
+      <stars>5,063</stars>
+      <forks>546</forks>
+      <addStars>613</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/514052?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,009</stars>
-      <forks>1,122</forks>
-      <addStars>171</addStars>
+      <stars>16,610</stars>
+      <forks>1,157</forks>
+      <addStars>196</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4</avatar>
@@ -148,9 +148,9 @@
       <guid>https://github.com/amantus-ai/vibetunnel</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,464</stars>
-      <forks>225</forks>
-      <addStars>30</addStars>
+      <stars>3,589</stars>
+      <forks>234</forks>
+      <addStars>43</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4</avatar>
@@ -186,9 +186,9 @@
       <guid>https://github.com/onlook-dev/onlook</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,601</stars>
+      <stars>24,602</stars>
       <forks>1,820</forks>
-      <addStars>27</addStars>
+      <addStars>24</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/31864905?s=40&amp;v=4</avatar>
@@ -219,9 +219,9 @@
       <guid>https://github.com/AykutSarac/jsoncrack.com</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>43,201</stars>
+      <stars>43,212</stars>
       <forks>3,471</forks>
-      <addStars>38</addStars>
+      <addStars>40</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47941171?s=40&amp;v=4</avatar>
@@ -252,9 +252,9 @@
       <guid>https://github.com/reconurge/flowsint</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,337</stars>
-      <forks>276</forks>
-      <addStars>327</addStars>
+      <stars>2,374</stars>
+      <forks>278</forks>
+      <addStars>325</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/64375473?s=40&amp;v=4</avatar>
@@ -285,9 +285,9 @@
       <guid>https://github.com/daytonaio/daytona</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>52,342</stars>
-      <forks>4,734</forks>
-      <addStars>358</addStars>
+      <stars>52,351</stars>
+      <forks>4,748</forks>
+      <addStars>341</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/26512078?s=40&amp;v=4</avatar>
@@ -323,9 +323,9 @@
       <guid>https://github.com/steipete/mcporter</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,246</stars>
-      <forks>85</forks>
-      <addStars>60</addStars>
+      <stars>1,266</stars>
+      <forks>87</forks>
+      <addStars>61</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4</avatar>
@@ -356,9 +356,9 @@
       <guid>https://github.com/firecrawl/firecrawl</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>78,930</stars>
-      <forks>5,897</forks>
-      <addStars>215</addStars>
+      <stars>78,993</stars>
+      <forks>5,899</forks>
+      <addStars>233</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20311743?s=40&amp;v=4</avatar>

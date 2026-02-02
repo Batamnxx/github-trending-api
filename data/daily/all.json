@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 01 Feb 2026 19:29:20 GMT",
+  "pubDate": "Mon, 02 Feb 2026 03:43:38 GMT",
   "items": [
     {
       "title": "openclaw/openclaw",
@@ -10,9 +10,9 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "140,293",
-      "forks": "20,753",
-      "addStars": "11,134",
+      "stars": "143,763",
+      "forks": "21,512",
+      "addStars": "10,794",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,678",
-      "forks": "117",
-      "addStars": "791",
+      "stars": "2,785",
+      "forks": "123",
+      "addStars": "781",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4458174?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Agent Orchestration Command Center",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "899",
-      "forks": "114",
-      "addStars": "69",
+      "stars": "1,025",
+      "forks": "125",
+      "addStars": "49",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1253573?s=40&v=4",
@@ -107,11 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/411161?s=40&v=4",
-          "name": "oliveiraantoniocc",
-          "url": "https://github.com/oliveiraantoniocc"
         }
       ]
     },
@@ -121,9 +116,9 @@
       "description": "The official source code repository for the calibre ebook manager",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,593",
-      "forks": "2,534",
-      "addStars": "21",
+      "stars": "23,661",
+      "forks": "2,538",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1308621?s=40&v=4",
@@ -158,9 +153,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,766",
-      "forks": "520",
-      "addStars": "565",
+      "stars": "5,056",
+      "forks": "544",
+      "addStars": "613",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
@@ -195,9 +190,9 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,999",
-      "forks": "1,122",
-      "addStars": "171",
+      "stars": "16,586",
+      "forks": "1,156",
+      "addStars": "196",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
@@ -222,9 +217,9 @@
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,887",
-      "forks": "1,064",
-      "addStars": "399",
+      "stars": "13,009",
+      "forks": "1,071",
+      "addStars": "406",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -254,9 +249,9 @@
       "description": "Turn any browser into your terminal & command your agents on the go.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,459",
-      "forks": "225",
-      "addStars": "30",
+      "stars": "3,582",
+      "forks": "234",
+      "addStars": "43",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
@@ -291,9 +286,9 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "3,814",
-      "forks": "255",
-      "addStars": "143",
+      "stars": "3,987",
+      "forks": "262",
+      "addStars": "99",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
@@ -328,9 +323,9 @@
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,186",
-      "forks": "126",
-      "addStars": "42",
+      "stars": "4,289",
+      "forks": "127",
+      "addStars": "61",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10510431?s=40&v=4",
@@ -355,9 +350,9 @@
       "description": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,655",
-      "forks": "132",
-      "addStars": "25",
+      "stars": "1,781",
+      "forks": "135",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/93365573?s=40&v=4",

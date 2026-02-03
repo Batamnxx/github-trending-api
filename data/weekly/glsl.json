@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Weekly Trending",
   "description": "Weekly Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Feb 2026 07:46:34 GMT",
+  "pubDate": "Tue, 03 Feb 2026 14:04:45 GMT",
   "items": [
     {
       "title": "Richasy/Bili.Copilot",
@@ -42,43 +42,6 @@
       ]
     },
     {
-      "title": "SaschaWillems/Vulkan",
-      "url": "https://github.com/SaschaWillems/Vulkan",
-      "description": "C++ examples for the Vulkan graphics API",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": "11,716",
-      "forks": "2,190",
-      "addStars": "24",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10283127?s=40&v=4",
-          "name": "SaschaWillems",
-          "url": "https://github.com/SaschaWillems"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/82544213?s=40&v=4",
-          "name": "SRSaunders",
-          "url": "https://github.com/SRSaunders"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6560476?s=40&v=4",
-          "name": "Gadgeteering",
-          "url": "https://github.com/Gadgeteering"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11505236?s=40&v=4",
-          "name": "ben-clayton",
-          "url": "https://github.com/ben-clayton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43107451?s=40&v=4",
-          "name": "robotchaoX",
-          "url": "https://github.com/robotchaoX"
-        }
-      ]
-    },
-    {
       "title": "sphynx-owner/JFA_driven_motion_blur_addon",
       "url": "https://github.com/sphynx-owner/JFA_driven_motion_blur_addon",
       "description": "an addon containing a jump flood algorithm driven motion blur compositor effect for Godot 4.3 beta",
@@ -101,39 +64,39 @@
       ]
     },
     {
-      "title": "0xhckr/ghostty-shaders",
-      "url": "https://github.com/0xhckr/ghostty-shaders",
-      "description": "A repository containing many free shaders to use with ghostty (the terminal)",
+      "title": "patriciogonzalezvivo/thebookofshaders",
+      "url": "https://github.com/patriciogonzalezvivo/thebookofshaders",
+      "description": "Step-by-step guide through the abstract and complex universe of Fragment Shaders.",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "1,066",
-      "forks": "68",
-      "addStars": "14",
+      "stars": "6,741",
+      "forks": "739",
+      "addStars": "16",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5733032?s=40&v=4",
-          "name": "0xhckr",
-          "url": "https://github.com/0xhckr"
+          "avatar": "https://avatars.githubusercontent.com/u/346914?s=40&v=4",
+          "name": "patriciogonzalezvivo",
+          "url": "https://github.com/patriciogonzalezvivo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1410995?s=40&v=4",
-          "name": "Fjodor42",
-          "url": "https://github.com/Fjodor42"
+          "avatar": "https://avatars.githubusercontent.com/u/3006211?s=40&v=4",
+          "name": "kynd",
+          "url": "https://github.com/kynd"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2175618?s=40&v=4",
-          "name": "alex-sherwin",
-          "url": "https://github.com/alex-sherwin"
+          "avatar": "https://avatars.githubusercontent.com/u/705213?s=40&v=4",
+          "name": "yvan-sraka",
+          "url": "https://github.com/yvan-sraka"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2520322?s=40&v=4",
-          "name": "rymdlego",
-          "url": "https://github.com/rymdlego"
+          "avatar": "https://avatars.githubusercontent.com/u/7892332?s=40&v=4",
+          "name": "sergeyext",
+          "url": "https://github.com/sergeyext"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32750711?s=40&v=4",
-          "name": "sarphiv",
-          "url": "https://github.com/sarphiv"
+          "avatar": "https://avatars.githubusercontent.com/u/22910148?s=40&v=4",
+          "name": "MITI67",
+          "url": "https://github.com/MITI67"
         }
       ]
     },
@@ -175,12 +138,86 @@
       ]
     },
     {
+      "title": "SaschaWillems/Vulkan",
+      "url": "https://github.com/SaschaWillems/Vulkan",
+      "description": "C++ examples for the Vulkan graphics API",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": "11,716",
+      "forks": "2,190",
+      "addStars": "24",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10283127?s=40&v=4",
+          "name": "SaschaWillems",
+          "url": "https://github.com/SaschaWillems"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82544213?s=40&v=4",
+          "name": "SRSaunders",
+          "url": "https://github.com/SRSaunders"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6560476?s=40&v=4",
+          "name": "Gadgeteering",
+          "url": "https://github.com/Gadgeteering"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11505236?s=40&v=4",
+          "name": "ben-clayton",
+          "url": "https://github.com/ben-clayton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43107451?s=40&v=4",
+          "name": "robotchaoX",
+          "url": "https://github.com/robotchaoX"
+        }
+      ]
+    },
+    {
+      "title": "0xhckr/ghostty-shaders",
+      "url": "https://github.com/0xhckr/ghostty-shaders",
+      "description": "A repository containing many free shaders to use with ghostty (the terminal)",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": "1,066",
+      "forks": "68",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5733032?s=40&v=4",
+          "name": "0xhckr",
+          "url": "https://github.com/0xhckr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1410995?s=40&v=4",
+          "name": "Fjodor42",
+          "url": "https://github.com/Fjodor42"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2175618?s=40&v=4",
+          "name": "alex-sherwin",
+          "url": "https://github.com/alex-sherwin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2520322?s=40&v=4",
+          "name": "rymdlego",
+          "url": "https://github.com/rymdlego"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32750711?s=40&v=4",
+          "name": "sarphiv",
+          "url": "https://github.com/sarphiv"
+        }
+      ]
+    },
+    {
       "title": "dyphire/mpv-config",
       "url": "https://github.com/dyphire/mpv-config",
       "description": "本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "1,530",
+      "stars": "1,531",
       "forks": "74",
       "addStars": "14",
       "contributors": [
@@ -193,75 +230,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/45035465?s=40&v=4",
           "name": "verygoodlee",
           "url": "https://github.com/verygoodlee"
-        }
-      ]
-    },
-    {
-      "title": "HaringPro/Revelation",
-      "url": "https://github.com/HaringPro/Revelation",
-      "description": "An explorative shaderpack for Minecraft: Java Edition",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": "460",
-      "forks": "23",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/132074996?s=40&v=4",
-          "name": "HaringPro",
-          "url": "https://github.com/HaringPro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61894804?s=40&v=4",
-          "name": "moyongxin",
-          "url": "https://github.com/moyongxin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17513581?s=40&v=4",
-          "name": "PhyX-Meow",
-          "url": "https://github.com/PhyX-Meow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106010631?s=40&v=4",
-          "name": "rrtt217",
-          "url": "https://github.com/rrtt217"
-        }
-      ]
-    },
-    {
-      "title": "patriciogonzalezvivo/thebookofshaders",
-      "url": "https://github.com/patriciogonzalezvivo/thebookofshaders",
-      "description": "Step-by-step guide through the abstract and complex universe of Fragment Shaders.",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": "6,740",
-      "forks": "739",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/346914?s=40&v=4",
-          "name": "patriciogonzalezvivo",
-          "url": "https://github.com/patriciogonzalezvivo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3006211?s=40&v=4",
-          "name": "kynd",
-          "url": "https://github.com/kynd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/705213?s=40&v=4",
-          "name": "yvan-sraka",
-          "url": "https://github.com/yvan-sraka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7892332?s=40&v=4",
-          "name": "sergeyext",
-          "url": "https://github.com/sergeyext"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22910148?s=40&v=4",
-          "name": "MITI67",
-          "url": "https://github.com/MITI67"
         }
       ]
     },
@@ -299,6 +267,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/109946006?s=40&v=4",
           "name": "NekoNoct",
           "url": "https://github.com/NekoNoct"
+        }
+      ]
+    },
+    {
+      "title": "HaringPro/Revelation",
+      "url": "https://github.com/HaringPro/Revelation",
+      "description": "An explorative shaderpack for Minecraft: Java Edition",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": "460",
+      "forks": "23",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/132074996?s=40&v=4",
+          "name": "HaringPro",
+          "url": "https://github.com/HaringPro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61894804?s=40&v=4",
+          "name": "moyongxin",
+          "url": "https://github.com/moyongxin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17513581?s=40&v=4",
+          "name": "PhyX-Meow",
+          "url": "https://github.com/PhyX-Meow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106010631?s=40&v=4",
+          "name": "rrtt217",
+          "url": "https://github.com/rrtt217"
         }
       ]
     }

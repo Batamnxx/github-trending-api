@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Monthly Trending",
   "description": "Monthly Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Feb 2026 03:37:15 GMT",
+  "pubDate": "Tue, 03 Feb 2026 07:46:34 GMT",
   "items": [
     {
       "title": "microsoft/vcpkg",
@@ -11,7 +11,7 @@
       "language": "CMake",
       "languageColor": "#DA3434",
       "stars": "26,566",
-      "forks": "7,331",
+      "forks": "7,330",
       "addStars": "234",
       "contributors": [
         {
@@ -232,7 +232,7 @@
       "description": "The Core Flight System (cFS)",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,159",
+      "stars": "1,160",
       "forks": "323",
       "addStars": "41",
       "contributors": [

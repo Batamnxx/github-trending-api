@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Feb 2026 14:02:15 GMT",
+  "pubDate": "Tue, 03 Feb 2026 03:37:15 GMT",
   "items": [
     {
       "title": "twbs/bootstrap",
@@ -10,9 +10,9 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "173,978",
-      "forks": "79,136",
-      "addStars": "6",
+      "stars": "173,975",
+      "forks": "79,135",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/98681?s=40&v=4",
@@ -43,7 +43,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "80",
-      "forks": "35",
+      "forks": "36",
       "addStars": "0",
       "contributors": [
         {
@@ -79,9 +79,9 @@
       "description": "A curated collection of automation blueprints for Home Assistant.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,334",
+      "stars": "1,335",
       "forks": "338",
-      "addStars": "5",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30753195?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Astro documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,585",
-      "forks": "1,795",
-      "addStars": "1",
+      "stars": "1,586",
+      "forks": "1,798",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/61414485?s=40&v=4",
@@ -150,7 +150,7 @@
       "languageColor": "#fcb32c",
       "stars": "420",
       "forks": "290",
-      "addStars": "1",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1867900?s=40&v=4",
@@ -180,7 +180,7 @@
       "description": "🦜🔗 Docs for LangChain projects",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "220",
+      "stars": "221",
       "forks": "1,796",
       "addStars": "4",
       "contributors": [
@@ -217,9 +217,9 @@
       "description": "📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "37,563",
+      "stars": "37,575",
       "forks": "3,189",
-      "addStars": "21",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1016365?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "25,096",
-      "forks": "1,763",
-      "addStars": "15",
+      "stars": "25,101",
+      "forks": "1,764",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17179696?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "69,855",
-      "forks": "7,458",
-      "addStars": "40",
+      "stars": "69,875",
+      "forks": "7,461",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7049564?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "LotL RMM",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "287",
-      "forks": "61",
-      "addStars": "0",
+      "stars": "288",
+      "forks": "62",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5632822?s=40&v=4",
@@ -398,7 +398,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "57",
-      "forks": "360",
+      "forks": "362",
       "addStars": "0",
       "contributors": [
         {
@@ -467,8 +467,8 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "4,352",
-      "forks": "11,880",
-      "addStars": "4",
+      "forks": "11,890",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/680496?s=40&v=4",

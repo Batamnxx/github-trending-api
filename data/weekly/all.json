@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Feb 2026 14:04:45 GMT",
+  "pubDate": "Tue, 03 Feb 2026 19:46:54 GMT",
   "items": [
     {
       "title": "openclaw/openclaw",
@@ -10,8 +10,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "155,777",
-      "forks": "23,998",
+      "stars": "157,003",
+      "forks": "24,287",
       "addStars": "113,224",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "29,816",
-      "forks": "4,800",
+      "stars": "29,864",
+      "forks": "4,806",
       "addStars": "4,296",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,833",
+      "stars": "5,855",
       "forks": "537",
       "addStars": "1,776",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,969",
-      "forks": "623",
+      "stars": "6,118",
+      "forks": "638",
       "addStars": "3,032",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,290",
-      "forks": "144",
+      "stars": "1,300",
+      "forks": "145",
       "addStars": "835",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,114",
-      "forks": "134",
+      "stars": "3,148",
+      "forks": "140",
       "addStars": "1,819",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "27,695",
-      "forks": "2,252",
+      "stars": "27,709",
+      "forks": "2,253",
       "addStars": "1,801",
       "contributors": [
         {
@@ -247,14 +247,14 @@
           "url": "https://github.com/tsong-ms"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/178687198?s=40&v=4",
-          "name": "XsquirrelC",
-          "url": "https://github.com/XsquirrelC"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/23658399?s=40&v=4",
           "name": "dawnmsg",
           "url": "https://github.com/dawnmsg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59006636?s=40&v=4",
+          "name": "sd983527",
+          "url": "https://github.com/sd983527"
         }
       ]
     },
@@ -264,8 +264,8 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,234",
-      "forks": "527",
+      "stars": "7,295",
+      "forks": "535",
       "addStars": "2,084",
       "contributors": [
         {
@@ -296,8 +296,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,828",
-      "forks": "920",
+      "stars": "12,892",
+      "forks": "931",
       "addStars": "2,794",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,786",
+      "stars": "1,802",
       "forks": "102",
       "addStars": "461",
       "contributors": [
@@ -350,8 +350,8 @@
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,531",
-      "forks": "1,129",
+      "stars": "13,640",
+      "forks": "1,139",
       "addStars": "1,498",
       "contributors": [
         {
@@ -382,8 +382,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,142",
-      "forks": "1,310",
+      "stars": "19,842",
+      "forks": "1,347",
       "addStars": "3,586",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Feb 2026 14:04:45 GMT",
+  "pubDate": "Tue, 03 Feb 2026 19:46:54 GMT",
   "items": [
     {
       "title": "openclaw/openclaw",
@@ -10,8 +10,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "155,855",
-      "forks": "24,019",
+      "stars": "157,054",
+      "forks": "24,299",
       "addStars": "113,224",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,974",
-      "forks": "625",
+      "stars": "6,124",
+      "forks": "638",
       "addStars": "3,032",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,291",
-      "forks": "144",
+      "stars": "1,301",
+      "forks": "145",
       "addStars": "835",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,191",
-      "forks": "1,311",
+      "stars": "19,868",
+      "forks": "1,348",
       "addStars": "3,586",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Agent Orchestration Command Center",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,417",
-      "forks": "151",
+      "stars": "1,465",
+      "forks": "154",
       "addStars": "469",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Antigravity Manager is a powerful Electron-based application designed to manage accounts and processes for the Antigravity application. It provides a seamless interface for switching accounts, backing up progress, and controlling the application lifecycle.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "614",
-      "forks": "82",
+      "stars": "620",
+      "forks": "83",
       "addStars": "252",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "34,701",
-      "forks": "2,100",
+      "stars": "34,743",
+      "forks": "2,105",
       "addStars": "3,050",
       "contributors": [
         {
@@ -259,7 +259,7 @@
       "description": "Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,333",
+      "stars": "1,348",
       "forks": "94",
       "addStars": "267",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "Turn any browser into your terminal & command your agents on the go.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,733",
+      "stars": "3,740",
       "forks": "246",
       "addStars": "553",
       "contributors": [
@@ -328,7 +328,7 @@
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "71,874",
+      "stars": "71,886",
       "forks": "14,592",
       "addStars": "1,405",
       "contributors": [
@@ -366,7 +366,7 @@
       "language": "TypeScript",
       "languageColor": "#3178c6",
       "stars": "187",
-      "forks": "71",
+      "forks": "70",
       "addStars": "60",
       "contributors": [
         {
@@ -402,7 +402,7 @@
       "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "44,570",
+      "stars": "44,604",
       "forks": "2,133",
       "addStars": "906",
       "contributors": [
@@ -434,8 +434,8 @@
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,883",
-      "forks": "1,898",
+      "stars": "14,896",
+      "forks": "1,900",
       "addStars": "379",
       "contributors": [
         {
@@ -471,8 +471,8 @@
       "description": "IsoCity: City building simulation game.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,946",
-      "forks": "190",
+      "stars": "1,951",
+      "forks": "192",
       "addStars": "333",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,452",
-      "forks": "289",
+      "stars": "2,459",
+      "forks": "290",
       "addStars": "771",
       "contributors": [
         {
@@ -540,7 +540,7 @@
       "description": "A self-hosted solution to streamline and organize all aspects of your life.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,396",
+      "stars": "1,399",
       "forks": "104",
       "addStars": "253",
       "contributors": [
@@ -577,8 +577,8 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,212",
-      "forks": "1,629",
+      "stars": "16,215",
+      "forks": "1,630",
       "addStars": "1,225",
       "contributors": [
         {

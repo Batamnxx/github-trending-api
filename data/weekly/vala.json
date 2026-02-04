@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Weekly Trending",
   "description": "Weekly Trending of Vala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 04 Feb 2026 14:02:45 GMT",
+  "pubDate": "Wed, 04 Feb 2026 19:40:40 GMT",
   "items": [
     {
       "title": "Vysp3r/ProtonPlus",
@@ -84,7 +84,7 @@
       "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "4,935",
+      "stars": "4,936",
       "forks": "289",
       "addStars": "25",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "3,824",
+      "stars": "3,825",
       "forks": "137",
       "addStars": "30",
       "contributors": [
@@ -159,7 +159,7 @@
       "language": "Vala",
       "languageColor": "#a56de2",
       "stars": "3,696",
-      "forks": "257",
+      "forks": "258",
       "addStars": "7",
       "contributors": [
         {

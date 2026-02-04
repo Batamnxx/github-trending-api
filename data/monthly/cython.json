@@ -2,7 +2,7 @@
   "title": "GitHub Cython Languages Monthly Trending",
   "description": "Monthly Trending of Cython Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 04 Feb 2026 03:34:19 GMT",
+  "pubDate": "Wed, 04 Feb 2026 07:48:29 GMT",
   "items": [
     {
       "title": "cython/cython",
@@ -10,7 +10,7 @@
       "description": "The most widely used Python to C compiler",
       "language": "Cython",
       "languageColor": "#fedf5b",
-      "stars": "10,598",
+      "stars": "10,599",
       "forks": "1,608",
       "addStars": "67",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "CUDA Python: Performance meets Productivity",
       "language": "Cython",
       "languageColor": "#fedf5b",
-      "stars": "3,153",
+      "stars": "3,154",
       "forks": "243",
       "addStars": "41",
       "contributors": [

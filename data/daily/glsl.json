@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 05 Feb 2026 14:05:14 GMT",
+  "pubDate": "Thu, 05 Feb 2026 19:39:39 GMT",
   "items": [
     {
       "title": "SaschaWillems/Vulkan",
@@ -84,7 +84,7 @@
       "description": "Step-by-step guide through the abstract and complex universe of Fragment Shaders.",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "6,748",
+      "stars": "6,749",
       "forks": "739",
       "addStars": "2",
       "contributors": [
@@ -196,7 +196,7 @@
       "language": "GLSL",
       "languageColor": "#5686a5",
       "stars": "2,359",
-      "forks": "632",
+      "forks": "633",
       "addStars": "1",
       "contributors": [
         {
@@ -232,7 +232,7 @@
       "description": "This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "1,137",
+      "stars": "1,138",
       "forks": "239",
       "addStars": "1",
       "contributors": [

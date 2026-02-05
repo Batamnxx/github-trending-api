@@ -3,7 +3,7 @@
     <title>GitHub Erlang Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Erlang Languages in GitHub</description>
-    <pubDate>Thu, 05 Feb 2026 14:05:14 GMT</pubDate>
+    <pubDate>Thu, 05 Feb 2026 19:39:39 GMT</pubDate>
     <item>
       <title>emqx/emqx</title>
       <link>https://github.com/emqx/emqx</link>
@@ -391,7 +391,7 @@
       <guid>https://github.com/erlang/rebar3</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>1,790</stars>
+      <stars>1,791</stars>
       <forks>523</forks>
       <addStars>4</addStars>
       <contributors>

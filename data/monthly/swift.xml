@@ -3,7 +3,7 @@
     <title>GitHub Swift Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Swift Languages in GitHub</description>
-    <pubDate>Thu, 05 Feb 2026 07:51:35 GMT</pubDate>
+    <pubDate>Thu, 05 Feb 2026 14:05:14 GMT</pubDate>
     <item>
       <title>steipete/CodexBar</title>
       <link>https://github.com/steipete/CodexBar</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/steipete/CodexBar</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>4,570</stars>
-      <forks>299</forks>
+      <stars>4,606</stars>
+      <forks>301</forks>
       <addStars>3,222</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/permissionlesstech/bitchat</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>24,974</stars>
+      <stars>24,975</stars>
       <forks>2,330</forks>
       <addStars>1,319</addStars>
       <contributors>
@@ -87,7 +87,7 @@
       <guid>https://github.com/Beingpax/VoiceInk</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>3,569</stars>
+      <stars>3,572</stars>
       <forks>445</forks>
       <addStars>543</addStars>
       <contributors>
@@ -114,13 +114,79 @@
       </contributors>
     </item>
     <item>
+      <title>steipete/Peekaboo</title>
+      <link>https://github.com/steipete/Peekaboo</link>
+      <description>Peekaboo is a macOS CLI &amp; optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.</description>
+      <guid>https://github.com/steipete/Peekaboo</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>1,876</stars>
+      <forks>107</forks>
+      <addStars>874</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4</avatar>
+          <name>steipete</name>
+          <url>https://github.com/steipete</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7475?s=40&amp;v=4</avatar>
+          <name>MSch</name>
+          <url>https://github.com/MSch</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>steipete/imsg</title>
+      <link>https://github.com/steipete/imsg</link>
+      <description>CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.</description>
+      <guid>https://github.com/steipete/imsg</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>537</stars>
+      <forks>54</forks>
+      <addStars>377</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4</avatar>
+          <name>steipete</name>
+          <url>https://github.com/steipete</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/129705?s=40&amp;v=4</avatar>
+          <name>antons</name>
+          <url>https://github.com/antons</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2165523?s=40&amp;v=4</avatar>
+          <name>tommybananas</name>
+          <url>https://github.com/tommybananas</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6403966?s=40&amp;v=4</avatar>
+          <name>zackleman</name>
+          <url>https://github.com/zackleman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>apple/container</title>
       <link>https://github.com/apple/container</link>
       <description>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.</description>
       <guid>https://github.com/apple/container</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>24,038</stars>
+      <stars>24,046</stars>
       <forks>625</forks>
       <addStars>983</addStars>
       <contributors>
@@ -158,7 +224,7 @@
       <guid>https://github.com/Ranchero-Software/NetNewsWire</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>9,580</stars>
+      <stars>9,583</stars>
       <forks>637</forks>
       <addStars>164</addStars>
       <contributors>
@@ -190,42 +256,14 @@
       </contributors>
     </item>
     <item>
-      <title>automazeio/vibeproxy</title>
-      <link>https://github.com/automazeio/vibeproxy</link>
-      <description>Native macOS menu bar app to use your Claude Code &amp; ChatGPT subscriptions with AI coding tools - no API keys needed</description>
-      <guid>https://github.com/automazeio/vibeproxy</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>1,219</stars>
-      <forks>78</forks>
-      <addStars>448</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1185458?s=40&amp;v=4</avatar>
-          <name>ranaroussi</name>
-          <url>https://github.com/ranaroussi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59279509?s=40&amp;v=4</avatar>
-          <name>devatnull</name>
-          <url>https://github.com/devatnull</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13633271?s=40&amp;v=4</avatar>
-          <name>jsj</name>
-          <url>https://github.com/jsj</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>lwouis/alt-tab-macos</title>
       <link>https://github.com/lwouis/alt-tab-macos</link>
       <description>Windows alt-tab on macOS</description>
       <guid>https://github.com/lwouis/alt-tab-macos</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>14,620</stars>
-      <forks>477</forks>
+      <stars>14,622</stars>
+      <forks>478</forks>
       <addStars>501</addStars>
       <contributors>
         <contributor>
@@ -252,6 +290,148 @@
           <avatar>https://avatars.githubusercontent.com/u/13162840?s=40&amp;v=4</avatar>
           <name>gingerr</name>
           <url>https://github.com/gingerr</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>argmaxinc/WhisperKit</title>
+      <link>https://github.com/argmaxinc/WhisperKit</link>
+      <description>On-device Speech Recognition for Apple Silicon</description>
+      <guid>https://github.com/argmaxinc/WhisperKit</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>5,574</stars>
+      <forks>500</forks>
+      <addStars>186</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1981179?s=40&amp;v=4</avatar>
+          <name>ZachNagengast</name>
+          <url>https://github.com/ZachNagengast</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8284016?s=40&amp;v=4</avatar>
+          <name>finnvoor</name>
+          <url>https://github.com/finnvoor</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15901479?s=40&amp;v=4</avatar>
+          <name>a2they</name>
+          <url>https://github.com/a2they</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64497909?s=40&amp;v=4</avatar>
+          <name>atiorh</name>
+          <url>https://github.com/atiorh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/209840868?s=40&amp;v=4</avatar>
+          <name>chen-argmax</name>
+          <url>https://github.com/chen-argmax</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Alamofire/Alamofire</title>
+      <link>https://github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+      <guid>https://github.com/Alamofire/Alamofire</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>42,336</stars>
+      <forks>7,668</forks>
+      <addStars>84</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/169110?s=40&amp;v=4</avatar>
+          <name>cnoon</name>
+          <url>https://github.com/cnoon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/51020?s=40&amp;v=4</avatar>
+          <name>jshier</name>
+          <url>https://github.com/jshier</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7659?s=40&amp;v=4</avatar>
+          <name>mattt</name>
+          <url>https://github.com/mattt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/44164?s=40&amp;v=4</avatar>
+          <name>kylef</name>
+          <url>https://github.com/kylef</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/198768?s=40&amp;v=4</avatar>
+          <name>kcharwood</name>
+          <url>https://github.com/kcharwood</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>automazeio/vibeproxy</title>
+      <link>https://github.com/automazeio/vibeproxy</link>
+      <description>Native macOS menu bar app to use your Claude Code &amp; ChatGPT subscriptions with AI coding tools - no API keys needed</description>
+      <guid>https://github.com/automazeio/vibeproxy</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>1,221</stars>
+      <forks>78</forks>
+      <addStars>448</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1185458?s=40&amp;v=4</avatar>
+          <name>ranaroussi</name>
+          <url>https://github.com/ranaroussi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59279509?s=40&amp;v=4</avatar>
+          <name>devatnull</name>
+          <url>https://github.com/devatnull</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13633271?s=40&amp;v=4</avatar>
+          <name>jsj</name>
+          <url>https://github.com/jsj</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>groue/GRDB.swift</title>
+      <link>https://github.com/groue/GRDB.swift</link>
+      <description>A toolkit for SQLite databases, with a focus on application development</description>
+      <guid>https://github.com/groue/GRDB.swift</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>8,166</stars>
+      <forks>840</forks>
+      <addStars>102</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54219?s=40&amp;v=4</avatar>
+          <name>groue</name>
+          <url>https://github.com/groue</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/27460?s=40&amp;v=4</avatar>
+          <name>pakko972</name>
+          <url>https://github.com/pakko972</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18540905?s=40&amp;v=4</avatar>
+          <name>swiftlyfalling</name>
+          <url>https://github.com/swiftlyfalling</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1203835?s=40&amp;v=4</avatar>
+          <name>sobri909</name>
+          <url>https://github.com/sobri909</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/833693?s=40&amp;v=4</avatar>
+          <name>mallman</name>
+          <url>https://github.com/mallman</url>
         </contributor>
       </contributors>
     </item>
@@ -294,149 +474,40 @@
       </contributors>
     </item>
     <item>
-      <title>argmaxinc/WhisperKit</title>
-      <link>https://github.com/argmaxinc/WhisperKit</link>
-      <description>On-device Speech Recognition for Apple Silicon</description>
-      <guid>https://github.com/argmaxinc/WhisperKit</guid>
+      <title>ReactiveX/RxSwift</title>
+      <link>https://github.com/ReactiveX/RxSwift</link>
+      <description>Reactive Programming in Swift</description>
+      <guid>https://github.com/ReactiveX/RxSwift</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>5,573</stars>
-      <forks>500</forks>
-      <addStars>186</addStars>
+      <stars>24,682</stars>
+      <forks>4,176</forks>
+      <addStars>29</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1981179?s=40&amp;v=4</avatar>
-          <name>ZachNagengast</name>
-          <url>https://github.com/ZachNagengast</url>
+          <avatar>https://avatars.githubusercontent.com/u/1641148?s=40&amp;v=4</avatar>
+          <name>kzaher</name>
+          <url>https://github.com/kzaher</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8284016?s=40&amp;v=4</avatar>
-          <name>finnvoor</name>
-          <url>https://github.com/finnvoor</url>
+          <avatar>https://avatars.githubusercontent.com/u/605076?s=40&amp;v=4</avatar>
+          <name>freak4pc</name>
+          <url>https://github.com/freak4pc</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15901479?s=40&amp;v=4</avatar>
-          <name>a2they</name>
-          <url>https://github.com/a2they</url>
+          <avatar>https://avatars.githubusercontent.com/u/4622322?s=40&amp;v=4</avatar>
+          <name>sergdort</name>
+          <url>https://github.com/sergdort</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64497909?s=40&amp;v=4</avatar>
-          <name>atiorh</name>
-          <url>https://github.com/atiorh</url>
+          <avatar>https://avatars.githubusercontent.com/u/5250?s=40&amp;v=4</avatar>
+          <name>yury</name>
+          <url>https://github.com/yury</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/209840868?s=40&amp;v=4</avatar>
-          <name>chen-argmax</name>
-          <url>https://github.com/chen-argmax</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Alamofire/Alamofire</title>
-      <link>https://github.com/Alamofire/Alamofire</link>
-      <description>Elegant HTTP Networking in Swift</description>
-      <guid>https://github.com/Alamofire/Alamofire</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>42,335</stars>
-      <forks>7,668</forks>
-      <addStars>84</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/169110?s=40&amp;v=4</avatar>
-          <name>cnoon</name>
-          <url>https://github.com/cnoon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51020?s=40&amp;v=4</avatar>
-          <name>jshier</name>
-          <url>https://github.com/jshier</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7659?s=40&amp;v=4</avatar>
-          <name>mattt</name>
-          <url>https://github.com/mattt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44164?s=40&amp;v=4</avatar>
-          <name>kylef</name>
-          <url>https://github.com/kylef</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/198768?s=40&amp;v=4</avatar>
-          <name>kcharwood</name>
-          <url>https://github.com/kcharwood</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Caldis/Mos</title>
-      <link>https://github.com/Caldis/Mos</link>
-      <description>一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS</description>
-      <guid>https://github.com/Caldis/Mos</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>18,611</stars>
-      <forks>590</forks>
-      <addStars>388</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3529490?s=40&amp;v=4</avatar>
-          <name>Caldis</name>
-          <url>https://github.com/Caldis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40006037?s=40&amp;v=4</avatar>
-          <name>mclvren</name>
-          <url>https://github.com/mclvren</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47898885?s=40&amp;v=4</avatar>
-          <name>lima0</name>
-          <url>https://github.com/lima0</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32717?s=40&amp;v=4</avatar>
-          <name>kant</name>
-          <url>https://github.com/kant</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>groue/GRDB.swift</title>
-      <link>https://github.com/groue/GRDB.swift</link>
-      <description>A toolkit for SQLite databases, with a focus on application development</description>
-      <guid>https://github.com/groue/GRDB.swift</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>8,166</stars>
-      <forks>840</forks>
-      <addStars>102</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54219?s=40&amp;v=4</avatar>
-          <name>groue</name>
-          <url>https://github.com/groue</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/27460?s=40&amp;v=4</avatar>
-          <name>pakko972</name>
-          <url>https://github.com/pakko972</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18540905?s=40&amp;v=4</avatar>
-          <name>swiftlyfalling</name>
-          <url>https://github.com/swiftlyfalling</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1203835?s=40&amp;v=4</avatar>
-          <name>sobri909</name>
-          <url>https://github.com/sobri909</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/833693?s=40&amp;v=4</avatar>
-          <name>mallman</name>
-          <url>https://github.com/mallman</url>
+          <avatar>https://avatars.githubusercontent.com/u/1680094?s=40&amp;v=4</avatar>
+          <name>carlosypunto</name>
+          <url>https://github.com/carlosypunto</url>
         </contributor>
       </contributors>
     </item>
@@ -485,7 +556,7 @@
       <guid>https://github.com/open-meteo/open-meteo</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>4,677</stars>
+      <stars>4,687</stars>
       <forks>304</forks>
       <addStars>646</addStars>
       <contributors>
@@ -518,7 +589,7 @@
       <guid>https://github.com/iina/iina</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>43,671</stars>
+      <stars>43,673</stars>
       <forks>2,740</forks>
       <addStars>490</addStars>
       <contributors>
@@ -550,13 +621,36 @@
       </contributors>
     </item>
     <item>
+      <title>tuist/tuist</title>
+      <link>https://github.com/tuist/tuist</link>
+      <description>A virtual platform team for mobile devs who ship</description>
+      <guid>https://github.com/tuist/tuist</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>5,503</stars>
+      <forks>691</forks>
+      <addStars>64</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9371695?s=40&amp;v=4</avatar>
+          <name>fortmarek</name>
+          <url>https://github.com/fortmarek</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/663605?s=40&amp;v=4</avatar>
+          <name>pepicrft</name>
+          <url>https://github.com/pepicrft</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>exelban/stats</title>
       <link>https://github.com/exelban/stats</link>
       <description>macOS system monitor in your menu bar</description>
       <guid>https://github.com/exelban/stats</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>36,198</stars>
+      <stars>36,211</stars>
       <forks>1,168</forks>
       <addStars>658</addStars>
       <contributors>
@@ -588,64 +682,13 @@
       </contributors>
     </item>
     <item>
-      <title>steipete/Peekaboo</title>
-      <link>https://github.com/steipete/Peekaboo</link>
-      <description>Peekaboo is a macOS CLI &amp; optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.</description>
-      <guid>https://github.com/steipete/Peekaboo</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>1,866</stars>
-      <forks>108</forks>
-      <addStars>874</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4</avatar>
-          <name>steipete</name>
-          <url>https://github.com/steipete</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7475?s=40&amp;v=4</avatar>
-          <name>MSch</name>
-          <url>https://github.com/MSch</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>tuist/tuist</title>
-      <link>https://github.com/tuist/tuist</link>
-      <description>A virtual platform team for mobile devs who ship</description>
-      <guid>https://github.com/tuist/tuist</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>5,503</stars>
-      <forks>690</forks>
-      <addStars>64</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9371695?s=40&amp;v=4</avatar>
-          <name>fortmarek</name>
-          <url>https://github.com/fortmarek</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/663605?s=40&amp;v=4</avatar>
-          <name>pepicrft</name>
-          <url>https://github.com/pepicrft</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>SnapKit/SnapKit</title>
       <link>https://github.com/SnapKit/SnapKit</link>
       <description>A Swift Autolayout DSL for iOS &amp; OS X</description>
       <guid>https://github.com/SnapKit/SnapKit</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>20,326</stars>
+      <stars>20,327</stars>
       <forks>2,045</forks>
       <addStars>20</addStars>
       <contributors>
@@ -673,44 +716,6 @@
           <avatar>https://avatars.githubusercontent.com/u/184510?s=40&amp;v=4</avatar>
           <name>bendjones</name>
           <url>https://github.com/bendjones</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>altstoreio/AltStore</title>
-      <link>https://github.com/altstoreio/AltStore</link>
-      <description>AltStore is an alternative app store for non-jailbroken iOS devices.</description>
-      <guid>https://github.com/altstoreio/AltStore</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>13,460</stars>
-      <forks>1,215</forks>
-      <addStars>142</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/705880?s=40&amp;v=4</avatar>
-          <name>rileytestut</name>
-          <url>https://github.com/rileytestut</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15572604?s=40&amp;v=4</avatar>
-          <name>caroline-moore</name>
-          <url>https://github.com/caroline-moore</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99302292?s=40&amp;v=4</avatar>
-          <name>shanegillio</name>
-          <url>https://github.com/shanegillio</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5678977?s=40&amp;v=4</avatar>
-          <name>tbodt</name>
-          <url>https://github.com/tbodt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26331126?s=40&amp;v=4</avatar>
-          <name>noah978</name>
-          <url>https://github.com/noah978</url>
         </contributor>
       </contributors>
     </item>

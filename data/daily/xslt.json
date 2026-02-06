@@ -2,7 +2,7 @@
   "title": "GitHub Xslt Languages Daily Trending",
   "description": "Daily Trending of Xslt Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 05 Feb 2026 19:39:39 GMT",
+  "pubDate": "Fri, 06 Feb 2026 03:34:02 GMT",
   "items": [
     {
       "title": "uri-templates/uritemplate-test",
@@ -84,7 +84,7 @@
       "description": "Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)",
       "language": "XSLT",
       "languageColor": "#EB8CEB",
-      "stars": "8,295",
+      "stars": "8,297",
       "forks": "1,114",
       "addStars": "3",
       "contributors": [

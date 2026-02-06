@@ -3,7 +3,7 @@
     <title>GitHub Bikeshed Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Bikeshed Languages in GitHub</description>
-    <pubDate>Fri, 06 Feb 2026 03:34:02 GMT</pubDate>
+    <pubDate>Fri, 06 Feb 2026 07:50:07 GMT</pubDate>
     <item>
       <title>WICG/attribution-reporting-api</title>
       <link>https://github.com/WICG/attribution-reporting-api</link>
@@ -115,7 +115,7 @@
       <guid>https://github.com/patcg-individual-drafts/topics</guid>
       <language>Bikeshed</language>
       <languageColor>#5562ac</languageColor>
-      <stars>795</stars>
+      <stars>796</stars>
       <forks>757</forks>
       <addStars>27</addStars>
       <contributors>
@@ -324,7 +324,7 @@
       <language>Bikeshed</language>
       <languageColor>#5562ac</languageColor>
       <stars>419</stars>
-      <forks>177</forks>
+      <forks>178</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>

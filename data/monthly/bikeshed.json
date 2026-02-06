@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Monthly Trending",
   "description": "Monthly Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 06 Feb 2026 03:34:02 GMT",
+  "pubDate": "Fri, 06 Feb 2026 07:50:07 GMT",
   "items": [
     {
       "title": "WICG/attribution-reporting-api",
@@ -111,7 +111,7 @@
       "description": "The Topics API",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "795",
+      "stars": "796",
       "forks": "757",
       "addStars": "27",
       "contributors": [
@@ -314,7 +314,7 @@
       "language": "Bikeshed",
       "languageColor": "#5562ac",
       "stars": "419",
-      "forks": "177",
+      "forks": "178",
       "addStars": "3",
       "contributors": [
         {

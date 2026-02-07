@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 07 Feb 2026 13:43:21 GMT</pubDate>
+    <pubDate>Sat, 07 Feb 2026 19:29:40 GMT</pubDate>
     <item>
       <title>openclaw/openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>172,811</stars>
-      <forks>28,036</forks>
+      <stars>173,543</stars>
+      <forks>28,236</forks>
       <addStars>168,498</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>46,616</stars>
-      <forks>3,536</forks>
+      <stars>46,823</stars>
+      <forks>3,555</forks>
       <addStars>32,059</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>99,545</stars>
-      <forks>9,470</forks>
+      <stars>99,701</stars>
+      <forks>9,499</forks>
       <addStars>48,566</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>65,090</stars>
-      <forks>6,455</forks>
+      <stars>65,246</stars>
+      <forks>6,468</forks>
       <addStars>30,541</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/frankbria/ralph-claude-code</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>6,441</stars>
+      <stars>6,447</stars>
       <forks>450</forks>
       <addStars>5,936</addStars>
       <contributors>
@@ -196,8 +196,8 @@
       <guid>https://github.com/VectifyAI/PageIndex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,948</stars>
-      <forks>1,003</forks>
+      <stars>13,996</stars>
+      <forks>1,006</forks>
       <addStars>9,233</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>35,448</stars>
-      <forks>2,148</forks>
+      <stars>35,489</stars>
+      <forks>2,151</forks>
       <addStars>10,200</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,817</stars>
-      <forks>800</forks>
+      <stars>7,874</stars>
+      <forks>807</forks>
       <addStars>6,290</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>30,494</stars>
-      <forks>4,888</forks>
+      <stars>30,527</stars>
+      <forks>4,889</forks>
       <addStars>5,664</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/code-yeongyu/oh-my-opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>29,127</stars>
-      <forks>2,140</forks>
+      <stars>29,219</stars>
+      <forks>2,150</forks>
       <addStars>19,658</addStars>
       <contributors>
         <contributor>
@@ -371,8 +371,8 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>6,827</stars>
-      <forks>653</forks>
+      <stars>6,854</stars>
+      <forks>657</forks>
       <addStars>4,953</addStars>
       <contributors>
         <contributor>
@@ -409,8 +409,8 @@
       <guid>https://github.com/NevaMind-AI/memU</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,231</stars>
-      <forks>628</forks>
+      <stars>8,279</stars>
+      <forks>633</forks>
       <addStars>4,704</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/openai/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,313</stars>
-      <forks>294</forks>
+      <stars>5,713</stars>
+      <forks>314</forks>
       <addStars>3,459</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/anthropics/claude-code</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>65,019</stars>
-      <forks>4,956</forks>
+      <stars>65,080</stars>
+      <forks>4,964</forks>
       <addStars>13,094</addStars>
       <contributors>
         <contributor>
@@ -518,8 +518,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,494</stars>
-      <forks>1,612</forks>
+      <stars>24,582</stars>
+      <forks>1,619</forks>
       <addStars>13,497</addStars>
       <contributors>
         <contributor>
@@ -546,8 +546,8 @@
       <guid>https://github.com/lbjlaq/Antigravity-Manager</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>21,842</stars>
-      <forks>2,478</forks>
+      <stars>21,897</stars>
+      <forks>2,482</forks>
       <addStars>12,861</addStars>
       <contributors>
         <contributor>
@@ -584,8 +584,8 @@
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,616</stars>
-      <forks>3,037</forks>
+      <stars>31,827</stars>
+      <forks>3,059</forks>
       <addStars>16,059</addStars>
       <contributors>
         <contributor>

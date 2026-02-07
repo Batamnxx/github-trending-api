@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Weekly Trending",
   "description": "Weekly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 06 Feb 2026 19:39:25 GMT",
+  "pubDate": "Sat, 07 Feb 2026 03:27:30 GMT",
   "items": [
     {
       "title": "doocs/md",
@@ -10,9 +10,9 @@
       "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "11,725",
+      "stars": "11,726",
       "forks": "1,989",
-      "addStars": "131",
+      "addStars": "88",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "5,970",
+      "stars": "5,974",
       "forks": "2,941",
-      "addStars": "143",
+      "addStars": "155",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32295532?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "19,749",
+      "stars": "19,750",
       "forks": "3,681",
-      "addStars": "60",
+      "addStars": "58",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44761321?s=40&v=4",
@@ -118,7 +118,7 @@
       "languageColor": "#41b883",
       "stars": "1,544",
       "forks": "2,064",
-      "addStars": "46",
+      "addStars": "43",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/169701429?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,853",
-      "forks": "1,182",
-      "addStars": "27",
+      "stars": "6,854",
+      "forks": "1,183",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49087880?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "Next Generation Vue UI Component Library",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "14,051",
+      "stars": "14,052",
       "forks": "1,641",
-      "addStars": "43",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32294991?s=40&v=4",
@@ -229,7 +229,7 @@
       "languageColor": "#41b883",
       "stars": "3,027",
       "forks": "403",
-      "addStars": "47",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17328586?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Crowdsourced tool for locating and reporting ALPRs",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "414",
+      "stars": "415",
       "forks": "58",
-      "addStars": "17",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17725066?s=40&v=4",
@@ -292,8 +292,8 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "305",
-      "forks": "32,541",
-      "addStars": "7",
+      "forks": "32,572",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Collection of handy online tools for developers, with great UX.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "36,914",
-      "forks": "4,590",
-      "addStars": "142",
+      "stars": "36,915",
+      "forks": "4,588",
+      "addStars": "143",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25065347?s=40&v=4",
@@ -362,7 +362,7 @@
       "languageColor": "#41b883",
       "stars": "371",
       "forks": "63",
-      "addStars": "26",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/68987900?s=40&v=4",
@@ -384,7 +384,7 @@
       "languageColor": "#41b883",
       "stars": "6,399",
       "forks": "2,423",
-      "addStars": "38",
+      "addStars": "31",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19240310?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,154",
+      "stars": "6,155",
       "forks": "481",
-      "addStars": "30",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59365435?s=40&v=4",
@@ -453,7 +453,7 @@
       "languageColor": "#41b883",
       "stars": "2,895",
       "forks": "424",
-      "addStars": "21",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3392129?s=40&v=4",
@@ -483,9 +483,9 @@
       "description": "Word GPT Plus is a word add-in which integrates the AI&Agent into Microsoft Word.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,073",
+      "stars": "1,072",
       "forks": "187",
-      "addStars": "11",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/96409857?s=40&v=4",

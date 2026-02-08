@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Monthly Trending",
   "description": "Monthly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Feb 2026 07:40:43 GMT",
+  "pubDate": "Sun, 08 Feb 2026 13:44:39 GMT",
   "items": [
     {
       "title": "godotengine/godot-demo-projects",
@@ -10,7 +10,7 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "8,180",
+      "stars": "8,182",
       "forks": "2,029",
       "addStars": "195",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "2,054",
-      "forks": "232",
+      "stars": "2,056",
+      "forks": "233",
       "addStars": "120",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "5,091",
+      "stars": "5,093",
       "forks": "297",
       "addStars": "191",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "A Camera addon for Godot 4. Inspired by Cinemachine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "3,116",
+      "stars": "3,117",
       "forks": "115",
       "addStars": "75",
       "contributors": [
@@ -417,7 +417,7 @@
       "description": "An Open-source PNGTubing app :D",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "248",
+      "stars": "249",
       "forks": "31",
       "addStars": "35",
       "contributors": [
@@ -476,7 +476,7 @@
       "description": "Rhythm-based aim game",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "219",
+      "stars": "220",
       "forks": "38",
       "addStars": "4",
       "contributors": [

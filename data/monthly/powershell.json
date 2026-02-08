@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Monthly Trending",
   "description": "Monthly Trending of Powershell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Feb 2026 07:40:43 GMT",
+  "pubDate": "Sun, 08 Feb 2026 13:44:39 GMT",
   "items": [
     {
       "title": "microsoft/winget-pkgs",
@@ -10,8 +10,8 @@
       "description": "The Microsoft community Windows Package Manager manifest repository",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "10,209",
-      "forks": "6,031",
+      "stars": "10,212",
+      "forks": "6,033",
       "addStars": "133",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "46,795",
-      "forks": "2,470",
+      "stars": "46,805",
+      "forks": "2,471",
       "addStars": "1,667",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "12,435",
-      "forks": "3,670",
+      "stars": "12,440",
+      "forks": "3,671",
       "addStars": "145",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "A command-line installer for Windows.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "23,585",
+      "stars": "23,584",
       "forks": "1,500",
       "addStars": "215",
       "contributors": [
@@ -222,8 +222,8 @@
       "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "39,055",
-      "forks": "1,523",
+      "stars": "39,061",
+      "forks": "1,524",
       "addStars": "1,917",
       "contributors": [
         {
@@ -402,7 +402,7 @@
       "description": "Open Source Azure AI documentation including, azure ai, azure studio, machine learning, genomics, open-datasets, and search",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "123",
+      "stars": "124",
       "forks": "420",
       "addStars": "11",
       "contributors": [
@@ -434,8 +434,8 @@
       "description": "Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "1,339",
-      "forks": "155",
+      "stars": "1,340",
+      "forks": "154",
       "addStars": "84",
       "contributors": [
         {
@@ -467,7 +467,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "1,797",
-      "forks": "1,107",
+      "forks": "1,108",
       "addStars": "21",
       "contributors": [
         {
@@ -535,7 +535,7 @@
       "description": "Curated lessons on getting started building agents with Copilot Studio",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "1,478",
+      "stars": "1,479",
       "forks": "115",
       "addStars": "279",
       "contributors": [

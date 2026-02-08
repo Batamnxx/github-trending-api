@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Feb 2026 07:40:43 GMT",
+  "pubDate": "Sun, 08 Feb 2026 13:44:39 GMT",
   "items": [
     {
       "title": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
@@ -10,8 +10,8 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "2,054",
-      "forks": "232",
+      "stars": "2,056",
+      "forks": "233",
       "addStars": "5",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "8,180",
+      "stars": "8,182",
       "forks": "2,029",
       "addStars": "4",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Rhythm-based aim game",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "219",
+      "stars": "220",
       "forks": "38",
       "addStars": "0",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "5,091",
+      "stars": "5,093",
       "forks": "297",
       "addStars": "2",
       "contributors": [
@@ -343,7 +343,7 @@
       "description": "RPG game action-adventure MMO built with Godot and Rust.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "729",
+      "stars": "728",
       "forks": "40",
       "addStars": "2",
       "contributors": [
@@ -375,7 +375,7 @@
       "description": "An Open-source PNGTubing app :D",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "248",
+      "stars": "249",
       "forks": "31",
       "addStars": "0",
       "contributors": [

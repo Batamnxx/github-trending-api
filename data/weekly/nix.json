@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Feb 2026 07:40:43 GMT",
+  "pubDate": "Sun, 08 Feb 2026 13:44:39 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "23,384",
-      "forks": "17,936",
+      "stars": "23,392",
+      "forks": "17,940",
       "addStars": "116",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,120",
-      "forks": "307",
+      "stars": "2,122",
+      "forks": "308",
       "addStars": "15",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "NixOS Media Server Configuration",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "191",
+      "stars": "193",
       "forks": "11",
       "addStars": "21",
       "contributors": [
@@ -138,8 +138,8 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,918",
-      "forks": "875",
+      "stars": "2,919",
+      "forks": "876",
       "addStars": "12",
       "contributors": [
         {
@@ -170,7 +170,7 @@
       "description": "My NixOS configurations.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,867",
+      "stars": "2,868",
       "forks": "245",
       "addStars": "14",
       "contributors": [
@@ -207,7 +207,7 @@
       "description": "❄️ Simplify Nix Flakes with the module system",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,192",
+      "stars": "1,193",
       "forks": "68",
       "addStars": "15",
       "contributors": [
@@ -256,7 +256,7 @@
       "description": "age-encrypted secrets for NixOS and Home manager",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,194",
+      "stars": "2,195",
       "forks": "150",
       "addStars": "14",
       "contributors": [
@@ -293,7 +293,7 @@
       "description": "General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,362",
+      "stars": "3,364",
       "forks": "192",
       "addStars": "22",
       "contributors": [
@@ -394,7 +394,7 @@
       "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,556",
+      "stars": "3,558",
       "forks": "174",
       "addStars": "13",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Markdown Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Markdown Languages in GitHub</description>
-    <pubDate>Sun, 08 Feb 2026 07:40:43 GMT</pubDate>
+    <pubDate>Sun, 08 Feb 2026 13:44:39 GMT</pubDate>
     <item>
       <title>MicrosoftDocs/azure-docs</title>
       <link>https://github.com/MicrosoftDocs/azure-docs</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/MicrosoftDocs/azure-docs</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>10,759</stars>
+      <stars>10,760</stars>
       <forks>21,856</forks>
       <addStars>47</addStars>
       <contributors>
@@ -44,8 +44,8 @@
       <guid>https://github.com/tldr-pages/tldr</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>61,159</stars>
-      <forks>5,070</forks>
+      <stars>61,161</stars>
+      <forks>5,071</forks>
       <addStars>498</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/ethereum/ethereum-org-website</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>5,851</stars>
+      <stars>5,852</stars>
       <forks>5,387</forks>
       <addStars>49</addStars>
       <contributors>
@@ -196,8 +196,8 @@
       <guid>https://github.com/OAI/OpenAPI-Specification</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>30,899</stars>
-      <forks>9,169</forks>
+      <stars>30,898</stars>
+      <forks>9,171</forks>
       <addStars>136</addStars>
       <contributors>
         <contributor>
@@ -272,7 +272,7 @@
       <guid>https://github.com/Kotlin/KEEP</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>3,680</stars>
+      <stars>3,681</stars>
       <forks>376</forks>
       <addStars>35</addStars>
       <contributors>
@@ -386,8 +386,8 @@
       <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>464,441</stars>
-      <forks>43,623</forks>
+      <stars>464,509</stars>
+      <forks>43,629</forks>
       <addStars>10,508</addStars>
       <contributors>
         <contributor>
@@ -538,8 +538,8 @@
       <guid>https://github.com/microsoft/vscode-docs</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>6,376</stars>
-      <forks>5,537</forks>
+      <stars>6,375</stars>
+      <forks>5,538</forks>
       <addStars>68</addStars>
       <contributors>
         <contributor>
@@ -577,7 +577,7 @@
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
       <stars>3,841</stars>
-      <forks>261</forks>
+      <forks>260</forks>
       <addStars>77</addStars>
       <contributors>
         <contributor>
@@ -610,7 +610,7 @@
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
       <stars>140</stars>
-      <forks>117</forks>
+      <forks>119</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -647,7 +647,7 @@
       <guid>https://github.com/alexandresanlim/Badges4-README.md-Profile</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>12,850</stars>
+      <stars>12,849</stars>
       <forks>1,671</forks>
       <addStars>158</addStars>
       <contributors>

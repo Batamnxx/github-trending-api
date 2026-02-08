@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Weekly Trending",
   "description": "Weekly Trending of Mustache Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Feb 2026 07:40:43 GMT",
+  "pubDate": "Sun, 08 Feb 2026 13:44:39 GMT",
   "items": [
     {
       "title": "goharbor/harbor-helm",
@@ -350,7 +350,7 @@
       "description": "ArgoProj Helm Charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": "2,215",
+      "stars": "2,216",
       "forks": "2,047",
       "addStars": "8",
       "contributors": [

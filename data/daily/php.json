@@ -2,7 +2,7 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Feb 2026 07:40:43 GMT",
+  "pubDate": "Sun, 08 Feb 2026 13:44:39 GMT",
   "items": [
     {
       "title": "symfony/symfony",
@@ -10,7 +10,7 @@
       "description": "The Symfony PHP framework",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "30,929",
+      "stars": "30,930",
       "forks": "9,806",
       "addStars": "4",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "5,212",
+      "stars": "5,213",
       "forks": "206",
       "addStars": "13",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "10,171",
+      "stars": "10,170",
       "forks": "10,730",
       "addStars": "0",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Music streaming solution that works.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "17,006",
+      "stars": "17,007",
       "forks": "2,091",
       "addStars": "27",
       "contributors": [
@@ -249,8 +249,8 @@
       "description": "Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a \"always connected\" device disconnects. In addition, it is possible to check web services for availability. For this purpose HTTP status codes and the response time of the service are evaluated.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "926",
-      "forks": "69",
+      "stars": "930",
+      "forks": "70",
       "addStars": "19",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "A free open source IT asset/license management system",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "13,377",
+      "stars": "13,378",
       "forks": "3,745",
       "addStars": "4",
       "contributors": [
@@ -360,7 +360,7 @@
       "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "21,162",
+      "stars": "21,161",
       "forks": "1,374",
       "addStars": "14",
       "contributors": [
@@ -397,8 +397,8 @@
       "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "68,675",
-      "forks": "24,893",
+      "stars": "68,676",
+      "forks": "24,892",
       "addStars": "28",
       "contributors": [
         {
@@ -493,7 +493,7 @@
       "description": "Free and Open Source ERP platform",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "9,161",
+      "stars": "9,162",
       "forks": "354",
       "addStars": "15",
       "contributors": [
@@ -531,7 +531,7 @@
       "language": "PHP",
       "languageColor": "#4F5D95",
       "stars": "20,872",
-      "forks": "12,927",
+      "forks": "12,926",
       "addStars": "2",
       "contributors": [
         {
@@ -567,7 +567,7 @@
       "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "5,564",
+      "stars": "5,565",
       "forks": "1,600",
       "addStars": "3",
       "contributors": [
@@ -604,8 +604,8 @@
       "description": "☁️ Nextcloud server, a safe home for all your data",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "34,048",
-      "forks": "4,721",
+      "stars": "34,050",
+      "forks": "4,722",
       "addStars": "17",
       "contributors": [
         {
@@ -641,7 +641,7 @@
       "description": "The core Laravel CMS Composer package",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "4,709",
+      "stars": "4,708",
       "forks": "608",
       "addStars": "2",
       "contributors": [
@@ -678,7 +678,7 @@
       "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "13,811",
+      "stars": "13,812",
       "forks": "938",
       "addStars": "5",
       "contributors": [
@@ -706,7 +706,7 @@
       "language": "PHP",
       "languageColor": "#4F5D95",
       "stars": "4,667",
-      "forks": "2,694",
+      "forks": "2,695",
       "addStars": "2",
       "contributors": [
         {

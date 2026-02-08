@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Feb 2026 07:40:43 GMT",
+  "pubDate": "Sun, 08 Feb 2026 13:44:39 GMT",
   "items": [
     {
       "title": "beyond-all-reason/Beyond-All-Reason",
@@ -10,7 +10,7 @@
       "description": "Main game repository for Beyond All Reason.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,759",
+      "stars": "2,760",
       "forks": "530",
       "addStars": "3",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "The Cloud-Native API Gateway and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "16,185",
+      "stars": "16,187",
       "forks": "2,788",
       "addStars": "4",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "🍿 A collection of QoL plugins for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "7,018",
-      "forks": "401",
+      "stars": "7,017",
+      "forks": "402",
       "addStars": "9",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Rime方案配置：万象拼音，一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。Q群：11033572/11631066",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,803",
-      "forks": "112",
+      "stars": "2,804",
+      "forks": "113",
       "addStars": "8",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "42,707",
-      "forks": "5,062",
+      "stars": "42,708",
+      "forks": "5,064",
       "addStars": "12",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "🧩 Claude Code Neovim IDE Extension",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,982",
+      "stars": "1,984",
       "forks": "137",
       "addStars": "12",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,426",
+      "stars": "2,428",
       "forks": "82",
       "addStars": "13",
       "contributors": [
@@ -286,8 +286,8 @@
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "29,344",
-      "forks": "44,071",
+      "stars": "29,346",
+      "forks": "44,076",
       "addStars": "9",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "Use your Neovim like using Cursor AI IDE!",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "17,332",
+      "stars": "17,336",
       "forks": "795",
       "addStars": "9",
       "contributors": [
@@ -466,7 +466,7 @@
       "description": "💤 A modern plugin manager for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "20,182",
+      "stars": "20,186",
       "forks": "542",
       "addStars": "15",
       "contributors": [

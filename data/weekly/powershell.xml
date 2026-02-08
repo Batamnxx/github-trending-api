@@ -3,7 +3,7 @@
     <title>GitHub Powershell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Powershell Languages in GitHub</description>
-    <pubDate>Sun, 08 Feb 2026 07:40:43 GMT</pubDate>
+    <pubDate>Sun, 08 Feb 2026 13:44:39 GMT</pubDate>
     <item>
       <title>actions/runner-images</title>
       <link>https://github.com/actions/runner-images</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/actions/runner-images</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>12,435</stars>
-      <forks>3,670</forks>
+      <stars>12,440</stars>
+      <forks>3,671</forks>
       <addStars>47</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/microsoft/winget-pkgs</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>10,209</stars>
-      <forks>6,031</forks>
+      <stars>10,212</stars>
+      <forks>6,033</forks>
       <addStars>23</addStars>
       <contributors>
         <contributor>
@@ -148,7 +148,7 @@
       <guid>https://github.com/Orange-Cyberdefense/GOAD</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>7,415</stars>
+      <stars>7,416</stars>
       <forks>1,025</forks>
       <addStars>19</addStars>
       <contributors>
@@ -186,8 +186,8 @@
       <guid>https://github.com/ChrisTitusTech/winutil</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>46,795</stars>
-      <forks>2,470</forks>
+      <stars>46,805</stars>
+      <forks>2,471</forks>
       <addStars>387</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/MicrosoftDocs/mcp</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>1,339</stars>
-      <forks>155</forks>
+      <stars>1,340</stars>
+      <forks>154</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>
@@ -371,7 +371,7 @@
       <guid>https://github.com/microsoft/agent-academy</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>1,478</stars>
+      <stars>1,479</stars>
       <forks>115</forks>
       <addStars>62</addStars>
       <contributors>
@@ -442,7 +442,7 @@
       <guid>https://github.com/SkipToTheEndpoint/OpenIntuneBaseline</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>1,167</stars>
+      <stars>1,169</stars>
       <forks>228</forks>
       <addStars>7</addStars>
       <contributors>
@@ -476,7 +476,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>1,797</stars>
-      <forks>1,107</forks>
+      <forks>1,108</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>

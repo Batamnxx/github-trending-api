@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Monthly Trending",
   "description": "Monthly Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Feb 2026 07:40:43 GMT",
+  "pubDate": "Sun, 08 Feb 2026 13:44:39 GMT",
   "items": [
     {
       "title": "gnachman/iTerm2",
@@ -47,7 +47,7 @@
       "description": "iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "1,973",
+      "stars": "1,974",
       "forks": "836",
       "addStars": "13",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "A software update framework for macOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "8,562",
+      "stars": "8,563",
       "forks": "1,093",
       "addStars": "127",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "9,164",
+      "stars": "9,166",
       "forks": "275",
       "addStars": "404",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "LuLu is the free open-source macOS firewall",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "11,967",
+      "stars": "11,968",
       "forks": "543",
       "addStars": "219",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "14,435",
+      "stars": "14,436",
       "forks": "663",
       "addStars": "208",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "1,528",
+      "stars": "1,529",
       "forks": "798",
       "addStars": "94",
       "contributors": [
@@ -350,7 +350,7 @@
       "description": "Plaid Link iOS SDK",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "150",
+      "stars": "151",
       "forks": "92",
       "addStars": "2",
       "contributors": [
@@ -387,7 +387,7 @@
       "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "3,836",
+      "stars": "3,837",
       "forks": "305",
       "addStars": "1",
       "contributors": [

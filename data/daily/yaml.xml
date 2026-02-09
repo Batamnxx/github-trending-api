@@ -3,7 +3,7 @@
     <title>GitHub Yaml Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Yaml Languages in GitHub</description>
-    <pubDate>Mon, 09 Feb 2026 03:45:57 GMT</pubDate>
+    <pubDate>Mon, 09 Feb 2026 07:59:18 GMT</pubDate>
     <item>
       <title>mustache/spec</title>
       <link>https://github.com/mustache/spec</link>
@@ -191,7 +191,7 @@
       <guid>https://github.com/kubeflow/manifests</guid>
       <language>YAML</language>
       <languageColor>#cb171e</languageColor>
-      <stars>992</stars>
+      <stars>993</stars>
       <forks>1,042</forks>
       <addStars>1</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 09 Feb 2026 03:45:57 GMT",
+  "pubDate": "Mon, 09 Feb 2026 07:59:18 GMT",
   "items": [
     {
       "title": "louislam/uptime-kuma",
@@ -10,7 +10,7 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "82,563",
+      "stars": "82,574",
       "forks": "7,373",
       "addStars": "67",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,009",
+      "stars": "8,015",
       "forks": "583",
       "addStars": "259",
       "contributors": [
@@ -67,14 +67,14 @@
           "url": "https://github.com/dainamiter"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/32169182?s=40&v=4",
+          "name": "salmanmkc",
+          "url": "https://github.com/salmanmkc"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/74181508?s=40&v=4",
           "name": "ahmed-0011",
           "url": "https://github.com/ahmed-0011"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
-          "name": "PeterDaveHello",
-          "url": "https://github.com/PeterDaveHello"
         }
       ]
     },
@@ -84,7 +84,7 @@
       "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "2,699",
+      "stars": "2,735",
       "forks": "108",
       "addStars": "178",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,682",
+      "stars": "6,687",
       "forks": "714",
       "addStars": "86",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "13,261",
+      "stars": "13,271",
       "forks": "1,315",
       "addStars": "40",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Stremio - Freedom to Stream",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,954",
+      "stars": "8,956",
       "forks": "998",
       "addStars": "5",
       "contributors": [
@@ -232,8 +232,8 @@
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,514",
-      "forks": "17,967",
+      "stars": "9,515",
+      "forks": "17,970",
       "addStars": "2",
       "contributors": [
         {
@@ -269,7 +269,7 @@
       "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "39,337",
+      "stars": "39,339",
       "forks": "3,473",
       "addStars": "29",
       "contributors": [
@@ -306,8 +306,8 @@
       "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,003",
-      "forks": "1,307",
+      "stars": "8,011",
+      "forks": "1,309",
       "addStars": "37",
       "contributors": [
         {
@@ -338,7 +338,7 @@
       "description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,731",
+      "stars": "1,735",
       "forks": "191",
       "addStars": "20",
       "contributors": [
@@ -375,8 +375,8 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,886",
-      "forks": "2,942",
+      "stars": "7,895",
+      "forks": "2,946",
       "addStars": "24",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "Fast, unopinionated, minimalist web framework for node.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "68,680",
-      "forks": "22,447",
+      "stars": "68,683",
+      "forks": "22,448",
       "addStars": "5",
       "contributors": [
         {
@@ -466,7 +466,7 @@
       "description": "✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "27,555",
+      "stars": "27,563",
       "forks": "4,163",
       "addStars": "12",
       "contributors": [

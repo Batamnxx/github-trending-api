@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Weekly Trending",
   "description": "Weekly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 09 Feb 2026 03:45:57 GMT",
+  "pubDate": "Mon, 09 Feb 2026 07:59:18 GMT",
   "items": [
     {
       "title": "tidyverse/ggplot2",
@@ -303,7 +303,7 @@
       "description": "GCAM -- The Global Change Analysis Model",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "384",
+      "stars": "385",
       "forks": "205",
       "addStars": "4",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Feb 2026 19:30:21 GMT",
+  "pubDate": "Mon, 09 Feb 2026 03:45:57 GMT",
   "items": [
     {
       "title": "vortexgpgpu/vortex",
@@ -12,7 +12,7 @@
       "languageColor": "#b2b7f8",
       "stars": "1,886",
       "forks": "435",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2282163?s=40&v=4",

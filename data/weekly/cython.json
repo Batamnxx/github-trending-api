@@ -2,7 +2,7 @@
   "title": "GitHub Cython Languages Weekly Trending",
   "description": "Weekly Trending of Cython Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Feb 2026 14:21:41 GMT",
+  "pubDate": "Tue, 10 Feb 2026 20:01:08 GMT",
   "items": [
     {
       "title": "TA-Lib/ta-lib-python",
@@ -48,7 +48,7 @@
       "language": "Cython",
       "languageColor": "#fedf5b",
       "stars": "11,639",
-      "forks": "600",
+      "forks": "601",
       "addStars": "15",
       "contributors": [
         {

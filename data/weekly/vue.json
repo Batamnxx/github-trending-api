@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Weekly Trending",
   "description": "Weekly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Feb 2026 14:21:41 GMT",
+  "pubDate": "Tue, 10 Feb 2026 20:01:08 GMT",
   "items": [
     {
       "title": "x2rr/funds",
@@ -10,7 +10,7 @@
       "description": "自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,850",
+      "stars": "2,851",
       "forks": "375",
       "addStars": "167",
       "contributors": [
@@ -27,7 +27,7 @@
       "description": "Mihomo Dashboard, The Official One, XD",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "3,062",
+      "stars": "3,065",
       "forks": "408",
       "addStars": "59",
       "contributors": [
@@ -54,8 +54,8 @@
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,017",
-      "forks": "2,995",
+      "stars": "6,018",
+      "forks": "2,996",
       "addStars": "166",
       "contributors": [
         {
@@ -91,8 +91,8 @@
       "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "90,306",
-      "forks": "30,632",
+      "stars": "90,308",
+      "forks": "30,633",
       "addStars": "39",
       "contributors": [
         {
@@ -128,8 +128,8 @@
       "description": "Collection of handy online tools for developers, with great UX.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "36,975",
-      "forks": "4,603",
+      "stars": "36,979",
+      "forks": "4,604",
       "addStars": "149",
       "contributors": [
         {
@@ -160,8 +160,8 @@
       "description": "A very simple static homepage for your server.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "11,110",
-      "forks": "895",
+      "stars": "11,112",
+      "forks": "896",
       "addStars": "25",
       "contributors": [
         {
@@ -192,8 +192,8 @@
       "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "32,558",
-      "forks": "4,731",
+      "stars": "32,557",
+      "forks": "4,732",
       "addStars": "49",
       "contributors": [
         {
@@ -230,7 +230,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "2,902",
-      "forks": "427",
+      "forks": "428",
       "addStars": "18",
       "contributors": [
         {

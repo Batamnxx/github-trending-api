@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Feb 2026 14:21:41 GMT",
+  "pubDate": "Tue, 10 Feb 2026 20:01:08 GMT",
   "items": [
     {
       "title": "google/langextract",
@@ -10,9 +10,9 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "27,013",
-      "forks": "1,847",
-      "addStars": "531",
+      "stars": "27,918",
+      "forks": "1,896",
+      "addStars": "2,093",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19271735?s=40&v=4",
@@ -42,8 +42,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,216",
-      "forks": "1,087",
+      "stars": "14,333",
+      "forks": "1,096",
       "addStars": "629",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,201",
-      "forks": "1,963",
+      "stars": "19,510",
+      "forks": "1,995",
       "addStars": "3,553",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,168",
-      "forks": "97",
+      "stars": "1,258",
+      "forks": "103",
       "addStars": "499",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,060",
-      "forks": "637",
+      "stars": "8,123",
+      "forks": "641",
       "addStars": "406",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,589",
-      "forks": "3,612",
+      "stars": "16,641",
+      "forks": "3,614",
       "addStars": "499",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,802",
-      "forks": "810",
+      "stars": "18,947",
+      "forks": "819",
       "addStars": "260",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "683",
-      "forks": "140",
+      "stars": "750",
+      "forks": "142",
       "addStars": "46",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "93,434",
-      "forks": "13,561",
+      "stars": "93,534",
+      "forks": "13,573",
       "addStars": "450",
       "contributors": [
         {
@@ -313,9 +313,9 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "36,095",
-      "forks": "2,832",
-      "addStars": "113",
+      "stars": "36,207",
+      "forks": "2,835",
+      "addStars": "166",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/96800776?s=40&v=4",
@@ -345,8 +345,8 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,357",
-      "forks": "159",
+      "stars": "4,479",
+      "forks": "161",
       "addStars": "848",
       "contributors": [
         {
@@ -382,8 +382,8 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,508",
-      "forks": "843",
+      "stars": "8,619",
+      "forks": "848",
       "addStars": "108",
       "contributors": [
         {
@@ -414,8 +414,8 @@
       "description": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "543",
-      "forks": "62",
+      "stars": "656",
+      "forks": "67",
       "addStars": "33",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,936",
-      "forks": "1,666",
+      "stars": "14,040",
+      "forks": "1,688",
       "addStars": "735",
       "contributors": [
         {

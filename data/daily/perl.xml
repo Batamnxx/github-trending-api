@@ -3,7 +3,7 @@
     <title>GitHub Perl Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Perl Languages in GitHub</description>
-    <pubDate>Tue, 10 Feb 2026 14:21:41 GMT</pubDate>
+    <pubDate>Tue, 10 Feb 2026 20:01:08 GMT</pubDate>
     <item>
       <title>linux-test-project/lcov</title>
       <link>https://github.com/linux-test-project/lcov</link>
@@ -197,7 +197,7 @@
       <language>Perl</language>
       <languageColor>#0298c3</languageColor>
       <stars>22,520</stars>
-      <forks>1,092</forks>
+      <forks>1,093</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -371,7 +371,7 @@
       <guid>https://github.com/exiftool/exiftool</guid>
       <language>Perl</language>
       <languageColor>#0298c3</languageColor>
-      <stars>4,406</stars>
+      <stars>4,408</stars>
       <forks>413</forks>
       <addStars>2</addStars>
       <contributors>

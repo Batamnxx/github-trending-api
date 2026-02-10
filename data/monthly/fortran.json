@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Monthly Trending",
   "description": "Monthly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Feb 2026 14:21:41 GMT",
+  "pubDate": "Tue, 10 Feb 2026 20:01:08 GMT",
   "items": [
     {
       "title": "MetOffice/lfric_apps",
@@ -270,7 +270,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": "411",
-      "forks": "457",
+      "forks": "458",
       "addStars": "1",
       "contributors": [
         {

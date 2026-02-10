@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Feb 2026 03:53:03 GMT",
+  "pubDate": "Tue, 10 Feb 2026 08:00:56 GMT",
   "items": [
     {
       "title": "KeygraphHQ/shannon",
@@ -10,8 +10,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,709",
-      "forks": "1,851",
+      "stars": "18,264",
+      "forks": "1,895",
       "addStars": "11,444",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,599",
-      "forks": "432",
+      "stars": "7,686",
+      "forks": "438",
       "addStars": "5,086",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,327",
-      "forks": "1,753",
+      "stars": "26,484",
+      "forks": "1,766",
       "addStars": "8,856",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,158",
-      "forks": "926",
+      "stars": "9,515",
+      "forks": "946",
       "addStars": "3,013",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "180,148",
-      "forks": "29,903",
+      "stars": "180,825",
+      "forks": "30,056",
       "addStars": "30,956",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Master Claude Code Hooks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,793",
-      "forks": "539",
+      "stars": "2,814",
+      "forks": "540",
       "addStars": "623",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,642",
-      "forks": "1,632",
+      "stars": "13,788",
+      "forks": "1,650",
       "addStars": "3,510",
       "contributors": [
         {
@@ -239,8 +239,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,620",
-      "forks": "388",
+      "stars": "7,669",
+      "forks": "392",
       "addStars": "1,911",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,689",
-      "forks": "3,792",
+      "stars": "30,704",
+      "forks": "3,794",
       "addStars": "1,462",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "The best ChatGPT that $100 can buy.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,742",
-      "forks": "5,529",
+      "stars": "42,774",
+      "forks": "5,531",
       "addStars": "1,287",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "971",
-      "forks": "81",
+      "stars": "1,061",
+      "forks": "89",
       "addStars": "322",
       "contributors": [
         {
@@ -377,7 +377,7 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,604",
+      "stars": "3,609",
       "forks": "168",
       "addStars": "679",
       "contributors": [
@@ -414,8 +414,8 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,680",
-      "forks": "808",
+      "stars": "18,726",
+      "forks": "809",
       "addStars": "992",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "Agent Orchestration Command Center",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,083",
-      "forks": "193",
+      "stars": "2,096",
+      "forks": "195",
       "addStars": "918",
       "contributors": [
         {
@@ -488,7 +488,7 @@
       "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "2,902",
+      "stars": "2,938",
       "forks": "118",
       "addStars": "655",
       "contributors": [
@@ -525,8 +525,8 @@
       "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,278",
-      "forks": "1,531",
+      "stars": "14,296",
+      "forks": "1,530",
       "addStars": "581",
       "contributors": [
         {
@@ -562,8 +562,8 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,655",
-      "forks": "663",
+      "stars": "8,694",
+      "forks": "664",
       "addStars": "1,582",
       "contributors": [
         {

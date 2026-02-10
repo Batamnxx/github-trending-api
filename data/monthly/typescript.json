@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Monthly Trending",
   "description": "Monthly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Feb 2026 03:53:03 GMT",
+  "pubDate": "Tue, 10 Feb 2026 08:00:56 GMT",
   "items": [
     {
       "title": "openclaw/openclaw",
@@ -10,8 +10,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "180,191",
-      "forks": "29,911",
+      "stars": "180,895",
+      "forks": "30,076",
       "addStars": "176,362",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "101,254",
-      "forks": "9,722",
+      "stars": "101,418",
+      "forks": "9,750",
       "addStars": "44,902",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,929",
-      "forks": "1,066",
+      "stars": "14,074",
+      "forks": "1,080",
       "addStars": "10,248",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,177",
-      "forks": "926",
+      "stars": "9,533",
+      "forks": "948",
       "addStars": "6,990",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "35,870",
+      "stars": "35,907",
       "forks": "2,176",
       "addStars": "10,663",
       "contributors": [
@@ -190,8 +190,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,623",
-      "forks": "388",
+      "stars": "7,671",
+      "forks": "393",
       "addStars": "6,704",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,987",
-      "forks": "540",
+      "stars": "8,012",
+      "forks": "542",
       "addStars": "6,470",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,738",
-      "forks": "1,853",
+      "stars": "18,325",
+      "forks": "1,898",
       "addStars": "12,202",
       "contributors": [
         {
@@ -296,8 +296,8 @@
       "description": "the best agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,975",
-      "forks": "2,221",
+      "stars": "30,043",
+      "forks": "2,226",
       "addStars": "17,541",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,341",
-      "forks": "1,755",
+      "stars": "26,496",
+      "forks": "1,767",
       "addStars": "13,547",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,349",
-      "forks": "1,113",
+      "stars": "4,359",
+      "forks": "1,117",
       "addStars": "2,939",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,652",
-      "forks": "1,635",
+      "stars": "13,800",
+      "forks": "1,650",
       "addStars": "7,291",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,587",
-      "forks": "2,700",
+      "stars": "27,612",
+      "forks": "2,703",
       "addStars": "6,181",
       "contributors": [
         {
@@ -466,7 +466,7 @@
       "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,431",
+      "stars": "1,432",
       "forks": "161",
       "addStars": "1,096",
       "contributors": [
@@ -503,8 +503,8 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,517",
-      "forks": "989",
+      "stars": "14,534",
+      "forks": "990",
       "addStars": "4,148",
       "contributors": [
         {
@@ -577,7 +577,7 @@
       "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "45,241",
+      "stars": "45,264",
       "forks": "2,165",
       "addStars": "3,962",
       "contributors": [
@@ -609,8 +609,8 @@
       "description": "一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,880",
-      "forks": "1,192",
+      "stars": "6,886",
+      "forks": "1,193",
       "addStars": "1,318",
       "contributors": [
         {
@@ -646,7 +646,7 @@
       "description": "AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,891",
+      "stars": "1,895",
       "forks": "170",
       "addStars": "1,201",
       "contributors": [
@@ -678,8 +678,8 @@
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,880",
-      "forks": "1,655",
+      "stars": "13,890",
+      "forks": "1,656",
       "addStars": "2,638",
       "contributors": [
         {
@@ -715,8 +715,8 @@
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "72,138",
-      "forks": "14,620",
+      "stars": "72,147",
+      "forks": "14,622",
       "addStars": "2,520",
       "contributors": [
         {

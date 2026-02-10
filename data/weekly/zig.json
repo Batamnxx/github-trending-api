@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Feb 2026 03:53:03 GMT",
+  "pubDate": "Tue, 10 Feb 2026 08:00:56 GMT",
   "items": [
     {
       "title": "ghostty-org/ghostty",
@@ -10,8 +10,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "43,389",
-      "forks": "1,581",
+      "stars": "43,408",
+      "forks": "1,583",
       "addStars": "682",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "15,132",
+      "stars": "15,133",
       "forks": "766",
       "addStars": "65",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "87,200",
-      "forks": "4,044",
+      "stars": "87,204",
+      "forks": "4,045",
       "addStars": "228",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,142",
+      "stars": "3,143",
       "forks": "117",
       "addStars": "29",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "zig game engine & graphics toolkit",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,576",
+      "stars": "4,577",
       "forks": "202",
       "addStars": "16",
       "contributors": [
@@ -333,7 +333,7 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,638",
+      "stars": "1,640",
       "forks": "82",
       "addStars": "17",
       "contributors": [
@@ -370,7 +370,7 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "42,671",
+      "stars": "42,668",
       "forks": "3,079",
       "addStars": "40",
       "contributors": [

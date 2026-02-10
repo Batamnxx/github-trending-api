@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Weekly Trending",
   "description": "Weekly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Feb 2026 03:53:03 GMT",
+  "pubDate": "Tue, 10 Feb 2026 08:00:56 GMT",
   "items": [
     {
       "title": "x2rr/funds",
@@ -10,7 +10,7 @@
       "description": "自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,837",
+      "stars": "2,842",
       "forks": "375",
       "addStars": "167",
       "contributors": [
@@ -27,8 +27,8 @@
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,012",
-      "forks": "2,982",
+      "stars": "6,014",
+      "forks": "2,989",
       "addStars": "166",
       "contributors": [
         {
@@ -64,7 +64,7 @@
       "description": "Mihomo Dashboard, The Official One, XD",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "3,058",
+      "stars": "3,060",
       "forks": "406",
       "addStars": "59",
       "contributors": [
@@ -91,7 +91,7 @@
       "description": "测试站，密码admin123",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,549",
+      "stars": "1,551",
       "forks": "2,073",
       "addStars": "43",
       "contributors": [
@@ -129,7 +129,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "19,764",
-      "forks": "3,683",
+      "forks": "3,682",
       "addStars": "47",
       "contributors": [
         {
@@ -165,8 +165,8 @@
       "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "90,306",
-      "forks": "30,632",
+      "stars": "90,305",
+      "forks": "30,631",
       "addStars": "39",
       "contributors": [
         {
@@ -335,7 +335,7 @@
       "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "32,553",
+      "stars": "32,555",
       "forks": "4,730",
       "addStars": "49",
       "contributors": [
@@ -372,7 +372,7 @@
       "description": "☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,855",
+      "stars": "6,856",
       "forks": "1,183",
       "addStars": "17",
       "contributors": [
@@ -446,7 +446,7 @@
       "description": "Word GPT Plus is a word add-in which integrates the AI&Agent into Microsoft Word.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,074",
+      "stars": "1,073",
       "forks": "188",
       "addStars": "9",
       "contributors": [

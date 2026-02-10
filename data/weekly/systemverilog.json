@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Weekly Trending",
   "description": "Weekly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Feb 2026 03:53:03 GMT",
+  "pubDate": "Tue, 10 Feb 2026 14:21:41 GMT",
   "items": [
     {
       "title": "verilator/verilator",
@@ -10,7 +10,7 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,349",
+      "stars": "3,350",
       "forks": "750",
       "addStars": "23",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": "1,764",
-      "forks": "684",
+      "forks": "685",
       "addStars": "13",
       "contributors": [
         {
@@ -153,6 +153,43 @@
       ]
     },
     {
+      "title": "pulp-platform/tech_cells_generic",
+      "url": "https://github.com/pulp-platform/tech_cells_generic",
+      "description": "Technology dependent cells instantiated in the design for generic process (simulation, FPGA)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "80",
+      "forks": "39",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
+          "name": "zarubaf",
+          "url": "https://github.com/zarubaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6498078?s=40&v=4",
+          "name": "niwis",
+          "url": "https://github.com/niwis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7403253?s=40&v=4",
+          "name": "meggiman",
+          "url": "https://github.com/meggiman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18549773?s=40&v=4",
+          "name": "davideschiavone",
+          "url": "https://github.com/davideschiavone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6088584?s=40&v=4",
+          "name": "micprog",
+          "url": "https://github.com/micprog"
+        }
+      ]
+    },
+    {
       "title": "hughperkins/VeriGPU",
       "url": "https://github.com/hughperkins/VeriGPU",
       "description": "OpenSource GPU, in Verilog, loosely based on RISC-V ISA",
@@ -171,6 +208,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/20174596?s=40&v=4",
           "name": "hpasapp",
           "url": "https://github.com/hpasapp"
+        }
+      ]
+    },
+    {
+      "title": "lowRISC/opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "3,128",
+      "forks": "951",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104845?s=40&v=4",
+          "name": "rswarbrick",
+          "url": "https://github.com/rswarbrick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
+          "name": "msfschaffner",
+          "url": "https://github.com/msfschaffner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11466553?s=40&v=4",
+          "name": "cindychip",
+          "url": "https://github.com/cindychip"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5633066?s=40&v=4",
+          "name": "timothytrippel",
+          "url": "https://github.com/timothytrippel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20307557?s=40&v=4",
+          "name": "vogelpi",
+          "url": "https://github.com/vogelpi"
         }
       ]
     },
@@ -212,43 +286,6 @@
       ]
     },
     {
-      "title": "pulp-platform/tech_cells_generic",
-      "url": "https://github.com/pulp-platform/tech_cells_generic",
-      "description": "Technology dependent cells instantiated in the design for generic process (simulation, FPGA)",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "80",
-      "forks": "39",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6498078?s=40&v=4",
-          "name": "niwis",
-          "url": "https://github.com/niwis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7403253?s=40&v=4",
-          "name": "meggiman",
-          "url": "https://github.com/meggiman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18549773?s=40&v=4",
-          "name": "davideschiavone",
-          "url": "https://github.com/davideschiavone"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6088584?s=40&v=4",
-          "name": "micprog",
-          "url": "https://github.com/micprog"
-        }
-      ]
-    },
-    {
       "title": "pulp-platform/common_cells",
       "url": "https://github.com/pulp-platform/common_cells",
       "description": "Common SystemVerilog components",
@@ -282,186 +319,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/7882682?s=40&v=4",
           "name": "FrancescoConti",
           "url": "https://github.com/FrancescoConti"
-        }
-      ]
-    },
-    {
-      "title": "openhwgroup/cvfpu",
-      "url": "https://github.com/openhwgroup/cvfpu",
-      "description": "Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "569",
-      "forks": "148",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9446837?s=40&v=4",
-          "name": "michael-platzer",
-          "url": "https://github.com/michael-platzer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55843305?s=40&v=4",
-          "name": "lucabertaccini",
-          "url": "https://github.com/lucabertaccini"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18549773?s=40&v=4",
-          "name": "davideschiavone",
-          "url": "https://github.com/davideschiavone"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33124232?s=40&v=4",
-          "name": "stmach",
-          "url": "https://github.com/stmach"
-        }
-      ]
-    },
-    {
-      "title": "adam-maj/tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "11,327",
-      "forks": "964",
-      "addStars": "123",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&v=4",
-          "name": "adam-maj",
-          "url": "https://github.com/adam-maj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10238372?s=40&v=4",
-          "name": "ashaltu",
-          "url": "https://github.com/ashaltu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
-          "name": "eltociear",
-          "url": "https://github.com/eltociear"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
-          "name": "xianbaoqian",
-          "url": "https://github.com/xianbaoqian"
-        }
-      ]
-    },
-    {
-      "title": "pulp-platform/fpu_div_sqrt_mvp",
-      "url": "https://github.com/pulp-platform/fpu_div_sqrt_mvp",
-      "description": "[UNRELEASED] FP div/sqrt unit for transprecision",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "25",
-      "forks": "17",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33124232?s=40&v=4",
-          "name": "stmach",
-          "url": "https://github.com/stmach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
-          "name": "andreaskurth",
-          "url": "https://github.com/andreaskurth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28906668?s=40&v=4",
-          "name": "flaviens",
-          "url": "https://github.com/flaviens"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55843305?s=40&v=4",
-          "name": "lucabertaccini",
-          "url": "https://github.com/lucabertaccini"
-        }
-      ]
-    },
-    {
-      "title": "lowRISC/opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "3,127",
-      "forks": "951",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104845?s=40&v=4",
-          "name": "rswarbrick",
-          "url": "https://github.com/rswarbrick"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
-          "name": "msfschaffner",
-          "url": "https://github.com/msfschaffner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11466553?s=40&v=4",
-          "name": "cindychip",
-          "url": "https://github.com/cindychip"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5633066?s=40&v=4",
-          "name": "timothytrippel",
-          "url": "https://github.com/timothytrippel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20307557?s=40&v=4",
-          "name": "vogelpi",
-          "url": "https://github.com/vogelpi"
-        }
-      ]
-    },
-    {
-      "title": "pulp-platform/riscv-dbg",
-      "url": "https://github.com/pulp-platform/riscv-dbg",
-      "description": "RISC-V Debug Support for our PULP RISC-V Cores",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "294",
-      "forks": "90",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13798471?s=40&v=4",
-          "name": "bluewww",
-          "url": "https://github.com/bluewww"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
-          "name": "zarubaf",
-          "url": "https://github.com/zarubaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
-          "name": "msfschaffner",
-          "url": "https://github.com/msfschaffner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
-          "name": "andreaskurth",
-          "url": "https://github.com/andreaskurth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40633348?s=40&v=4",
-          "name": "Silabs-ArjanB",
-          "url": "https://github.com/Silabs-ArjanB"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "title": "GitHub Luau Languages Daily Trending",
   "description": "Daily Trending of Luau Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Feb 2026 14:15:16 GMT",
+  "pubDate": "Wed, 11 Feb 2026 19:55:45 GMT",
   "items": [
     {
       "title": "boshyxd/robloxstudio-mcp",
@@ -10,8 +10,8 @@
       "description": "Create agentic AI workflows in ROBLOX Studio",
       "language": "Luau",
       "languageColor": "#00A2FF",
-      "stars": "157",
-      "forks": "33",
+      "stars": "159",
+      "forks": "34",
       "addStars": "5",
       "contributors": [
         {

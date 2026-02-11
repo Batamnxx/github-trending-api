@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Daily Trending",
   "description": "Daily Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Feb 2026 14:15:16 GMT",
+  "pubDate": "Wed, 11 Feb 2026 19:55:45 GMT",
   "items": [
     {
       "title": "algerkong/AlgerMusicPlayer",
@@ -10,7 +10,7 @@
       "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "14,224",
+      "stars": "14,227",
       "forks": "1,178",
       "addStars": "16",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,229",
-      "forks": "1,016",
+      "stars": "6,230",
+      "forks": "1,015",
       "addStars": "8",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,832",
+      "stars": "6,833",
       "forks": "908",
       "addStars": "38",
       "contributors": [
@@ -153,8 +153,8 @@
       "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "31,529",
-      "forks": "8,586",
+      "stars": "31,527",
+      "forks": "8,587",
       "addStars": "7",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "27,863",
+      "stars": "27,864",
       "forks": "3,150",
       "addStars": "7",
       "contributors": [
@@ -301,7 +301,7 @@
       "description": "A browser extension for automating your browser by connecting blocks",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "21,007",
+      "stars": "21,006",
       "forks": "2,294",
       "addStars": "10",
       "contributors": [
@@ -365,7 +365,7 @@
       "description": "Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,501",
+      "stars": "1,502",
       "forks": "205",
       "addStars": "4",
       "contributors": [
@@ -515,7 +515,7 @@
       "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "32,557",
+      "stars": "32,558",
       "forks": "4,731",
       "addStars": "7",
       "contributors": [
@@ -552,7 +552,7 @@
       "description": "Next Generation Vue UI Component Library",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "14,066",
+      "stars": "14,067",
       "forks": "1,643",
       "addStars": "8",
       "contributors": [

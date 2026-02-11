@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Feb 2026 03:50:35 GMT",
+  "pubDate": "Wed, 11 Feb 2026 07:57:19 GMT",
   "items": [
     {
       "title": "koreader/koreader",
@@ -10,7 +10,7 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "25,344",
+      "stars": "25,345",
       "forks": "1,619",
       "addStars": "11",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "✨ AI Coding, Vim Style",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,114",
+      "stars": "6,115",
       "forks": "370",
       "addStars": "6",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "15,645",
-      "forks": "1,000",
+      "stars": "15,646",
+      "forks": "1,001",
       "addStars": "14",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "Integrate the opencode AI assistant with Neovim — streamline editor-aware research, reviews, and requests.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,476",
+      "stars": "2,479",
       "forks": "86",
       "addStars": "22",
       "contributors": [
@@ -434,7 +434,7 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "42,729",
+      "stars": "42,730",
       "forks": "5,067",
       "addStars": "6",
       "contributors": [
@@ -471,7 +471,7 @@
       "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "5,319",
+      "stars": "5,320",
       "forks": "168",
       "addStars": "3",
       "contributors": [
@@ -545,7 +545,7 @@
       "description": "A small automated session manager for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,768",
+      "stars": "1,769",
       "forks": "56",
       "addStars": "2",
       "contributors": [
@@ -582,7 +582,7 @@
       "description": "A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,890",
+      "stars": "1,891",
       "forks": "88",
       "addStars": "6",
       "contributors": [
@@ -651,7 +651,7 @@
       "description": "白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,012",
+      "stars": "3,013",
       "forks": "136",
       "addStars": "5",
       "contributors": [
@@ -688,7 +688,7 @@
       "description": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "5,895",
+      "stars": "5,898",
       "forks": "217",
       "addStars": "2",
       "contributors": [

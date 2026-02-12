@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Feb 2026 03:46:23 GMT",
+  "pubDate": "Thu, 12 Feb 2026 07:55:50 GMT",
   "items": [
     {
       "title": "google/langextract",
@@ -10,8 +10,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,603",
-      "forks": "2,045",
+      "stars": "30,777",
+      "forks": "2,058",
       "addStars": "3,186",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,786",
-      "forks": "125",
+      "stars": "1,858",
+      "forks": "129",
       "addStars": "390",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C#",
       "languageColor": "#178600",
-      "stars": "129,449",
-      "forks": "7,698",
+      "stars": "129,497",
+      "forks": "7,703",
       "addStars": "67",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,052",
-      "forks": "1,425",
+      "stars": "24,132",
+      "forks": "1,432",
       "addStars": "120",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,517",
-      "forks": "664",
+      "stars": "8,576",
+      "forks": "669",
       "addStars": "272",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "28,725",
-      "forks": "4,687",
+      "stars": "28,846",
+      "forks": "4,699",
       "addStars": "154",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,621",
-      "forks": "932",
+      "stars": "9,792",
+      "forks": "941",
       "addStars": "440",
       "contributors": [
         {

@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Thu, 12 Feb 2026 14:10:49 GMT</pubDate>
+    <pubDate>Thu, 12 Feb 2026 19:50:46 GMT</pubDate>
     <item>
       <title>Anduin2017/HowToCook</title>
       <link>https://github.com/Anduin2017/HowToCook</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Anduin2017/HowToCook</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>97,912</stars>
-      <forks>10,820</forks>
+      <stars>97,914</stars>
+      <forks>10,819</forks>
       <addStars>1,021</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/AsahiLinux/docs</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>2,096</stars>
+      <stars>2,097</stars>
       <forks>92</forks>
       <addStars>34</addStars>
       <contributors>
@@ -144,7 +144,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>11,060</stars>
-      <forks>3,503</forks>
+      <forks>3,504</forks>
       <addStars>98</addStars>
       <contributors>
         <contributor>
@@ -210,7 +210,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>105,093</stars>
-      <forks>10,692</forks>
+      <forks>10,693</forks>
       <addStars>305</addStars>
       <contributors>
         <contributor>
@@ -302,6 +302,39 @@
       </contributors>
     </item>
     <item>
+      <title>poulainpi/oryx-with-custom-qmk</title>
+      <link>https://github.com/poulainpi/oryx-with-custom-qmk</link>
+      <description>Enhance your Oryx layout with advanced QMK features like Achordion, while retaining the ability to edit it via Oryx, then build it seamlessly with GitHub Actions</description>
+      <guid>https://github.com/poulainpi/oryx-with-custom-qmk</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>199</stars>
+      <forks>460</forks>
+      <addStars>8</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28201009?s=40&amp;v=4</avatar>
+          <name>poulainpi</name>
+          <url>https://github.com/poulainpi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1190255?s=40&amp;v=4</avatar>
+          <name>radmen</name>
+          <url>https://github.com/radmen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/661570?s=40&amp;v=4</avatar>
+          <name>blehrer</name>
+          <url>https://github.com/blehrer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1008043?s=40&amp;v=4</avatar>
+          <name>nivekmai</name>
+          <url>https://github.com/nivekmai</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>piyushsachdeva/CKA-2024</title>
       <link>https://github.com/piyushsachdeva/CKA-2024</link>
       <description>This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.</description>
@@ -347,7 +380,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>4,827</stars>
-      <forks>1,956</forks>
+      <forks>1,955</forks>
       <addStars>26</addStars>
       <contributors>
         <contributor>

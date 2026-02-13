@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Daily Trending",
   "description": "Daily Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Feb 2026 14:02:24 GMT",
+  "pubDate": "Fri, 13 Feb 2026 19:44:38 GMT",
   "items": [
     {
       "title": "Flowseal/zapret-discord-youtube",
@@ -10,8 +10,8 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "22,424",
-      "forks": "1,860",
+      "stars": "22,493",
+      "forks": "1,866",
       "addStars": "81",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "1,572",
-      "forks": "135",
+      "stars": "1,574",
+      "forks": "136",
       "addStars": "4",
       "contributors": [
         {
@@ -271,7 +271,7 @@
       "description": "Python best practices guidebook, written for humans.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "29,503",
+      "stars": "29,504",
       "forks": "5,915",
       "addStars": "2",
       "contributors": [

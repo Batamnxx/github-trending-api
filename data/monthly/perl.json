@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Feb 2026 14:02:24 GMT",
+  "pubDate": "Fri, 13 Feb 2026 19:44:38 GMT",
   "items": [
     {
       "title": "adrienverge/openfortivpn",
@@ -121,7 +121,7 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "4,413",
+      "stars": "4,414",
       "forks": "416",
       "addStars": "91",
       "contributors": [
@@ -509,7 +509,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": "1,445",
-      "forks": "1,193",
+      "forks": "1,192",
       "addStars": "13",
       "contributors": [
         {

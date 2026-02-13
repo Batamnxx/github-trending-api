@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Weekly Trending",
   "description": "Weekly Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Feb 2026 03:42:44 GMT",
+  "pubDate": "Fri, 13 Feb 2026 07:52:42 GMT",
   "items": [
     {
       "title": "posquit0/Awesome-CV",
@@ -10,8 +10,8 @@
       "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "26,254",
-      "forks": "5,154",
+      "stars": "26,263",
+      "forks": "5,153",
       "addStars": "72",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "243",
+      "stars": "252",
       "forks": "20",
       "addStars": "93",
       "contributors": [
@@ -55,11 +55,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/233163904?s=40&v=4",
           "name": "dawsenhwang",
           "url": "https://github.com/dawsenhwang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41418083?s=40&v=4",
-          "name": "nurijunsu",
-          "url": "https://github.com/nurijunsu"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/396613?s=40&v=4",
@@ -111,7 +106,7 @@
       "description": "贵校课程资料民间整理",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "33,294",
+      "stars": "33,295",
       "forks": "8,272",
       "addStars": "17",
       "contributors": [
@@ -185,8 +180,8 @@
       "description": "Software developer resume in Latex",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,444",
-      "forks": "1,786",
+      "stars": "6,445",
+      "forks": "1,785",
       "addStars": "14",
       "contributors": [
         {
@@ -393,7 +388,7 @@
       "language": "TeX",
       "languageColor": "#3D6117",
       "stars": "13,410",
-      "forks": "778",
+      "forks": "780",
       "addStars": "18",
       "contributors": [
         {

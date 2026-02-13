@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Feb 2026 03:42:44 GMT",
+  "pubDate": "Fri, 13 Feb 2026 07:52:42 GMT",
   "items": [
     {
       "title": "drawdb-io/drawdb",
@@ -42,8 +42,8 @@
       "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "18,156",
-      "forks": "2,129",
+      "stars": "18,163",
+      "forks": "2,130",
       "addStars": "63",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "The iconic SVG, font, and CSS toolkit",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "76,335",
+      "stars": "76,336",
       "forks": "12,254",
       "addStars": "10",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "51,808",
-      "forks": "11,331",
+      "stars": "51,809",
+      "forks": "11,330",
       "addStars": "11",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,937",
-      "forks": "3,354",
+      "stars": "11,939",
+      "forks": "3,355",
       "addStars": "3",
       "contributors": [
         {
@@ -249,7 +249,7 @@
       "description": "The open source server management software for SSH, VNC & RDP",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,911",
+      "stars": "3,923",
       "forks": "207",
       "addStars": "60",
       "contributors": [
@@ -276,7 +276,7 @@
       "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "97,802",
+      "stars": "97,805",
       "forks": "32,765",
       "addStars": "9",
       "contributors": [
@@ -303,7 +303,7 @@
       "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "12,129",
+      "stars": "12,131",
       "forks": "1,605",
       "addStars": "8",
       "contributors": [
@@ -340,7 +340,7 @@
       "description": "一个全新的，强大的AI-API-工具交互范式AGI社群系统。独立多Agent封装，非线性超异步工作流，交叉记忆网络，六大插件协议，完整Websocket和WebDav功能，支持分布式部署和算力均衡！",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,022",
+      "stars": "1,025",
       "forks": "183",
       "addStars": "9",
       "contributors": [
@@ -377,7 +377,7 @@
       "description": "Simple HTML5 Charts using the <canvas> tag",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "67,133",
+      "stars": "67,135",
       "forks": "11,991",
       "addStars": "10",
       "contributors": [
@@ -414,7 +414,7 @@
       "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,092",
+      "stars": "11,095",
       "forks": "14,403",
       "addStars": "7",
       "contributors": [

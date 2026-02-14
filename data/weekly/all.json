@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 14 Feb 2026 03:31:03 GMT",
+  "pubDate": "Sat, 14 Feb 2026 07:38:06 GMT",
   "items": [
     {
       "title": "KeygraphHQ/shannon",
@@ -10,8 +10,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,677",
-      "forks": "2,178",
+      "stars": "21,745",
+      "forks": "2,186",
       "addStars": "16,589",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,025",
-      "forks": "2,136",
+      "stars": "32,086",
+      "forks": "2,142",
       "addStars": "7,832",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,197",
-      "forks": "155",
+      "stars": "2,231",
+      "forks": "163",
       "addStars": "1,750",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,381",
-      "forks": "466",
+      "stars": "8,409",
+      "forks": "470",
       "addStars": "3,747",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,220",
-      "forks": "149",
+      "stars": "2,270",
+      "forks": "150",
       "addStars": "1,711",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,038",
-      "forks": "1,801",
+      "stars": "15,054",
+      "forks": "1,804",
       "addStars": "4,352",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,684",
-      "forks": "1,162",
+      "stars": "11,728",
+      "forks": "1,170",
       "addStars": "4,044",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,215",
-      "forks": "3,702",
+      "stars": "17,223",
+      "forks": "3,706",
       "addStars": "1,568",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,939",
-      "forks": "1,868",
+      "stars": "28,000",
+      "forks": "1,871",
       "addStars": "3,745",
       "contributors": [
         {
@@ -313,7 +313,7 @@
       "description": "Official Claude Code compound engineering plugin",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,801",
+      "stars": "8,815",
       "forks": "683",
       "addStars": "1,457",
       "contributors": [
@@ -350,8 +350,8 @@
       "description": "基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,406",
-      "forks": "449",
+      "stars": "1,409",
+      "forks": "452",
       "addStars": "323",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "一款提示词优化器，助力于编写高质量的提示词",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,981",
-      "forks": "2,546",
+      "stars": "21,036",
+      "forks": "2,555",
       "addStars": "1,329",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,326",
-      "forks": "442",
+      "stars": "8,353",
+      "forks": "444",
       "addStars": "1,539",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "94,810",
-      "forks": "13,736",
+      "stars": "94,850",
+      "forks": "13,740",
       "addStars": "2,326",
       "contributors": [
         {
@@ -498,7 +498,7 @@
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,623",
+      "stars": "2,631",
       "forks": "173",
       "addStars": "941",
       "contributors": [
@@ -520,8 +520,8 @@
       "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,118",
-      "forks": "1,282",
+      "stars": "11,130",
+      "forks": "1,283",
       "addStars": "293",
       "contributors": [
         {

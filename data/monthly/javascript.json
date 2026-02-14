@@ -2,16 +2,53 @@
   "title": "GitHub Javascript Languages Monthly Trending",
   "description": "Monthly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 14 Feb 2026 13:44:11 GMT",
+  "pubDate": "Sat, 14 Feb 2026 19:28:54 GMT",
   "items": [
+    {
+      "title": "gsd-build/get-shit-done",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "13,977",
+      "forks": "1,328",
+      "addStars": "11,446",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/186001655?s=40&v=4",
+          "name": "glittercowboy",
+          "url": "https://github.com/glittercowboy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4",
+          "name": "jjshanks",
+          "url": "https://github.com/jjshanks"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3037759?s=40&v=4",
+          "name": "davesienkowski",
+          "url": "https://github.com/davesienkowski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/325706?s=40&v=4",
+          "name": "dbachelder",
+          "url": "https://github.com/dbachelder"
+        }
+      ]
+    },
     {
       "title": "vercel-labs/agent-skills",
       "url": "https://github.com/vercel-labs/agent-skills",
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "20,292",
-      "forks": "1,843",
+      "stars": "20,328",
+      "forks": "1,845",
       "addStars": "20,183",
       "contributors": [
         {
@@ -47,8 +84,8 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,185",
-      "forks": "2,419",
+      "stars": "21,206",
+      "forks": "2,424",
       "addStars": "3,876",
       "contributors": [
         {
@@ -74,7 +111,7 @@
       "description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,792",
+      "stars": "1,796",
       "forks": "201",
       "addStars": "412",
       "contributors": [
@@ -111,7 +148,7 @@
       "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,861",
+      "stars": "6,868",
       "forks": "756",
       "addStars": "5,442",
       "contributors": [
@@ -143,7 +180,7 @@
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,172",
+      "stars": "21,174",
       "forks": "4,857",
       "addStars": "693",
       "contributors": [
@@ -180,8 +217,8 @@
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "59,842",
-      "forks": "20,495",
+      "stars": "59,844",
+      "forks": "20,494",
       "addStars": "218",
       "contributors": [
         {
@@ -217,8 +254,8 @@
       "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "44,222",
-      "forks": "2,995",
+      "stars": "44,224",
+      "forks": "2,997",
       "addStars": "397",
       "contributors": [
         {
@@ -244,8 +281,8 @@
       "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,235",
-      "forks": "818",
+      "stars": "6,242",
+      "forks": "819",
       "addStars": "806",
       "contributors": [
         {
@@ -281,7 +318,7 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,136",
+      "stars": "8,140",
       "forks": "594",
       "addStars": "841",
       "contributors": [
@@ -318,7 +355,7 @@
       "description": "Acode - powerful text/code editor for android",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,541",
+      "stars": "4,545",
       "forks": "807",
       "addStars": "222",
       "contributors": [
@@ -355,7 +392,7 @@
       "description": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,685",
+      "stars": "1,687",
       "forks": "94",
       "addStars": "441",
       "contributors": [
@@ -382,8 +419,8 @@
       "description": "JavaScript animation engine",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "66,492",
-      "forks": "4,443",
+      "stars": "66,497",
+      "forks": "4,445",
       "addStars": "737",
       "contributors": [
         {
@@ -419,7 +456,7 @@
       "description": "Find and fix problems in your JavaScript code.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "26,894",
+      "stars": "26,895",
       "forks": "4,903",
       "addStars": "144",
       "contributors": [
@@ -456,8 +493,8 @@
       "description": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,752",
-      "forks": "719",
+      "stars": "6,755",
+      "forks": "721",
       "addStars": "340",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 14 Feb 2026 13:44:11 GMT",
+  "pubDate": "Sat, 14 Feb 2026 19:28:54 GMT",
   "items": [
     {
       "title": "yctimlin/mcp_excalidraw",
@@ -10,7 +10,7 @@
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "884",
+      "stars": "892",
       "forks": "83",
       "addStars": "146",
       "contributors": [
@@ -45,9 +45,9 @@
       "title": "microsoft/playwright-cli",
       "url": "https://github.com/microsoft/playwright-cli",
       "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "3,389",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "3,459",
       "forks": "131",
       "addStars": "869",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,136",
+      "stars": "8,140",
       "forks": "594",
       "addStars": "478",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,034",
-      "forks": "2,992",
+      "stars": "8,042",
+      "forks": "2,991",
       "addStars": "186",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "⚡ Dynamically generated stats for your github readmes",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "78,354",
-      "forks": "30,459",
+      "stars": "78,358",
+      "forks": "30,470",
       "addStars": "145",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "44,222",
-      "forks": "2,995",
+      "stars": "44,224",
+      "forks": "2,997",
       "addStars": "155",
       "contributors": [
         {
@@ -244,7 +244,7 @@
       "description": "Vamos transformar o Brasil em uma API?",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,193",
+      "stars": "10,195",
       "forks": "694",
       "addStars": "81",
       "contributors": [
@@ -281,8 +281,8 @@
       "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,100",
-      "forks": "14,415",
+      "stars": "11,103",
+      "forks": "14,418",
       "addStars": "69",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "18,187",
-      "forks": "2,126",
+      "stars": "18,189",
+      "forks": "2,127",
       "addStars": "362",
       "contributors": [
         {
@@ -350,7 +350,7 @@
       "description": "a graph explorer of the Epstein emails",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "518",
+      "stars": "519",
       "forks": "96",
       "addStars": "90",
       "contributors": [

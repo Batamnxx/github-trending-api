@@ -2,7 +2,7 @@
   "title": "GitHub Svelte Languages Monthly Trending",
   "description": "Monthly Trending of Svelte Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 14 Feb 2026 13:44:11 GMT",
+  "pubDate": "Sat, 14 Feb 2026 19:28:54 GMT",
   "items": [
     {
       "title": "saadeghi/daisyui",
@@ -10,7 +10,7 @@
       "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "40,242",
+      "stars": "40,244",
       "forks": "1,607",
       "addStars": "410",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "38,615",
+      "stars": "38,618",
       "forks": "3,194",
       "addStars": "584",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Self-hostable travel tracker and trip planner.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "2,656",
+      "stars": "2,655",
       "forks": "181",
       "addStars": "130",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly—100% open source and self hosted, with native Postgres access control.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "4,825",
+      "stars": "4,826",
       "forks": "471",
       "addStars": "89",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Statue: Svelte + Markdown Static Site Generator, launch a website for your business, blog, portfolio, or product in seconds, with one-line setup",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "158",
+      "stars": "159",
       "forks": "35",
       "addStars": "29",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "FreeShow is a free and open-source, user-friendly presenter software.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "1,012",
+      "stars": "1,013",
       "forks": "193",
       "addStars": "42",
       "contributors": [
@@ -264,7 +264,7 @@
       "description": "A Radio Script for Fivem Server",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "158",
+      "stars": "159",
       "forks": "54",
       "addStars": "3",
       "contributors": [
@@ -476,7 +476,7 @@
       "description": "Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "3,151",
+      "stars": "3,152",
       "forks": "185",
       "addStars": "29",
       "contributors": [
@@ -577,7 +577,7 @@
       "description": "Simple Tidal frontend. Also on tidal.squid.wtf and tidal.qqdl.site",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "1,024",
+      "stars": "1,025",
       "forks": "90",
       "addStars": "214",
       "contributors": [

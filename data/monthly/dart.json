@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Monthly Trending",
   "description": "Monthly Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Feb 2026 13:45:51 GMT",
+  "pubDate": "Sun, 15 Feb 2026 19:31:05 GMT",
   "items": [
     {
       "title": "Predidit/Kazumi",
@@ -10,7 +10,7 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "21,088",
+      "stars": "21,093",
       "forks": "602",
       "addStars": "1,826",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "11,871",
+      "stars": "11,875",
       "forks": "1,032",
       "addStars": "492",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "175,209",
-      "forks": "29,987",
+      "stars": "175,213",
+      "forks": "29,988",
       "addStars": "739",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "PiliPlus",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "10,548",
+      "stars": "10,558",
       "forks": "631",
       "addStars": "1,323",
       "contributors": [
@@ -232,8 +232,8 @@
       "description": "The cutest instant messenger in the [matrix]",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,329",
-      "forks": "448",
+      "stars": "2,331",
+      "forks": "449",
       "addStars": "148",
       "contributors": [
         {
@@ -269,7 +269,7 @@
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "74,993",
+      "stars": "75,014",
       "forks": "3,996",
       "addStars": "1,832",
       "contributors": [
@@ -306,7 +306,7 @@
       "description": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,230",
+      "stars": "15,231",
       "forks": "11,139",
       "addStars": "115",
       "contributors": [
@@ -338,7 +338,7 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "31,591",
+      "stars": "31,601",
       "forks": "1,923",
       "addStars": "2,422",
       "contributors": [
@@ -365,7 +365,7 @@
       "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "68,075",
+      "stars": "68,079",
       "forks": "4,892",
       "addStars": "699",
       "contributors": [
@@ -439,7 +439,7 @@
       "description": "🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,548",
+      "stars": "1,549",
       "forks": "223",
       "addStars": "247",
       "contributors": [
@@ -476,7 +476,7 @@
       "description": "一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 / A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,796",
+      "stars": "2,798",
       "forks": "161",
       "addStars": "180",
       "contributors": [
@@ -493,8 +493,8 @@
       "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "9,657",
-      "forks": "865",
+      "stars": "9,662",
+      "forks": "866",
       "addStars": "660",
       "contributors": [
         {
@@ -530,7 +530,7 @@
       "description": "获取微信4.0版本以上数据库密钥和图片密钥的工具 | A tool for obtaining database keys and image keys for WeChat versions 4.0 and above",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,318",
+      "stars": "1,319",
       "forks": "571",
       "addStars": "274",
       "contributors": [
@@ -584,8 +584,8 @@
       "description": "💊 Application to use ReVanced on Android",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "25,855",
-      "forks": "1,027",
+      "stars": "25,859",
+      "forks": "1,028",
       "addStars": "572",
       "contributors": [
         {

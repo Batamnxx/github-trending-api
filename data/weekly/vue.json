@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Weekly Trending",
   "description": "Weekly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Feb 2026 03:44:12 GMT",
+  "pubDate": "Sun, 15 Feb 2026 07:40:34 GMT",
   "items": [
     {
       "title": "HuLaSpark/HuLa",
@@ -10,7 +10,7 @@
       "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,871",
+      "stars": "6,870",
       "forks": "912",
       "addStars": "223",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Mihomo Dashboard, The Official One, XD",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "3,088",
+      "stars": "3,089",
       "forks": "415",
       "addStars": "49",
       "contributors": [
@@ -175,7 +175,7 @@
       "description": "Collection of handy online tools for developers, with great UX.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "37,034",
+      "stars": "37,035",
       "forks": "4,614",
       "addStars": "123",
       "contributors": [
@@ -313,50 +313,13 @@
       ]
     },
     {
-      "title": "v03413/BEpusdt",
-      "url": "https://github.com/v03413/BEpusdt",
-      "description": "一款更好用的个人加密货币收款网关，兼容所有 Epusdt 插件，可无缝切换，支持动态汇率、支持Docker部署；支持独角发卡 彩虹易支付",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "1,208",
-      "forks": "298",
-      "addStars": "20",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49953737?s=40&v=4",
-          "name": "v03413",
-          "url": "https://github.com/v03413"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30405429?s=40&v=4",
-          "name": "betaxab",
-          "url": "https://github.com/betaxab"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13377178?s=40&v=4",
-          "name": "long2ice",
-          "url": "https://github.com/long2ice"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25740693?s=40&v=4",
-          "name": "markwhitey",
-          "url": "https://github.com/markwhitey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/256516211?s=40&v=4",
-          "name": "ninex-studio",
-          "url": "https://github.com/ninex-studio"
-        }
-      ]
-    },
-    {
       "title": "imsyy/home",
       "url": "https://github.com/imsyy/home",
       "description": "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "4,499",
-      "forks": "3,020",
+      "forks": "3,019",
       "addStars": "21",
       "contributors": [
         {
@@ -392,7 +355,7 @@
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "23,983",
+      "stars": "23,984",
       "forks": "1,767",
       "addStars": "76",
       "contributors": [

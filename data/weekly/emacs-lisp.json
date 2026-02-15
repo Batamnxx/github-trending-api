@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Weekly Trending",
   "description": "Weekly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Feb 2026 03:44:12 GMT",
+  "pubDate": "Sun, 15 Feb 2026 07:40:34 GMT",
   "items": [
     {
       "title": "karthink/gptel",
@@ -47,7 +47,7 @@
       "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "2,073",
+      "stars": "2,074",
       "forks": "235",
       "addStars": "31",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Claude Code IDE integration for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "1,339",
+      "stars": "1,340",
       "forks": "76",
       "addStars": "16",
       "contributors": [
@@ -676,7 +676,7 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "686",
+      "stars": "687",
       "forks": "88",
       "addStars": "33",
       "contributors": [

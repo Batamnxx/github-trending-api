@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Monthly Trending",
   "description": "Monthly Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 14 Feb 2026 19:28:54 GMT",
+  "pubDate": "Sun, 15 Feb 2026 03:44:12 GMT",
   "items": [
     {
       "title": "posquit0/Awesome-CV",
@@ -10,9 +10,9 @@
       "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "26,598",
-      "forks": "5,164",
-      "addStars": "324",
+      "stars": "26,629",
+      "forks": "5,165",
+      "addStars": "648",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1484002?s=40&v=4",
@@ -81,7 +81,7 @@
       "languageColor": "#3D6117",
       "stars": "6,304",
       "forks": "1,933",
-      "addStars": "34",
+      "addStars": "33",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/85014?s=40&v=4",
@@ -118,7 +118,7 @@
       "languageColor": "#3D6117",
       "stars": "21",
       "forks": "4",
-      "addStars": "16",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30270865?s=40&v=4",
@@ -139,8 +139,8 @@
       "language": "TeX",
       "languageColor": "#3D6117",
       "stars": "6,443",
-      "forks": "1,785",
-      "addStars": "74",
+      "forks": "1,786",
+      "addStars": "73",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1517779?s=40&v=4",
@@ -177,7 +177,7 @@
       "languageColor": "#3D6117",
       "stars": "33,293",
       "forks": "8,270",
-      "addStars": "83",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45264158?s=40&v=4",
@@ -213,8 +213,8 @@
       "language": "TeX",
       "languageColor": "#3D6117",
       "stars": "10,728",
-      "forks": "2,805",
-      "addStars": "93",
+      "forks": "2,806",
+      "addStars": "96",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1292567?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "9,876",
+      "stars": "9,875",
       "forks": "2,223",
-      "addStars": "108",
+      "addStars": "105",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11382789?s=40&v=4",
@@ -323,7 +323,7 @@
       "description": "RISC-V Instruction Set Manual",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "4,494",
+      "stars": "4,495",
       "forks": "792",
       "addStars": "54",
       "contributors": [
@@ -360,9 +360,9 @@
       "description": "VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,166",
+      "stars": "6,167",
       "forks": "407",
-      "addStars": "43",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/998898?s=40&v=4",
@@ -399,7 +399,7 @@
       "languageColor": "#3D6117",
       "stars": "1,421",
       "forks": "403",
-      "addStars": "26",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54777542?s=40&v=4",

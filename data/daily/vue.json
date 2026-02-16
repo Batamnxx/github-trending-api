@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Daily Trending",
   "description": "Daily Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 16 Feb 2026 03:44:14 GMT",
+  "pubDate": "Mon, 16 Feb 2026 07:56:43 GMT",
   "items": [
     {
       "title": "thelastoutpostworkshop/ESPConnect",
@@ -10,7 +10,7 @@
       "description": "Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,553",
+      "stars": "1,554",
       "forks": "214",
       "addStars": "12",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "23,992",
+      "stars": "23,993",
       "forks": "1,768",
       "addStars": "11",
       "contributors": [
@@ -107,7 +107,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "140",
-      "forks": "279",
+      "forks": "281",
       "addStars": "0",
       "contributors": [
         {
@@ -181,7 +181,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "311",
-      "forks": "33,695",
+      "forks": "33,713",
       "addStars": "2",
       "contributors": [
         {
@@ -217,7 +217,7 @@
       "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "27,882",
+      "stars": "27,883",
       "forks": "3,148",
       "addStars": "7",
       "contributors": [
@@ -286,7 +286,7 @@
       "description": "Fully featured, open source CRM",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,345",
+      "stars": "2,346",
       "forks": "887",
       "addStars": "2",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "181",
+      "stars": "182",
       "forks": "4",
       "addStars": "11",
       "contributors": [
@@ -340,7 +340,7 @@
       "description": "Ceru Music 是基于 Electron 和 Vue 开发的跨平台桌面音乐播放器工具，借鉴洛雪音乐插件思想，提供插件运行框架与播放功能，不直接存储、提供任何音乐源文件。用户需通过自行选择、安装合规插件获取音乐相关数据，项目旨在为开发者提供桌面应用技术实践与学习案例，为用户提供合规的音乐播放工具框架。",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "951",
+      "stars": "950",
       "forks": "51",
       "addStars": "9",
       "contributors": [
@@ -377,7 +377,7 @@
       "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "4,949",
+      "stars": "4,950",
       "forks": "582",
       "addStars": "1",
       "contributors": [
@@ -510,7 +510,7 @@
       "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,751",
+      "stars": "2,750",
       "forks": "162",
       "addStars": "2",
       "contributors": [
@@ -616,7 +616,7 @@
       "description": "Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,635",
+      "stars": "1,636",
       "forks": "108",
       "addStars": "0",
       "contributors": [

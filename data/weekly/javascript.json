@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 16 Feb 2026 03:44:14 GMT",
+  "pubDate": "Mon, 16 Feb 2026 07:56:43 GMT",
   "items": [
     {
       "title": "drawdb-io/drawdb",
@@ -79,8 +79,8 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,150",
-      "forks": "595",
+      "stars": "8,153",
+      "forks": "596",
       "addStars": "171",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,082",
-      "forks": "3,003",
+      "stars": "8,087",
+      "forks": "3,006",
       "addStars": "203",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "44,239",
+      "stars": "44,240",
       "forks": "2,998",
       "addStars": "152",
       "contributors": [
@@ -175,8 +175,8 @@
       "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,110",
-      "forks": "14,415",
+      "stars": "11,111",
+      "forks": "14,414",
       "addStars": "69",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "⚡ Dynamically generated stats for your github readmes",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "78,375",
-      "forks": "30,521",
+      "stars": "78,378",
+      "forks": "30,524",
       "addStars": "135",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "18,208",
-      "forks": "2,133",
+      "stars": "18,214",
+      "forks": "2,135",
       "addStars": "298",
       "contributors": [
         {
@@ -276,7 +276,7 @@
       "description": "a free and opensource app that lets you gain an unfair advantage",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,058",
+      "stars": "5,059",
       "forks": "858",
       "addStars": "41",
       "contributors": [
@@ -313,7 +313,7 @@
       "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,097",
+      "stars": "21,098",
       "forks": "1,958",
       "addStars": "286",
       "contributors": [
@@ -377,7 +377,7 @@
       "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "40,876",
+      "stars": "40,879",
       "forks": "2,113",
       "addStars": "184",
       "contributors": [

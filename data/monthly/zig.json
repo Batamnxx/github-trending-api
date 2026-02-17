@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Monthly Trending",
   "description": "Monthly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 17 Feb 2026 03:38:56 GMT",
+  "pubDate": "Tue, 17 Feb 2026 07:52:54 GMT",
   "items": [
     {
       "title": "ghostty-org/ghostty",
@@ -10,8 +10,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "43,871",
-      "forks": "1,645",
+      "stars": "43,884",
+      "forks": "1,646",
       "addStars": "2,493",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "449",
+      "stars": "450",
       "forks": "39",
       "addStars": "153",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "[mirror] A non-monolithic Wayland compositor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,931",
+      "stars": "3,932",
       "forks": "161",
       "addStars": "75",
       "contributors": [
@@ -412,8 +412,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "87,364",
-      "forks": "4,062",
+      "stars": "87,372",
+      "forks": "4,059",
       "addStars": "1,140",
       "contributors": [
         {
@@ -444,7 +444,7 @@
       "description": "Session persistence for terminal processes",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "808",
+      "stars": "809",
       "forks": "26",
       "addStars": "123",
       "contributors": [
@@ -540,7 +540,7 @@
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,063",
+      "stars": "3,067",
       "forks": "187",
       "addStars": "38",
       "contributors": [

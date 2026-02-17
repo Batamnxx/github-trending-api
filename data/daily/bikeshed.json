@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 17 Feb 2026 03:38:56 GMT",
+  "pubDate": "Tue, 17 Feb 2026 07:52:54 GMT",
   "items": [
     {
       "title": "webmachinelearning/webmcp",
@@ -10,8 +10,8 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "1,235",
-      "forks": "68",
+      "stars": "1,249",
+      "forks": "69",
       "addStars": "87",
       "contributors": [
         {

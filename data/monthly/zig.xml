@@ -3,7 +3,7 @@
     <title>GitHub Zig Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Zig Languages in GitHub</description>
-    <pubDate>Tue, 17 Feb 2026 03:38:56 GMT</pubDate>
+    <pubDate>Tue, 17 Feb 2026 07:52:54 GMT</pubDate>
     <item>
       <title>ghostty-org/ghostty</title>
       <link>https://github.com/ghostty-org/ghostty</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ghostty-org/ghostty</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>43,871</stars>
-      <forks>1,645</forks>
+      <stars>43,884</stars>
+      <forks>1,646</forks>
       <addStars>2,493</addStars>
       <contributors>
         <contributor>
@@ -125,7 +125,7 @@
       <guid>https://github.com/tonybanters/oxwm</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>449</stars>
+      <stars>450</stars>
       <forks>39</forks>
       <addStars>153</addStars>
       <contributors>
@@ -239,7 +239,7 @@
       <guid>https://github.com/riverwm/river</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>3,931</stars>
+      <stars>3,932</stars>
       <forks>161</forks>
       <addStars>75</addStars>
       <contributors>
@@ -424,8 +424,8 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>87,364</stars>
-      <forks>4,062</forks>
+      <stars>87,372</stars>
+      <forks>4,059</forks>
       <addStars>1,140</addStars>
       <contributors>
         <contributor>
@@ -457,7 +457,7 @@
       <guid>https://github.com/neurosnap/zmx</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>808</stars>
+      <stars>809</stars>
       <forks>26</forks>
       <addStars>123</addStars>
       <contributors>
@@ -556,7 +556,7 @@
       <guid>https://github.com/PixelGuys/Cubyz</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>3,063</stars>
+      <stars>3,067</stars>
       <forks>187</forks>
       <addStars>38</addStars>
       <contributors>

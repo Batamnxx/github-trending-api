@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 17 Feb 2026 14:06:24 GMT</pubDate>
+    <pubDate>Tue, 17 Feb 2026 19:49:01 GMT</pubDate>
     <item>
       <title>p-e-w/heretic</title>
       <link>https://github.com/p-e-w/heretic</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,774</stars>
-      <forks>681</forks>
+      <stars>7,009</stars>
+      <forks>700</forks>
       <addStars>666</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/seerr-team/seerr</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,188</stars>
-      <forks>609</forks>
+      <stars>9,269</stars>
+      <forks>610</forks>
       <addStars>283</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>53,198</stars>
-      <forks>4,042</forks>
+      <stars>53,440</stars>
+      <forks>4,055</forks>
       <addStars>725</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/steipete/gogcli</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,726</stars>
-      <forks>318</forks>
+      <stars>3,803</stars>
+      <forks>316</forks>
       <addStars>469</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/alibaba/zvec</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>4,254</stars>
-      <forks>227</forks>
+      <stars>4,388</stars>
+      <forks>235</forks>
       <addStars>1,473</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>203,731</stars>
-      <forks>36,825</forks>
+      <stars>204,709</stars>
+      <forks>37,194</forks>
       <addStars>4,201</addStars>
       <contributors>
         <contributor>
@@ -216,14 +216,14 @@
           <url>https://github.com/thewilloftheshadow</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5599352?s=40&amp;v=4</avatar>
           <name>gumadeiras</name>
           <url>https://github.com/gumadeiras</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
       </contributors>
     </item>
@@ -234,8 +234,8 @@
       <guid>https://github.com/SynkraAI/aios-core</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,080</stars>
-      <forks>374</forks>
+      <stars>1,140</stars>
+      <forks>390</forks>
       <addStars>194</addStars>
       <contributors>
         <contributor>
@@ -267,9 +267,9 @@
       <guid>https://github.com/ashishps1/awesome-system-design-resources</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>32,628</stars>
-      <forks>7,285</forks>
-      <addStars>1,097</addStars>
+      <stars>32,748</stars>
+      <forks>7,296</forks>
+      <addStars>457</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8646889?s=40&amp;v=4</avatar>
@@ -300,8 +300,8 @@
       <guid>https://github.com/steipete/summarize</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,271</stars>
-      <forks>213</forks>
+      <stars>3,370</stars>
+      <forks>215</forks>
       <addStars>117</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/hummingbot/hummingbot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,821</stars>
-      <forks>4,412</forks>
+      <stars>16,937</stars>
+      <forks>4,414</forks>
       <addStars>565</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/anthropics/claude-quickstarts</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,309</stars>
-      <forks>2,424</forks>
+      <stars>14,402</stars>
+      <forks>2,426</forks>
       <addStars>102</addStars>
       <contributors>
         <contributor>
@@ -414,8 +414,8 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,617</stars>
-      <forks>1,927</forks>
+      <stars>20,669</stars>
+      <forks>1,930</forks>
       <addStars>110</addStars>
       <contributors>
         <contributor>
@@ -447,8 +447,8 @@
       <guid>https://github.com/OpenCTI-Platform/opencti</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,273</stars>
-      <forks>1,222</forks>
+      <stars>8,348</stars>
+      <forks>1,224</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>

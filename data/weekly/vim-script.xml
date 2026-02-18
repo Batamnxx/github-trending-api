@@ -3,7 +3,7 @@
     <title>GitHub Vim-script Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Vim-script Languages in GitHub</description>
-    <pubDate>Wed, 18 Feb 2026 03:41:17 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2026 07:54:11 GMT</pubDate>
     <item>
       <title>vim/vim</title>
       <link>https://github.com/vim/vim</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/vim/vim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>39,858</stars>
+      <stars>39,861</stars>
       <forks>5,978</forks>
       <addStars>76</addStars>
       <contributors>
@@ -88,7 +88,7 @@
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
       <stars>35,569</stars>
-      <forks>1,950</forks>
+      <forks>1,949</forks>
       <addStars>34</addStars>
       <contributors>
         <contributor>
@@ -224,7 +224,7 @@
       <guid>https://github.com/mbbill/undotree</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>4,486</stars>
+      <stars>4,487</stars>
       <forks>116</forks>
       <addStars>10</addStars>
       <contributors>
@@ -262,8 +262,8 @@
       <guid>https://github.com/neovim/neovim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>96,504</stars>
-      <forks>6,583</forks>
+      <stars>96,503</stars>
+      <forks>6,584</forks>
       <addStars>196</addStars>
       <contributors>
         <contributor>
@@ -447,7 +447,7 @@
       <guid>https://github.com/amix/vimrc</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>31,692</stars>
+      <stars>31,691</stars>
       <forks>7,300</forks>
       <addStars>11</addStars>
       <contributors>
@@ -518,7 +518,7 @@
       <guid>https://github.com/preservim/vim-pencil</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>1,853</stars>
+      <stars>1,856</stars>
       <forks>41</forks>
       <addStars>175</addStars>
       <contributors>

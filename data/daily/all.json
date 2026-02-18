@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Feb 2026 03:41:17 GMT",
+  "pubDate": "Wed, 18 Feb 2026 07:54:11 GMT",
   "items": [
     {
       "title": "p-e-w/heretic",
@@ -10,8 +10,8 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,322",
-      "forks": "744",
+      "stars": "7,461",
+      "forks": "762",
       "addStars": "656",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,354",
-      "forks": "612",
+      "stars": "9,384",
+      "forks": "614",
       "addStars": "282",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "53,684",
-      "forks": "4,075",
+      "stars": "53,828",
+      "forks": "4,087",
       "addStars": "569",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,906",
-      "forks": "321",
+      "stars": "3,964",
+      "forks": "324",
       "addStars": "469",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,537",
-      "forks": "244",
+      "stars": "4,610",
+      "forks": "253",
       "addStars": "1,473",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "205,781",
-      "forks": "37,554",
+      "stars": "206,379",
+      "forks": "37,740",
       "addStars": "4,201",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,225",
-      "forks": "412",
+      "stars": "1,252",
+      "forks": "417",
       "addStars": "194",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "32,860",
-      "forks": "7,302",
+      "stars": "32,937",
+      "forks": "7,307",
       "addStars": "510",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,485",
-      "forks": "221",
+      "stars": "3,539",
+      "forks": "225",
       "addStars": "119",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,089",
-      "forks": "4,420",
+      "stars": "17,168",
+      "forks": "4,423",
       "addStars": "568",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,523",
-      "forks": "2,428",
+      "stars": "14,583",
+      "forks": "2,430",
       "addStars": "87",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,745",
-      "forks": "1,939",
+      "stars": "20,801",
+      "forks": "1,941",
       "addStars": "111",
       "contributors": [
         {
@@ -434,8 +434,8 @@
       "description": "Open Cyber Threat Intelligence Platform",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,434",
-      "forks": "1,228",
+      "stars": "8,484",
+      "forks": "1,231",
       "addStars": "16",
       "contributors": [
         {

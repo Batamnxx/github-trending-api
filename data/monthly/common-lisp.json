@@ -2,7 +2,7 @@
   "title": "GitHub Common-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Common-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Feb 2026 03:41:17 GMT",
+  "pubDate": "Wed, 18 Feb 2026 07:54:11 GMT",
   "items": [
     {
       "title": "open-goal/jak-project",
@@ -117,7 +117,7 @@
       "language": "Common Lisp",
       "languageColor": "#3fb68b",
       "stars": "10,820",
-      "forks": "455",
+      "forks": "456",
       "addStars": "40",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Monthly Trending",
   "description": "Monthly Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 19 Feb 2026 14:08:35 GMT",
+  "pubDate": "Thu, 19 Feb 2026 19:41:15 GMT",
   "items": [
     {
       "title": "Predidit/Kazumi",
@@ -10,7 +10,7 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "21,192",
+      "stars": "21,199",
       "forks": "604",
       "addStars": "1,799",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "11,907",
-      "forks": "1,033",
+      "stars": "11,908",
+      "forks": "1,034",
       "addStars": "510",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "The cutest instant messenger in the [matrix]",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,370",
-      "forks": "453",
+      "stars": "2,374",
+      "forks": "455",
       "addStars": "176",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "PiliPlus",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "10,663",
+      "stars": "10,671",
       "forks": "636",
       "addStars": "1,249",
       "contributors": [
@@ -158,8 +158,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "175,256",
-      "forks": "30,012",
+      "stars": "175,259",
+      "forks": "30,013",
       "addStars": "768",
       "contributors": [
         {
@@ -196,7 +196,7 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "7,689",
-      "forks": "1,383",
+      "forks": "1,384",
       "addStars": "192",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,229",
-      "forks": "11,138",
+      "stars": "15,227",
+      "forks": "11,137",
       "addStars": "108",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "9,726",
-      "forks": "868",
+      "stars": "9,734",
+      "forks": "870",
       "addStars": "641",
       "contributors": [
         {
@@ -301,7 +301,7 @@
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "75,213",
+      "stars": "75,223",
       "forks": "4,004",
       "addStars": "1,843",
       "contributors": [
@@ -338,7 +338,7 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "31,733",
+      "stars": "31,743",
       "forks": "1,928",
       "addStars": "2,305",
       "contributors": [
@@ -365,7 +365,7 @@
       "description": "一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 / A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,803",
+      "stars": "2,804",
       "forks": "162",
       "addStars": "170",
       "contributors": [
@@ -382,8 +382,8 @@
       "description": "Get Android app updates straight from the source.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,298",
-      "forks": "396",
+      "stars": "15,311",
+      "forks": "397",
       "addStars": "738",
       "contributors": [
         {
@@ -456,7 +456,7 @@
       "description": "Breeze 是哔咔(PicACG/bika)与禁漫（禁漫天堂，jm）的第三方安卓客户端，采用 Flutter 开发。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "650",
+      "stars": "651",
       "forks": "22",
       "addStars": "153",
       "contributors": [
@@ -488,7 +488,7 @@
       "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "59,011",
+      "stars": "59,012",
       "forks": "6,859",
       "addStars": "426",
       "contributors": [
@@ -525,7 +525,7 @@
       "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "44,417",
+      "stars": "44,429",
       "forks": "1,980",
       "addStars": "818",
       "contributors": [

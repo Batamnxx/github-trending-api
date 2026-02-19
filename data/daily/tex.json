@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Daily Trending",
   "description": "Daily Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 19 Feb 2026 14:08:35 GMT",
+  "pubDate": "Thu, 19 Feb 2026 19:41:15 GMT",
   "items": [
     {
       "title": "riscv/riscv-isa-manual",
@@ -301,7 +301,7 @@
       "description": "Latex code for making neural networks diagrams",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "24,427",
+      "stars": "24,428",
       "forks": "3,043",
       "addStars": "3",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Odin Languages Monthly Trending",
   "description": "Monthly Trending of Odin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 19 Feb 2026 14:08:35 GMT",
+  "pubDate": "Thu, 19 Feb 2026 19:41:15 GMT",
   "items": [
     {
       "title": "odin-lang/Odin",
@@ -10,7 +10,7 @@
       "description": "Odin Programming Language",
       "language": "Odin",
       "languageColor": "#60AFFE",
-      "stars": "9,798",
+      "stars": "9,799",
       "forks": "902",
       "addStars": "217",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Odin 2D game library. Beginner friendly and easy to modify.",
       "language": "Odin",
       "languageColor": "#60AFFE",
-      "stars": "362",
+      "stars": "363",
       "forks": "24",
       "addStars": "100",
       "contributors": [

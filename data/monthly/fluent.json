@@ -2,7 +2,7 @@
   "title": "GitHub Fluent Languages Monthly Trending",
   "description": "Monthly Trending of Fluent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 19 Feb 2026 03:40:59 GMT",
+  "pubDate": "Thu, 19 Feb 2026 07:52:25 GMT",
   "items": [
     {
       "title": "janeczku/calibre-web",
@@ -47,7 +47,7 @@
       "description": "An Anime Game launcher for Linux with telemetry disabling",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "2,009",
+      "stars": "2,010",
       "forks": "83",
       "addStars": "56",
       "contributors": [

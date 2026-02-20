@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 20 Feb 2026 03:35:13 GMT",
+  "pubDate": "Fri, 20 Feb 2026 07:50:47 GMT",
   "items": [
     {
       "title": "kubeflow/manifests",
@@ -121,7 +121,7 @@
       "description": "aqua's Standard Registry",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "277",
+      "stars": "278",
       "forks": "266",
       "addStars": "1",
       "contributors": [

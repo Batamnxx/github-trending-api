@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 20 Feb 2026 14:00:55 GMT",
+  "pubDate": "Fri, 20 Feb 2026 19:38:43 GMT",
   "items": [
     {
       "title": "ThePrimeagen/99",
@@ -10,7 +10,7 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,941",
+      "stars": "3,948",
       "forks": "187",
       "addStars": "51",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Use your Neovim like using Cursor AI IDE!",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "17,398",
+      "stars": "17,399",
       "forks": "801",
       "addStars": "11",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "5,353",
+      "stars": "5,354",
       "forks": "170",
       "addStars": "9",
       "contributors": [
@@ -149,7 +149,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "536",
-      "forks": "796",
+      "forks": "797",
       "addStars": "0",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "A language server that offers Lua language support - programmed in Lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,132",
+      "stars": "4,133",
       "forks": "403",
       "addStars": "2",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "25,117",
+      "stars": "25,119",
       "forks": "1,741",
       "addStars": "16",
       "contributors": [
@@ -254,7 +254,7 @@
       "description": "🍨 Soothing pastel theme for (Neo)vim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "7,210",
+      "stars": "7,211",
       "forks": "325",
       "addStars": "8",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "万象拼音：基于rime生态打造，全方位对标大厂体验，内置大语料与AI辅助炼制的向量词库和语法模型，全带调编码词库，让输入行云流水，开箱即用。更有PRO版带来辅助码创新体验，支持7种辅助码。集成超级注释、候选反查筛选、快符、手动排序、tips等特色扩展功能，让你保证大厂体验的同时，深度享受 Rime 超强自定义的便利。详见README。Q群：11033572 / 11631066",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,868",
+      "stars": "2,869",
       "forks": "114",
       "addStars": "10",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "🧩 Claude Code Neovim IDE Extension",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,061",
+      "stars": "2,063",
       "forks": "143",
       "addStars": "13",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "A file explorer tree for neovim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "8,372",
+      "stars": "8,371",
       "forks": "639",
       "addStars": "3",
       "contributors": [
@@ -425,7 +425,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "13,370",
-      "forks": "2,408",
+      "forks": "2,409",
       "addStars": "6",
       "contributors": [
         {
@@ -451,7 +451,7 @@
       "description": "Main game repository for Beyond All Reason.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,784",
+      "stars": "2,786",
       "forks": "540",
       "addStars": "2",
       "contributors": [
@@ -488,9 +488,9 @@
       "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "15,744",
+      "stars": "15,745",
       "forks": "1,006",
-      "addStars": "11",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14658234?s=40&v=4",
@@ -557,7 +557,7 @@
       "description": "Navigate your code with search labels, enhanced character motions and Treesitter integration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,902",
+      "stars": "3,903",
       "forks": "66",
       "addStars": "5",
       "contributors": [
@@ -589,7 +589,7 @@
       "description": "Jitsi Meet on Docker",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,510",
+      "stars": "3,511",
       "forks": "1,533",
       "addStars": "1",
       "contributors": [
@@ -658,8 +658,8 @@
       "description": "Git integration for buffers",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,576",
-      "forks": "265",
+      "stars": "6,578",
+      "forks": "266",
       "addStars": "5",
       "contributors": [
         {
@@ -690,7 +690,7 @@
       "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "10,045",
+      "stars": "10,046",
       "forks": "328",
       "addStars": "7",
       "contributors": [
@@ -727,7 +727,7 @@
       "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,819",
+      "stars": "3,820",
       "forks": "220",
       "addStars": "5",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 20 Feb 2026 14:00:55 GMT",
+  "pubDate": "Fri, 20 Feb 2026 19:38:43 GMT",
   "items": [
     {
       "title": "thu-ml/SageAttention",
@@ -122,7 +122,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "17,277",
-      "forks": "2,051",
+      "forks": "2,052",
       "addStars": "2",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,147",
+      "stars": "3,149",
       "forks": "236",
       "addStars": "2",
       "contributors": [

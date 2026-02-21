@@ -2,17 +2,54 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 21 Feb 2026 07:36:32 GMT",
+  "pubDate": "Sat, 21 Feb 2026 13:42:14 GMT",
   "items": [
+    {
+      "title": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "9,330",
+      "forks": "1,037",
+      "addStars": "292",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5950722?s=40&v=4",
+          "name": "nklhtv",
+          "url": "https://github.com/nklhtv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7889816?s=40&v=4",
+          "name": "tymmesyde",
+          "url": "https://github.com/tymmesyde"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/117831817?s=40&v=4",
+          "name": "kKaskak",
+          "url": "https://github.com/kKaskak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15102316?s=40&v=4",
+          "name": "swetlasg",
+          "url": "https://github.com/swetlasg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10400528?s=40&v=4",
+          "name": "Botsy",
+          "url": "https://github.com/Botsy"
+        }
+      ]
+    },
     {
       "title": "eslint/eslint",
       "url": "https://github.com/eslint/eslint",
       "description": "Find and fix problems in your JavaScript code.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "27,078",
+      "stars": "27,091",
       "forks": "4,920",
-      "addStars": "30",
+      "addStars": "79",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38546?s=40&v=4",
@@ -42,51 +79,29 @@
       ]
     },
     {
-      "title": "github/awesome-copilot",
-      "url": "https://github.com/github/awesome-copilot",
-      "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+      "title": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,923",
-      "forks": "2,513",
-      "addStars": "133",
+      "stars": "1,115",
+      "forks": "44",
+      "addStars": "23",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/434140?s=40&v=4",
-          "name": "aaronpowell",
-          "url": "https://github.com/aaronpowell"
+          "avatar": "https://avatars.githubusercontent.com/u/9664363?s=40&v=4",
+          "name": "EvanBacon",
+          "url": "https://github.com/EvanBacon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2053639?s=40&v=4",
-          "name": "codemillmatt",
-          "url": "https://github.com/codemillmatt"
+          "avatar": "https://avatars.githubusercontent.com/u/379606?s=40&v=4",
+          "name": "ide",
+          "url": "https://github.com/ide"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10998676?s=40&v=4",
-          "name": "jhauga",
-          "url": "https://github.com/jhauga"
-        }
-      ]
-    },
-    {
-      "title": "harvard-edge/cs249r_book",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "description": "Introduction to Machine Learning Systems",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "20,506",
-      "forks": "2,360",
-      "addStars": "392",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6807956?s=40&v=4",
-          "name": "profvjreddi",
-          "url": "https://github.com/profvjreddi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36451783?s=40&v=4",
-          "name": "hzeljko",
-          "url": "https://github.com/hzeljko"
+          "avatar": "https://avatars.githubusercontent.com/u/32908614?s=40&v=4",
+          "name": "Ubax",
+          "url": "https://github.com/Ubax"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -94,83 +109,41 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17109416?s=40&v=4",
-          "name": "Mjrovai",
-          "url": "https://github.com/Mjrovai"
+          "avatar": "https://avatars.githubusercontent.com/u/90494?s=40&v=4",
+          "name": "brentvatne",
+          "url": "https://github.com/brentvatne"
         }
       ]
     },
     {
-      "title": "usebruno/bruno",
-      "url": "https://github.com/usebruno/bruno",
-      "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+      "title": "drawdb-io/drawdb",
+      "url": "https://github.com/drawdb-io/drawdb",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "41,006",
-      "forks": "2,133",
-      "addStars": "24",
+      "stars": "36,662",
+      "forks": "2,858",
+      "addStars": "16",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9350733?s=40&v=4",
-          "name": "helloanoop",
-          "url": "https://github.com/helloanoop"
+          "avatar": "https://avatars.githubusercontent.com/u/96800776?s=40&v=4",
+          "name": "1ilit",
+          "url": "https://github.com/1ilit"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25679466?s=40&v=4",
-          "name": "lohxt1",
-          "url": "https://github.com/lohxt1"
+          "avatar": "https://avatars.githubusercontent.com/u/5739987?s=40&v=4",
+          "name": "picimako",
+          "url": "https://github.com/picimako"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/159901171?s=40&v=4",
-          "name": "lohit-bruno",
-          "url": "https://github.com/lohit-bruno"
+          "avatar": "https://avatars.githubusercontent.com/u/16802605?s=40&v=4",
+          "name": "haecheonlee",
+          "url": "https://github.com/haecheonlee"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/191850912?s=40&v=4",
-          "name": "pooja-bruno",
-          "url": "https://github.com/pooja-bruno"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54320162?s=40&v=4",
-          "name": "Pragadesh-45",
-          "url": "https://github.com/Pragadesh-45"
-        }
-      ]
-    },
-    {
-      "title": "gsd-build/get-shit-done",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "16,769",
-      "forks": "1,529",
-      "addStars": "385",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/186001655?s=40&v=4",
-          "name": "glittercowboy",
-          "url": "https://github.com/glittercowboy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4",
-          "name": "jjshanks",
-          "url": "https://github.com/jjshanks"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3037759?s=40&v=4",
-          "name": "davesienkowski",
-          "url": "https://github.com/davesienkowski"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8614797?s=40&v=4",
-          "name": "superresistant",
-          "url": "https://github.com/superresistant"
+          "avatar": "https://avatars.githubusercontent.com/u/21248684?s=40&v=4",
+          "name": "KARM99",
+          "url": "https://github.com/KARM99"
         }
       ]
     },
@@ -180,9 +153,9 @@
       "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,958",
+      "stars": "11,960",
       "forks": "3,368",
-      "addStars": "4",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -212,337 +185,337 @@
       ]
     },
     {
-      "title": "Balackburn/Apollo",
-      "url": "https://github.com/Balackburn/Apollo",
-      "description": "Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)",
+      "title": "pedroslopez/whatsapp-web.js",
+      "url": "https://github.com/pedroslopez/whatsapp-web.js",
+      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,274",
-      "forks": "71",
-      "addStars": "22",
+      "stars": "21,224",
+      "forks": "4,856",
+      "addStars": "14",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/93828569?s=40&v=4",
-          "name": "Balackburn",
-          "url": "https://github.com/Balackburn"
+          "avatar": "https://avatars.githubusercontent.com/u/4368928?s=40&v=4",
+          "name": "pedroslopez",
+          "url": "https://github.com/pedroslopez"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
+          "avatar": "https://avatars.githubusercontent.com/u/93551621?s=40&v=4",
+          "name": "alechkos",
+          "url": "https://github.com/alechkos"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/127579510?s=40&v=4",
-          "name": "tanakrit-d",
-          "url": "https://github.com/tanakrit-d"
+          "avatar": "https://avatars.githubusercontent.com/u/111271321?s=40&v=4",
+          "name": "wwebjs-bot",
+          "url": "https://github.com/wwebjs-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52720753?s=40&v=4",
+          "name": "purpshell",
+          "url": "https://github.com/purpshell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/168232825?s=40&v=4",
+          "name": "BenyFilho",
+          "url": "https://github.com/BenyFilho"
         }
       ]
     },
     {
-      "title": "Mintplex-Labs/anything-llm",
-      "url": "https://github.com/Mintplex-Labs/anything-llm",
-      "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more.",
+      "title": "Azgaar/Fantasy-Map-Generator",
+      "url": "https://github.com/Azgaar/Fantasy-Map-Generator",
+      "description": "Web application generating interactive and highly customizable maps",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "54,801",
-      "forks": "5,899",
-      "addStars": "52",
+      "stars": "5,461",
+      "forks": "853",
+      "addStars": "23",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16845892?s=40&v=4",
-          "name": "timothycarambat",
-          "url": "https://github.com/timothycarambat"
+          "avatar": "https://avatars.githubusercontent.com/u/26469650?s=40&v=4",
+          "name": "Azgaar",
+          "url": "https://github.com/Azgaar"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2336488?s=40&v=4",
-          "name": "shatfield4",
-          "url": "https://github.com/shatfield4"
+          "avatar": "https://avatars.githubusercontent.com/u/55178666?s=40&v=4",
+          "name": "evolvedexperiment",
+          "url": "https://github.com/evolvedexperiment"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/106866560?s=40&v=4",
-          "name": "angelplusultra",
-          "url": "https://github.com/angelplusultra"
+          "avatar": "https://avatars.githubusercontent.com/u/8701422?s=40&v=4",
+          "name": "SheepFromHeaven",
+          "url": "https://github.com/SheepFromHeaven"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/100217654?s=40&v=4",
-          "name": "KPCOFGS",
-          "url": "https://github.com/KPCOFGS"
+          "avatar": "https://avatars.githubusercontent.com/u/2671061?s=40&v=4",
+          "name": "goteguru",
+          "url": "https://github.com/goteguru"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/55003831?s=40&v=4",
-          "name": "17ColinMiPerry",
-          "url": "https://github.com/17ColinMiPerry"
+          "avatar": "https://avatars.githubusercontent.com/u/24378661?s=40&v=4",
+          "name": "Avengium",
+          "url": "https://github.com/Avengium"
         }
       ]
     },
     {
-      "title": "TryGhost/Ghost",
-      "url": "https://github.com/TryGhost/Ghost",
-      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+      "title": "axios/axios",
+      "url": "https://github.com/axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "51,867",
-      "forks": "11,332",
-      "addStars": "9",
+      "stars": "108,612",
+      "forks": "11,538",
+      "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/101513?s=40&v=4",
-          "name": "ErisDS",
-          "url": "https://github.com/ErisDS"
+          "avatar": "https://avatars.githubusercontent.com/u/4814473?s=40&v=4",
+          "name": "jasonsaayman",
+          "url": "https://github.com/jasonsaayman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/415?s=40&v=4",
-          "name": "kevinansfield",
-          "url": "https://github.com/kevinansfield"
+          "avatar": "https://avatars.githubusercontent.com/u/199035?s=40&v=4",
+          "name": "mzabriskie",
+          "url": "https://github.com/mzabriskie"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/12586868?s=40&v=4",
+          "name": "DigitalBrainJS",
+          "url": "https://github.com/DigitalBrainJS"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/964245?s=40&v=4",
-          "name": "daniellockyer",
-          "url": "https://github.com/daniellockyer"
+          "avatar": "https://avatars.githubusercontent.com/u/6316432?s=40&v=4",
+          "name": "nickuraltsev",
+          "url": "https://github.com/nickuraltsev"
         }
       ]
     },
     {
-      "title": "is-a-dev/register",
-      "url": "https://github.com/is-a-dev/register",
-      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+      "title": "lioensky/VCPToolBox",
+      "url": "https://github.com/lioensky/VCPToolBox",
+      "description": "一个全新的，强大的AI-API-工具交互范式AGI社群系统。独立多Agent封装，非线性超异步工作流，交叉记忆网络，六大插件协议，完整Websocket和WebDav功能，支持分布式部署和算力均衡！",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,587",
-      "forks": "18,201",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/87287585?s=40&v=4",
-          "name": "wdhdev",
-          "url": "https://github.com/wdhdev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76603072?s=40&v=4",
-          "name": "DEV-DIBSTER",
-          "url": "https://github.com/DEV-DIBSTER"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69630113?s=40&v=4",
-          "name": "iostpa",
-          "url": "https://github.com/iostpa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65322242?s=40&v=4",
-          "name": "STICKnoLOGIC",
-          "url": "https://github.com/STICKnoLOGIC"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11407672?s=40&v=4",
-          "name": "phenax",
-          "url": "https://github.com/phenax"
-        }
-      ]
-    },
-    {
-      "title": "jgraph/drawio",
-      "url": "https://github.com/jgraph/drawio",
-      "description": "draw.io is a JavaScript, client-side editor for general diagramming.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "3,613",
-      "forks": "653",
-      "addStars": "13",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1761087?s=40&v=4",
-          "name": "davidjgraph",
-          "url": "https://github.com/davidjgraph"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/921200?s=40&v=4",
-          "name": "alderg",
-          "url": "https://github.com/alderg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/472418?s=40&v=4",
-          "name": "mediaslav",
-          "url": "https://github.com/mediaslav"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24944765?s=40&v=4",
-          "name": "m-mohamedin",
-          "url": "https://github.com/m-mohamedin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9029497?s=40&v=4",
-          "name": "MJomaa",
-          "url": "https://github.com/MJomaa"
-        }
-      ]
-    },
-    {
-      "title": "ZackAkil/immersive-language-learning-with-live-api",
-      "url": "https://github.com/ZackAkil/immersive-language-learning-with-live-api",
-      "description": "Immergo is an immersive language learning application powered by the Google Gemini Live SDK. It simulates real-world roleplay scenarios (e.g., buying a bus ticket, ordering coffee) to help users practice speaking in various languages with an AI that acts as a native speaker.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "387",
-      "forks": "132",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8178508?s=40&v=4",
-          "name": "ZackAkil",
-          "url": "https://github.com/ZackAkil"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31396011?s=40&v=4",
-          "name": "Shubhamsaboo",
-          "url": "https://github.com/Shubhamsaboo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/469685?s=40&v=4",
-          "name": "ghchinoy",
-          "url": "https://github.com/ghchinoy"
-        }
-      ]
-    },
-    {
-      "title": "Asabeneh/30-Days-Of-JavaScript",
-      "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
-      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "46,099",
-      "forks": "10,418",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9008063?s=40&v=4",
-          "name": "Asabeneh",
-          "url": "https://github.com/Asabeneh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15266097?s=40&v=4",
-          "name": "EmmanuelArenas",
-          "url": "https://github.com/EmmanuelArenas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7670185?s=40&v=4",
-          "name": "npnjuguna",
-          "url": "https://github.com/npnjuguna"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24936165?s=40&v=4",
-          "name": "yigittosun",
-          "url": "https://github.com/yigittosun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/103402889?s=40&v=4",
-          "name": "Dikendev",
-          "url": "https://github.com/Dikendev"
-        }
-      ]
-    },
-    {
-      "title": "trekhleb/javascript-algorithms",
-      "url": "https://github.com/trekhleb/javascript-algorithms",
-      "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "195,664",
-      "forks": "31,129",
-      "addStars": "31",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3000285?s=40&v=4",
-          "name": "trekhleb",
-          "url": "https://github.com/trekhleb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14953640?s=40&v=4",
-          "name": "alexstulov",
-          "url": "https://github.com/alexstulov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29200109?s=40&v=4",
-          "name": "m-maksyutin",
-          "url": "https://github.com/m-maksyutin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13618860?s=40&v=4",
-          "name": "appleJax",
-          "url": "https://github.com/appleJax"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2787876?s=40&v=4",
-          "name": "albertstill",
-          "url": "https://github.com/albertstill"
-        }
-      ]
-    },
-    {
-      "title": "FortAwesome/Font-Awesome",
-      "url": "https://github.com/FortAwesome/Font-Awesome",
-      "description": "The iconic SVG, font, and CSS toolkit",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "76,354",
-      "forks": "12,247",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/529604?s=40&v=4",
-          "name": "sensibleworld",
-          "url": "https://github.com/sensibleworld"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/138073465?s=40&v=4",
-          "name": "fontawesome-github-bot",
-          "url": "https://github.com/fontawesome-github-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/132895?s=40&v=4",
-          "name": "robmadole",
-          "url": "https://github.com/robmadole"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8459349?s=40&v=4",
-          "name": "jabronus",
-          "url": "https://github.com/jabronus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11575183?s=40&v=4",
-          "name": "mlwilkerson",
-          "url": "https://github.com/mlwilkerson"
-        }
-      ]
-    },
-    {
-      "title": "mui/material-ui",
-      "url": "https://github.com/mui/material-ui",
-      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "97,932",
-      "forks": "32,754",
+      "stars": "1,152",
+      "forks": "199",
       "addStars": "17",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3165635?s=40&v=4",
-          "name": "oliviertassinari",
-          "url": "https://github.com/oliviertassinari"
+          "avatar": "https://avatars.githubusercontent.com/u/140802180?s=40&v=4",
+          "name": "lioensky",
+          "url": "https://github.com/lioensky"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16926049?s=40&v=4",
-          "name": "dmtrKovalenko",
-          "url": "https://github.com/dmtrKovalenko"
+          "avatar": "https://avatars.githubusercontent.com/u/111612726?s=40&v=4",
+          "name": "B3000Kcn",
+          "url": "https://github.com/B3000Kcn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12292047?s=40&v=4",
-          "name": "eps1lon",
-          "url": "https://github.com/eps1lon"
+          "avatar": "https://avatars.githubusercontent.com/u/139231615?s=40&v=4",
+          "name": "VincentHDLee",
+          "url": "https://github.com/VincentHDLee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74046599?s=40&v=4",
+          "name": "TyChest",
+          "url": "https://github.com/TyChest"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59203617?s=40&v=4",
+          "name": "awei807-wei",
+          "url": "https://github.com/awei807-wei"
+        }
+      ]
+    },
+    {
+      "title": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "21,954",
+      "forks": "2,514",
+      "addStars": "133",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/434140?s=40&v=4",
+          "name": "aaronpowell",
+          "url": "https://github.com/aaronpowell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2053639?s=40&v=4",
+          "name": "codemillmatt",
+          "url": "https://github.com/codemillmatt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10998676?s=40&v=4",
+          "name": "jhauga",
+          "url": "https://github.com/jhauga"
+        }
+      ]
+    },
+    {
+      "title": "IsmaelMartinez/teams-for-linux",
+      "url": "https://github.com/IsmaelMartinez/teams-for-linux",
+      "description": "Unofficial Microsoft Teams for Linux client",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "4,434",
+      "forks": "312",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/430992?s=40&v=4",
+          "name": "IsmaelMartinez",
+          "url": "https://github.com/IsmaelMartinez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11662148?s=40&v=4",
+          "name": "jijojosephk",
+          "url": "https://github.com/jijojosephk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "WhiskeySockets/Baileys",
+      "url": "https://github.com/WhiskeySockets/Baileys",
+      "description": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "8,284",
+      "forks": "2,722",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8328864?s=40&v=4",
+          "name": "adiwajshing",
+          "url": "https://github.com/adiwajshing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52720753?s=40&v=4",
+          "name": "purpshell",
+          "url": "https://github.com/purpshell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1530997?s=40&v=4",
+          "name": "edgardmessias",
+          "url": "https://github.com/edgardmessias"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24817866?s=40&v=4",
+          "name": "canove",
+          "url": "https://github.com/canove"
+        }
+      ]
+    },
+    {
+      "title": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "37,451",
+      "forks": "4,951",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7828962?s=40&v=4",
+          "name": "Navaneeth-pk",
+          "url": "https://github.com/Navaneeth-pk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67645175?s=40&v=4",
+          "name": "arpitnath",
+          "url": "https://github.com/arpitnath"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44204658?s=40&v=4",
+          "name": "adishM98",
+          "url": "https://github.com/adishM98"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11629675?s=40&v=4",
+          "name": "akshaysasidrn",
+          "url": "https://github.com/akshaysasidrn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57667706?s=40&v=4",
+          "name": "johnsoncherian",
+          "url": "https://github.com/johnsoncherian"
+        }
+      ]
+    },
+    {
+      "title": "rollup/rollup",
+      "url": "https://github.com/rollup/rollup",
+      "description": "Next-generation ES module bundler",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "26,232",
+      "forks": "1,685",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12949268?s=40&v=4",
+          "name": "lukastaegert",
+          "url": "https://github.com/lukastaegert"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
+          "name": "Rich-Harris",
+          "url": "https://github.com/Rich-Harris"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/598730?s=40&v=4",
+          "name": "guybedford",
+          "url": "https://github.com/guybedford"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/703602?s=40&v=4",
+          "name": "Victorystick",
+          "url": "https://github.com/Victorystick"
+        }
+      ]
+    },
+    {
+      "title": "stdlib-js/stdlib",
+      "url": "https://github.com/stdlib-js/stdlib",
+      "description": "✨ The fundamental numerical library for JavaScript and TypeScript. ✨",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "5,736",
+      "forks": "1,104",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2643044?s=40&v=4",
+          "name": "kgryte",
+          "url": "https://github.com/kgryte"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1913638?s=40&v=4",
+          "name": "Planeshifter",
+          "url": "https://github.com/Planeshifter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82920195?s=40&v=4",
+          "name": "stdlib-bot",
+          "url": "https://github.com/stdlib-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/143020143?s=40&v=4",
+          "name": "gururaj1512",
+          "url": "https://github.com/gururaj1512"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96649223?s=40&v=4",
+          "name": "aayush0325",
+          "url": "https://github.com/aayush0325"
         }
       ]
     }

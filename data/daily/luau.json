@@ -2,7 +2,7 @@
   "title": "GitHub Luau Languages Daily Trending",
   "description": "Daily Trending of Luau Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 21 Feb 2026 03:26:03 GMT",
+  "pubDate": "Sat, 21 Feb 2026 07:36:32 GMT",
   "items": [
     {
       "title": "Roblox/studio-rust-mcp-server",
@@ -10,8 +10,8 @@
       "description": "Standalone Roblox Studio MCP Server",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "317",
-      "forks": "50",
+      "stars": "320",
+      "forks": "51",
       "addStars": "8",
       "contributors": [
         {

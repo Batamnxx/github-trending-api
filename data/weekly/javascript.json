@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 21 Feb 2026 03:26:03 GMT",
+  "pubDate": "Sat, 21 Feb 2026 07:36:32 GMT",
   "items": [
     {
       "title": "SynkraAI/aios-core",
@@ -10,8 +10,8 @@
       "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,532",
-      "forks": "548",
+      "stars": "1,537",
+      "forks": "553",
       "addStars": "1,159",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,069",
+      "stars": "1,078",
       "forks": "96",
       "addStars": "182",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,289",
+      "stars": "5,291",
       "forks": "614",
       "addStars": "593",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "20,484",
-      "forks": "2,355",
+      "stars": "20,506",
+      "forks": "2,360",
       "addStars": "2,318",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "83,041",
-      "forks": "7,426",
+      "stars": "83,045",
+      "forks": "7,427",
       "addStars": "293",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "16,710",
-      "forks": "1,525",
+      "stars": "16,769",
+      "forks": "1,529",
       "addStars": "2,912",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,905",
-      "forks": "2,512",
+      "stars": "21,923",
+      "forks": "2,513",
       "addStars": "753",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "LLM Frontend for Power Users.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "23,321",
-      "forks": "4,757",
+      "stars": "23,332",
+      "forks": "4,758",
       "addStars": "280",
       "contributors": [
         {
@@ -286,7 +286,7 @@
       "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "22,193",
+      "stars": "22,194",
       "forks": "839",
       "addStars": "70",
       "contributors": [
@@ -318,8 +318,8 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,166",
-      "forks": "3,030",
+      "stars": "8,174",
+      "forks": "3,032",
       "addStars": "154",
       "contributors": [
         {
@@ -350,7 +350,7 @@
       "description": "The hacker's browser.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "26,078",
+      "stars": "26,080",
       "forks": "2,561",
       "addStars": "55",
       "contributors": [
@@ -387,7 +387,7 @@
       "description": "A simple, distributed task scheduler and runner with a web based UI.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,479",
+      "stars": "5,480",
       "forks": "481",
       "addStars": "89",
       "contributors": [
@@ -419,7 +419,7 @@
       "description": "✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "27,670",
+      "stars": "27,673",
       "forks": "4,167",
       "addStars": "84",
       "contributors": [

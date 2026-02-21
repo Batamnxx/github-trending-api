@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 21 Feb 2026 13:42:14 GMT</pubDate>
+    <pubDate>Sat, 21 Feb 2026 19:29:46 GMT</pubDate>
     <item>
       <title>alibaba/zvec</title>
       <link>https://github.com/alibaba/zvec</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/alibaba/zvec</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>5,536</stars>
-      <forks>308</forks>
+      <stars>5,986</stars>
+      <forks>332</forks>
       <addStars>4,451</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,825</stars>
-      <forks>880</forks>
+      <stars>8,898</stars>
+      <forks>884</forks>
       <addStars>3,691</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/SynkraAI/aios-core</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,558</stars>
-      <forks>560</forks>
+      <stars>1,584</stars>
+      <forks>570</forks>
       <addStars>1,159</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/rowboatlabs/rowboat</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,045</stars>
-      <forks>690</forks>
+      <stars>8,084</stars>
+      <forks>694</forks>
       <addStars>2,530</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/steipete/summarize</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,917</stars>
-      <forks>240</forks>
+      <stars>3,951</stars>
+      <forks>242</forks>
       <addStars>2,171</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/steipete/gogcli</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,445</stars>
-      <forks>344</forks>
+      <stars>4,492</stars>
+      <forks>348</forks>
       <addStars>2,616</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/google-research/timesfm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,967</stars>
-      <forks>740</forks>
+      <stars>9,099</stars>
+      <forks>759</forks>
       <addStars>1,023</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/github/gh-aw</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,374</stars>
-      <forks>234</forks>
+      <stars>3,391</stars>
+      <forks>235</forks>
       <addStars>1,238</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/Jeffallan/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,476</stars>
-      <forks>207</forks>
+      <stars>3,507</stars>
+      <forks>208</forks>
       <addStars>1,336</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,249</stars>
-      <forks>1,539</forks>
+      <stars>26,274</stars>
+      <forks>1,541</forks>
       <addStars>1,556</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 21 Feb 2026 13:42:14 GMT",
+  "pubDate": "Sat, 21 Feb 2026 19:29:46 GMT",
   "items": [
     {
       "title": "Stremio/stremio-web",
@@ -10,8 +10,8 @@
       "description": "Stremio - Freedom to Stream",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,330",
-      "forks": "1,037",
+      "stars": "9,397",
+      "forks": "1,046",
       "addStars": "292",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Find and fix problems in your JavaScript code.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "27,091",
+      "stars": "27,093",
       "forks": "4,920",
       "addStars": "79",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,115",
-      "forks": "44",
+      "stars": "1,118",
+      "forks": "45",
       "addStars": "23",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "36,662",
+      "stars": "36,667",
       "forks": "2,858",
       "addStars": "16",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,960",
+      "stars": "11,963",
       "forks": "3,368",
       "addStars": "9",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,224",
+      "stars": "21,225",
       "forks": "4,856",
       "addStars": "14",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "Web application generating interactive and highly customizable maps",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,461",
+      "stars": "5,463",
       "forks": "853",
       "addStars": "23",
       "contributors": [
@@ -264,8 +264,8 @@
       "description": "Promise based HTTP client for the browser and node.js",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "108,612",
-      "forks": "11,538",
+      "stars": "108,615",
+      "forks": "11,537",
       "addStars": "8",
       "contributors": [
         {
@@ -296,7 +296,7 @@
       "description": "一个全新的，强大的AI-API-工具交互范式AGI社群系统。独立多Agent封装，非线性超异步工作流，交叉记忆网络，六大插件协议，完整Websocket和WebDav功能，支持分布式部署和算力均衡！",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,152",
+      "stars": "1,154",
       "forks": "199",
       "addStars": "17",
       "contributors": [
@@ -333,9 +333,9 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,954",
-      "forks": "2,514",
-      "addStars": "133",
+      "stars": "21,988",
+      "forks": "2,519",
+      "addStars": "119",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/434140?s=40&v=4",
@@ -360,7 +360,7 @@
       "description": "Unofficial Microsoft Teams for Linux client",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,434",
+      "stars": "4,435",
       "forks": "312",
       "addStars": "4",
       "contributors": [
@@ -387,7 +387,7 @@
       "description": "Socket-based TS/JavaScript API for WhatsApp Web",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,284",
+      "stars": "8,289",
       "forks": "2,722",
       "addStars": "13",
       "contributors": [
@@ -419,7 +419,7 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "37,451",
+      "stars": "37,456",
       "forks": "4,951",
       "addStars": "4",
       "contributors": [
@@ -456,7 +456,7 @@
       "description": "Next-generation ES module bundler",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "26,232",
+      "stars": "26,233",
       "forks": "1,685",
       "addStars": "1",
       "contributors": [
@@ -488,8 +488,8 @@
       "description": "✨ The fundamental numerical library for JavaScript and TypeScript. ✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,736",
-      "forks": "1,104",
+      "stars": "5,737",
+      "forks": "1,106",
       "addStars": "4",
       "contributors": [
         {

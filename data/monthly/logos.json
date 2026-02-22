@@ -2,7 +2,7 @@
   "title": "GitHub Logos Languages Monthly Trending",
   "description": "Monthly Trending of Logos Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 22 Feb 2026 13:43:23 GMT",
+  "pubDate": "Sun, 22 Feb 2026 19:30:17 GMT",
   "items": [
     {
       "title": "YTLitePlus/YTLitePlus",
@@ -10,8 +10,8 @@
       "description": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.",
       "language": "Logos",
       "languageColor": "#ccc",
-      "stars": "3,686",
-      "forks": "6,207",
+      "stars": "3,688",
+      "forks": "6,213",
       "addStars": "153",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A flexible enhancer for YouTube on iOS",
       "language": "Logos",
       "languageColor": "#ccc",
-      "stars": "3,924",
-      "forks": "15,530",
+      "stars": "3,926",
+      "forks": "15,552",
       "addStars": "226",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Ad blocker for Twitch iOS app",
       "language": "Logos",
       "languageColor": "#ccc",
-      "stars": "412",
+      "stars": "413",
       "forks": "87",
       "addStars": "16",
       "contributors": [

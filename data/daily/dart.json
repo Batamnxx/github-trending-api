@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 22 Feb 2026 13:43:23 GMT",
+  "pubDate": "Sun, 22 Feb 2026 19:30:17 GMT",
   "items": [
     {
       "title": "wanghongenpin/proxypin",
@@ -10,7 +10,7 @@
       "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "12,195",
+      "stars": "12,207",
       "forks": "1,042",
       "addStars": "236",
       "contributors": [
@@ -47,9 +47,9 @@
       "description": "💚 End-to-end encrypted cloud for everything.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "24,664",
-      "forks": "1,450",
-      "addStars": "34",
+      "stars": "24,678",
+      "forks": "1,451",
+      "addStars": "42",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24503581?s=40&v=4",
@@ -84,8 +84,8 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "26,560",
-      "forks": "2,289",
+      "stars": "26,580",
+      "forks": "2,291",
       "addStars": "356",
       "contributors": [
         {
@@ -121,9 +121,9 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "31,891",
-      "forks": "1,939",
-      "addStars": "61",
+      "stars": "31,903",
+      "forks": "1,940",
+      "addStars": "69",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66918471?s=40&v=4",
@@ -148,8 +148,8 @@
       "description": "API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,676",
-      "forks": "724",
+      "stars": "2,678",
+      "forks": "726",
       "addStars": "8",
       "contributors": [
         {
@@ -185,9 +185,9 @@
       "description": "New Lichess mobile app in Flutter",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,099",
-      "forks": "362",
-      "addStars": "5",
+      "stars": "2,100",
+      "forks": "363",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/423393?s=40&v=4",
@@ -223,7 +223,7 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "11,047",
-      "forks": "1,754",
+      "forks": "1,753",
       "addStars": "2",
       "contributors": [
         {
@@ -259,9 +259,9 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "21,312",
+      "stars": "21,318",
       "forks": "608",
-      "addStars": "48",
+      "addStars": "42",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34627277?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "Love Iwara (i-iwara or 2i). An unofficial iwara flutter app - Supporting multiple platforms and devices including mobile phones, tablets and computers. Compatible with Android, Windows and other systems. 第三方的Iwara应用 - 支持多个平台和设备，包括手机、平板和计算机。兼容 安卓、IOS、Windows、MacOS等系统。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "920",
+      "stars": "924",
       "forks": "36",
-      "addStars": "22",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/192869501?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "Fladder - A Simple Jellyfin frontend built on top of Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,775",
+      "stars": "1,777",
       "forks": "93",
-      "addStars": "7",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42371342?s=40&v=4",
@@ -355,8 +355,8 @@
       "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "44,479",
-      "forks": "1,981",
+      "stars": "44,486",
+      "forks": "1,982",
       "addStars": "31",
       "contributors": [
         {
@@ -387,7 +387,7 @@
       "description": "💊 Application to use ReVanced on Android",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "25,962",
+      "stars": "25,970",
       "forks": "1,032",
       "addStars": "17",
       "contributors": [
@@ -424,7 +424,7 @@
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "75,357",
+      "stars": "75,373",
       "forks": "4,013",
       "addStars": "60",
       "contributors": [
@@ -461,7 +461,7 @@
       "description": "A Weather app for android 🌦🌞☔",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,535",
+      "stars": "2,540",
       "forks": "105",
       "addStars": "4",
       "contributors": [
@@ -493,7 +493,7 @@
       "description": "Aves is a gallery and metadata explorer app, built for Android with Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "4,443",
+      "stars": "4,446",
       "forks": "172",
       "addStars": "7",
       "contributors": [
@@ -520,7 +520,7 @@
       "description": "Script that organizes the Google Takeout archive into one big chronological folder",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "5,513",
+      "stars": "5,514",
       "forks": "301",
       "addStars": "4",
       "contributors": [
@@ -552,7 +552,7 @@
       "description": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,228",
+      "stars": "15,229",
       "forks": "11,135",
       "addStars": "4",
       "contributors": [
@@ -584,7 +584,7 @@
       "description": "A cross-platform manga app made for e-hentai & exhentai by Flutter",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "4,751",
+      "stars": "4,750",
       "forks": "139",
       "addStars": "5",
       "contributors": [
@@ -621,8 +621,8 @@
       "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "9,778",
-      "forks": "873",
+      "stars": "9,781",
+      "forks": "874",
       "addStars": "19",
       "contributors": [
         {
@@ -658,7 +658,7 @@
       "description": "Kazumi的规则托管仓库，欢迎贡献 ^•ﻌ•^",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,331",
+      "stars": "1,333",
       "forks": "78",
       "addStars": "6",
       "contributors": [
@@ -690,7 +690,7 @@
       "description": "Breeze 是哔咔(PicACG/bika)与禁漫（禁漫天堂，jm）的第三方安卓客户端，采用 Flutter 开发。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "660",
+      "stars": "662",
       "forks": "22",
       "addStars": "6",
       "contributors": [
@@ -722,7 +722,7 @@
       "description": "PiliPlus",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "10,741",
+      "stars": "10,749",
       "forks": "642",
       "addStars": "29",
       "contributors": [

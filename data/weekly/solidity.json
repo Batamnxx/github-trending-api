@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Weekly Trending",
   "description": "Weekly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 22 Feb 2026 13:43:23 GMT",
+  "pubDate": "Sun, 22 Feb 2026 19:30:17 GMT",
   "items": [
     {
       "title": "Uniswap/v4-core",
@@ -10,7 +10,7 @@
       "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "2,447",
+      "stars": "2,448",
       "forks": "1,258",
       "addStars": "7",
       "contributors": [
@@ -417,7 +417,7 @@
       "description": "WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "13,879",
+      "stars": "13,880",
       "forks": "2,411",
       "addStars": "10",
       "contributors": [

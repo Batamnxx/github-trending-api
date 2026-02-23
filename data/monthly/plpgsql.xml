@@ -3,7 +3,7 @@
     <title>GitHub Plpgsql Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Plpgsql Languages in GitHub</description>
-    <pubDate>Mon, 23 Feb 2026 03:43:20 GMT</pubDate>
+    <pubDate>Mon, 23 Feb 2026 07:58:22 GMT</pubDate>
     <item>
       <title>pgmq/pgmq</title>
       <link>https://github.com/pgmq/pgmq</link>
@@ -45,7 +45,7 @@
       <language>PLpgSQL</language>
       <languageColor>#336790</languageColor>
       <stars>5,755</stars>
-      <forks>299</forks>
+      <forks>300</forks>
       <addStars>127</addStars>
       <contributors>
         <contributor>

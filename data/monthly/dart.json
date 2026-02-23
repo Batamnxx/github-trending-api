@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Monthly Trending",
   "description": "Monthly Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Feb 2026 03:43:20 GMT",
+  "pubDate": "Mon, 23 Feb 2026 07:58:22 GMT",
   "items": [
     {
       "title": "krille-chan/fluffychat",
@@ -10,7 +10,7 @@
       "description": "The cutest instant messenger in the [matrix]",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,403",
+      "stars": "2,406",
       "forks": "461",
       "addStars": "199",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "12,217",
+      "stars": "12,234",
       "forks": "1,042",
       "addStars": "783",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "PiliPlus",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "10,756",
+      "stars": "10,767",
       "forks": "643",
       "addStars": "1,250",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "21,324",
+      "stars": "21,334",
       "forks": "609",
       "addStars": "1,570",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "26,592",
+      "stars": "26,599",
       "forks": "2,293",
       "addStars": "1,247",
       "contributors": [
@@ -195,8 +195,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "175,278",
-      "forks": "30,023",
+      "stars": "175,285",
+      "forks": "30,022",
       "addStars": "737",
       "contributors": [
         {
@@ -232,7 +232,7 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "31,915",
+      "stars": "31,926",
       "forks": "1,940",
       "addStars": "2,245",
       "contributors": [
@@ -259,7 +259,7 @@
       "description": "AI wearables. Put it on, speak, transcribe, automatically",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "7,708",
+      "stars": "7,711",
       "forks": "1,387",
       "addStars": "190",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "Get Android app updates straight from the source.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,378",
+      "stars": "15,380",
       "forks": "399",
       "addStars": "731",
       "contributors": [
@@ -333,7 +333,7 @@
       "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "9,788",
+      "stars": "9,790",
       "forks": "874",
       "addStars": "633",
       "contributors": [
@@ -370,7 +370,7 @@
       "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "44,495",
+      "stars": "44,496",
       "forks": "1,982",
       "addStars": "832",
       "contributors": [
@@ -402,7 +402,7 @@
       "description": "💊 Application to use ReVanced on Android",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "25,972",
+      "stars": "25,973",
       "forks": "1,032",
       "addStars": "594",
       "contributors": [
@@ -439,8 +439,8 @@
       "description": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,230",
-      "forks": "11,135",
+      "stars": "15,231",
+      "forks": "11,134",
       "addStars": "103",
       "contributors": [
         {
@@ -540,7 +540,7 @@
       "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "59,055",
+      "stars": "59,060",
       "forks": "6,860",
       "addStars": "435",
       "contributors": [
@@ -577,7 +577,7 @@
       "description": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "11,047",
+      "stars": "11,046",
       "forks": "1,752",
       "addStars": "52",
       "contributors": [
@@ -614,8 +614,8 @@
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "75,381",
-      "forks": "4,013",
+      "stars": "75,389",
+      "forks": "4,015",
       "addStars": "1,837",
       "contributors": [
         {
@@ -651,8 +651,8 @@
       "description": "💚 End-to-end encrypted cloud for everything.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "24,694",
-      "forks": "1,453",
+      "stars": "24,697",
+      "forks": "1,452",
       "addStars": "728",
       "contributors": [
         {
@@ -688,7 +688,7 @@
       "description": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "10,778",
+      "stars": "10,780",
       "forks": "400",
       "addStars": "249",
       "contributors": [

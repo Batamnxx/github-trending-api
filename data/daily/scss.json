@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Daily Trending",
   "description": "Daily Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Feb 2026 03:43:20 GMT",
+  "pubDate": "Mon, 23 Feb 2026 07:58:22 GMT",
   "items": [
     {
       "title": "vinceliuice/MacTahoe-gtk-theme",
@@ -47,8 +47,8 @@
       "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "16,493",
-      "forks": "5,740",
+      "stars": "16,492",
+      "forks": "5,746",
       "addStars": "4",
       "contributors": [
         {

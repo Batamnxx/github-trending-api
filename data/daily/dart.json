@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Feb 2026 14:07:24 GMT",
+  "pubDate": "Mon, 23 Feb 2026 19:58:54 GMT",
   "items": [
     {
       "title": "hiddify/hiddify-app",
@@ -10,9 +10,9 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "26,615",
+      "stars": "26,619",
       "forks": "2,293",
-      "addStars": "287",
+      "addStars": "53",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/114227601?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "💚 End-to-end encrypted cloud for everything.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "24,703",
+      "stars": "24,715",
       "forks": "1,454",
-      "addStars": "37",
+      "addStars": "39",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24503581?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "12,255",
-      "forks": "1,042",
-      "addStars": "131",
+      "stars": "12,265",
+      "forks": "1,043",
+      "addStars": "59",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24794200?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,681",
-      "forks": "731",
-      "addStars": "8",
+      "stars": "2,682",
+      "forks": "733",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1382619?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "31,945",
+      "stars": "31,957",
       "forks": "1,941",
-      "addStars": "69",
+      "addStars": "65",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66918471?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,230",
+      "stars": "15,232",
       "forks": "11,134",
-      "addStars": "6",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6346213?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "21,353",
-      "forks": "609",
-      "addStars": "41",
+      "stars": "21,362",
+      "forks": "610",
+      "addStars": "44",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34627277?s=40&v=4",
@@ -256,7 +256,7 @@
       "languageColor": "#00B4AB",
       "stars": "2,100",
       "forks": "363",
-      "addStars": "6",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/423393?s=40&v=4",
@@ -292,7 +292,7 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "7,712",
-      "forks": "1,387",
+      "forks": "1,388",
       "addStars": "13",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "7,637",
+      "stars": "7,638",
       "forks": "495",
       "addStars": "12",
       "contributors": [
@@ -360,9 +360,9 @@
       "description": "Fladder - A Simple Jellyfin frontend built on top of Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,784",
-      "forks": "93",
-      "addStars": "8",
+      "stars": "1,785",
+      "forks": "94",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42371342?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "A Weather app for android 🌦🌞☔",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,545",
+      "stars": "2,546",
       "forks": "104",
-      "addStars": "4",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/134786144?s=40&v=4",
@@ -498,8 +498,8 @@
       "description": "Clash Mihomo for iOS/MacOS/Android/Windows/Linux",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "4,940",
-      "forks": "308",
+      "stars": "4,944",
+      "forks": "309",
       "addStars": "13",
       "contributors": [
         {
@@ -532,7 +532,7 @@
       "languageColor": "#00B4AB",
       "stars": "929",
       "forks": "36",
-      "addStars": "11",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/192869501?s=40&v=4",
@@ -584,7 +584,7 @@
       "description": "Breeze 是哔咔(PicACG/bika)与禁漫（禁漫天堂，jm）的第三方安卓客户端，采用 Flutter 开发。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "668",
+      "stars": "669",
       "forks": "22",
       "addStars": "7",
       "contributors": [
@@ -616,8 +616,8 @@
       "description": "简简单单的看直播",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,061",
-      "forks": "2,484",
+      "stars": "15,062",
+      "forks": "2,483",
       "addStars": "4",
       "contributors": [
         {
@@ -653,7 +653,7 @@
       "description": "LALC，PC 端 LimbusCompany 小助手，为美好的游戏体验献上祝福！| A one-click tool for the daily tasks of Limbus Company. Avoid Boredom and Enjoy the Game!!!",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,167",
+      "stars": "1,168",
       "forks": "28",
       "addStars": "2",
       "contributors": [
@@ -690,7 +690,7 @@
       "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,630",
+      "stars": "1,634",
       "forks": "169",
       "addStars": "7",
       "contributors": [

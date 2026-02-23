@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Weekly Trending",
   "description": "Weekly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Feb 2026 14:07:24 GMT",
+  "pubDate": "Mon, 23 Feb 2026 19:58:54 GMT",
   "items": [
     {
       "title": "ethereum/ERCs",
@@ -48,7 +48,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "2,448",
-      "forks": "1,263",
+      "forks": "1,264",
       "addStars": "7",
       "contributors": [
         {

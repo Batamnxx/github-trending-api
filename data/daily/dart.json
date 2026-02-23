@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 22 Feb 2026 19:30:17 GMT",
+  "pubDate": "Mon, 23 Feb 2026 03:43:20 GMT",
   "items": [
     {
       "title": "wanghongenpin/proxypin",
@@ -10,9 +10,9 @@
       "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "12,207",
+      "stars": "12,217",
       "forks": "1,042",
-      "addStars": "236",
+      "addStars": "131",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24794200?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "💚 End-to-end encrypted cloud for everything.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "24,678",
-      "forks": "1,451",
-      "addStars": "42",
+      "stars": "24,694",
+      "forks": "1,453",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24503581?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "26,580",
-      "forks": "2,291",
-      "addStars": "356",
+      "stars": "26,592",
+      "forks": "2,293",
+      "addStars": "287",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/114227601?s=40&v=4",
@@ -121,7 +121,7 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "31,903",
+      "stars": "31,915",
       "forks": "1,940",
       "addStars": "69",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "New Lichess mobile app in Flutter",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,100",
+      "stars": "2,101",
       "forks": "363",
       "addStars": "6",
       "contributors": [
@@ -223,7 +223,7 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "11,047",
-      "forks": "1,753",
+      "forks": "1,752",
       "addStars": "2",
       "contributors": [
         {
@@ -259,9 +259,9 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "21,318",
-      "forks": "608",
-      "addStars": "42",
+      "stars": "21,324",
+      "forks": "609",
+      "addStars": "41",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34627277?s=40&v=4",
@@ -296,7 +296,7 @@
       "description": "Love Iwara (i-iwara or 2i). An unofficial iwara flutter app - Supporting multiple platforms and devices including mobile phones, tablets and computers. Compatible with Android, Windows and other systems. 第三方的Iwara应用 - 支持多个平台和设备，包括手机、平板和计算机。兼容 安卓、IOS、Windows、MacOS等系统。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "924",
+      "stars": "926",
       "forks": "36",
       "addStars": "11",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "Fladder - A Simple Jellyfin frontend built on top of Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,777",
+      "stars": "1,781",
       "forks": "93",
       "addStars": "8",
       "contributors": [
@@ -355,9 +355,9 @@
       "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "44,486",
+      "stars": "44,495",
       "forks": "1,982",
-      "addStars": "31",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/61944859?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "💊 Application to use ReVanced on Android",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "25,970",
+      "stars": "25,972",
       "forks": "1,032",
-      "addStars": "17",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/93124920?s=40&v=4",
@@ -424,9 +424,9 @@
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "75,373",
+      "stars": "75,381",
       "forks": "4,013",
-      "addStars": "60",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38380847?s=40&v=4",
@@ -461,8 +461,8 @@
       "description": "A Weather app for android 🌦🌞☔",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,540",
-      "forks": "105",
+      "stars": "2,541",
+      "forks": "104",
       "addStars": "4",
       "contributors": [
         {
@@ -522,7 +522,7 @@
       "languageColor": "#00B4AB",
       "stars": "5,514",
       "forks": "301",
-      "addStars": "4",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/40139196?s=40&v=4",
@@ -552,9 +552,9 @@
       "description": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,229",
+      "stars": "15,230",
       "forks": "11,135",
-      "addStars": "4",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6346213?s=40&v=4",
@@ -584,7 +584,7 @@
       "description": "A cross-platform manga app made for e-hentai & exhentai by Flutter",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "4,750",
+      "stars": "4,749",
       "forks": "139",
       "addStars": "5",
       "contributors": [
@@ -621,9 +621,9 @@
       "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "9,781",
+      "stars": "9,788",
       "forks": "874",
-      "addStars": "19",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/167741400?s=40&v=4",
@@ -660,7 +660,7 @@
       "languageColor": "#00B4AB",
       "stars": "1,333",
       "forks": "78",
-      "addStars": "6",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34627277?s=40&v=4",
@@ -690,9 +690,9 @@
       "description": "Breeze 是哔咔(PicACG/bika)与禁漫（禁漫天堂，jm）的第三方安卓客户端，采用 Flutter 开发。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "662",
+      "stars": "665",
       "forks": "22",
-      "addStars": "6",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81013544?s=40&v=4",
@@ -722,9 +722,9 @@
       "description": "PiliPlus",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "10,749",
-      "forks": "642",
-      "addStars": "29",
+      "stars": "10,756",
+      "forks": "643",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/114972867?s=40&v=4",

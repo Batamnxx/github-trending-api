@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 24 Feb 2026 14:10:58 GMT",
+  "pubDate": "Tue, 24 Feb 2026 19:49:44 GMT",
   "items": [
     {
       "title": "obra/superpowers",
@@ -10,9 +10,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "60,032",
-      "forks": "4,573",
-      "addStars": "1,500",
+      "stars": "60,293",
+      "forks": "4,596",
+      "addStars": "1,149",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -47,7 +47,7 @@
       "description": "😼 优雅地使用基于 clash/mihomo 的代理环境",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "9,243",
+      "stars": "9,247",
       "forks": "1,092",
       "addStars": "48",
       "contributors": [
@@ -84,9 +84,9 @@
       "description": "Docker configuration for running VLLM on dual DGX Sparks",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "387",
-      "forks": "66",
-      "addStars": "43",
+      "stars": "390",
+      "forks": "67",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2192184?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "69,599",
-      "forks": "5,485",
-      "addStars": "482",
+      "stars": "69,668",
+      "forks": "5,492",
+      "addStars": "367",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "60,408",
+      "stars": "60,413",
       "forks": "12,332",
-      "addStars": "15",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8636020?s=40&v=4",
@@ -188,9 +188,9 @@
       "title": "n8n-io/n8n-hosting",
       "url": "https://github.com/n8n-io/n8n-hosting",
       "description": "Example of self-hosting n8n in various environments like docker, kubernetes, etc.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "1,456",
+      "language": "Go Template",
+      "languageColor": "#00ADD8",
+      "stars": "1,457",
       "forks": "740",
       "addStars": "4",
       "contributors": [
@@ -217,9 +217,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "91,821",
+      "stars": "91,828",
       "forks": "9,899",
-      "addStars": "14",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "45,766",
-      "forks": "5,518",
+      "stars": "45,770",
+      "forks": "5,519",
       "addStars": "17",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "Burpsuite Professional Latest Version 2026",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,893",
+      "stars": "1,895",
       "forks": "512",
       "addStars": "4",
       "contributors": [
@@ -366,7 +366,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "313",
-      "forks": "2,103",
+      "forks": "2,105",
       "addStars": "0",
       "contributors": [
         {

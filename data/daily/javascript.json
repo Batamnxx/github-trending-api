@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Feb 2026 19:58:54 GMT",
+  "pubDate": "Tue, 24 Feb 2026 03:39:11 GMT",
   "items": [
     {
       "title": "Stremio/stremio-web",
@@ -10,9 +10,9 @@
       "description": "Stremio - Freedom to Stream",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,902",
-      "forks": "1,075",
-      "addStars": "273",
+      "stars": "9,980",
+      "forks": "1,078",
+      "addStars": "272",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5950722?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,562",
-      "forks": "855",
-      "addStars": "46",
+      "stars": "6,665",
+      "forks": "859",
+      "addStars": "62",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7479045?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "draw.io is a JavaScript, client-side editor for general diagramming.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,663",
+      "stars": "3,673",
       "forks": "658",
-      "addStars": "23",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1761087?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "18,405",
-      "forks": "1,648",
-      "addStars": "819",
+      "stars": "18,647",
+      "forks": "1,664",
+      "addStars": "887",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/186001655?s=40&v=4",
@@ -136,11 +136,6 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/211764741?s=40&v=4",
-          "name": "Solvely-Colin",
-          "url": "https://github.com/Solvely-Colin"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/62661?s=40&v=4",
           "name": "jjshanks",
           "url": "https://github.com/jjshanks"
@@ -149,6 +144,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/3037759?s=40&v=4",
           "name": "davesienkowski",
           "url": "https://github.com/davesienkowski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8614797?s=40&v=4",
+          "name": "superresistant",
+          "url": "https://github.com/superresistant"
         }
       ]
     },
@@ -158,9 +158,9 @@
       "description": "A tool for writing better scripts",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "45,200",
+      "stars": "45,203",
       "forks": "1,212",
-      "addStars": "13",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5288046?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "54,908",
+      "stars": "54,923",
       "forks": "5,921",
-      "addStars": "43",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16845892?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "99,230",
-      "forks": "7,422",
-      "addStars": "56",
+      "stars": "99,248",
+      "forks": "7,423",
+      "addStars": "62",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,521",
+      "stars": "8,527",
       "forks": "607",
-      "addStars": "61",
+      "addStars": "63",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38282758?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "CircuitVerse Primary Code Base",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,163",
+      "stars": "1,164",
       "forks": "1,953",
-      "addStars": "2",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3112976?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "44,307",
+      "stars": "44,306",
       "forks": "3,015",
-      "addStars": "22",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24496417?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,158",
-      "forks": "787",
-      "addStars": "43",
+      "stars": "7,202",
+      "forks": "794",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26037703?s=40&v=4",

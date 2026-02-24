@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 24 Feb 2026 03:39:11 GMT",
+  "pubDate": "Tue, 24 Feb 2026 07:53:52 GMT",
   "items": [
     {
       "title": "hiddify/hiddify-app",
@@ -10,8 +10,8 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "26,628",
-      "forks": "2,293",
+      "stars": "26,637",
+      "forks": "2,294",
       "addStars": "51",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "💚 End-to-end encrypted cloud for everything.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "24,720",
+      "stars": "24,733",
       "forks": "1,454",
       "addStars": "45",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "12,286",
-      "forks": "1,043",
+      "stars": "12,305",
+      "forks": "1,044",
       "addStars": "60",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually inspect responses and generate API integration code. A lightweight alternative to postman/insomnia.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,683",
-      "forks": "733",
+      "stars": "2,685",
+      "forks": "738",
       "addStars": "4",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "31,974",
-      "forks": "1,942",
+      "stars": "31,999",
+      "forks": "1,945",
       "addStars": "67",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,232",
+      "stars": "15,228",
       "forks": "11,134",
       "addStars": "5",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "21,364",
+      "stars": "21,371",
       "forks": "610",
       "addStars": "45",
       "contributors": [
@@ -255,7 +255,7 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "2,100",
-      "forks": "363",
+      "forks": "365",
       "addStars": "1",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "AI wearables. Put it on, speak, transcribe, automatically",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "7,715",
-      "forks": "1,388",
+      "stars": "7,718",
+      "forks": "1,389",
       "addStars": "8",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "7,641",
+      "stars": "7,647",
       "forks": "498",
       "addStars": "7",
       "contributors": [
@@ -498,7 +498,7 @@
       "description": "Clash Mihomo for iOS/MacOS/Android/Windows/Linux",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "4,949",
+      "stars": "4,953",
       "forks": "309",
       "addStars": "12",
       "contributors": [
@@ -530,8 +530,8 @@
       "description": "Love Iwara (i-iwara or 2i). An unofficial iwara flutter app - Supporting multiple platforms and devices including mobile phones, tablets and computers. Compatible with Android, Windows and other systems. 第三方的Iwara应用 - 支持多个平台和设备，包括手机、平板和计算机。兼容 安卓、IOS、Windows、MacOS等系统。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "932",
-      "forks": "36",
+      "stars": "933",
+      "forks": "37",
       "addStars": "8",
       "contributors": [
         {
@@ -616,7 +616,7 @@
       "description": "简简单单的看直播",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,065",
+      "stars": "15,070",
       "forks": "2,485",
       "addStars": "11",
       "contributors": [
@@ -690,7 +690,7 @@
       "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,639",
+      "stars": "1,641",
       "forks": "168",
       "addStars": "10",
       "contributors": [

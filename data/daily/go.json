@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 25 Feb 2026 14:09:18 GMT",
+  "pubDate": "Wed, 25 Feb 2026 19:50:42 GMT",
   "items": [
     {
       "title": "gofiber/fiber",
@@ -10,8 +10,8 @@
       "description": "⚡️ Express inspired web framework written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,284",
-      "forks": "1,960",
+      "stars": "39,289",
+      "forks": "1,959",
       "addStars": "14",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "MCP for xiaohongshu.com",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,187",
-      "forks": "1,440",
+      "stars": "9,212",
+      "forks": "1,442",
       "addStars": "76",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "13,110",
+      "stars": "13,111",
       "forks": "1,507",
       "addStars": "22",
       "contributors": [
@@ -111,9 +111,9 @@
       "description": "Automatically provision and manage TLS certificates in Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "13,616",
+      "stars": "13,621",
       "forks": "2,316",
-      "addStars": "5",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32282838?s=40&v=4",
@@ -143,7 +143,7 @@
       "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "18,927",
+      "stars": "18,941",
       "forks": "2,020",
       "addStars": "64",
       "contributors": [
@@ -175,7 +175,7 @@
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "19,218",
+      "stars": "19,220",
       "forks": "1,745",
       "addStars": "11",
       "contributors": [
@@ -286,7 +286,7 @@
       "description": "The Docker CLI",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,701",
+      "stars": "5,703",
       "forks": "2,095",
       "addStars": "3",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,722",
+      "stars": "16,724",
       "forks": "5,762",
       "addStars": "2",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "Cloudflare Terraform Provider",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,211",
+      "stars": "1,215",
       "forks": "794",
       "addStars": "0",
       "contributors": [
@@ -387,7 +387,7 @@
       "description": "The official CLI for the X API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "340",
+      "stars": "348",
       "forks": "41",
       "addStars": "34",
       "contributors": [
@@ -424,7 +424,7 @@
       "description": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,600",
+      "stars": "9,604",
       "forks": "1,033",
       "addStars": "8",
       "contributors": [
@@ -456,8 +456,8 @@
       "description": "微信视频号下载器",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,684",
-      "forks": "662",
+      "stars": "4,688",
+      "forks": "663",
       "addStars": "21",
       "contributors": [
         {
@@ -493,7 +493,7 @@
       "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "104,738",
+      "stars": "104,743",
       "forks": "14,905",
       "addStars": "43",
       "contributors": [
@@ -530,8 +530,8 @@
       "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,040",
-      "forks": "420",
+      "stars": "2,053",
+      "forks": "422",
       "addStars": "60",
       "contributors": [
         {
@@ -555,9 +555,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5381613?s=40&v=4",
-          "name": "cyhhao",
-          "url": "https://github.com/cyhhao"
+          "avatar": "https://avatars.githubusercontent.com/u/52620633?s=40&v=4",
+          "name": "touwaeriol",
+          "url": "https://github.com/touwaeriol"
         }
       ]
     },
@@ -567,8 +567,8 @@
       "description": "🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,561",
-      "forks": "757",
+      "stars": "4,566",
+      "forks": "758",
       "addStars": "22",
       "contributors": [
         {
@@ -594,7 +594,7 @@
       "description": "An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "13,061",
+      "stars": "13,066",
       "forks": "1,574",
       "addStars": "10",
       "contributors": [
@@ -658,8 +658,8 @@
       "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,212",
-      "forks": "772",
+      "stars": "8,218",
+      "forks": "773",
       "addStars": "9",
       "contributors": [
         {
@@ -695,7 +695,7 @@
       "description": "OpenTelemetry Collector distribution with programmable pipelines",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,921",
+      "stars": "2,923",
       "forks": "532",
       "addStars": "6",
       "contributors": [
@@ -732,7 +732,7 @@
       "description": "AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,593",
+      "stars": "10,595",
       "forks": "2,776",
       "addStars": "13",
       "contributors": [
@@ -769,9 +769,9 @@
       "description": "Contrib repository for the OpenTelemetry Collector",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,442",
+      "stars": "4,445",
       "forks": "3,366",
-      "addStars": "0",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1373887?s=40&v=4",
@@ -796,7 +796,7 @@
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "71,485",
+      "stars": "71,484",
       "forks": "18,907",
       "addStars": "6",
       "contributors": [

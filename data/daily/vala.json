@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 25 Feb 2026 14:09:18 GMT",
+  "pubDate": "Wed, 25 Feb 2026 19:50:42 GMT",
   "items": [
     {
       "title": "ErikReider/SwayNotificationCenter",
@@ -10,7 +10,7 @@
       "description": "A simple GTK based notification daemon for any Wayland compositor",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "2,325",
+      "stars": "2,326",
       "forks": "88",
       "addStars": "5",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "A modern compatibility tools manager",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "1,230",
+      "stars": "1,231",
       "forks": "42",
       "addStars": "3",
       "contributors": [

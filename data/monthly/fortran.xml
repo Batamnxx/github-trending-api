@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Wed, 25 Feb 2026 14:09:18 GMT</pubDate>
+    <pubDate>Wed, 25 Feb 2026 19:50:42 GMT</pubDate>
     <item>
       <title>ecmwf/fckit</title>
       <link>https://github.com/ecmwf/fckit</link>
@@ -159,7 +159,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>386</stars>
-      <forks>677</forks>
+      <forks>678</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>

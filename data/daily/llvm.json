@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 25 Feb 2026 14:09:18 GMT",
+  "pubDate": "Wed, 25 Feb 2026 19:50:42 GMT",
   "items": [
     {
       "title": "llvm/llvm-project",
@@ -10,8 +10,8 @@
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": "37,106",
-      "forks": "16,258",
+      "stars": "37,112",
+      "forks": "16,260",
       "addStars": "23",
       "contributors": [
         {

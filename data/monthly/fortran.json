@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Monthly Trending",
   "description": "Monthly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 25 Feb 2026 14:09:18 GMT",
+  "pubDate": "Wed, 25 Feb 2026 19:50:42 GMT",
   "items": [
     {
       "title": "ecmwf/fckit",
@@ -154,7 +154,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": "386",
-      "forks": "677",
+      "forks": "678",
       "addStars": "9",
       "contributors": [
         {

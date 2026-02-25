@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 24 Feb 2026 19:49:44 GMT",
+  "pubDate": "Wed, 25 Feb 2026 03:39:37 GMT",
   "items": [
     {
       "title": "huggingface/skills",
@@ -10,9 +10,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,006",
-      "forks": "328",
-      "addStars": "1,269",
+      "stars": "5,552",
+      "forks": "345",
+      "addStars": "1,206",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19620375?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,741",
-      "forks": "769",
-      "addStars": "771",
+      "stars": "10,072",
+      "forks": "788",
+      "addStars": "722",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/132029956?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "61,810",
-      "forks": "6,024",
-      "addStars": "517",
+      "stars": "61,939",
+      "forks": "6,034",
+      "addStars": "504",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18151143?s=40&v=4",
@@ -121,8 +121,8 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,274",
-      "forks": "833",
+      "stars": "12,868",
+      "forks": "868",
       "addStars": "1,970",
       "contributors": [
         {
@@ -158,9 +158,9 @@
       "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,911",
-      "forks": "283",
-      "addStars": "75",
+      "stars": "2,063",
+      "forks": "293",
+      "addStars": "73",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71637017?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,385",
-      "forks": "978",
-      "addStars": "142",
+      "stars": "7,513",
+      "forks": "989",
+      "addStars": "145",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/130666567?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,195",
-      "forks": "1,222",
-      "addStars": "678",
+      "stars": "17,313",
+      "forks": "1,231",
+      "addStars": "714",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8255061?s=40&v=4",
@@ -239,9 +239,9 @@
       "description": "iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,301",
+      "stars": "1,315",
       "forks": "161",
-      "addStars": "55",
+      "addStars": "76",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7130677?s=40&v=4",
@@ -276,9 +276,9 @@
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,182",
-      "forks": "3,852",
-      "addStars": "49",
+      "stars": "31,191",
+      "forks": "3,855",
+      "addStars": "47",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11889052?s=40&v=4",
@@ -313,9 +313,9 @@
       "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,256",
-      "forks": "258",
-      "addStars": "68",
+      "stars": "3,282",
+      "forks": "259",
+      "addStars": "73",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5304541?s=40&v=4",
@@ -340,9 +340,9 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,573",
-      "forks": "2,486",
-      "addStars": "157",
+      "stars": "21,632",
+      "forks": "2,495",
+      "addStars": "187",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/88936287?s=40&v=4",
@@ -377,9 +377,9 @@
       "description": "A Django content management system focused on flexibility and user experience",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,207",
+      "stars": "20,210",
       "forks": "4,447",
-      "addStars": "9",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/85097?s=40&v=4",
@@ -414,9 +414,9 @@
       "description": "Build, Manage and Deploy AI/ML Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,839",
-      "forks": "1,060",
-      "addStars": "23",
+      "stars": "9,840",
+      "forks": "1,062",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/763451?s=40&v=4",
@@ -451,9 +451,9 @@
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,537",
-      "forks": "419",
-      "addStars": "149",
+      "stars": "2,556",
+      "forks": "421",
+      "addStars": "160",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9640444?s=40&v=4",
@@ -488,9 +488,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "552",
+      "stars": "556",
       "forks": "106",
-      "addStars": "6",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/114017599?s=40&v=4",
@@ -510,9 +510,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "74,768",
-      "forks": "7,708",
-      "addStars": "883",
+      "stars": "74,999",
+      "forks": "7,742",
+      "addStars": "832",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/84525?s=40&v=4",
@@ -547,9 +547,9 @@
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,122",
-      "forks": "22,340",
-      "addStars": "137",
+      "stars": "47,155",
+      "forks": "22,349",
+      "addStars": "134",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -569,9 +569,9 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,446",
-      "forks": "779",
-      "addStars": "500",
+      "stars": "10,499",
+      "forks": "784",
+      "addStars": "508",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5654879?s=40&v=4",
@@ -601,9 +601,9 @@
       "description": "Python sample codes and documents about Autonomous vehicle control algorithm. This project can be used as a technical guide book to study the algorithms and the software architectures for beginners.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,397",
+      "stars": "1,400",
       "forks": "209",
-      "addStars": "59",
+      "addStars": "43",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/40762735?s=40&v=4",
@@ -638,9 +638,9 @@
       "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,940",
-      "forks": "849",
-      "addStars": "104",
+      "stars": "4,951",
+      "forks": "850",
+      "addStars": "93",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13734662?s=40&v=4",
@@ -660,9 +660,9 @@
       "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,187",
-      "forks": "510",
-      "addStars": "122",
+      "stars": "2,235",
+      "forks": "520",
+      "addStars": "131",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2789441?s=40&v=4",

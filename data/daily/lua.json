@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 26 Feb 2026 03:37:46 GMT",
+  "pubDate": "Thu, 26 Feb 2026 07:53:32 GMT",
   "items": [
     {
       "title": "apache/apisix",
@@ -10,8 +10,8 @@
       "description": "The Cloud-Native API Gateway and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "16,248",
-      "forks": "2,793",
+      "stars": "16,249",
+      "forks": "2,794",
       "addStars": "5",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "15,807",
-      "forks": "1,010",
+      "stars": "15,812",
+      "forks": "1,011",
       "addStars": "18",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "42,830",
-      "forks": "5,084",
+      "stars": "42,831",
+      "forks": "5,085",
       "addStars": "6",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "万象拼音：基于rime生态打造，全方位对标大厂体验，内置大语料与AI辅助炼制的向量词库和语法模型，全带调编码词库，让输入行云流水，开箱即用。更有PRO版带来辅助码创新体验，支持7种辅助码。集成超级注释、候选反查筛选、快符、手动排序、tips等特色扩展功能，让你保证大厂体验的同时，深度享受 Rime 超强自定义的便利。详见README。Q群：11033572 / 11631066",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,904",
+      "stars": "2,909",
       "forks": "114",
       "addStars": "9",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "Your Neovim AI sidekick",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,320",
+      "stars": "2,322",
       "forks": "100",
       "addStars": "2",
       "contributors": [
@@ -213,7 +213,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "207",
-      "forks": "226",
+      "forks": "227",
       "addStars": "0",
       "contributors": [
         {
@@ -239,7 +239,7 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "13,392",
+      "stars": "13,393",
       "forks": "2,414",
       "addStars": "4",
       "contributors": [
@@ -320,7 +320,7 @@
       "description": "Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,121",
+      "stars": "4,122",
       "forks": "73",
       "addStars": "5",
       "contributors": [
@@ -426,7 +426,7 @@
       "description": "Enhance your golang experience",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "415",
+      "stars": "416",
       "forks": "19",
       "addStars": "0",
       "contributors": [
@@ -463,7 +463,7 @@
       "description": "Ace3 WoW AddOn Development Framework",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "100",
+      "stars": "101",
       "forks": "23",
       "addStars": "0",
       "contributors": [
@@ -638,8 +638,8 @@
       "description": "Connect Cursor, Copilot & Claude directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "312",
-      "forks": "58",
+      "stars": "313",
+      "forks": "59",
       "addStars": "2",
       "contributors": [
         {

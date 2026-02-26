@@ -2,7 +2,7 @@
   "title": "GitHub Just Languages Weekly Trending",
   "description": "Weekly Trending of Just Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 26 Feb 2026 14:09:16 GMT",
+  "pubDate": "Thu, 26 Feb 2026 19:45:30 GMT",
   "items": [
     {
       "title": "pop-os/cosmic-epoch",
@@ -10,7 +10,7 @@
       "description": "Next generation Cosmic desktop environment",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "5,812",
+      "stars": "5,811",
       "forks": "177",
       "addStars": "55",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Build your own custom Universal Blue Image!",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "659",
+      "stars": "660",
       "forks": "137",
       "addStars": "10",
       "contributors": [
@@ -89,14 +89,14 @@
           "url": "https://github.com/hecknt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5840441?s=40&v=4",
-          "name": "hanthor",
-          "url": "https://github.com/hanthor"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/1892225?s=40&v=4",
           "name": "ahmedadan",
           "url": "https://github.com/ahmedadan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5840441?s=40&v=4",
+          "name": "hanthor",
+          "url": "https://github.com/hanthor"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/16531710?s=40&v=4",

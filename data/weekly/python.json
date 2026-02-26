@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 25 Feb 2026 19:50:42 GMT",
+  "pubDate": "Thu, 26 Feb 2026 03:37:46 GMT",
   "items": [
     {
       "title": "huggingface/skills",
@@ -10,9 +10,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,274",
-      "forks": "373",
-      "addStars": "3,381",
+      "stars": "6,510",
+      "forks": "386",
+      "addStars": "4,879",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19620375?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,745",
+      "stars": "9,772",
       "forks": "805",
-      "addStars": "1,903",
+      "addStars": "1,988",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,553",
-      "forks": "824",
-      "addStars": "1,072",
+      "stars": "10,903",
+      "forks": "851",
+      "addStars": "2,061",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/132029956?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,347",
-      "forks": "531",
-      "addStars": "315",
+      "stars": "2,385",
+      "forks": "537",
+      "addStars": "470",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2789441?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,782",
+      "stars": "31,786",
       "forks": "2,326",
-      "addStars": "518",
+      "addStars": "506",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4550621?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,640",
-      "forks": "952",
-      "addStars": "2,789",
+      "stars": "9,669",
+      "forks": "953",
+      "addStars": "1,886",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Build, Manage and Deploy AI/ML Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,849",
-      "forks": "1,067",
-      "addStars": "84",
+      "stars": "9,850",
+      "forks": "1,068",
+      "addStars": "95",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/763451?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "62,112",
-      "forks": "6,048",
-      "addStars": "1,349",
+      "stars": "62,142",
+      "forks": "6,052",
+      "addStars": "1,683",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18151143?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "A free, online learning platform to make quality education accessible for all.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,552",
-      "forks": "5,394",
-      "addStars": "39",
+      "stars": "6,554",
+      "forks": "5,396",
+      "addStars": "40",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10575562?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "Databricks Toolkit for Coding Agents provided by Field Engineering",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "669",
-      "forks": "116",
-      "addStars": "318",
+      "stars": "678",
+      "forks": "117",
+      "addStars": "292",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49540501?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,548",
-      "forks": "966",
-      "addStars": "3,216",
+      "stars": "15,413",
+      "forks": "1,011",
+      "addStars": "5,072",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "Free Motion Capture for Everyone 💀✨",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,764",
+      "stars": "5,771",
       "forks": "453",
-      "addStars": "1,161",
+      "addStars": "960",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15314521?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,668",
-      "forks": "1,005",
-      "addStars": "544",
+      "stars": "7,682",
+      "forks": "1,010",
+      "addStars": "935",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/130666567?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,645",
-      "forks": "199",
-      "addStars": "1,293",
+      "stars": "1,653",
+      "forks": "200",
+      "addStars": "1,065",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29794543?s=40&v=4",
@@ -493,9 +493,9 @@
       "description": "Make your job hunt easy by automating your application process with this Auto Applier",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,810",
-      "forks": "491",
-      "addStars": "243",
+      "stars": "1,816",
+      "forks": "492",
+      "addStars": "212",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/100998531?s=40&v=4",
@@ -532,7 +532,7 @@
       "languageColor": "#3572A5",
       "stars": "2,887",
       "forks": "275",
-      "addStars": "412",
+      "addStars": "427",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26109316?s=40&v=4",

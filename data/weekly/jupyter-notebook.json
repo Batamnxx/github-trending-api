@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Weekly Trending",
   "description": "Weekly Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "HandsOnLLM/Hands-On-Large-Language-Models",
@@ -10,8 +10,8 @@
       "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "23,090",
-      "forks": "5,352",
+      "stars": "23,095",
+      "forks": "5,354",
       "addStars": "1,338",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "107,128",
-      "forks": "57,405",
+      "stars": "107,138",
+      "forks": "57,417",
       "addStars": "540",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "14,003",
-      "forks": "2,032",
+      "stars": "14,006",
+      "forks": "2,033",
       "addStars": "237",
       "contributors": [
         {
@@ -116,50 +116,13 @@
       ]
     },
     {
-      "title": "microsoft/ML-For-Beginners",
-      "url": "https://github.com/microsoft/ML-For-Beginners",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "84,011",
-      "forks": "20,101",
-      "addStars": "244",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
-          "name": "jlooper",
-          "url": "https://github.com/jlooper"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
-          "name": "skytin1004",
-          "url": "https://github.com/skytin1004"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
-          "name": "leestott",
-          "url": "https://github.com/leestott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3022824?s=40&v=4",
-          "name": "hereje",
-          "url": "https://github.com/hereje"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55969597?s=40&v=4",
-          "name": "Vidushi-Gupta",
-          "url": "https://github.com/Vidushi-Gupta"
-        }
-      ]
-    },
-    {
       "title": "CompVis/stable-diffusion",
       "url": "https://github.com/CompVis/stable-diffusion",
       "description": "A latent text-to-image diffusion model",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "72,578",
-      "forks": "10,608",
+      "stars": "72,579",
+      "forks": "10,610",
       "addStars": "218",
       "contributors": [
         {
@@ -195,8 +158,8 @@
       "description": "Repo to accompany my mastering LLM engineering course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "5,035",
-      "forks": "4,839",
+      "stars": "5,037",
+      "forks": "4,842",
       "addStars": "104",
       "contributors": [
         {
@@ -232,8 +195,8 @@
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "51,396",
-      "forks": "18,022",
+      "stars": "51,476",
+      "forks": "18,040",
       "addStars": "616",
       "contributors": [
         {
@@ -264,7 +227,7 @@
       "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "25,649",
+      "stars": "25,650",
       "forks": "3,011",
       "addStars": "205",
       "contributors": [
@@ -301,8 +264,8 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "12,696",
-      "forks": "1,183",
+      "stars": "12,725",
+      "forks": "1,188",
       "addStars": "1,233",
       "contributors": [
         {
@@ -375,7 +338,7 @@
       "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "16,656",
+      "stars": "16,657",
       "forks": "4,997",
       "addStars": "108",
       "contributors": [
@@ -412,7 +375,7 @@
       "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "7,235",
+      "stars": "7,241",
       "forks": "802",
       "addStars": "101",
       "contributors": [
@@ -449,8 +412,8 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "30,781",
-      "forks": "5,009",
+      "stars": "30,791",
+      "forks": "5,012",
       "addStars": "618",
       "contributors": [
         {
@@ -486,8 +449,8 @@
       "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "53,508",
-      "forks": "6,251",
+      "stars": "53,513",
+      "forks": "6,253",
       "addStars": "94",
       "contributors": [
         {
@@ -523,8 +486,8 @@
       "description": "Examples and guides for using the OpenAI API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "71,719",
-      "forks": "12,040",
+      "stars": "71,723",
+      "forks": "12,041",
       "addStars": "208",
       "contributors": [
         {
@@ -560,7 +523,7 @@
       "description": "Repo for the Complete Agentic AI Engineering Course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "4,098",
+      "stars": "4,099",
       "forks": "3,383",
       "addStars": "84",
       "contributors": [
@@ -597,8 +560,8 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "33,520",
-      "forks": "3,495",
+      "stars": "33,534",
+      "forks": "3,500",
       "addStars": "454",
       "contributors": [
         {
@@ -634,8 +597,8 @@
       "description": "This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "17,639",
-      "forks": "2,313",
+      "stars": "17,660",
+      "forks": "2,316",
       "addStars": "262",
       "contributors": [
         {
@@ -671,7 +634,7 @@
       "description": "🔊 Text-Prompted Generative Audio Model",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "39,005",
+      "stars": "39,006",
       "forks": "4,684",
       "addStars": "46",
       "contributors": [

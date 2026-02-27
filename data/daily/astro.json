@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "cworld1/astro-theme-pure",
@@ -11,7 +11,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "819",
-      "forks": "233",
+      "forks": "234",
       "addStars": "1",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "635",
+      "stars": "636",
       "forks": "287",
       "addStars": "1",
       "contributors": [
@@ -102,7 +102,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "812",
-      "forks": "281",
+      "forks": "282",
       "addStars": "2",
       "contributors": [
         {
@@ -133,7 +133,7 @@
       "description": "🦄 A curated list of privacy & security-focused software and services",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "9,001",
+      "stars": "9,002",
       "forks": "431",
       "addStars": "6",
       "contributors": [
@@ -203,7 +203,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "5,469",
-      "forks": "1,543",
+      "forks": "1,544",
       "addStars": "1",
       "contributors": [
         {
@@ -345,7 +345,7 @@
       "description": "A minimal, accessible and SEO-friendly Astro blog theme",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "4,259",
+      "stars": "4,260",
       "forks": "888",
       "addStars": "6",
       "contributors": [

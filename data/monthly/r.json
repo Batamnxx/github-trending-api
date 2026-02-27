@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Monthly Trending",
   "description": "Monthly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "nflverse/nflverse-data",
@@ -148,7 +148,7 @@
       "description": "R toolkit for single cell genomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "2,657",
+      "stars": "2,658",
       "forks": "980",
       "addStars": "37",
       "contributors": [
@@ -503,7 +503,7 @@
       "description": "Make Complex Heatmaps",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "1,470",
+      "stars": "1,471",
       "forks": "241",
       "addStars": "10",
       "contributors": [

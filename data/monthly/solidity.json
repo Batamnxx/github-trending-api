@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Monthly Trending",
   "description": "Monthly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "Uniswap/v4-periphery",
@@ -84,7 +84,7 @@
       "description": "The Ethereum Request for Comment repository",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "664",
+      "stars": "663",
       "forks": "895",
       "addStars": "27",
       "contributors": [
@@ -159,7 +159,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "26,996",
-      "forks": "12,400",
+      "forks": "12,398",
       "addStars": "107",
       "contributors": [
         {
@@ -439,8 +439,8 @@
       "description": "Shared liquidity layer protocol",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "68",
-      "forks": "42",
+      "stars": "69",
+      "forks": "43",
       "addStars": "9",
       "contributors": [
         {
@@ -476,7 +476,7 @@
       "description": "Polymarket CTF Exchange",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "315",
+      "stars": "316",
       "forks": "143",
       "addStars": "31",
       "contributors": [

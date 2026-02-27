@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Weekly Trending",
   "description": "Weekly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "obra/superpowers",
@@ -10,8 +10,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "63,584",
-      "forks": "4,856",
+      "stars": "63,881",
+      "forks": "4,878",
       "addStars": "7,985",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "70,675",
-      "forks": "5,584",
+      "stars": "70,779",
+      "forks": "5,596",
       "addStars": "2,883",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,115",
+      "stars": "2,119",
       "forks": "289",
       "addStars": "130",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "Docker configuration for running VLLM on dual DGX Sparks",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "411",
-      "forks": "75",
+      "stars": "414",
+      "forks": "76",
       "addStars": "121",
       "contributors": [
         {
@@ -148,40 +148,13 @@
       ]
     },
     {
-      "title": "tw93/Mole",
-      "url": "https://github.com/tw93/Mole",
-      "description": "🐹 Deep clean and optimize your Mac.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "37,211",
-      "forks": "1,019",
-      "addStars": "1,777",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8736212?s=40&v=4",
-          "name": "tw93",
-          "url": "https://github.com/tw93"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43526118?s=40&v=4",
-          "name": "JackPhallen",
-          "url": "https://github.com/JackPhallen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65819001?s=40&v=4",
-          "name": "bhadraagada",
-          "url": "https://github.com/bhadraagada"
-        }
-      ]
-    },
-    {
       "title": "pi-hole/pi-hole",
       "url": "https://github.com/pi-hole/pi-hole",
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "55,889",
-      "forks": "2,994",
+      "stars": "55,891",
+      "forks": "2,993",
       "addStars": "150",
       "contributors": [
         {
@@ -217,7 +190,7 @@
       "description": "This is the (partial) source code for the Unreal Gold and Unreal Tournament GOTY installers we host on OldUnreal.com",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "421",
+      "stars": "422",
       "forks": "17",
       "addStars": "127",
       "contributors": [
@@ -254,8 +227,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "20,495",
-      "forks": "2,021",
+      "stars": "20,511",
+      "forks": "2,026",
       "addStars": "260",
       "contributors": [
         {
@@ -291,7 +264,7 @@
       "description": "🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "184,984",
+      "stars": "184,990",
       "forks": "26,294",
       "addStars": "223",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>clockworklabs/SpacetimeDB</title>
       <link>https://github.com/clockworklabs/SpacetimeDB</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/clockworklabs/SpacetimeDB</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>20,968</stars>
-      <forks>754</forks>
+      <stars>21,087</stars>
+      <forks>760</forks>
       <addStars>441</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>63,556</stars>
-      <forks>4,855</forks>
+      <stars>63,857</stars>
+      <forks>4,877</forks>
       <addStars>1,532</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,841</stars>
-      <forks>916</forks>
+      <stars>12,005</stars>
+      <forks>928</forks>
       <addStars>922</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,221</stars>
-      <forks>2,615</forks>
+      <stars>21,355</stars>
+      <forks>2,626</forks>
       <addStars>617</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/huggingface/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,031</stars>
-      <forks>409</forks>
+      <stars>7,113</stars>
+      <forks>415</forks>
       <addStars>715</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/farion1231/cc-switch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>20,803</stars>
-      <forks>1,293</forks>
+      <stars>20,981</stars>
+      <forks>1,299</forks>
       <addStars>418</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,982</stars>
-      <forks>1,114</forks>
+      <stars>17,181</stars>
+      <forks>1,135</forks>
       <addStars>2,902</addStars>
       <contributors>
         <contributor>
@@ -259,14 +259,14 @@
           <url>https://github.com/ImgBotApp</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32169182?s=40&amp;v=4</avatar>
-          <name>salmanmkc</name>
-          <url>https://github.com/salmanmkc</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11717383?s=40&amp;v=4</avatar>
           <name>andyfcx</name>
           <url>https://github.com/andyfcx</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52079299?s=40&amp;v=4</avatar>
+          <name>AbdullahY36</name>
+          <url>https://github.com/AbdullahY36</url>
         </contributor>
       </contributors>
     </item>
@@ -277,8 +277,8 @@
       <guid>https://github.com/ruvnet/claude-flow</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,036</stars>
-      <forks>1,753</forks>
+      <stars>15,140</stars>
+      <forks>1,761</forks>
       <addStars>215</addStars>
       <contributors>
         <contributor>
@@ -315,8 +315,8 @@
       <guid>https://github.com/ruvnet/ruvector</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,645</stars>
-      <forks>179</forks>
+      <stars>1,714</stars>
+      <forks>183</forks>
       <addStars>436</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/moonshine-ai/moonshine</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>5,364</stars>
-      <forks>255</forks>
+      <stars>5,482</stars>
+      <forks>261</forks>
       <addStars>245</addStars>
       <contributors>
         <contributor>

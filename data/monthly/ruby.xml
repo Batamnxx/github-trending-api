@@ -3,7 +3,7 @@
     <title>GitHub Ruby Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Ruby Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>discourse/discourse</title>
       <link>https://github.com/discourse/discourse</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/discourse/discourse</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>46,428</stars>
+      <stars>46,429</stars>
       <forks>8,823</forks>
       <addStars>360</addStars>
       <contributors>
@@ -44,7 +44,7 @@
       <guid>https://github.com/fastlane/fastlane</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>41,089</stars>
+      <stars>41,092</stars>
       <forks>5,984</forks>
       <addStars>185</addStars>
       <contributors>
@@ -318,8 +318,8 @@
       <guid>https://github.com/Homebrew/brew</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>46,747</stars>
-      <forks>10,969</forks>
+      <stars>46,749</stars>
+      <forks>10,970</forks>
       <addStars>471</addStars>
       <contributors>
         <contributor>
@@ -395,7 +395,7 @@
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
       <stars>13,337</stars>
-      <forks>5,029</forks>
+      <forks>5,028</forks>
       <addStars>96</addStars>
       <contributors>
         <contributor>
@@ -432,7 +432,7 @@
       <guid>https://github.com/kilimchoi/engineering-blogs</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>37,178</stars>
+      <stars>37,179</stars>
       <forks>1,950</forks>
       <addStars>290</addStars>
       <contributors>
@@ -470,8 +470,8 @@
       <guid>https://github.com/chatwoot/chatwoot</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>27,427</stars>
-      <forks>6,419</forks>
+      <stars>27,428</stars>
+      <forks>6,420</forks>
       <addStars>409</addStars>
       <contributors>
         <contributor>
@@ -546,7 +546,7 @@
       <guid>https://github.com/rails/rails</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>58,310</stars>
+      <stars>58,311</stars>
       <forks>22,177</forks>
       <addStars>250</addStars>
       <contributors>
@@ -584,8 +584,8 @@
       <guid>https://github.com/rapid7/metasploit-framework</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>37,605</stars>
-      <forks>14,771</forks>
+      <stars>37,607</stars>
+      <forks>14,770</forks>
       <addStars>306</addStars>
       <contributors>
         <contributor>
@@ -650,7 +650,7 @@
       <guid>https://github.com/docusealco/docuseal</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>11,526</stars>
+      <stars>11,527</stars>
       <forks>965</forks>
       <addStars>247</addStars>
       <contributors>
@@ -716,7 +716,7 @@
       <guid>https://github.com/crmne/ruby_llm</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>3,631</stars>
+      <stars>3,633</stars>
       <forks>385</forks>
       <addStars>179</addStars>
       <contributors>

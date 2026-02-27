@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "holzschu/a-shell",
@@ -47,7 +47,7 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "19,324",
+      "stars": "19,325",
       "forks": "2,086",
       "addStars": "145",
       "contributors": [
@@ -397,7 +397,7 @@
       "description": "⚡ ♒ Rapid prokaryotic genome annotation",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "958",
+      "stars": "957",
       "forks": "235",
       "addStars": "7",
       "contributors": [
@@ -430,7 +430,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": "238",
-      "forks": "83",
+      "forks": "84",
       "addStars": "5",
       "contributors": [
         {

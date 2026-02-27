@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "opf/openproject",
@@ -10,7 +10,7 @@
       "description": "OpenProject is the leading open source project management software.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "14,469",
+      "stars": "14,471",
       "forks": "3,115",
       "addStars": "10",
       "contributors": [
@@ -153,8 +153,8 @@
       "description": "🍺 The missing package manager for macOS (or Linux)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "46,747",
-      "forks": "10,969",
+      "stars": "46,749",
+      "forks": "10,970",
       "addStars": "19",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,037",
+      "stars": "4,038",
       "forks": "667",
       "addStars": "2",
       "contributors": [
@@ -265,7 +265,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "11,853",
-      "forks": "539",
+      "forks": "540",
       "addStars": "2",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "41,089",
+      "stars": "41,092",
       "forks": "5,984",
       "addStars": "12",
       "contributors": [
@@ -488,7 +488,7 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "46,428",
+      "stars": "46,429",
       "forks": "8,823",
       "addStars": "9",
       "contributors": [
@@ -664,7 +664,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "13,337",
-      "forks": "5,029",
+      "forks": "5,028",
       "addStars": "3",
       "contributors": [
         {

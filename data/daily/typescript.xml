@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>bytedance/deer-flow</title>
       <link>https://github.com/bytedance/deer-flow</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,230</stars>
-      <forks>2,615</forks>
+      <stars>21,364</stars>
+      <forks>2,628</forks>
       <addStars>617</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/farion1231/cc-switch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>20,816</stars>
-      <forks>1,293</forks>
+      <stars>20,996</stars>
+      <forks>1,300</forks>
       <addStars>418</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/ruvnet/claude-flow</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,041</stars>
-      <forks>1,754</forks>
+      <stars>15,145</stars>
+      <forks>1,762</forks>
       <addStars>215</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,254</stars>
-      <forks>1,800</forks>
+      <stars>17,375</stars>
+      <forks>1,811</forks>
       <addStars>589</addStars>
       <contributors>
         <contributor>
@@ -158,7 +158,7 @@
       <guid>https://github.com/virattt/dexter</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,596</stars>
+      <stars>16,611</stars>
       <forks>2,018</forks>
       <addStars>122</addStars>
       <contributors>
@@ -196,8 +196,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>233,701</stars>
-      <forks>44,933</forks>
+      <stars>234,615</stars>
+      <forks>45,140</forks>
       <addStars>4,114</addStars>
       <contributors>
         <contributor>
@@ -221,9 +221,9 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5599352?s=40&amp;v=4</avatar>
-          <name>gumadeiras</name>
-          <url>https://github.com/gumadeiras</url>
+          <avatar>https://avatars.githubusercontent.com/u/22031114?s=40&amp;v=4</avatar>
+          <name>obviyus</name>
+          <url>https://github.com/obviyus</url>
         </contributor>
       </contributors>
     </item>
@@ -234,8 +234,8 @@
       <guid>https://github.com/code-yeongyu/oh-my-opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>34,848</stars>
-      <forks>2,621</forks>
+      <stars>34,962</stars>
+      <forks>2,635</forks>
       <addStars>409</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/musistudio/claude-code-router</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>28,479</stars>
-      <forks>2,199</forks>
+      <stars>28,510</stars>
+      <forks>2,201</forks>
       <addStars>88</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/abhigyanpatwari/GitNexus</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,455</stars>
-      <forks>475</forks>
+      <stars>5,702</stars>
+      <forks>505</forks>
       <addStars>1,350</addStars>
       <contributors>
         <contributor>
@@ -343,7 +343,7 @@
       <guid>https://github.com/ourongxing/newsnow</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>18,222</stars>
+      <stars>18,229</stars>
       <forks>5,225</forks>
       <addStars>32</addStars>
       <contributors>
@@ -381,8 +381,8 @@
       <guid>https://github.com/labring/FastGPT</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,192</stars>
-      <forks>6,938</forks>
+      <stars>27,195</stars>
+      <forks>6,939</forks>
       <addStars>16</addStars>
       <contributors>
         <contributor>
@@ -414,8 +414,8 @@
       <guid>https://github.com/siteboon/claudecodeui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,229</stars>
-      <forks>917</forks>
+      <stars>7,245</stars>
+      <forks>916</forks>
       <addStars>314</addStars>
       <contributors>
         <contributor>
@@ -452,8 +452,8 @@
       <guid>https://github.com/DayuanJiang/next-ai-draw-io</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,976</stars>
-      <forks>2,342</forks>
+      <stars>22,013</stars>
+      <forks>2,350</forks>
       <addStars>130</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/tiann/hapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,868</stars>
-      <forks>184</forks>
+      <stars>1,887</stars>
+      <forks>185</forks>
       <addStars>96</addStars>
       <contributors>
         <contributor>

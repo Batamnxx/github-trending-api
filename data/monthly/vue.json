@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Monthly Trending",
   "description": "Monthly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "MetaCubeX/metacubexd",
@@ -37,8 +37,8 @@
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,184",
-      "forks": "3,125",
+      "stars": "6,190",
+      "forks": "3,137",
       "addStars": "471",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "4,506",
+      "stars": "4,507",
       "forks": "3,025",
       "addStars": "58",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "27,937",
+      "stars": "27,938",
       "forks": "3,153",
       "addStars": "221",
       "contributors": [
@@ -229,7 +229,7 @@
       "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,987",
+      "stars": "2,988",
       "forks": "705",
       "addStars": "66",
       "contributors": [
@@ -266,7 +266,7 @@
       "description": "Mobile application for Audiobookshelf",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,336",
+      "stars": "2,337",
       "forks": "319",
       "addStars": "74",
       "contributors": [
@@ -304,7 +304,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "320",
-      "forks": "34,899",
+      "forks": "34,926",
       "addStars": "25",
       "contributors": [
         {
@@ -368,7 +368,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "6,607",
-      "forks": "1,629",
+      "forks": "1,630",
       "addStars": "37",
       "contributors": [
         {
@@ -468,7 +468,7 @@
       "description": "Yet Another Pixiv Illust&Novel Viewer. 又一个 Pixiv 阅览工具，提供 pixiv 的插画、动图、漫画和小说等作品的在线浏览，适配多端样式，提供多种浏览布局选择，支持 PWA 安装，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "345",
+      "stars": "347",
       "forks": "15",
       "addStars": "18",
       "contributors": [
@@ -505,8 +505,8 @@
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "24,095",
-      "forks": "1,770",
+      "stars": "24,100",
+      "forks": "1,769",
       "addStars": "320",
       "contributors": [
         {

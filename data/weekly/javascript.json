@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "Stremio/stremio-web",
@@ -10,8 +10,8 @@
       "description": "Stremio - Freedom to Stream",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,187",
-      "forks": "1,094",
+      "stars": "10,197",
+      "forks": "1,095",
       "addStars": "1,178",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": "1,878",
-      "forks": "646",
+      "forks": "647",
       "addStars": "470",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "Introduction to Machine Learning Systems",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,049",
+      "stars": "21,060",
       "forks": "2,459",
       "addStars": "901",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,087",
-      "forks": "1,841",
+      "stars": "21,174",
+      "forks": "1,845",
       "addStars": "4,775",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "draw.io is a JavaScript, client-side editor for general diagramming.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,755",
-      "forks": "668",
+      "stars": "3,761",
+      "forks": "669",
       "addStars": "160",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "Skills for pi coding agent (compatible with Claude Code and Codex CLI)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "645",
+      "stars": "647",
       "forks": "66",
       "addStars": "113",
       "contributors": [
@@ -234,8 +234,8 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "22,746",
-      "forks": "2,617",
+      "stars": "22,776",
+      "forks": "2,620",
       "addStars": "985",
       "contributors": [
         {
@@ -261,7 +261,7 @@
       "description": "Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,300",
+      "stars": "1,301",
       "forks": "74",
       "addStars": "47",
       "contributors": [
@@ -288,8 +288,8 @@
       "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "55,095",
-      "forks": "5,944",
+      "stars": "55,105",
+      "forks": "5,947",
       "addStars": "358",
       "contributors": [
         {
@@ -325,8 +325,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "83,328",
-      "forks": "7,444",
+      "stars": "83,335",
+      "forks": "7,446",
       "addStars": "353",
       "contributors": [
         {
@@ -362,8 +362,8 @@
       "description": "FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,203",
-      "forks": "2,586",
+      "stars": "7,207",
+      "forks": "2,587",
       "addStars": "58",
       "contributors": [
         {
@@ -399,8 +399,8 @@
       "description": "LLM Frontend for Power Users.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "23,588",
-      "forks": "4,799",
+      "stars": "23,604",
+      "forks": "4,801",
       "addStars": "311",
       "contributors": [
         {
@@ -436,7 +436,7 @@
       "description": "Find and fix problems in your JavaScript code.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "27,128",
+      "stars": "27,129",
       "forks": "4,931",
       "addStars": "133",
       "contributors": [

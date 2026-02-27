@@ -2,7 +2,7 @@
   "title": "GitHub C# Languages Monthly Trending",
   "description": "Monthly Trending of C# Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "moonshine-ai/moonshine",
@@ -10,8 +10,8 @@
       "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "5,365",
-      "forks": "255",
+      "stars": "5,483",
+      "forks": "261",
       "addStars": "245",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "stb single-file public domain libraries for C/C++",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "32,678",
-      "forks": "8,017",
+      "stars": "32,684",
+      "forks": "8,016",
       "addStars": "47",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "15,814",
-      "forks": "1,548",
+      "stars": "15,818",
+      "forks": "1,549",
       "addStars": "13",
       "contributors": [
         {
@@ -117,7 +117,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "12,381",
-      "forks": "2,042",
+      "forks": "2,041",
       "addStars": "13",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "C library for prototyping and experimenting with quantum-resistant cryptography",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "2,779",
+      "stars": "2,781",
       "forks": "696",
       "addStars": "3",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,034",
+      "stars": "7,035",
       "forks": "1,369",
       "addStars": "3",
       "contributors": [
@@ -375,8 +375,8 @@
       "description": "Open Source Flight Controller Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "10,642",
-      "forks": "3,621",
+      "stars": "10,645",
+      "forks": "3,622",
       "addStars": "3",
       "contributors": [
         {
@@ -412,8 +412,8 @@
       "description": "Portable OpenSSH",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "3,692",
-      "forks": "2,034",
+      "stars": "3,693",
+      "forks": "2,033",
       "addStars": "9",
       "contributors": [
         {
@@ -523,7 +523,7 @@
       "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "29,853",
+      "stars": "29,858",
       "forks": "2,290",
       "addStars": "11",
       "contributors": [
@@ -545,8 +545,8 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "14,553",
-      "forks": "8,710",
+      "stars": "14,554",
+      "forks": "8,713",
       "addStars": "11",
       "contributors": [
         {
@@ -582,7 +582,7 @@
       "description": "unlocks the 60 fps cap",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "3,360",
+      "stars": "3,361",
       "forks": "248",
       "addStars": "1",
       "contributors": [
@@ -619,7 +619,7 @@
       "description": "The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the cloud. wolfSSL supports up to TLS 1.3 and DTLS 1.3!",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "2,741",
+      "stars": "2,740",
       "forks": "931",
       "addStars": "1",
       "contributors": [
@@ -688,7 +688,7 @@
       "description": "Flexible I/O Tester",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "6,099",
+      "stars": "6,100",
       "forks": "1,376",
       "addStars": "3",
       "contributors": [
@@ -725,7 +725,7 @@
       "description": "A fast image processing library with low memory needs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "11,118",
+      "stars": "11,119",
       "forks": "748",
       "addStars": "7",
       "contributors": [

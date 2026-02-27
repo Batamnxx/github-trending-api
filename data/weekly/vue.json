@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Weekly Trending",
   "description": "Weekly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "nuxt-ui-templates/dashboard",
@@ -42,8 +42,8 @@
       "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "4,980",
-      "forks": "585",
+      "stars": "4,981",
+      "forks": "584",
       "addStars": "26",
       "contributors": [
         {
@@ -118,8 +118,8 @@
       "description": "A browser extension for automating your browser by connecting blocks",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "21,054",
-      "forks": "2,292",
+      "stars": "21,055",
+      "forks": "2,291",
       "addStars": "31",
       "contributors": [
         {
@@ -177,7 +177,7 @@
       "description": "猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据、Markdown格式等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "3,249",
+      "stars": "3,250",
       "forks": "272",
       "addStars": "34",
       "contributors": [
@@ -214,7 +214,7 @@
       "description": "Mobile application for Audiobookshelf",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,336",
+      "stars": "2,337",
       "forks": "319",
       "addStars": "13",
       "contributors": [
@@ -353,7 +353,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "320",
-      "forks": "34,899",
+      "forks": "34,926",
       "addStars": "6",
       "contributors": [
         {

@@ -3,7 +3,7 @@
     <title>GitHub Ocaml Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Ocaml Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>opengrep/opengrep</title>
       <link>https://github.com/opengrep/opengrep</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/opengrep/opengrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>2,176</stars>
+      <stars>2,180</stars>
       <forks>175</forks>
       <addStars>3</addStars>
       <contributors>
@@ -44,7 +44,7 @@
       <guid>https://github.com/bcpierce00/unison</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>5,122</stars>
+      <stars>5,123</stars>
       <forks>265</forks>
       <addStars>2</addStars>
       <contributors>
@@ -82,7 +82,7 @@
       <guid>https://github.com/semgrep/semgrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>14,272</stars>
+      <stars>14,274</stars>
       <forks>876</forks>
       <addStars>13</addStars>
       <contributors>

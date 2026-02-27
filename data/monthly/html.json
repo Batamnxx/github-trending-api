@@ -2,7 +2,7 @@
   "title": "GitHub Html Languages Monthly Trending",
   "description": "Monthly Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "asgeirtj/system_prompts_leaks",
@@ -10,8 +10,8 @@
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "33,126",
-      "forks": "5,253",
+      "stars": "33,155",
+      "forks": "5,255",
       "addStars": "7,907",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "148,194",
-      "forks": "19,496",
+      "stars": "148,269",
+      "forks": "19,502",
       "addStars": "4,629",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "9,138",
+      "stars": "9,142",
       "forks": "765",
       "addStars": "525",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "30,904",
-      "forks": "5,985",
+      "stars": "30,910",
+      "forks": "5,984",
       "addStars": "1,857",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Awesome Docker Compose samples",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "44,114",
-      "forks": "8,050",
+      "stars": "44,117",
+      "forks": "8,051",
       "addStars": "580",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "15,903",
-      "forks": "883",
+      "stars": "15,907",
+      "forks": "882",
       "addStars": "294",
       "contributors": [
         {
@@ -259,7 +259,7 @@
       "description": "the LLM vulnerability scanner",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "7,074",
+      "stars": "7,075",
       "forks": "797",
       "addStars": "257",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "Style guides for Google-originated open-source projects",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "39,041",
+      "stars": "39,044",
       "forks": "13,008",
       "addStars": "183",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "1,483",
+      "stars": "1,484",
       "forks": "319",
       "addStars": "124",
       "contributors": [
@@ -345,8 +345,8 @@
       "description": "An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "15,463",
-      "forks": "5,823",
+      "stars": "15,465",
+      "forks": "5,822",
       "addStars": "225",
       "contributors": [
         {

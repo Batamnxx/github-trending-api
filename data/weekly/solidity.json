@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Weekly Trending",
   "description": "Weekly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -11,7 +11,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "26,996",
-      "forks": "12,400",
+      "forks": "12,398",
       "addStars": "23",
       "contributors": [
         {
@@ -158,7 +158,7 @@
       "description": "The Ethereum Request for Comment repository",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "664",
+      "stars": "663",
       "forks": "895",
       "addStars": "8",
       "contributors": [
@@ -306,7 +306,7 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "3,280",
+      "stars": "3,281",
       "forks": "456",
       "addStars": "4",
       "contributors": [
@@ -523,7 +523,7 @@
       "description": "Polymarket CTF Exchange",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "315",
+      "stars": "316",
       "forks": "143",
       "addStars": "10",
       "contributors": [

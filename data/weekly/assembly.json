@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Weekly Trending",
   "description": "Weekly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "openhwgroup/cva6",
@@ -47,8 +47,8 @@
       "description": "super repo for rocm libraries",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "260",
-      "forks": "216",
+      "stars": "262",
+      "forks": "217",
       "addStars": "11",
       "contributors": [
         {
@@ -259,7 +259,7 @@
       "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "713",
+      "stars": "714",
       "forks": "169",
       "addStars": "5",
       "contributors": [
@@ -370,7 +370,7 @@
       "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "11,772",
+      "stars": "11,774",
       "forks": "2,073",
       "addStars": "14",
       "contributors": [
@@ -555,8 +555,8 @@
       "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "6,082",
-      "forks": "436",
+      "stars": "6,083",
+      "forks": "437",
       "addStars": "14",
       "contributors": [
         {

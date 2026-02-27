@@ -2,7 +2,7 @@
   "title": "GitHub Less Languages Monthly Trending",
   "description": "Monthly Trending of Less Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "Remix-Design/RemixIcon",
@@ -48,7 +48,7 @@
       "language": "Less",
       "languageColor": "#1d365d",
       "stars": "5,150",
-      "forks": "917",
+      "forks": "918",
       "addStars": "67",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。 VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown.",
       "language": "Less",
       "languageColor": "#1d365d",
-      "stars": "2,388",
+      "stars": "2,389",
       "forks": "152",
       "addStars": "58",
       "contributors": [

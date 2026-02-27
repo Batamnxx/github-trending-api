@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>TechHutTV/homelab</title>
       <link>https://github.com/TechHutTV/homelab</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/Anduin2017/HowToCook</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>98,302</stars>
-      <forks>10,836</forks>
+      <stars>98,312</stars>
+      <forks>10,838</forks>
       <addStars>271</addStars>
       <contributors>
         <contributor>
@@ -115,7 +115,7 @@
       <guid>https://github.com/vulhub/vulhub</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>20,312</stars>
+      <stars>20,314</stars>
       <forks>4,764</forks>
       <addStars>39</addStars>
       <contributors>
@@ -306,7 +306,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>31</stars>
-      <forks>223</forks>
+      <forks>224</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -423,7 +423,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>2,415</stars>
-      <forks>287</forks>
+      <forks>288</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -450,8 +450,8 @@
       <guid>https://github.com/linuxserver/docker-swag</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>3,614</stars>
-      <forks>278</forks>
+      <stars>3,615</stars>
+      <forks>279</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>

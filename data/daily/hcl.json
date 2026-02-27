@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "terraform-aws-modules/terraform-aws-vpc",
@@ -11,7 +11,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": "3,210",
-      "forks": "4,617",
+      "forks": "4,616",
       "addStars": "3",
       "contributors": [
         {
@@ -232,7 +232,7 @@
       "description": "AWS Control Tower Account Factory",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": "765",
+      "stars": "769",
       "forks": "575",
       "addStars": "1",
       "contributors": [

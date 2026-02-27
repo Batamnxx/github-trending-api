@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Monthly Trending",
   "description": "Monthly Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "neovim/neovim",
@@ -10,8 +10,8 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "96,796",
-      "forks": "6,602",
+      "stars": "96,802",
+      "forks": "6,604",
       "addStars": "1,004",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Neovim plugin for GitHub Copilot",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "11,383",
+      "stars": "11,384",
       "forks": "722",
       "addStars": "137",
       "contributors": [
@@ -69,7 +69,7 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "15,221",
+      "stars": "15,222",
       "forks": "1,124",
       "addStars": "107",
       "contributors": [
@@ -106,8 +106,8 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "39,917",
-      "forks": "5,984",
+      "stars": "39,916",
+      "forks": "5,985",
       "addStars": "267",
       "contributors": [
         {
@@ -144,7 +144,7 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": "21,665",
-      "forks": "1,055",
+      "forks": "1,056",
       "addStars": "109",
       "contributors": [
         {
@@ -572,7 +572,7 @@
       "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "3,873",
+      "stars": "3,874",
       "forks": "144",
       "addStars": "64",
       "contributors": [
@@ -715,7 +715,7 @@
       "description": "Vim plugin for LLM-assisted code/text completion",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "1,892",
+      "stars": "1,893",
       "forks": "93",
       "addStars": "59",
       "contributors": [

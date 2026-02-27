@@ -3,7 +3,7 @@
     <title>GitHub Zig Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Zig Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>tigerbeetle/tigerbeetle</title>
       <link>https://github.com/tigerbeetle/tigerbeetle</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/tigerbeetle/tigerbeetle</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>15,248</stars>
+      <stars>15,250</stars>
       <forks>768</forks>
       <addStars>10</addStars>
       <contributors>
@@ -49,8 +49,8 @@
       <guid>https://github.com/ghostty-org/ghostty</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>44,791</stars>
-      <forks>1,746</forks>
+      <stars>44,812</stars>
+      <forks>1,748</forks>
       <addStars>109</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/pedropark99/zig-book</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>2,385</stars>
-      <forks>140</forks>
+      <stars>2,387</stars>
+      <forks>141</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>87,678</stars>
+      <stars>87,685</stars>
       <forks>4,107</forks>
       <addStars>38</addStars>
       <contributors>
@@ -196,8 +196,8 @@
       <guid>https://github.com/neurosnap/zmx</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>887</stars>
-      <forks>32</forks>
+      <stars>888</stars>
+      <forks>31</forks>
       <addStars>23</addStars>
       <contributors>
         <contributor>
@@ -234,7 +234,7 @@
       <guid>https://github.com/tonybanters/oxwm</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>496</stars>
+      <stars>497</stars>
       <forks>43</forks>
       <addStars>4</addStars>
       <contributors>
@@ -272,7 +272,7 @@
       <guid>https://github.com/david-vanderson/dvui</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>1,233</stars>
+      <stars>1,235</stars>
       <forks>100</forks>
       <addStars>4</addStars>
       <contributors>
@@ -310,7 +310,7 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>11,923</stars>
+      <stars>11,925</stars>
       <forks>361</forks>
       <addStars>13</addStars>
       <contributors>
@@ -348,7 +348,7 @@
       <guid>https://github.com/neurocyte/flow</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>1,706</stars>
+      <stars>1,708</stars>
       <forks>89</forks>
       <addStars>6</addStars>
       <contributors>

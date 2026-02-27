@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "openclaw/openclaw",
@@ -10,8 +10,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "233,600",
-      "forks": "44,915",
+      "stars": "234,527",
+      "forks": "45,123",
       "addStars": "197,058",
       "contributors": [
         {
@@ -35,9 +35,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4",
-          "name": "gumadeiras",
-          "url": "https://github.com/gumadeiras"
+          "avatar": "https://avatars.githubusercontent.com/u/22031114?s=40&v=4",
+          "name": "obviyus",
+          "url": "https://github.com/obviyus"
         }
       ]
     },
@@ -47,8 +47,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,243",
-      "forks": "1,798",
+      "stars": "17,364",
+      "forks": "1,810",
       "addStars": "14,684",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,373",
-      "forks": "2,516",
+      "stars": "25,419",
+      "forks": "2,517",
       "addStars": "21,366",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,953",
+      "stars": "9,982",
       "forks": "558",
       "addStars": "7,894",
       "contributors": [
@@ -153,8 +153,8 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,738",
-      "forks": "600",
+      "stars": "10,770",
+      "forks": "604",
       "addStars": "7,886",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,058",
-      "forks": "385",
+      "stars": "5,070",
+      "forks": "387",
       "addStars": "4,385",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,272",
-      "forks": "2,133",
+      "stars": "31,311",
+      "forks": "2,137",
       "addStars": "16,295",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "33,125",
-      "forks": "5,252",
+      "stars": "33,155",
+      "forks": "5,255",
       "addStars": "7,907",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Neovim AI agent done right",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,129",
-      "forks": "198",
+      "stars": "4,135",
+      "forks": "199",
       "addStars": "3,041",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "63,556",
-      "forks": "4,855",
+      "stars": "63,857",
+      "forks": "4,877",
       "addStars": "26,501",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,081",
-      "forks": "1,840",
+      "stars": "21,173",
+      "forks": "1,845",
       "addStars": "12,817",
       "contributors": [
         {
@@ -402,7 +402,7 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,098",
+      "stars": "11,122",
       "forks": "813",
       "addStars": "6,202",
       "contributors": [
@@ -434,8 +434,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,031",
-      "forks": "409",
+      "stars": "7,113",
+      "forks": "415",
       "addStars": "5,777",
       "contributors": [
         {
@@ -471,7 +471,7 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,596",
+      "stars": "16,609",
       "forks": "2,018",
       "addStars": "7,651",
       "contributors": [
@@ -508,8 +508,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,445",
-      "forks": "1,331",
+      "stars": "18,606",
+      "forks": "1,349",
       "addStars": "8,674",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,846",
-      "forks": "2,260",
+      "stars": "33,869",
+      "forks": "2,261",
       "addStars": "10,271",
       "contributors": [
         {
@@ -567,8 +567,8 @@
       "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,500",
-      "forks": "271",
+      "stars": "4,515",
+      "forks": "272",
       "addStars": "3,526",
       "contributors": [
         {
@@ -604,8 +604,8 @@
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,846",
-      "forks": "655",
+      "stars": "6,855",
+      "forks": "656",
       "addStars": "2,910",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "bytedance/deer-flow",
@@ -10,8 +10,8 @@
       "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,230",
-      "forks": "2,615",
+      "stars": "21,364",
+      "forks": "2,628",
       "addStars": "617",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,816",
-      "forks": "1,293",
+      "stars": "20,996",
+      "forks": "1,300",
       "addStars": "418",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,041",
-      "forks": "1,754",
+      "stars": "15,145",
+      "forks": "1,762",
       "addStars": "215",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,254",
-      "forks": "1,800",
+      "stars": "17,375",
+      "forks": "1,811",
       "addStars": "589",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,596",
+      "stars": "16,611",
       "forks": "2,018",
       "addStars": "122",
       "contributors": [
@@ -190,8 +190,8 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "233,701",
-      "forks": "44,933",
+      "stars": "234,615",
+      "forks": "45,140",
       "addStars": "4,114",
       "contributors": [
         {
@@ -215,9 +215,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4",
-          "name": "gumadeiras",
-          "url": "https://github.com/gumadeiras"
+          "avatar": "https://avatars.githubusercontent.com/u/22031114?s=40&v=4",
+          "name": "obviyus",
+          "url": "https://github.com/obviyus"
         }
       ]
     },
@@ -227,8 +227,8 @@
       "description": "the best agent harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "34,848",
-      "forks": "2,621",
+      "stars": "34,962",
+      "forks": "2,635",
       "addStars": "409",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "28,479",
-      "forks": "2,199",
+      "stars": "28,510",
+      "forks": "2,201",
       "addStars": "88",
       "contributors": [
         {
@@ -296,8 +296,8 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,455",
-      "forks": "475",
+      "stars": "5,702",
+      "forks": "505",
       "addStars": "1,350",
       "contributors": [
         {
@@ -333,7 +333,7 @@
       "description": "Elegant reading of real-time and hottest news",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,222",
+      "stars": "18,229",
       "forks": "5,225",
       "addStars": "32",
       "contributors": [
@@ -370,8 +370,8 @@
       "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,192",
-      "forks": "6,938",
+      "stars": "27,195",
+      "forks": "6,939",
       "addStars": "16",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,229",
-      "forks": "917",
+      "stars": "7,245",
+      "forks": "916",
       "addStars": "314",
       "contributors": [
         {
@@ -439,8 +439,8 @@
       "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,976",
-      "forks": "2,342",
+      "stars": "22,013",
+      "forks": "2,350",
       "addStars": "130",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,868",
-      "forks": "184",
+      "stars": "1,887",
+      "forks": "185",
       "addStars": "96",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "LadybirdBrowser/ladybird",
@@ -10,8 +10,8 @@
       "description": "Truly independent web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "60,316",
-      "forks": "2,773",
+      "stars": "60,382",
+      "forks": "2,781",
       "addStars": "812",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "8,607",
+      "stars": "8,609",
       "forks": "2,343",
       "addStars": "4",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "38,273",
-      "forks": "10,700",
+      "stars": "38,272",
+      "forks": "10,701",
       "addStars": "11",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Scripting platform, modding framework and VR support for all RE Engine games",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,456",
-      "forks": "473",
+      "stars": "4,457",
+      "forks": "474",
       "addStars": "4",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "24,251",
-      "forks": "5,193",
+      "stars": "24,257",
+      "forks": "5,196",
       "addStars": "43",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "16,679",
+      "stars": "16,682",
       "forks": "3,958",
       "addStars": "2",
       "contributors": [
@@ -264,8 +264,8 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "31,185",
-      "forks": "1,623",
+      "stars": "31,188",
+      "forks": "1,624",
       "addStars": "14",
       "contributors": [
         {
@@ -301,7 +301,7 @@
       "description": "Community maintained hardware plugin for vLLM on Ascend",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,701",
+      "stars": "1,702",
       "forks": "854",
       "addStars": "6",
       "contributors": [
@@ -375,7 +375,7 @@
       "description": "RealSense SDK",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "8,547",
+      "stars": "8,548",
       "forks": "4,973",
       "addStars": "4",
       "contributors": [
@@ -450,7 +450,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "5,062",
-      "forks": "421",
+      "forks": "422",
       "addStars": "1",
       "contributors": [
         {
@@ -486,7 +486,7 @@
       "description": "The Serenity Operating System 🐞",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "32,935",
+      "stars": "32,937",
       "forks": "3,308",
       "addStars": "13",
       "contributors": [
@@ -523,8 +523,8 @@
       "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "23,134",
-      "forks": "2,553",
+      "stars": "23,138",
+      "forks": "2,554",
       "addStars": "6",
       "contributors": [
         {
@@ -560,8 +560,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "95,998",
-      "forks": "15,101",
+      "stars": "96,020",
+      "forks": "15,102",
       "addStars": "120",
       "contributors": [
         {
@@ -597,7 +597,7 @@
       "description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "9,325",
+      "stars": "9,324",
       "forks": "1,700",
       "addStars": "6",
       "contributors": [
@@ -694,7 +694,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "1,451",
-      "forks": "218",
+      "forks": "219",
       "addStars": "11",
       "contributors": [
         {
@@ -715,7 +715,7 @@
       "description": "PX4 Autopilot Software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,147",
+      "stars": "11,152",
       "forks": "15,093",
       "addStars": "9",
       "contributors": [
@@ -752,7 +752,7 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "9,771",
+      "stars": "9,773",
       "forks": "3,069",
       "addStars": "9",
       "contributors": [
@@ -789,7 +789,7 @@
       "description": "F´ - A flight software and embedded systems framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "10,778",
+      "stars": "10,779",
       "forks": "1,484",
       "addStars": "4",
       "contributors": [

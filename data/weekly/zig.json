@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "ghostty-org/ghostty",
@@ -10,8 +10,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "44,791",
-      "forks": "1,746",
+      "stars": "44,812",
+      "forks": "1,748",
       "addStars": "703",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "87,678",
+      "stars": "87,685",
       "forks": "4,107",
       "addStars": "222",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "15,248",
+      "stars": "15,250",
       "forks": "768",
       "addStars": "79",
       "contributors": [
@@ -153,8 +153,8 @@
       "description": "Session persistence for terminal processes",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "887",
-      "forks": "32",
+      "stars": "888",
+      "forks": "31",
       "addStars": "63",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "11,923",
+      "stars": "11,925",
       "forks": "361",
       "addStars": "66",
       "contributors": [
@@ -301,7 +301,7 @@
       "description": "",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "496",
+      "stars": "497",
       "forks": "43",
       "addStars": "30",
       "contributors": [
@@ -338,7 +338,7 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,706",
+      "stars": "1,708",
       "forks": "89",
       "addStars": "32",
       "contributors": [
@@ -412,7 +412,7 @@
       "description": "Immediate Zig GUI for Apps and Games",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,233",
+      "stars": "1,235",
       "forks": "100",
       "addStars": "13",
       "contributors": [

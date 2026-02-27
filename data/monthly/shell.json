@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Monthly Trending",
   "description": "Monthly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "obra/superpowers",
@@ -10,8 +10,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "63,584",
-      "forks": "4,856",
+      "stars": "63,881",
+      "forks": "4,878",
       "addStars": "26,501",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "70,675",
-      "forks": "5,584",
+      "stars": "70,779",
+      "forks": "5,596",
       "addStars": "9,996",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "8,803",
-      "forks": "1,212",
+      "stars": "8,811",
+      "forks": "1,215",
       "addStars": "1,357",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "91,886",
-      "forks": "9,910",
+      "stars": "91,888",
+      "forks": "9,912",
       "addStars": "1,002",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "11,523",
+      "stars": "11,524",
       "forks": "695",
       "addStars": "702",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,115",
+      "stars": "2,119",
       "forks": "289",
       "addStars": "347",
       "contributors": [
@@ -254,7 +254,7 @@
       "description": "🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "184,984",
+      "stars": "184,990",
       "forks": "26,294",
       "addStars": "1,048",
       "contributors": [
@@ -286,7 +286,7 @@
       "description": "Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "22,964",
+      "stars": "22,963",
       "forks": "2,011",
       "addStars": "264",
       "contributors": [
@@ -323,8 +323,8 @@
       "description": "Docker configuration for running VLLM on dual DGX Sparks",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "411",
-      "forks": "75",
+      "stars": "414",
+      "forks": "76",
       "addStars": "264",
       "contributors": [
         {
@@ -377,7 +377,7 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "30,278",
+      "stars": "30,281",
       "forks": "1,566",
       "addStars": "435",
       "contributors": [
@@ -409,7 +409,7 @@
       "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "112,428",
+      "stars": "112,429",
       "forks": "22,812",
       "addStars": "289",
       "contributors": [
@@ -483,7 +483,7 @@
       "description": "Run sing-box/mihomo as client in shell",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "12,041",
+      "stars": "12,044",
       "forks": "1,790",
       "addStars": "330",
       "contributors": [
@@ -515,8 +515,8 @@
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "55,889",
-      "forks": "2,994",
+      "stars": "55,891",
+      "forks": "2,993",
       "addStars": "536",
       "contributors": [
         {

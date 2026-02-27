@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Monthly Trending",
   "description": "Monthly Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "NirDiamant/RAG_Techniques",
@@ -10,7 +10,7 @@
       "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "25,649",
+      "stars": "25,650",
       "forks": "3,011",
       "addStars": "1,325",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "23,090",
-      "forks": "5,352",
+      "stars": "23,095",
+      "forks": "5,354",
       "addStars": "3,131",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "12,696",
-      "forks": "1,183",
+      "stars": "12,725",
+      "forks": "1,188",
       "addStars": "3,530",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "7,459",
+      "stars": "7,463",
       "forks": "1,876",
       "addStars": "817",
       "contributors": [
@@ -153,8 +153,8 @@
       "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "40,335",
-      "forks": "7,670",
+      "stars": "40,336",
+      "forks": "7,673",
       "addStars": "927",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Anthropic's Interactive Prompt Engineering Tutorial",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "30,475",
-      "forks": "3,077",
+      "stars": "30,482",
+      "forks": "3,076",
       "addStars": "1,352",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "Anthropic's educational courses",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,819",
-      "forks": "1,817",
+      "stars": "18,821",
+      "forks": "1,818",
       "addStars": "588",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "30,781",
-      "forks": "5,009",
+      "stars": "30,791",
+      "forks": "5,012",
       "addStars": "3,527",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "Google Research",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "37,358",
+      "stars": "37,361",
       "forks": "8,340",
       "addStars": "236",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "16,656",
+      "stars": "16,657",
       "forks": "4,997",
       "addStars": "272",
       "contributors": [
@@ -392,8 +392,8 @@
       "description": "Repo to accompany my mastering LLM engineering course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "5,035",
-      "forks": "4,839",
+      "stars": "5,037",
+      "forks": "4,842",
       "addStars": "408",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "24,411",
-      "forks": "3,198",
+      "stars": "24,416",
+      "forks": "3,199",
       "addStars": "559",
       "contributors": [
         {
@@ -540,7 +540,7 @@
       "description": "Finviz analysis python library.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "1,191",
+      "stars": "1,197",
       "forks": "197",
       "addStars": "154",
       "contributors": [
@@ -577,8 +577,8 @@
       "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "14,798",
-      "forks": "2,227",
+      "stars": "14,801",
+      "forks": "2,229",
       "addStars": "360",
       "contributors": [
         {
@@ -599,7 +599,7 @@
       "description": "Common recipes to run vLLM",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "460",
+      "stars": "461",
       "forks": "156",
       "addStars": "109",
       "contributors": [
@@ -631,7 +631,7 @@
       "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "7,235",
+      "stars": "7,241",
       "forks": "802",
       "addStars": "193",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Shell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Shell Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>obra/superpowers</title>
       <link>https://github.com/obra/superpowers</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>63,584</stars>
-      <forks>4,856</forks>
+      <stars>63,881</stars>
+      <forks>4,878</forks>
       <addStars>7,985</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/anthropics/claude-code</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>70,675</stars>
-      <forks>5,584</forks>
+      <stars>70,779</stars>
+      <forks>5,596</forks>
       <addStars>2,883</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/aaddrick/claude-desktop-debian</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>2,115</stars>
+      <stars>2,119</stars>
       <forks>289</forks>
       <addStars>130</addStars>
       <contributors>
@@ -120,8 +120,8 @@
       <guid>https://github.com/eugr/spark-vllm-docker</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>411</stars>
-      <forks>75</forks>
+      <stars>414</stars>
+      <forks>76</forks>
       <addStars>121</addStars>
       <contributors>
         <contributor>
@@ -152,42 +152,14 @@
       </contributors>
     </item>
     <item>
-      <title>tw93/Mole</title>
-      <link>https://github.com/tw93/Mole</link>
-      <description>🐹 Deep clean and optimize your Mac.</description>
-      <guid>https://github.com/tw93/Mole</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>37,211</stars>
-      <forks>1,019</forks>
-      <addStars>1,777</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8736212?s=40&amp;v=4</avatar>
-          <name>tw93</name>
-          <url>https://github.com/tw93</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43526118?s=40&amp;v=4</avatar>
-          <name>JackPhallen</name>
-          <url>https://github.com/JackPhallen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65819001?s=40&amp;v=4</avatar>
-          <name>bhadraagada</name>
-          <url>https://github.com/bhadraagada</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>pi-hole/pi-hole</title>
       <link>https://github.com/pi-hole/pi-hole</link>
       <description>A black hole for Internet advertisements</description>
       <guid>https://github.com/pi-hole/pi-hole</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>55,889</stars>
-      <forks>2,994</forks>
+      <stars>55,891</stars>
+      <forks>2,993</forks>
       <addStars>150</addStars>
       <contributors>
         <contributor>
@@ -224,7 +196,7 @@
       <guid>https://github.com/OldUnreal/FullGameInstallers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>421</stars>
+      <stars>422</stars>
       <forks>17</forks>
       <addStars>127</addStars>
       <contributors>
@@ -262,8 +234,8 @@
       <guid>https://github.com/basecamp/omarchy</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>20,495</stars>
-      <forks>2,021</forks>
+      <stars>20,511</stars>
+      <forks>2,026</forks>
       <addStars>260</addStars>
       <contributors>
         <contributor>
@@ -300,7 +272,7 @@
       <guid>https://github.com/ohmyzsh/ohmyzsh</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>184,984</stars>
+      <stars>184,990</stars>
       <forks>26,294</forks>
       <addStars>223</addStars>
       <contributors>

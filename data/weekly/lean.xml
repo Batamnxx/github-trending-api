@@ -3,7 +3,7 @@
     <title>GitHub Lean Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Lean Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>leanprover/cslib</title>
       <link>https://github.com/leanprover/cslib</link>
@@ -315,7 +315,7 @@
       <guid>https://github.com/leanprover-community/LeanSearchClient</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>30</stars>
+      <stars>31</stars>
       <forks>8</forks>
       <addStars>0</addStars>
       <contributors>
@@ -467,8 +467,8 @@
       <guid>https://github.com/leanprover/lean4</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>7,406</stars>
-      <forks>767</forks>
+      <stars>7,408</stars>
+      <forks>768</forks>
       <addStars>60</addStars>
       <contributors>
         <contributor>

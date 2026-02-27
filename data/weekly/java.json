@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Weekly Trending",
   "description": "Weekly Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "traccar/traccar",
@@ -10,7 +10,7 @@
       "description": "Traccar GPS Tracking System",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "7,016",
+      "stars": "7,017",
       "forks": "3,135",
       "addStars": "74",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "28,428",
-      "forks": "1,532",
+      "stars": "28,434",
+      "forks": "1,531",
       "addStars": "177",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "521",
+      "stars": "526",
       "forks": "18",
       "addStars": "128",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,500",
+      "stars": "9,504",
       "forks": "1,065",
       "addStars": "298",
       "contributors": [
@@ -153,8 +153,8 @@
       "description": "LSPosed Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "22,902",
-      "forks": "3,488",
+      "stars": "22,907",
+      "forks": "3,489",
       "addStars": "102",
       "contributors": [
         {
@@ -191,7 +191,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": "32,065",
-      "forks": "14,994",
+      "forks": "14,995",
       "addStars": "62",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "Useless LSPosed Framework Fork",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "2,358",
+      "stars": "2,362",
       "forks": "231",
       "addStars": "51",
       "contributors": [
@@ -264,8 +264,8 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "33,848",
-      "forks": "7,505",
+      "stars": "33,862",
+      "forks": "7,508",
       "addStars": "747",
       "contributors": [
         {
@@ -297,7 +297,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": "4,244",
-      "forks": "3,229",
+      "forks": "3,230",
       "addStars": "14",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "Process Orchestration Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "4,025",
+      "stars": "4,026",
       "forks": "746",
       "addStars": "9",
       "contributors": [
@@ -392,8 +392,8 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "33,046",
-      "forks": "8,076",
+      "stars": "33,048",
+      "forks": "8,077",
       "addStars": "148",
       "contributors": [
         {
@@ -525,7 +525,7 @@
       "description": "A variant of Nagram with additional features.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "1,336",
+      "stars": "1,338",
       "forks": "76",
       "addStars": "44",
       "contributors": [
@@ -562,7 +562,7 @@
       "description": "Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "31,483",
+      "stars": "31,482",
       "forks": "817",
       "addStars": "44",
       "contributors": [

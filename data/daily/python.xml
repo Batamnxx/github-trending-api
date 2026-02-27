@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>muratcankoylan/Agent-Skills-for-Context-Engineering</title>
       <link>https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,856</stars>
-      <forks>917</forks>
+      <stars>12,016</stars>
+      <forks>928</forks>
       <addStars>922</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/huggingface/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,037</stars>
-      <forks>409</forks>
+      <stars>7,121</stars>
+      <forks>415</forks>
       <addStars>715</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,994</stars>
-      <forks>1,116</forks>
+      <stars>17,202</stars>
+      <forks>1,138</forks>
       <addStars>2,902</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/GVCLab/PersonaLive</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,312</stars>
-      <forks>309</forks>
+      <stars>2,318</stars>
+      <forks>310</forks>
       <addStars>67</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/deepseek-ai/DeepSeek-V3</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>101,762</stars>
-      <forks>16,538</forks>
+      <stars>101,768</stars>
+      <forks>16,540</forks>
       <addStars>28</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/alibaba/OpenSandbox</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,279</stars>
-      <forks>102</forks>
+      <stars>1,296</stars>
+      <forks>103</forks>
       <addStars>76</addStars>
       <contributors>
         <contributor>
@@ -234,7 +234,7 @@
       <guid>https://github.com/yichuan-w/LEANN</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,111</stars>
+      <stars>10,114</stars>
       <forks>873</forks>
       <addStars>23</addStars>
       <contributors>
@@ -272,8 +272,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>77,568</stars>
-      <forks>8,075</forks>
+      <stars>77,854</stars>
+      <forks>8,106</forks>
       <addStars>1,208</addStars>
       <contributors>
         <contributor>
@@ -310,7 +310,7 @@
       <guid>https://github.com/lintsinghua/DeepAudit</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,808</stars>
+      <stars>4,812</stars>
       <forks>570</forks>
       <addStars>35</addStars>
       <contributors>
@@ -348,8 +348,8 @@
       <guid>https://github.com/TheAlgorithms/Python</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>218,180</stars>
-      <forks>50,099</forks>
+      <stars>218,187</stars>
+      <forks>50,100</forks>
       <addStars>107</addStars>
       <contributors>
         <contributor>
@@ -381,7 +381,7 @@
       <guid>https://github.com/qodo-ai/pr-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,309</stars>
+      <stars>10,314</stars>
       <forks>1,309</forks>
       <addStars>20</addStars>
       <contributors>
@@ -414,8 +414,8 @@
       <guid>https://github.com/zhayujie/chatgpt-on-wechat</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>41,547</stars>
-      <forks>9,765</forks>
+      <stars>41,560</stars>
+      <forks>9,767</forks>
       <addStars>59</addStars>
       <contributors>
         <contributor>
@@ -452,8 +452,8 @@
       <guid>https://github.com/infiniflow/ragflow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,799</stars>
-      <forks>8,204</forks>
+      <stars>73,817</stars>
+      <forks>8,209</forks>
       <addStars>87</addStars>
       <contributors>
         <contributor>
@@ -490,8 +490,8 @@
       <guid>https://github.com/9001/copyparty</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,740</stars>
-      <forks>1,752</forks>
+      <stars>42,754</stars>
+      <forks>1,753</forks>
       <addStars>42</addStars>
       <contributors>
         <contributor>
@@ -528,7 +528,7 @@
       <guid>https://github.com/AUTOMATIC1111/stable-diffusion-webui</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>161,349</stars>
+      <stars>161,356</stars>
       <forks>30,086</forks>
       <addStars>156</addStars>
       <contributors>
@@ -566,7 +566,7 @@
       <guid>https://github.com/NVIDIA/Megatron-LM</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,441</stars>
+      <stars>15,444</stars>
       <forks>3,635</forks>
       <addStars>150</addStars>
       <contributors>
@@ -604,8 +604,8 @@
       <guid>https://github.com/MoonshotAI/kimi-cli</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,847</stars>
-      <forks>655</forks>
+      <stars>6,855</stars>
+      <forks>657</forks>
       <addStars>51</addStars>
       <contributors>
         <contributor>

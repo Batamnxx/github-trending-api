@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Weekly Trending",
   "description": "Weekly Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "AvengeMedia/DankMaterialShell",
@@ -10,8 +10,8 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "4,673",
-      "forks": "305",
+      "stars": "4,679",
+      "forks": "306",
       "addStars": "282",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "A Niri shell illogical-impulse based - with some modifications..",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "468",
+      "stars": "470",
       "forks": "24",
       "addStars": "34",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "Node-based Visual Programming Toolbox",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "12,574",
+      "stars": "12,575",
       "forks": "1,194",
       "addStars": "14",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "12,984",
+      "stars": "12,987",
       "forks": "1,017",
       "addStars": "145",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "Series of modern looking themes for SDDM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "2,534",
+      "stars": "2,536",
       "forks": "185",
       "addStars": "26",
       "contributors": [

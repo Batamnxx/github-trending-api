@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>openclaw/openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>233,600</stars>
-      <forks>44,915</forks>
+      <stars>234,527</stars>
+      <forks>45,123</forks>
       <addStars>197,058</addStars>
       <contributors>
         <contributor>
@@ -36,9 +36,9 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5599352?s=40&amp;v=4</avatar>
-          <name>gumadeiras</name>
-          <url>https://github.com/gumadeiras</url>
+          <avatar>https://avatars.githubusercontent.com/u/22031114?s=40&amp;v=4</avatar>
+          <name>obviyus</name>
+          <url>https://github.com/obviyus</url>
         </contributor>
       </contributors>
     </item>
@@ -49,8 +49,8 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,243</stars>
-      <forks>1,798</forks>
+      <stars>17,364</stars>
+      <forks>1,810</forks>
       <addStars>14,684</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/KeygraphHQ/shannon</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,373</stars>
-      <forks>2,516</forks>
+      <stars>25,419</stars>
+      <forks>2,517</forks>
       <addStars>21,366</addStars>
       <contributors>
         <contributor>
@@ -120,7 +120,7 @@
       <guid>https://github.com/openai/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,953</stars>
+      <stars>9,982</stars>
       <forks>558</forks>
       <addStars>7,894</addStars>
       <contributors>
@@ -158,8 +158,8 @@
       <guid>https://github.com/tobi/qmd</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,738</stars>
-      <forks>600</forks>
+      <stars>10,770</stars>
+      <forks>604</forks>
       <addStars>7,886</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/steipete/gogcli</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>5,058</stars>
-      <forks>385</forks>
+      <stars>5,070</stars>
+      <forks>387</forks>
       <addStars>4,385</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>31,272</stars>
-      <forks>2,133</forks>
+      <stars>31,311</stars>
+      <forks>2,137</forks>
       <addStars>16,295</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/asgeirtj/system_prompts_leaks</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>33,125</stars>
-      <forks>5,252</forks>
+      <stars>33,155</stars>
+      <forks>5,255</forks>
       <addStars>7,907</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/ThePrimeagen/99</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>4,129</stars>
-      <forks>198</forks>
+      <stars>4,135</stars>
+      <forks>199</forks>
       <addStars>3,041</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>63,556</stars>
-      <forks>4,855</forks>
+      <stars>63,857</stars>
+      <forks>4,877</forks>
       <addStars>26,501</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/gsd-build/get-shit-done</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>21,081</stars>
-      <forks>1,840</forks>
+      <stars>21,173</stars>
+      <forks>1,845</forks>
       <addStars>12,817</addStars>
       <contributors>
         <contributor>
@@ -414,7 +414,7 @@
       <guid>https://github.com/NevaMind-AI/memU</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,098</stars>
+      <stars>11,122</stars>
       <forks>813</forks>
       <addStars>6,202</addStars>
       <contributors>
@@ -447,8 +447,8 @@
       <guid>https://github.com/huggingface/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,031</stars>
-      <forks>409</forks>
+      <stars>7,113</stars>
+      <forks>415</forks>
       <addStars>5,777</addStars>
       <contributors>
         <contributor>
@@ -485,7 +485,7 @@
       <guid>https://github.com/virattt/dexter</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,596</stars>
+      <stars>16,609</stars>
       <forks>2,018</forks>
       <addStars>7,651</addStars>
       <contributors>
@@ -523,8 +523,8 @@
       <guid>https://github.com/VectifyAI/PageIndex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>18,445</stars>
-      <forks>1,331</forks>
+      <stars>18,606</stars>
+      <forks>1,349</forks>
       <addStars>8,674</addStars>
       <contributors>
         <contributor>
@@ -551,8 +551,8 @@
       <guid>https://github.com/google/langextract</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>33,846</stars>
-      <forks>2,260</forks>
+      <stars>33,869</stars>
+      <forks>2,261</forks>
       <addStars>10,271</addStars>
       <contributors>
         <contributor>
@@ -584,8 +584,8 @@
       <guid>https://github.com/steipete/summarize</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,500</stars>
-      <forks>271</forks>
+      <stars>4,515</stars>
+      <forks>272</forks>
       <addStars>3,526</addStars>
       <contributors>
         <contributor>
@@ -622,8 +622,8 @@
       <guid>https://github.com/MoonshotAI/kimi-cli</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,846</stars>
-      <forks>655</forks>
+      <stars>6,855</stars>
+      <forks>656</forks>
       <addStars>2,910</addStars>
       <contributors>
         <contributor>

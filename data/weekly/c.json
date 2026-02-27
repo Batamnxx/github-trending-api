@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Weekly Trending",
   "description": "Weekly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "netdata/netdata",
@@ -10,8 +10,8 @@
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "77,897",
-      "forks": "6,359",
+      "stars": "77,899",
+      "forks": "6,358",
       "addStars": "112",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "15,814",
-      "forks": "1,548",
+      "stars": "15,818",
+      "forks": "1,549",
       "addStars": "79",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "3,563",
+      "stars": "3,565",
       "forks": "281",
       "addStars": "123",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "5,365",
-      "forks": "255",
+      "stars": "5,483",
+      "forks": "261",
       "addStars": "970",
       "contributors": [
         {
@@ -191,7 +191,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "39,964",
-      "forks": "8,009",
+      "forks": "8,010",
       "addStars": "39",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "73,182",
-      "forks": "24,508",
+      "stars": "73,183",
+      "forks": "24,506",
       "addStars": "122",
       "contributors": [
         {
@@ -265,7 +265,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "14,832",
-      "forks": "2,172",
+      "forks": "2,171",
       "addStars": "63",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "tmux source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "42,277",
-      "forks": "2,437",
+      "stars": "42,285",
+      "forks": "2,439",
       "addStars": "315",
       "contributors": [
         {
@@ -375,8 +375,8 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "59,345",
-      "forks": "27,567",
+      "stars": "59,351",
+      "forks": "27,568",
       "addStars": "174",
       "contributors": [
         {
@@ -412,7 +412,7 @@
       "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "24,161",
+      "stars": "24,162",
       "forks": "5,059",
       "addStars": "15",
       "contributors": [
@@ -449,8 +449,8 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "25,678",
-      "forks": "12,067",
+      "stars": "25,684",
+      "forks": "12,068",
       "addStars": "99",
       "contributors": [
         {
@@ -486,7 +486,7 @@
       "description": "SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,034",
+      "stars": "7,035",
       "forks": "1,369",
       "addStars": "21",
       "contributors": [
@@ -523,7 +523,7 @@
       "description": "Linux shell for iOS",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "19,372",
+      "stars": "19,374",
       "forks": "1,277",
       "addStars": "65",
       "contributors": [
@@ -555,8 +555,8 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "29,525",
-      "forks": "7,771",
+      "stars": "29,527",
+      "forks": "7,772",
       "addStars": "82",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Weekly Trending",
   "description": "Weekly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "MCSclimate/MCT",
@@ -122,7 +122,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": "1,072",
-      "forks": "449",
+      "forks": "448",
       "addStars": "6",
       "contributors": [
         {
@@ -307,7 +307,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": "867",
-      "forks": "515",
+      "forks": "516",
       "addStars": "2",
       "contributors": [
         {

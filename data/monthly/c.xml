@@ -3,7 +3,7 @@
     <title>GitHub C Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of C Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>TelegramMessenger/MTProxy</title>
       <link>https://github.com/TelegramMessenger/MTProxy</link>
@@ -50,7 +50,7 @@
       <language>C</language>
       <languageColor>#555555</languageColor>
       <stars>1,000</stars>
-      <forks>146</forks>
+      <forks>147</forks>
       <addStars>441</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/asg017/sqlite-vec</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>7,022</stars>
+      <stars>7,027</stars>
       <forks>288</forks>
       <addStars>298</addStars>
       <contributors>
@@ -125,8 +125,8 @@
       <guid>https://github.com/zephyrproject-rtos/zephyr</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>14,553</stars>
-      <forks>8,710</forks>
+      <stars>14,554</stars>
+      <forks>8,713</forks>
       <addStars>290</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/moonshine-ai/moonshine</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>5,365</stars>
-      <forks>255</forks>
+      <stars>5,483</stars>
+      <forks>261</forks>
       <addStars>2,101</addStars>
       <contributors>
         <contributor>
@@ -277,8 +277,8 @@
       <guid>https://github.com/tmux/tmux</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>42,277</stars>
-      <forks>2,437</forks>
+      <stars>42,285</stars>
+      <forks>2,439</forks>
       <addStars>1,240</addStars>
       <contributors>
         <contributor>
@@ -315,7 +315,7 @@
       <guid>https://github.com/timescale/timescaledb</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>21,944</stars>
+      <stars>21,948</stars>
       <forks>1,050</forks>
       <addStars>450</addStars>
       <contributors>
@@ -353,7 +353,7 @@
       <guid>https://github.com/aircrack-ng/aircrack-ng</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,970</stars>
+      <stars>6,971</stars>
       <forks>1,244</forks>
       <addStars>179</addStars>
       <contributors>
@@ -391,8 +391,8 @@
       <guid>https://github.com/facebook/zstd</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>26,707</stars>
-      <forks>2,415</forks>
+      <stars>26,709</stars>
+      <forks>2,414</forks>
       <addStars>271</addStars>
       <contributors>
         <contributor>
@@ -429,7 +429,7 @@
       <guid>https://github.com/ish-app/ish</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>19,372</stars>
+      <stars>19,374</stars>
       <forks>1,277</forks>
       <addStars>224</addStars>
       <contributors>
@@ -462,7 +462,7 @@
       <guid>https://github.com/openwall/john</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>12,779</stars>
+      <stars>12,780</stars>
       <forks>2,452</forks>
       <addStars>200</addStars>
       <contributors>
@@ -500,8 +500,8 @@
       <guid>https://github.com/nmap/nmap</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>12,462</stars>
-      <forks>2,753</forks>
+      <stars>12,464</stars>
+      <forks>2,752</forks>
       <addStars>255</addStars>
       <contributors>
         <contributor>
@@ -538,7 +538,7 @@
       <guid>https://github.com/fastfetch-cli/fastfetch</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>20,370</stars>
+      <stars>20,374</stars>
       <forks>701</forks>
       <addStars>833</addStars>
       <contributors>
@@ -576,8 +576,8 @@
       <guid>https://github.com/redis/redis</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>73,182</stars>
-      <forks>24,508</forks>
+      <stars>73,183</stars>
+      <forks>24,506</forks>
       <addStars>627</addStars>
       <contributors>
         <contributor>
@@ -615,7 +615,7 @@
       <language>C</language>
       <languageColor>#555555</languageColor>
       <stars>13,691</stars>
-      <forks>1,622</forks>
+      <forks>1,623</forks>
       <addStars>250</addStars>
       <contributors>
         <contributor>
@@ -652,8 +652,8 @@
       <guid>https://github.com/termux/termux-x11</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>3,559</stars>
-      <forks>494</forks>
+      <stars>3,561</stars>
+      <forks>495</forks>
       <addStars>172</addStars>
       <contributors>
         <contributor>

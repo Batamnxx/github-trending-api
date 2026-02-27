@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Weekly Trending",
   "description": "Weekly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "codecrafters-io/build-your-own-x",
@@ -10,8 +10,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "469,602",
-      "forks": "44,037",
+      "stars": "469,647",
+      "forks": "44,042",
       "addStars": "2,549",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "📚 Collaborative cheatsheets for console commands",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "61,471",
+      "stars": "61,473",
       "forks": "5,100",
       "addStars": "160",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "10,548",
-      "forks": "23,117",
+      "stars": "10,549",
+      "forks": "23,119",
       "addStars": "25",
       "contributors": [
         {
@@ -260,7 +260,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "6,393",
-      "forks": "5,544",
+      "forks": "5,545",
       "addStars": "13",
       "contributors": [
         {
@@ -360,7 +360,7 @@
       "description": "TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "2,818",
+      "stars": "2,819",
       "forks": "299",
       "addStars": "22",
       "contributors": [
@@ -429,7 +429,7 @@
       "description": "🔥 A Complete List of GitHub Profile Badges and Achievements 🔥",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "2,737",
+      "stars": "2,739",
       "forks": "277",
       "addStars": "12",
       "contributors": [
@@ -498,8 +498,8 @@
       "description": "Source repo for Docker's Documentation",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "4,511",
-      "forks": "8,185",
+      "stars": "4,512",
+      "forks": "8,186",
       "addStars": "5",
       "contributors": [
         {
@@ -535,7 +535,7 @@
       "description": "This repository provides SAP style guides for coding and coding-related topics.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "1,902",
+      "stars": "1,903",
       "forks": "494",
       "addStars": "6",
       "contributors": [
@@ -647,7 +647,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "5,370",
-      "forks": "722",
+      "forks": "723",
       "addStars": "12",
       "contributors": [
         {

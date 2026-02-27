@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Monthly Trending",
   "description": "Monthly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "brahmkshatriya/echo",
@@ -10,7 +10,7 @@
       "description": "Just a music player.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,956",
+      "stars": "2,959",
       "forks": "151",
       "addStars": "501",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,102",
+      "stars": "3,107",
       "forks": "126",
       "addStars": "949",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,471",
+      "stars": "11,470",
       "forks": "580",
       "addStars": "339",
       "contributors": [
@@ -111,50 +111,13 @@
       ]
     },
     {
-      "title": "2dust/v2rayNG",
-      "url": "https://github.com/2dust/v2rayNG",
-      "description": "A V2Ray client for Android, support Xray core and v2fly core",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "51,420",
-      "forks": "6,975",
-      "addStars": "1,477",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31833384?s=40&v=4",
-          "name": "2dust",
-          "url": "https://github.com/2dust"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1588741?s=40&v=4",
-          "name": "yuhan6665",
-          "url": "https://github.com/yuhan6665"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/132823494?s=40&v=4",
-          "name": "codewithtamim",
-          "url": "https://github.com/codewithtamim"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25316928?s=40&v=4",
-          "name": "solokot",
-          "url": "https://github.com/solokot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69906215?s=40&v=4",
-          "name": "Malus-risus",
-          "url": "https://github.com/Malus-risus"
-        }
-      ]
-    },
-    {
       "title": "MatsuriDayo/NekoBoxForAndroid",
       "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
       "description": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "18,932",
-      "forks": "1,495",
+      "stars": "18,938",
+      "forks": "1,494",
       "addStars": "642",
       "contributors": [
         {
@@ -227,7 +190,7 @@
       "description": "Software simulation for Android hardware-backed key pairs with key attestation",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "916",
+      "stars": "919",
       "forks": "93",
       "addStars": "329",
       "contributors": [
@@ -259,7 +222,7 @@
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "10,880",
+      "stars": "10,888",
       "forks": "629",
       "addStars": "706",
       "contributors": [
@@ -296,8 +259,8 @@
       "description": "Bringing Astrid Tasks back from the dead",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "4,970",
-      "forks": "599",
+      "stars": "4,971",
+      "forks": "600",
       "addStars": "164",
       "contributors": [
         {
@@ -323,8 +286,8 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "36,315",
-      "forks": "1,763",
+      "stars": "36,322",
+      "forks": "1,767",
       "addStars": "958",
       "contributors": [
         {
@@ -360,7 +323,7 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,815",
+      "stars": "3,821",
       "forks": "145",
       "addStars": "492",
       "contributors": [
@@ -434,7 +397,7 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "9,435",
+      "stars": "9,442",
       "forks": "310",
       "addStars": "356",
       "contributors": [
@@ -498,7 +461,7 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "8,971",
+      "stars": "8,972",
       "forks": "787",
       "addStars": "306",
       "contributors": [
@@ -535,8 +498,8 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "22,299",
-      "forks": "2,058",
+      "stars": "22,309",
+      "forks": "2,060",
       "addStars": "1,222",
       "contributors": [
         {
@@ -572,7 +535,7 @@
       "description": "Official ProtonVPN Android app",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,359",
+      "stars": "3,362",
       "forks": "444",
       "addStars": "111",
       "contributors": [
@@ -646,8 +609,8 @@
       "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,217",
-      "forks": "784",
+      "stars": "6,220",
+      "forks": "785",
       "addStars": "226",
       "contributors": [
         {

@@ -3,7 +3,7 @@
     <title>GitHub C# Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of C# Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 07:49:52 GMT</pubDate>
     <item>
       <title>moonshine-ai/moonshine</title>
       <link>https://github.com/moonshine-ai/moonshine</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/moonshine-ai/moonshine</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>5,365</stars>
-      <forks>255</forks>
+      <stars>5,483</stars>
+      <forks>261</forks>
       <addStars>245</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/nothings/stb</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>32,678</stars>
-      <forks>8,017</forks>
+      <stars>32,684</stars>
+      <forks>8,016</forks>
       <addStars>47</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/ImageMagick/ImageMagick</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>15,814</stars>
-      <forks>1,548</forks>
+      <stars>15,818</stars>
+      <forks>1,549</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>
@@ -121,7 +121,7 @@
       <language>C</language>
       <languageColor>#555555</languageColor>
       <stars>12,381</stars>
-      <forks>2,042</forks>
+      <forks>2,041</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>
@@ -158,7 +158,7 @@
       <guid>https://github.com/open-quantum-safe/liboqs</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>2,779</stars>
+      <stars>2,781</stars>
       <forks>696</forks>
       <addStars>3</addStars>
       <contributors>
@@ -196,7 +196,7 @@
       <guid>https://github.com/sqlcipher/sqlcipher</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>7,034</stars>
+      <stars>7,035</stars>
       <forks>1,369</forks>
       <addStars>3</addStars>
       <contributors>
@@ -386,8 +386,8 @@
       <guid>https://github.com/betaflight/betaflight</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>10,642</stars>
-      <forks>3,621</forks>
+      <stars>10,645</stars>
+      <forks>3,622</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -424,8 +424,8 @@
       <guid>https://github.com/openssh/openssh-portable</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>3,692</stars>
-      <forks>2,034</forks>
+      <stars>3,693</stars>
+      <forks>2,033</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
@@ -538,7 +538,7 @@
       <guid>https://github.com/kingToolbox/WindTerm</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>29,853</stars>
+      <stars>29,858</stars>
       <forks>2,290</forks>
       <addStars>11</addStars>
       <contributors>
@@ -561,8 +561,8 @@
       <guid>https://github.com/zephyrproject-rtos/zephyr</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>14,553</stars>
-      <forks>8,710</forks>
+      <stars>14,554</stars>
+      <forks>8,713</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>
@@ -599,7 +599,7 @@
       <guid>https://github.com/34736384/genshin-fps-unlock</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>3,360</stars>
+      <stars>3,361</stars>
       <forks>248</forks>
       <addStars>1</addStars>
       <contributors>
@@ -637,7 +637,7 @@
       <guid>https://github.com/wolfSSL/wolfssl</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>2,741</stars>
+      <stars>2,740</stars>
       <forks>931</forks>
       <addStars>1</addStars>
       <contributors>
@@ -708,7 +708,7 @@
       <guid>https://github.com/axboe/fio</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,099</stars>
+      <stars>6,100</stars>
       <forks>1,376</forks>
       <addStars>3</addStars>
       <contributors>
@@ -746,7 +746,7 @@
       <guid>https://github.com/libvips/libvips</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>11,118</stars>
+      <stars>11,119</stars>
       <forks>748</forks>
       <addStars>7</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Monthly Trending",
   "description": "Monthly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "discourse/discourse",
@@ -10,7 +10,7 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "46,428",
+      "stars": "46,429",
       "forks": "8,823",
       "addStars": "360",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "41,089",
+      "stars": "41,092",
       "forks": "5,984",
       "addStars": "185",
       "contributors": [
@@ -308,8 +308,8 @@
       "description": "🍺 The missing package manager for macOS (or Linux)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "46,747",
-      "forks": "10,969",
+      "stars": "46,749",
+      "forks": "10,970",
       "addStars": "471",
       "contributors": [
         {
@@ -383,7 +383,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "13,337",
-      "forks": "5,029",
+      "forks": "5,028",
       "addStars": "96",
       "contributors": [
         {
@@ -419,7 +419,7 @@
       "description": "A curated list of engineering blogs",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "37,178",
+      "stars": "37,179",
       "forks": "1,950",
       "addStars": "290",
       "contributors": [
@@ -456,8 +456,8 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "27,427",
-      "forks": "6,419",
+      "stars": "27,428",
+      "forks": "6,420",
       "addStars": "409",
       "contributors": [
         {
@@ -530,7 +530,7 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,310",
+      "stars": "58,311",
       "forks": "22,177",
       "addStars": "250",
       "contributors": [
@@ -567,8 +567,8 @@
       "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "37,605",
-      "forks": "14,771",
+      "stars": "37,607",
+      "forks": "14,770",
       "addStars": "306",
       "contributors": [
         {
@@ -631,7 +631,7 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "11,526",
+      "stars": "11,527",
       "forks": "965",
       "addStars": "247",
       "contributors": [
@@ -695,7 +695,7 @@
       "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, Azure, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "3,631",
+      "stars": "3,633",
       "forks": "385",
       "addStars": "179",
       "contributors": [

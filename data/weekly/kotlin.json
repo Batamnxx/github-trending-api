@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Weekly Trending",
   "description": "Weekly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
+  "pubDate": "Fri, 27 Feb 2026 07:49:52 GMT",
   "items": [
     {
       "title": "utkarshdalal/GameNative",
@@ -10,7 +10,7 @@
       "description": "Lightweight unofficial Steam client for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,102",
+      "stars": "3,107",
       "forks": "126",
       "addStars": "311",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "851",
+      "stars": "854",
       "forks": "37",
       "addStars": "42",
       "contributors": [
@@ -69,7 +69,7 @@
       "description": "Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,726",
+      "stars": "1,727",
       "forks": "102",
       "addStars": "46",
       "contributors": [
@@ -106,8 +106,8 @@
       "description": "A Download Manager that speeds up your downloads",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "13,671",
-      "forks": "697",
+      "stars": "13,675",
+      "forks": "698",
       "addStars": "199",
       "contributors": [
         {
@@ -143,7 +143,7 @@
       "description": "privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,995",
+      "stars": "2,997",
       "forks": "221",
       "addStars": "104",
       "contributors": [
@@ -244,8 +244,8 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "36,315",
-      "forks": "1,763",
+      "stars": "36,322",
+      "forks": "1,767",
       "addStars": "249",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,446",
-      "forks": "263",
+      "stars": "3,451",
+      "forks": "262",
       "addStars": "81",
       "contributors": [
         {
@@ -318,7 +318,7 @@
       "description": "Install any apk on the device you own.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,226",
+      "stars": "1,228",
       "forks": "48",
       "addStars": "163",
       "contributors": [
@@ -340,7 +340,7 @@
       "description": "An Android app to remap the buttons on your devices",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,151",
+      "stars": "2,153",
       "forks": "231",
       "addStars": "19",
       "contributors": [
@@ -404,7 +404,7 @@
       "description": "Image loading for Android and Compose Multiplatform.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,717",
+      "stars": "11,718",
       "forks": "750",
       "addStars": "13",
       "contributors": [
@@ -426,7 +426,7 @@
       "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "13,158",
+      "stars": "13,160",
       "forks": "2,706",
       "addStars": "38",
       "contributors": [

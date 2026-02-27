@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 26 Feb 2026 19:45:30 GMT",
+  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
   "items": [
     {
       "title": "liyupi/ai-guide",
@@ -10,9 +10,9 @@
       "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,035",
-      "forks": "856",
-      "addStars": "479",
+      "stars": "8,079",
+      "forks": "859",
+      "addStars": "417",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26037703?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,420",
-      "forks": "685",
-      "addStars": "66",
+      "stars": "4,448",
+      "forks": "688",
+      "addStars": "68",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12859173?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "20,837",
-      "forks": "1,825",
-      "addStars": "707",
+      "stars": "21,087",
+      "forks": "1,841",
+      "addStars": "705",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/186001655?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,432",
-      "forks": "1,361",
-      "addStars": "55",
+      "stars": "8,438",
+      "forks": "1,363",
+      "addStars": "56",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26101719?s=40&v=4",
@@ -148,7 +148,7 @@
       "description": "draw.io is a JavaScript, client-side editor for general diagramming.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,753",
+      "stars": "3,755",
       "forks": "668",
       "addStars": "30",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "352",
+      "stars": "355",
       "forks": "40",
       "addStars": "5",
       "contributors": [
@@ -200,6 +200,11 @@
           "url": "https://github.com/pnguyen-atlassian"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/154573081?s=40&v=4",
+          "name": "iosamaatlassian",
+          "url": "https://github.com/iosamaatlassian"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/255455128?s=40&v=4",
           "name": "ekahinga",
           "url": "https://github.com/ekahinga"
@@ -208,11 +213,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/262648862?s=40&v=4",
           "name": "evperlman1",
           "url": "https://github.com/evperlman1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/154573081?s=40&v=4",
-          "name": "iosamaatlassian",
-          "url": "https://github.com/iosamaatlassian"
         }
       ]
     },
@@ -222,9 +222,9 @@
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "12,617",
-      "forks": "709",
-      "addStars": "52",
+      "stars": "12,620",
+      "forks": "710",
+      "addStars": "55",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/98228280?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,594",
-      "forks": "2,014",
-      "addStars": "53",
+      "stars": "21,607",
+      "forks": "2,018",
+      "addStars": "52",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/52905881?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "22,697",
-      "forks": "2,614",
-      "addStars": "146",
+      "stars": "22,746",
+      "forks": "2,617",
+      "addStars": "150",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/434140?s=40&v=4",
@@ -313,7 +313,7 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "37,487",
+      "stars": "37,490",
       "forks": "4,953",
       "addStars": "18",
       "contributors": [
@@ -350,9 +350,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,313",
-      "forks": "1,948",
-      "addStars": "112",
+      "stars": "21,348",
+      "forks": "1,952",
+      "addStars": "113",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13172299?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "WebGoat is a deliberately insecure application",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,946",
-      "forks": "7,420",
-      "addStars": "6",
+      "stars": "8,950",
+      "forks": "7,426",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/493861?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "分流规则、重写写规则及脚本。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "24,874",
+      "stars": "24,879",
       "forks": "3,893",
-      "addStars": "21",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27717518?s=40&v=4",
@@ -451,9 +451,9 @@
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "51,914",
+      "stars": "51,918",
       "forks": "11,340",
-      "addStars": "15",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/101513?s=40&v=4",
@@ -483,9 +483,9 @@
       "description": "Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "750",
+      "stars": "752",
       "forks": "37",
-      "addStars": "11",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1102553?s=40&v=4",
@@ -520,9 +520,9 @@
       "description": "Interactive interface for browsing global, full-resolution satellite imagery",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "820",
+      "stars": "824",
       "forks": "218",
-      "addStars": "15",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3263862?s=40&v=4",

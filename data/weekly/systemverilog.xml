@@ -3,7 +3,7 @@
     <title>GitHub Systemverilog Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Systemverilog Languages in GitHub</description>
-    <pubDate>Thu, 26 Feb 2026 19:45:30 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
     <item>
       <title>verilator/verilator</title>
       <link>https://github.com/verilator/verilator</link>
@@ -13,7 +13,7 @@
       <languageColor>#DAE1C2</languageColor>
       <stars>3,381</stars>
       <forks>762</forks>
-      <addStars>17</addStars>
+      <addStars>18</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1180685?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/lowRISC/opentitan</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>3,154</stars>
-      <forks>962</forks>
-      <addStars>9</addStars>
+      <stars>3,155</stars>
+      <forks>963</forks>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/104845?s=40&amp;v=4</avatar>
@@ -127,7 +127,7 @@
       <languageColor>#DAE1C2</languageColor>
       <stars>711</stars>
       <forks>191</forks>
-      <addStars>3</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/199415?s=40&amp;v=4</avatar>
@@ -240,8 +240,8 @@
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
       <stars>1,773</stars>
-      <forks>695</forks>
-      <addStars>11</addStars>
+      <forks>696</forks>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/471032?s=40&amp;v=4</avatar>
@@ -279,7 +279,7 @@
       <languageColor>#DAE1C2</languageColor>
       <stars>1,150</stars>
       <forks>114</forks>
-      <addStars>1</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6016305?s=40&amp;v=4</avatar>

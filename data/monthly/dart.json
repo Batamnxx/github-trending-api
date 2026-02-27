@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Monthly Trending",
   "description": "Monthly Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 26 Feb 2026 19:45:30 GMT",
+  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
   "items": [
     {
       "title": "wanghongenpin/proxypin",
@@ -10,9 +10,9 @@
       "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "12,431",
-      "forks": "1,049",
-      "addStars": "938",
+      "stars": "12,448",
+      "forks": "1,050",
+      "addStars": "982",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24794200?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "26,738",
+      "stars": "26,750",
       "forks": "2,303",
-      "addStars": "1,329",
+      "addStars": "1,339",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/114227601?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "PiliPlus",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "10,902",
+      "stars": "10,909",
       "forks": "651",
-      "addStars": "1,263",
+      "addStars": "1,261",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/114972867?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "The cutest instant messenger in the [matrix]",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,431",
-      "forks": "468",
-      "addStars": "216",
+      "stars": "2,432",
+      "forks": "469",
+      "addStars": "221",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24619905?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "175,335",
-      "forks": "30,048",
-      "addStars": "749",
+      "stars": "175,342",
+      "forks": "30,052",
+      "addStars": "748",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "21,464",
-      "forks": "616",
-      "addStars": "1,476",
+      "stars": "21,483",
+      "forks": "617",
+      "addStars": "1,455",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34627277?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "32,200",
-      "forks": "1,951",
-      "addStars": "2,283",
+      "stars": "32,215",
+      "forks": "1,953",
+      "addStars": "2,311",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66918471?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "44,570",
-      "forks": "1,985",
-      "addStars": "848",
+      "stars": "44,584",
+      "forks": "1,986",
+      "addStars": "855",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/61944859?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "💚 End-to-end encrypted cloud for everything.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "24,788",
+      "stars": "24,796",
       "forks": "1,455",
-      "addStars": "767",
+      "addStars": "774",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24503581?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Get Android app updates straight from the source.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,455",
+      "stars": "15,469",
       "forks": "404",
-      "addStars": "723",
+      "addStars": "721",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30463115?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "9,851",
+      "stars": "9,859",
       "forks": "878",
-      "addStars": "631",
+      "addStars": "632",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/167741400?s=40&v=4",
@@ -402,9 +402,9 @@
       "description": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "10,816",
+      "stars": "10,819",
       "forks": "403",
-      "addStars": "266",
+      "addStars": "271",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16934707?s=40&v=4",
@@ -439,9 +439,9 @@
       "description": "💊 Application to use ReVanced on Android",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "26,027",
+      "stars": "26,038",
       "forks": "1,031",
-      "addStars": "589",
+      "addStars": "595",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/93124920?s=40&v=4",
@@ -476,9 +476,9 @@
       "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "59,105",
+      "stars": "59,110",
       "forks": "6,861",
-      "addStars": "452",
+      "addStars": "449",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1295961?s=40&v=4",
@@ -514,8 +514,8 @@
       "language": "Dart",
       "languageColor": "#00B4AB",
       "stars": "2,104",
-      "forks": "366",
-      "addStars": "67",
+      "forks": "365",
+      "addStars": "66",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/423393?s=40&v=4",
@@ -552,7 +552,7 @@
       "languageColor": "#00B4AB",
       "stars": "686",
       "forks": "23",
-      "addStars": "170",
+      "addStars": "175",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81013544?s=40&v=4",
@@ -584,7 +584,7 @@
       "languageColor": "#00B4AB",
       "stars": "11,053",
       "forks": "1,753",
-      "addStars": "54",
+      "addStars": "55",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/384794?s=40&v=4",
@@ -619,9 +619,9 @@
       "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,667",
+      "stars": "1,669",
       "forks": "174",
-      "addStars": "248",
+      "addStars": "253",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49580479?s=40&v=4",
@@ -651,9 +651,9 @@
       "description": "🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,583",
+      "stars": "1,584",
       "forks": "228",
-      "addStars": "216",
+      "addStars": "215",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24407484?s=40&v=4",
@@ -688,9 +688,9 @@
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "75,613",
-      "forks": "4,027",
-      "addStars": "1,850",
+      "stars": "75,628",
+      "forks": "4,028",
+      "addStars": "1,855",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38380847?s=40&v=4",

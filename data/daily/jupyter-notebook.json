@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 26 Feb 2026 19:45:30 GMT",
+  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
   "items": [
     {
       "title": "NirDiamant/agents-towards-production",
@@ -10,9 +10,9 @@
       "description": "This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "17,615",
-      "forks": "2,307",
-      "addStars": "75",
+      "stars": "17,639",
+      "forks": "2,313",
+      "addStars": "55",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28316913?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "28,450",
-      "forks": "2,830",
+      "stars": "28,458",
+      "forks": "2,832",
       "addStars": "44",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "33,498",
-      "forks": "3,487",
-      "addStars": "105",
+      "stars": "33,520",
+      "forks": "3,495",
+      "addStars": "117",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "📚 从零开始的大语言模型原理与实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "26,251",
-      "forks": "2,442",
-      "addStars": "73",
+      "stars": "26,264",
+      "forks": "2,443",
+      "addStars": "74",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/77671993?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "NVIDIA Isaac GR00T N1.6 - A Foundation Model for Generalist Robots.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "6,261",
-      "forks": "1,030",
-      "addStars": "12",
+      "stars": "6,263",
+      "forks": "1,032",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32189404?s=40&v=4",
@@ -195,8 +195,8 @@
       "description": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "2,373",
-      "forks": "892",
+      "stars": "2,374",
+      "forks": "893",
       "addStars": "7",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "17,243",
-      "forks": "4,765",
+      "stars": "17,247",
+      "forks": "4,766",
       "addStars": "9",
       "contributors": [
         {
@@ -264,7 +264,7 @@
       "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "23,344",
+      "stars": "23,348",
       "forks": "2,836",
       "addStars": "18",
       "contributors": [
@@ -301,8 +301,8 @@
       "description": "Repo to accompany my mastering LLM engineering course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "5,032",
-      "forks": "4,834",
+      "stars": "5,035",
+      "forks": "4,839",
       "addStars": "19",
       "contributors": [
         {
@@ -338,7 +338,7 @@
       "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "12,194",
+      "stars": "12,196",
       "forks": "1,762",
       "addStars": "15",
       "contributors": [
@@ -376,7 +376,7 @@
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
       "stars": "1,080",
-      "forks": "354",
+      "forks": "355",
       "addStars": "8",
       "contributors": [
         {
@@ -412,9 +412,9 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "179,041",
-      "forks": "55,457",
-      "addStars": "61",
+      "stars": "179,046",
+      "forks": "55,460",
+      "addStars": "58",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7474657?s=40&v=4",
@@ -449,9 +449,9 @@
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "51,364",
-      "forks": "18,016",
-      "addStars": "160",
+      "stars": "51,396",
+      "forks": "18,022",
+      "addStars": "220",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
@@ -481,9 +481,9 @@
       "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,394",
-      "forks": "1,618",
-      "addStars": "14",
+      "stars": "18,397",
+      "forks": "1,619",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43326198?s=40&v=4",
@@ -520,7 +520,7 @@
       "languageColor": "#DA5B0B",
       "stars": "3,926",
       "forks": "909",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/545458?s=40&v=4",
@@ -555,9 +555,9 @@
       "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,767",
-      "forks": "4,463",
-      "addStars": "6",
+      "stars": "18,771",
+      "forks": "4,464",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5308143?s=40&v=4",
@@ -592,9 +592,9 @@
       "description": "Google Research",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "37,354",
+      "stars": "37,358",
       "forks": "8,340",
-      "addStars": "14",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6020988?s=40&v=4",

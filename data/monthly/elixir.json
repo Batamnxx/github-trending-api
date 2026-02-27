@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Monthly Trending",
   "description": "Monthly Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 26 Feb 2026 19:45:30 GMT",
+  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
   "items": [
     {
       "title": "elixir-lang/expert",
@@ -10,9 +10,9 @@
       "description": "Official Elixir Language Server Protocol implementation",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "1,829",
+      "stars": "1,830",
       "forks": "87",
-      "addStars": "75",
+      "addStars": "76",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/55809?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "26,418",
+      "stars": "26,422",
       "forks": "3,479",
-      "addStars": "199",
+      "addStars": "200",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9582?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "22,904",
+      "stars": "22,905",
       "forks": "3,049",
-      "addStars": "188",
+      "addStars": "189",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/576796?s=40&v=4",
@@ -111,7 +111,7 @@
       "description": "Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "9,926",
+      "stars": "9,928",
       "forks": "310",
       "addStars": "126",
       "contributors": [
@@ -148,9 +148,9 @@
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "4,427",
+      "stars": "4,426",
       "forks": "2,995",
-      "addStars": "52",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4341812?s=40&v=4",
@@ -219,7 +219,7 @@
       "languageColor": "#6e4a7e",
       "stars": "420",
       "forks": "104",
-      "addStars": "62",
+      "addStars": "66",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/84222?s=40&v=4",
@@ -256,7 +256,7 @@
       "languageColor": "#6e4a7e",
       "stars": "2,325",
       "forks": "369",
-      "addStars": "52",
+      "addStars": "53",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5722339?s=40&v=4",
@@ -345,9 +345,9 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "4,610",
+      "stars": "4,611",
       "forks": "120",
-      "addStars": "143",
+      "addStars": "146",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/569917?s=40&v=4",
@@ -382,9 +382,9 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "7,665",
+      "stars": "7,668",
       "forks": "905",
-      "addStars": "115",
+      "addStars": "118",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8999358?s=40&v=4",
@@ -411,7 +411,7 @@
       "languageColor": "#6e4a7e",
       "stars": "1,221",
       "forks": "99",
-      "addStars": "78",
+      "addStars": "82",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1173965?s=40&v=4",
@@ -443,7 +443,7 @@
       "languageColor": "#6e4a7e",
       "stars": "1,989",
       "forks": "118",
-      "addStars": "69",
+      "addStars": "70",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/927029?s=40&v=4",
@@ -478,9 +478,9 @@
       "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "24,284",
-      "forks": "1,349",
-      "addStars": "200",
+      "stars": "24,285",
+      "forks": "1,351",
+      "addStars": "196",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
@@ -512,7 +512,7 @@
       "languageColor": "#6e4a7e",
       "stars": "1,198",
       "forks": "58",
-      "addStars": "73",
+      "addStars": "70",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17045339?s=40&v=4",
@@ -549,7 +549,7 @@
       "languageColor": "#6e4a7e",
       "stars": "6,722",
       "forks": "1,033",
-      "addStars": "33",
+      "addStars": "31",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/576796?s=40&v=4",
@@ -584,9 +584,9 @@
       "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "8,423",
+      "stars": "8,426",
       "forks": "403",
-      "addStars": "64",
+      "addStars": "65",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/167144?s=40&v=4",

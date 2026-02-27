@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Weekly Trending",
   "description": "Weekly Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 26 Feb 2026 19:45:30 GMT",
+  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
   "items": [
     {
       "title": "semgrep/semgrep",
@@ -10,9 +10,9 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "14,267",
+      "stars": "14,272",
       "forks": "876",
-      "addStars": "84",
+      "addStars": "90",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/332336?s=40&v=4",
@@ -47,7 +47,7 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "2,173",
+      "stars": "2,176",
       "forks": "175",
       "addStars": "24",
       "contributors": [
@@ -81,7 +81,7 @@
       "languageColor": "#ef7a08",
       "stars": "5,122",
       "forks": "265",
-      "addStars": "16",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/69477666?s=40&v=4",
@@ -118,7 +118,7 @@
       "languageColor": "#ef7a08",
       "stars": "6,194",
       "forks": "1,201",
-      "addStars": "9",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3845810?s=40&v=4",

@@ -2,45 +2,8 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 26 Feb 2026 19:45:30 GMT",
+  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
   "items": [
-    {
-      "title": "livewire/blaze",
-      "url": "https://github.com/livewire/blaze",
-      "description": "Pre-compile Blade components for blazing fast rendering performance",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": "558",
-      "forks": "22",
-      "addStars": "114",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3823354?s=40&v=4",
-          "name": "ganyicz",
-          "url": "https://github.com/ganyicz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3670578?s=40&v=4",
-          "name": "calebporzio",
-          "url": "https://github.com/calebporzio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/882837?s=40&v=4",
-          "name": "joshhanley",
-          "url": "https://github.com/joshhanley"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9332696?s=40&v=4",
-          "name": "gcavanunez",
-          "url": "https://github.com/gcavanunez"
-        }
-      ]
-    },
     {
       "title": "openemr/openemr",
       "url": "https://github.com/openemr/openemr",
@@ -121,9 +84,9 @@
       "description": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "29,460",
-      "forks": "4,097",
-      "addStars": "56",
+      "stars": "29,468",
+      "forks": "4,096",
+      "addStars": "58",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/41773797?s=40&v=4",
@@ -159,8 +122,8 @@
       "language": "PHP",
       "languageColor": "#4F5D95",
       "stars": "11,885",
-      "forks": "2,722",
-      "addStars": "6",
+      "forks": "2,721",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35057561?s=40&v=4",
@@ -190,9 +153,9 @@
       "description": "Laravel-focused MCP server for augmenting your AI powered local development experience.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "3,292",
+      "stars": "3,295",
       "forks": "276",
-      "addStars": "5",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/454975?s=40&v=4",
@@ -264,9 +227,9 @@
       "description": "A PHP client library for accessing Google APIs",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "9,749",
+      "stars": "9,750",
       "forks": "3,566",
-      "addStars": "2",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/596919?s=40&v=4",
@@ -298,7 +261,7 @@
       "languageColor": "#4F5D95",
       "stars": "4,725",
       "forks": "616",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/105211?s=40&v=4",
@@ -372,7 +335,7 @@
       "languageColor": "#4F5D95",
       "stars": "22,037",
       "forks": "9,858",
-      "addStars": "7",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81561?s=40&v=4",
@@ -439,9 +402,9 @@
       "description": "High-performance panel based on V2board secondary development supporting new protocols and new features",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "3,838",
+      "stars": "3,841",
       "forks": "1,048",
-      "addStars": "3",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/147830212?s=40&v=4",
@@ -515,7 +478,7 @@
       "languageColor": "#4F5D95",
       "stars": "5,046",
       "forks": "3,794",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1296369?s=40&v=4",
@@ -550,8 +513,8 @@
       "description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "20,912",
-      "forks": "12,937",
+      "stars": "20,911",
+      "forks": "12,936",
       "addStars": "5",
       "contributors": [
         {
@@ -626,7 +589,7 @@
       "languageColor": "#4F5D95",
       "stars": "6,512",
       "forks": "573",
-      "addStars": "6",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1897962?s=40&v=4",
@@ -656,9 +619,9 @@
       "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "5,642",
-      "forks": "1,620",
-      "addStars": "3",
+      "stars": "5,644",
+      "forks": "1,618",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4816762?s=40&v=4",
@@ -693,7 +656,7 @@
       "description": "Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "3,724",
+      "stars": "3,725",
       "forks": "1,507",
       "addStars": "0",
       "contributors": [
@@ -730,9 +693,9 @@
       "description": "The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "560",
-      "forks": "120",
-      "addStars": "3",
+      "stars": "565",
+      "forks": "121",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/463230?s=40&v=4",

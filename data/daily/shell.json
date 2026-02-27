@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 26 Feb 2026 19:45:30 GMT",
+  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
   "items": [
     {
       "title": "obra/superpowers",
@@ -10,9 +10,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "63,159",
-      "forks": "4,817",
-      "addStars": "1,528",
+      "stars": "63,584",
+      "forks": "4,856",
+      "addStars": "1,532",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "😼 优雅地使用基于 clash/mihomo 的代理环境",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "9,338",
-      "forks": "1,098",
+      "stars": "9,347",
+      "forks": "1,097",
       "addStars": "49",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "60,458",
+      "stars": "60,459",
       "forks": "12,335",
-      "addStars": "25",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8636020?s=40&v=4",
@@ -123,7 +123,7 @@
       "languageColor": "#89e051",
       "stars": "45,801",
       "forks": "5,524",
-      "addStars": "14",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8305679?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "70,551",
-      "forks": "5,577",
-      "addStars": "476",
+      "stars": "70,675",
+      "forks": "5,584",
+      "addStars": "479",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "91,877",
+      "stars": "91,886",
       "forks": "9,910",
-      "addStars": "21",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
@@ -233,8 +233,8 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "6,286",
-      "forks": "1,242",
-      "addStars": "2",
+      "forks": "1,241",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8861642?s=40&v=4",
@@ -306,9 +306,9 @@
       "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "10,856",
-      "forks": "1,782",
-      "addStars": "23",
+      "stars": "10,859",
+      "forks": "1,783",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7548515?s=40&v=4",

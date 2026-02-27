@@ -3,7 +3,7 @@
     <title>GitHub Kotlin Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Kotlin Languages in GitHub</description>
-    <pubDate>Thu, 26 Feb 2026 19:45:30 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
     <item>
       <title>ktorio/ktor</title>
       <link>https://github.com/ktorio/ktor</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/ktorio/ktor</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>14,298</stars>
+      <stars>14,299</stars>
       <forks>1,233</forks>
-      <addStars>3</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/762598?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/android/nowinandroid</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>20,658</stars>
+      <stars>20,660</stars>
       <forks>4,208</forks>
-      <addStars>13</addStars>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/873212?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/chsbuffer/ReVancedXposed_Spotify</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>849</stars>
+      <stars>851</stars>
       <forks>37</forks>
-      <addStars>6</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/33744752?s=40&amp;v=4</avatar>
@@ -105,9 +105,9 @@
       <guid>https://github.com/Turbo1123/roubao</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>1,730</stars>
-      <forks>183</forks>
-      <addStars>26</addStars>
+      <stars>1,734</stars>
+      <forks>184</forks>
+      <addStars>16</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -128,9 +128,9 @@
       <guid>https://github.com/d4rken-org/sdmaid-se</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>6,213</stars>
+      <stars>6,217</stars>
       <forks>784</forks>
-      <addStars>13</addStars>
+      <addStars>12</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1439229?s=40&amp;v=4</avatar>
@@ -167,8 +167,8 @@
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
       <stars>1,531</stars>
-      <forks>53</forks>
-      <addStars>26</addStars>
+      <forks>54</forks>
+      <addStars>18</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/173592055?s=40&amp;v=4</avatar>
@@ -189,8 +189,8 @@
       <guid>https://github.com/duckduckgo/Android</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>4,559</stars>
-      <forks>1,261</forks>
+      <stars>4,560</stars>
+      <forks>1,262</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -265,9 +265,9 @@
       <guid>https://github.com/sam1am/anyapk</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>1,225</stars>
+      <stars>1,226</stars>
       <forks>48</forks>
-      <addStars>22</addStars>
+      <addStars>15</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/127555?s=40&amp;v=4</avatar>
@@ -288,9 +288,9 @@
       <guid>https://github.com/bmax121/APatch</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>7,126</stars>
+      <stars>7,128</stars>
       <forks>662</forks>
-      <addStars>3</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/30499527?s=40&amp;v=4</avatar>
@@ -323,7 +323,7 @@
       <languageColor>#A97BFF</languageColor>
       <stars>2,956</stars>
       <forks>151</forks>
-      <addStars>6</addStars>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/69040506?s=40&amp;v=4</avatar>
@@ -359,9 +359,9 @@
       <guid>https://github.com/iamgio/quarkdown</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>10,120</stars>
+      <stars>10,122</stars>
       <forks>262</forks>
-      <addStars>11</addStars>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16124324?s=40&amp;v=4</avatar>
@@ -397,9 +397,9 @@
       <guid>https://github.com/bannedbook/fanqiang</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>42,356</stars>
+      <stars>42,358</stars>
       <forks>7,580</forks>
-      <addStars>14</addStars>
+      <addStars>21</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4361923?s=40&amp;v=4</avatar>
@@ -422,7 +422,7 @@
       <languageColor>#A97BFF</languageColor>
       <stars>4,083</stars>
       <forks>444</forks>
-      <addStars>4</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47623588?s=40&amp;v=4</avatar>
@@ -458,9 +458,9 @@
       <guid>https://github.com/ycngmn/Nobook</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>1,001</stars>
+      <stars>1,003</stars>
       <forks>31</forks>
-      <addStars>3</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/41749571?s=40&amp;v=4</avatar>
@@ -498,7 +498,7 @@
       <languageColor>#A97BFF</languageColor>
       <stars>3,135</stars>
       <forks>291</forks>
-      <addStars>7</addStars>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1916583?s=40&amp;v=4</avatar>

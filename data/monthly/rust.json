@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Monthly Trending",
   "description": "Monthly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 26 Feb 2026 19:45:30 GMT",
+  "pubDate": "Fri, 27 Feb 2026 03:32:48 GMT",
   "items": [
     {
       "title": "gitbutlerapp/gitbutler",
@@ -10,9 +10,9 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "19,590",
-      "forks": "850",
-      "addStars": "2,090",
+      "stars": "19,600",
+      "forks": "851",
+      "addStars": "2,112",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4030927?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "62,069",
-      "forks": "8,243",
-      "addStars": "4,933",
+      "stars": "62,123",
+      "forks": "8,246",
+      "addStars": "4,710",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "⚡ Better `pre-commit`, re-engineered in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,427",
-      "forks": "171",
-      "addStars": "2,540",
+      "stars": "6,438",
+      "forks": "172",
+      "addStars": "2,526",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10510431?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Development at the speed of light",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,771",
-      "forks": "745",
-      "addStars": "1,255",
+      "stars": "20,982",
+      "forks": "754",
+      "addStars": "1,752",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/196249?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "A Git extension for tracking the AI-generated code in your repos",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,141",
+      "stars": "1,146",
       "forks": "81",
-      "addStars": "638",
+      "addStars": "525",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5900338?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,520",
-      "forks": "170",
-      "addStars": "737",
+      "stars": "1,650",
+      "forks": "179",
+      "addStars": "1,177",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -207,9 +207,9 @@
       "description": "A high-performance algorithmic trading platform and event-driven backtester",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,373",
-      "forks": "2,403",
-      "addStars": "1,878",
+      "stars": "20,376",
+      "forks": "2,404",
+      "addStars": "1,862",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22510164?s=40&v=4",
@@ -244,9 +244,9 @@
       "description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,008",
-      "forks": "1,421",
-      "addStars": "558",
+      "stars": "17,011",
+      "forks": "1,422",
+      "addStars": "549",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25003283?s=40&v=4",
@@ -276,9 +276,9 @@
       "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "24,496",
-      "forks": "1,226",
-      "addStars": "832",
+      "stars": "24,509",
+      "forks": "1,228",
+      "addStars": "829",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/117777?s=40&v=4",
@@ -313,9 +313,9 @@
       "description": "🤖 Just a command runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,666",
-      "forks": "681",
-      "addStars": "1,723",
+      "stars": "31,674",
+      "forks": "682",
+      "addStars": "1,732",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1945?s=40&v=4",
@@ -345,9 +345,9 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "26,624",
+      "stars": "26,628",
       "forks": "2,834",
-      "addStars": "756",
+      "addStars": "751",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4",
@@ -382,9 +382,9 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "55,923",
+      "stars": "55,947",
       "forks": "2,581",
-      "addStars": "1,813",
+      "addStars": "1,965",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/725423?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "76,020",
-      "forks": "7,096",
-      "addStars": "2,197",
+      "stars": "76,037",
+      "forks": "7,099",
+      "addStars": "2,224",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "The user-friendly command line shell.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "32,747",
-      "forks": "2,227",
-      "addStars": "632",
+      "stars": "32,752",
+      "forks": "2,228",
+      "addStars": "631",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/920838?s=40&v=4",
@@ -493,9 +493,9 @@
       "description": "Build fast web applications with Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,202",
+      "stars": "20,206",
       "forks": "844",
-      "addStars": "401",
+      "addStars": "404",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/286622?s=40&v=4",
@@ -530,9 +530,9 @@
       "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "29,874",
+      "stars": "29,881",
       "forks": "2,269",
-      "addStars": "301",
+      "addStars": "303",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1365881?s=40&v=4",
@@ -567,9 +567,9 @@
       "description": "Offline voice assistant that respects your privacy. Forged in Rust. WIP.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,681",
-      "forks": "562",
-      "addStars": "78",
+      "stars": "2,682",
+      "forks": "563",
+      "addStars": "81",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11755312?s=40&v=4",
@@ -604,9 +604,9 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,040",
-      "forks": "915",
-      "addStars": "615",
+      "stars": "10,048",
+      "forks": "917",
+      "addStars": "626",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/85450497?s=40&v=4",
@@ -643,7 +643,7 @@
       "languageColor": "#dea584",
       "stars": "5,507",
       "forks": "680",
-      "addStars": "197",
+      "addStars": "198",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/72036507?s=40&v=4",
@@ -678,9 +678,9 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "29,434",
-      "forks": "987",
-      "addStars": "1,035",
+      "stars": "29,444",
+      "forks": "989",
+      "addStars": "1,031",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/795598?s=40&v=4",
@@ -710,14 +710,51 @@
       ]
     },
     {
+      "title": "hank9999/kiro.rs",
+      "url": "https://github.com/hank9999/kiro.rs",
+      "description": "A Kiro Client in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "668",
+      "forks": "186",
+      "addStars": "291",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20784591?s=40&v=4",
+          "name": "hank9999",
+          "url": "https://github.com/hank9999"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2107330?s=40&v=4",
+          "name": "BenedictKing",
+          "url": "https://github.com/BenedictKing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23071083?s=40&v=4",
+          "name": "Gaoyukun",
+          "url": "https://github.com/Gaoyukun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/113331352?s=40&v=4",
+          "name": "ShanQuea",
+          "url": "https://github.com/ShanQuea"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35128?s=40&v=4",
+          "name": "sorrycc",
+          "url": "https://github.com/sorrycc"
+        }
+      ]
+    },
+    {
       "title": "rustdesk/rustdesk",
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "108,182",
-      "forks": "16,100",
-      "addStars": "2,037",
+      "stars": "108,200",
+      "forks": "16,105",
+      "addStars": "2,007",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",

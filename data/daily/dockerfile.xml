@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Thu, 26 Feb 2026 19:45:30 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 03:32:48 GMT</pubDate>
     <item>
       <title>Anduin2017/HowToCook</title>
       <link>https://github.com/Anduin2017/HowToCook</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Anduin2017/HowToCook</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>98,277</stars>
-      <forks>10,835</forks>
+      <stars>98,302</stars>
+      <forks>10,836</forks>
       <addStars>54</addStars>
       <contributors>
         <contributor>
@@ -45,8 +45,8 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>105,128</stars>
-      <forks>10,689</forks>
-      <addStars>10</addStars>
+      <forks>10,690</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8571500?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/vulhub/vulhub</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>20,308</stars>
+      <stars>20,312</stars>
       <forks>4,764</forks>
-      <addStars>6</addStars>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5711185?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/autowarefoundation/autoware</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>11,117</stars>
+      <stars>11,118</stars>
       <forks>3,513</forks>
-      <addStars>4</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/579333?s=40&amp;v=4</avatar>
@@ -205,7 +205,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>268</stars>
-      <forks>1,851</forks>
+      <forks>1,852</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -244,7 +244,7 @@
       <languageColor>#384d54</languageColor>
       <stars>981</stars>
       <forks>1,716</forks>
-      <addStars>2</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/40286378?s=40&amp;v=4</avatar>
@@ -282,7 +282,7 @@
       <languageColor>#384d54</languageColor>
       <stars>3,045</stars>
       <forks>869</forks>
-      <addStars>1</addStars>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/57224?s=40&amp;v=4</avatar>
@@ -318,9 +318,9 @@
       <guid>https://github.com/mikeroyal/Self-Hosting-Guide</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>18,766</stars>
+      <stars>18,770</stars>
       <forks>920</forks>
-      <addStars>17</addStars>
+      <addStars>12</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45159366?s=40&amp;v=4</avatar>
@@ -357,7 +357,7 @@
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
       <stars>1,164</stars>
-      <forks>1,707</forks>
+      <forks>1,708</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -396,7 +396,7 @@
       <languageColor>#384d54</languageColor>
       <stars>4,828</stars>
       <forks>1,956</forks>
-      <addStars>1</addStars>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15789599?s=40&amp;v=4</avatar>

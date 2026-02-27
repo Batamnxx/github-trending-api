@@ -2,7 +2,7 @@
   "title": "GitHub Nextflow Languages Monthly Trending",
   "description": "Monthly Trending of Nextflow Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 13:59:51 GMT",
+  "pubDate": "Fri, 27 Feb 2026 19:37:06 GMT",
   "items": [
     {
       "title": "nf-core/rnaseq",
@@ -11,7 +11,7 @@
       "language": "Nextflow",
       "languageColor": "#3ac486",
       "stars": "1,213",
-      "forks": "848",
+      "forks": "849",
       "addStars": "24",
       "contributors": [
         {

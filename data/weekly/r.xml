@@ -3,7 +3,7 @@
     <title>GitHub R Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of R Languages in GitHub</description>
-    <pubDate>Fri, 27 Feb 2026 13:59:51 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 19:37:06 GMT</pubDate>
     <item>
       <title>rstudio/rmarkdown</title>
       <link>https://github.com/rstudio/rmarkdown</link>
@@ -138,8 +138,8 @@
       <guid>https://github.com/MattCowgill/ggannotate</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>374</stars>
-      <forks>23</forks>
+      <stars>375</stars>
+      <forks>24</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>

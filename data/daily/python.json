@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 27 Feb 2026 13:59:51 GMT",
+  "pubDate": "Fri, 27 Feb 2026 19:37:06 GMT",
   "items": [
     {
       "title": "ruvnet/wifi-densepose",
@@ -10,8 +10,8 @@
       "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,913",
-      "forks": "718",
+      "stars": "8,831",
+      "forks": "812",
       "addStars": "362",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,192",
-      "forks": "947",
+      "stars": "12,289",
+      "forks": "957",
       "addStars": "836",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,903",
-      "forks": "2,615",
+      "stars": "22,964",
+      "forks": "2,620",
       "addStars": "312",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,592",
-      "forks": "1,161",
+      "stars": "17,865",
+      "forks": "1,183",
       "addStars": "1,127",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,364",
-      "forks": "105",
+      "stars": "1,426",
+      "forks": "109",
       "addStars": "107",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "67,640",
+      "stars": "67,645",
       "forks": "8,247",
       "addStars": "54",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "Trae Agent is an LLM-based agent for general purpose software engineering tasks.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,879",
+      "stars": "10,881",
       "forks": "1,162",
       "addStars": "11",
       "contributors": [
@@ -254,8 +254,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "78,200",
-      "forks": "8,149",
+      "stars": "78,387",
+      "forks": "8,172",
       "addStars": "1,450",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.5, DeepSeek-R1, GLM4.5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,793",
+      "stars": "12,798",
       "forks": "1,218",
       "addStars": "26",
       "contributors": [
@@ -328,7 +328,7 @@
       "description": "基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,148",
+      "stars": "1,149",
       "forks": "138",
       "addStars": "37",
       "contributors": [
@@ -365,8 +365,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,765",
-      "forks": "1,376",
+      "stars": "18,921",
+      "forks": "1,400",
       "addStars": "711",
       "contributors": [
         {
@@ -392,7 +392,7 @@
       "description": "Build and run agents you can see, understand and trust.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,551",
+      "stars": "16,554",
       "forks": "1,483",
       "addStars": "50",
       "contributors": [
@@ -429,8 +429,8 @@
       "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,162",
-      "forks": "814",
+      "stars": "11,186",
+      "forks": "819",
       "addStars": "143",
       "contributors": [
         {
@@ -461,7 +461,7 @@
       "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,421",
+      "stars": "13,426",
       "forks": "1,265",
       "addStars": "22",
       "contributors": [

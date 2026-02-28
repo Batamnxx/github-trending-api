@@ -2,7 +2,7 @@
   "title": "GitHub Autohotkey Languages Daily Trending",
   "description": "Daily Trending of Autohotkey Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 28 Feb 2026 13:36:14 GMT",
+  "pubDate": "Sat, 28 Feb 2026 19:25:27 GMT",
   "items": [
     {
       "title": "Descolada/AHK-v2-libraries",
@@ -42,7 +42,7 @@
       "description": "A Bee Swarm Simulator macro for Windows",
       "language": "AutoHotkey",
       "languageColor": "#6594b9",
-      "stars": "2,259",
+      "stars": "2,260",
       "forks": "225",
       "addStars": "6",
       "contributors": [

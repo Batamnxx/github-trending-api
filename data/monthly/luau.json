@@ -2,7 +2,7 @@
   "title": "GitHub Luau Languages Monthly Trending",
   "description": "Monthly Trending of Luau Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 28 Feb 2026 13:36:14 GMT",
+  "pubDate": "Sat, 28 Feb 2026 19:25:27 GMT",
   "items": [
     {
       "title": "evaera/Cmdr",
@@ -42,7 +42,7 @@
       "description": "Roblox Server Administration System",
       "language": "Luau",
       "languageColor": "#00A2FF",
-      "stars": "446",
+      "stars": "447",
       "forks": "224",
       "addStars": "14",
       "contributors": [
@@ -89,9 +89,9 @@
           "url": "https://github.com/JohnnyMorganz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/34089907?s=40&v=4",
-          "name": "Barocena",
-          "url": "https://github.com/Barocena"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     }

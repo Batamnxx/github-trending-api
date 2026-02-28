@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 28 Feb 2026 03:12:05 GMT",
+  "pubDate": "Sat, 28 Feb 2026 07:32:08 GMT",
   "items": [
     {
       "title": "YunaiV/ruoyi-vue-pro",
@@ -10,8 +10,8 @@
       "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "35,543",
-      "forks": "7,690",
+      "stars": "35,546",
+      "forks": "7,691",
       "addStars": "24",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Dex to Java decompiler",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "47,424",
+      "stars": "47,431",
       "forks": "5,437",
       "addStars": "17",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "1,438",
-      "forks": "314",
+      "stars": "1,441",
+      "forks": "315",
       "addStars": "21",
       "contributors": [
         {
@@ -117,7 +117,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": "20,690",
-      "forks": "6,915",
+      "forks": "6,914",
       "addStars": "2",
       "contributors": [
         {
@@ -154,7 +154,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": "11,950",
-      "forks": "3,271",
+      "forks": "3,270",
       "addStars": "5",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "122,521",
-      "forks": "14,855",
+      "stars": "122,528",
+      "forks": "14,854",
       "addStars": "36",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "76,202",
-      "forks": "25,807",
+      "stars": "76,203",
+      "forks": "25,806",
       "addStars": "9",
       "contributors": [
         {
@@ -264,7 +264,7 @@
       "description": "Netty project - an event-driven asynchronous network application framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "34,828",
+      "stars": "34,830",
       "forks": "16,289",
       "addStars": "5",
       "contributors": [
@@ -301,8 +301,8 @@
       "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "15,046",
-      "forks": "3,715",
+      "stars": "15,047",
+      "forks": "3,716",
       "addStars": "4",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "【AI低代码平台】AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications. 助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键生成，无需手写代码! 显著提升效率节省成本，又不失灵活~",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "45,291",
-      "forks": "15,825",
+      "stars": "45,296",
+      "forks": "15,826",
       "addStars": "13",
       "contributors": [
         {
@@ -412,8 +412,8 @@
       "description": "Agentic AI Framework for Java Developers",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "8,496",
-      "forks": "1,867",
+      "stars": "8,501",
+      "forks": "1,865",
       "addStars": "16",
       "contributors": [
         {
@@ -449,7 +449,7 @@
       "description": "Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "31,482",
+      "stars": "31,480",
       "forks": "818",
       "addStars": "6",
       "contributors": [
@@ -486,7 +486,7 @@
       "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "153,912",
+      "stars": "153,917",
       "forks": "46,119",
       "addStars": "24",
       "contributors": [
@@ -524,7 +524,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": "29,051",
-      "forks": "8,533",
+      "forks": "8,532",
       "addStars": "0",
       "contributors": [
         {
@@ -560,8 +560,8 @@
       "description": "安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "5,378",
-      "forks": "1,553",
+      "stars": "5,376",
+      "forks": "1,554",
       "addStars": "9",
       "contributors": [
         {
@@ -597,7 +597,7 @@
       "description": "🔎 Open source distributed and RESTful search engine.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "12,457",
+      "stars": "12,459",
       "forks": "2,423",
       "addStars": "10",
       "contributors": [
@@ -629,7 +629,7 @@
       "description": "强大易用的开源建站工具。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "38,008",
+      "stars": "38,013",
       "forks": "10,218",
       "addStars": "6",
       "contributors": [
@@ -661,7 +661,7 @@
       "description": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "12,023",
+      "stars": "12,021",
       "forks": "501",
       "addStars": "9",
       "contributors": [
@@ -767,7 +767,7 @@
       "description": "An Application Framework for AI Engineering",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "7,986",
+      "stars": "7,989",
       "forks": "2,315",
       "addStars": "14",
       "contributors": [
@@ -804,8 +804,8 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "22,423",
-      "forks": "5,510",
+      "stars": "22,433",
+      "forks": "5,513",
       "addStars": "34",
       "contributors": [
         {

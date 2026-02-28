@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Weekly Trending",
   "description": "Weekly Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 28 Feb 2026 03:12:05 GMT",
+  "pubDate": "Sat, 28 Feb 2026 07:32:08 GMT",
   "items": [
     {
       "title": "stevearc/oil.nvim",
@@ -42,7 +42,7 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "13,396",
+      "stars": "13,399",
       "forks": "2,417",
       "addStars": "34",
       "contributors": [
@@ -128,7 +128,7 @@
       "description": "Improved fzf.vim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,096",
+      "stars": "4,098",
       "forks": "237",
       "addStars": "23",
       "contributors": [
@@ -165,7 +165,7 @@
       "description": "Plugin to improve viewing Markdown files in Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,188",
+      "stars": "4,190",
       "forks": "104",
       "addStars": "43",
       "contributors": [
@@ -202,7 +202,7 @@
       "description": "neovim frontend for opencode - a terminal-based AI coding agent",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "601",
+      "stars": "603",
       "forks": "45",
       "addStars": "52",
       "contributors": [
@@ -271,7 +271,7 @@
       "description": "My personal dotfiles",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "7,047",
+      "stars": "7,050",
       "forks": "1,166",
       "addStars": "22",
       "contributors": [
@@ -377,8 +377,8 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "42,845",
-      "forks": "5,085",
+      "stars": "42,847",
+      "forks": "5,086",
       "addStars": "44",
       "contributors": [
         {
@@ -451,7 +451,7 @@
       "description": "🧩 Claude Code Neovim IDE Extension",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,128",
+      "stars": "2,132",
       "forks": "147",
       "addStars": "63",
       "contributors": [
@@ -480,10 +480,10 @@
     {
       "title": "esmuellert/codediff.nvim",
       "url": "https://github.com/esmuellert/codediff.nvim",
-      "description": "A Neovim plugin that provides VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.",
+      "description": "A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,140",
+      "stars": "1,141",
       "forks": "33",
       "addStars": "23",
       "contributors": [
@@ -569,8 +569,8 @@
       "description": "万象拼音：基于rime生态打造，全方位对标大厂体验，内置大语料与AI辅助炼制的向量词库和语法模型，全带调编码词库，让输入行云流水，开箱即用。更有PRO版带来辅助码创新体验，支持7种辅助码。集成超级注释、候选反查筛选、快符、手动排序、tips等特色扩展功能，让你保证大厂体验的同时，深度享受 Rime 超强自定义的便利。详见README。Q群：11033572 / 11631066",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "2,925",
-      "forks": "115",
+      "stars": "2,927",
+      "forks": "114",
       "addStars": "65",
       "contributors": [
         {
@@ -633,7 +633,7 @@
       "description": "A file explorer tree for neovim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "8,398",
+      "stars": "8,400",
       "forks": "639",
       "addStars": "26",
       "contributors": [
@@ -665,8 +665,8 @@
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "29,600",
-      "forks": "44,624",
+      "stars": "29,604",
+      "forks": "44,625",
       "addStars": "115",
       "contributors": [
         {
@@ -702,7 +702,7 @@
       "description": "The Cloud-Native API Gateway and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "16,254",
+      "stars": "16,255",
       "forks": "2,796",
       "addStars": "26",
       "contributors": [

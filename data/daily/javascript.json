@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 01 Mar 2026 03:43:44 GMT",
+  "pubDate": "Sun, 01 Mar 2026 07:35:55 GMT",
   "items": [
     {
       "title": "Wei-Shaw/claude-relay-service",
@@ -10,8 +10,8 @@
       "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,704",
-      "forks": "1,387",
+      "stars": "8,723",
+      "forks": "1,391",
       "addStars": "171",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,432",
-      "forks": "900",
+      "stars": "8,461",
+      "forks": "903",
       "addStars": "191",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "39,737",
+      "stars": "39,739",
       "forks": "3,522",
       "addStars": "31",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "The official repository of Mozilla's Firefox web browser.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,377",
-      "forks": "919",
+      "stars": "11,378",
+      "forks": "920",
       "addStars": "12",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,243",
+      "stars": "1,245",
       "forks": "50",
       "addStars": "17",
       "contributors": [
@@ -217,8 +217,8 @@
       "description": "本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,713",
-      "forks": "2,972",
+      "stars": "8,715",
+      "forks": "2,974",
       "addStars": "16",
       "contributors": [
         {
@@ -254,7 +254,7 @@
       "description": "Web Extension for saving a faithful copy of a complete web page in a single HTML file",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "20,446",
+      "stars": "20,449",
       "forks": "1,290",
       "addStars": "21",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "36,794",
+      "stars": "36,796",
       "forks": "2,878",
       "addStars": "16",
       "contributors": [
@@ -323,8 +323,8 @@
       "description": "One Worker, All Subscriptions",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,252",
-      "forks": "7,977",
+      "stars": "4,255",
+      "forks": "7,980",
       "addStars": "12",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,617",
-      "forks": "1,974",
+      "stars": "21,634",
+      "forks": "1,977",
       "addStars": "143",
       "contributors": [
         {
@@ -397,7 +397,7 @@
       "description": "Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "360",
+      "stars": "361",
       "forks": "41",
       "addStars": "1",
       "contributors": [
@@ -434,7 +434,7 @@
       "description": "vibe coding from 0 to 1 ｜ vibecoding 零基础教程 ｜ 产品原型、AI 能力集成、前后端开发、多平台应用开发教程",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "2,892",
+      "stars": "2,901",
       "forks": "250",
       "addStars": "22",
       "contributors": [

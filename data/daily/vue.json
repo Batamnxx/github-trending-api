@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Daily Trending",
   "description": "Daily Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 01 Mar 2026 03:43:44 GMT",
+  "pubDate": "Sun, 01 Mar 2026 07:35:55 GMT",
   "items": [
     {
       "title": "dreamhunter2333/cloudflare_temp_email",
@@ -10,8 +10,8 @@
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,238",
-      "forks": "3,164",
+      "stars": "6,240",
+      "forks": "3,165",
       "addStars": "23",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "19,816",
-      "forks": "3,689",
+      "forks": "3,688",
       "addStars": "9",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "31,625",
-      "forks": "8,606",
+      "stars": "31,626",
+      "forks": "8,607",
       "addStars": "14",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,921",
+      "stars": "2,922",
       "forks": "380",
       "addStars": "6",
       "contributors": [
@@ -138,7 +138,7 @@
       "description": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "4,908",
+      "stars": "4,912",
       "forks": "947",
       "addStars": "7",
       "contributors": [
@@ -175,7 +175,7 @@
       "description": "RUXAILAB - Usability Testing and Heuristics Evaluation Conceptual learning",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "149",
+      "stars": "150",
       "forks": "298",
       "addStars": "0",
       "contributors": [
@@ -213,7 +213,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "11,849",
-      "forks": "2,018",
+      "forks": "2,019",
       "addStars": "9",
       "contributors": [
         {
@@ -244,7 +244,7 @@
       "description": "Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "12,560",
+      "stars": "12,561",
       "forks": "617",
       "addStars": "6",
       "contributors": [
@@ -425,7 +425,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "6,422",
-      "forks": "2,427",
+      "forks": "2,426",
       "addStars": "3",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "14,354",
-      "forks": "1,187",
+      "stars": "14,358",
+      "forks": "1,186",
       "addStars": "12",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "90,284",
-      "forks": "30,614",
+      "stars": "90,282",
+      "forks": "30,613",
       "addStars": "5",
       "contributors": [
         {

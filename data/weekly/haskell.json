@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 01 Mar 2026 03:43:44 GMT",
+  "pubDate": "Sun, 01 Mar 2026 07:35:55 GMT",
   "items": [
     {
       "title": "PostgREST/postgrest",
@@ -153,7 +153,7 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "10,547",
+      "stars": "10,548",
       "forks": "569",
       "addStars": "66",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "42,295",
+      "stars": "42,301",
       "forks": "3,775",
       "addStars": "123",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Mon, 02 Mar 2026 14:00:26 GMT</pubDate>
+    <pubDate>Mon, 02 Mar 2026 19:40:00 GMT</pubDate>
     <item>
       <title>TechHutTV/homelab</title>
       <link>https://github.com/TechHutTV/homelab</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/TechHutTV/homelab</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>2,589</stars>
+      <stars>2,590</stars>
       <forks>272</forks>
       <addStars>4</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/mikeroyal/Self-Hosting-Guide</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>18,803</stars>
+      <stars>18,807</stars>
       <forks>925</forks>
       <addStars>17</addStars>
       <contributors>
@@ -148,8 +148,8 @@
       <guid>https://github.com/Vinpink2/JUNE-X</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>550</stars>
-      <forks>1,514</forks>
+      <stars>551</stars>
+      <forks>1,516</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -181,7 +181,7 @@
       <guid>https://github.com/autowarefoundation/autoware</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>11,139</stars>
+      <stars>11,140</stars>
       <forks>3,519</forks>
       <addStars>4</addStars>
       <contributors>
@@ -237,7 +237,7 @@
       <guid>https://github.com/piyushsachdeva/CKA-2024</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>982</stars>
+      <stars>983</stars>
       <forks>1,725</forks>
       <addStars>0</addStars>
       <contributors>
@@ -275,7 +275,7 @@
       <guid>https://github.com/compose-spec/compose-spec</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>2,623</stars>
+      <stars>2,624</stars>
       <forks>777</forks>
       <addStars>1</addStars>
       <contributors>

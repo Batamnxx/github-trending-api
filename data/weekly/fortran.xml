@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Mon, 02 Mar 2026 14:00:26 GMT</pubDate>
+    <pubDate>Mon, 02 Mar 2026 19:40:00 GMT</pubDate>
     <item>
       <title>GEOS-ESM/MAPL</title>
       <link>https://github.com/GEOS-ESM/MAPL</link>
@@ -164,7 +164,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>1,586</stars>
-      <forks>815</forks>
+      <forks>816</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>

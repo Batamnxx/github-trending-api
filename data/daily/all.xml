@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 03 Mar 2026 14:00:53 GMT</pubDate>
+    <pubDate>Tue, 03 Mar 2026 19:41:04 GMT</pubDate>
     <item>
       <title>ruvnet/RuView</title>
       <link>https://github.com/ruvnet/RuView</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>24,490</stars>
-      <forks>2,991</forks>
+      <stars>24,982</stars>
+      <forks>3,079</forks>
       <addStars>4,557</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/K-Dense-AI/claude-scientific-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,570</stars>
-      <forks>1,285</forks>
+      <stars>11,768</stars>
+      <forks>1,303</forks>
       <addStars>790</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/moeru-ai/airi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,937</stars>
-      <forks>2,052</forks>
+      <stars>22,070</stars>
+      <forks>2,066</forks>
       <addStars>842</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/CodebuffAI/codebuff</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,141</stars>
-      <forks>412</forks>
+      <stars>3,216</stars>
+      <forks>418</forks>
       <addStars>118</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/agentscope-ai/agentscope</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,880</stars>
-      <forks>1,518</forks>
+      <stars>16,944</stars>
+      <forks>1,521</forks>
       <addStars>83</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/agentscope-ai/ReMe</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,170</stars>
-      <forks>111</forks>
+      <stars>1,220</stars>
+      <forks>115</forks>
       <addStars>27</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/LMCache/LMCache</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,300</stars>
-      <forks>955</forks>
+      <stars>7,351</stars>
+      <forks>957</forks>
       <addStars>140</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/superset-sh/superset</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,874</stars>
-      <forks>257</forks>
+      <stars>3,983</stars>
+      <forks>262</forks>
       <addStars>637</addStars>
       <contributors>
         <contributor>
@@ -310,8 +310,8 @@
       <guid>https://github.com/aquasecurity/trivy</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>374</stars>
-      <forks>31</forks>
+      <stars>453</stars>
+      <forks>39</forks>
       <addStars>145</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/alibaba/OpenSandbox</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,031</stars>
-      <forks>361</forks>
+      <stars>5,239</stars>
+      <forks>378</forks>
       <addStars>1,097</addStars>
       <contributors>
         <contributor>

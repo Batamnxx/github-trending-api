@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 03 Mar 2026 03:36:29 GMT</pubDate>
+    <pubDate>Tue, 03 Mar 2026 07:46:36 GMT</pubDate>
     <item>
       <title>openclaw/openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>248,964</stars>
-      <forks>48,027</forks>
+      <stars>250,601</stars>
+      <forks>48,242</forks>
       <addStars>100,507</addStars>
       <contributors>
         <contributor>
@@ -36,9 +36,9 @@
           <url>https://github.com/thewilloftheshadow</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/781889?s=40&amp;v=4</avatar>
+          <name>Takhoffman</name>
+          <url>https://github.com/Takhoffman</url>
         </contributor>
       </contributors>
     </item>
@@ -49,8 +49,8 @@
       <guid>https://github.com/KeygraphHQ/shannon</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,197</stars>
-      <forks>2,573</forks>
+      <stars>26,268</stars>
+      <forks>2,592</forks>
       <addStars>21,987</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,049</stars>
-      <forks>1,977</forks>
+      <stars>19,153</stars>
+      <forks>1,988</forks>
       <addStars>13,545</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/Jeffallan/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,230</stars>
-      <forks>256</forks>
+      <stars>4,268</stars>
+      <forks>259</forks>
       <addStars>3,934</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/openai/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,471</stars>
-      <forks>586</forks>
+      <stars>10,498</stars>
+      <forks>587</forks>
       <addStars>8,148</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>22,532</stars>
-      <forks>2,679</forks>
+      <stars>23,413</stars>
+      <forks>2,804</forks>
       <addStars>14,683</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/huggingface/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,927</stars>
-      <forks>469</forks>
+      <stars>7,954</stars>
+      <forks>471</forks>
       <addStars>6,741</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,358</stars>
-      <forks>2,199</forks>
+      <stars>32,406</stars>
+      <forks>2,201</forks>
       <addStars>15,208</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>68,321</stars>
-      <forks>5,241</forks>
+      <stars>68,538</stars>
+      <forks>5,256</forks>
       <addStars>25,785</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/steipete/gogcli</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>5,321</stars>
-      <forks>405</forks>
+      <stars>5,334</stars>
+      <forks>411</forks>
       <addStars>4,014</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/tobi/qmd</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,634</stars>
-      <forks>644</forks>
+      <stars>11,748</stars>
+      <forks>652</forks>
       <addStars>5,871</addStars>
       <contributors>
         <contributor>
@@ -414,8 +414,8 @@
       <guid>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
       <language/>
       <languageColor/>
-      <stars>127,317</stars>
-      <forks>32,550</forks>
+      <stars>127,392</stars>
+      <forks>32,560</forks>
       <addStars>14,891</addStars>
       <contributors>
         <contributor>
@@ -452,8 +452,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,553</stars>
-      <forks>2,795</forks>
+      <stars>23,649</stars>
+      <forks>2,809</forks>
       <addStars>3,897</addStars>
       <contributors>
         <contributor>
@@ -490,8 +490,8 @@
       <guid>https://github.com/gsd-build/get-shit-done</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>23,492</stars>
-      <forks>2,023</forks>
+      <stars>23,561</stars>
+      <forks>2,027</forks>
       <addStars>12,593</addStars>
       <contributors>
         <contributor>
@@ -528,8 +528,8 @@
       <guid>https://github.com/clockworklabs/SpacetimeDB</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>21,997</stars>
-      <forks>811</forks>
+      <stars>22,032</stars>
+      <forks>812</forks>
       <addStars>2,975</addStars>
       <contributors>
         <contributor>
@@ -566,8 +566,8 @@
       <guid>https://github.com/google/langextract</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,209</stars>
-      <forks>2,285</forks>
+      <stars>34,231</stars>
+      <forks>2,287</forks>
       <addStars>10,364</addStars>
       <contributors>
         <contributor>

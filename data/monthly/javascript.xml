@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Javascript Languages in GitHub</description>
-    <pubDate>Tue, 03 Mar 2026 03:36:29 GMT</pubDate>
+    <pubDate>Tue, 03 Mar 2026 07:46:36 GMT</pubDate>
     <item>
       <title>gsd-build/get-shit-done</title>
       <link>https://github.com/gsd-build/get-shit-done</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/gsd-build/get-shit-done</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>23,496</stars>
-      <forks>2,023</forks>
+      <stars>23,566</stars>
+      <forks>2,028</forks>
       <addStars>12,593</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/github/awesome-copilot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,283</stars>
-      <forks>2,671</forks>
+      <stars>23,309</stars>
+      <forks>2,674</forks>
       <addStars>3,426</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/qeeqbox/social-analyzer</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>21,764</stars>
-      <forks>2,037</forks>
+      <stars>21,772</stars>
+      <forks>2,038</forks>
       <addStars>1,111</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/usebruno/bruno</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>41,248</stars>
-      <forks>2,155</forks>
+      <stars>41,259</stars>
+      <forks>2,156</forks>
       <addStars>872</addStars>
       <contributors>
         <contributor>
@@ -143,7 +143,7 @@
       <guid>https://github.com/eslint/eslint</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>27,125</stars>
+      <stars>27,126</stars>
       <forks>4,930</forks>
       <addStars>343</addStars>
       <contributors>
@@ -181,7 +181,7 @@
       <guid>https://github.com/Coding-Solo/godot-mcp</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>2,038</stars>
+      <stars>2,042</stars>
       <forks>237</forks>
       <addStars>399</addStars>
       <contributors>
@@ -219,7 +219,7 @@
       <guid>https://github.com/Stremio/stremio-web</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>10,315</stars>
+      <stars>10,316</stars>
       <forks>1,100</forks>
       <addStars>1,435</addStars>
       <contributors>
@@ -257,7 +257,7 @@
       <guid>https://github.com/drawdb-io/drawdb</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>36,811</stars>
+      <stars>36,814</stars>
       <forks>2,878</forks>
       <addStars>1,123</addStars>
       <contributors>
@@ -290,8 +290,8 @@
       <guid>https://github.com/GitSquared/edex-ui</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>44,356</stars>
-      <forks>3,022</forks>
+      <stars>44,359</stars>
+      <forks>3,024</forks>
       <addStars>391</addStars>
       <contributors>
         <contributor>
@@ -318,7 +318,7 @@
       <guid>https://github.com/badlogic/pi-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>694</stars>
+      <stars>698</stars>
       <forks>69</forks>
       <addStars>397</addStars>
       <contributors>
@@ -341,7 +341,7 @@
       <guid>https://github.com/expo/skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,274</stars>
+      <stars>1,276</stars>
       <forks>50</forks>
       <addStars>428</addStars>
       <contributors>
@@ -380,7 +380,7 @@
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
       <stars>65,995</stars>
-      <forks>9,293</forks>
+      <forks>9,295</forks>
       <addStars>204</addStars>
       <contributors>
         <contributor>
@@ -407,8 +407,8 @@
       <guid>https://github.com/viarotel-org/escrcpy</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>8,705</stars>
-      <forks>614</forks>
+      <stars>8,707</stars>
+      <forks>615</forks>
       <addStars>1,143</addStars>
       <contributors>
         <contributor>
@@ -483,8 +483,8 @@
       <guid>https://github.com/qist/tvbox</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>8,323</stars>
-      <forks>3,070</forks>
+      <stars>8,324</stars>
+      <forks>3,073</forks>
       <addStars>579</addStars>
       <contributors>
         <contributor>
@@ -516,7 +516,7 @@
       <guid>https://github.com/WhiskeySockets/Baileys</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>8,441</stars>
+      <stars>8,442</stars>
       <forks>2,760</forks>
       <addStars>447</addStars>
       <contributors>

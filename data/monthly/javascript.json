@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Monthly Trending",
   "description": "Monthly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Mar 2026 03:36:29 GMT",
+  "pubDate": "Tue, 03 Mar 2026 07:46:36 GMT",
   "items": [
     {
       "title": "gsd-build/get-shit-done",
@@ -10,8 +10,8 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "23,496",
-      "forks": "2,023",
+      "stars": "23,566",
+      "forks": "2,028",
       "addStars": "12,593",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,283",
-      "forks": "2,671",
+      "stars": "23,309",
+      "forks": "2,674",
       "addStars": "3,426",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "21,764",
-      "forks": "2,037",
+      "stars": "21,772",
+      "forks": "2,038",
       "addStars": "1,111",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "41,248",
-      "forks": "2,155",
+      "stars": "41,259",
+      "forks": "2,156",
       "addStars": "872",
       "contributors": [
         {
@@ -138,7 +138,7 @@
       "description": "Find and fix problems in your JavaScript code.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "27,125",
+      "stars": "27,126",
       "forks": "4,930",
       "addStars": "343",
       "contributors": [
@@ -175,7 +175,7 @@
       "description": "MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "2,038",
+      "stars": "2,042",
       "forks": "237",
       "addStars": "399",
       "contributors": [
@@ -212,7 +212,7 @@
       "description": "Stremio - Freedom to Stream",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,315",
+      "stars": "10,316",
       "forks": "1,100",
       "addStars": "1,435",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "36,811",
+      "stars": "36,814",
       "forks": "2,878",
       "addStars": "1,123",
       "contributors": [
@@ -281,8 +281,8 @@
       "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "44,356",
-      "forks": "3,022",
+      "stars": "44,359",
+      "forks": "3,024",
       "addStars": "391",
       "contributors": [
         {
@@ -308,7 +308,7 @@
       "description": "Skills for pi coding agent (compatible with Claude Code and Codex CLI)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "694",
+      "stars": "698",
       "forks": "69",
       "addStars": "397",
       "contributors": [
@@ -330,7 +330,7 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,274",
+      "stars": "1,276",
       "forks": "50",
       "addStars": "428",
       "contributors": [
@@ -368,7 +368,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": "65,995",
-      "forks": "9,293",
+      "forks": "9,295",
       "addStars": "204",
       "contributors": [
         {
@@ -394,8 +394,8 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,705",
-      "forks": "614",
+      "stars": "8,707",
+      "forks": "615",
       "addStars": "1,143",
       "contributors": [
         {
@@ -468,8 +468,8 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,323",
-      "forks": "3,070",
+      "stars": "8,324",
+      "forks": "3,073",
       "addStars": "579",
       "contributors": [
         {
@@ -500,7 +500,7 @@
       "description": "Socket-based TS/JavaScript API for WhatsApp Web",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,441",
+      "stars": "8,442",
       "forks": "2,760",
       "addStars": "447",
       "contributors": [

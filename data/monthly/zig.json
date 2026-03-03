@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Monthly Trending",
   "description": "Monthly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Mar 2026 03:36:29 GMT",
+  "pubDate": "Tue, 03 Mar 2026 07:46:36 GMT",
   "items": [
     {
       "title": "ghostty-org/ghostty",
@@ -10,7 +10,7 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "45,241",
+      "stars": "45,251",
       "forks": "1,783",
       "addStars": "2,624",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,296",
+      "stars": "3,298",
       "forks": "196",
       "addStars": "263",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "42,785",
-      "forks": "3,082",
+      "stars": "42,786",
+      "forks": "3,081",
       "addStars": "266",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,208",
+      "stars": "3,209",
       "forks": "120",
       "addStars": "102",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "A very fast SIMD-first image comparison library (with nodejs API)",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,823",
+      "stars": "2,824",
       "forks": "98",
       "addStars": "73",
       "contributors": [
@@ -195,8 +195,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "87,782",
-      "forks": "4,118",
+      "stars": "87,788",
+      "forks": "4,119",
       "addStars": "943",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "Session persistence for terminal processes",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "915",
+      "stars": "917",
       "forks": "33",
       "addStars": "167",
       "contributors": [
@@ -301,7 +301,7 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "15,276",
+      "stars": "15,277",
       "forks": "770",
       "addStars": "234",
       "contributors": [
@@ -481,7 +481,7 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,584",
+      "stars": "4,585",
       "forks": "415",
       "addStars": "59",
       "contributors": [
@@ -518,7 +518,7 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,726",
+      "stars": "1,727",
       "forks": "90",
       "addStars": "112",
       "contributors": [

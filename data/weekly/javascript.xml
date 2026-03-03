@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Javascript Languages in GitHub</description>
-    <pubDate>Tue, 03 Mar 2026 03:36:29 GMT</pubDate>
+    <pubDate>Tue, 03 Mar 2026 07:46:36 GMT</pubDate>
     <item>
       <title>Wei-Shaw/claude-relay-service</title>
       <link>https://github.com/Wei-Shaw/claude-relay-service</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Wei-Shaw/claude-relay-service</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>8,837</stars>
-      <forks>1,403</forks>
+      <stars>8,854</stars>
+      <forks>1,405</forks>
       <addStars>546</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/gsd-build/get-shit-done</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>23,496</stars>
-      <forks>2,023</forks>
+      <stars>23,566</stars>
+      <forks>2,028</forks>
       <addStars>5,032</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/songquanpeng/one-api</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>30,015</stars>
-      <forks>5,752</forks>
+      <stars>30,024</stars>
+      <forks>5,753</forks>
       <addStars>270</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/github/awesome-copilot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,283</stars>
-      <forks>2,671</forks>
+      <stars>23,309</stars>
+      <forks>2,674</forks>
       <addStars>990</addStars>
       <contributors>
         <contributor>
@@ -143,7 +143,7 @@
       <guid>https://github.com/Stremio/stremio-web</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>10,315</stars>
+      <stars>10,316</stars>
       <forks>1,100</forks>
       <addStars>462</addStars>
       <contributors>
@@ -181,7 +181,7 @@
       <guid>https://github.com/maboloshi/github-chinese</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>21,094</stars>
+      <stars>21,102</stars>
       <forks>1,163</forks>
       <addStars>261</addStars>
       <contributors>
@@ -247,8 +247,8 @@
       <guid>https://github.com/qeeqbox/social-analyzer</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>21,764</stars>
-      <forks>2,037</forks>
+      <stars>21,772</stars>
+      <forks>2,038</forks>
       <addStars>596</addStars>
       <contributors>
         <contributor>
@@ -280,7 +280,7 @@
       <guid>https://github.com/ToolJet/ToolJet</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>37,534</stars>
+      <stars>37,540</stars>
       <forks>4,959</forks>
       <addStars>81</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Nim Languages Weekly Trending",
   "description": "Weekly Trending of Nim Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Mar 2026 19:41:04 GMT",
+  "pubDate": "Wed, 04 Mar 2026 03:28:39 GMT",
   "items": [
     {
       "title": "zedeus/nitter",
@@ -10,9 +10,9 @@
       "description": "Alternative Twitter front-end",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": "12,498",
+      "stars": "12,500",
       "forks": "711",
-      "addStars": "69",
+      "addStars": "72",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9434921?s=40&v=4",
@@ -85,8 +85,8 @@
       "language": "Nim",
       "languageColor": "#ffc200",
       "stars": "17,854",
-      "forks": "1,510",
-      "addStars": "26",
+      "forks": "1,509",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/287816?s=40&v=4",

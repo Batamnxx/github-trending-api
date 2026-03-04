@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Monthly Trending",
   "description": "Monthly Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 04 Mar 2026 03:28:39 GMT",
+  "pubDate": "Wed, 04 Mar 2026 07:40:51 GMT",
   "items": [
     {
       "title": "RockBlack-VPN/ip-address",
@@ -10,7 +10,7 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "1,653",
+      "stars": "1,654",
       "forks": "147",
       "addStars": "136",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "23,338",
+      "stars": "23,343",
       "forks": "1,926",
       "addStars": "1,658",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "2,202",
+      "stars": "2,203",
       "forks": "46",
       "addStars": "59",
       "contributors": [

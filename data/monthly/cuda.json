@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 06 Mar 2026 13:56:08 GMT",
+  "pubDate": "Fri, 06 Mar 2026 19:37:49 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -10,8 +10,8 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "29,033",
-      "forks": "3,409",
+      "stars": "29,034",
+      "forks": "3,410",
       "addStars": "281",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,208",
+      "stars": "3,207",
       "forks": "253",
       "addStars": "91",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "9,021",
-      "forks": "1,110",
+      "stars": "9,022",
+      "forks": "1,111",
       "addStars": "71",
       "contributors": [
         {

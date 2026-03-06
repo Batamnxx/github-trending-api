@@ -3,7 +3,45 @@
     <title>GitHub Qml Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Qml Languages in GitHub</description>
-    <pubDate>Fri, 06 Mar 2026 03:29:46 GMT</pubDate>
+    <pubDate>Fri, 06 Mar 2026 07:41:16 GMT</pubDate>
+    <item>
+      <title>xZepyx/nucleus-shell</title>
+      <link>https://github.com/xZepyx/nucleus-shell</link>
+      <description>A modular desktop shell written with qml, c++ and javascript</description>
+      <guid>https://github.com/xZepyx/nucleus-shell</guid>
+      <language>QML</language>
+      <languageColor>#44a51c</languageColor>
+      <stars>627</stars>
+      <forks>14</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/101286617?s=40&amp;v=4</avatar>
+          <name>xZepyx</name>
+          <url>https://github.com/xZepyx</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/88611197?s=40&amp;v=4</avatar>
+          <name>TanujairamV</name>
+          <url>https://github.com/TanujairamV</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/95174481?s=40&amp;v=4</avatar>
+          <name>unf6</name>
+          <url>https://github.com/unf6</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99082173?s=40&amp;v=4</avatar>
+          <name>SavingFrame</name>
+          <url>https://github.com/SavingFrame</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/138893323?s=40&amp;v=4</avatar>
+          <name>PcACy</name>
+          <url>https://github.com/PcACy</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>end-4/dots-hyprland</title>
       <link>https://github.com/end-4/dots-hyprland</link>
@@ -11,8 +49,8 @@
       <guid>https://github.com/end-4/dots-hyprland</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>13,108</stars>
-      <forks>1,033</forks>
+      <stars>13,110</stars>
+      <forks>1,032</forks>
       <addStars>20</addStars>
       <contributors>
         <contributor>
@@ -49,7 +87,7 @@
       <guid>https://github.com/caelestia-dots/shell</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>7,917</stars>
+      <stars>7,918</stars>
       <forks>515</forks>
       <addStars>23</addStars>
       <contributors>
@@ -120,7 +158,7 @@
       <guid>https://github.com/Axenide/Ambxst</guid>
       <language>QML</language>
       <languageColor>#44a51c</languageColor>
-      <stars>629</stars>
+      <stars>631</stars>
       <forks>34</forks>
       <addStars>5</addStars>
       <contributors>

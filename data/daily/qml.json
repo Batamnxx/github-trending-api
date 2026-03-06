@@ -2,16 +2,53 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 06 Mar 2026 03:29:46 GMT",
+  "pubDate": "Fri, 06 Mar 2026 07:41:16 GMT",
   "items": [
+    {
+      "title": "xZepyx/nucleus-shell",
+      "url": "https://github.com/xZepyx/nucleus-shell",
+      "description": "A modular desktop shell written with qml, c++ and javascript",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "627",
+      "forks": "14",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101286617?s=40&v=4",
+          "name": "xZepyx",
+          "url": "https://github.com/xZepyx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88611197?s=40&v=4",
+          "name": "TanujairamV",
+          "url": "https://github.com/TanujairamV"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95174481?s=40&v=4",
+          "name": "unf6",
+          "url": "https://github.com/unf6"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99082173?s=40&v=4",
+          "name": "SavingFrame",
+          "url": "https://github.com/SavingFrame"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/138893323?s=40&v=4",
+          "name": "PcACy",
+          "url": "https://github.com/PcACy"
+        }
+      ]
+    },
     {
       "title": "end-4/dots-hyprland",
       "url": "https://github.com/end-4/dots-hyprland",
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "13,108",
-      "forks": "1,033",
+      "stars": "13,110",
+      "forks": "1,032",
       "addStars": "20",
       "contributors": [
         {
@@ -47,7 +84,7 @@
       "description": "‼️ No waybar here ‼️",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "7,917",
+      "stars": "7,918",
       "forks": "515",
       "addStars": "23",
       "contributors": [
@@ -116,7 +153,7 @@
       "description": "An Axtremely customizable shell.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "629",
+      "stars": "631",
       "forks": "34",
       "addStars": "5",
       "contributors": [

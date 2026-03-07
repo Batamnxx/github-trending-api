@@ -3,7 +3,7 @@
     <title>GitHub Vim-script Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Vim-script Languages in GitHub</description>
-    <pubDate>Sat, 07 Mar 2026 03:20:19 GMT</pubDate>
+    <pubDate>Sat, 07 Mar 2026 07:33:49 GMT</pubDate>
     <item>
       <title>fatih/vim-go</title>
       <link>https://github.com/fatih/vim-go</link>
@@ -252,7 +252,7 @@
       <guid>https://github.com/morhetz/gruvbox</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>15,238</stars>
+      <stars>15,239</stars>
       <forks>1,125</forks>
       <addStars>6</addStars>
       <contributors>
@@ -290,7 +290,7 @@
       <guid>https://github.com/vim/vim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>39,967</stars>
+      <stars>39,969</stars>
       <forks>5,993</forks>
       <addStars>6</addStars>
       <contributors>
@@ -366,7 +366,7 @@
       <guid>https://github.com/neovim/neovim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>96,999</stars>
+      <stars>97,004</stars>
       <forks>6,627</forks>
       <addStars>36</addStars>
       <contributors>

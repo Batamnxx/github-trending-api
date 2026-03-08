@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Monthly Trending",
   "description": "Monthly Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Mar 2026 03:32:59 GMT",
+  "pubDate": "Sun, 08 Mar 2026 07:34:39 GMT",
   "items": [
     {
       "title": "geode-sdk/ios-launcher",
@@ -48,7 +48,7 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": "17,130",
-      "forks": "1,319",
+      "forks": "1,320",
       "addStars": "236",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "A software update framework for macOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "8,671",
+      "stars": "8,672",
       "forks": "1,098",
       "addStars": "125",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "A GDB frontend for Lïnux.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "3,127",
+      "stars": "3,128",
       "forks": "87",
       "addStars": "168",
       "contributors": [
@@ -302,7 +302,7 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": "571",
-      "forks": "2,070",
+      "forks": "2,071",
       "addStars": "63",
       "contributors": [
         {
@@ -693,7 +693,7 @@
       "description": "A full featured bootstrap for iOS 15.0-17.0 A8-A17Pro & M1+M2 using roothide",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "1,589",
+      "stars": "1,588",
       "forks": "799",
       "addStars": "67",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Monthly Trending",
   "description": "Monthly Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Mar 2026 03:32:59 GMT",
+  "pubDate": "Sun, 08 Mar 2026 07:34:39 GMT",
   "items": [
     {
       "title": "phoenixframework/phoenix",
@@ -79,8 +79,8 @@
       "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "1,441",
-      "forks": "74",
+      "stars": "1,465",
+      "forks": "76",
       "addStars": "537",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "26,466",
+      "stars": "26,467",
       "forks": "3,481",
       "addStars": "220",
       "contributors": [
@@ -148,8 +148,8 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "7,706",
-      "forks": "907",
+      "stars": "7,707",
+      "forks": "908",
       "addStars": "108",
       "contributors": [
         {
@@ -281,7 +281,7 @@
       "description": "Req plugin to query AI providers",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "451",
+      "stars": "452",
       "forks": "112",
       "addStars": "75",
       "contributors": [
@@ -372,7 +372,7 @@
       "description": "Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "24,353",
+      "stars": "24,354",
       "forks": "1,357",
       "addStars": "198",
       "contributors": [
@@ -506,7 +506,7 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": "8,450",
-      "forks": "406",
+      "forks": "407",
       "addStars": "67",
       "contributors": [
         {

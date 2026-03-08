@@ -3,7 +3,7 @@
     <title>GitHub Ocaml Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Ocaml Languages in GitHub</description>
-    <pubDate>Sun, 08 Mar 2026 03:32:59 GMT</pubDate>
+    <pubDate>Sun, 08 Mar 2026 07:34:39 GMT</pubDate>
     <item>
       <title>ocaml/ocaml</title>
       <link>https://github.com/ocaml/ocaml</link>
@@ -120,7 +120,7 @@
       <guid>https://github.com/rocq-prover/rocq</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>5,369</stars>
+      <stars>5,368</stars>
       <forks>720</forks>
       <addStars>7</addStars>
       <contributors>

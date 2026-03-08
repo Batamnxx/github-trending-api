@@ -2,7 +2,7 @@
   "title": "GitHub Html Languages Daily Trending",
   "description": "Daily Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Mar 2026 03:32:59 GMT",
+  "pubDate": "Sun, 08 Mar 2026 07:34:39 GMT",
   "items": [
     {
       "title": "chiphuyen/machine-learning-systems-design",
@@ -10,7 +10,7 @@
       "description": "A booklet on machine learning systems design with exercises. NOT the repo for the book \"Designing Machine Learning Systems\", which is `dmls-book`",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "10,236",
+      "stars": "10,240",
       "forks": "1,588",
       "addStars": "95",
       "contributors": [
@@ -38,7 +38,7 @@
       "language": "HTML",
       "languageColor": "#e34c26",
       "stars": "10,031",
-      "forks": "3,118",
+      "forks": "3,119",
       "addStars": "12",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "9,332",
-      "forks": "777",
+      "stars": "9,336",
+      "forks": "778",
       "addStars": "21",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "AI-Powered Python & Python-Powered AI (Python-Use)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "3,847",
+      "stars": "3,856",
       "forks": "378",
       "addStars": "115",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "Defines a common protocol for language servers.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "12,628",
+      "stars": "12,629",
       "forks": "935",
       "addStars": "6",
       "contributors": [
@@ -249,8 +249,8 @@
       "description": "A Clash Client For OpenWrt",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "24,575",
-      "forks": "3,776",
+      "stars": "24,580",
+      "forks": "3,775",
       "addStars": "28",
       "contributors": [
         {
@@ -281,7 +281,7 @@
       "description": "主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "12,895",
+      "stars": "12,903",
       "forks": "1,285",
       "addStars": "45",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "Social engineering tool [Access Webcam & Microphone & Location Finder] With {Py,JS,PHP}",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "4,848",
+      "stars": "4,847",
       "forks": "1,744",
       "addStars": "2",
       "contributors": [

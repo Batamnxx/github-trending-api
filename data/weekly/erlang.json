@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Weekly Trending",
   "description": "Weekly Trending of Erlang Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Mar 2026 03:32:59 GMT",
+  "pubDate": "Sun, 08 Mar 2026 07:34:39 GMT",
   "items": [
     {
       "title": "emqx/emqx",
@@ -10,7 +10,7 @@
       "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "15,998",
+      "stars": "15,999",
       "forks": "2,459",
       "addStars": "34",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Small, fast, modern HTTP server for Erlang/OTP.",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "7,480",
+      "stars": "7,481",
       "forks": "1,171",
       "addStars": "1",
       "contributors": [
@@ -381,7 +381,7 @@
       "language": "Erlang",
       "languageColor": "#B83998",
       "stars": "12,058",
-      "forks": "3,059",
+      "forks": "3,058",
       "addStars": "23",
       "contributors": [
         {

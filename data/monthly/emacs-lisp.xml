@@ -3,7 +3,7 @@
     <title>GitHub Emacs-lisp Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Emacs-lisp Languages in GitHub</description>
-    <pubDate>Mon, 09 Mar 2026 14:05:40 GMT</pubDate>
+    <pubDate>Mon, 09 Mar 2026 19:42:17 GMT</pubDate>
     <item>
       <title>google-coral/coralnpu</title>
       <link>https://github.com/google-coral/coralnpu</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/xenodium/agent-shell</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>800</stars>
-      <forks>110</forks>
+      <stars>802</stars>
+      <forks>111</forks>
       <addStars>137</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/karthink/gptel</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>3,233</stars>
+      <stars>3,234</stars>
       <forks>364</forks>
       <addStars>77</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/manzaltu/claude-code-ide.el</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>1,390</stars>
+      <stars>1,391</stars>
       <forks>83</forks>
       <addStars>66</addStars>
       <contributors>
@@ -272,11 +272,6 @@
       <addStars>5</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9475?s=40&amp;v=4</avatar>
-          <name>ewilderj</name>
-          <url>https://github.com/ewilderj</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8107219?s=40&amp;v=4</avatar>
           <name>xenodium</name>
           <url>https://github.com/xenodium</url>
@@ -291,6 +286,16 @@
           <name>ultronozm</name>
           <url>https://github.com/ultronozm</url>
         </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9475?s=40&amp;v=4</avatar>
+          <name>ewilderj</name>
+          <url>https://github.com/ewilderj</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3392199?s=40&amp;v=4</avatar>
+          <name>cmacrae</name>
+          <url>https://github.com/cmacrae</url>
+        </contributor>
       </contributors>
     </item>
     <item>
@@ -300,7 +305,7 @@
       <guid>https://github.com/oantolin/embark</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>1,152</stars>
+      <stars>1,153</stars>
       <forks>66</forks>
       <addStars>15</addStars>
       <contributors>
@@ -339,7 +344,7 @@
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
       <stars>995</stars>
-      <forks>177</forks>
+      <forks>178</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -643,7 +648,7 @@
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
       <stars>519</stars>
-      <forks>60</forks>
+      <forks>61</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 09 Mar 2026 14:05:40 GMT",
+  "pubDate": "Mon, 09 Mar 2026 19:42:17 GMT",
   "items": [
     {
       "title": "moeru-ai/airi",
@@ -10,8 +10,8 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,661",
-      "forks": "3,097",
+      "stars": "31,739",
+      "forks": "3,111",
       "addStars": "11,456",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "32,613",
-      "forks": "4,377",
+      "stars": "33,056",
+      "forks": "4,449",
       "addStars": "15,043",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "34,517",
-      "forks": "5,803",
+      "stars": "34,667",
+      "forks": "5,826",
       "addStars": "14,741",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,106",
+      "stars": "7,168",
       "forks": "524",
       "addStars": "3,959",
       "contributors": [
@@ -158,8 +158,8 @@
       "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "15,066",
-      "forks": "3,943",
+      "stars": "15,198",
+      "forks": "3,955",
       "addStars": "1,062",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Generate code from the terminal!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,144",
+      "stars": "4,149",
       "forks": "474",
       "addStars": "1,169",
       "contributors": [
@@ -222,8 +222,8 @@
       "description": "Unofficial Python API for Google NotebookLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,012",
-      "forks": "501",
+      "stars": "4,120",
+      "forks": "509",
       "addStars": "1,225",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,333",
-      "forks": "976",
+      "stars": "10,402",
+      "forks": "1,084",
       "addStars": "2,320",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,407",
-      "forks": "4,457",
+      "stars": "24,481",
+      "forks": "4,465",
       "addStars": "3,901",
       "contributors": [
         {

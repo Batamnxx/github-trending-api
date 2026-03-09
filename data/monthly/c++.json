@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Monthly Trending",
   "description": "Monthly Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 08 Mar 2026 19:28:14 GMT",
+  "pubDate": "Mon, 09 Mar 2026 03:37:32 GMT",
   "items": [
     {
       "title": "ggml-org/llama.cpp",
@@ -10,9 +10,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "97,188",
-      "forks": "15,322",
-      "addStars": "2,791",
+      "stars": "97,223",
+      "forks": "15,325",
+      "addStars": "2,838",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Truly independent web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "61,125",
-      "forks": "2,849",
-      "addStars": "2,874",
+      "stars": "61,137",
+      "forks": "2,851",
+      "addStars": "2,882",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5954907?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "The ultimate Geometry Dash modding framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,959",
+      "stars": "1,962",
       "forks": "353",
-      "addStars": "369",
+      "addStars": "371",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45172705?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Scripting platform, modding framework and VR support for all RE Engine games",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,634",
+      "stars": "4,639",
       "forks": "491",
-      "addStars": "273",
+      "addStars": "279",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2909949?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "10,411",
+      "stars": "10,413",
       "forks": "743",
-      "addStars": "544",
+      "addStars": "547",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23482029?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,867",
+      "stars": "2,868",
       "forks": "229",
-      "addStars": "338",
+      "addStars": "329",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/72315006?s=40&v=4",
@@ -232,8 +232,8 @@
       "description": "Mumble is an open-source, low-latency, high quality voice chat software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,814",
-      "forks": "1,295",
+      "stars": "7,816",
+      "forks": "1,294",
       "addStars": "252",
       "contributors": [
         {
@@ -269,9 +269,9 @@
       "description": "Production ready toolkit to run AI locally",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "10,202",
-      "forks": "301",
-      "addStars": "3,937",
+      "stars": "10,205",
+      "forks": "302",
+      "addStars": "3,794",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29481009?s=40&v=4",
@@ -306,9 +306,9 @@
       "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "13,466",
-      "forks": "2,443",
-      "addStars": "186",
+      "stars": "13,476",
+      "forks": "2,444",
+      "addStars": "189",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/130929?s=40&v=4",
@@ -343,9 +343,9 @@
       "description": "Tensor library for machine learning",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "14,198",
-      "forks": "1,508",
-      "addStars": "299",
+      "stars": "14,199",
+      "forks": "1,507",
+      "addStars": "300",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&v=4",
@@ -380,9 +380,9 @@
       "description": "LichtFeld Studio: Where reality and the digital world blend.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,460",
+      "stars": "2,464",
       "forks": "259",
-      "addStars": "265",
+      "addStars": "271",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33876434?s=40&v=4",
@@ -412,9 +412,9 @@
       "description": "Android real-time display control software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "28,739",
+      "stars": "28,741",
       "forks": "3,465",
-      "addStars": "817",
+      "addStars": "813",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18702692?s=40&v=4",
@@ -449,9 +449,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "8,748",
-      "forks": "492",
-      "addStars": "8,411",
+      "stars": "8,760",
+      "forks": "493",
+      "addStars": "8,424",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38692278?s=40&v=4",
@@ -486,9 +486,9 @@
       "description": "Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,062",
-      "forks": "114",
-      "addStars": "854",
+      "stars": "1,064",
+      "forks": "115",
+      "addStars": "859",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65677243?s=40&v=4",
@@ -523,9 +523,9 @@
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "102,075",
+      "stars": "102,080",
       "forks": "9,112",
-      "addStars": "477",
+      "addStars": "474",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/189190?s=40&v=4",
@@ -560,9 +560,9 @@
       "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,495",
+      "stars": "25,496",
       "forks": "1,685",
-      "addStars": "189",
+      "addStars": "187",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11687500?s=40&v=4",
@@ -597,9 +597,9 @@
       "description": "Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "6,672",
+      "stars": "6,673",
       "forks": "1,003",
-      "addStars": "314",
+      "addStars": "315",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4225542?s=40&v=4",
@@ -634,9 +634,9 @@
       "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "12,808",
+      "stars": "12,811",
       "forks": "1,829",
-      "addStars": "347",
+      "addStars": "343",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/103989404?s=40&v=4",
@@ -671,9 +671,9 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "12,230",
+      "stars": "12,237",
       "forks": "1,367",
-      "addStars": "293",
+      "addStars": "300",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
@@ -708,9 +708,9 @@
       "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "19,819",
-      "forks": "2,125",
-      "addStars": "383",
+      "stars": "19,822",
+      "forks": "2,126",
+      "addStars": "376",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1240896?s=40&v=4",

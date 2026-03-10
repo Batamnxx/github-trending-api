@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Mar 2026 14:01:18 GMT",
+  "pubDate": "Tue, 10 Mar 2026 19:40:34 GMT",
   "items": [
     {
       "title": "lightpanda-io/browser",
@@ -10,9 +10,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "12,078",
+      "stars": "12,080",
       "forks": "370",
-      "addStars": "32",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "45,946",
-      "forks": "1,849",
-      "addStars": "117",
+      "stars": "45,992",
+      "forks": "1,850",
+      "addStars": "163",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "88,056",
-      "forks": "4,159",
-      "addStars": "62",
+      "stars": "88,058",
+      "forks": "4,162",
+      "addStars": "38",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/709451?s=40&v=4",
@@ -116,7 +116,7 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "42,902",
+      "stars": "42,906",
       "forks": "3,081",
       "addStars": "72",
       "contributors": [
@@ -155,7 +155,7 @@
       "languageColor": "#ec915c",
       "stars": "15,315",
       "forks": "772",
-      "addStars": "9",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
@@ -190,7 +190,7 @@
       "description": "zig game engine & graphics toolkit",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,638",
+      "stars": "4,640",
       "forks": "203",
       "addStars": "2",
       "contributors": [
@@ -227,9 +227,9 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,609",
+      "stars": "4,610",
       "forks": "418",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19954306?s=40&v=4",
@@ -266,7 +266,7 @@
       "languageColor": "#ec915c",
       "stars": "1,260",
       "forks": "103",
-      "addStars": "5",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3290996?s=40&v=4",

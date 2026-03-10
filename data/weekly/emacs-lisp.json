@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Weekly Trending",
   "description": "Weekly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 10 Mar 2026 14:01:18 GMT",
+  "pubDate": "Tue, 10 Mar 2026 19:40:34 GMT",
   "items": [
     {
       "title": "google-coral/coralnpu",
@@ -48,7 +48,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": "809",
-      "forks": "114",
+      "forks": "115",
       "addStars": "40",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "3,236",
+      "stars": "3,238",
       "forks": "364",
       "addStars": "21",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "Claude Code IDE integration for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "1,393",
+      "stars": "1,395",
       "forks": "83",
       "addStars": "11",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "4,972",
+      "stars": "4,973",
       "forks": "1,358",
       "addStars": "15",
       "contributors": [
@@ -555,7 +555,7 @@
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "24,836",
+      "stars": "24,837",
       "forks": "4,853",
       "addStars": "16",
       "contributors": [

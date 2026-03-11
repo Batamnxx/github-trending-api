@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 11 Mar 2026 03:28:50 GMT</pubDate>
+    <pubDate>Wed, 11 Mar 2026 07:47:10 GMT</pubDate>
     <item>
       <title>msitarzewski/agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/msitarzewski/agency-agents</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>26,023</stars>
-      <forks>4,090</forks>
+      <stars>26,991</stars>
+      <forks>4,256</forks>
       <addStars>19,856</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,665</stars>
-      <forks>1,527</forks>
+      <stars>15,353</stars>
+      <forks>1,619</forks>
       <addStars>8,983</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/moeru-ai/airi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,228</stars>
-      <forks>3,168</forks>
+      <stars>32,372</stars>
+      <forks>3,179</forks>
       <addStars>10,249</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/GoogleCloudPlatform/generative-ai</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>15,808</stars>
-      <forks>4,008</forks>
+      <stars>15,883</stars>
+      <forks>4,014</forks>
       <addStars>2,810</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>34,406</stars>
-      <forks>4,666</forks>
+      <stars>34,534</stars>
+      <forks>4,689</forks>
       <addStars>9,844</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/teng-lin/notebooklm-py</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,773</stars>
-      <forks>581</forks>
+      <stars>4,843</stars>
+      <forks>586</forks>
       <addStars>2,068</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/QwenLM/Qwen-Agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,358</stars>
-      <forks>1,475</forks>
+      <stars>15,380</stars>
+      <forks>1,477</forks>
       <addStars>1,835</addStars>
       <contributors>
         <contributor>
@@ -252,8 +252,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>28,722</stars>
-      <forks>3,411</forks>
+      <stars>28,911</stars>
+      <forks>3,442</forks>
       <addStars>4,339</addStars>
       <contributors>
         <contributor>
@@ -290,8 +290,8 @@
       <guid>https://github.com/ItzCrazyKns/Vane</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,649</stars>
-      <forks>3,507</forks>
+      <stars>32,674</stars>
+      <forks>3,508</forks>
       <addStars>3,187</addStars>
       <contributors>
         <contributor>
@@ -323,8 +323,8 @@
       <guid>https://github.com/alirezarezvani/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,036</stars>
-      <forks>450</forks>
+      <stars>4,100</stars>
+      <forks>454</forks>
       <addStars>1,561</addStars>
       <contributors>
         <contributor>
@@ -361,8 +361,8 @@
       <guid>https://github.com/alibaba/OpenSandbox</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,415</stars>
-      <forks>545</forks>
+      <stars>7,440</stars>
+      <forks>546</forks>
       <addStars>2,349</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/shareAI-lab/learn-claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,953</stars>
-      <forks>4,520</forks>
+      <stars>25,036</stars>
+      <forks>4,532</forks>
       <addStars>4,137</addStars>
       <contributors>
         <contributor>
@@ -437,8 +437,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,961</stars>
-      <forks>498</forks>
+      <stars>4,295</stars>
+      <forks>529</forks>
       <addStars>1,814</addStars>
       <contributors>
         <contributor>
@@ -475,8 +475,8 @@
       <guid>https://github.com/inclusionAI/AReaL</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,636</stars>
-      <forks>386</forks>
+      <stars>4,652</stars>
+      <forks>387</forks>
       <addStars>1,018</addStars>
       <contributors>
         <contributor>

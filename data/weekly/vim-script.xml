@@ -3,7 +3,7 @@
     <title>GitHub Vim-script Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Vim-script Languages in GitHub</description>
-    <pubDate>Wed, 11 Mar 2026 03:28:50 GMT</pubDate>
+    <pubDate>Wed, 11 Mar 2026 07:47:10 GMT</pubDate>
     <item>
       <title>vim/vim</title>
       <link>https://github.com/vim/vim</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/tpope/vim-fugitive</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>21,686</stars>
+      <stars>21,685</stars>
       <forks>1,055</forks>
       <addStars>22</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/neovim/neovim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>97,163</stars>
+      <stars>97,165</stars>
       <forks>6,641</forks>
       <addStars>315</addStars>
       <contributors>
@@ -267,7 +267,7 @@
       <guid>https://github.com/github/copilot.vim</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>11,421</stars>
+      <stars>11,420</stars>
       <forks>723</forks>
       <addStars>29</addStars>
       <contributors>

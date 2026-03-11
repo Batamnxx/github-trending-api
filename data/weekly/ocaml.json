@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Weekly Trending",
   "description": "Weekly Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Mar 2026 03:28:50 GMT",
+  "pubDate": "Wed, 11 Mar 2026 07:47:10 GMT",
   "items": [
     {
       "title": "bcpierce00/unison",
@@ -47,7 +47,7 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "2,238",
+      "stars": "2,239",
       "forks": "179",
       "addStars": "43",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "14,392",
+      "stars": "14,394",
       "forks": "879",
       "addStars": "77",
       "contributors": [

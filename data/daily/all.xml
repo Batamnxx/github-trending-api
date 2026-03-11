@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 11 Mar 2026 03:28:50 GMT</pubDate>
+    <pubDate>Wed, 11 Mar 2026 07:47:10 GMT</pubDate>
     <item>
       <title>msitarzewski/agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/msitarzewski/agency-agents</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>26,023</stars>
-      <forks>4,090</forks>
+      <stars>26,990</stars>
+      <forks>4,256</forks>
       <addStars>6,223</addStars>
       <contributors>
         <contributor>
@@ -36,9 +36,9 @@
           <url>https://github.com/4shil</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11318394?s=40&amp;v=4</avatar>
-          <name>victorkzam</name>
-          <url>https://github.com/victorkzam</url>
+          <avatar>https://avatars.githubusercontent.com/u/11360340?s=40&amp;v=4</avatar>
+          <name>benjifriedman</name>
+          <url>https://github.com/benjifriedman</url>
         </contributor>
       </contributors>
     </item>
@@ -49,8 +49,8 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,665</stars>
-      <forks>1,527</forks>
+      <stars>15,350</stars>
+      <forks>1,619</forks>
       <addStars>4,504</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,961</stars>
-      <forks>498</forks>
+      <stars>4,294</stars>
+      <forks>529</forks>
       <addStars>781</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/promptfoo/promptfoo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,042</stars>
-      <forks>1,117</forks>
+      <stars>12,173</stars>
+      <forks>1,129</forks>
       <addStars>661</addStars>
       <contributors>
         <contributor>
@@ -138,8 +138,8 @@
       <guid>https://github.com/GoogleCloudPlatform/generative-ai</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>15,808</stars>
-      <forks>4,008</forks>
+      <stars>15,883</stars>
+      <forks>4,014</forks>
       <addStars>530</addStars>
       <contributors>
         <contributor>
@@ -171,8 +171,8 @@
       <guid>https://github.com/virattt/ai-hedge-fund</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,677</stars>
-      <forks>8,298</forks>
+      <stars>47,792</stars>
+      <forks>8,317</forks>
       <addStars>300</addStars>
       <contributors>
         <contributor>
@@ -209,8 +209,8 @@
       <guid>https://github.com/karpathy/nanochat</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>46,309</stars>
-      <forks>6,113</forks>
+      <stars>46,422</stars>
+      <forks>6,128</forks>
       <addStars>705</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>76,776</stars>
-      <forks>5,943</forks>
+      <stars>77,090</stars>
+      <forks>5,971</forks>
       <addStars>1,387</addStars>
       <contributors>
         <contributor>
@@ -285,8 +285,8 @@
       <guid>https://github.com/alibaba/page-agent</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,789</stars>
-      <forks>292</forks>
+      <stars>4,032</stars>
+      <forks>315</forks>
       <addStars>891</addStars>
       <contributors>
         <contributor>
@@ -308,8 +308,8 @@
       <guid>https://github.com/sepinf-inc/IPED</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>2,241</stars>
-      <forks>393</forks>
+      <stars>2,287</stars>
+      <forks>395</forks>
       <addStars>273</addStars>
       <contributors>
         <contributor>
@@ -346,8 +346,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>299,519</stars>
-      <forks>56,606</forks>
+      <stars>301,069</stars>
+      <forks>56,887</forks>
       <addStars>9,080</addStars>
       <contributors>
         <contributor>
@@ -378,37 +378,14 @@
       </contributors>
     </item>
     <item>
-      <title>pbakaus/impeccable</title>
-      <link>https://github.com/pbakaus/impeccable</link>
-      <description>The design language that makes your AI harness better at design.</description>
-      <guid>https://github.com/pbakaus/impeccable</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>3,738</stars>
-      <forks>139</forks>
-      <addStars>939</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4</avatar>
-          <name>pbakaus</name>
-          <url>https://github.com/pbakaus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>bytedance/deer-flow</title>
       <link>https://github.com/bytedance/deer-flow</link>
       <description>An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.</description>
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>28,722</stars>
-      <forks>3,411</forks>
+      <stars>28,910</stars>
+      <forks>3,442</forks>
       <addStars>1,413</addStars>
       <contributors>
         <contributor>

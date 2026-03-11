@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Wed, 11 Mar 2026 14:05:37 GMT</pubDate>
+    <pubDate>Wed, 11 Mar 2026 19:42:55 GMT</pubDate>
     <item>
       <title>ecmwf/fckit</title>
       <link>https://github.com/ecmwf/fckit</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/E3SM-Project/E3SM</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>415</stars>
+      <stars>416</stars>
       <forks>460</forks>
       <addStars>4</addStars>
       <contributors>
@@ -74,9 +74,9 @@
           <url>https://github.com/jonbob</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/947068?s=40&amp;v=4</avatar>
-          <name>rljacob</name>
-          <url>https://github.com/rljacob</url>
+          <avatar>https://avatars.githubusercontent.com/u/4604113?s=40&amp;v=4</avatar>
+          <name>amametjanov</name>
+          <url>https://github.com/amametjanov</url>
         </contributor>
       </contributors>
     </item>

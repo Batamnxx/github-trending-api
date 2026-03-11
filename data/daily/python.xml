@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Wed, 11 Mar 2026 14:05:37 GMT</pubDate>
+    <pubDate>Wed, 11 Mar 2026 19:42:55 GMT</pubDate>
     <item>
       <title>666ghj/MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,163</stars>
-      <forks>1,712</forks>
+      <stars>16,572</stars>
+      <forks>1,763</forks>
       <addStars>2,909</addStars>
       <contributors>
         <contributor>
@@ -34,8 +34,8 @@
       <guid>https://github.com/fishaudio/fish-speech</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>25,569</stars>
-      <forks>2,158</forks>
+      <stars>25,692</stars>
+      <forks>2,171</forks>
       <addStars>277</addStars>
       <contributors>
         <contributor>
@@ -62,8 +62,8 @@
       <guid>https://github.com/virattt/ai-hedge-fund</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,954</stars>
-      <forks>8,345</forks>
+      <stars>48,076</stars>
+      <forks>8,374</forks>
       <addStars>633</addStars>
       <contributors>
         <contributor>
@@ -100,8 +100,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,719</stars>
-      <forks>569</forks>
+      <stars>5,050</stars>
+      <forks>592</forks>
       <addStars>1,204</addStars>
       <contributors>
         <contributor>
@@ -138,9 +138,9 @@
       <guid>https://github.com/AstrBotDevs/AstrBot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,847</stars>
-      <forks>1,506</forks>
-      <addStars>337</addStars>
+      <stars>20,978</stars>
+      <forks>1,513</forks>
+      <addStars>391</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37870767?s=40&amp;v=4</avatar>
@@ -176,9 +176,9 @@
       <guid>https://github.com/modelscope/sirchmunk</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>398</stars>
+      <stars>408</stars>
       <forks>40</forks>
-      <addStars>70</addStars>
+      <addStars>45</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10822018?s=40&amp;v=4</avatar>
@@ -209,8 +209,8 @@
       <guid>https://github.com/langflow-ai/openrag</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>700</stars>
-      <forks>75</forks>
+      <stars>780</stars>
+      <forks>82</forks>
       <addStars>224</addStars>
       <contributors>
         <contributor>
@@ -247,9 +247,9 @@
       <guid>https://github.com/666ghj/BettaFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,076</stars>
-      <forks>7,134</forks>
-      <addStars>652</addStars>
+      <stars>38,112</stars>
+      <forks>7,139</forks>
+      <addStars>263</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4</avatar>
@@ -285,8 +285,8 @@
       <guid>https://github.com/karpathy/nanochat</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>46,511</stars>
-      <forks>6,140</forks>
+      <stars>46,585</stars>
+      <forks>6,145</forks>
       <addStars>614</addStars>
       <contributors>
         <contributor>
@@ -323,8 +323,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,561</stars>
-      <forks>210</forks>
+      <stars>2,646</stars>
+      <forks>212</forks>
       <addStars>87</addStars>
       <contributors>
         <contributor>
@@ -361,8 +361,8 @@
       <guid>https://github.com/searxng/searxng</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,278</stars>
-      <forks>2,572</forks>
+      <stars>26,307</stars>
+      <forks>2,574</forks>
       <addStars>110</addStars>
       <contributors>
         <contributor>
@@ -394,8 +394,8 @@
       <guid>https://github.com/microsoft/agent-framework</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,815</stars>
-      <forks>1,291</forks>
+      <stars>7,822</stars>
+      <forks>1,294</forks>
       <addStars>34</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,152</stars>
-      <forks>3,474</forks>
+      <stars>29,256</stars>
+      <forks>3,495</forks>
       <addStars>1,137</addStars>
       <contributors>
         <contributor>

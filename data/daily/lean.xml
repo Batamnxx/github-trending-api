@@ -3,7 +3,7 @@
     <title>GitHub Lean Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Lean Languages in GitHub</description>
-    <pubDate>Thu, 12 Mar 2026 14:03:08 GMT</pubDate>
+    <pubDate>Thu, 12 Mar 2026 19:44:17 GMT</pubDate>
     <item>
       <title>leanprover/lean4</title>
       <link>https://github.com/leanprover/lean4</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/leanprover/lean4</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>7,527</stars>
+      <stars>7,531</stars>
       <forks>778</forks>
       <addStars>7</addStars>
       <contributors>
@@ -163,8 +163,8 @@
       <guid>https://github.com/leanprover-community/mathlib4</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>2,995</stars>
-      <forks>1,143</forks>
+      <stars>2,997</stars>
+      <forks>1,145</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -315,7 +315,7 @@
       <guid>https://github.com/google-deepmind/formal-conjectures</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>864</stars>
+      <stars>865</stars>
       <forks>238</forks>
       <addStars>2</addStars>
       <contributors>

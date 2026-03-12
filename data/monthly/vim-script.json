@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Monthly Trending",
   "description": "Monthly Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Mar 2026 14:03:08 GMT",
+  "pubDate": "Thu, 12 Mar 2026 19:44:17 GMT",
   "items": [
     {
       "title": "neovim/neovim",
@@ -47,7 +47,7 @@
       "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "21,689",
+      "stars": "21,690",
       "forks": "1,055",
       "addStars": "93",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "39,995",
-      "forks": "5,997",
+      "stars": "39,997",
+      "forks": "5,999",
       "addStars": "244",
       "contributors": [
         {
@@ -281,7 +281,7 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "15,257",
+      "stars": "15,258",
       "forks": "1,126",
       "addStars": "105",
       "contributors": [
@@ -752,7 +752,7 @@
       "description": "Personal Wiki for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "9,360",
+      "stars": "9,361",
       "forks": "644",
       "addStars": "35",
       "contributors": [

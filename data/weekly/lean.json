@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Weekly Trending",
   "description": "Weekly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Mar 2026 14:03:08 GMT",
+  "pubDate": "Thu, 12 Mar 2026 19:44:17 GMT",
   "items": [
     {
       "title": "leanprover-community/batteries",
@@ -47,7 +47,7 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "864",
+      "stars": "865",
       "forks": "238",
       "addStars": "17",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "2,995",
-      "forks": "1,143",
+      "stars": "2,997",
+      "forks": "1,145",
       "addStars": "27",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "7,527",
+      "stars": "7,531",
       "forks": "778",
       "addStars": "70",
       "contributors": [

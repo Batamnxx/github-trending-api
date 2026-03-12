@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Thu, 12 Mar 2026 14:03:08 GMT</pubDate>
+    <pubDate>Thu, 12 Mar 2026 19:44:17 GMT</pubDate>
     <item>
       <title>666ghj/MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,878</stars>
-      <forks>1,912</forks>
+      <stars>18,513</stars>
+      <forks>1,978</forks>
       <addStars>11,748</addStars>
       <contributors>
         <contributor>
@@ -34,8 +34,8 @@
       <guid>https://github.com/virattt/ai-hedge-fund</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>48,424</stars>
-      <forks>8,427</forks>
+      <stars>48,465</stars>
+      <forks>8,435</forks>
       <addStars>1,953</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,843</stars>
-      <forks>663</forks>
+      <stars>6,033</stars>
+      <forks>683</forks>
       <addStars>3,032</addStars>
       <contributors>
         <contributor>
@@ -87,11 +87,6 @@
           <url>https://github.com/0xbyt4</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44207705?s=40&amp;v=4</avatar>
-          <name>dmahan93</name>
-          <url>https://github.com/dmahan93</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
@@ -100,6 +95,11 @@
           <avatar>https://avatars.githubusercontent.com/u/29806640?s=40&amp;v=4</avatar>
           <name>rovle</name>
           <url>https://github.com/rovle</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/147075899?s=40&amp;v=4</avatar>
+          <name>hjc-puro</name>
+          <url>https://github.com/hjc-puro</url>
         </contributor>
       </contributors>
     </item>
@@ -110,8 +110,8 @@
       <guid>https://github.com/666ghj/BettaFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,304</stars>
-      <forks>7,170</forks>
+      <stars>38,331</stars>
+      <forks>7,172</forks>
       <addStars>2,092</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/QwenLM/Qwen-Agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,492</stars>
-      <forks>1,487</forks>
+      <stars>15,513</stars>
+      <forks>1,488</forks>
       <addStars>1,887</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/teng-lin/notebooklm-py</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,203</stars>
-      <forks>633</forks>
+      <stars>5,263</stars>
+      <forks>640</forks>
       <addStars>2,175</addStars>
       <contributors>
         <contributor>
@@ -201,14 +201,14 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60299878?s=40&amp;v=4</avatar>
-          <name>furkankoykiran</name>
-          <url>https://github.com/furkankoykiran</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/33588582?s=40&amp;v=4</avatar>
           <name>welshofer</name>
           <url>https://github.com/welshofer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/169967362?s=40&amp;v=4</avatar>
+          <name>Bortlesboat</name>
+          <url>https://github.com/Bortlesboat</url>
         </contributor>
       </contributors>
     </item>
@@ -219,8 +219,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,667</stars>
-      <forks>3,575</forks>
+      <stars>29,782</stars>
+      <forks>3,591</forks>
       <addStars>4,861</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/microsoft/BitNet</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,367</stars>
-      <forks>2,642</forks>
+      <stars>31,982</stars>
+      <forks>2,705</forks>
       <addStars>2,302</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/alirezarezvani/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,433</stars>
-      <forks>492</forks>
+      <stars>4,525</stars>
+      <forks>497</forks>
       <addStars>1,831</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/TheCraigHewitt/seomachine</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,593</stars>
-      <forks>422</forks>
+      <stars>2,617</stars>
+      <forks>424</forks>
       <addStars>1,507</addStars>
       <contributors>
         <contributor>
@@ -356,8 +356,8 @@
       <guid>https://github.com/inclusionAI/AReaL</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,722</stars>
-      <forks>398</forks>
+      <stars>4,736</stars>
+      <forks>399</forks>
       <addStars>918</addStars>
       <contributors>
         <contributor>
@@ -389,8 +389,8 @@
       <guid>https://github.com/fishaudio/fish-speech</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,173</stars>
-      <forks>2,201</forks>
+      <stars>26,278</stars>
+      <forks>2,209</forks>
       <addStars>999</addStars>
       <contributors>
         <contributor>
@@ -417,7 +417,7 @@
       <guid>https://github.com/openai/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,002</stars>
+      <stars>14,025</stars>
       <forks>800</forks>
       <addStars>3,231</addStars>
       <contributors>
@@ -455,8 +455,8 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,046</stars>
-      <forks>19,450</forks>
+      <stars>19,111</stars>
+      <forks>19,492</forks>
       <addStars>2,814</addStars>
       <contributors>
         <contributor>
@@ -493,8 +493,8 @@
       <guid>https://github.com/karpathy/nanochat</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>46,748</stars>
-      <forks>6,178</forks>
+      <stars>46,975</stars>
+      <forks>6,196</forks>
       <addStars>2,218</addStars>
       <contributors>
         <contributor>
@@ -531,8 +531,8 @@
       <guid>https://github.com/AstrBotDevs/AstrBot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,560</stars>
-      <forks>1,561</forks>
+      <stars>22,722</stars>
+      <forks>1,567</forks>
       <addStars>2,017</addStars>
       <contributors>
         <contributor>
@@ -569,8 +569,8 @@
       <guid>https://github.com/github/awesome-copilot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,808</stars>
-      <forks>2,839</forks>
+      <stars>24,849</stars>
+      <forks>2,846</forks>
       <addStars>1,087</addStars>
       <contributors>
         <contributor>

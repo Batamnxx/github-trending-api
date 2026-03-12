@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Weekly Trending",
   "description": "Weekly Trending of Powershell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Mar 2026 19:42:55 GMT",
+  "pubDate": "Thu, 12 Mar 2026 03:34:47 GMT",
   "items": [
     {
       "title": "microsoft/hve-core",
@@ -11,8 +11,8 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "851",
-      "forks": "102",
-      "addStars": "703",
+      "forks": "103",
+      "addStars": "704",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4399970?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "41,560",
-      "forks": "1,618",
-      "addStars": "1,094",
+      "stars": "41,575",
+      "forks": "1,621",
+      "addStars": "1,082",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "game of active directory",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "7,545",
-      "forks": "1,035",
-      "addStars": "42",
+      "stars": "7,547",
+      "forks": "1,037",
+      "addStars": "43",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23179648?s=40&v=4",
@@ -118,7 +118,7 @@
       "languageColor": "#012456",
       "stars": "12,553",
       "forks": "3,692",
-      "addStars": "23",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/72681142?s=40&v=4",
@@ -145,7 +145,7 @@
       "languageColor": "#012456",
       "stars": "1,560",
       "forks": "489",
-      "addStars": "21",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/108147804?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "2,212",
-      "forks": "637",
-      "addStars": "11",
+      "stars": "2,213",
+      "forks": "638",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2547149?s=40&v=4",
@@ -219,7 +219,7 @@
       "languageColor": "#012456",
       "stars": "1,208",
       "forks": "234",
-      "addStars": "9",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/104939301?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "A command-line installer for Windows.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "23,728",
+      "stars": "23,729",
       "forks": "1,510",
-      "addStars": "47",
+      "addStars": "40",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/432127?s=40&v=4",
@@ -286,7 +286,7 @@
       "description": "The official PowerShell documentation sources",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "2,389",
+      "stars": "2,390",
       "forks": "1,696",
       "addStars": "8",
       "contributors": [
@@ -323,9 +323,9 @@
       "description": "USB-less Linux installer for Linux and Windows. Install Linux without a USB stick.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "379",
+      "stars": "415",
       "forks": "7",
-      "addStars": "240",
+      "addStars": "309",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32552121?s=40&v=4",
@@ -345,9 +345,9 @@
       "description": "The Microsoft community Windows Package Manager manifest repository",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "10,318",
-      "forks": "6,318",
-      "addStars": "26",
+      "stars": "10,327",
+      "forks": "6,323",
+      "addStars": "36",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/175387142?s=40&v=4",
@@ -414,9 +414,9 @@
       "description": "Scripts to build a trimmed-down Windows 11 image.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "18,052",
+      "stars": "18,057",
       "forks": "1,400",
-      "addStars": "88",
+      "addStars": "90",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38796849?s=40&v=4",
@@ -451,9 +451,9 @@
       "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "8,421",
+      "stars": "8,423",
       "forks": "1,082",
-      "addStars": "34",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16052290?s=40&v=4",
@@ -488,7 +488,7 @@
       "description": "📥 Next-generation Scoop (un)installer",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "1,158",
+      "stars": "1,159",
       "forks": "142",
       "addStars": "11",
       "contributors": [
@@ -525,9 +525,9 @@
       "description": "Script to remove Windows 10 bloatware.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "18,786",
+      "stars": "18,785",
       "forks": "2,074",
-      "addStars": "25",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7380192?s=40&v=4",

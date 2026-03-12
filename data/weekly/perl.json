@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Weekly Trending",
   "description": "Weekly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Mar 2026 03:34:47 GMT",
+  "pubDate": "Thu, 12 Mar 2026 07:49:15 GMT",
   "items": [
     {
       "title": "exiftool/exiftool",
@@ -69,8 +69,8 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "22,667",
-      "forks": "1,100",
+      "stars": "22,668",
+      "forks": "1,101",
       "addStars": "44",
       "contributors": [
         {

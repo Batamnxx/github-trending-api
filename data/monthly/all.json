@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 11 Mar 2026 19:42:55 GMT",
+  "pubDate": "Thu, 12 Mar 2026 07:49:15 GMT",
   "items": [
     {
       "title": "ruvnet/RuView",
@@ -10,9 +10,9 @@
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "34,935",
-      "forks": "4,746",
-      "addStars": "28,314",
+      "stars": "35,282",
+      "forks": "4,800",
+      "addStars": "29,197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,617",
-      "forks": "3,205",
-      "addStars": "14,824",
+      "stars": "32,806",
+      "forks": "3,227",
+      "addStars": "15,333",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,254",
-      "forks": "3,495",
-      "addStars": "8,378",
+      "stars": "29,535",
+      "forks": "3,543",
+      "addStars": "9,499",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "303,572",
-      "forks": "57,332",
-      "addStars": "117,792",
+      "stars": "305,492",
+      "forks": "57,739",
+      "addStars": "121,269",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
@@ -146,9 +146,9 @@
           "url": "https://github.com/obviyus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35580099?s=40&v=4",
-          "name": "thewilloftheshadow",
-          "url": "https://github.com/thewilloftheshadow"
+          "avatar": "https://avatars.githubusercontent.com/u/5599352?s=40&v=4",
+          "name": "gumadeiras",
+          "url": "https://github.com/gumadeiras"
         }
       ]
     },
@@ -158,9 +158,9 @@
       "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,260",
-      "forks": "399",
-      "addStars": "5,583",
+      "stars": "6,344",
+      "forks": "406",
+      "addStars": "5,146",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23423962?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,790",
-      "forks": "526",
-      "addStars": "7,533",
+      "stars": "8,826",
+      "forks": "531",
+      "addStars": "7,618",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19620375?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,502",
-      "forks": "554",
-      "addStars": "6,316",
+      "stars": "7,547",
+      "forks": "558",
+      "addStars": "6,445",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62273713?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,228",
-      "forks": "1,172",
-      "addStars": "6,169",
+      "stars": "11,280",
+      "forks": "1,174",
+      "addStars": "6,266",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
@@ -306,9 +306,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,397",
-      "forks": "2,365",
-      "addStars": "12,353",
+      "stars": "22,573",
+      "forks": "2,386",
+      "addStars": "11,844",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,799",
-      "forks": "440",
-      "addStars": "4,462",
+      "stars": "5,886",
+      "forks": "451",
+      "addStars": "4,676",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
@@ -375,9 +375,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "77,847",
-      "forks": "6,021",
-      "addStars": "27,391",
+      "stars": "78,653",
+      "forks": "6,085",
+      "addStars": "28,269",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -412,9 +412,9 @@
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": "",
       "languageColor": "",
-      "stars": "130,249",
-      "forks": "33,144",
-      "addStars": "16,490",
+      "stars": "130,342",
+      "forks": "33,158",
+      "addStars": "16,601",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/185671340?s=40&v=4",
@@ -449,9 +449,9 @@
       "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,194",
-      "forks": "4,549",
-      "addStars": "8,053",
+      "stars": "25,308",
+      "forks": "4,558",
+      "addStars": "8,378",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35400185?s=40&v=4",
@@ -486,9 +486,9 @@
       "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,610",
-      "forks": "438",
-      "addStars": "5,012",
+      "stars": "6,674",
+      "forks": "450",
+      "addStars": "5,125",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31864905?s=40&v=4",
@@ -523,9 +523,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,046",
-      "forks": "282",
-      "addStars": "2,923",
+      "stars": "4,067",
+      "forks": "288",
+      "addStars": "2,562",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4",
@@ -550,9 +550,9 @@
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,561",
-      "forks": "1,760",
-      "addStars": "10,012",
+      "stars": "17,431",
+      "forks": "1,861",
+      "addStars": "12,466",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&v=4",
@@ -572,9 +572,9 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,176",
-      "forks": "466",
-      "addStars": "4,530",
+      "stars": "6,201",
+      "forks": "468",
+      "addStars": "4,573",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4",

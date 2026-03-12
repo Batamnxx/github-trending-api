@@ -3,7 +3,7 @@
     <title>GitHub Zig Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Zig Languages in GitHub</description>
-    <pubDate>Thu, 12 Mar 2026 03:34:47 GMT</pubDate>
+    <pubDate>Thu, 12 Mar 2026 07:49:15 GMT</pubDate>
     <item>
       <title>lightpanda-io/browser</title>
       <link>https://github.com/lightpanda-io/browser</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>12,100</stars>
+      <stars>12,102</stars>
       <forks>371</forks>
       <addStars>131</addStars>
       <contributors>
@@ -49,8 +49,8 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>88,087</stars>
-      <forks>4,169</forks>
+      <stars>88,093</stars>
+      <forks>4,171</forks>
       <addStars>260</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/ziglang/zig</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>42,895</stars>
+      <stars>42,890</stars>
       <forks>3,080</forks>
       <addStars>103</addStars>
       <contributors>
@@ -120,7 +120,7 @@
       <guid>https://github.com/neurosnap/zmx</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>954</stars>
+      <stars>955</stars>
       <forks>38</forks>
       <addStars>30</addStars>
       <contributors>
@@ -158,8 +158,8 @@
       <guid>https://github.com/ghostty-org/ghostty</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>46,182</stars>
-      <forks>1,877</forks>
+      <stars>46,220</stars>
+      <forks>1,878</forks>
       <addStars>769</addStars>
       <contributors>
         <contributor>
@@ -234,7 +234,7 @@
       <guid>https://github.com/pedropark99/zig-book</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>2,412</stars>
+      <stars>2,413</stars>
       <forks>143</forks>
       <addStars>18</addStars>
       <contributors>
@@ -310,7 +310,7 @@
       <guid>https://github.com/tigerbeetle/tigerbeetle</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>15,322</stars>
+      <stars>15,325</stars>
       <forks>772</forks>
       <addStars>41</addStars>
       <contributors>

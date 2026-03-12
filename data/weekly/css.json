@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Weekly Trending",
   "description": "Weekly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Mar 2026 03:34:47 GMT",
+  "pubDate": "Thu, 12 Mar 2026 07:49:15 GMT",
   "items": [
     {
       "title": "karpathy/karpathy.github.io",
@@ -84,7 +84,7 @@
       "description": "A classic theme for Ghost",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "2,576",
+      "stars": "2,575",
       "forks": "2,766",
       "addStars": "3",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "Help documentation for Obsidian.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,601",
-      "forks": "476",
+      "stars": "1,604",
+      "forks": "477",
       "addStars": "14",
       "contributors": [
         {
@@ -158,7 +158,7 @@
       "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "61,958",
+      "stars": "61,961",
       "forks": "3,867",
       "addStars": "124",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "🕶️ Awesome stuff for Obsidian",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "8,464",
+      "stars": "8,465",
       "forks": "334",
       "addStars": "128",
       "contributors": [
@@ -297,7 +297,7 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "6,948",
-      "forks": "1,156",
+      "forks": "1,157",
       "addStars": "14",
       "contributors": [
         {

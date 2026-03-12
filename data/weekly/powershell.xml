@@ -3,7 +3,7 @@
     <title>GitHub Powershell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Powershell Languages in GitHub</description>
-    <pubDate>Thu, 12 Mar 2026 03:34:47 GMT</pubDate>
+    <pubDate>Thu, 12 Mar 2026 07:49:15 GMT</pubDate>
     <item>
       <title>microsoft/hve-core</title>
       <link>https://github.com/microsoft/hve-core</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/microsoft/hve-core</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>851</stars>
+      <stars>854</stars>
       <forks>103</forks>
       <addStars>704</addStars>
       <contributors>
@@ -44,7 +44,7 @@
       <guid>https://github.com/Raphire/Win11Debloat</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>41,575</stars>
+      <stars>41,582</stars>
       <forks>1,621</forks>
       <addStars>1,082</addStars>
       <contributors>
@@ -82,7 +82,7 @@
       <guid>https://github.com/Orange-Cyberdefense/GOAD</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>7,547</stars>
+      <stars>7,548</stars>
       <forks>1,037</forks>
       <addStars>43</addStars>
       <contributors>
@@ -257,7 +257,7 @@
       <guid>https://github.com/ScoopInstaller/Scoop</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>23,729</stars>
+      <stars>23,730</stars>
       <forks>1,510</forks>
       <addStars>40</addStars>
       <contributors>
@@ -333,8 +333,8 @@
       <guid>https://github.com/rltvty2/ulli</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>415</stars>
-      <forks>7</forks>
+      <stars>426</stars>
+      <forks>8</forks>
       <addStars>309</addStars>
       <contributors>
         <contributor>
@@ -357,7 +357,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>10,327</stars>
-      <forks>6,323</forks>
+      <forks>6,325</forks>
       <addStars>36</addStars>
       <contributors>
         <contributor>
@@ -427,7 +427,7 @@
       <guid>https://github.com/ntdevlabs/tiny11builder</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>18,057</stars>
+      <stars>18,058</stars>
       <forks>1,400</forks>
       <addStars>90</addStars>
       <contributors>
@@ -503,7 +503,7 @@
       <guid>https://github.com/ScoopInstaller/Install</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>1,159</stars>
+      <stars>1,160</stars>
       <forks>142</forks>
       <addStars>11</addStars>
       <contributors>

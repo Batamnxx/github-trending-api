@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Fri, 13 Mar 2026 03:31:13 GMT</pubDate>
+    <pubDate>Fri, 13 Mar 2026 07:49:14 GMT</pubDate>
     <item>
       <title>moeru-ai/airi</title>
       <link>https://github.com/moeru-ai/airi</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/moeru-ai/airi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>33,068</stars>
-      <forks>3,254</forks>
+      <stars>33,146</stars>
+      <forks>3,265</forks>
       <addStars>6,582</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/promptfoo/promptfoo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,926</stars>
-      <forks>1,280</forks>
+      <stars>14,221</stars>
+      <forks>1,297</forks>
       <addStars>2,034</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/aidenybai/react-grab</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,494</stars>
-      <forks>301</forks>
+      <stars>6,504</stars>
+      <forks>302</forks>
       <addStars>1,193</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/shareAI-lab/learn-claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,651</stars>
-      <forks>4,609</forks>
+      <stars>25,754</stars>
+      <forks>4,624</forks>
       <addStars>3,861</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/JimLiu/baoyu-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,693</stars>
-      <forks>976</forks>
+      <stars>8,722</stars>
+      <forks>977</forks>
       <addStars>1,877</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/ItzCrazyKns/Vane</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,853</stars>
-      <forks>3,531</forks>
+      <stars>32,868</stars>
+      <forks>3,533</forks>
       <addStars>1,679</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/toeverything/AFFiNE</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>65,874</stars>
-      <forks>4,592</forks>
+      <stars>65,886</stars>
+      <forks>4,593</forks>
       <addStars>2,345</addStars>
       <contributors>
         <contributor>
@@ -257,7 +257,7 @@
       <guid>https://github.com/FlorianBruniaux/claude-code-ultimate-guide</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,352</stars>
+      <stars>1,357</stars>
       <forks>240</forks>
       <addStars>864</addStars>
       <contributors>
@@ -280,8 +280,8 @@
       <guid>https://github.com/shadcn-ui/ui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>109,446</stars>
-      <forks>8,158</forks>
+      <stars>109,467</stars>
+      <forks>8,162</forks>
       <addStars>1,748</addStars>
       <contributors>
         <contributor>
@@ -308,8 +308,8 @@
       <guid>https://github.com/yikart/AiToEarn</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,398</stars>
-      <forks>2,418</forks>
+      <stars>11,408</stars>
+      <forks>2,420</forks>
       <addStars>756</addStars>
       <contributors>
         <contributor>
@@ -346,7 +346,7 @@
       <guid>https://github.com/web-infra-dev/midscene</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,121</stars>
+      <stars>12,132</stars>
       <forks>889</forks>
       <addStars>173</addStars>
       <contributors>
@@ -379,8 +379,8 @@
       <guid>https://github.com/openclaw/clawhub</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,671</stars>
-      <forks>894</forks>
+      <stars>5,734</stars>
+      <forks>901</forks>
       <addStars>1,365</addStars>
       <contributors>
         <contributor>
@@ -417,8 +417,8 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,762</stars>
-      <forks>2,298</forks>
+      <stars>20,789</stars>
+      <forks>2,299</forks>
       <addStars>1,679</addStars>
       <contributors>
         <contributor>
@@ -455,8 +455,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>308,313</stars>
-      <forks>58,429</forks>
+      <stars>309,128</stars>
+      <forks>58,632</forks>
       <addStars>43,702</addStars>
       <contributors>
         <contributor>

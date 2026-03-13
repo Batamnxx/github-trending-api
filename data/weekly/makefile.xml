@@ -3,7 +3,7 @@
     <title>GitHub Makefile Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Makefile Languages in GitHub</description>
-    <pubDate>Fri, 13 Mar 2026 03:31:13 GMT</pubDate>
+    <pubDate>Fri, 13 Mar 2026 07:49:14 GMT</pubDate>
     <item>
       <title>dbt-labs/dbt-utils</title>
       <link>https://github.com/dbt-labs/dbt-utils</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/deepseek-ai/DeepSeek-LLM</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>6,771</stars>
+      <stars>6,772</stars>
       <forks>1,060</forks>
       <addStars>17</addStars>
       <contributors>
@@ -291,7 +291,7 @@
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
       <stars>4,443</stars>
-      <forks>3,823</forks>
+      <forks>3,824</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -366,7 +366,7 @@
       <guid>https://github.com/githubnext/agentics</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>451</stars>
+      <stars>453</stars>
       <forks>71</forks>
       <addStars>41</addStars>
       <contributors>

@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 13 Mar 2026 03:31:13 GMT</pubDate>
+    <pubDate>Fri, 13 Mar 2026 07:49:14 GMT</pubDate>
     <item>
       <title>ruvnet/RuView</title>
       <link>https://github.com/ruvnet/RuView</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>35,796</stars>
-      <forks>4,891</forks>
+      <stars>35,911</stars>
+      <forks>4,911</forks>
       <addStars>29,894</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/shanraisshan/claude-code-best-practice</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>13,893</stars>
-      <forks>1,308</forks>
+      <stars>14,011</stars>
+      <forks>1,319</forks>
       <addStars>11,250</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/moeru-ai/airi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>33,061</stars>
-      <forks>3,254</forks>
+      <stars>33,139</stars>
+      <forks>3,264</forks>
       <addStars>15,697</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,924</stars>
-      <forks>3,610</forks>
+      <stars>30,021</stars>
+      <forks>3,629</forks>
       <addStars>10,001</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>308,257</stars>
-      <forks>58,419</forks>
+      <stars>309,056</stars>
+      <forks>58,613</forks>
       <addStars>122,281</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/huggingface/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,886</stars>
-      <forks>533</forks>
+      <stars>8,906</stars>
+      <forks>534</forks>
       <addStars>7,684</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/Jeffallan/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,450</stars>
-      <forks>411</forks>
+      <stars>6,479</stars>
+      <forks>414</forks>
       <addStars>5,009</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/alibaba/OpenSandbox</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,651</stars>
-      <forks>564</forks>
+      <stars>7,676</stars>
+      <forks>565</forks>
       <addStars>6,553</addStars>
       <contributors>
         <contributor>
@@ -310,8 +310,8 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,090</stars>
-      <forks>1,245</forks>
+      <stars>12,297</stars>
+      <forks>1,267</forks>
       <addStars>6,358</addStars>
       <contributors>
         <contributor>
@@ -348,8 +348,8 @@
       <guid>https://github.com/volcengine/OpenViking</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,258</stars>
-      <forks>521</forks>
+      <stars>7,585</stars>
+      <forks>540</forks>
       <addStars>4,853</addStars>
       <contributors>
         <contributor>
@@ -386,8 +386,8 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,512</stars>
-      <forks>2,074</forks>
+      <stars>20,045</stars>
+      <forks>2,161</forks>
       <addStars>14,154</addStars>
       <contributors>
         <contributor>
@@ -409,8 +409,8 @@
       <guid>https://github.com/badlogic/pi-mono</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,916</stars>
-      <forks>2,416</forks>
+      <stars>23,024</stars>
+      <forks>2,433</forks>
       <addStars>11,725</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/rowboatlabs/rowboat</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,162</stars>
-      <forks>778</forks>
+      <stars>9,175</stars>
+      <forks>779</forks>
       <addStars>4,245</addStars>
       <contributors>
         <contributor>
@@ -475,8 +475,8 @@
       <guid>https://github.com/shareAI-lab/learn-claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,643</stars>
-      <forks>4,607</forks>
+      <stars>25,751</stars>
+      <forks>4,622</forks>
       <addStars>8,580</addStars>
       <contributors>
         <contributor>
@@ -513,8 +513,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>80,207</stars>
-      <forks>6,209</forks>
+      <stars>80,664</stars>
+      <forks>6,263</forks>
       <addStars>29,296</addStars>
       <contributors>
         <contributor>
@@ -551,8 +551,8 @@
       <guid>https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</guid>
       <language/>
       <languageColor/>
-      <stars>130,539</stars>
-      <forks>33,188</forks>
+      <stars>130,604</stars>
+      <forks>33,195</forks>
       <addStars>16,688</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Mar 2026 14:00:24 GMT",
+  "pubDate": "Fri, 13 Mar 2026 19:34:28 GMT",
   "items": [
     {
       "title": "Anduin2017/HowToCook",
@@ -10,8 +10,8 @@
       "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "98,761",
-      "forks": "10,866",
+      "stars": "98,763",
+      "forks": "10,867",
       "addStars": "941",
       "contributors": [
         {
@@ -165,7 +165,7 @@
       "description": "Asahi Linux documentation",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,126",
+      "stars": "2,128",
       "forks": "95",
       "addStars": "31",
       "contributors": [
@@ -197,7 +197,7 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,423",
+      "stars": "2,425",
       "forks": "290",
       "addStars": "26",
       "contributors": [
@@ -335,7 +335,7 @@
       "description": "",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "1,104",
+      "stars": "1,105",
       "forks": "94",
       "addStars": "17",
       "contributors": [
@@ -372,7 +372,7 @@
       "description": "Homelab stacks, templates, and more fun resources!",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,649",
+      "stars": "2,650",
       "forks": "276",
       "addStars": "120",
       "contributors": [

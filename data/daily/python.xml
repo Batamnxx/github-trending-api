@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Fri, 13 Mar 2026 14:00:24 GMT</pubDate>
+    <pubDate>Fri, 13 Mar 2026 19:34:28 GMT</pubDate>
     <item>
       <title>microsoft/BitNet</title>
       <link>https://github.com/microsoft/BitNet</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/microsoft/BitNet</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>33,406</stars>
-      <forks>2,816</forks>
+      <stars>33,731</stars>
+      <forks>2,848</forks>
       <addStars>2,223</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/langflow-ai/openrag</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,002</stars>
-      <forks>189</forks>
+      <stars>2,147</stars>
+      <forks>201</forks>
       <addStars>905</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/public-apis/public-apis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>408,933</stars>
-      <forks>44,171</forks>
+      <stars>409,253</stars>
+      <forks>44,216</forks>
       <addStars>895</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/fishaudio/fish-speech</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,687</stars>
-      <forks>2,238</forks>
+      <stars>26,771</stars>
+      <forks>2,245</forks>
       <addStars>556</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,609</stars>
-      <forks>1,063</forks>
+      <stars>10,706</stars>
+      <forks>1,071</forks>
       <addStars>651</addStars>
       <contributors>
         <contributor>
@@ -191,9 +191,9 @@
       <guid>https://github.com/AstrBotDevs/AstrBot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,525</stars>
-      <forks>1,609</forks>
-      <addStars>1,770</addStars>
+      <stars>23,720</stars>
+      <forks>1,614</forks>
+      <addStars>952</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37870767?s=40&amp;v=4</avatar>
@@ -229,8 +229,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,414</stars>
-      <forks>243</forks>
+      <stars>3,528</stars>
+      <forks>249</forks>
       <addStars>597</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,607</stars>
-      <forks>1,292</forks>
+      <stars>12,820</stars>
+      <forks>1,304</forks>
       <addStars>1,162</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,558</stars>
-      <forks>726</forks>
+      <stars>6,664</stars>
+      <forks>746</forks>
       <addStars>752</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,919</stars>
-      <forks>2,263</forks>
+      <stars>21,495</stars>
+      <forks>2,337</forks>
       <addStars>2,887</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/DevilXD/TwitchDropsMiner</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,797</stars>
-      <forks>278</forks>
+      <stars>2,799</stars>
+      <forks>279</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>
@@ -404,9 +404,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>92,608</stars>
-      <forks>9,899</forks>
-      <addStars>1,177</addStars>
+      <stars>92,753</stars>
+      <forks>9,921</forks>
+      <addStars>1,033</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/84525?s=40&amp;v=4</avatar>
@@ -442,7 +442,7 @@
       <guid>https://github.com/NVIDIA-NeMo/Gym</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>706</stars>
+      <stars>713</stars>
       <forks>81</forks>
       <addStars>14</addStars>
       <contributors>
@@ -480,8 +480,8 @@
       <guid>https://github.com/volcengine/OpenViking</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,214</stars>
-      <forks>570</forks>
+      <stars>8,725</stars>
+      <forks>601</forks>
       <addStars>1,938</addStars>
       <contributors>
         <contributor>
@@ -518,8 +518,8 @@
       <guid>https://github.com/NanmiCoder/MediaCrawler</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,704</stars>
-      <forks>9,882</forks>
+      <stars>45,714</stars>
+      <forks>9,884</forks>
       <addStars>118</addStars>
       <contributors>
         <contributor>
@@ -556,8 +556,8 @@
       <guid>https://github.com/MiroMindAI/MiroThinker</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,715</stars>
-      <forks>506</forks>
+      <stars>6,719</stars>
+      <forks>507</forks>
       <addStars>40</addStars>
       <contributors>
         <contributor>
@@ -594,7 +594,7 @@
       <guid>https://github.com/chenyme/grok2api</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,763</stars>
+      <stars>2,773</stars>
       <forks>942</forks>
       <addStars>86</addStars>
       <contributors>

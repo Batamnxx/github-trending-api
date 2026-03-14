@@ -2,7 +2,7 @@
   "title": "GitHub Blade Languages Weekly Trending",
   "description": "Weekly Trending of Blade Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Mar 2026 19:34:28 GMT",
+  "pubDate": "Sat, 14 Mar 2026 03:29:45 GMT",
   "items": [
     {
       "title": "grocy/grocy",
@@ -11,8 +11,8 @@
       "language": "Blade",
       "languageColor": "#f7523f",
       "stars": "8,829",
-      "forks": "743",
-      "addStars": "29",
+      "forks": "744",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2161815?s=40&v=4",
@@ -70,8 +70,8 @@
       "language": "Blade",
       "languageColor": "#f7523f",
       "stars": "83,941",
-      "forks": "24,683",
-      "addStars": "161",
+      "forks": "24,682",
+      "addStars": "152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/463230?s=40&v=4",

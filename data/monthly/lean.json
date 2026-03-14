@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Monthly Trending",
   "description": "Monthly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 14 Mar 2026 03:29:45 GMT",
+  "pubDate": "Sat, 14 Mar 2026 07:39:43 GMT",
   "items": [
     {
       "title": "leanprover-community/mathlib4",
@@ -84,7 +84,7 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "7,540",
+      "stars": "7,541",
       "forks": "776",
       "addStars": "247",
       "contributors": [
@@ -454,7 +454,7 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "867",
+      "stars": "868",
       "forks": "240",
       "addStars": "53",
       "contributors": [

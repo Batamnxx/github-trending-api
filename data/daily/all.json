@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 14 Mar 2026 19:31:58 GMT",
+  "pubDate": "Sun, 15 Mar 2026 03:52:57 GMT",
   "items": [
     {
       "title": "volcengine/OpenViking",
@@ -10,9 +10,9 @@
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,187",
-      "forks": "702",
-      "addStars": "1,557",
+      "stars": "10,799",
+      "forks": "729",
+      "addStars": "1,610",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
@@ -47,10 +47,15 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,167",
-      "forks": "1,106",
+      "stars": "11,400",
+      "forks": "1,111",
       "addStars": "411",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32489862?s=40&v=4",
+          "name": "tobinsouth",
+          "url": "https://github.com/tobinsouth"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/12701358?s=40&v=4",
           "name": "noahzweben",
@@ -70,11 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/3757768?s=40&v=4",
           "name": "dicksontsai",
           "url": "https://github.com/dicksontsai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100382?s=40&v=4",
-          "name": "dhollman",
-          "url": "https://github.com/dhollman"
         }
       ]
     },
@@ -84,9 +84,9 @@
       "description": "The Dimensional Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "808",
-      "forks": "153",
-      "addStars": "64",
+      "stars": "896",
+      "forks": "159",
+      "addStars": "72",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12108168?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,506",
-      "forks": "1,371",
-      "addStars": "661",
+      "stars": "13,902",
+      "forks": "1,414",
+      "addStars": "694",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,625",
-      "forks": "244",
-      "addStars": "568",
+      "stars": "2,769",
+      "forks": "256",
+      "addStars": "564",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1313220?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "16,861",
-      "forks": "619",
-      "addStars": "2,100",
+      "stars": "17,250",
+      "forks": "646",
+      "addStars": "2,069",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "43,235",
-      "forks": "6,474",
-      "addStars": "4,329",
+      "stars": "44,106",
+      "forks": "6,599",
+      "addStars": "4,280",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "SOTA Open Source TTS",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "27,150",
-      "forks": "2,272",
-      "addStars": "377",
+      "stars": "27,266",
+      "forks": "2,275",
+      "addStars": "381",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25119060?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,051",
-      "forks": "425",
-      "addStars": "477",
+      "stars": "4,239",
+      "forks": "433",
+      "addStars": "482",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26497075?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "83,092",
-      "forks": "6,484",
-      "addStars": "1,451",
+      "stars": "83,722",
+      "forks": "6,531",
+      "addStars": "1,439",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",

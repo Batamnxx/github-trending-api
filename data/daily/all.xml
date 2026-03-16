@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 16 Mar 2026 14:20:41 GMT</pubDate>
+    <pubDate>Mon, 16 Mar 2026 19:53:31 GMT</pubDate>
     <item>
       <title>666ghj/MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,058</stars>
-      <forks>3,547</forks>
+      <stars>29,633</stars>
+      <forks>3,601</forks>
       <addStars>3,257</addStars>
       <contributors>
         <contributor>
@@ -34,8 +34,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>36,236</stars>
-      <forks>2,608</forks>
+      <stars>36,596</stars>
+      <forks>2,624</forks>
       <addStars>1,017</addStars>
       <contributors>
         <contributor>
@@ -62,8 +62,8 @@
       <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,521</stars>
-      <forks>145</forks>
+      <stars>1,695</stars>
+      <forks>159</forks>
       <addStars>773</addStars>
       <contributors>
         <contributor>
@@ -95,8 +95,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>87,721</stars>
-      <forks>6,924</forks>
+      <stars>88,252</stars>
+      <forks>6,969</forks>
       <addStars>3,142</addStars>
       <contributors>
         <contributor>
@@ -133,8 +133,8 @@
       <guid>https://github.com/abhigyanpatwari/GitNexus</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,208</stars>
-      <forks>1,755</forks>
+      <stars>15,440</stars>
+      <forks>1,775</forks>
       <addStars>1,867</addStars>
       <contributors>
         <contributor>
@@ -171,8 +171,8 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>19,855</stars>
-      <forks>751</forks>
+      <stars>20,075</stars>
+      <forks>764</forks>
       <addStars>2,089</addStars>
       <contributors>
         <contributor>
@@ -209,8 +209,8 @@
       <guid>https://github.com/volcengine/OpenViking</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,605</stars>
-      <forks>938</forks>
+      <stars>13,935</stars>
+      <forks>955</forks>
       <addStars>2,014</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/shareAI-lab/learn-claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>29,052</stars>
-      <forks>4,988</forks>
+      <stars>29,206</stars>
+      <forks>4,994</forks>
       <addStars>1,542</addStars>
       <contributors>
         <contributor>
@@ -285,8 +285,8 @@
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,078</stars>
-      <forks>1,525</forks>
+      <stars>15,202</stars>
+      <forks>1,533</forks>
       <addStars>787</addStars>
       <contributors>
         <contributor>
@@ -323,9 +323,9 @@
       <guid>https://github.com/langchain-ai/deepagents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,300</stars>
-      <forks>1,949</forks>
-      <addStars>444</addStars>
+      <stars>12,677</stars>
+      <forks>1,984</forks>
+      <addStars>1,238</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/61371264?s=40&amp;v=4</avatar>
@@ -361,8 +361,8 @@
       <guid>https://github.com/YishenTu/claudian</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,988</stars>
-      <forks>233</forks>
+      <stars>4,093</stars>
+      <forks>236</forks>
       <addStars>109</addStars>
       <contributors>
         <contributor>
@@ -394,7 +394,7 @@
       <guid>https://github.com/voidzero-dev/vite-plus</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>2,072</stars>
+      <stars>2,166</stars>
       <forks>73</forks>
       <addStars>622</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Weekly Trending",
   "description": "Weekly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 16 Mar 2026 03:57:09 GMT",
+  "pubDate": "Mon, 16 Mar 2026 08:10:32 GMT",
   "items": [
     {
       "title": "swiftlang/swift-evolution",
@@ -84,7 +84,7 @@
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "35,689",
+      "stars": "35,692",
       "forks": "6,594",
       "addStars": "71",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "🔥 A Complete List of GitHub Profile Badges and Achievements 🔥",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "2,771",
+      "stars": "2,772",
       "forks": "283",
       "addStars": "23",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "Collaborative cheatsheets for console commands 📚.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "61,675",
+      "stars": "61,676",
       "forks": "5,113",
       "addStars": "108",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "Public documentation for Visual Studio Code",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "6,410",
+      "stars": "6,411",
       "forks": "5,552",
       "addStars": "10",
       "contributors": [
@@ -403,7 +403,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "5,882",
-      "forks": "5,389",
+      "forks": "5,388",
       "addStars": "10",
       "contributors": [
         {
@@ -508,7 +508,7 @@
       "description": "Markdown Architectural Decision Records",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "2,061",
+      "stars": "2,062",
       "forks": "448",
       "addStars": "16",
       "contributors": [
@@ -540,8 +540,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "475,895",
-      "forks": "44,682",
+      "stars": "476,520",
+      "forks": "44,761",
       "addStars": "2,393",
       "contributors": [
         {

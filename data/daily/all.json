@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 17 Mar 2026 03:37:23 GMT",
+  "pubDate": "Tue, 17 Mar 2026 07:56:31 GMT",
   "items": [
     {
       "title": "666ghj/MiroFish",
@@ -10,8 +10,8 @@
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,391",
-      "forks": "3,721",
+      "stars": "31,055",
+      "forks": "3,817",
       "addStars": "3,260",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "37,000",
-      "forks": "2,655",
+      "stars": "37,199",
+      "forks": "2,668",
       "addStars": "1,045",
       "contributors": [
         {
@@ -59,8 +59,8 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,913",
-      "forks": "175",
+      "stars": "2,022",
+      "forks": "179",
       "addStars": "775",
       "contributors": [
         {
@@ -91,8 +91,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "89,099",
-      "forks": "7,036",
+      "stars": "89,786",
+      "forks": "7,115",
       "addStars": "3,152",
       "contributors": [
         {
@@ -128,8 +128,8 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,744",
-      "forks": "1,813",
+      "stars": "15,923",
+      "forks": "1,824",
       "addStars": "1,860",
       "contributors": [
         {
@@ -165,8 +165,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "20,360",
-      "forks": "773",
+      "stars": "20,554",
+      "forks": "780",
       "addStars": "2,086",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,337",
-      "forks": "981",
+      "stars": "14,583",
+      "forks": "994",
       "addStars": "2,012",
       "contributors": [
         {
@@ -239,8 +239,8 @@
       "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,486",
-      "forks": "5,033",
+      "stars": "29,748",
+      "forks": "5,063",
       "addStars": "1,535",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,349",
-      "forks": "1,550",
+      "stars": "15,445",
+      "forks": "1,557",
       "addStars": "788",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,102",
-      "forks": "2,029",
+      "stars": "13,347",
+      "forks": "2,049",
       "addStars": "1,026",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,232",
-      "forks": "240",
+      "stars": "4,330",
+      "forks": "245",
       "addStars": "111",
       "contributors": [
         {
@@ -382,8 +382,8 @@
       "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,303",
-      "forks": "81",
+      "stars": "2,372",
+      "forks": "84",
       "addStars": "621",
       "contributors": [
         {

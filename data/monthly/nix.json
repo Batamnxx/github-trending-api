@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Mar 2026 03:43:41 GMT",
+  "pubDate": "Wed, 18 Mar 2026 07:56:31 GMT",
   "items": [
     {
       "title": "openclaw/nix-openclaw",
@@ -10,7 +10,7 @@
       "description": "Packages OpenClaw for nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "555",
+      "stars": "558",
       "forks": "189",
       "addStars": "173",
       "contributors": [
@@ -32,7 +32,7 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "23,908",
+      "stars": "23,910",
       "forks": "18,361",
       "addStars": "458",
       "contributors": [
@@ -69,7 +69,7 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "818",
+      "stars": "819",
       "forks": "84",
       "addStars": "185",
       "contributors": [
@@ -91,7 +91,7 @@
       "description": "Unmodified Postgres with some useful extensions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,700",
+      "stars": "1,701",
       "forks": "235",
       "addStars": "12",
       "contributors": [
@@ -128,7 +128,7 @@
       "description": "",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "30",
+      "stars": "31",
       "forks": "37",
       "addStars": "10",
       "contributors": [
@@ -192,7 +192,7 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,980",
+      "stars": "2,981",
       "forks": "891",
       "addStars": "55",
       "contributors": [
@@ -224,7 +224,7 @@
       "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,431",
+      "stars": "1,432",
       "forks": "147",
       "addStars": "48",
       "contributors": [
@@ -332,38 +332,6 @@
       ]
     },
     {
-      "title": "BirdeeHub/nix-wrapper-modules",
-      "url": "https://github.com/BirdeeHub/nix-wrapper-modules",
-      "description": "Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": "145",
-      "forks": "11",
-      "addStars": "37",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/85372418?s=40&v=4",
-          "name": "BirdeeHub",
-          "url": "https://github.com/BirdeeHub"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/621759?s=40&v=4",
-          "name": "Lassulus",
-          "url": "https://github.com/Lassulus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/155641117?s=40&v=4",
-          "name": "rachitvrma",
-          "url": "https://github.com/rachitvrma"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19894025?s=40&v=4",
-          "name": "vinnymeller",
-          "url": "https://github.com/vinnymeller"
-        }
-      ]
-    },
-    {
       "title": "microvm-nix/microvm.nix",
       "url": "https://github.com/microvm-nix/microvm.nix",
       "description": "NixOS MicroVMs",
@@ -433,7 +401,7 @@
       "description": "Install flatpaks declaratively",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "810",
+      "stars": "811",
       "forks": "23",
       "addStars": "40",
       "contributors": [
@@ -470,7 +438,7 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "9,490",
+      "stars": "9,489",
       "forks": "2,323",
       "addStars": "139",
       "contributors": [

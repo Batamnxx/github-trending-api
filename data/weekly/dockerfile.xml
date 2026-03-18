@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Wed, 18 Mar 2026 03:43:41 GMT</pubDate>
+    <pubDate>Wed, 18 Mar 2026 07:56:31 GMT</pubDate>
     <item>
       <title>autowarefoundation/autoware</title>
       <link>https://github.com/autowarefoundation/autoware</link>
@@ -39,7 +39,7 @@
       <guid>https://github.com/vulhub/vulhub</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>20,396</stars>
+      <stars>20,398</stars>
       <forks>4,764</forks>
       <addStars>31</addStars>
       <contributors>
@@ -77,8 +77,8 @@
       <guid>https://github.com/goldbergyoni/nodebestpractices</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>105,167</stars>
-      <forks>10,702</forks>
+      <stars>105,166</stars>
+      <forks>10,704</forks>
       <addStars>48</addStars>
       <contributors>
         <contributor>
@@ -110,7 +110,7 @@
       <guid>https://github.com/TechHutTV/homelab</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>2,671</stars>
+      <stars>2,672</stars>
       <forks>279</forks>
       <addStars>44</addStars>
       <contributors>
@@ -148,7 +148,7 @@
       <guid>https://github.com/microsoft/vscode-remote-release</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>4,070</stars>
+      <stars>4,069</stars>
       <forks>429</forks>
       <addStars>4</addStars>
       <contributors>
@@ -262,8 +262,8 @@
       <guid>https://github.com/Anduin2017/HowToCook</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>98,896</stars>
-      <forks>10,876</forks>
+      <stars>98,899</stars>
+      <forks>10,874</forks>
       <addStars>256</addStars>
       <contributors>
         <contributor>
@@ -361,7 +361,7 @@
       <guid>https://github.com/piyushsachdeva/CKA-2024</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>990</stars>
+      <stars>992</stars>
       <forks>1,747</forks>
       <addStars>7</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Mar 2026 03:43:41 GMT",
+  "pubDate": "Wed, 18 Mar 2026 07:56:31 GMT",
   "items": [
     {
       "title": "autowarefoundation/autoware",
@@ -37,8 +37,8 @@
       "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "98,896",
-      "forks": "10,876",
+      "stars": "98,899",
+      "forks": "10,874",
       "addStars": "1,031",
       "contributors": [
         {
@@ -69,7 +69,7 @@
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "20,396",
+      "stars": "20,398",
       "forks": "4,764",
       "addStars": "147",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "4,070",
+      "stars": "4,069",
       "forks": "429",
       "addStars": "21",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "Homelab stacks, templates, and more fun resources!",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,671",
+      "stars": "2,672",
       "forks": "279",
       "addStars": "125",
       "contributors": [
@@ -217,8 +217,8 @@
       "description": "✅ The Node.js best practices list (July 2024)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "105,167",
-      "forks": "10,702",
+      "stars": "105,166",
+      "forks": "10,704",
       "addStars": "221",
       "contributors": [
         {
@@ -318,7 +318,7 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,430",
+      "stars": "2,431",
       "forks": "291",
       "addStars": "29",
       "contributors": [

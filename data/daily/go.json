@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Mar 2026 03:43:41 GMT",
+  "pubDate": "Wed, 18 Mar 2026 07:56:31 GMT",
   "items": [
     {
       "title": "vxcontrol/pentagi",
@@ -10,8 +10,8 @@
       "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,973",
-      "forks": "1,193",
+      "stars": "9,985",
+      "forks": "1,196",
       "addStars": "156",
       "contributors": [
         {
@@ -37,50 +37,13 @@
       ]
     },
     {
-      "title": "9seconds/mtg",
-      "url": "https://github.com/9seconds/mtg",
-      "description": "Highly opinionated MTPROTO proxy for Telegram",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "2,558",
-      "forks": "311",
-      "addStars": "67",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/831613?s=40&v=4",
-          "name": "9seconds",
-          "url": "https://github.com/9seconds"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5345489?s=40&v=4",
-          "name": "savely-krasovsky",
-          "url": "https://github.com/savely-krasovsky"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/888650?s=40&v=4",
-          "name": "im-kulikov",
-          "url": "https://github.com/im-kulikov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63096193?s=40&v=4",
-          "name": "Dank-del",
-          "url": "https://github.com/Dank-del"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/121666192?s=40&v=4",
-          "name": "ivulit",
-          "url": "https://github.com/ivulit"
-        }
-      ]
-    },
-    {
       "title": "projectdiscovery/katana",
       "url": "https://github.com/projectdiscovery/katana",
       "description": "A next-generation crawling and spidering framework.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,087",
-      "forks": "1,031",
+      "stars": "16,094",
+      "forks": "1,032",
       "addStars": "47",
       "contributors": [
         {
@@ -185,8 +148,8 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "22,319",
-      "forks": "6,937",
+      "stars": "22,321",
+      "forks": "6,938",
       "addStars": "14",
       "contributors": [
         {
@@ -217,7 +180,7 @@
       "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,897",
+      "stars": "4,901",
       "forks": "142",
       "addStars": "19",
       "contributors": [
@@ -286,8 +249,8 @@
       "description": "🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,082",
-      "forks": "4,846",
+      "stars": "25,091",
+      "forks": "4,847",
       "addStars": "36",
       "contributors": [
         {
@@ -355,8 +318,8 @@
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "88,254",
-      "forks": "8,573",
+      "stars": "88,255",
+      "forks": "8,574",
       "addStars": "16",
       "contributors": [
         {
@@ -456,7 +419,7 @@
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "19,364",
+      "stars": "19,366",
       "forks": "1,758",
       "addStars": "12",
       "contributors": [
@@ -493,7 +456,7 @@
       "description": "Blazing fast, structured, leveled logging in Go.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "24,373",
+      "stars": "24,372",
       "forks": "1,509",
       "addStars": "9",
       "contributors": [
@@ -567,8 +530,8 @@
       "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,438",
-      "forks": "1,740",
+      "stars": "17,534",
+      "forks": "1,739",
       "addStars": "620",
       "contributors": [
         {
@@ -599,7 +562,7 @@
       "description": "simple terminal UI for git commands",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "74,518",
+      "stars": "74,537",
       "forks": "2,617",
       "addStars": "105",
       "contributors": [

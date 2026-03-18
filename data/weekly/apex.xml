@@ -3,14 +3,14 @@
     <title>GitHub Apex Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Apex Languages in GitHub</description>
-    <pubDate>Wed, 18 Mar 2026 07:56:31 GMT</pubDate>
+    <pubDate>Wed, 18 Mar 2026 14:21:21 GMT</pubDate>
     <item>
       <title>forcedotcom/afv-library</title>
       <link>https://github.com/forcedotcom/afv-library</link>
       <description>Agentforce Vibes collection of AI skills, prompts and rules for coding, automation and more. Organized by category.</description>
       <guid>https://github.com/forcedotcom/afv-library</guid>
-      <language>Apex</language>
-      <languageColor>#1797c0</languageColor>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
       <stars>108</stars>
       <forks>54</forks>
       <addStars>6</addStars>
@@ -31,14 +31,14 @@
           <url>https://github.com/hsinghbisht-sfdc</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1509984?s=40&amp;v=4</avatar>
-          <name>mohanraj-r</name>
-          <url>https://github.com/mohanraj-r</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/116660077?s=40&amp;v=4</avatar>
           <name>svc-idee-bot</name>
           <url>https://github.com/svc-idee-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1509984?s=40&amp;v=4</avatar>
+          <name>mohanraj-r</name>
+          <url>https://github.com/mohanraj-r</url>
         </contributor>
       </contributors>
     </item>

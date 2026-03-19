@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Daily Trending",
   "description": "Daily Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Mar 2026 19:50:36 GMT",
+  "pubDate": "Thu, 19 Mar 2026 03:42:59 GMT",
   "items": [
     {
       "title": "openembedded/meta-openembedded",
@@ -109,9 +109,9 @@
           "url": "https://github.com/vkraleti"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/618901?s=40&v=4",
-          "name": "mwasilew",
-          "url": "https://github.com/mwasilew"
+          "avatar": "https://avatars.githubusercontent.com/u/4164703?s=40&v=4",
+          "name": "quaresmajose",
+          "url": "https://github.com/quaresmajose"
         }
       ]
     },
@@ -340,7 +340,7 @@
       "languageColor": "#00bce4",
       "stars": "537",
       "forks": "290",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3137284?s=40&v=4",

@@ -3,7 +3,7 @@
     <title>GitHub R Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of R Languages in GitHub</description>
-    <pubDate>Thu, 19 Mar 2026 03:42:59 GMT</pubDate>
+    <pubDate>Thu, 19 Mar 2026 07:51:00 GMT</pubDate>
     <item>
       <title>posit-dev/skills</title>
       <link>https://github.com/posit-dev/skills</link>
@@ -116,7 +116,7 @@
       <language>R</language>
       <languageColor>#198CE7</languageColor>
       <stars>882</stars>
-      <forks>143,871</forks>
+      <forks>143,870</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>

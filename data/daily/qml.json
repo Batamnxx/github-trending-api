@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 20 Mar 2026 03:33:28 GMT",
+  "pubDate": "Fri, 20 Mar 2026 07:49:13 GMT",
   "items": [
     {
       "title": "Keyitdev/sddm-astronaut-theme",
@@ -47,7 +47,7 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "5,126",
+      "stars": "5,127",
       "forks": "333",
       "addStars": "28",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "‼️ No waybar here ‼️",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "8,178",
+      "stars": "8,181",
       "forks": "544",
       "addStars": "20",
       "contributors": [

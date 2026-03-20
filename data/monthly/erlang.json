@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Monthly Trending",
   "description": "Monthly Trending of Erlang Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 20 Mar 2026 03:33:28 GMT",
+  "pubDate": "Fri, 20 Mar 2026 07:49:13 GMT",
   "items": [
     {
       "title": "erlang/otp",
@@ -20,14 +20,14 @@
           "url": "https://github.com/bjorng"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/158050?s=40&v=4",
-          "name": "bmk",
-          "url": "https://github.com/bmk"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/111762?s=40&v=4",
           "name": "garazdawi",
           "url": "https://github.com/garazdawi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158050?s=40&v=4",
+          "name": "bmk",
+          "url": "https://github.com/bmk"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/294507?s=40&v=4",

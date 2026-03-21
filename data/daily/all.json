@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 20 Mar 2026 19:39:12 GMT",
+  "pubDate": "Sat, 21 Mar 2026 03:24:38 GMT",
   "items": [
     {
       "title": "jarrodwatts/claude-hud",
@@ -10,9 +10,9 @@
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,401",
-      "forks": "397",
-      "addStars": "1,074",
+      "stars": "9,649",
+      "forks": "409",
+      "addStars": "1,068",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35651410?s=40&v=4",
@@ -37,9 +37,9 @@
       "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,549",
-      "forks": "915",
-      "addStars": "640",
+      "stars": "7,688",
+      "forks": "921",
+      "addStars": "635",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46789226?s=40&v=4",
@@ -64,9 +64,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "101,262",
-      "forks": "8,089",
-      "addStars": "2,886",
+      "stars": "101,752",
+      "forks": "8,136",
+      "addStars": "2,819",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -101,9 +101,9 @@
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "6,867",
-      "forks": "487",
-      "addStars": "1,848",
+      "stars": "7,134",
+      "forks": "505",
+      "addStars": "1,812",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,493",
-      "forks": "987",
-      "addStars": "1,073",
+      "stars": "11,637",
+      "forks": "993",
+      "addStars": "1,045",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44675238?s=40&v=4",
@@ -170,9 +170,9 @@
       "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,432",
-      "forks": "355",
-      "addStars": "267",
+      "stars": "3,496",
+      "forks": "359",
+      "addStars": "266",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -207,9 +207,9 @@
       "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,819",
-      "forks": "250",
-      "addStars": "136",
+      "stars": "1,991",
+      "forks": "267",
+      "addStars": "137",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/176344?s=40&v=4",
@@ -234,9 +234,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,901",
-      "forks": "6,501",
-      "addStars": "579",
+      "stars": "34,218",
+      "forks": "6,528",
+      "addStars": "433",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -271,9 +271,9 @@
       "description": "Model-rocketry aerodynamics and trajectory simulation software",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "2,155",
-      "forks": "575",
-      "addStars": "132",
+      "stars": "2,241",
+      "forks": "581",
+      "addStars": "144",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11031519?s=40&v=4",

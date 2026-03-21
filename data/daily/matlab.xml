@@ -3,7 +3,7 @@
     <title>GitHub Matlab Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Matlab Languages in GitHub</description>
-    <pubDate>Sat, 21 Mar 2026 13:42:08 GMT</pubDate>
+    <pubDate>Sat, 21 Mar 2026 19:29:54 GMT</pubDate>
     <item>
       <title>spm/spm</title>
       <link>https://github.com/spm/spm</link>
@@ -13,7 +13,7 @@
       <languageColor>#e16737</languageColor>
       <stars>186</stars>
       <forks>52</forks>
-      <addStars>0</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5950855?s=40&amp;v=4</avatar>
@@ -49,7 +49,7 @@
       <guid>https://github.com/TadasBaltrusaitis/OpenFace</guid>
       <language>MATLAB</language>
       <languageColor>#e16737</languageColor>
-      <stars>7,599</stars>
+      <stars>7,600</stars>
       <forks>1,909</forks>
       <addStars>1</addStars>
       <contributors>

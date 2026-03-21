@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 21 Mar 2026 13:42:08 GMT</pubDate>
+    <pubDate>Sat, 21 Mar 2026 19:29:54 GMT</pubDate>
     <item>
       <title>666ghj/MiroFish</title>
       <link>https://github.com/666ghj/MiroFish</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>37,801</stars>
-      <forks>5,059</forks>
+      <stars>38,154</stars>
+      <forks>5,109</forks>
       <addStars>16,022</addStars>
       <contributors>
         <contributor>
@@ -34,8 +34,8 @@
       <guid>https://github.com/jarrodwatts/claude-hud</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>10,091</stars>
-      <forks>436</forks>
+      <stars>10,307</stars>
+      <forks>443</forks>
       <addStars>4,693</addStars>
       <contributors>
         <contributor>
@@ -62,8 +62,8 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>22,991</stars>
-      <forks>892</forks>
+      <stars>23,183</stars>
+      <forks>903</forks>
       <addStars>8,189</addStars>
       <contributors>
         <contributor>
@@ -100,8 +100,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>102,540</stars>
-      <forks>8,220</forks>
+      <stars>103,035</stars>
+      <forks>8,270</forks>
       <addStars>19,921</addStars>
       <contributors>
         <contributor>
@@ -138,8 +138,8 @@
       <guid>https://github.com/langchain-ai/deepagents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,167</stars>
-      <forks>2,335</forks>
+      <stars>16,281</stars>
+      <forks>2,349</forks>
       <addStars>5,187</addStars>
       <contributors>
         <contributor>
@@ -176,8 +176,8 @@
       <guid>https://github.com/affaan-m/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>92,623</stars>
-      <forks>12,142</forks>
+      <stars>93,692</stars>
+      <forks>12,269</forks>
       <addStars>15,436</addStars>
       <contributors>
         <contributor>
@@ -209,8 +209,8 @@
       <guid>https://github.com/volcengine/OpenViking</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,272</stars>
-      <forks>1,177</forks>
+      <stars>17,423</stars>
+      <forks>1,190</forks>
       <addStars>8,772</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/shareAI-lab/learn-claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>35,083</stars>
-      <forks>5,637</forks>
+      <stars>35,220</stars>
+      <forks>5,655</forks>
       <addStars>8,733</addStars>
       <contributors>
         <contributor>
@@ -285,8 +285,8 @@
       <guid>https://github.com/msitarzewski/agency-agents</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>57,631</stars>
-      <forks>8,620</forks>
+      <stars>58,040</stars>
+      <forks>8,670</forks>
       <addStars>18,643</addStars>
       <contributors>
         <contributor>
@@ -323,8 +323,8 @@
       <guid>https://github.com/unslothai/unsloth</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>57,238</stars>
-      <forks>4,813</forks>
+      <stars>57,311</stars>
+      <forks>4,821</forks>
       <addStars>3,235</addStars>
       <contributors>
         <contributor>
@@ -356,8 +356,8 @@
       <guid>https://github.com/alibaba/page-agent</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,809</stars>
-      <forks>969</forks>
+      <stars>12,952</stars>
+      <forks>986</forks>
       <addStars>5,194</addStars>
       <contributors>
         <contributor>
@@ -379,8 +379,8 @@
       <guid>https://github.com/andrewyng/context-hub</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>11,167</stars>
-      <forks>983</forks>
+      <stars>11,252</stars>
+      <forks>989</forks>
       <addStars>5,170</addStars>
       <contributors>
         <contributor>
@@ -417,8 +417,8 @@
       <guid>https://github.com/shadps4-emu/shadPS4</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>30,227</stars>
-      <forks>2,043</forks>
+      <stars>30,249</stars>
+      <forks>2,048</forks>
       <addStars>1,658</addStars>
       <contributors>
         <contributor>

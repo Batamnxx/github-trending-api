@@ -2,7 +2,7 @@
   "title": "GitHub Fluent Languages Weekly Trending",
   "description": "Weekly Trending of Fluent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 21 Mar 2026 13:42:08 GMT",
+  "pubDate": "Sat, 21 Mar 2026 19:29:54 GMT",
   "items": [
     {
       "title": "mozilla/blurts-server",
@@ -10,8 +10,8 @@
       "description": "Mozilla Monitor arms you with tools to keep your personal information safe. Find out what hackers already know about you and learn how to stay a step ahead of them.",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "899",
-      "forks": "304",
+      "stars": "900",
+      "forks": "305",
       "addStars": "3",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "16,782",
+      "stars": "16,783",
       "forks": "1,749",
       "addStars": "60",
       "contributors": [

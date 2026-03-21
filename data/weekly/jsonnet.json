@@ -2,7 +2,7 @@
   "title": "GitHub Jsonnet Languages Weekly Trending",
   "description": "Weekly Trending of Jsonnet Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 21 Mar 2026 03:24:38 GMT",
+  "pubDate": "Sat, 21 Mar 2026 07:36:40 GMT",
   "items": [
     {
       "title": "kubeflow/community",
@@ -47,8 +47,8 @@
       "description": "Example Apps to Demonstrate Argo CD",
       "language": "Jsonnet",
       "languageColor": "#0064bd",
-      "stars": "2,062",
-      "forks": "9,568",
+      "stars": "2,063",
+      "forks": "9,569",
       "addStars": "4",
       "contributors": [
         {

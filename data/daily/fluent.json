@@ -2,7 +2,7 @@
   "title": "GitHub Fluent Languages Daily Trending",
   "description": "Daily Trending of Fluent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 21 Mar 2026 03:24:38 GMT",
+  "pubDate": "Sat, 21 Mar 2026 07:36:40 GMT",
   "items": [
     {
       "title": "mozilla/blurts-server",
@@ -11,7 +11,7 @@
       "language": "Fluent",
       "languageColor": "#ffcc33",
       "stars": "899",
-      "forks": "303",
+      "forks": "304",
       "addStars": "2",
       "contributors": [
         {

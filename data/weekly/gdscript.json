@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Weekly Trending",
   "description": "Weekly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 21 Mar 2026 03:24:38 GMT",
+  "pubDate": "Sat, 21 Mar 2026 07:36:40 GMT",
   "items": [
     {
       "title": "Alexofp/BDCC",
@@ -84,7 +84,7 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "5,221",
+      "stars": "5,222",
       "forks": "315",
       "addStars": "21",
       "contributors": [
@@ -159,7 +159,7 @@
       "language": "GDScript",
       "languageColor": "#355570",
       "stars": "2,181",
-      "forks": "374",
+      "forks": "375",
       "addStars": "22",
       "contributors": [
         {

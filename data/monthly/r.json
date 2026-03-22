@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Monthly Trending",
   "description": "Monthly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 22 Mar 2026 13:43:50 GMT",
+  "pubDate": "Sun, 22 Mar 2026 19:31:47 GMT",
   "items": [
     {
       "title": "posit-dev/skills",
@@ -47,7 +47,7 @@
       "description": "Dynamic Documents for R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "3,029",
+      "stars": "3,030",
       "forks": "994",
       "addStars": "13",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": "883",
-      "forks": "143,851",
+      "forks": "143,852",
       "addStars": "11",
       "contributors": [
         {

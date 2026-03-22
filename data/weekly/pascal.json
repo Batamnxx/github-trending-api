@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Weekly Trending",
   "description": "Weekly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 22 Mar 2026 03:41:45 GMT",
+  "pubDate": "Sun, 22 Mar 2026 07:40:47 GMT",
   "items": [
     {
       "title": "cheat-engine/cheat-engine",
@@ -10,8 +10,8 @@
       "description": "Cheat Engine. A development environment focused on modding",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "17,964",
-      "forks": "2,527",
+      "stars": "17,965",
+      "forks": "2,528",
       "addStars": "54",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "A fast, portable, simple, and free C/C++ IDE",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "2,903",
+      "stars": "2,904",
       "forks": "319",
       "addStars": "6",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "2,040",
+      "stars": "2,041",
       "forks": "397",
       "addStars": "5",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Sun, 22 Mar 2026 03:41:45 GMT</pubDate>
+    <pubDate>Sun, 22 Mar 2026 07:40:47 GMT</pubDate>
     <item>
       <title>FujiwaraChoki/MoneyPrinterV2</title>
       <link>https://github.com/FujiwaraChoki/MoneyPrinterV2</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,952</stars>
-      <forks>1,909</forks>
+      <stars>18,217</stars>
+      <forks>1,937</forks>
       <addStars>283</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/vllm-project/vllm-omni</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,538</stars>
-      <forks>588</forks>
+      <stars>3,570</stars>
+      <forks>592</forks>
       <addStars>71</addStars>
       <contributors>
         <contributor>
@@ -74,9 +74,9 @@
           <url>https://github.com/Gaohan123</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29850264?s=40&amp;v=4</avatar>
-          <name>princepride</name>
-          <url>https://github.com/princepride</url>
+          <avatar>https://avatars.githubusercontent.com/u/8156835?s=40&amp;v=4</avatar>
+          <name>SamitHuang</name>
+          <url>https://github.com/SamitHuang</url>
         </contributor>
       </contributors>
     </item>
@@ -87,8 +87,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>35,639</stars>
-      <forks>6,784</forks>
+      <stars>35,747</stars>
+      <forks>6,819</forks>
       <addStars>1,503</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>91,391</stars>
-      <forks>5,423</forks>
+      <stars>91,481</stars>
+      <forks>5,429</forks>
       <addStars>272</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/langchain-ai/open-swe</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,948</stars>
+      <stars>7,965</stars>
       <forks>943</forks>
       <addStars>428</addStars>
       <contributors>
@@ -191,7 +191,7 @@
       <guid>https://github.com/opengaming/osgameclones</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,809</stars>
+      <stars>2,813</stars>
       <forks>415</forks>
       <addStars>160</addStars>
       <contributors>
@@ -229,7 +229,7 @@
       <guid>https://github.com/meta-pytorch/OpenEnv</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,288</stars>
+      <stars>1,289</stars>
       <forks>208</forks>
       <addStars>10</addStars>
       <contributors>
@@ -267,8 +267,8 @@
       <guid>https://github.com/microsoft/apm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>678</stars>
-      <forks>49</forks>
+      <stars>680</stars>
+      <forks>50</forks>
       <addStars>54</addStars>
       <contributors>
         <contributor>
@@ -290,8 +290,8 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,975</stars>
-      <forks>1,407</forks>
+      <stars>14,008</stars>
+      <forks>1,413</forks>
       <addStars>427</addStars>
       <contributors>
         <contributor>
@@ -328,8 +328,8 @@
       <guid>https://github.com/unslothai/unsloth</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>57,395</stars>
-      <forks>4,833</forks>
+      <stars>57,428</stars>
+      <forks>4,836</forks>
       <addStars>242</addStars>
       <contributors>
         <contributor>
@@ -361,8 +361,8 @@
       <guid>https://github.com/simular-ai/Agent-S</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,451</stars>
-      <forks>1,220</forks>
+      <stars>10,463</stars>
+      <forks>1,221</forks>
       <addStars>43</addStars>
       <contributors>
         <contributor>
@@ -400,7 +400,7 @@
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
       <stars>9,664</stars>
-      <forks>1,004</forks>
+      <forks>1,005</forks>
       <addStars>20</addStars>
       <contributors>
         <contributor>
@@ -437,8 +437,8 @@
       <guid>https://github.com/facebookresearch/vjepa2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,334</stars>
-      <forks>383</forks>
+      <stars>3,336</stars>
+      <forks>384</forks>
       <addStars>27</addStars>
       <contributors>
         <contributor>
@@ -475,8 +475,8 @@
       <guid>https://github.com/huggingface/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,605</stars>
-      <forks>579</forks>
+      <stars>9,619</stars>
+      <forks>578</forks>
       <addStars>74</addStars>
       <contributors>
         <contributor>
@@ -513,8 +513,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>99,382</stars>
-      <forks>10,802</forks>
+      <stars>99,482</stars>
+      <forks>10,821</forks>
       <addStars>651</addStars>
       <contributors>
         <contributor>

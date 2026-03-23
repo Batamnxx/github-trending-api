@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Mar 2026 14:15:28 GMT",
+  "pubDate": "Mon, 23 Mar 2026 19:50:21 GMT",
   "items": [
     {
       "title": "FujiwaraChoki/MoneyPrinterV2",
@@ -10,8 +10,8 @@
       "description": "Automate the process of making money online.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,765",
-      "forks": "2,257",
+      "stars": "22,511",
+      "forks": "2,322",
       "addStars": "2,902",
       "contributors": [
         {
@@ -44,11 +44,11 @@
     {
       "title": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,794",
-      "forks": "4,482",
+      "stars": "38,804",
+      "forks": "4,564",
       "addStars": "3,569",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,255",
-      "forks": "1,144",
+      "stars": "13,011",
+      "forks": "1,220",
       "addStars": "4,148",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,685",
-      "forks": "1,577",
+      "stars": "12,883",
+      "forks": "1,606",
       "addStars": "1,307",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "83,286",
-      "forks": "9,699",
+      "stars": "83,502",
+      "forks": "9,717",
       "addStars": "1,160",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,618",
-      "forks": "7,233",
+      "stars": "38,994",
+      "forks": "7,276",
       "addStars": "2,521",
       "contributors": [
         {
@@ -222,7 +222,7 @@
       "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,804",
+      "stars": "31,847",
       "forks": "3,977",
       "addStars": "58",
       "contributors": [
@@ -254,8 +254,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "100,690",
-      "forks": "13,099",
+      "stars": "101,455",
+      "forks": "13,212",
       "addStars": "4,453",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,011",
-      "forks": "1,362",
+      "stars": "11,348",
+      "forks": "1,388",
       "addStars": "874",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,423",
-      "forks": "5,104",
+      "stars": "42,514",
+      "forks": "5,115",
       "addStars": "478",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,212",
-      "forks": "4,267",
+      "stars": "20,277",
+      "forks": "4,275",
       "addStars": "672",
       "contributors": [
         {
@@ -397,9 +397,9 @@
       "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
       "language": "",
       "languageColor": "",
-      "stars": "16,073",
-      "forks": "928",
-      "addStars": "367",
+      "stars": "16,237",
+      "forks": "931",
+      "addStars": "453",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10565871?s=40&v=4",
@@ -434,8 +434,8 @@
       "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,867",
-      "forks": "2,752",
+      "stars": "15,976",
+      "forks": "2,761",
       "addStars": "136",
       "contributors": [
         {
@@ -471,8 +471,8 @@
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "113,398",
-      "forks": "5,771",
+      "stars": "113,494",
+      "forks": "5,776",
       "addStars": "125",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,555",
-      "forks": "2,137",
+      "stars": "30,774",
+      "forks": "2,149",
       "addStars": "413",
       "contributors": [
         {

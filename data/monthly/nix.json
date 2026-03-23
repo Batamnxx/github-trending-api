@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 23 Mar 2026 14:15:28 GMT",
+  "pubDate": "Mon, 23 Mar 2026 19:50:21 GMT",
   "items": [
     {
       "title": "numtide/llm-agents.nix",
@@ -32,8 +32,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "24,003",
-      "forks": "18,396",
+      "stars": "24,004",
+      "forks": "18,404",
       "addStars": "490",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "Packages OpenClaw for nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "576",
-      "forks": "198",
+      "stars": "581",
+      "forks": "197",
       "addStars": "145",
       "contributors": [
         {
@@ -92,7 +92,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "2,993",
-      "forks": "895",
+      "forks": "896",
       "addStars": "56",
       "contributors": [
         {
@@ -187,7 +187,7 @@
       "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,442",
+      "stars": "1,443",
       "forks": "147",
       "addStars": "51",
       "contributors": [

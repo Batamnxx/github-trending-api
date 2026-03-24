@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 24 Mar 2026 14:18:47 GMT",
+  "pubDate": "Tue, 24 Mar 2026 19:54:14 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "24,017",
-      "forks": "18,414",
+      "stars": "24,023",
+      "forks": "18,416",
       "addStars": "128",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Packages OpenClaw for nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "586",
+      "stars": "587",
       "forks": "196",
       "addStars": "35",
       "contributors": [
@@ -91,7 +91,7 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "5,230",
+      "stars": "5,231",
       "forks": "604",
       "addStars": "34",
       "contributors": [
@@ -124,7 +124,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "2,195",
-      "forks": "317",
+      "forks": "318",
       "addStars": "8",
       "contributors": [
         {
@@ -219,7 +219,7 @@
       "description": "Nix-native configuration for niri",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "772",
+      "stars": "773",
       "forks": "115",
       "addStars": "15",
       "contributors": [
@@ -251,7 +251,7 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "852",
+      "stars": "855",
       "forks": "88",
       "addStars": "38",
       "contributors": [
@@ -342,7 +342,7 @@
       "description": "Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,428",
+      "stars": "1,427",
       "forks": "209",
       "addStars": "10",
       "contributors": [
@@ -379,7 +379,7 @@
       "description": "General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,427",
+      "stars": "3,428",
       "forks": "197",
       "addStars": "13",
       "contributors": [

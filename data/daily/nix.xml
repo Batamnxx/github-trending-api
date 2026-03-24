@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Nix Languages in GitHub</description>
-    <pubDate>Mon, 23 Mar 2026 19:50:21 GMT</pubDate>
+    <pubDate>Tue, 24 Mar 2026 03:38:16 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>24,004</stars>
-      <forks>18,404</forks>
-      <addStars>27</addStars>
+      <stars>24,010</stars>
+      <forks>18,407</forks>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37933096?s=40&amp;v=4</avatar>
@@ -50,8 +50,8 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>2,993</stars>
-      <forks>896</forks>
-      <addStars>3</addStars>
+      <forks>898</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -84,7 +84,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>5,230</stars>
       <forks>604</forks>
-      <addStars>7</addStars>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/689294?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/nix-community/home-manager</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>9,510</stars>
-      <forks>2,325</forks>
-      <addStars>6</addStars>
+      <stars>9,514</stars>
+      <forks>2,326</forks>
+      <addStars>7</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/798147?s=40&amp;v=4</avatar>
@@ -170,6 +170,39 @@
       </contributors>
     </item>
     <item>
+      <title>BirdeeHub/nix-wrapper-modules</title>
+      <link>https://github.com/BirdeeHub/nix-wrapper-modules</link>
+      <description>Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!</description>
+      <guid>https://github.com/BirdeeHub/nix-wrapper-modules</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>177</stars>
+      <forks>12</forks>
+      <addStars>14</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/85372418?s=40&amp;v=4</avatar>
+          <name>BirdeeHub</name>
+          <url>https://github.com/BirdeeHub</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/621759?s=40&amp;v=4</avatar>
+          <name>Lassulus</name>
+          <url>https://github.com/Lassulus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/155641117?s=40&amp;v=4</avatar>
+          <name>rachitvrma</name>
+          <url>https://github.com/rachitvrma</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19894025?s=40&amp;v=4</avatar>
+          <name>vinnymeller</name>
+          <url>https://github.com/vinnymeller</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>oxalica/rust-overlay</title>
       <link>https://github.com/oxalica/rust-overlay</link>
       <description>Pure and reproducible nix overlay of binary distributed rust toolchains</description>
@@ -178,7 +211,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>1,433</stars>
       <forks>84</forks>
-      <addStars>2</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
@@ -216,7 +249,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>2,195</stars>
       <forks>317</forks>
-      <addStars>1</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28959268?s=40&amp;v=4</avatar>
@@ -253,8 +286,8 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>851</stars>
-      <forks>87</forks>
-      <addStars>5</addStars>
+      <forks>88</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -300,7 +333,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>687</stars>
       <forks>37</forks>
-      <addStars>0</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/63286?s=40&amp;v=4</avatar>
@@ -331,9 +364,9 @@
       <guid>https://github.com/nix-community/disko</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,940</stars>
-      <forks>290</forks>
-      <addStars>0</addStars>
+      <stars>2,941</stars>
+      <forks>289</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -394,7 +427,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>2,406</stars>
       <forks>187</forks>
-      <addStars>9</addStars>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12923?s=40&amp;v=4</avatar>

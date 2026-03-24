@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nix Languages in GitHub</description>
-    <pubDate>Mon, 23 Mar 2026 19:50:21 GMT</pubDate>
+    <pubDate>Tue, 24 Mar 2026 03:38:16 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>24,004</stars>
-      <forks>18,404</forks>
-      <addStars>135</addStars>
+      <stars>24,010</stars>
+      <forks>18,407</forks>
+      <addStars>128</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37933096?s=40&amp;v=4</avatar>
@@ -51,7 +51,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>5,230</stars>
       <forks>604</forks>
-      <addStars>31</addStars>
+      <addStars>34</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/689294?s=40&amp;v=4</avatar>
@@ -72,6 +72,39 @@
           <avatar>https://avatars.githubusercontent.com/u/126339?s=40&amp;v=4</avatar>
           <name>domenkozar</name>
           <url>https://github.com/domenkozar</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>BirdeeHub/nix-wrapper-modules</title>
+      <link>https://github.com/BirdeeHub/nix-wrapper-modules</link>
+      <description>Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!</description>
+      <guid>https://github.com/BirdeeHub/nix-wrapper-modules</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>177</stars>
+      <forks>12</forks>
+      <addStars>32</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/85372418?s=40&amp;v=4</avatar>
+          <name>BirdeeHub</name>
+          <url>https://github.com/BirdeeHub</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/621759?s=40&amp;v=4</avatar>
+          <name>Lassulus</name>
+          <url>https://github.com/Lassulus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/155641117?s=40&amp;v=4</avatar>
+          <name>rachitvrma</name>
+          <url>https://github.com/rachitvrma</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19894025?s=40&amp;v=4</avatar>
+          <name>vinnymeller</name>
+          <url>https://github.com/vinnymeller</url>
         </contributor>
       </contributors>
     </item>
@@ -107,7 +140,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>2,706</stars>
       <forks>211</forks>
-      <addStars>14</addStars>
+      <addStars>16</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -129,8 +162,8 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>851</stars>
-      <forks>87</forks>
-      <addStars>40</addStars>
+      <forks>88</forks>
+      <addStars>38</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -151,9 +184,9 @@
       <guid>https://github.com/NotAShelf/nvf</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,424</stars>
-      <forks>206</forks>
-      <addStars>13</addStars>
+      <stars>1,425</stars>
+      <forks>207</forks>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/62766066?s=40&amp;v=4</avatar>
@@ -190,7 +223,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>2,993</stars>
-      <forks>896</forks>
+      <forks>898</forks>
       <addStars>14</addStars>
       <contributors>
         <contributor>
@@ -257,7 +290,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>1,705</stars>
       <forks>237</forks>
-      <addStars>6</addStars>
+      <addStars>7</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/26374889?s=40&amp;v=4</avatar>

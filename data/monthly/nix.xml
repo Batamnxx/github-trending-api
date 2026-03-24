@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Nix Languages in GitHub</description>
-    <pubDate>Mon, 23 Mar 2026 19:50:21 GMT</pubDate>
+    <pubDate>Tue, 24 Mar 2026 03:38:16 GMT</pubDate>
     <item>
       <title>numtide/llm-agents.nix</title>
       <link>https://github.com/numtide/llm-agents.nix</link>
@@ -12,8 +12,8 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>851</stars>
-      <forks>87</forks>
-      <addStars>174</addStars>
+      <forks>88</forks>
+      <addStars>169</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -34,9 +34,9 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>24,004</stars>
-      <forks>18,404</forks>
-      <addStars>490</addStars>
+      <stars>24,010</stars>
+      <forks>18,407</forks>
+      <addStars>494</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37933096?s=40&amp;v=4</avatar>
@@ -96,8 +96,8 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>2,993</stars>
-      <forks>896</forks>
-      <addStars>56</addStars>
+      <forks>898</forks>
+      <addStars>51</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -128,8 +128,8 @@
       <guid>https://github.com/NotAShelf/nvf</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,424</stars>
-      <forks>206</forks>
+      <stars>1,425</stars>
+      <forks>207</forks>
       <addStars>43</addStars>
       <contributors>
         <contributor>
@@ -166,9 +166,9 @@
       <guid>https://github.com/nix-community/disko</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,940</stars>
-      <forks>290</forks>
-      <addStars>75</addStars>
+      <stars>2,941</stars>
+      <forks>289</forks>
+      <addStars>73</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -196,7 +196,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>1,443</stars>
       <forks>147</forks>
-      <addStars>51</addStars>
+      <addStars>50</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/208010?s=40&amp;v=4</avatar>
@@ -221,15 +221,48 @@
       </contributors>
     </item>
     <item>
+      <title>BirdeeHub/nix-wrapper-modules</title>
+      <link>https://github.com/BirdeeHub/nix-wrapper-modules</link>
+      <description>Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!</description>
+      <guid>https://github.com/BirdeeHub/nix-wrapper-modules</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>177</stars>
+      <forks>12</forks>
+      <addStars>60</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/85372418?s=40&amp;v=4</avatar>
+          <name>BirdeeHub</name>
+          <url>https://github.com/BirdeeHub</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/621759?s=40&amp;v=4</avatar>
+          <name>Lassulus</name>
+          <url>https://github.com/Lassulus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/155641117?s=40&amp;v=4</avatar>
+          <name>rachitvrma</name>
+          <url>https://github.com/rachitvrma</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19894025?s=40&amp;v=4</avatar>
+          <name>vinnymeller</name>
+          <url>https://github.com/vinnymeller</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>nix-community/NixOS-WSL</title>
       <link>https://github.com/nix-community/NixOS-WSL</link>
       <description>NixOS on WSL [maintainer=@nzbr]</description>
       <guid>https://github.com/nix-community/NixOS-WSL</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,816</stars>
+      <stars>2,818</stars>
       <forks>153</forks>
-      <addStars>70</addStars>
+      <addStars>67</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7851175?s=40&amp;v=4</avatar>
@@ -262,7 +295,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>814</stars>
       <forks>23</forks>
-      <addStars>43</addStars>
+      <addStars>42</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/160387?s=40&amp;v=4</avatar>

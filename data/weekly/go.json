@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 24 Mar 2026 03:38:16 GMT",
+  "pubDate": "Tue, 24 Mar 2026 07:57:05 GMT",
   "items": [
     {
       "title": "Wei-Shaw/sub2api",
@@ -10,8 +10,8 @@
       "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,010",
-      "forks": "1,216",
+      "stars": "8,093",
+      "forks": "1,227",
       "addStars": "1,955",
       "contributors": [
         {
@@ -42,49 +42,12 @@
       ]
     },
     {
-      "title": "9seconds/mtg",
-      "url": "https://github.com/9seconds/mtg",
-      "description": "Highly opinionated MTPROTO proxy for Telegram",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": "2,780",
-      "forks": "321",
-      "addStars": "327",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/831613?s=40&v=4",
-          "name": "9seconds",
-          "url": "https://github.com/9seconds"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5345489?s=40&v=4",
-          "name": "savely-krasovsky",
-          "url": "https://github.com/savely-krasovsky"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/888650?s=40&v=4",
-          "name": "im-kulikov",
-          "url": "https://github.com/im-kulikov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63096193?s=40&v=4",
-          "name": "Dank-del",
-          "url": "https://github.com/Dank-del"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/121666192?s=40&v=4",
-          "name": "ivulit",
-          "url": "https://github.com/ivulit"
-        }
-      ]
-    },
-    {
       "title": "mudler/LocalAI",
       "url": "https://github.com/mudler/LocalAI",
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "44,278",
+      "stars": "44,296",
       "forks": "3,785",
       "addStars": "594",
       "contributors": [
@@ -111,7 +74,7 @@
       "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "18,570",
+      "stars": "18,577",
       "forks": "837",
       "addStars": "389",
       "contributors": [
@@ -138,7 +101,7 @@
       "description": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "20,105",
+      "stars": "20,181",
       "forks": "1,755",
       "addStars": "3,615",
       "contributors": [
@@ -170,7 +133,7 @@
       "description": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,945",
+      "stars": "39,917",
       "forks": "6,156",
       "addStars": "86",
       "contributors": [
@@ -207,8 +170,8 @@
       "description": "",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "420",
-      "forks": "53",
+      "stars": "423",
+      "forks": "54",
       "addStars": "98",
       "contributors": [
         {
@@ -244,8 +207,8 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "33,865",
-      "forks": "178",
+      "stars": "33,883",
+      "forks": "180",
       "addStars": "692",
       "contributors": [
         {
@@ -276,7 +239,7 @@
       "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "21,878",
+      "stars": "21,886",
       "forks": "1,390",
       "addStars": "446",
       "contributors": [
@@ -313,7 +276,7 @@
       "description": "A next-generation crawling and spidering framework.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,296",
+      "stars": "16,297",
       "forks": "1,060",
       "addStars": "266",
       "contributors": [
@@ -345,8 +308,8 @@
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "36,161",
-      "forks": "5,084",
+      "stars": "36,167",
+      "forks": "5,082",
       "addStars": "272",
       "contributors": [
         {
@@ -377,8 +340,8 @@
       "description": "IM Chat OpenClaw",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "15,991",
-      "forks": "2,826",
+      "stars": "15,995",
+      "forks": "2,825",
       "addStars": "118",
       "contributors": [
         {
@@ -414,8 +377,8 @@
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "51,725",
-      "forks": "10,340",
+      "stars": "51,689",
+      "forks": "10,339",
       "addStars": "100",
       "contributors": [
         {

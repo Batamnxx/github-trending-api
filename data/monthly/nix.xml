@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Nix Languages in GitHub</description>
-    <pubDate>Tue, 24 Mar 2026 03:38:16 GMT</pubDate>
+    <pubDate>Tue, 24 Mar 2026 07:57:05 GMT</pubDate>
     <item>
       <title>numtide/llm-agents.nix</title>
       <link>https://github.com/numtide/llm-agents.nix</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/numtide/llm-agents.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>851</stars>
+      <stars>852</stars>
       <forks>88</forks>
       <addStars>169</addStars>
       <contributors>
@@ -34,8 +34,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>24,010</stars>
-      <forks>18,407</forks>
+      <stars>24,014</stars>
+      <forks>18,409</forks>
       <addStars>494</addStars>
       <contributors>
         <contributor>
@@ -95,7 +95,7 @@
       <guid>https://github.com/NixOS/nixos-hardware</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,993</stars>
+      <stars>2,994</stars>
       <forks>898</forks>
       <addStars>51</addStars>
       <contributors>
@@ -128,7 +128,7 @@
       <guid>https://github.com/NotAShelf/nvf</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,425</stars>
+      <stars>1,426</stars>
       <forks>207</forks>
       <addStars>43</addStars>
       <contributors>
@@ -166,7 +166,7 @@
       <guid>https://github.com/nix-community/disko</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,941</stars>
+      <stars>2,942</stars>
       <forks>289</forks>
       <addStars>73</addStars>
       <contributors>
@@ -217,39 +217,6 @@
           <avatar>https://avatars.githubusercontent.com/u/9061737?s=40&amp;v=4</avatar>
           <name>natsukagami</name>
           <url>https://github.com/natsukagami</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>BirdeeHub/nix-wrapper-modules</title>
-      <link>https://github.com/BirdeeHub/nix-wrapper-modules</link>
-      <description>Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!</description>
-      <guid>https://github.com/BirdeeHub/nix-wrapper-modules</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>177</stars>
-      <forks>12</forks>
-      <addStars>60</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/85372418?s=40&amp;v=4</avatar>
-          <name>BirdeeHub</name>
-          <url>https://github.com/BirdeeHub</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/621759?s=40&amp;v=4</avatar>
-          <name>Lassulus</name>
-          <url>https://github.com/Lassulus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/155641117?s=40&amp;v=4</avatar>
-          <name>rachitvrma</name>
-          <url>https://github.com/rachitvrma</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19894025?s=40&amp;v=4</avatar>
-          <name>vinnymeller</name>
-          <url>https://github.com/vinnymeller</url>
         </contributor>
       </contributors>
     </item>

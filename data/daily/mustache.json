@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 25 Mar 2026 03:41:01 GMT",
+  "pubDate": "Wed, 25 Mar 2026 07:57:09 GMT",
   "items": [
     {
       "title": "aws/eks-charts",
@@ -117,7 +117,7 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": "1,355",
-      "forks": "582",
+      "forks": "581",
       "addStars": "0",
       "contributors": [
         {
@@ -186,7 +186,7 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": "527",
-      "forks": "1,295",
+      "forks": "1,296",
       "addStars": "0",
       "contributors": [
         {
@@ -303,8 +303,8 @@
       "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": "17,723",
-      "forks": "6,016",
+      "stars": "17,722",
+      "forks": "6,015",
       "addStars": "0",
       "contributors": [
         {

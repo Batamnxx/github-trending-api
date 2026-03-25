@@ -2,7 +2,7 @@
   "title": "GitHub Matlab Languages Daily Trending",
   "description": "Daily Trending of Matlab Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 25 Mar 2026 03:41:01 GMT",
+  "pubDate": "Wed, 25 Mar 2026 07:57:09 GMT",
   "items": [
     {
       "title": "mathworks/MATLAB-Simulink-Challenge-Project-Hub",
@@ -84,7 +84,7 @@
       "description": "OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.",
       "language": "MATLAB",
       "languageColor": "#e16737",
-      "stars": "7,607",
+      "stars": "7,606",
       "forks": "1,910",
       "addStars": "3",
       "contributors": [

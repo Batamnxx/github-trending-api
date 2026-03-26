@@ -2,7 +2,7 @@
   "title": "GitHub Openscad Languages Weekly Trending",
   "description": "Weekly Trending of Openscad Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 25 Mar 2026 19:48:48 GMT",
+  "pubDate": "Thu, 26 Mar 2026 03:50:33 GMT",
   "items": [
     {
       "title": "BelfrySCAD/BOSL2",
@@ -12,7 +12,7 @@
       "languageColor": "#e5cd45",
       "stars": "2,053",
       "forks": "180",
-      "addStars": "22",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/350001?s=40&v=4",

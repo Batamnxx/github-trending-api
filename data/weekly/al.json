@@ -2,7 +2,7 @@
   "title": "GitHub Al Languages Weekly Trending",
   "description": "Weekly Trending of Al Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 28 Mar 2026 13:51:50 GMT",
+  "pubDate": "Sat, 28 Mar 2026 19:34:34 GMT",
   "items": [
     {
       "title": "microsoft/BCApps",
@@ -11,7 +11,7 @@
       "language": "AL",
       "languageColor": "#3AA2B5",
       "stars": "554",
-      "forks": "358",
+      "forks": "359",
       "addStars": "3",
       "contributors": [
         {

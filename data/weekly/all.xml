@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 29 Mar 2026 03:57:25 GMT</pubDate>
+    <pubDate>Sun, 29 Mar 2026 07:53:57 GMT</pubDate>
     <item>
       <title>mvanhorn/last30days-skill</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,279</stars>
-      <forks>1,138</forks>
+      <stars>14,466</stars>
+      <forks>1,153</forks>
       <addStars>9,091</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>27,014</stars>
-      <forks>2,844</forks>
+      <stars>27,052</stars>
+      <forks>2,847</forks>
       <addStars>10,133</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,206</stars>
-      <forks>1,827</forks>
+      <stars>19,306</stars>
+      <forks>1,834</forks>
       <addStars>13,244</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,425</stars>
-      <forks>6,158</forks>
+      <stars>51,676</stars>
+      <forks>6,193</forks>
       <addStars>18,872</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>43,428</stars>
-      <forks>7,914</forks>
+      <stars>43,523</stars>
+      <forks>7,926</forks>
       <addStars>8,220</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/supermemoryai/supermemory</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,158</stars>
-      <forks>1,866</forks>
+      <stars>20,198</stars>
+      <forks>1,869</forks>
       <addStars>3,029</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/affaan-m/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>114,968</stars>
-      <forks>14,961</forks>
+      <stars>115,292</stars>
+      <forks>14,998</forks>
       <addStars>21,644</addStars>
       <contributors>
         <contributor>
@@ -253,11 +253,6 @@
           <name>claude</name>
           <url>https://github.com/claude</url>
         </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4427450?s=40&amp;v=4</avatar>
-          <name>pvgomes</name>
-          <url>https://github.com/pvgomes</url>
-        </contributor>
       </contributors>
     </item>
     <item>
@@ -267,8 +262,8 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,761</stars>
-      <forks>7,596</forks>
+      <stars>53,785</stars>
+      <forks>7,597</forks>
       <addStars>3,362</addStars>
       <contributors>
         <contributor>
@@ -305,8 +300,8 @@
       <guid>https://github.com/hacksider/Deep-Live-Cam</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>84,440</stars>
-      <forks>12,330</forks>
+      <stars>84,614</stars>
+      <forks>12,355</forks>
       <addStars>3,667</addStars>
       <contributors>
         <contributor>
@@ -343,8 +338,8 @@
       <guid>https://github.com/hsliuping/TradingAgents-CN</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,957</stars>
-      <forks>4,529</forks>
+      <stars>21,974</stars>
+      <forks>4,535</forks>
       <addStars>2,657</addStars>
       <contributors>
         <contributor>
@@ -381,8 +376,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,480</stars>
-      <forks>1,887</forks>
+      <stars>15,604</stars>
+      <forks>1,904</forks>
       <addStars>5,382</addStars>
       <contributors>
         <contributor>
@@ -406,9 +401,9 @@
           <url>https://github.com/aydnOktay</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/78954051?s=40&amp;v=4</avatar>
+          <name>ygd58</name>
+          <url>https://github.com/ygd58</url>
         </contributor>
       </contributors>
     </item>
@@ -419,8 +414,8 @@
       <guid>https://github.com/letta-ai/claude-subconscious</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,138</stars>
-      <forks>153</forks>
+      <stars>2,160</stars>
+      <forks>154</forks>
       <addStars>1,112</addStars>
       <contributors>
         <contributor>
@@ -457,8 +452,8 @@
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,382</stars>
-      <forks>5,321</forks>
+      <stars>44,418</stars>
+      <forks>5,329</forks>
       <addStars>2,617</addStars>
       <contributors>
         <contributor>
@@ -495,8 +490,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>121,015</stars>
-      <forks>9,823</forks>
+      <stars>121,401</stars>
+      <forks>9,863</forks>
       <addStars>17,608</addStars>
       <contributors>
         <contributor>
@@ -533,8 +528,8 @@
       <guid>https://github.com/jarrodwatts/claude-hud</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>14,713</stars>
-      <forks>600</forks>
+      <stars>14,781</stars>
+      <forks>603</forks>
       <addStars>4,505</addStars>
       <contributors>
         <contributor>
@@ -561,8 +556,8 @@
       <guid>https://github.com/SakanaAI/AI-Scientist-v2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,547</stars>
-      <forks>539</forks>
+      <stars>3,631</stars>
+      <forks>545</forks>
       <addStars>855</addStars>
       <contributors>
         <contributor>

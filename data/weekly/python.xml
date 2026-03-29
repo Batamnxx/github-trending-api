@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Sun, 29 Mar 2026 03:57:25 GMT</pubDate>
+    <pubDate>Sun, 29 Mar 2026 07:53:57 GMT</pubDate>
     <item>
       <title>mvanhorn/last30days-skill</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,288</stars>
-      <forks>1,140</forks>
+      <stars>14,478</stars>
+      <forks>1,153</forks>
       <addStars>9,091</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>27,018</stars>
-      <forks>2,844</forks>
+      <stars>27,056</stars>
+      <forks>2,847</forks>
       <addStars>10,133</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,444</stars>
-      <forks>6,161</forks>
+      <stars>51,699</stars>
+      <forks>6,198</forks>
       <addStars>18,872</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>43,438</stars>
-      <forks>7,914</forks>
+      <stars>43,532</stars>
+      <forks>7,927</forks>
       <addStars>8,220</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,763</stars>
+      <stars>53,786</stars>
       <forks>7,597</forks>
       <addStars>3,362</addStars>
       <contributors>
@@ -201,8 +201,8 @@
       <guid>https://github.com/hacksider/Deep-Live-Cam</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>84,454</stars>
-      <forks>12,333</forks>
+      <stars>84,619</stars>
+      <forks>12,356</forks>
       <addStars>3,667</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/hsliuping/TradingAgents-CN</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,958</stars>
-      <forks>4,531</forks>
+      <stars>21,976</stars>
+      <forks>4,537</forks>
       <addStars>2,657</addStars>
       <contributors>
         <contributor>
@@ -277,8 +277,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,493</stars>
-      <forks>1,889</forks>
+      <stars>15,616</stars>
+      <forks>1,905</forks>
       <addStars>5,382</addStars>
       <contributors>
         <contributor>
@@ -315,8 +315,8 @@
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,384</stars>
-      <forks>5,321</forks>
+      <stars>44,420</stars>
+      <forks>5,329</forks>
       <addStars>2,617</addStars>
       <contributors>
         <contributor>
@@ -353,8 +353,8 @@
       <guid>https://github.com/SakanaAI/AI-Scientist-v2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,553</stars>
-      <forks>539</forks>
+      <stars>3,638</stars>
+      <forks>545</forks>
       <addStars>855</addStars>
       <contributors>
         <contributor>
@@ -391,8 +391,8 @@
       <guid>https://github.com/hesreallyhim/awesome-claude-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>33,716</stars>
-      <forks>2,430</forks>
+      <stars>33,759</stars>
+      <forks>2,435</forks>
       <addStars>3,980</addStars>
       <contributors>
         <contributor>
@@ -419,8 +419,8 @@
       <guid>https://github.com/browser-use/browser-use</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>84,867</stars>
-      <forks>9,826</forks>
+      <stars>84,884</stars>
+      <forks>9,829</forks>
       <addStars>3,204</addStars>
       <contributors>
         <contributor>
@@ -457,7 +457,7 @@
       <guid>https://github.com/plastic-labs/honcho</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,243</stars>
+      <stars>1,247</stars>
       <forks>140</forks>
       <addStars>516</addStars>
       <contributors>
@@ -495,8 +495,8 @@
       <guid>https://github.com/vllm-project/vllm-omni</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,918</stars>
-      <forks>636</forks>
+      <stars>3,924</stars>
+      <forks>637</forks>
       <addStars>650</addStars>
       <contributors>
         <contributor>
@@ -533,8 +533,8 @@
       <guid>https://github.com/dreammis/social-auto-upload</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,420</stars>
-      <forks>1,689</forks>
+      <stars>9,427</stars>
+      <forks>1,690</forks>
       <addStars>481</addStars>
       <contributors>
         <contributor>

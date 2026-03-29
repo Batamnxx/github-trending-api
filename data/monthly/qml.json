@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Monthly Trending",
   "description": "Monthly Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 28 Mar 2026 19:34:34 GMT",
+  "pubDate": "Sun, 29 Mar 2026 03:57:25 GMT",
   "items": [
     {
       "title": "caelestia-dots/shell",
@@ -10,9 +10,9 @@
       "description": "‼️ No waybar here ‼️",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "8,478",
+      "stars": "8,487",
       "forks": "557",
-      "addStars": "776",
+      "addStars": "813",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
@@ -44,7 +44,7 @@
       "languageColor": "#44a51c",
       "stars": "898",
       "forks": "59",
-      "addStars": "328",
+      "addStars": "333",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66109459?s=40&v=4",
@@ -80,8 +80,8 @@
       "language": "QML",
       "languageColor": "#44a51c",
       "stars": "698",
-      "forks": "36",
-      "addStars": "214",
+      "forks": "37",
+      "addStars": "226",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/190140834?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "13,617",
-      "forks": "1,090",
-      "addStars": "665",
+      "stars": "13,619",
+      "forks": "1,092",
+      "addStars": "687",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/97237370?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "25,344",
+      "stars": "25,346",
       "forks": "968",
-      "addStars": "172",
+      "addStars": "175",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6009070?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "5,329",
+      "stars": "5,337",
       "forks": "339",
-      "addStars": "656",
+      "addStars": "684",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/550752?s=40&v=4",
@@ -256,7 +256,7 @@
       "languageColor": "#44a51c",
       "stars": "2,686",
       "forks": "119",
-      "addStars": "59",
+      "addStars": "62",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36527596?s=40&v=4",
@@ -293,7 +293,7 @@
       "languageColor": "#44a51c",
       "stars": "2,633",
       "forks": "189",
-      "addStars": "103",
+      "addStars": "109",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70140437?s=40&v=4",

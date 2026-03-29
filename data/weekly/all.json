@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 29 Mar 2026 13:54:00 GMT",
+  "pubDate": "Sun, 29 Mar 2026 19:36:34 GMT",
   "items": [
     {
       "title": "mvanhorn/last30days-skill",
@@ -10,8 +10,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,802",
-      "forks": "1,176",
+      "stars": "15,141",
+      "forks": "1,202",
       "addStars": "9,091",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,098",
-      "forks": "6,271",
+      "stars": "52,385",
+      "forks": "6,307",
       "addStars": "18,872",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Automate the process of making money online.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "27,095",
-      "forks": "2,851",
+      "stars": "27,168",
+      "forks": "2,867",
       "addStars": "10,133",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,466",
-      "forks": "1,844",
+      "stars": "19,629",
+      "forks": "1,861",
       "addStars": "13,244",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "43,693",
-      "forks": "7,958",
+      "stars": "43,858",
+      "forks": "7,971",
       "addStars": "8,220",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "84,879",
-      "forks": "12,381",
+      "stars": "85,111",
+      "forks": "12,409",
       "addStars": "3,667",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,249",
-      "forks": "1,871",
+      "stars": "20,291",
+      "forks": "1,872",
       "addStars": "3,029",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "115,815",
-      "forks": "15,068",
+      "stars": "116,270",
+      "forks": "15,126",
       "addStars": "21,644",
       "contributors": [
         {
@@ -282,11 +282,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4427450?s=40&v=4",
-          "name": "pvgomes",
-          "url": "https://github.com/pvgomes"
         }
       ]
     },
@@ -296,8 +291,8 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "53,826",
-      "forks": "7,601",
+      "stars": "53,869",
+      "forks": "7,608",
       "addStars": "3,362",
       "contributors": [
         {
@@ -333,8 +328,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,934",
-      "forks": "1,942",
+      "stars": "16,358",
+      "forks": "2,004",
       "addStars": "5,382",
       "contributors": [
         {
@@ -358,9 +353,9 @@
           "url": "https://github.com/aydnOktay"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/78954051?s=40&v=4",
+          "name": "ygd58",
+          "url": "https://github.com/ygd58"
         }
       ]
     },
@@ -370,8 +365,8 @@
       "description": "Give Claude Code a subconscious",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,188",
-      "forks": "156",
+      "stars": "2,216",
+      "forks": "159",
       "addStars": "1,112",
       "contributors": [
         {
@@ -407,8 +402,8 @@
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,736",
-      "forks": "560",
+      "stars": "3,805",
+      "forks": "573",
       "addStars": "855",
       "contributors": [
         {
@@ -444,8 +439,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,020",
-      "forks": "4,546",
+      "stars": "22,067",
+      "forks": "4,554",
       "addStars": "2,657",
       "contributors": [
         {
@@ -481,8 +476,8 @@
       "description": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,458",
-      "forks": "5,339",
+      "stars": "44,504",
+      "forks": "5,345",
       "addStars": "2,617",
       "contributors": [
         {
@@ -518,8 +513,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "122,029",
-      "forks": "9,923",
+      "stars": "122,568",
+      "forks": "9,982",
       "addStars": "17,608",
       "contributors": [
         {
@@ -555,8 +550,8 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,866",
-      "forks": "2,440",
+      "stars": "33,964",
+      "forks": "2,450",
       "addStars": "3,980",
       "contributors": [
         {
@@ -582,7 +577,7 @@
       "description": "A guide on how to use the Figma MCP server",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "750",
+      "stars": "761",
       "forks": "58",
       "addStars": "282",
       "contributors": [

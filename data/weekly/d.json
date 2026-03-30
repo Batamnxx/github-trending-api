@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Weekly Trending",
   "description": "Weekly Trending of D Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 30 Mar 2026 08:22:46 GMT",
+  "pubDate": "Mon, 30 Mar 2026 14:26:14 GMT",
   "items": [
     {
       "title": "dlang/dmd",
@@ -47,8 +47,8 @@
       "description": "sidestore's anisette-v3 compatible server",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "436",
-      "forks": "2,003",
+      "stars": "437",
+      "forks": "2,004",
       "addStars": "2",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Weekly Trending",
   "description": "Weekly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 30 Mar 2026 04:10:52 GMT",
+  "pubDate": "Mon, 30 Mar 2026 08:22:46 GMT",
   "items": [
     {
       "title": "jrsoftware/issrc",
@@ -10,7 +10,7 @@
       "description": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "5,254",
+      "stars": "5,255",
       "forks": "1,079",
       "addStars": "19",
       "contributors": [
@@ -196,7 +196,7 @@
       "language": "Pascal",
       "languageColor": "#E3F171",
       "stars": "18,004",
-      "forks": "2,529",
+      "forks": "2,530",
       "addStars": "44",
       "contributors": [
         {

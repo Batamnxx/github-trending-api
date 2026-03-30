@@ -3,7 +3,7 @@
     <title>GitHub Pascal Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Pascal Languages in GitHub</description>
-    <pubDate>Mon, 30 Mar 2026 04:10:52 GMT</pubDate>
+    <pubDate>Mon, 30 Mar 2026 08:22:46 GMT</pubDate>
     <item>
       <title>Embarcadero/Dev-Cpp</title>
       <link>https://github.com/Embarcadero/Dev-Cpp</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/jrsoftware/issrc</guid>
       <language>Pascal</language>
       <languageColor>#E3F171</languageColor>
-      <stars>5,254</stars>
+      <stars>5,255</stars>
       <forks>1,079</forks>
       <addStars>87</addStars>
       <contributors>
@@ -126,7 +126,7 @@
       <language>Pascal</language>
       <languageColor>#E3F171</languageColor>
       <stars>18,004</stars>
-      <forks>2,529</forks>
+      <forks>2,530</forks>
       <addStars>194</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/nofeletru/UsbAsp-flash</guid>
       <language>Pascal</language>
       <languageColor>#E3F171</languageColor>
-      <stars>1,282</stars>
+      <stars>1,279</stars>
       <forks>226</forks>
       <addStars>20</addStars>
       <contributors>

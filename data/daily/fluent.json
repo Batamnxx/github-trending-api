@@ -2,7 +2,7 @@
   "title": "GitHub Fluent Languages Daily Trending",
   "description": "Daily Trending of Fluent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 30 Mar 2026 04:10:52 GMT",
+  "pubDate": "Mon, 30 Mar 2026 08:22:46 GMT",
   "items": [
     {
       "title": "SlimeVR/SlimeVR-Server",
@@ -148,7 +148,7 @@
       "description": "An Anime Game launcher for Linux with telemetry disabling",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "2,046",
+      "stars": "2,047",
       "forks": "83",
       "addStars": "1",
       "contributors": [

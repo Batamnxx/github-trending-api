@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Monthly Trending",
   "description": "Monthly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 30 Mar 2026 04:10:52 GMT",
+  "pubDate": "Mon, 30 Mar 2026 08:22:46 GMT",
   "items": [
     {
       "title": "Embarcadero/Dev-Cpp",
@@ -47,7 +47,7 @@
       "description": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "5,254",
+      "stars": "5,255",
       "forks": "1,079",
       "addStars": "87",
       "contributors": [
@@ -122,7 +122,7 @@
       "language": "Pascal",
       "languageColor": "#E3F171",
       "stars": "18,004",
-      "forks": "2,529",
+      "forks": "2,530",
       "addStars": "194",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "1,282",
+      "stars": "1,279",
       "forks": "226",
       "addStars": "20",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Monthly Trending",
   "description": "Monthly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 30 Mar 2026 04:10:52 GMT",
+  "pubDate": "Mon, 30 Mar 2026 08:22:46 GMT",
   "items": [
     {
       "title": "codecrafters-io/build-your-own-x",
@@ -10,8 +10,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "484,467",
-      "forks": "45,582",
+      "stars": "484,577",
+      "forks": "45,587",
       "addStars": "16,058",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "The OpenAPI Specification Repository",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "30,999",
+      "stars": "30,997",
       "forks": "9,168",
       "addStars": "115",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "35,789",
+      "stars": "35,788",
       "forks": "6,594",
       "addStars": "273",
       "contributors": [
@@ -217,8 +217,8 @@
       "description": "Collaborative cheatsheets for console commands 📚.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "61,828",
-      "forks": "5,135",
+      "stars": "61,844",
+      "forks": "5,140",
       "addStars": "436",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "RFCs for changes to Rust",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "6,433",
-      "forks": "1,675",
+      "stars": "6,432",
+      "forks": "1,674",
       "addStars": "41",
       "contributors": [
         {
@@ -361,7 +361,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "3,937",
-      "forks": "268",
+      "forks": "269",
       "addStars": "74",
       "contributors": [
         {
@@ -393,7 +393,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "10,627",
-      "forks": "23,151",
+      "forks": "23,152",
       "addStars": "104",
       "contributors": [
         {

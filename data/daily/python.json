@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 30 Mar 2026 14:26:14 GMT",
+  "pubDate": "Mon, 30 Mar 2026 19:57:04 GMT",
   "items": [
     {
       "title": "microsoft/VibeVoice",
@@ -10,8 +10,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,922",
-      "forks": "3,163",
+      "stars": "29,618",
+      "forks": "3,241",
       "addStars": "2,509",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,216",
-      "forks": "935",
+      "stars": "9,613",
+      "forks": "964",
       "addStars": "4,150",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "86,009",
-      "forks": "12,504",
+      "stars": "86,219",
+      "forks": "12,527",
       "addStars": "1,138",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "64,333",
-      "forks": "6,334",
+      "stars": "64,458",
+      "forks": "6,347",
       "addStars": "499",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "74,381",
-      "forks": "8,825",
+      "stars": "74,570",
+      "forks": "8,833",
       "addStars": "68",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,850",
-      "forks": "2,160",
+      "stars": "18,303",
+      "forks": "2,207",
       "addStars": "1,859",
       "contributors": [
         {
@@ -222,9 +222,9 @@
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,990",
-      "forks": "588",
-      "addStars": "519",
+      "stars": "4,031",
+      "forks": "593",
+      "addStars": "240",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20336225?s=40&v=4",
@@ -259,8 +259,8 @@
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,969",
-      "forks": "1,380",
+      "stars": "16,003",
+      "forks": "1,383",
       "addStars": "349",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "56,747",
-      "forks": "6,223",
+      "stars": "56,831",
+      "forks": "6,228",
       "addStars": "869",
       "contributors": [
         {
@@ -328,9 +328,9 @@
       "description": "An AI Hedge Fund Team",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "49,773",
-      "forks": "8,647",
-      "addStars": "91",
+      "stars": "49,793",
+      "forks": "8,649",
+      "addStars": "61",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&v=4",
@@ -365,8 +365,8 @@
       "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,223",
-      "forks": "3,975",
+      "stars": "32,242",
+      "forks": "3,979",
       "addStars": "255",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "Translate the video from one language to another and embed dubbing & subtitles.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,716",
-      "forks": "1,976",
+      "stars": "16,723",
+      "forks": "1,977",
       "addStars": "67",
       "contributors": [
         {

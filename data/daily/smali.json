@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Daily Trending",
   "description": "Daily Trending of Smali Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 31 Mar 2026 14:26:17 GMT",
+  "pubDate": "Tue, 31 Mar 2026 19:56:06 GMT",
   "items": [
     {
       "title": "Producdevity/gamehub-lite",
@@ -79,7 +79,7 @@
       "description": "Android Remote Administration Tool",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "5,107",
+      "stars": "5,108",
       "forks": "1,841",
       "addStars": "4",
       "contributors": [

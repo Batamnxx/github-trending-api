@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 31 Mar 2026 14:26:17 GMT</pubDate>
+    <pubDate>Tue, 31 Mar 2026 19:56:06 GMT</pubDate>
     <item>
       <title>mvanhorn/last30days-skill</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,753</stars>
-      <forks>1,331</forks>
+      <stars>16,844</stars>
+      <forks>1,341</forks>
       <addStars>11,605</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,491</stars>
-      <forks>3,614</forks>
+      <stars>32,891</stars>
+      <forks>3,703</forks>
       <addStars>4,768</addStars>
       <contributors>
         <contributor>
@@ -69,9 +69,9 @@
           <url>https://github.com/MSJwyu</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/103027390?s=40&amp;v=4</avatar>
-          <name>Damon-Salvetore</name>
-          <url>https://github.com/Damon-Salvetore</url>
+          <avatar>https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4</avatar>
+          <name>pengzhiliang</name>
+          <url>https://github.com/pengzhiliang</url>
         </contributor>
       </contributors>
     </item>
@@ -82,8 +82,8 @@
       <guid>https://github.com/hacksider/Deep-Live-Cam</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>86,876</stars>
-      <forks>12,607</forks>
+      <stars>86,957</stars>
+      <forks>12,616</forks>
       <addStars>5,826</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>54,993</stars>
-      <forks>6,646</forks>
+      <stars>55,157</stars>
+      <forks>6,675</forks>
       <addStars>16,370</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/SakanaAI/AI-Scientist-v2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,160</stars>
-      <forks>612</forks>
+      <stars>4,192</stars>
+      <forks>614</forks>
       <addStars>1,664</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-claudecode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>18,228</stars>
-      <forks>1,286</forks>
+      <stars>18,695</stars>
+      <forks>1,364</forks>
       <addStars>6,286</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/pascalorg/editor</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,685</stars>
-      <forks>1,121</forks>
+      <stars>8,741</stars>
+      <forks>1,127</forks>
       <addStars>5,612</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,678</stars>
-      <forks>2,385</forks>
+      <stars>20,081</stars>
+      <forks>2,433</forks>
       <addStars>6,892</addStars>
       <contributors>
         <contributor>
@@ -310,8 +310,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>127,443</stars>
-      <forks>10,403</forks>
+      <stars>127,874</stars>
+      <forks>10,447</forks>
       <addStars>18,199</addStars>
       <contributors>
         <contributor>
@@ -348,8 +348,8 @@
       <guid>https://github.com/affaan-m/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>124,206</stars>
-      <forks>16,455</forks>
+      <stars>125,894</stars>
+      <forks>17,010</forks>
       <addStars>17,901</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,969</stars>
-      <forks>8,139</forks>
+      <stars>45,093</stars>
+      <forks>8,150</forks>
       <addStars>5,888</addStars>
       <contributors>
         <contributor>
@@ -414,7 +414,7 @@
       <guid>https://github.com/letta-ai/claude-subconscious</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,420</stars>
+      <stars>2,444</stars>
       <forks>174</forks>
       <addStars>1,357</addStars>
       <contributors>
@@ -452,8 +452,8 @@
       <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,535</stars>
-      <forks>1,944</forks>
+      <stars>20,632</stars>
+      <forks>1,949</forks>
       <addStars>8,038</addStars>
       <contributors>
         <contributor>
@@ -479,14 +479,52 @@
       </contributors>
     </item>
     <item>
+      <title>figma/mcp-server-guide</title>
+      <link>https://github.com/figma/mcp-server-guide</link>
+      <description>A guide on how to use the Figma MCP server</description>
+      <guid>https://github.com/figma/mcp-server-guide</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>863</stars>
+      <forks>72</forks>
+      <addStars>360</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/111350777?s=40&amp;v=4</avatar>
+          <name>ebentley-figma</name>
+          <url>https://github.com/ebentley-figma</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/126205200?s=40&amp;v=4</avatar>
+          <name>mwilliams-figma</name>
+          <url>https://github.com/mwilliams-figma</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/234063059?s=40&amp;v=4</avatar>
+          <name>dwong-figma</name>
+          <url>https://github.com/dwong-figma</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4467473?s=40&amp;v=4</avatar>
+          <name>jesselumarie</name>
+          <url>https://github.com/jesselumarie</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/127770926?s=40&amp;v=4</avatar>
+          <name>rbhalla-figma</name>
+          <url>https://github.com/rbhalla-figma</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>jingyaogong/minimind</title>
       <link>https://github.com/jingyaogong/minimind</link>
       <description>🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!</description>
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,038</stars>
-      <forks>5,439</forks>
+      <stars>45,091</stars>
+      <forks>5,449</forks>
       <addStars>2,416</addStars>
       <contributors>
         <contributor>

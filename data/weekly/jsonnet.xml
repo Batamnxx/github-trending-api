@@ -3,7 +3,7 @@
     <title>GitHub Jsonnet Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Jsonnet Languages in GitHub</description>
-    <pubDate>Tue, 31 Mar 2026 14:26:17 GMT</pubDate>
+    <pubDate>Tue, 31 Mar 2026 19:56:06 GMT</pubDate>
     <item>
       <title>kubernetes-monitoring/kubernetes-mixin</title>
       <link>https://github.com/kubernetes-monitoring/kubernetes-mixin</link>
@@ -34,11 +34,6 @@
           <avatar>https://avatars.githubusercontent.com/u/3531758?s=40&amp;v=4</avatar>
           <name>paulfantom</name>
           <url>https://github.com/paulfantom</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/514343?s=40&amp;v=4</avatar>
-          <name>skl</name>
-          <url>https://github.com/skl</url>
         </contributor>
       </contributors>
     </item>
@@ -87,7 +82,7 @@
       <guid>https://github.com/google/jsonnet</guid>
       <language>Jsonnet</language>
       <languageColor>#0064bd</languageColor>
-      <stars>7,489</stars>
+      <stars>7,488</stars>
       <forks>474</forks>
       <addStars>7</addStars>
       <contributors>
@@ -121,7 +116,7 @@
       <language>Jsonnet</language>
       <languageColor>#0064bd</languageColor>
       <stars>2,069</stars>
-      <forks>9,612</forks>
+      <forks>9,616</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>

@@ -3,7 +3,7 @@
     <title>GitHub Verilog Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Verilog Languages in GitHub</description>
-    <pubDate>Tue, 31 Mar 2026 14:26:17 GMT</pubDate>
+    <pubDate>Tue, 31 Mar 2026 19:56:06 GMT</pubDate>
     <item>
       <title>The-OpenROAD-Project/OpenROAD-flow-scripts</title>
       <link>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>599</stars>
-      <forks>468</forks>
+      <stars>600</stars>
+      <forks>467</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/The-OpenROAD-Project/OpenROAD</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>2,538</stars>
-      <forks>856</forks>
+      <stars>2,539</stars>
+      <forks>854</forks>
       <addStars>16</addStars>
       <contributors>
         <contributor>
@@ -202,7 +202,7 @@
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
       <stars>2,904</stars>
-      <forks>812</forks>
+      <forks>813</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>

@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nix Languages in GitHub</description>
-    <pubDate>Tue, 31 Mar 2026 14:26:17 GMT</pubDate>
+    <pubDate>Tue, 31 Mar 2026 19:56:06 GMT</pubDate>
     <item>
       <title>BirdeeHub/nix-wrapper-modules</title>
       <link>https://github.com/BirdeeHub/nix-wrapper-modules</link>
@@ -76,36 +76,13 @@
       </contributors>
     </item>
     <item>
-      <title>numtide/llm-agents.nix</title>
-      <link>https://github.com/numtide/llm-agents.nix</link>
-      <description>Nix packages for AI coding agents and development tools. Automatically updated daily.</description>
-      <guid>https://github.com/numtide/llm-agents.nix</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>908</stars>
-      <forks>93</forks>
-      <addStars>55</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
-          <name>Mic92</name>
-          <url>https://github.com/Mic92</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3248?s=40&amp;v=4</avatar>
-          <name>zimbatm</name>
-          <url>https://github.com/zimbatm</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>nix-community/home-manager</title>
       <link>https://github.com/nix-community/home-manager</link>
       <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
       <guid>https://github.com/nix-community/home-manager</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>9,554</stars>
+      <stars>9,556</stars>
       <forks>2,331</forks>
       <addStars>45</addStars>
       <contributors>
@@ -204,7 +181,7 @@
       <guid>https://github.com/microvm-nix/microvm.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,431</stars>
+      <stars>2,433</stars>
       <forks>189</forks>
       <addStars>26</addStars>
       <contributors>
@@ -407,7 +384,7 @@
       <guid>https://github.com/dustinlyons/nixos-config</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>3,433</stars>
+      <stars>3,434</stars>
       <forks>197</forks>
       <addStars>13</addStars>
       <contributors>

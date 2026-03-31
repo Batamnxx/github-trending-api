@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Tue, 31 Mar 2026 03:52:49 GMT</pubDate>
+    <pubDate>Tue, 31 Mar 2026 08:11:30 GMT</pubDate>
     <item>
       <title>MetOffice/lfric_core</title>
       <link>https://github.com/MetOffice/lfric_core</link>
@@ -163,7 +163,7 @@
       <guid>https://github.com/GEOS-ESM/MAPL</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>36</stars>
+      <stars>37</stars>
       <forks>23</forks>
       <addStars>0</addStars>
       <contributors>
@@ -240,7 +240,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>28</stars>
-      <forks>76</forks>
+      <forks>77</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>

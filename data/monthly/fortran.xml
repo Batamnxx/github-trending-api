@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Tue, 31 Mar 2026 03:52:49 GMT</pubDate>
+    <pubDate>Tue, 31 Mar 2026 08:11:30 GMT</pubDate>
     <item>
       <title>ecmwf/fckit</title>
       <link>https://github.com/ecmwf/fckit</link>
@@ -87,7 +87,7 @@
       <guid>https://github.com/GEOS-ESM/MAPL</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>36</stars>
+      <stars>37</stars>
       <forks>23</forks>
       <addStars>1</addStars>
       <contributors>

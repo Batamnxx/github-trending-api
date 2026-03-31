@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nix Languages in GitHub</description>
-    <pubDate>Tue, 31 Mar 2026 03:52:49 GMT</pubDate>
+    <pubDate>Tue, 31 Mar 2026 08:11:30 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>24,100</stars>
+      <stars>24,102</stars>
       <forks>18,460</forks>
       <addStars>108</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/BirdeeHub/nix-wrapper-modules</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>211</stars>
+      <stars>212</stars>
       <forks>28</forks>
       <addStars>32</addStars>
       <contributors>
@@ -82,7 +82,7 @@
       <guid>https://github.com/nix-community/home-manager</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>9,551</stars>
+      <stars>9,552</stars>
       <forks>2,332</forks>
       <addStars>45</addStars>
       <contributors>
@@ -191,7 +191,7 @@
       <guid>https://github.com/numtide/llm-agents.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>904</stars>
+      <stars>905</stars>
       <forks>93</forks>
       <addStars>55</addStars>
       <contributors>
@@ -370,7 +370,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>1,438</stars>
-      <forks>209</forks>
+      <forks>210</forks>
       <addStars>17</addStars>
       <contributors>
         <contributor>
@@ -473,7 +473,7 @@
       <guid>https://github.com/kiriwalawren/nixflix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>301</stars>
+      <stars>302</stars>
       <forks>20</forks>
       <addStars>12</addStars>
       <contributors>
@@ -501,7 +501,7 @@
       <guid>https://github.com/nix-darwin/nix-darwin</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>5,249</stars>
+      <stars>5,248</stars>
       <forks>608</forks>
       <addStars>23</addStars>
       <contributors>
@@ -534,8 +534,8 @@
       <guid>https://github.com/openclaw/nix-openclaw</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>610</stars>
-      <forks>202</forks>
+      <stars>611</stars>
+      <forks>203</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>

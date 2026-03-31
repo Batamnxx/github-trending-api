@@ -3,7 +3,7 @@
     <title>GitHub Glsl Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Glsl Languages in GitHub</description>
-    <pubDate>Tue, 31 Mar 2026 03:52:49 GMT</pubDate>
+    <pubDate>Tue, 31 Mar 2026 08:11:30 GMT</pubDate>
     <item>
       <title>KhronosGroup/SPIRV-Cross</title>
       <link>https://github.com/KhronosGroup/SPIRV-Cross</link>
@@ -239,7 +239,7 @@
       <guid>https://github.com/dyphire/mpv-config</guid>
       <language>GLSL</language>
       <languageColor>#5686a5</languageColor>
-      <stars>1,609</stars>
+      <stars>1,610</stars>
       <forks>75</forks>
       <addStars>1</addStars>
       <contributors>
@@ -262,7 +262,7 @@
       <guid>https://github.com/0xhckr/ghostty-shaders</guid>
       <language>GLSL</language>
       <languageColor>#5686a5</languageColor>
-      <stars>1,210</stars>
+      <stars>1,211</stars>
       <forks>75</forks>
       <addStars>3</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 31 Mar 2026 03:52:49 GMT",
+  "pubDate": "Tue, 31 Mar 2026 08:11:30 GMT",
   "items": [
     {
       "title": "mvanhorn/last30days-skill",
@@ -10,8 +10,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,494",
-      "forks": "1,312",
+      "stars": "16,625",
+      "forks": "1,320",
       "addStars": "11,605",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "54,294",
-      "forks": "6,553",
+      "stars": "54,632",
+      "forks": "6,584",
       "addStars": "16,370",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "86,498",
-      "forks": "12,557",
+      "stars": "86,713",
+      "forks": "12,582",
       "addStars": "5,826",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Automate the process of making money online.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "27,494",
-      "forks": "2,906",
+      "stars": "27,554",
+      "forks": "2,914",
       "addStars": "5,910",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,081",
-      "forks": "600",
+      "stars": "4,103",
+      "forks": "605",
       "addStars": "1,664",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,051",
-      "forks": "3,441",
+      "stars": "31,809",
+      "forks": "3,525",
       "addStars": "4,768",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,676",
-      "forks": "8,088",
+      "stars": "44,819",
+      "forks": "8,108",
       "addStars": "5,888",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "54,202",
-      "forks": "7,648",
+      "stars": "54,270",
+      "forks": "7,649",
       "addStars": "2,526",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,899",
-      "forks": "2,292",
+      "stars": "19,268",
+      "forks": "2,330",
       "addStars": "6,892",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,305",
-      "forks": "4,593",
+      "stars": "22,345",
+      "forks": "4,600",
       "addStars": "2,087",
       "contributors": [
         {
@@ -375,8 +375,8 @@
       "description": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,863",
-      "forks": "5,415",
+      "stars": "44,948",
+      "forks": "5,428",
       "addStars": "2,416",
       "contributors": [
         {
@@ -412,8 +412,8 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,625",
-      "forks": "2,515",
+      "stars": "34,729",
+      "forks": "2,527",
       "addStars": "3,873",
       "contributors": [
         {
@@ -439,8 +439,8 @@
       "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,047",
-      "forks": "797",
+      "stars": "8,064",
+      "forks": "800",
       "addStars": "2,953",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,490",
-      "forks": "1,705",
+      "stars": "9,508",
+      "forks": "1,706",
       "addStars": "510",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "+192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,197",
-      "forks": "973",
+      "stars": "8,233",
+      "forks": "975",
       "addStars": "1,624",
       "contributors": [
         {
@@ -540,8 +540,8 @@
       "description": "A framework for efficient model inference with omni-modality models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,034",
-      "forks": "659",
+      "stars": "4,044",
+      "forks": "662",
       "addStars": "568",
       "contributors": [
         {
@@ -577,8 +577,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,259",
-      "forks": "2,711",
+      "stars": "20,284",
+      "forks": "2,713",
       "addStars": "2,245",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "Memory library for building stateful agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,344",
-      "forks": "154",
+      "stars": "1,357",
+      "forks": "155",
       "addStars": "392",
       "contributors": [
         {

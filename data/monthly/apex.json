@@ -2,7 +2,7 @@
   "title": "GitHub Apex Languages Monthly Trending",
   "description": "Monthly Trending of Apex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 30 Mar 2026 19:57:04 GMT",
+  "pubDate": "Tue, 31 Mar 2026 03:52:49 GMT",
   "items": [
     {
       "title": "forcedotcom/afv-library",
@@ -35,9 +35,9 @@
           "url": "https://github.com/svc-idee-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1509984?s=40&v=4",
-          "name": "mohanraj-r",
-          "url": "https://github.com/mohanraj-r"
+          "avatar": "https://avatars.githubusercontent.com/u/17989954?s=40&v=4",
+          "name": "k-j-kim",
+          "url": "https://github.com/k-j-kim"
         }
       ]
     },
@@ -47,9 +47,9 @@
       "description": "The most robust observability solution for Salesforce experts. Built 100% natively on the platform, and designed to work seamlessly with Apex, Lightning Components, Flow, OmniStudio, and integrations.",
       "language": "Apex",
       "languageColor": "#1797c0",
-      "stars": "909",
+      "stars": "910",
       "forks": "228",
-      "addStars": "11",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1267157?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A collection of easy-to-digest Agent Script examples.",
       "language": "Apex",
       "languageColor": "#1797c0",
-      "stars": "88",
+      "stars": "89",
       "forks": "51",
-      "addStars": "13",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5071767?s=40&v=4",

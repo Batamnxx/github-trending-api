@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Tue, 31 Mar 2026 08:11:30 GMT</pubDate>
+    <pubDate>Tue, 31 Mar 2026 14:26:17 GMT</pubDate>
     <item>
       <title>MetOffice/lfric_core</title>
       <link>https://github.com/MetOffice/lfric_core</link>
@@ -43,40 +43,40 @@
       </contributors>
     </item>
     <item>
-      <title>ecmwf/fckit</title>
-      <link>https://github.com/ecmwf/fckit</link>
-      <description>A Fortran toolkit for interoperating Fortran with C/C++</description>
-      <guid>https://github.com/ecmwf/fckit</guid>
+      <title>E3SM-Project/E3SM</title>
+      <link>https://github.com/E3SM-Project/E3SM</link>
+      <description>Energy Exascale Earth System Model source code. NOTE: use "maint" branches for your work. Head of master is not validated.</description>
+      <guid>https://github.com/E3SM-Project/E3SM</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>45</stars>
-      <forks>19</forks>
+      <stars>418</stars>
+      <forks>460</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/222951?s=40&amp;v=4</avatar>
-          <name>wdeconinck</name>
-          <url>https://github.com/wdeconinck</url>
+          <avatar>https://avatars.githubusercontent.com/u/7292036?s=40&amp;v=4</avatar>
+          <name>jgfouca</name>
+          <url>https://github.com/jgfouca</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/113430901?s=40&amp;v=4</avatar>
-          <name>awnawab</name>
-          <url>https://github.com/awnawab</url>
+          <avatar>https://avatars.githubusercontent.com/u/8136848?s=40&amp;v=4</avatar>
+          <name>singhbalwinder</name>
+          <url>https://github.com/singhbalwinder</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/346079?s=40&amp;v=4</avatar>
-          <name>kynan</name>
-          <url>https://github.com/kynan</url>
+          <avatar>https://avatars.githubusercontent.com/u/3226046?s=40&amp;v=4</avatar>
+          <name>bartgol</name>
+          <url>https://github.com/bartgol</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/965734?s=40&amp;v=4</avatar>
-          <name>tlmquintino</name>
-          <url>https://github.com/tlmquintino</url>
+          <avatar>https://avatars.githubusercontent.com/u/13684848?s=40&amp;v=4</avatar>
+          <name>jonbob</name>
+          <url>https://github.com/jonbob</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/147159?s=40&amp;v=4</avatar>
-          <name>tmi</name>
-          <url>https://github.com/tmi</url>
+          <avatar>https://avatars.githubusercontent.com/u/4604113?s=40&amp;v=4</avatar>
+          <name>amametjanov</name>
+          <url>https://github.com/amametjanov</url>
         </contributor>
       </contributors>
     </item>
@@ -88,7 +88,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>1,090</stars>
-      <forks>455</forks>
+      <forks>456</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -115,44 +115,6 @@
           <avatar>https://avatars.githubusercontent.com/u/16081490?s=40&amp;v=4</avatar>
           <name>juerghutter</name>
           <url>https://github.com/juerghutter</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>OpenFAST/openfast</title>
-      <link>https://github.com/OpenFAST/openfast</link>
-      <description>Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</description>
-      <guid>https://github.com/OpenFAST/openfast</guid>
-      <language>Fortran</language>
-      <languageColor>#4d41b1</languageColor>
-      <stars>879</stars>
-      <forks>521</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6108781?s=40&amp;v=4</avatar>
-          <name>bjonkman</name>
-          <url>https://github.com/bjonkman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2745453?s=40&amp;v=4</avatar>
-          <name>andrew-platt</name>
-          <url>https://github.com/andrew-platt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13797903?s=40&amp;v=4</avatar>
-          <name>rafmudaf</name>
-          <url>https://github.com/rafmudaf</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4530253?s=40&amp;v=4</avatar>
-          <name>deslaughter</name>
-          <url>https://github.com/deslaughter</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1318316?s=40&amp;v=4</avatar>
-          <name>ebranlard</name>
-          <url>https://github.com/ebranlard</url>
         </contributor>
       </contributors>
     </item>
@@ -195,13 +157,51 @@
       </contributors>
     </item>
     <item>
+      <title>OpenFAST/openfast</title>
+      <link>https://github.com/OpenFAST/openfast</link>
+      <description>Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</description>
+      <guid>https://github.com/OpenFAST/openfast</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>879</stars>
+      <forks>521</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6108781?s=40&amp;v=4</avatar>
+          <name>bjonkman</name>
+          <url>https://github.com/bjonkman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2745453?s=40&amp;v=4</avatar>
+          <name>andrew-platt</name>
+          <url>https://github.com/andrew-platt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13797903?s=40&amp;v=4</avatar>
+          <name>rafmudaf</name>
+          <url>https://github.com/rafmudaf</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4530253?s=40&amp;v=4</avatar>
+          <name>deslaughter</name>
+          <url>https://github.com/deslaughter</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1318316?s=40&amp;v=4</avatar>
+          <name>ebranlard</name>
+          <url>https://github.com/ebranlard</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>wrf-model/WRF</title>
       <link>https://github.com/wrf-model/WRF</link>
       <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
       <guid>https://github.com/wrf-model/WRF</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>1,606</stars>
+      <stars>1,607</stars>
       <forks>825</forks>
       <addStars>5</addStars>
       <contributors>
@@ -267,44 +267,6 @@
           <avatar>https://avatars.githubusercontent.com/u/136574563?s=40&amp;v=4</avatar>
           <name>MetBenjaminWent</name>
           <url>https://github.com/MetBenjaminWent</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>E3SM-Project/E3SM</title>
-      <link>https://github.com/E3SM-Project/E3SM</link>
-      <description>Energy Exascale Earth System Model source code. NOTE: use "maint" branches for your work. Head of master is not validated.</description>
-      <guid>https://github.com/E3SM-Project/E3SM</guid>
-      <language>Fortran</language>
-      <languageColor>#4d41b1</languageColor>
-      <stars>418</stars>
-      <forks>460</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7292036?s=40&amp;v=4</avatar>
-          <name>jgfouca</name>
-          <url>https://github.com/jgfouca</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8136848?s=40&amp;v=4</avatar>
-          <name>singhbalwinder</name>
-          <url>https://github.com/singhbalwinder</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3226046?s=40&amp;v=4</avatar>
-          <name>bartgol</name>
-          <url>https://github.com/bartgol</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13684848?s=40&amp;v=4</avatar>
-          <name>jonbob</name>
-          <url>https://github.com/jonbob</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4604113?s=40&amp;v=4</avatar>
-          <name>amametjanov</name>
-          <url>https://github.com/amametjanov</url>
         </contributor>
       </contributors>
     </item>

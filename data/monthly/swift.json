@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Monthly Trending",
   "description": "Monthly Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 01 Apr 2026 14:27:49 GMT",
+  "pubDate": "Wed, 01 Apr 2026 19:58:28 GMT",
   "items": [
     {
       "title": "manaflow-ai/cmux",
@@ -10,8 +10,8 @@
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "12,030",
-      "forks": "835",
+      "stars": "12,068",
+      "forks": "841",
       "addStars": "9,011",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,506",
+      "stars": "4,508",
       "forks": "203",
       "addStars": "867",
       "contributors": [
@@ -55,6 +55,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/189663?s=40&v=4",
           "name": "tpae",
           "url": "https://github.com/tpae"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61781996?s=40&v=4",
+          "name": "RaajeevChandran",
+          "url": "https://github.com/RaajeevChandran"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -65,11 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/138501656?s=40&v=4",
           "name": "jjang-ai",
           "url": "https://github.com/jjang-ai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61781996?s=40&v=4",
-          "name": "RaajeevChandran",
-          "url": "https://github.com/RaajeevChandran"
         }
       ]
     },
@@ -79,7 +79,7 @@
       "description": "Dynamic Island for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,606",
+      "stars": "1,608",
       "forks": "96",
       "addStars": "556",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "37,520",
-      "forks": "1,239",
+      "stars": "37,532",
+      "forks": "1,238",
       "addStars": "905",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "101,196",
-      "forks": "7,556",
+      "stars": "101,221",
+      "forks": "7,555",
       "addStars": "1,994",
       "contributors": [
         {
@@ -217,7 +217,7 @@
       "description": "Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,181",
+      "stars": "1,186",
       "forks": "139",
       "addStars": "297",
       "contributors": [
@@ -255,7 +255,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": "324",
-      "forks": "103",
+      "forks": "105",
       "addStars": "75",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "Powerful menu bar manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "26,931",
+      "stars": "26,933",
       "forks": "632",
       "addStars": "784",
       "contributors": [
@@ -328,7 +328,7 @@
       "description": "On-device Speech Recognition for Apple Silicon",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,892",
+      "stars": "5,894",
       "forks": "537",
       "addStars": "202",
       "contributors": [
@@ -338,14 +338,14 @@
           "url": "https://github.com/ZachNagengast"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8284016?s=40&v=4",
-          "name": "finnvoor",
-          "url": "https://github.com/finnvoor"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/15901479?s=40&v=4",
           "name": "a2they",
           "url": "https://github.com/a2they"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8284016?s=40&v=4",
+          "name": "finnvoor",
+          "url": "https://github.com/finnvoor"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/64497909?s=40&v=4",
@@ -365,7 +365,7 @@
       "description": "Lightweight clipboard manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "19,185",
+      "stars": "19,189",
       "forks": "891",
       "addStars": "473",
       "contributors": [
@@ -403,7 +403,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": "1,214",
-      "forks": "31",
+      "forks": "32",
       "addStars": "514",
       "contributors": [
         {
@@ -439,8 +439,8 @@
       "description": "Telegram-iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "8,178",
-      "forks": "2,498",
+      "stars": "8,179",
+      "forks": "2,500",
       "addStars": "143",
       "contributors": [
         {
@@ -477,7 +477,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": "8,037",
-      "forks": "3,686",
+      "forks": "3,685",
       "addStars": "20",
       "contributors": [
         {
@@ -513,8 +513,8 @@
       "description": "Xterm/VT100 Terminal emulator in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,447",
-      "forks": "281",
+      "stars": "1,448",
+      "forks": "282",
       "addStars": "84",
       "contributors": [
         {
@@ -624,8 +624,8 @@
       "description": "An ultra-light MacOS utility that helps hide menu bar icons",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "13,659",
-      "forks": "390",
+      "stars": "13,661",
+      "forks": "389",
       "addStars": "260",
       "contributors": [
         {
@@ -661,8 +661,8 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "504",
-      "forks": "785",
+      "stars": "505",
+      "forks": "787",
       "addStars": "140",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Shaderlab Languages Daily Trending",
   "description": "Daily Trending of Shaderlab Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 01 Apr 2026 14:27:49 GMT",
+  "pubDate": "Wed, 01 Apr 2026 19:58:28 GMT",
   "items": [
     {
       "title": "shinyflvre/Mate-Engine",
@@ -10,7 +10,7 @@
       "description": "A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.",
       "language": "ShaderLab",
       "languageColor": "#222c37",
-      "stars": "2,991",
+      "stars": "2,993",
       "forks": "229",
       "addStars": "10",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "A feature rich toon shader for unity and VR Chat",
       "language": "ShaderLab",
       "languageColor": "#222c37",
-      "stars": "1,598",
+      "stars": "1,599",
       "forks": "203",
       "addStars": "1",
       "contributors": [

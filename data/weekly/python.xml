@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Wed, 01 Apr 2026 14:27:49 GMT</pubDate>
+    <pubDate>Wed, 01 Apr 2026 19:58:28 GMT</pubDate>
     <item>
       <title>luongnv89/claude-howto</title>
       <link>https://github.com/luongnv89/claude-howto</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/luongnv89/claude-howto</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,944</stars>
-      <forks>1,711</forks>
+      <stars>15,336</stars>
+      <forks>1,773</forks>
       <addStars>13,440</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,061</stars>
-      <forks>3,878</forks>
+      <stars>34,286</stars>
+      <forks>3,905</forks>
       <addStars>8,327</addStars>
       <contributors>
         <contributor>
@@ -59,14 +59,14 @@
           <url>https://github.com/MSLDCherryPick</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39176643?s=40&amp;v=4</avatar>
-          <name>MSJwyu</name>
-          <url>https://github.com/MSJwyu</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/26346329?s=40&amp;v=4</avatar>
           <name>pengzhiliang</name>
           <url>https://github.com/pengzhiliang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/39176643?s=40&amp;v=4</avatar>
+          <name>MSJwyu</name>
+          <url>https://github.com/MSJwyu</url>
         </contributor>
       </contributors>
     </item>
@@ -77,8 +77,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,172</stars>
-      <forks>1,379</forks>
+      <stars>17,252</stars>
+      <forks>1,388</forks>
       <addStars>11,933</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/hacksider/Deep-Live-Cam</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>87,226</stars>
-      <forks>12,653</forks>
+      <stars>87,287</stars>
+      <forks>12,656</forks>
       <addStars>6,693</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/SakanaAI/AI-Scientist-v2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,314</stars>
-      <forks>628</forks>
+      <stars>4,351</stars>
+      <forks>635</forks>
       <addStars>1,814</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>55,866</stars>
-      <forks>6,818</forks>
+      <stars>55,978</stars>
+      <forks>6,837</forks>
       <addStars>13,560</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,205</stars>
-      <forks>2,603</forks>
+      <stars>21,431</stars>
+      <forks>2,632</forks>
       <addStars>7,539</addStars>
       <contributors>
         <contributor>
@@ -254,9 +254,9 @@
           <url>https://github.com/aydnOktay</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/78954051?s=40&amp;v=4</avatar>
-          <name>ygd58</name>
-          <url>https://github.com/ygd58</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
       </contributors>
     </item>
@@ -267,8 +267,8 @@
       <guid>https://github.com/datalab-to/chandra</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,140</stars>
-      <forks>809</forks>
+      <stars>8,146</stars>
+      <forks>810</forks>
       <addStars>3,007</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/hesreallyhim/awesome-claude-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>35,395</stars>
-      <forks>2,677</forks>
+      <stars>35,469</stars>
+      <forks>2,694</forks>
       <addStars>3,408</addStars>
       <contributors>
         <contributor>
@@ -323,8 +323,8 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>54,687</stars>
-      <forks>7,731</forks>
+      <stars>54,728</stars>
+      <forks>7,742</forks>
       <addStars>2,058</addStars>
       <contributors>
         <contributor>
@@ -361,8 +361,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,548</stars>
-      <forks>8,249</forks>
+      <stars>45,642</stars>
+      <forks>8,270</forks>
       <addStars>4,848</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,277</stars>
-      <forks>5,487</forks>
+      <stars>45,292</stars>
+      <forks>5,490</forks>
       <addStars>2,039</addStars>
       <contributors>
         <contributor>
@@ -437,8 +437,8 @@
       <guid>https://github.com/onyx-dot-app/onyx</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,382</stars>
-      <forks>2,729</forks>
+      <stars>20,392</stars>
+      <forks>2,732</forks>
       <addStars>2,358</addStars>
       <contributors>
         <contributor>
@@ -470,8 +470,8 @@
       <guid>https://github.com/alirezarezvani/claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,544</stars>
-      <forks>1,037</forks>
+      <stars>8,609</stars>
+      <forks>1,045</forks>
       <addStars>1,656</addStars>
       <contributors>
         <contributor>
@@ -508,8 +508,8 @@
       <guid>https://github.com/google-research/timesfm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,714</stars>
-      <forks>965</forks>
+      <stars>11,877</stars>
+      <forks>982</forks>
       <addStars>1,495</addStars>
       <contributors>
         <contributor>
@@ -546,8 +546,8 @@
       <guid>https://github.com/hsliuping/TradingAgents-CN</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,486</stars>
-      <forks>4,647</forks>
+      <stars>22,499</stars>
+      <forks>4,651</forks>
       <addStars>1,635</addStars>
       <contributors>
         <contributor>
@@ -584,8 +584,8 @@
       <guid>https://github.com/usestrix/strix</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,951</stars>
-      <forks>2,475</forks>
+      <stars>22,964</stars>
+      <forks>2,476</forks>
       <addStars>1,616</addStars>
       <contributors>
         <contributor>
@@ -604,9 +604,9 @@
           <url>https://github.com/octovimmer</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48404862?s=40&amp;v=4</avatar>
-          <name>Vincent550102</name>
-          <url>https://github.com/Vincent550102</url>
+          <avatar>https://avatars.githubusercontent.com/u/46074070?s=40&amp;v=4</avatar>
+          <name>bearsyankees</name>
+          <url>https://github.com/bearsyankees</url>
         </contributor>
       </contributors>
     </item>
@@ -617,8 +617,8 @@
       <guid>https://github.com/vllm-project/vllm-omni</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,086</stars>
-      <forks>668</forks>
+      <stars>4,092</stars>
+      <forks>672</forks>
       <addStars>541</addStars>
       <contributors>
         <contributor>

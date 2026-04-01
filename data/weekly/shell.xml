@@ -3,7 +3,7 @@
     <title>GitHub Shell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Shell Languages in GitHub</description>
-    <pubDate>Wed, 01 Apr 2026 08:17:39 GMT</pubDate>
+    <pubDate>Wed, 01 Apr 2026 14:27:49 GMT</pubDate>
     <item>
       <title>obra/superpowers</title>
       <link>https://github.com/obra/superpowers</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>129,114</stars>
-      <forks>10,597</forks>
+      <stars>129,758</stars>
+      <forks>10,670</forks>
       <addStars>18,021</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/Dimillian/Skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>3,022</stars>
-      <forks>155</forks>
+      <stars>3,065</stars>
+      <forks>158</forks>
       <addStars>421</addStars>
       <contributors>
         <contributor>
@@ -71,40 +71,40 @@
       </contributors>
     </item>
     <item>
-      <title>mylinuxforwork/dotfiles</title>
-      <link>https://github.com/mylinuxforwork/dotfiles</link>
-      <description>The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app with setup scripts for Arch Linux, Fedora and openSuse.</description>
-      <guid>https://github.com/mylinuxforwork/dotfiles</guid>
-      <language>QML</language>
-      <languageColor>#44a51c</languageColor>
-      <stars>4,584</stars>
-      <forks>342</forks>
-      <addStars>42</addStars>
+      <title>anthropics/claude-code</title>
+      <link>https://github.com/anthropics/claude-code</link>
+      <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
+      <guid>https://github.com/anthropics/claude-code</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>97,763</stars>
+      <forks>14,777</forks>
+      <addStars>6,706</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/145253254?s=40&amp;v=4</avatar>
-          <name>mylinuxforwork</name>
-          <url>https://github.com/mylinuxforwork</url>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/115469098?s=40&amp;v=4</avatar>
-          <name>Affanmm</name>
-          <url>https://github.com/Affanmm</url>
+          <avatar>https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4</avatar>
+          <name>bcherny</name>
+          <url>https://github.com/bcherny</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/183478078?s=40&amp;v=4</avatar>
-          <name>harilvfs</name>
-          <url>https://github.com/harilvfs</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10517822?s=40&amp;v=4</avatar>
-          <name>degobbis</name>
-          <url>https://github.com/degobbis</url>
+          <avatar>https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4</avatar>
+          <name>ant-kurt</name>
+          <url>https://github.com/ant-kurt</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/71786656?s=40&amp;v=4</avatar>
-          <name>Esscraye</name>
-          <url>https://github.com/Esscraye</url>
+          <avatar>https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4</avatar>
+          <name>ashwin-ant</name>
+          <url>https://github.com/ashwin-ant</url>
         </contributor>
       </contributors>
     </item>
@@ -115,7 +115,7 @@
       <guid>https://github.com/llm-d/llm-d</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>2,869</stars>
+      <stars>2,873</stars>
       <forks>384</forks>
       <addStars>176</addStars>
       <contributors>
@@ -147,111 +147,73 @@
       </contributors>
     </item>
     <item>
-      <title>anthropics/claude-code</title>
-      <link>https://github.com/anthropics/claude-code</link>
-      <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
-      <guid>https://github.com/anthropics/claude-code</guid>
+      <title>HyDE-Project/HyDE</title>
+      <link>https://github.com/HyDE-Project/HyDE</link>
+      <description>HyDE, your Development Environment 🖥️💻</description>
+      <guid>https://github.com/HyDE-Project/HyDE</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>95,220</stars>
-      <forks>13,877</forks>
-      <addStars>6,706</addStars>
+      <stars>8,640</stars>
+      <forks>593</forks>
+      <addStars>95</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
-          <name>actions-user</name>
-          <url>https://github.com/actions-user</url>
+          <avatar>https://avatars.githubusercontent.com/u/53417443?s=40&amp;v=4</avatar>
+          <name>kRHYME7</name>
+          <url>https://github.com/kRHYME7</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1761758?s=40&amp;v=4</avatar>
-          <name>bcherny</name>
-          <url>https://github.com/bcherny</url>
+          <avatar>https://avatars.githubusercontent.com/u/8222059?s=40&amp;v=4</avatar>
+          <name>rubiin</name>
+          <url>https://github.com/rubiin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/13994839?s=40&amp;v=4</avatar>
+          <name>zeerayne</name>
+          <url>https://github.com/zeerayne</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/209710463?s=40&amp;v=4</avatar>
-          <name>ant-kurt</name>
-          <url>https://github.com/ant-kurt</url>
+          <avatar>https://avatars.githubusercontent.com/u/93467279?s=40&amp;v=4</avatar>
+          <name>Jax-Tsai-zero</name>
+          <url>https://github.com/Jax-Tsai-zero</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/178951676?s=40&amp;v=4</avatar>
-          <name>ashwin-ant</name>
-          <url>https://github.com/ashwin-ant</url>
+          <avatar>https://avatars.githubusercontent.com/u/158470661?s=40&amp;v=4</avatar>
+          <name>prime-run</name>
+          <url>https://github.com/prime-run</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>aaddrick/claude-desktop-debian</title>
-      <link>https://github.com/aaddrick/claude-desktop-debian</link>
-      <description>Claude Desktop for Debian-based Linux distributions</description>
-      <guid>https://github.com/aaddrick/claude-desktop-debian</guid>
+      <title>itzg/docker-minecraft-server</title>
+      <link>https://github.com/itzg/docker-minecraft-server</link>
+      <description>Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup</description>
+      <guid>https://github.com/itzg/docker-minecraft-server</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>2,902</stars>
-      <forks>347</forks>
-      <addStars>222</addStars>
+      <stars>13,430</stars>
+      <forks>1,843</forks>
+      <addStars>50</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22264982?s=40&amp;v=4</avatar>
-          <name>aaddrick</name>
-          <url>https://github.com/aaddrick</url>
+          <avatar>https://avatars.githubusercontent.com/u/988985?s=40&amp;v=4</avatar>
+          <name>itzg</name>
+          <url>https://github.com/itzg</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/48589793?s=40&amp;v=4</avatar>
+          <name>EmilyxFox</name>
+          <url>https://github.com/EmilyxFox</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1057789?s=40&amp;v=4</avatar>
-          <name>typedrat</name>
-          <url>https://github.com/typedrat</url>
+          <avatar>https://avatars.githubusercontent.com/u/8572809?s=40&amp;v=4</avatar>
+          <name>shotah</name>
+          <url>https://github.com/shotah</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/665588?s=40&amp;v=4</avatar>
-          <name>cbonnissent</name>
-          <url>https://github.com/cbonnissent</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>hq450/fancyss</title>
-      <link>https://github.com/hq450/fancyss</link>
-      <description>fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.</description>
-      <guid>https://github.com/hq450/fancyss</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>13,410</stars>
-      <forks>3,244</forks>
-      <addStars>31</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42712715?s=40&amp;v=4</avatar>
-          <name>hq450</name>
-          <url>https://github.com/hq450</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/104514325?s=40&amp;v=4</avatar>
-          <name>piangere</name>
-          <url>https://github.com/piangere</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35466227?s=40&amp;v=4</avatar>
-          <name>sqliuchang</name>
-          <url>https://github.com/sqliuchang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4454469?s=40&amp;v=4</avatar>
-          <name>Xiaoyang-Huang</name>
-          <url>https://github.com/Xiaoyang-Huang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7606516?s=40&amp;v=4</avatar>
-          <name>cpuer</name>
-          <url>https://github.com/cpuer</url>
+          <avatar>https://avatars.githubusercontent.com/u/755327?s=40&amp;v=4</avatar>
+          <name>Silthus</name>
+          <url>https://github.com/Silthus</url>
         </contributor>
       </contributors>
     </item>
@@ -289,13 +251,127 @@
       </contributors>
     </item>
     <item>
+      <title>humania-org/humanize</title>
+      <link>https://github.com/humania-org/humanize</link>
+      <description>LLM IS AS GOOD AS YOU ARE</description>
+      <guid>https://github.com/humania-org/humanize</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>353</stars>
+      <forks>24</forks>
+      <addStars>103</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40861817?s=40&amp;v=4</avatar>
+          <name>SihaoLiu</name>
+          <url>https://github.com/SihaoLiu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23157977?s=40&amp;v=4</avatar>
+          <name>ZenusZhang</name>
+          <url>https://github.com/ZenusZhang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5576770?s=40&amp;v=4</avatar>
+          <name>AcrossForest</name>
+          <url>https://github.com/AcrossForest</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8508508?s=40&amp;v=4</avatar>
+          <name>shinezyy</name>
+          <url>https://github.com/shinezyy</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>hq450/fancyss</title>
+      <link>https://github.com/hq450/fancyss</link>
+      <description>fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.</description>
+      <guid>https://github.com/hq450/fancyss</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>13,412</stars>
+      <forks>3,244</forks>
+      <addStars>31</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/42712715?s=40&amp;v=4</avatar>
+          <name>hq450</name>
+          <url>https://github.com/hq450</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/104514325?s=40&amp;v=4</avatar>
+          <name>piangere</name>
+          <url>https://github.com/piangere</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35466227?s=40&amp;v=4</avatar>
+          <name>sqliuchang</name>
+          <url>https://github.com/sqliuchang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4454469?s=40&amp;v=4</avatar>
+          <name>Xiaoyang-Huang</name>
+          <url>https://github.com/Xiaoyang-Huang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7606516?s=40&amp;v=4</avatar>
+          <name>cpuer</name>
+          <url>https://github.com/cpuer</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>longhorn/longhorn</title>
+      <link>https://github.com/longhorn/longhorn</link>
+      <description>Cloud-Native distributed storage built on and for Kubernetes</description>
+      <guid>https://github.com/longhorn/longhorn</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>7,620</stars>
+      <forks>696</forks>
+      <addStars>36</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3344618?s=40&amp;v=4</avatar>
+          <name>yasker</name>
+          <url>https://github.com/yasker</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12527233?s=40&amp;v=4</avatar>
+          <name>derekbit</name>
+          <url>https://github.com/derekbit</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/899492?s=40&amp;v=4</avatar>
+          <name>innobead</name>
+          <url>https://github.com/innobead</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22583541?s=40&amp;v=4</avatar>
+          <name>c3y1huang</name>
+          <url>https://github.com/c3y1huang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14231257?s=40&amp;v=4</avatar>
+          <name>mantissahz</name>
+          <url>https://github.com/mantissahz</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>eugr/spark-vllm-docker</title>
       <link>https://github.com/eugr/spark-vllm-docker</link>
       <description>Docker configuration for running VLLM on dual DGX Sparks</description>
       <guid>https://github.com/eugr/spark-vllm-docker</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>811</stars>
+      <stars>814</stars>
       <forks>147</forks>
       <addStars>100</addStars>
       <contributors>

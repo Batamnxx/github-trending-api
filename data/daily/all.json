@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 01 Apr 2026 19:58:28 GMT",
+  "pubDate": "Thu, 02 Apr 2026 03:46:45 GMT",
   "items": [
     {
       "title": "anthropics/claude-code",
@@ -10,9 +10,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "99,634",
-      "forks": "15,270",
-      "addStars": "10,087",
+      "stars": "102,166",
+      "forks": "15,961",
+      "addStars": "10,749",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,275",
-      "forks": "3,905",
-      "addStars": "1,704",
+      "stars": "34,588",
+      "forks": "3,935",
+      "addStars": "1,685",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,872",
-      "forks": "982",
-      "addStars": "358",
+      "stars": "12,307",
+      "forks": "1,010",
+      "addStars": "380",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,320",
-      "forks": "1,772",
-      "addStars": "3,336",
+      "stars": "15,896",
+      "forks": "1,843",
+      "addStars": "3,301",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3288457?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Promise based HTTP client for the browser and node.js",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "108,842",
-      "forks": "11,582",
-      "addStars": "148",
+      "stars": "108,890",
+      "forks": "11,587",
+      "addStars": "93",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4814473?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "71,543",
-      "forks": "10,007",
-      "addStars": "2,345",
+      "stars": "71,950",
+      "forks": "10,055",
+      "addStars": "2,390",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/655869?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "155,871",
-      "forks": "20,472",
-      "addStars": "442",
+      "stars": "156,172",
+      "forks": "20,506",
+      "addStars": "398",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/196477?s=40&v=4",

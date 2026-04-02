@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Weekly Trending",
   "description": "Weekly Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 02 Apr 2026 14:21:27 GMT",
+  "pubDate": "Thu, 02 Apr 2026 19:51:51 GMT",
   "items": [
     {
       "title": "SaschaWillems/Vulkan",
@@ -10,8 +10,8 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "11,859",
-      "forks": "2,198",
+      "stars": "11,861",
+      "forks": "2,199",
       "addStars": "25",
       "contributors": [
         {
@@ -79,12 +79,49 @@
       ]
     },
     {
+      "title": "KhronosGroup/SPIRV-Cross",
+      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
+      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": "2,404",
+      "forks": "650",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17786731?s=40&v=4",
+          "name": "HansKristian-Work",
+          "url": "https://github.com/HansKristian-Work"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/356402?s=40&v=4",
+          "name": "billhollings",
+          "url": "https://github.com/billhollings"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42747760?s=40&v=4",
+          "name": "cdavis5e",
+          "url": "https://github.com/cdavis5e"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/379761?s=40&v=4",
+          "name": "RobDangerous",
+          "url": "https://github.com/RobDangerous"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/194842?s=40&v=4",
+          "name": "rdb",
+          "url": "https://github.com/rdb"
+        }
+      ]
+    },
+    {
       "title": "libretro/glsl-shaders",
       "url": "https://github.com/libretro/glsl-shaders",
       "description": "This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "1,161",
+      "stars": "1,162",
       "forks": "244",
       "addStars": "7",
       "contributors": [
@@ -171,43 +208,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/42781101?s=40&v=4",
           "name": "OrzMiku",
           "url": "https://github.com/OrzMiku"
-        }
-      ]
-    },
-    {
-      "title": "KhronosGroup/SPIRV-Cross",
-      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
-      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": "2,404",
-      "forks": "650",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17786731?s=40&v=4",
-          "name": "HansKristian-Work",
-          "url": "https://github.com/HansKristian-Work"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/356402?s=40&v=4",
-          "name": "billhollings",
-          "url": "https://github.com/billhollings"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42747760?s=40&v=4",
-          "name": "cdavis5e",
-          "url": "https://github.com/cdavis5e"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/379761?s=40&v=4",
-          "name": "RobDangerous",
-          "url": "https://github.com/RobDangerous"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/194842?s=40&v=4",
-          "name": "rdb",
-          "url": "https://github.com/rdb"
         }
       ]
     }

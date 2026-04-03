@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Fri, 03 Apr 2026 14:01:20 GMT</pubDate>
+    <pubDate>Fri, 03 Apr 2026 19:41:21 GMT</pubDate>
     <item>
       <title>Yeachan-Heo/oh-my-codex</title>
       <link>https://github.com/Yeachan-Heo/oh-my-codex</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,361</stars>
-      <forks>1,223</forks>
-      <addStars>2,867</addStars>
+      <stars>13,869</stars>
+      <forks>1,275</forks>
+      <addStars>2,984</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4</avatar>
@@ -44,14 +44,19 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,520</stars>
-      <forks>1,193</forks>
-      <addStars>2,573</addStars>
+      <stars>17,926</stars>
+      <forks>1,216</forks>
+      <addStars>2,855</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4</avatar>
           <name>siddharthvaddem</name>
           <url>https://github.com/siddharthvaddem</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/215859519?s=40&amp;v=4</avatar>
+          <name>EtienneLescot</name>
+          <url>https://github.com/EtienneLescot</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25193916?s=40&amp;v=4</avatar>
@@ -68,11 +73,6 @@
           <name>FabLrc</name>
           <url>https://github.com/FabLrc</url>
         </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/183397187?s=40&amp;v=4</avatar>
-          <name>solnikhil</name>
-          <url>https://github.com/solnikhil</url>
-        </contributor>
       </contributors>
     </item>
     <item>
@@ -82,8 +82,8 @@
       <guid>https://github.com/multica-ai/multica</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,829</stars>
-      <forks>186</forks>
+      <stars>1,857</stars>
+      <forks>191</forks>
       <addStars>353</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/open-metadata/OpenMetadata</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,566</stars>
-      <forks>1,741</forks>
+      <stars>9,592</stars>
+      <forks>1,743</forks>
       <addStars>299</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/simstudioai/sim</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,486</stars>
-      <forks>3,483</forks>
+      <stars>27,489</stars>
+      <forks>3,485</forks>
       <addStars>105</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/code-yeongyu/oh-my-openagent</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>47,607</stars>
-      <forks>3,669</forks>
+      <stars>47,751</stars>
+      <forks>3,690</forks>
       <addStars>795</addStars>
       <contributors>
         <contributor>

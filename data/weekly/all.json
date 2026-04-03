@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 03 Apr 2026 14:01:20 GMT",
+  "pubDate": "Fri, 03 Apr 2026 19:41:21 GMT",
   "items": [
     {
       "title": "luongnv89/claude-howto",
@@ -10,8 +10,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,407",
-      "forks": "2,055",
+      "stars": "17,613",
+      "forks": "2,085",
       "addStars": "15,450",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "35,536",
-      "forks": "4,044",
+      "stars": "35,625",
+      "forks": "4,053",
       "addStars": "11,071",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,322",
-      "forks": "1,218",
+      "stars": "13,852",
+      "forks": "1,273",
       "addStars": "7,880",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,819",
-      "forks": "2,006",
+      "stars": "23,029",
+      "forks": "2,055",
       "addStars": "9,761",
       "contributors": [
         {
@@ -131,9 +131,9 @@
           "url": "https://github.com/devseunggwan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&v=4",
-          "name": "shaun0927",
-          "url": "https://github.com/shaun0927"
+          "avatar": "https://avatars.githubusercontent.com/u/42234614?s=40&v=4",
+          "name": "blue-int",
+          "url": "https://github.com/blue-int"
         }
       ]
     },
@@ -143,8 +143,8 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "87,764",
-      "forks": "12,726",
+      "stars": "87,828",
+      "forks": "12,731",
       "addStars": "7,327",
       "contributors": [
         {
@@ -180,14 +180,19 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,494",
-      "forks": "1,191",
+      "stars": "17,911",
+      "forks": "1,215",
       "addStars": "5,954",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&v=4",
           "name": "siddharthvaddem",
           "url": "https://github.com/siddharthvaddem"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/215859519?s=40&v=4",
+          "name": "EtienneLescot",
+          "url": "https://github.com/EtienneLescot"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/25193916?s=40&v=4",
@@ -203,11 +208,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/86679051?s=40&v=4",
           "name": "FabLrc",
           "url": "https://github.com/FabLrc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/183397187?s=40&v=4",
-          "name": "solnikhil",
-          "url": "https://github.com/solnikhil"
         }
       ]
     },
@@ -217,8 +217,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,771",
-      "forks": "1,175",
+      "stars": "13,982",
+      "forks": "1,208",
       "addStars": "2,795",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,377",
-      "forks": "2,970",
+      "stars": "23,643",
+      "forks": "3,021",
       "addStars": "8,798",
       "contributors": [
         {
@@ -274,14 +274,14 @@
           "url": "https://github.com/kshitijk4poor"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&v=4",
+          "name": "erosika",
+          "url": "https://github.com/erosika"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/113846926?s=40&v=4",
           "name": "aydnOktay",
           "url": "https://github.com/aydnOktay"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
         }
       ]
     },
@@ -291,7 +291,7 @@
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,597",
+      "stars": "4,630",
       "forks": "651",
       "addStars": "1,982",
       "contributors": [
@@ -328,8 +328,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,918",
-      "forks": "1,435",
+      "stars": "17,999",
+      "forks": "1,439",
       "addStars": "8,598",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,690",
-      "forks": "3,055",
+      "stars": "23,078",
+      "forks": "3,098",
       "addStars": "2,886",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "133,435",
-      "forks": "11,102",
+      "stars": "133,820",
+      "forks": "11,142",
       "addStars": "17,089",
       "contributors": [
         {
@@ -434,8 +434,8 @@
       "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,290",
-      "forks": "678",
+      "stars": "4,352",
+      "forks": "687",
       "addStars": "1,745",
       "contributors": [
         {

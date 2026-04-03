@@ -3,7 +3,7 @@
     <title>GitHub Objective-c++ Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Objective-c++ Languages in GitHub</description>
-    <pubDate>Fri, 03 Apr 2026 14:01:20 GMT</pubDate>
+    <pubDate>Fri, 03 Apr 2026 19:41:21 GMT</pubDate>
     <item>
       <title>sbmpost/AutoRaise</title>
       <link>https://github.com/sbmpost/AutoRaise</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/thusvill/LiveWallpaperMacOS</guid>
       <language>Objective-C++</language>
       <languageColor>#6866fb</languageColor>
-      <stars>741</stars>
+      <stars>742</stars>
       <forks>31</forks>
       <addStars>74</addStars>
       <contributors>
@@ -97,14 +97,14 @@
           <url>https://github.com/KojiNakamaru</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81904?s=40&amp;v=4</avatar>
-          <name>splhack</name>
-          <url>https://github.com/splhack</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/18550228?s=40&amp;v=4</avatar>
           <name>SyaoranChang</name>
           <url>https://github.com/SyaoranChang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81904?s=40&amp;v=4</avatar>
+          <name>splhack</name>
+          <url>https://github.com/splhack</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/970766?s=40&amp;v=4</avatar>
@@ -125,7 +125,7 @@
       <guid>https://github.com/KhronosGroup/MoltenVK</guid>
       <language>Objective-C++</language>
       <languageColor>#6866fb</languageColor>
-      <stars>5,542</stars>
+      <stars>5,543</stars>
       <forks>482</forks>
       <addStars>42</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Codeql Languages Weekly Trending",
   "description": "Weekly Trending of Codeql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 03 Apr 2026 14:01:20 GMT",
+  "pubDate": "Fri, 03 Apr 2026 19:41:21 GMT",
   "items": [
     {
       "title": "github/vscode-codeql-starter",
@@ -79,8 +79,8 @@
       "description": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security",
       "language": "CodeQL",
       "languageColor": "#140f46",
-      "stars": "9,422",
-      "forks": "1,947",
+      "stars": "9,423",
+      "forks": "1,948",
       "addStars": "29",
       "contributors": [
         {

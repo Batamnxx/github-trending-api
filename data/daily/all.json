@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 03 Apr 2026 03:47:42 GMT",
+  "pubDate": "Fri, 03 Apr 2026 08:04:01 GMT",
   "items": [
     {
       "title": "siddharthvaddem/openscreen",
@@ -10,14 +10,19 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,279",
-      "forks": "1,115",
+      "stars": "16,814",
+      "forks": "1,142",
       "addStars": "2,573",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&v=4",
           "name": "siddharthvaddem",
           "url": "https://github.com/siddharthvaddem"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/215859519?s=40&v=4",
+          "name": "EtienneLescot",
+          "url": "https://github.com/EtienneLescot"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/25193916?s=40&v=4",
@@ -33,11 +38,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/86679051?s=40&v=4",
           "name": "FabLrc",
           "url": "https://github.com/FabLrc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/183397187?s=40&v=4",
-          "name": "solnikhil",
-          "url": "https://github.com/solnikhil"
         }
       ]
     },
@@ -47,8 +47,8 @@
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,118",
-      "forks": "1,116",
+      "stars": "12,652",
+      "forks": "1,155",
       "addStars": "2,867",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
       "language": "",
       "languageColor": "",
-      "stars": "36,568",
-      "forks": "6,046",
+      "stars": "36,813",
+      "forks": "6,075",
       "addStars": "306",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "77,433",
-      "forks": "9,077",
+      "stars": "77,718",
+      "forks": "9,097",
       "addStars": "827",
       "contributors": [
         {

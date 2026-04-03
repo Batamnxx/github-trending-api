@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Fri, 03 Apr 2026 03:47:42 GMT</pubDate>
+    <pubDate>Fri, 03 Apr 2026 08:04:01 GMT</pubDate>
     <item>
       <title>siddharthvaddem/openscreen</title>
       <link>https://github.com/siddharthvaddem/openscreen</link>
@@ -11,14 +11,19 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,310</stars>
-      <forks>1,117</forks>
+      <stars>16,855</stars>
+      <forks>1,144</forks>
       <addStars>2,573</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4</avatar>
           <name>siddharthvaddem</name>
           <url>https://github.com/siddharthvaddem</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/215859519?s=40&amp;v=4</avatar>
+          <name>EtienneLescot</name>
+          <url>https://github.com/EtienneLescot</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25193916?s=40&amp;v=4</avatar>
@@ -35,11 +40,6 @@
           <name>FabLrc</name>
           <url>https://github.com/FabLrc</url>
         </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/183397187?s=40&amp;v=4</avatar>
-          <name>solnikhil</name>
-          <url>https://github.com/solnikhil</url>
-        </contributor>
       </contributors>
     </item>
     <item>
@@ -49,8 +49,8 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,150</stars>
-      <forks>1,117</forks>
+      <stars>12,686</stars>
+      <forks>1,163</forks>
       <addStars>2,867</addStars>
       <contributors>
         <contributor>

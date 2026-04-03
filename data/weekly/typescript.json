@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 03 Apr 2026 03:47:42 GMT",
+  "pubDate": "Fri, 03 Apr 2026 08:04:01 GMT",
   "items": [
     {
       "title": "Yeachan-Heo/oh-my-codex",
@@ -10,8 +10,8 @@
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,150",
-      "forks": "1,117",
+      "stars": "12,686",
+      "forks": "1,163",
       "addStars": "7,880",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,370",
-      "forks": "1,961",
+      "stars": "22,585",
+      "forks": "1,980",
       "addStars": "9,761",
       "contributors": [
         {
@@ -79,14 +79,19 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,310",
-      "forks": "1,117",
+      "stars": "16,855",
+      "forks": "1,144",
       "addStars": "5,954",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&v=4",
           "name": "siddharthvaddem",
           "url": "https://github.com/siddharthvaddem"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/215859519?s=40&v=4",
+          "name": "EtienneLescot",
+          "url": "https://github.com/EtienneLescot"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/25193916?s=40&v=4",
@@ -102,11 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/86679051?s=40&v=4",
           "name": "FabLrc",
           "url": "https://github.com/FabLrc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/183397187?s=40&v=4",
-          "name": "solnikhil",
-          "url": "https://github.com/solnikhil"
         }
       ]
     },
@@ -116,8 +116,8 @@
       "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,216",
-      "forks": "668",
+      "stars": "4,241",
+      "forks": "672",
       "addStars": "1,745",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "43,517",
+      "stars": "43,525",
       "forks": "5,789",
       "addStars": "2,451",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,833",
+      "stars": "20,850",
       "forks": "2,495",
       "addStars": "2,071",
       "contributors": [
@@ -222,8 +222,8 @@
       "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "47,387",
-      "forks": "7,578",
+      "stars": "47,553",
+      "forks": "7,625",
       "addStars": "7,740",
       "contributors": [
         {
@@ -254,50 +254,13 @@
       ]
     },
     {
-      "title": "letta-ai/claude-subconscious",
-      "url": "https://github.com/letta-ai/claude-subconscious",
-      "description": "Give Claude Code a subconscious",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "2,552",
-      "forks": "180",
-      "addStars": "828",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/422990?s=40&v=4",
-          "name": "cpfiffer",
-          "url": "https://github.com/cpfiffer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/248085862?s=40&v=4",
-          "name": "letta-code",
-          "url": "https://github.com/letta-code"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50788941?s=40&v=4",
-          "name": "scrossle",
-          "url": "https://github.com/scrossle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5475622?s=40&v=4",
-          "name": "cpacker",
-          "url": "https://github.com/cpacker"
-        }
-      ]
-    },
-    {
       "title": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Office Compound Engineering plugin for Claude Code, Codex, and more",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,609",
-      "forks": "968",
+      "stars": "12,651",
+      "forks": "970",
       "addStars": "1,436",
       "contributors": [
         {
@@ -328,8 +291,8 @@
       "description": "将 Cursor Web Docs 免费 API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,693",
-      "forks": "494",
+      "stars": "1,698",
+      "forks": "495",
       "addStars": "395",
       "contributors": [
         {
@@ -360,8 +323,8 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,956",
-      "forks": "1,909",
+      "stars": "20,973",
+      "forks": "1,911",
       "addStars": "1,456",
       "contributors": [
         {
@@ -397,8 +360,8 @@
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,264",
-      "forks": "1,189",
+      "stars": "9,284",
+      "forks": "1,193",
       "addStars": "2,044",
       "contributors": [
         {
@@ -434,8 +397,8 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "440,611",
-      "forks": "43,979",
+      "stars": "440,650",
+      "forks": "43,989",
       "addStars": "1,907",
       "contributors": [
         {
@@ -466,7 +429,7 @@
       "description": "Make beautiful isometric infrastructure diagrams",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,494",
+      "stars": "19,498",
       "forks": "1,289",
       "addStars": "289",
       "contributors": [

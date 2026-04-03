@@ -3,7 +3,7 @@
     <title>GitHub Clojure Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Clojure Languages in GitHub</description>
-    <pubDate>Fri, 03 Apr 2026 03:47:42 GMT</pubDate>
+    <pubDate>Fri, 03 Apr 2026 08:04:01 GMT</pubDate>
     <item>
       <title>penpot/penpot</title>
       <link>https://github.com/penpot/penpot</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/penpot/penpot</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>45,168</stars>
-      <forks>2,641</forks>
+      <stars>45,171</stars>
+      <forks>2,642</forks>
       <addStars>738</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/logseq/logseq</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>41,823</stars>
+      <stars>41,824</stars>
       <forks>2,535</forks>
       <addStars>843</addStars>
       <contributors>
@@ -164,7 +164,7 @@
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
       <stars>46,727</stars>
-      <forks>6,354</forks>
+      <forks>6,355</forks>
       <addStars>523</addStars>
       <contributors>
         <contributor>

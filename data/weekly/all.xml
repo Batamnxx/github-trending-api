@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 03 Apr 2026 03:47:42 GMT</pubDate>
+    <pubDate>Fri, 03 Apr 2026 08:04:01 GMT</pubDate>
     <item>
       <title>microsoft/VibeVoice</title>
       <link>https://github.com/microsoft/VibeVoice</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>35,299</stars>
-      <forks>4,015</forks>
+      <stars>35,409</stars>
+      <forks>4,031</forks>
       <addStars>11,071</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,118</stars>
-      <forks>1,116</forks>
+      <stars>12,653</stars>
+      <forks>1,155</forks>
       <addStars>7,880</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/hacksider/Deep-Live-Cam</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>87,649</stars>
-      <forks>12,711</forks>
+      <stars>87,696</stars>
+      <forks>12,716</forks>
       <addStars>7,327</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-claudecode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,360</stars>
-      <forks>1,959</forks>
+      <stars>22,573</stars>
+      <forks>1,980</forks>
       <addStars>9,761</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,761</stars>
-      <forks>1,424</forks>
+      <stars>17,833</stars>
+      <forks>1,428</forks>
       <addStars>8,598</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/SakanaAI/AI-Scientist-v2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,533</stars>
-      <forks>647</forks>
+      <stars>4,563</stars>
+      <forks>649</forks>
       <addStars>1,982</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,911</stars>
-      <forks>2,893</forks>
+      <stars>23,113</stars>
+      <forks>2,929</forks>
       <addStars>8,798</addStars>
       <contributors>
         <contributor>
@@ -267,14 +267,19 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,279</stars>
-      <forks>1,115</forks>
+      <stars>16,816</stars>
+      <forks>1,142</forks>
       <addStars>5,954</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4</avatar>
           <name>siddharthvaddem</name>
           <url>https://github.com/siddharthvaddem</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/215859519?s=40&amp;v=4</avatar>
+          <name>EtienneLescot</name>
+          <url>https://github.com/EtienneLescot</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25193916?s=40&amp;v=4</avatar>
@@ -291,11 +296,6 @@
           <name>FabLrc</name>
           <url>https://github.com/FabLrc</url>
         </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/183397187?s=40&amp;v=4</avatar>
-          <name>solnikhil</name>
-          <url>https://github.com/solnikhil</url>
-        </contributor>
       </contributors>
     </item>
     <item>
@@ -305,8 +305,8 @@
       <guid>https://github.com/affaan-m/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>133,962</stars>
-      <forks>19,486</forks>
+      <stars>134,499</stars>
+      <forks>19,599</forks>
       <addStars>23,845</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>132,502</stars>
-      <forks>11,004</forks>
+      <stars>132,932</stars>
+      <forks>11,058</forks>
       <addStars>17,089</addStars>
       <contributors>
         <contributor>
@@ -371,8 +371,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>56,841</stars>
-      <forks>6,993</forks>
+      <stars>56,993</stars>
+      <forks>7,018</forks>
       <addStars>9,043</addStars>
       <contributors>
         <contributor>

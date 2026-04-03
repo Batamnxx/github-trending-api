@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 02 Apr 2026 19:51:51 GMT",
+  "pubDate": "Fri, 03 Apr 2026 03:47:42 GMT",
   "items": [
     {
       "title": "lewis6991/gitsigns.nvim",
@@ -10,9 +10,9 @@
       "description": "Git integration for buffers",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,681",
+      "stars": "6,682",
       "forks": "274",
-      "addStars": "7",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7904185?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Plugin to improve viewing Markdown files in Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,343",
+      "stars": "4,344",
       "forks": "106",
-      "addStars": "3",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/52591095?s=40&v=4",
@@ -79,7 +79,7 @@
       "description": "Neovim file explorer: edit your filesystem like a buffer",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,397",
+      "stars": "6,400",
       "forks": "223",
       "addStars": "3",
       "contributors": [
@@ -113,7 +113,7 @@
       "languageColor": "#000080",
       "stars": "575",
       "forks": "19",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36493671?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,157",
+      "stars": "4,158",
       "forks": "76",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48545987?s=40&v=4",
@@ -182,7 +182,7 @@
       "languageColor": "#000080",
       "stars": "186",
       "forks": "14",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1681295?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "Canary Server 15.00 for OpenTibia community.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "556",
-      "forks": "828",
+      "stars": "558",
+      "forks": "830",
       "addStars": "1",
       "contributors": [
         {
@@ -293,7 +293,7 @@
       "languageColor": "#000080",
       "stars": "13,476",
       "forks": "2,431",
-      "addStars": "6",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13316262?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "🍿 A collection of QoL plugins for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "7,349",
+      "stars": "7,351",
       "forks": "432",
-      "addStars": "10",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
@@ -389,7 +389,7 @@
       "languageColor": "#000080",
       "stars": "541",
       "forks": "33",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2755722?s=40&v=4",
@@ -426,7 +426,7 @@
       "languageColor": "#000080",
       "stars": "364",
       "forks": "19",
-      "addStars": "0",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15233006?s=40&v=4",
@@ -564,7 +564,7 @@
       "languageColor": "#000080",
       "stars": "2,495",
       "forks": "79",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11800204?s=40&v=4",
@@ -628,7 +628,7 @@
       "languageColor": "#000080",
       "stars": "410",
       "forks": "24",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14187674?s=40&v=4",

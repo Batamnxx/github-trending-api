@@ -2,7 +2,7 @@
   "title": "GitHub Restructuredtext Languages Monthly Trending",
   "description": "Monthly Trending of Restructuredtext Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 02 Apr 2026 19:51:51 GMT",
+  "pubDate": "Fri, 03 Apr 2026 03:47:42 GMT",
   "items": [
     {
       "title": "godotengine/godot-docs",
@@ -10,9 +10,9 @@
       "description": "Godot Engine official documentation",
       "language": "reStructuredText",
       "languageColor": "#141414",
-      "stars": "5,102",
+      "stars": "5,104",
       "forks": "3,627",
-      "addStars": "108",
+      "addStars": "112",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1654763?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub Haxe Languages Weekly Trending",
   "description": "Weekly Trending of Haxe Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 03 Apr 2026 19:41:21 GMT",
+  "pubDate": "Sat, 04 Apr 2026 03:36:53 GMT",
   "items": [
     {
       "title": "FunkinCrew/Funkin",
@@ -47,7 +47,7 @@
       "description": "awesome fnf engine :D",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": "430",
+      "stars": "431",
       "forks": "315",
       "addStars": "3",
       "contributors": [
@@ -86,7 +86,7 @@
       "languageColor": "#df7900",
       "stars": "6,867",
       "forks": "694",
-      "addStars": "12",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/634365?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": "143",
+      "stars": "144",
       "forks": "100",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51335952?s=40&v=4",
@@ -191,8 +191,8 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": "90",
-      "forks": "61",
-      "addStars": "2",
+      "forks": "62",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/72814880?s=40&v=4",

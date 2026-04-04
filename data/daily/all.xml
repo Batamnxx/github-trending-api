@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 04 Apr 2026 13:53:33 GMT</pubDate>
+    <pubDate>Sat, 04 Apr 2026 19:35:33 GMT</pubDate>
     <item>
       <title>Blaizzy/mlx-vlm</title>
       <link>https://github.com/Blaizzy/mlx-vlm</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/Blaizzy/mlx-vlm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,392</stars>
-      <forks>373</forks>
-      <addStars>499</addStars>
+      <stars>3,515</stars>
+      <forks>388</forks>
+      <addStars>316</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/23445657?s=40&amp;v=4</avatar>
@@ -21,14 +21,14 @@
           <url>https://github.com/Blaizzy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1177582?s=40&amp;v=4</avatar>
           <name>pcuenca</name>
           <url>https://github.com/pcuenca</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/173081182?s=40&amp;v=4</avatar>
@@ -49,8 +49,8 @@
       <guid>https://github.com/onyx-dot-app/onyx</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,762</stars>
-      <forks>3,181</forks>
+      <stars>24,055</stars>
+      <forks>3,231</forks>
       <addStars>1,212</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,983</stars>
-      <forks>1,401</forks>
+      <stars>15,415</stars>
+      <forks>1,446</forks>
       <addStars>1,803</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>18,970</stars>
-      <forks>1,302</forks>
+      <stars>19,361</stars>
+      <forks>1,329</forks>
       <addStars>1,600</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/telegramdesktop/tdesktop</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>30,702</stars>
-      <forks>6,505</forks>
+      <stars>30,792</stars>
+      <forks>6,515</forks>
       <addStars>282</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/block/goose</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>35,350</stars>
-      <forks>3,317</forks>
+      <stars>35,550</stars>
+      <forks>3,332</forks>
       <addStars>947</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/microsoft/agent-framework</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,534</stars>
-      <forks>1,422</forks>
+      <stars>8,646</stars>
+      <forks>1,431</forks>
       <addStars>66</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>78,958</stars>
-      <forks>9,216</forks>
+      <stars>79,214</stars>
+      <forks>9,237</forks>
       <addStars>993</addStars>
       <contributors>
         <contributor>

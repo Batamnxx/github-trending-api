@@ -3,7 +3,7 @@
     <title>GitHub Shell Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Shell Languages in GitHub</description>
-    <pubDate>Sat, 04 Apr 2026 13:53:33 GMT</pubDate>
+    <pubDate>Sat, 04 Apr 2026 19:35:33 GMT</pubDate>
     <item>
       <title>zarazhangrui/frontend-slides</title>
       <link>https://github.com/zarazhangrui/frontend-slides</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/zarazhangrui/frontend-slides</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>12,782</stars>
-      <forks>953</forks>
-      <addStars>281</addStars>
+      <stars>12,844</stars>
+      <forks>960</forks>
+      <addStars>375</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -49,8 +49,8 @@
       <guid>https://github.com/msitarzewski/agency-agents</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>70,751</stars>
-      <forks>10,891</forks>
+      <stars>70,991</stars>
+      <forks>10,948</forks>
       <addStars>1,251</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/basecamp/omarchy</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>21,570</stars>
-      <forks>2,156</forks>
+      <stars>21,578</stars>
+      <forks>2,155</forks>
       <addStars>45</addStars>
       <contributors>
         <contributor>
@@ -125,9 +125,9 @@
       <guid>https://github.com/mack-a/v2ray-agent</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>19,698</stars>
-      <forks>5,346</forks>
-      <addStars>43</addStars>
+      <stars>19,705</stars>
+      <forks>5,347</forks>
+      <addStars>55</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/57424792?s=40&amp;v=4</avatar>
@@ -163,8 +163,8 @@
       <guid>https://github.com/pi-hole/pi-hole</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>56,407</stars>
-      <forks>3,004</forks>
+      <stars>56,403</stars>
+      <forks>3,003</forks>
       <addStars>21</addStars>
       <contributors>
         <contributor>
@@ -201,9 +201,9 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>134,711</stars>
-      <forks>11,249</forks>
-      <addStars>1,851</addStars>
+      <stars>135,025</stars>
+      <forks>11,288</forks>
+      <addStars>1,286</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4</avatar>
@@ -239,8 +239,8 @@
       <guid>https://github.com/bioconda/bioconda-recipes</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>1,795</stars>
-      <forks>3,829</forks>
+      <stars>1,796</stars>
+      <forks>3,831</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -277,9 +277,9 @@
       <guid>https://github.com/nelvko/clash-for-linux-install</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>11,394</stars>
-      <forks>1,303</forks>
-      <addStars>52</addStars>
+      <stars>11,407</stars>
+      <forks>1,307</forks>
+      <addStars>46</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/76961348?s=40&amp;v=4</avatar>
@@ -315,8 +315,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>11,856</stars>
-      <forks>988</forks>
+      <stars>11,904</stars>
+      <forks>995</forks>
       <addStars>316</addStars>
       <contributors>
         <contributor>
@@ -338,7 +338,7 @@
       <guid>https://github.com/actionbook/rust-skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>968</stars>
+      <stars>969</stars>
       <forks>90</forks>
       <addStars>1</addStars>
       <contributors>
@@ -370,39 +370,6 @@
       </contributors>
     </item>
     <item>
-      <title>marcusquinn/aidevops</title>
-      <link>https://github.com/marcusquinn/aidevops</link>
-      <description>Vibe-Coding is easy. DevOps is hard. OpenCode &amp; Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI &amp; API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try it on your repos to see the magic.</description>
-      <guid>https://github.com/marcusquinn/aidevops</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>141</stars>
-      <forks>31</forks>
-      <addStars>30</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6428977?s=40&amp;v=4</avatar>
-          <name>marcusquinn</name>
-          <url>https://github.com/marcusquinn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1556417?s=40&amp;v=4</avatar>
-          <name>alex-solovyev</name>
-          <url>https://github.com/alex-solovyev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
-          <name>actions-user</name>
-          <url>https://github.com/actions-user</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13523483?s=40&amp;v=4</avatar>
-          <name>johnwaldo</name>
-          <url>https://github.com/johnwaldo</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>kodekloudhub/certified-kubernetes-administrator-course</title>
       <link>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</link>
       <description>Certified Kubernetes Administrator - CKA Course</description>
@@ -411,7 +378,7 @@
       <languageColor>#89e051</languageColor>
       <stars>10,338</stars>
       <forks>9,399</forks>
-      <addStars>6</addStars>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/38712160?s=40&amp;v=4</avatar>
@@ -447,8 +414,8 @@
       <guid>https://github.com/frankbria/ralph-claude-code</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>8,402</stars>
-      <forks>621</forks>
+      <stars>8,413</stars>
+      <forks>622</forks>
       <addStars>30</addStars>
       <contributors>
         <contributor>

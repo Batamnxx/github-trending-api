@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 04 Apr 2026 19:35:33 GMT",
+  "pubDate": "Sun, 05 Apr 2026 03:56:28 GMT",
   "items": [
     {
       "title": "luongnv89/claude-howto",
@@ -10,9 +10,9 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,850",
-      "forks": "2,259",
-      "addStars": "14,996",
+      "stars": "19,172",
+      "forks": "2,304",
+      "addStars": "14,763",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3288457?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,415",
-      "forks": "1,446",
-      "addStars": "10,578",
+      "stars": "15,797",
+      "forks": "1,487",
+      "addStars": "12,108",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,051",
-      "forks": "4,115",
-      "addStars": "11,264",
+      "stars": "36,165",
+      "forks": "4,127",
+      "addStars": "11,141",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,361",
-      "forks": "1,329",
-      "addStars": "8,513",
+      "stars": "20,351",
+      "forks": "1,395",
+      "addStars": "9,913",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,747",
-      "forks": "2,151",
-      "addStars": "9,465",
+      "stars": "23,946",
+      "forks": "2,174",
+      "addStars": "9,232",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,604",
-      "forks": "1,269",
-      "addStars": "3,632",
+      "stars": "14,725",
+      "forks": "1,285",
+      "addStars": "4,315",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8039264?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,773",
-      "forks": "3,224",
-      "addStars": "9,193",
+      "stars": "25,160",
+      "forks": "3,282",
+      "addStars": "9,566",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "88,347",
-      "forks": "12,818",
-      "addStars": "5,847",
+      "stars": "88,539",
+      "forks": "12,846",
+      "addStars": "4,512",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1267200?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,055",
-      "forks": "3,231",
-      "addStars": "4,006",
+      "stars": "24,366",
+      "forks": "3,266",
+      "addStars": "4,306",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25087905?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,524",
-      "forks": "706",
-      "addStars": "1,861",
+      "stars": "4,567",
+      "forks": "710",
+      "addStars": "2,054",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/176344?s=40&v=4",
@@ -348,9 +348,9 @@
           "url": "https://github.com/mmplisskin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46590050?s=40&v=4",
-          "name": "deepakdroi",
-          "url": "https://github.com/deepakdroi"
+          "avatar": "https://avatars.githubusercontent.com/u/44097312?s=40&v=4",
+          "name": "penggaolai",
+          "url": "https://github.com/penggaolai"
         }
       ]
     },
@@ -360,9 +360,9 @@
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,785",
-      "forks": "671",
-      "addStars": "1,964",
+      "stars": "4,827",
+      "forks": "672",
+      "addStars": "1,658",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20336225?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "135,019",
-      "forks": "11,288",
-      "addStars": "16,229",
+      "stars": "135,295",
+      "forks": "11,324",
+      "addStars": "15,339",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
       "language": "",
       "languageColor": "",
-      "stars": "37,210",
-      "forks": "6,144",
-      "addStars": "1,989",
+      "stars": "37,262",
+      "forks": "6,153",
+      "addStars": "2,041",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "137,523",
-      "forks": "20,424",
-      "addStars": "24,341",
+      "stars": "138,153",
+      "forks": "20,569",
+      "addStars": "23,827",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -498,9 +498,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "79,214",
-      "forks": "9,237",
-      "addStars": "4,181",
+      "stars": "79,448",
+      "forks": "9,253",
+      "addStars": "4,835",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",

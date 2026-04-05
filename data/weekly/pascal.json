@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Weekly Trending",
   "description": "Weekly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 05 Apr 2026 03:56:28 GMT",
+  "pubDate": "Sun, 05 Apr 2026 07:56:50 GMT",
   "items": [
     {
       "title": "doublecmd/doublecmd",
@@ -10,7 +10,7 @@
       "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "4,023",
+      "stars": "4,024",
       "forks": "281",
       "addStars": "57",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Cheat Engine. A development environment focused on modding",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "18,034",
-      "forks": "2,532",
+      "stars": "18,036",
+      "forks": "2,533",
       "addStars": "50",
       "contributors": [
         {
@@ -158,7 +158,7 @@
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "7,106",
+      "stars": "7,107",
       "forks": "379",
       "addStars": "45",
       "contributors": [

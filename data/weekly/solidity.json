@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Weekly Trending",
   "description": "Weekly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 05 Apr 2026 13:54:34 GMT",
+  "pubDate": "Sun, 05 Apr 2026 19:37:46 GMT",
   "items": [
     {
       "title": "aave/aave-v4",
@@ -47,7 +47,7 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "27,050",
+      "stars": "27,049",
       "forks": "12,409",
       "addStars": "22",
       "contributors": [
@@ -143,7 +143,7 @@
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "4,271",
+      "stars": "4,272",
       "forks": "706",
       "addStars": "1",
       "contributors": [

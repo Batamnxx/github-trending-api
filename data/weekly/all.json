@@ -2,48 +2,16 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 05 Apr 2026 13:54:34 GMT",
+  "pubDate": "Sun, 05 Apr 2026 19:37:46 GMT",
   "items": [
-    {
-      "title": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "16,283",
-      "forks": "1,544",
-      "addStars": "12,108",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&v=4",
-          "name": "Yeachan-Heo",
-          "url": "https://github.com/Yeachan-Heo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102889891?s=40&v=4",
-          "name": "HaD0Yun",
-          "url": "https://github.com/HaD0Yun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32605822?s=40&v=4",
-          "name": "junhoyeo",
-          "url": "https://github.com/junhoyeo"
-        }
-      ]
-    },
     {
       "title": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,850",
-      "forks": "2,373",
+      "stars": "20,196",
+      "forks": "2,413",
       "addStars": "14,763",
       "contributors": [
         {
@@ -74,8 +42,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,339",
-      "forks": "4,156",
+      "stars": "36,418",
+      "forks": "4,177",
       "addStars": "11,141",
       "contributors": [
         {
@@ -106,8 +74,8 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,692",
-      "forks": "1,461",
+      "stars": "22,238",
+      "forks": "1,491",
       "addStars": "9,913",
       "contributors": [
         {
@@ -143,8 +111,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,841",
-      "forks": "1,293",
+      "stars": "14,904",
+      "forks": "1,301",
       "addStars": "4,315",
       "contributors": [
         {
@@ -180,8 +148,8 @@
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,222",
-      "forks": "2,209",
+      "stars": "24,399",
+      "forks": "2,227",
       "addStars": "9,232",
       "contributors": [
         {
@@ -217,8 +185,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,678",
-      "forks": "3,350",
+      "stars": "26,055",
+      "forks": "3,405",
       "addStars": "9,566",
       "contributors": [
         {
@@ -242,9 +210,9 @@
           "url": "https://github.com/erosika"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/113846926?s=40&v=4",
+          "name": "aydnOktay",
+          "url": "https://github.com/aydnOktay"
         }
       ]
     },
@@ -254,8 +222,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,712",
-      "forks": "3,309",
+      "stars": "24,884",
+      "forks": "3,327",
       "addStars": "4,306",
       "contributors": [
         {
@@ -286,8 +254,8 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "79,747",
-      "forks": "9,279",
+      "stars": "79,820",
+      "forks": "9,286",
       "addStars": "4,835",
       "contributors": [
         {
@@ -323,8 +291,8 @@
       "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,627",
-      "forks": "720",
+      "stars": "4,669",
+      "forks": "723",
       "addStars": "2,054",
       "contributors": [
         {
@@ -360,8 +328,8 @@
       "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
       "language": "",
       "languageColor": "",
-      "stars": "37,360",
-      "forks": "6,164",
+      "stars": "37,420",
+      "forks": "6,174",
       "addStars": "2,041",
       "contributors": [
         {
@@ -397,8 +365,8 @@
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,891",
-      "forks": "682",
+      "stars": "4,920",
+      "forks": "684",
       "addStars": "1,658",
       "contributors": [
         {
@@ -434,8 +402,8 @@
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,659",
-      "forks": "3,297",
+      "stars": "37,690",
+      "forks": "3,300",
       "addStars": "862",
       "contributors": [
         {

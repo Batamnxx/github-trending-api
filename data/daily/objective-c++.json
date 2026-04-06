@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c++ Languages Daily Trending",
   "description": "Daily Trending of Objective-c++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 05 Apr 2026 19:37:46 GMT",
+  "pubDate": "Mon, 06 Apr 2026 04:10:07 GMT",
   "items": [
     {
       "title": "pocketsvg/PocketSVG",
@@ -84,9 +84,9 @@
       "description": "AutoRaise (and focus) a window when hovering over it with the mouse",
       "language": "Objective-C++",
       "languageColor": "#6866fb",
-      "stars": "2,570",
+      "stars": "2,569",
       "forks": "107",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10278551?s=40&v=4",

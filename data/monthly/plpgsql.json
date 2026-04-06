@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Monthly Trending",
   "description": "Monthly Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 05 Apr 2026 19:37:46 GMT",
+  "pubDate": "Mon, 06 Apr 2026 04:10:07 GMT",
   "items": [
     {
       "title": "opsre/AutoOps",
@@ -12,7 +12,7 @@
       "languageColor": "#336790",
       "stars": "578",
       "forks": "142",
-      "addStars": "68",
+      "addStars": "66",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/113490183?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "4,730",
+      "stars": "4,731",
       "forks": "135",
-      "addStars": "144",
+      "addStars": "143",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15756360?s=40&v=4",

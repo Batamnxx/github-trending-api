@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 05 Apr 2026 19:37:46 GMT",
+  "pubDate": "Mon, 06 Apr 2026 04:10:07 GMT",
   "items": [
     {
       "title": "google-ai-edge/gallery",
@@ -10,9 +10,9 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "16,763",
-      "forks": "1,527",
-      "addStars": "495",
+      "stars": "17,121",
+      "forks": "1,572",
+      "addStars": "389",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8752427?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,870",
-      "forks": "416",
-      "addStars": "408",
+      "stars": "3,975",
+      "forks": "423",
+      "addStars": "416",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23445657?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,238",
-      "forks": "1,491",
-      "addStars": "2,692",
+      "stars": "22,749",
+      "forks": "1,521",
+      "addStars": "2,749",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "36,728",
-      "forks": "3,495",
-      "addStars": "866",
+      "stars": "37,175",
+      "forks": "3,570",
+      "addStars": "882",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/55366651?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,884",
-      "forks": "3,327",
-      "addStars": "960",
+      "stars": "25,129",
+      "forks": "3,354",
+      "addStars": "998",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25087905?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,824",
-      "forks": "3,467",
-      "addStars": "340",
+      "stars": "31,990",
+      "forks": "3,482",
+      "addStars": "355",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,634",
-      "forks": "148",
-      "addStars": "111",
+      "stars": "3,735",
+      "forks": "152",
+      "addStars": "76",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16926049?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,464",
-      "forks": "179",
-      "addStars": "193",
+      "stars": "1,621",
+      "forks": "190",
+      "addStars": "124",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/154857592?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "31,032",
-      "forks": "6,535",
-      "addStars": "265",
+      "stars": "31,101",
+      "forks": "6,539",
+      "addStars": "287",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17900494?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "441,409",
-      "forks": "44,096",
-      "addStars": "292",
+      "stars": "441,604",
+      "forks": "44,112",
+      "addStars": "335",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15801806?s=40&v=4",

@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Mon, 06 Apr 2026 04:10:07 GMT</pubDate>
+    <pubDate>Mon, 06 Apr 2026 08:23:34 GMT</pubDate>
     <item>
       <title>shareAI-lab/learn-claude-code</title>
       <link>https://github.com/shareAI-lab/learn-claude-code</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/shareAI-lab/learn-claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>48,684</stars>
-      <forks>7,856</forks>
+      <stars>48,789</stars>
+      <forks>7,882</forks>
       <addStars>27,309</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,772</stars>
-      <forks>1,524</forks>
+      <stars>23,080</stars>
+      <forks>1,547</forks>
       <addStars>14,130</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/promptfoo/promptfoo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,531</stars>
-      <forks>1,678</forks>
+      <stars>19,561</stars>
+      <forks>1,679</forks>
       <addStars>8,723</addStars>
       <contributors>
         <contributor>
@@ -109,52 +109,14 @@
       </contributors>
     </item>
     <item>
-      <title>Yeachan-Heo/oh-my-claudecode</title>
-      <link>https://github.com/Yeachan-Heo/oh-my-claudecode</link>
-      <description>Teams-first Multi-agent orchestration for Claude Code</description>
-      <guid>https://github.com/Yeachan-Heo/oh-my-claudecode</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>24,580</stars>
-      <forks>2,249</forks>
-      <addStars>16,037</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4</avatar>
-          <name>Yeachan-Heo</name>
-          <url>https://github.com/Yeachan-Heo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/139470135?s=40&amp;v=4</avatar>
-          <name>riftzen-bit</name>
-          <url>https://github.com/riftzen-bit</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42234614?s=40&amp;v=4</avatar>
-          <name>blue-int</name>
-          <url>https://github.com/blue-int</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60123681?s=40&amp;v=4</avatar>
-          <name>devseunggwan</name>
-          <url>https://github.com/devseunggwan</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>abhigyanpatwari/GitNexus</title>
       <link>https://github.com/abhigyanpatwari/GitNexus</link>
       <description>GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration</description>
       <guid>https://github.com/abhigyanpatwari/GitNexus</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,670</stars>
-      <forks>2,584</forks>
+      <stars>22,782</stars>
+      <forks>2,591</forks>
       <addStars>12,538</addStars>
       <contributors>
         <contributor>
@@ -191,8 +153,8 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>30,137</stars>
-      <forks>3,337</forks>
+      <stars>30,165</stars>
+      <forks>3,342</forks>
       <addStars>11,168</addStars>
       <contributors>
         <contributor>
@@ -229,7 +191,7 @@
       <guid>https://github.com/supermemoryai/supermemory</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,269</stars>
+      <stars>21,286</stars>
       <forks>1,942</forks>
       <addStars>4,542</addStars>
       <contributors>
@@ -267,8 +229,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>33,311</stars>
-      <forks>1,994</forks>
+      <stars>33,331</stars>
+      <forks>1,995</forks>
       <addStars>5,862</addStars>
       <contributors>
         <contributor>
@@ -300,8 +262,8 @@
       <guid>https://github.com/Fission-AI/OpenSpec</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>37,479</stars>
-      <forks>2,520</forks>
+      <stars>37,512</stars>
+      <forks>2,521</forks>
       <addStars>9,831</addStars>
       <contributors>
         <contributor>
@@ -328,8 +290,8 @@
       <guid>https://github.com/abhi1693/openclaw-mission-control</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,491</stars>
-      <forks>727</forks>
+      <stars>3,502</stars>
+      <forks>728</forks>
       <addStars>2,007</addStars>
       <contributors>
         <contributor>
@@ -361,8 +323,8 @@
       <guid>https://github.com/sirmalloc/ccstatusline</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,718</stars>
-      <forks>280</forks>
+      <stars>6,735</stars>
+      <forks>282</forks>
       <addStars>2,295</addStars>
       <contributors>
         <contributor>
@@ -394,8 +356,8 @@
       <guid>https://github.com/shadcn-ui/ui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>111,584</stars>
-      <forks>8,425</forks>
+      <stars>111,612</stars>
+      <forks>8,426</forks>
       <addStars>4,333</addStars>
       <contributors>
         <contributor>

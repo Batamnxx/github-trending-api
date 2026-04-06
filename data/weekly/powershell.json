@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Weekly Trending",
   "description": "Weekly Trending of Powershell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 06 Apr 2026 04:10:07 GMT",
+  "pubDate": "Mon, 06 Apr 2026 08:23:34 GMT",
   "items": [
     {
       "title": "microsoft/work-iq",
@@ -75,7 +75,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "2,046",
-      "forks": "1,614",
+      "forks": "1,615",
       "addStars": "4",
       "contributors": [
         {
@@ -107,7 +107,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "5,628",
-      "forks": "1,631",
+      "forks": "1,632",
       "addStars": "17",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "12,632",
+      "stars": "12,633",
       "forks": "3,714",
       "addStars": "26",
       "contributors": [
@@ -240,7 +240,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "10,427",
-      "forks": "6,566",
+      "forks": "6,568",
       "addStars": "30",
       "contributors": [
         {
@@ -446,7 +446,7 @@
       "description": "Curated lessons on getting started building agents with Copilot Studio",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "2,002",
+      "stars": "2,003",
       "forks": "149",
       "addStars": "73",
       "contributors": [

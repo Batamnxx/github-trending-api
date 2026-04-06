@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 06 Apr 2026 04:10:07 GMT",
+  "pubDate": "Mon, 06 Apr 2026 08:23:34 GMT",
   "items": [
     {
       "title": "google-ai-edge/gallery",
@@ -10,8 +10,8 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "17,121",
-      "forks": "1,572",
+      "stars": "17,328",
+      "forks": "1,602",
       "addStars": "389",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,975",
-      "forks": "423",
+      "stars": "4,033",
+      "forks": "427",
       "addStars": "416",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,749",
-      "forks": "1,521",
+      "stars": "23,065",
+      "forks": "1,546",
       "addStars": "2,749",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,175",
-      "forks": "3,570",
+      "stars": "37,404",
+      "forks": "3,598",
       "addStars": "882",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,129",
-      "forks": "3,354",
+      "stars": "25,253",
+      "forks": "3,373",
       "addStars": "998",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,990",
-      "forks": "3,482",
+      "stars": "32,093",
+      "forks": "3,489",
       "addStars": "355",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,735",
-      "forks": "152",
+      "stars": "3,779",
+      "forks": "156",
       "addStars": "76",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,621",
-      "forks": "190",
+      "stars": "1,709",
+      "forks": "196",
       "addStars": "124",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "31,101",
-      "forks": "6,539",
+      "stars": "31,146",
+      "forks": "6,541",
       "addStars": "287",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "441,604",
-      "forks": "44,112",
+      "stars": "441,756",
+      "forks": "44,118",
       "addStars": "335",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Ren'py Languages Weekly Trending",
   "description": "Weekly Trending of Ren'py Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 06 Apr 2026 04:10:07 GMT",
+  "pubDate": "Mon, 06 Apr 2026 08:23:34 GMT",
   "items": [
     {
       "title": "renpy/renpy",
@@ -42,7 +42,7 @@
       "description": "DDLC fan mod to extend Monika",
       "language": "Ren'Py",
       "languageColor": "#ff7f7f",
-      "stars": "1,374",
+      "stars": "1,373",
       "forks": "697",
       "addStars": "5",
       "contributors": [

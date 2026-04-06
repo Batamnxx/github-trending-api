@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 06 Apr 2026 04:10:07 GMT",
+  "pubDate": "Mon, 06 Apr 2026 08:23:34 GMT",
   "items": [
     {
       "title": "666ghj/MiroFish",
@@ -10,8 +10,8 @@
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,122",
-      "forks": "7,367",
+      "stars": "50,280",
+      "forks": "7,396",
       "addStars": "45,506",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "72,215",
-      "forks": "11,203",
+      "stars": "72,406",
+      "forks": "11,247",
       "addStars": "65,886",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,584",
-      "forks": "3,481",
+      "stars": "26,867",
+      "forks": "3,512",
       "addStars": "24,111",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,301",
-      "forks": "7,284",
+      "stars": "58,379",
+      "forks": "7,309",
       "addStars": "33,890",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "My personal directory of skills, straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "12,256",
-      "forks": "1,027",
+      "stars": "12,326",
+      "forks": "1,034",
       "addStars": "11,191",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "Automate the process of making money online.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,488",
-      "forks": "3,072",
+      "stars": "28,508",
+      "forks": "3,075",
       "addStars": "14,089",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "27,271",
-      "forks": "1,119",
+      "stars": "27,295",
+      "forks": "1,122",
       "addStars": "15,361",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "140,811",
-      "forks": "21,247",
+      "stars": "141,205",
+      "forks": "21,351",
       "addStars": "79,260",
       "contributors": [
         {
@@ -271,8 +271,8 @@
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "16,993",
-      "forks": "724",
+      "stars": "17,066",
+      "forks": "726",
       "addStars": "12,943",
       "contributors": [
         {
@@ -298,8 +298,8 @@
       "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "48,677",
-      "forks": "7,855",
+      "stars": "48,787",
+      "forks": "7,879",
       "addStars": "27,309",
       "contributors": [
         {
@@ -335,8 +335,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,804",
-      "forks": "1,512",
+      "stars": "18,877",
+      "forks": "1,521",
       "addStars": "15,180",
       "contributors": [
         {
@@ -372,8 +372,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "136,356",
-      "forks": "11,469",
+      "stars": "136,606",
+      "forks": "11,511",
       "addStars": "65,451",
       "contributors": [
         {
@@ -409,8 +409,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,549",
-      "forks": "8,639",
+      "stars": "47,641",
+      "forks": "8,653",
       "addStars": "16,280",
       "contributors": [
         {
@@ -446,8 +446,8 @@
       "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,205",
-      "forks": "1,049",
+      "stars": "9,214",
+      "forks": "1,051",
       "addStars": "3,966",
       "contributors": [
         {
@@ -473,8 +473,8 @@
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,188",
-      "forks": "1,501",
+      "stars": "21,222",
+      "forks": "1,506",
       "addStars": "16,523",
       "contributors": [
         {
@@ -510,8 +510,8 @@
       "description": "220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,607",
-      "forks": "1,181",
+      "stars": "9,642",
+      "forks": "1,185",
       "addStars": "7,083",
       "contributors": [
         {
@@ -547,8 +547,8 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,749",
-      "forks": "1,521",
+      "stars": "23,065",
+      "forks": "1,546",
       "addStars": "14,130",
       "contributors": [
         {
@@ -584,8 +584,8 @@
       "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,530",
-      "forks": "1,677",
+      "stars": "19,559",
+      "forks": "1,679",
       "addStars": "8,723",
       "contributors": [
         {
@@ -611,8 +611,8 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,207",
-      "forks": "3,273",
+      "stars": "37,219",
+      "forks": "3,274",
       "addStars": "8,697",
       "contributors": [
         {
@@ -648,8 +648,8 @@
       "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,388",
-      "forks": "2,702",
+      "stars": "19,414",
+      "forks": "2,708",
       "addStars": "9,451",
       "contributors": [
         {

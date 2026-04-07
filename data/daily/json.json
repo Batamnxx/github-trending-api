@@ -2,7 +2,7 @@
   "title": "GitHub Json Languages Daily Trending",
   "description": "Daily Trending of Json Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Apr 2026 14:44:33 GMT",
+  "pubDate": "Tue, 07 Apr 2026 19:58:16 GMT",
   "items": [
     {
       "title": "mdn/browser-compat-data",
@@ -11,7 +11,7 @@
       "language": "JSON",
       "languageColor": "#292929",
       "stars": "5,631",
-      "forks": "2,532",
+      "forks": "2,533",
       "addStars": "2",
       "contributors": [
         {

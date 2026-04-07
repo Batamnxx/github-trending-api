@@ -2,7 +2,7 @@
   "title": "GitHub Webassembly Languages Weekly Trending",
   "description": "Weekly Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Apr 2026 14:44:33 GMT",
+  "pubDate": "Tue, 07 Apr 2026 19:58:16 GMT",
   "items": [
     {
       "title": "WebAssembly/binaryen",
@@ -10,8 +10,8 @@
       "description": "Optimizer and compiler/toolchain library for WebAssembly",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": "8,437",
-      "forks": "849",
+      "stars": "8,438",
+      "forks": "850",
       "addStars": "16",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Monthly Trending",
   "description": "Monthly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Apr 2026 14:44:33 GMT",
+  "pubDate": "Tue, 07 Apr 2026 19:58:16 GMT",
   "items": [
     {
       "title": "NousResearch/hermes-agent",
@@ -10,8 +10,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,358",
-      "forks": "3,967",
+      "stars": "31,180",
+      "forks": "4,049",
       "addStars": "25,584",
       "contributors": [
         {
@@ -30,14 +30,14 @@
           "url": "https://github.com/kshitijk4poor"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&v=4",
-          "name": "erosika",
-          "url": "https://github.com/erosika"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&v=4",
+          "name": "erosika",
+          "url": "https://github.com/erosika"
         }
       ]
     },
@@ -47,8 +47,8 @@
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "51,118",
-      "forks": "7,558",
+      "stars": "51,225",
+      "forks": "7,582",
       "addStars": "45,905",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,033",
-      "forks": "7,432",
+      "stars": "59,088",
+      "forks": "7,439",
       "addStars": "33,924",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Automate the process of making money online.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,682",
-      "forks": "3,105",
+      "stars": "28,714",
+      "forks": "3,107",
       "addStars": "13,858",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,417",
-      "forks": "1,570",
+      "stars": "19,473",
+      "forks": "1,572",
       "addStars": "15,405",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "48,162",
-      "forks": "8,736",
+      "stars": "48,237",
+      "forks": "8,749",
       "addStars": "16,606",
       "contributors": [
         {
@@ -222,7 +222,7 @@
       "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,281",
+      "stars": "9,285",
       "forks": "1,051",
       "addStars": "4,011",
       "contributors": [
@@ -249,8 +249,8 @@
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,447",
-      "forks": "1,537",
+      "stars": "21,484",
+      "forks": "1,536",
       "addStars": "16,565",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Official inference framework for 1-bit LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,422",
-      "forks": "3,302",
+      "stars": "37,534",
+      "forks": "3,321",
       "addStars": "8,740",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,699",
-      "forks": "2,736",
+      "stars": "19,744",
+      "forks": "2,741",
       "addStars": "9,595",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,697",
-      "forks": "3,426",
+      "stars": "25,768",
+      "forks": "3,437",
       "addStars": "7,767",
       "contributors": [
         {
@@ -387,7 +387,7 @@
       "description": "SOTA Open Source TTS",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,121",
+      "stars": "29,128",
       "forks": "2,456",
       "addStars": "4,075",
       "contributors": [
@@ -414,8 +414,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,191",
-      "forks": "4,282",
+      "stars": "37,269",
+      "forks": "4,284",
       "addStars": "13,385",
       "contributors": [
         {
@@ -446,8 +446,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,751",
-      "forks": "478",
+      "stars": "7,789",
+      "forks": "482",
       "addStars": "5,269",
       "contributors": [
         {
@@ -471,9 +471,9 @@
           "url": "https://github.com/benfrank241"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/78427278?s=40&v=4",
-          "name": "slayoffer",
-          "url": "https://github.com/slayoffer"
+          "avatar": "https://avatars.githubusercontent.com/u/55561168?s=40&v=4",
+          "name": "DK09876",
+          "url": "https://github.com/DK09876"
         }
       ]
     },
@@ -483,8 +483,8 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "89,217",
-      "forks": "12,960",
+      "stars": "89,250",
+      "forks": "12,961",
       "addStars": "9,578",
       "contributors": [
         {
@@ -520,8 +520,8 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,151",
-      "forks": "2,963",
+      "stars": "37,209",
+      "forks": "2,974",
       "addStars": "10,485",
       "contributors": [
         {
@@ -547,8 +547,8 @@
       "description": "Unsloth Studio is a web UI for training and running open models like Qwen3.5, Gemma 4, DeepSeek, gpt-oss locally.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,896",
-      "forks": "5,108",
+      "stars": "59,948",
+      "forks": "5,117",
       "addStars": "6,477",
       "contributors": [
         {
@@ -579,8 +579,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,222",
-      "forks": "1,829",
+      "stars": "16,247",
+      "forks": "1,835",
       "addStars": "6,979",
       "contributors": [
         {
@@ -616,8 +616,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,353",
-      "forks": "1,354",
+      "stars": "15,397",
+      "forks": "1,361",
       "addStars": "5,411",
       "contributors": [
         {

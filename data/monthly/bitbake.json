@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Monthly Trending",
   "description": "Monthly Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Apr 2026 14:44:33 GMT",
+  "pubDate": "Tue, 07 Apr 2026 19:58:16 GMT",
   "items": [
     {
       "title": "openbmc/openbmc",
@@ -48,7 +48,7 @@
       "language": "BitBake",
       "languageColor": "#00bce4",
       "stars": "125",
-      "forks": "229",
+      "forks": "230",
       "addStars": "3",
       "contributors": [
         {

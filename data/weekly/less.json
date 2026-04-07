@@ -2,7 +2,7 @@
   "title": "GitHub Less Languages Weekly Trending",
   "description": "Weekly Trending of Less Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Apr 2026 14:44:33 GMT",
+  "pubDate": "Tue, 07 Apr 2026 19:58:16 GMT",
   "items": [
     {
       "title": "Tencent/weui-wxss",
@@ -47,7 +47,7 @@
       "description": "Open source neutral style icon system",
       "language": "Less",
       "languageColor": "#1d365d",
-      "stars": "8,056",
+      "stars": "8,057",
       "forks": "549",
       "addStars": "16",
       "contributors": [

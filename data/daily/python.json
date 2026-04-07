@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Apr 2026 14:44:33 GMT",
+  "pubDate": "Tue, 07 Apr 2026 19:58:16 GMT",
   "items": [
     {
       "title": "NVIDIA/personaplex",
@@ -10,8 +10,8 @@
       "description": "PersonaPlex code.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,732",
-      "forks": "1,134",
+      "stars": "7,849",
+      "forks": "1,150",
       "addStars": "663",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Create Reddit Videos with just✨ one command ✨",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,812",
-      "forks": "2,496",
+      "stars": "9,964",
+      "forks": "2,511",
       "addStars": "656",
       "contributors": [
         {
@@ -79,9 +79,9 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,793",
-      "forks": "1,629",
-      "addStars": "164",
+      "stars": "11,990",
+      "forks": "1,647",
+      "addStars": "339",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
@@ -111,8 +111,8 @@
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,657",
-      "forks": "640",
+      "stars": "3,786",
+      "forks": "650",
       "addStars": "213",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "Command-line program to download image galleries and collections from several image hosting sites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,667",
-      "forks": "1,399",
+      "stars": "17,669",
+      "forks": "1,402",
       "addStars": "54",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "48,396",
-      "forks": "19,858",
+      "stars": "48,400",
+      "forks": "19,857",
       "addStars": "27",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,358",
-      "forks": "3,967",
+      "stars": "31,180",
+      "forks": "4,049",
       "addStars": "2,547",
       "contributors": [
         {
@@ -227,14 +227,14 @@
           "url": "https://github.com/kshitijk4poor"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&v=4",
-          "name": "erosika",
-          "url": "https://github.com/erosika"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&v=4",
+          "name": "erosika",
+          "url": "https://github.com/erosika"
         }
       ]
     },
@@ -244,8 +244,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,751",
-      "forks": "478",
+      "stars": "7,789",
+      "forks": "482",
       "addStars": "172",
       "contributors": [
         {
@@ -269,9 +269,9 @@
           "url": "https://github.com/benfrank241"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/78427278?s=40&v=4",
-          "name": "slayoffer",
-          "url": "https://github.com/slayoffer"
+          "avatar": "https://avatars.githubusercontent.com/u/55561168?s=40&v=4",
+          "name": "DK09876",
+          "url": "https://github.com/DK09876"
         }
       ]
     },
@@ -281,8 +281,8 @@
       "description": "🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,470",
-      "forks": "130",
+      "stars": "1,487",
+      "forks": "131",
       "addStars": "256",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,975",
-      "forks": "1,265",
+      "stars": "8,988",
+      "forks": "1,267",
       "addStars": "94",
       "contributors": [
         {

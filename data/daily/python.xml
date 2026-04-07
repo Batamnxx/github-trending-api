@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Tue, 07 Apr 2026 14:44:33 GMT</pubDate>
+    <pubDate>Tue, 07 Apr 2026 19:58:16 GMT</pubDate>
     <item>
       <title>NVIDIA/personaplex</title>
       <link>https://github.com/NVIDIA/personaplex</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NVIDIA/personaplex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,732</stars>
-      <forks>1,134</forks>
+      <stars>7,849</stars>
+      <forks>1,150</forks>
       <addStars>663</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/elebumm/RedditVideoMakerBot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,812</stars>
-      <forks>2,496</forks>
+      <stars>9,964</stars>
+      <forks>2,511</forks>
       <addStars>656</addStars>
       <contributors>
         <contributor>
@@ -82,9 +82,9 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,793</stars>
-      <forks>1,629</forks>
-      <addStars>164</addStars>
+      <stars>11,990</stars>
+      <forks>1,647</forks>
+      <addStars>339</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4</avatar>
@@ -115,8 +115,8 @@
       <guid>https://github.com/TheCraigHewitt/seomachine</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,657</stars>
-      <forks>640</forks>
+      <stars>3,786</stars>
+      <forks>650</forks>
       <addStars>213</addStars>
       <contributors>
         <contributor>
@@ -138,8 +138,8 @@
       <guid>https://github.com/mikf/gallery-dl</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,667</stars>
-      <forks>1,399</forks>
+      <stars>17,669</stars>
+      <forks>1,402</forks>
       <addStars>54</addStars>
       <contributors>
         <contributor>
@@ -176,8 +176,8 @@
       <guid>https://github.com/pandas-dev/pandas</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>48,396</stars>
-      <forks>19,858</forks>
+      <stars>48,400</stars>
+      <forks>19,857</forks>
       <addStars>27</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>30,358</stars>
-      <forks>3,967</forks>
+      <stars>31,180</stars>
+      <forks>4,049</forks>
       <addStars>2,547</addStars>
       <contributors>
         <contributor>
@@ -234,14 +234,14 @@
           <url>https://github.com/kshitijk4poor</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/56565191?s=40&amp;v=4</avatar>
-          <name>erosika</name>
-          <url>https://github.com/erosika</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56565191?s=40&amp;v=4</avatar>
+          <name>erosika</name>
+          <url>https://github.com/erosika</url>
         </contributor>
       </contributors>
     </item>
@@ -252,8 +252,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,751</stars>
-      <forks>478</forks>
+      <stars>7,789</stars>
+      <forks>482</forks>
       <addStars>172</addStars>
       <contributors>
         <contributor>
@@ -277,9 +277,9 @@
           <url>https://github.com/benfrank241</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/78427278?s=40&amp;v=4</avatar>
-          <name>slayoffer</name>
-          <url>https://github.com/slayoffer</url>
+          <avatar>https://avatars.githubusercontent.com/u/55561168?s=40&amp;v=4</avatar>
+          <name>DK09876</name>
+          <url>https://github.com/DK09876</url>
         </contributor>
       </contributors>
     </item>
@@ -290,8 +290,8 @@
       <guid>https://github.com/NVIDIA-NeMo/DataDesigner</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,470</stars>
-      <forks>130</forks>
+      <stars>1,487</stars>
+      <forks>131</forks>
       <addStars>256</addStars>
       <contributors>
         <contributor>
@@ -323,8 +323,8 @@
       <guid>https://github.com/HKUDS/AutoAgent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,975</stars>
-      <forks>1,265</forks>
+      <stars>8,988</stars>
+      <forks>1,267</forks>
       <addStars>94</addStars>
       <contributors>
         <contributor>

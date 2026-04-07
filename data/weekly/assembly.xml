@@ -3,7 +3,7 @@
     <title>GitHub Assembly Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Assembly Languages in GitHub</description>
-    <pubDate>Tue, 07 Apr 2026 14:44:33 GMT</pubDate>
+    <pubDate>Tue, 07 Apr 2026 19:58:16 GMT</pubDate>
     <item>
       <title>chrislgarry/Apollo-11</title>
       <link>https://github.com/chrislgarry/Apollo-11</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/chrislgarry/Apollo-11</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>64,808</stars>
-      <forks>7,408</forks>
+      <stars>64,832</stars>
+      <forks>7,412</forks>
       <addStars>103</addStars>
       <contributors>
         <contributor>
@@ -363,14 +363,14 @@
           <url>https://github.com/cloudwebrtc</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3420?s=40&amp;v=4</avatar>
-          <name>typester</name>
-          <url>https://github.com/typester</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12997837?s=40&amp;v=4</avatar>
           <name>lukasIO</name>
           <url>https://github.com/lukasIO</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3420?s=40&amp;v=4</avatar>
+          <name>typester</name>
+          <url>https://github.com/typester</url>
         </contributor>
       </contributors>
     </item>
@@ -528,7 +528,7 @@
       <guid>https://github.com/Rangi42/polishedcrystal</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>1,492</stars>
+      <stars>1,493</stars>
       <forks>294</forks>
       <addStars>7</addStars>
       <contributors>

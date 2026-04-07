@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Python Languages in GitHub</description>
-    <pubDate>Tue, 07 Apr 2026 14:44:33 GMT</pubDate>
+    <pubDate>Tue, 07 Apr 2026 19:58:16 GMT</pubDate>
     <item>
       <title>NousResearch/hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>30,358</stars>
-      <forks>3,967</forks>
+      <stars>31,180</stars>
+      <forks>4,049</forks>
       <addStars>25,584</addStars>
       <contributors>
         <contributor>
@@ -31,14 +31,14 @@
           <url>https://github.com/kshitijk4poor</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/56565191?s=40&amp;v=4</avatar>
-          <name>erosika</name>
-          <url>https://github.com/erosika</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56565191?s=40&amp;v=4</avatar>
+          <name>erosika</name>
+          <url>https://github.com/erosika</url>
         </contributor>
       </contributors>
     </item>
@@ -49,8 +49,8 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,118</stars>
-      <forks>7,558</forks>
+      <stars>51,225</stars>
+      <forks>7,582</forks>
       <addStars>45,905</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>59,033</stars>
-      <forks>7,432</forks>
+      <stars>59,088</stars>
+      <forks>7,439</forks>
       <addStars>33,924</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>28,682</stars>
-      <forks>3,105</forks>
+      <stars>28,714</stars>
+      <forks>3,107</forks>
       <addStars>13,858</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,417</stars>
-      <forks>1,570</forks>
+      <stars>19,473</stars>
+      <forks>1,572</forks>
       <addStars>15,405</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>48,162</stars>
-      <forks>8,736</forks>
+      <stars>48,237</stars>
+      <forks>8,749</forks>
       <addStars>16,606</addStars>
       <contributors>
         <contributor>
@@ -229,7 +229,7 @@
       <guid>https://github.com/langchain-ai/open-swe</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,281</stars>
+      <stars>9,285</stars>
       <forks>1,051</forks>
       <addStars>4,011</addStars>
       <contributors>
@@ -257,8 +257,8 @@
       <guid>https://github.com/volcengine/OpenViking</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,447</stars>
-      <forks>1,537</forks>
+      <stars>21,484</stars>
+      <forks>1,536</forks>
       <addStars>16,565</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/microsoft/BitNet</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>37,422</stars>
-      <forks>3,302</forks>
+      <stars>37,534</stars>
+      <forks>3,321</forks>
       <addStars>8,740</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/langchain-ai/deepagents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,699</stars>
-      <forks>2,736</forks>
+      <stars>19,744</stars>
+      <forks>2,741</forks>
       <addStars>9,595</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/onyx-dot-app/onyx</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>25,697</stars>
-      <forks>3,426</forks>
+      <stars>25,768</stars>
+      <forks>3,437</forks>
       <addStars>7,767</addStars>
       <contributors>
         <contributor>
@@ -399,7 +399,7 @@
       <guid>https://github.com/fishaudio/fish-speech</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,121</stars>
+      <stars>29,128</stars>
       <forks>2,456</forks>
       <addStars>4,075</addStars>
       <contributors>
@@ -427,8 +427,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>37,191</stars>
-      <forks>4,282</forks>
+      <stars>37,269</stars>
+      <forks>4,284</forks>
       <addStars>13,385</addStars>
       <contributors>
         <contributor>
@@ -460,8 +460,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,751</stars>
-      <forks>478</forks>
+      <stars>7,789</stars>
+      <forks>482</forks>
       <addStars>5,269</addStars>
       <contributors>
         <contributor>
@@ -485,9 +485,9 @@
           <url>https://github.com/benfrank241</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/78427278?s=40&amp;v=4</avatar>
-          <name>slayoffer</name>
-          <url>https://github.com/slayoffer</url>
+          <avatar>https://avatars.githubusercontent.com/u/55561168?s=40&amp;v=4</avatar>
+          <name>DK09876</name>
+          <url>https://github.com/DK09876</url>
         </contributor>
       </contributors>
     </item>
@@ -498,8 +498,8 @@
       <guid>https://github.com/hacksider/Deep-Live-Cam</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>89,217</stars>
-      <forks>12,960</forks>
+      <stars>89,250</stars>
+      <forks>12,961</forks>
       <addStars>9,578</addStars>
       <contributors>
         <contributor>
@@ -536,8 +536,8 @@
       <guid>https://github.com/hesreallyhim/awesome-claude-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>37,151</stars>
-      <forks>2,963</forks>
+      <stars>37,209</stars>
+      <forks>2,974</forks>
       <addStars>10,485</addStars>
       <contributors>
         <contributor>
@@ -564,8 +564,8 @@
       <guid>https://github.com/unslothai/unsloth</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>59,896</stars>
-      <forks>5,108</forks>
+      <stars>59,948</stars>
+      <forks>5,117</forks>
       <addStars>6,477</addStars>
       <contributors>
         <contributor>
@@ -597,8 +597,8 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,222</stars>
-      <forks>1,829</forks>
+      <stars>16,247</stars>
+      <forks>1,835</forks>
       <addStars>6,979</addStars>
       <contributors>
         <contributor>
@@ -635,8 +635,8 @@
       <guid>https://github.com/google-research/timesfm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,353</stars>
-      <forks>1,354</forks>
+      <stars>15,397</stars>
+      <forks>1,361</forks>
       <addStars>5,411</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Weekly Trending",
   "description": "Weekly Trending of Erlang Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Apr 2026 14:44:33 GMT",
+  "pubDate": "Tue, 07 Apr 2026 19:58:16 GMT",
   "items": [
     {
       "title": "seriyps/mtproto_proxy",
@@ -42,8 +42,8 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "12,106",
-      "forks": "3,060",
+      "stars": "12,107",
+      "forks": "3,061",
       "addStars": "22",
       "contributors": [
         {

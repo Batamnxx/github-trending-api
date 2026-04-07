@@ -2,7 +2,7 @@
   "title": "GitHub Common-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Common-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Apr 2026 14:44:33 GMT",
+  "pubDate": "Tue, 07 Apr 2026 19:58:16 GMT",
   "items": [
     {
       "title": "open-goal/jak-project",
@@ -79,7 +79,7 @@
       "description": "Migrate to PostgreSQL in a single command!",
       "language": "Common Lisp",
       "languageColor": "#3fb68b",
-      "stars": "6,374",
+      "stars": "6,375",
       "forks": "598",
       "addStars": "59",
       "contributors": [

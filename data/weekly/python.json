@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Apr 2026 03:51:24 GMT",
+  "pubDate": "Tue, 07 Apr 2026 08:16:03 GMT",
   "items": [
     {
       "title": "luongnv89/claude-howto",
@@ -10,8 +10,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,562",
-      "forks": "2,554",
+      "stars": "21,804",
+      "forks": "2,584",
       "addStars": "12,085",
       "contributors": [
         {
@@ -30,14 +30,9 @@
           "url": "https://github.com/wjhrdy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5405744?s=40&v=4",
-          "name": "toanalien",
-          "url": "https://github.com/toanalien"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/151589547?s=40&v=4",
-          "name": "JiayuuWang",
-          "url": "https://github.com/JiayuuWang"
+          "avatar": "https://avatars.githubusercontent.com/u/11846339?s=40&v=4",
+          "name": "VikalpP",
+          "url": "https://github.com/VikalpP"
         }
       ]
     },
@@ -47,8 +42,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,979",
-      "forks": "4,244",
+      "stars": "37,079",
+      "forks": "4,264",
       "addStars": "8,392",
       "contributors": [
         {
@@ -79,8 +74,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,233",
-      "forks": "1,333",
+      "stars": "15,289",
+      "forks": "1,338",
       "addStars": "4,241",
       "contributors": [
         {
@@ -116,8 +111,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,443",
-      "forks": "3,757",
+      "stars": "28,963",
+      "forks": "3,815",
       "addStars": "9,662",
       "contributors": [
         {
@@ -136,14 +131,14 @@
           "url": "https://github.com/kshitijk4poor"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&v=4",
           "name": "erosika",
           "url": "https://github.com/erosika"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -153,8 +148,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,533",
-      "forks": "3,404",
+      "stars": "25,603",
+      "forks": "3,412",
       "addStars": "5,240",
       "contributors": [
         {
@@ -185,8 +180,8 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "80,105",
-      "forks": "9,313",
+      "stars": "80,146",
+      "forks": "9,315",
       "addStars": "5,811",
       "contributors": [
         {
@@ -222,8 +217,8 @@
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,775",
-      "forks": "3,310",
+      "stars": "37,783",
+      "forks": "3,313",
       "addStars": "995",
       "contributors": [
         {
@@ -249,8 +244,8 @@
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,123",
-      "forks": "708",
+      "stars": "5,156",
+      "forks": "712",
       "addStars": "1,094",
       "contributors": [
         {
@@ -286,7 +281,7 @@
       "description": "Memory library for building stateful agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,736",
+      "stars": "1,745",
       "forks": "214",
       "addStars": "399",
       "contributors": [
@@ -323,8 +318,8 @@
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "65,506",
-      "forks": "6,488",
+      "stars": "65,513",
+      "forks": "6,491",
       "addStars": "1,178",
       "contributors": [
         {
@@ -360,8 +355,8 @@
       "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,029",
-      "forks": "1,470",
+      "stars": "9,052",
+      "forks": "1,473",
       "addStars": "707",
       "contributors": [
         {
@@ -392,8 +387,8 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "89,128",
-      "forks": "12,949",
+      "stars": "89,177",
+      "forks": "12,956",
       "addStars": "3,086",
       "contributors": [
         {
@@ -429,8 +424,8 @@
       "description": "The absolute trainer to light up AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,626",
-      "forks": "1,436",
+      "stars": "16,631",
+      "forks": "1,437",
       "addStars": "657",
       "contributors": [
         {
@@ -461,8 +456,8 @@
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "75,009",
-      "forks": "10,191",
+      "stars": "75,038",
+      "forks": "10,197",
       "addStars": "1,510",
       "contributors": [
         {
@@ -493,8 +488,8 @@
       "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,459",
-      "forks": "4,631",
+      "stars": "32,492",
+      "forks": "4,642",
       "addStars": "1,298",
       "contributors": [
         {
@@ -530,8 +525,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,565",
-      "forks": "1,599",
+      "stars": "11,610",
+      "forks": "1,611",
       "addStars": "617",
       "contributors": [
         {

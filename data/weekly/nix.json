@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 07 Apr 2026 03:51:24 GMT",
+  "pubDate": "Tue, 07 Apr 2026 08:16:03 GMT",
   "items": [
     {
       "title": "nix-community/home-manager",
@@ -79,7 +79,7 @@
       "description": "❄️ Simplify Nix Flakes with the module system",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,292",
+      "stars": "1,293",
       "forks": "69",
       "addStars": "14",
       "contributors": [
@@ -165,8 +165,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "24,189",
-      "forks": "18,524",
+      "stars": "24,190",
+      "forks": "18,525",
       "addStars": "108",
       "contributors": [
         {
@@ -203,7 +203,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "5,268",
-      "forks": "611",
+      "forks": "612",
       "addStars": "22",
       "contributors": [
         {

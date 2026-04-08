@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 08 Apr 2026 14:52:49 GMT",
+  "pubDate": "Wed, 08 Apr 2026 19:59:37 GMT",
   "items": [
     {
       "title": "tenstorrent/tt-mlir",
@@ -48,7 +48,7 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": "18,871",
-      "forks": "2,741",
+      "forks": "2,742",
       "addStars": "14",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": "636",
-      "forks": "188",
+      "forks": "189",
       "addStars": "2",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 08 Apr 2026 14:52:49 GMT",
+  "pubDate": "Wed, 08 Apr 2026 19:59:37 GMT",
   "items": [
     {
       "title": "farouqaldori/claude-island",
@@ -10,8 +10,8 @@
       "description": "Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,805",
-      "forks": "256",
+      "stars": "1,813",
+      "forks": "257",
       "addStars": "80",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "25,660",
-      "forks": "2,415",
+      "stars": "25,667",
+      "forks": "2,414",
       "addStars": "44",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,487",
-      "forks": "606",
+      "stars": "4,488",
+      "forks": "607",
       "addStars": "15",
       "contributors": [
         {
@@ -296,7 +296,7 @@
       "description": "Free Weather Forecast API for non-commercial use",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,135",
+      "stars": "5,138",
       "forks": "333",
       "addStars": "15",
       "contributors": [
@@ -328,7 +328,7 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,697",
+      "stars": "1,699",
       "forks": "105",
       "addStars": "18",
       "contributors": [
@@ -365,7 +365,7 @@
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "13,196",
+      "stars": "13,222",
       "forks": "944",
       "addStars": "196",
       "contributors": [

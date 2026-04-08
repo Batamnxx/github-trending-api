@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 08 Apr 2026 03:53:55 GMT",
+  "pubDate": "Wed, 08 Apr 2026 08:14:48 GMT",
   "items": [
     {
       "title": "NVIDIA/personaplex",
@@ -10,8 +10,8 @@
       "description": "PersonaPlex code.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,036",
-      "forks": "1,166",
+      "stars": "8,151",
+      "forks": "1,180",
       "addStars": "662",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Create Reddit Videos with just✨ one command ✨",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,111",
-      "forks": "2,534",
+      "stars": "10,208",
+      "forks": "2,540",
       "addStars": "636",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,395",
-      "forks": "1,682",
+      "stars": "12,630",
+      "forks": "1,701",
       "addStars": "168",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,994",
-      "forks": "669",
+      "stars": "4,110",
+      "forks": "674",
       "addStars": "215",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "Command-line program to download image galleries and collections from several image hosting sites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,682",
-      "forks": "1,401",
+      "stars": "17,684",
+      "forks": "1,403",
       "addStars": "40",
       "contributors": [
         {
@@ -170,7 +170,7 @@
       "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "48,406",
+      "stars": "48,410",
       "forks": "19,856",
       "addStars": "22",
       "contributors": [
@@ -207,8 +207,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,922",
-      "forks": "4,239",
+      "stars": "34,220",
+      "forks": "4,368",
       "addStars": "3,009",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,813",
-      "forks": "486",
+      "stars": "7,834",
+      "forks": "487",
       "addStars": "160",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,513",
-      "forks": "132",
+      "stars": "1,525",
+      "forks": "133",
       "addStars": "244",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,005",
-      "forks": "1,269",
+      "stars": "9,018",
+      "forks": "1,273",
       "addStars": "76",
       "contributors": [
         {

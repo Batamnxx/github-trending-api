@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Monthly Trending",
   "description": "Monthly Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 08 Apr 2026 03:53:55 GMT",
+  "pubDate": "Wed, 08 Apr 2026 08:14:48 GMT",
   "items": [
     {
       "title": "bitbonsai/mcpvault",
@@ -79,7 +79,7 @@
       "description": "⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "5,570",
+      "stars": "5,571",
       "forks": "1,560",
       "addStars": "102",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "A growing set of skills to polish interfaces built by agents.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "1,220",
+      "stars": "1,219",
       "forks": "55",
       "addStars": "283",
       "contributors": [

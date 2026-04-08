@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Weekly Trending",
   "description": "Weekly Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 08 Apr 2026 03:53:55 GMT",
+  "pubDate": "Wed, 08 Apr 2026 08:14:48 GMT",
   "items": [
     {
       "title": "AvengeMedia/DankMaterialShell",
@@ -10,7 +10,7 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "5,543",
+      "stars": "5,549",
       "forks": "351",
       "addStars": "177",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "25,408",
+      "stars": "25,409",
       "forks": "971",
       "addStars": "53",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "A Niri shell illogical-impulse based - with some modifications..",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "763",
+      "stars": "764",
       "forks": "40",
       "addStars": "46",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "‼️ No waybar here ‼️",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "8,718",
-      "forks": "566",
+      "stars": "8,735",
+      "forks": "567",
       "addStars": "152",
       "contributors": [
         {
@@ -260,7 +260,7 @@
       "language": "QML",
       "languageColor": "#44a51c",
       "stars": "13,789",
-      "forks": "1,112",
+      "forks": "1,111",
       "addStars": "152",
       "contributors": [
         {

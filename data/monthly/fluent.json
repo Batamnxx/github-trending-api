@@ -2,7 +2,7 @@
   "title": "GitHub Fluent Languages Monthly Trending",
   "description": "Monthly Trending of Fluent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 08 Apr 2026 03:53:55 GMT",
+  "pubDate": "Wed, 08 Apr 2026 08:14:48 GMT",
   "items": [
     {
       "title": "qarmin/czkawka",
@@ -10,7 +10,7 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "30,405",
+      "stars": "30,409",
       "forks": "1,021",
       "addStars": "775",
       "contributors": [

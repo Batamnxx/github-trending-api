@@ -3,7 +3,7 @@
     <title>GitHub Vim-script Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Vim-script Languages in GitHub</description>
-    <pubDate>Thu, 09 Apr 2026 03:50:38 GMT</pubDate>
+    <pubDate>Thu, 09 Apr 2026 08:21:42 GMT</pubDate>
     <item>
       <title>github/copilot.vim</title>
       <link>https://github.com/github/copilot.vim</link>
@@ -35,7 +35,7 @@
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
       <stars>13,984</stars>
-      <forks>1,487</forks>
+      <forks>1,486</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -414,7 +414,7 @@
       <guid>https://github.com/morhetz/gruvbox</guid>
       <language>Vim Script</language>
       <languageColor>#199f4b</languageColor>
-      <stars>15,407</stars>
+      <stars>15,406</stars>
       <forks>1,124</forks>
       <addStars>5</addStars>
       <contributors>

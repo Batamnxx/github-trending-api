@@ -2,7 +2,7 @@
   "title": "GitHub Svelte Languages Monthly Trending",
   "description": "Monthly Trending of Svelte Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 09 Apr 2026 14:53:53 GMT",
+  "pubDate": "Thu, 09 Apr 2026 20:03:07 GMT",
   "items": [
     {
       "title": "seanmorley15/AdventureLog",
@@ -69,7 +69,7 @@
       "description": "Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "6,386",
+      "stars": "6,387",
       "forks": "1,069",
       "addStars": "129",
       "contributors": [
@@ -165,8 +165,8 @@
       "description": "Temporal UI",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "364",
-      "forks": "140",
+      "stars": "365",
+      "forks": "141",
       "addStars": "21",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "39,461",
-      "forks": "3,305",
+      "stars": "39,474",
+      "forks": "3,306",
       "addStars": "524",
       "contributors": [
         {
@@ -373,33 +373,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/3706841?s=40&v=4",
           "name": "mikaeldui",
           "url": "https://github.com/mikaeldui"
-        }
-      ]
-    },
-    {
-      "title": "johanohly/AirTrail",
-      "url": "https://github.com/johanohly/AirTrail",
-      "description": "A modern, open-source personal flight tracking system",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": "976",
-      "forks": "69",
-      "addStars": "56",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64006750?s=40&v=4",
-          "name": "johanohly",
-          "url": "https://github.com/johanohly"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88974099?s=40&v=4",
-          "name": "steffenrapp",
-          "url": "https://github.com/steffenrapp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3398654?s=40&v=4",
-          "name": "mhlas7",
-          "url": "https://github.com/mhlas7"
         }
       ]
     },

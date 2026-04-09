@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 08 Apr 2026 19:59:37 GMT</pubDate>
+    <pubDate>Thu, 09 Apr 2026 03:50:38 GMT</pubDate>
     <item>
       <title>Yeachan-Heo/oh-my-codex</title>
       <link>https://github.com/Yeachan-Heo/oh-my-codex</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>18,986</stars>
-      <forks>1,759</forks>
-      <addStars>14,101</addStars>
+      <stars>19,279</stars>
+      <forks>1,772</forks>
+      <addStars>11,503</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,996</stars>
-      <forks>1,737</forks>
-      <addStars>15,921</addStars>
+      <stars>26,318</stars>
+      <forks>1,755</forks>
+      <addStars>13,938</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/google-ai-edge/gallery</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>19,414</stars>
-      <forks>1,813</forks>
-      <addStars>2,934</addStars>
+      <stars>19,599</stars>
+      <forks>1,831</forks>
+      <addStars>3,796</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8752427?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/google-research/timesfm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,629</stars>
-      <forks>1,395</forks>
-      <addStars>4,137</addStars>
+      <stars>15,739</stars>
+      <forks>1,412</forks>
+      <addStars>3,963</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/google-ai-edge/LiteRT-LM</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>2,932</stars>
-      <forks>275</forks>
-      <addStars>1,336</addStars>
+      <stars>3,036</stars>
+      <forks>285</forks>
+      <addStars>1,844</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/154857592?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/luongnv89/claude-howto</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,168</stars>
-      <forks>2,794</forks>
-      <addStars>10,745</addStars>
+      <stars>23,407</stars>
+      <forks>2,816</forks>
+      <addStars>8,317</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3288457?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,968</stars>
-      <forks>4,689</forks>
-      <addStars>10,487</addStars>
+      <stars>38,808</stars>
+      <forks>4,937</forks>
+      <addStars>14,811</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4</avatar>
@@ -267,9 +267,9 @@
       <guid>https://github.com/onyx-dot-app/onyx</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,022</stars>
-      <forks>3,468</forks>
-      <addStars>5,449</addStars>
+      <stars>26,086</stars>
+      <forks>3,477</forks>
+      <addStars>5,673</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25087905?s=40&amp;v=4</avatar>
@@ -300,9 +300,9 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-claudecode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,259</stars>
-      <forks>2,416</forks>
-      <addStars>7,543</addStars>
+      <stars>26,426</stars>
+      <forks>2,432</forks>
+      <addStars>5,935</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4</avatar>
@@ -315,6 +315,11 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4</avatar>
+          <name>shaun0927</name>
+          <url>https://github.com/shaun0927</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/139470135?s=40&amp;v=4</avatar>
           <name>riftzen-bit</name>
           <url>https://github.com/riftzen-bit</url>
@@ -323,11 +328,6 @@
           <avatar>https://avatars.githubusercontent.com/u/42234614?s=40&amp;v=4</avatar>
           <name>blue-int</name>
           <url>https://github.com/blue-int</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60123681?s=40&amp;v=4</avatar>
-          <name>devseunggwan</name>
-          <url>https://github.com/devseunggwan</url>
         </contributor>
       </contributors>
     </item>
@@ -338,9 +338,9 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>80,538</stars>
-      <forks>9,340</forks>
-      <addStars>5,167</addStars>
+      <stars>80,608</stars>
+      <forks>9,347</forks>
+      <addStars>4,634</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4</avatar>

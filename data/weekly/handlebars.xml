@@ -3,7 +3,7 @@
     <title>GitHub Handlebars Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Handlebars Languages in GitHub</description>
-    <pubDate>Fri, 10 Apr 2026 08:22:52 GMT</pubDate>
+    <pubDate>Fri, 10 Apr 2026 14:16:34 GMT</pubDate>
     <item>
       <title>elastic/integrations</title>
       <link>https://github.com/elastic/integrations</link>
@@ -64,14 +64,14 @@
           <url>https://github.com/osanseviero</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11827707?s=40&amp;v=4</avatar>
-          <name>mishig25</name>
-          <url>https://github.com/mishig25</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/148469759?s=40&amp;v=4</avatar>
           <name>HuggingFaceInfra</name>
           <url>https://github.com/HuggingFaceInfra</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11827707?s=40&amp;v=4</avatar>
+          <name>mishig25</name>
+          <url>https://github.com/mishig25</url>
         </contributor>
       </contributors>
     </item>

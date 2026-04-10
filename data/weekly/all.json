@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 10 Apr 2026 04:10:34 GMT",
+  "pubDate": "Fri, 10 Apr 2026 08:22:52 GMT",
   "items": [
     {
       "title": "google-ai-edge/gallery",
@@ -10,8 +10,8 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "19,978",
-      "forks": "1,861",
+      "stars": "20,023",
+      "forks": "1,870",
       "addStars": "4,326",
       "contributors": [
         {
@@ -37,13 +37,45 @@
       ]
     },
     {
+      "title": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "20,205",
+      "forks": "1,820",
+      "addStars": "9,737",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&v=4",
+          "name": "Yeachan-Heo",
+          "url": "https://github.com/Yeachan-Heo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/102889891?s=40&v=4",
+          "name": "HaD0Yun",
+          "url": "https://github.com/HaD0Yun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32605822?s=40&v=4",
+          "name": "junhoyeo",
+          "url": "https://github.com/junhoyeo"
+        }
+      ]
+    },
+    {
       "title": "siddharthvaddem/openscreen",
       "url": "https://github.com/siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,089",
-      "forks": "1,809",
+      "stars": "27,207",
+      "forks": "1,821",
       "addStars": "12,278",
       "contributors": [
         {
@@ -79,8 +111,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,102",
-      "forks": "5,930",
+      "stars": "47,723",
+      "forks": "6,131",
       "addStars": "19,765",
       "contributors": [
         {
@@ -116,8 +148,8 @@
       "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "3,216",
-      "forks": "302",
+      "stars": "3,238",
+      "forks": "303",
       "addStars": "2,157",
       "contributors": [
         {
@@ -153,8 +185,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,113",
-      "forks": "2,014",
+      "stars": "15,363",
+      "forks": "2,035",
       "addStars": "3,233",
       "contributors": [
         {
@@ -185,8 +217,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,245",
-      "forks": "3,497",
+      "stars": "26,269",
+      "forks": "3,501",
       "addStars": "5,556",
       "contributors": [
         {
@@ -217,8 +249,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,026",
-      "forks": "1,449",
+      "stars": "16,101",
+      "forks": "1,472",
       "addStars": "3,095",
       "contributors": [
         {
@@ -254,8 +286,8 @@
       "description": "PersonaPlex code.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,782",
-      "forks": "1,241",
+      "stars": "8,830",
+      "forks": "1,246",
       "addStars": "2,745",
       "contributors": [
         {
@@ -291,8 +323,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,148",
-      "forks": "2,897",
+      "stars": "24,295",
+      "forks": "2,912",
       "addStars": "7,342",
       "contributors": [
         {
@@ -328,8 +360,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "10,726",
-      "forks": "717",
+      "stars": "11,023",
+      "forks": "733",
       "addStars": "2,230",
       "contributors": [
         {
@@ -356,43 +388,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/49151155?s=40&v=4",
           "name": "TomBener",
           "url": "https://github.com/TomBener"
-        }
-      ]
-    },
-    {
-      "title": "Yeachan-Heo/oh-my-claudecode",
-      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "27,032",
-      "forks": "2,489",
-      "addStars": "5,219",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&v=4",
-          "name": "Yeachan-Heo",
-          "url": "https://github.com/Yeachan-Heo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70629228?s=40&v=4",
-          "name": "shaun0927",
-          "url": "https://github.com/shaun0927"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/139470135?s=40&v=4",
-          "name": "riftzen-bit",
-          "url": "https://github.com/riftzen-bit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42234614?s=40&v=4",
-          "name": "blue-int",
-          "url": "https://github.com/blue-int"
         }
       ]
     }

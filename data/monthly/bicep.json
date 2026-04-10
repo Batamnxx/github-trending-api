@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Monthly Trending",
   "description": "Monthly Trending of Bicep Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 10 Apr 2026 04:10:34 GMT",
+  "pubDate": "Fri, 10 Apr 2026 08:22:52 GMT",
   "items": [
     {
       "title": "MicrosoftDocs/azure-stack-docs",
@@ -48,7 +48,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": "14,770",
-      "forks": "16,271",
+      "forks": "16,270",
       "addStars": "58",
       "contributors": [
         {

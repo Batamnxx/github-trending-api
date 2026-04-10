@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 10 Apr 2026 04:10:34 GMT",
+  "pubDate": "Fri, 10 Apr 2026 08:22:52 GMT",
   "items": [
     {
       "title": "NousResearch/hermes-agent",
@@ -10,8 +10,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,102",
-      "forks": "5,930",
+      "stars": "47,722",
+      "forks": "6,131",
       "addStars": "6,485",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "10,726",
-      "forks": "717",
+      "stars": "11,023",
+      "forks": "733",
       "addStars": "1,364",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,113",
-      "forks": "2,014",
+      "stars": "15,363",
+      "forks": "2,035",
       "addStars": "1,310",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,820",
-      "forks": "924",
+      "stars": "8,062",
+      "forks": "934",
       "addStars": "496",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "13,974",
-      "forks": "1,166",
+      "stars": "14,245",
+      "forks": "1,204",
       "addStars": "1,124",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "144,080",
-      "forks": "12,326",
+      "stars": "144,536",
+      "forks": "12,363",
       "addStars": "2,299",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,275",
-      "forks": "763",
+      "stars": "5,366",
+      "forks": "767",
       "addStars": "725",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,520",
-      "forks": "2,472",
+      "stars": "14,636",
+      "forks": "2,485",
       "addStars": "185",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,285",
-      "forks": "2,511",
+      "stars": "12,400",
+      "forks": "2,522",
       "addStars": "245",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,933",
-      "forks": "406",
+      "stars": "7,054",
+      "forks": "413",
       "addStars": "200",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 10 Apr 2026 14:16:34 GMT",
+  "pubDate": "Fri, 10 Apr 2026 19:48:18 GMT",
   "items": [
     {
       "title": "HKUDS/DeepTutor",
@@ -10,8 +10,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,640",
-      "forks": "2,062",
+      "stars": "15,844",
+      "forks": "2,083",
       "addStars": "3,233",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,067",
-      "forks": "6,445",
+      "stars": "51,403",
+      "forks": "6,653",
       "addStars": "19,765",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "PersonaPlex code.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,871",
-      "forks": "1,252",
+      "stars": "8,899",
+      "forks": "1,256",
       "addStars": "2,745",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,321",
-      "forks": "3,504",
+      "stars": "26,386",
+      "forks": "3,507",
       "addStars": "5,556",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,190",
-      "forks": "1,486",
+      "stars": "16,245",
+      "forks": "1,494",
       "addStars": "3,095",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,492",
-      "forks": "2,928",
+      "stars": "24,636",
+      "forks": "2,944",
       "addStars": "7,342",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Gemma open-weight LLM library, from Google DeepMind",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,706",
-      "forks": "819",
+      "stars": "4,712",
+      "forks": "820",
       "addStars": "534",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,447",
-      "forks": "780",
+      "stars": "5,511",
+      "forks": "789",
       "addStars": "2,112",
       "contributors": [
         {
@@ -267,6 +267,21 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54054995?s=40&v=4",
+          "name": "kuishou68",
+          "url": "https://github.com/kuishou68"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/92616678?s=40&v=4",
+          "name": "Gujiassh",
+          "url": "https://github.com/Gujiassh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/238992291?s=40&v=4",
+          "name": "sisyphus-dev-ai",
+          "url": "https://github.com/sisyphus-dev-ai"
         }
       ]
     },
@@ -276,8 +291,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "98,429",
-      "forks": "6,022",
+      "stars": "99,223",
+      "forks": "6,078",
       "addStars": "4,581",
       "contributors": [
         {
@@ -313,7 +328,7 @@
       "description": "Google Flights MCP and Python Library",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,729",
+      "stars": "1,733",
       "forks": "200",
       "addStars": "744",
       "contributors": [
@@ -340,8 +355,8 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "80,741",
-      "forks": "9,367",
+      "stars": "80,752",
+      "forks": "9,370",
       "addStars": "3,980",
       "contributors": [
         {
@@ -377,8 +392,8 @@
       "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,268",
-      "forks": "1,512",
+      "stars": "9,283",
+      "forks": "1,514",
       "addStars": "838",
       "contributors": [
         {
@@ -409,8 +424,8 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,496",
-      "forks": "1,843",
+      "stars": "15,506",
+      "forks": "1,845",
       "addStars": "632",
       "contributors": [
         {
@@ -446,7 +461,7 @@
       "description": "Run LLMs with MLX",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,661",
+      "stars": "4,666",
       "forks": "558",
       "addStars": "282",
       "contributors": [
@@ -483,7 +498,7 @@
       "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,840",
+      "stars": "32,860",
       "forks": "4,681",
       "addStars": "1,290",
       "contributors": [
@@ -520,8 +535,8 @@
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,798",
-      "forks": "2,152",
+      "stars": "12,848",
+      "forks": "2,164",
       "addStars": "696",
       "contributors": [
         {
@@ -557,8 +572,8 @@
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,881",
-      "forks": "3,325",
+      "stars": "37,888",
+      "forks": "3,328",
       "addStars": "386",
       "contributors": [
         {

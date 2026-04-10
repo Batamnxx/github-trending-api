@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Monthly Trending",
   "description": "Monthly Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 10 Apr 2026 14:16:34 GMT",
+  "pubDate": "Fri, 10 Apr 2026 19:48:18 GMT",
   "items": [
     {
       "title": "microsoft/vcpkg",
@@ -10,7 +10,7 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "26,855",
+      "stars": "26,857",
       "forks": "7,462",
       "addStars": "191",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "A Resource Compiler in a Single CMake Script",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "767",
+      "stars": "768",
       "forks": "81",
       "addStars": "4",
       "contributors": [

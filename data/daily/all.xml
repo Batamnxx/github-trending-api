@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 10 Apr 2026 14:16:34 GMT</pubDate>
+    <pubDate>Fri, 10 Apr 2026 19:48:18 GMT</pubDate>
     <item>
       <title>microsoft/markitdown</title>
       <link>https://github.com/microsoft/markitdown</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>98,365</stars>
-      <forks>6,017</forks>
+      <stars>99,200</stars>
+      <forks>6,076</forks>
       <addStars>2,353</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/coleam00/Archon</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,972</stars>
-      <forks>2,507</forks>
+      <stars>15,380</stars>
+      <forks>2,529</forks>
       <addStars>756</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>49,951</stars>
-      <forks>6,433</forks>
+      <stars>51,369</stars>
+      <forks>6,647</forks>
       <addStars>7,674</addStars>
       <contributors>
         <contributor>
@@ -120,9 +120,9 @@
       <guid>https://github.com/rowboatlabs/rowboat</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,466</stars>
-      <forks>1,077</forks>
-      <addStars>1,187</addStars>
+      <stars>11,639</stars>
+      <forks>1,089</forks>
+      <addStars>498</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/30795890?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/multica-ai/multica</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,330</stars>
-      <forks>653</forks>
-      <addStars>1,680</addStars>
+      <stars>5,783</stars>
+      <forks>696</forks>
+      <addStars>1,544</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -191,8 +191,8 @@
       <guid>https://github.com/forrestchang/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>11,327</stars>
-      <forks>750</forks>
+      <stars>11,549</stars>
+      <forks>756</forks>
       <addStars>1,454</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/shiyu-coder/Kronos</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,510</stars>
-      <forks>2,529</forks>
+      <stars>12,635</stars>
+      <forks>2,544</forks>
       <addStars>602</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,626</stars>
-      <forks>2,058</forks>
+      <stars>15,837</stars>
+      <forks>2,083</forks>
       <addStars>1,426</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/opendataloader-project/opendataloader-pdf</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>14,514</stars>
-      <forks>1,231</forks>
+      <stars>14,679</stars>
+      <forks>1,242</forks>
       <addStars>1,309</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>145,140</stars>
-      <forks>12,436</forks>
+      <stars>145,545</stars>
+      <forks>12,479</forks>
       <addStars>2,150</addStars>
       <contributors>
         <contributor>
@@ -376,9 +376,9 @@
       <guid>https://github.com/jqlang/jq</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>34,170</stars>
-      <forks>1,755</forks>
-      <addStars>48</addStars>
+      <stars>34,249</stars>
+      <forks>1,759</forks>
+      <addStars>141</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/79765?s=40&amp;v=4</avatar>
@@ -409,8 +409,8 @@
       <guid>https://github.com/shanraisshan/claude-code-best-practice</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>35,178</stars>
-      <forks>3,326</forks>
+      <stars>35,544</stars>
+      <forks>3,355</forks>
       <addStars>1,248</addStars>
       <contributors>
         <contributor>

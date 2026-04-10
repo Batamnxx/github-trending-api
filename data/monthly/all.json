@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 09 Apr 2026 20:03:07 GMT",
+  "pubDate": "Fri, 10 Apr 2026 04:10:34 GMT",
   "items": [
     {
       "title": "NousResearch/hermes-agent",
@@ -10,9 +10,9 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "43,711",
-      "forks": "5,603",
-      "addStars": "33,430",
+      "stars": "46,102",
+      "forks": "5,930",
+      "addStars": "39,332",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
@@ -42,46 +42,14 @@
       ]
     },
     {
-      "title": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "19,860",
-      "forks": "1,805",
-      "addStars": "18,059",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&v=4",
-          "name": "Yeachan-Heo",
-          "url": "https://github.com/Yeachan-Heo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102889891?s=40&v=4",
-          "name": "HaD0Yun",
-          "url": "https://github.com/HaD0Yun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32605822?s=40&v=4",
-          "name": "junhoyeo",
-          "url": "https://github.com/junhoyeo"
-        }
-      ]
-    },
-    {
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "My personal directory of skills, straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "13,441",
-      "forks": "1,116",
-      "addStars": "12,147",
+      "stars": "13,552",
+      "forks": "1,120",
+      "addStars": "12,380",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -101,9 +69,9 @@
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,640",
-      "forks": "7,860",
-      "addStars": "45,664",
+      "stars": "52,823",
+      "forks": "7,879",
+      "addStars": "44,278",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110395318?s=40&v=4",
@@ -128,9 +96,9 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,897",
-      "forks": "7,592",
-      "addStars": "34,038",
+      "stars": "60,013",
+      "forks": "7,619",
+      "addStars": "33,722",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&v=4",
@@ -165,9 +133,9 @@
       "description": "Automate the process of making money online.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,991",
-      "forks": "3,129",
-      "addStars": "14,095",
+      "stars": "29,021",
+      "forks": "3,132",
+      "addStars": "14,209",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/78088687?s=40&v=4",
@@ -202,9 +170,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "27,992",
-      "forks": "1,176",
-      "addStars": "15,731",
+      "stars": "28,065",
+      "forks": "1,179",
+      "addStars": "16,038",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&v=4",
@@ -239,9 +207,9 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "76,785",
-      "forks": "12,112",
-      "addStars": "64,781",
+      "stars": "77,114",
+      "forks": "12,188",
+      "addStars": "61,564",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
@@ -276,9 +244,9 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,855",
-      "forks": "1,792",
-      "addStars": "18,075",
+      "stars": "27,089",
+      "forks": "1,809",
+      "addStars": "19,016",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&v=4",
@@ -313,9 +281,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "148,442",
-      "forks": "22,940",
-      "addStars": "81,042",
+      "stars": "148,918",
+      "forks": "23,033",
+      "addStars": "80,680",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -340,9 +308,9 @@
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "17,975",
-      "forks": "781",
-      "addStars": "13,603",
+      "stars": "18,042",
+      "forks": "785",
+      "addStars": "13,776",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35651410?s=40&v=4",
@@ -367,9 +335,9 @@
       "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "50,821",
-      "forks": "8,275",
-      "addStars": "27,003",
+      "stars": "50,961",
+      "forks": "8,305",
+      "addStars": "26,755",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35400185?s=40&v=4",
@@ -404,9 +372,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,002",
-      "forks": "1,631",
-      "addStars": "15,945",
+      "stars": "20,148",
+      "forks": "1,645",
+      "addStars": "16,184",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
@@ -441,9 +409,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "48,952",
-      "forks": "8,869",
-      "addStars": "17,251",
+      "stars": "49,037",
+      "forks": "8,881",
+      "addStars": "17,495",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -478,9 +446,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "143,502",
-      "forks": "12,257",
-      "addStars": "68,104",
+      "stars": "144,080",
+      "forks": "12,326",
+      "addStars": "69,396",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -515,9 +483,9 @@
       "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,360",
-      "forks": "1,057",
-      "addStars": "4,104",
+      "stars": "9,377",
+      "forks": "1,059",
+      "addStars": "4,137",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46789226?s=40&v=4",
@@ -542,9 +510,9 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,573",
-      "forks": "1,341",
-      "addStars": "14,729",
+      "stars": "16,631",
+      "forks": "1,344",
+      "addStars": "14,476",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10131203?s=40&v=4",
@@ -564,9 +532,9 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "17,754",
-      "forks": "792",
-      "addStars": "15,975",
+      "stars": "17,889",
+      "forks": "794",
+      "addStars": "15,226",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -601,9 +569,9 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "19,879",
-      "forks": "1,856",
-      "addStars": "4,219",
+      "stars": "19,978",
+      "forks": "1,861",
+      "addStars": "4,561",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8752427?s=40&v=4",
@@ -633,9 +601,9 @@
       "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,834",
-      "forks": "1,565",
-      "addStars": "16,724",
+      "stars": "21,899",
+      "forks": "1,568",
+      "addStars": "16,698",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",

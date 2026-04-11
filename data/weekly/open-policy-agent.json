@@ -2,7 +2,7 @@
   "title": "GitHub Open-policy-agent Languages Weekly Trending",
   "description": "Weekly Trending of Open-policy-agent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 11 Apr 2026 13:56:09 GMT",
+  "pubDate": "Sat, 11 Apr 2026 19:38:31 GMT",
   "items": [
     {
       "title": "Azure/azure-policy",
@@ -116,7 +116,7 @@
       "description": "Defines standards for generating consistent, accessible telemetry across a variety of domains",
       "language": "Open Policy Agent",
       "languageColor": "#7d9199",
-      "stars": "554",
+      "stars": "555",
       "forks": "341",
       "addStars": "5",
       "contributors": [

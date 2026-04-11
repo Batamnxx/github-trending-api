@@ -3,7 +3,7 @@
     <title>GitHub Ocaml Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Ocaml Languages in GitHub</description>
-    <pubDate>Sat, 11 Apr 2026 13:56:09 GMT</pubDate>
+    <pubDate>Sat, 11 Apr 2026 19:38:31 GMT</pubDate>
     <item>
       <title>semgrep/semgrep</title>
       <link>https://github.com/semgrep/semgrep</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/opengrep/opengrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>2,369</stars>
+      <stars>2,370</stars>
       <forks>191</forks>
       <addStars>4</addStars>
       <contributors>
@@ -57,6 +57,11 @@
           <avatar>https://avatars.githubusercontent.com/u/22649114?s=40&amp;v=4</avatar>
           <name>dimitris-m</name>
           <url>https://github.com/dimitris-m</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6498855?s=40&amp;v=4</avatar>
+          <name>brendongo</name>
+          <url>https://github.com/brendongo</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5981553?s=40&amp;v=4</avatar>
@@ -68,11 +73,6 @@
           <name>mjambon</name>
           <url>https://github.com/mjambon</url>
         </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5313615?s=40&amp;v=4</avatar>
-          <name>IagoAbal</name>
-          <url>https://github.com/IagoAbal</url>
-        </contributor>
       </contributors>
     </item>
     <item>
@@ -82,7 +82,7 @@
       <guid>https://github.com/AeneasVerif/aeneas</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>685</stars>
+      <stars>686</stars>
       <forks>59</forks>
       <addStars>2</addStars>
       <contributors>

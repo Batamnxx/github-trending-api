@@ -3,7 +3,7 @@
     <title>GitHub Open-policy-agent Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Open-policy-agent Languages in GitHub</description>
-    <pubDate>Sat, 11 Apr 2026 13:56:09 GMT</pubDate>
+    <pubDate>Sat, 11 Apr 2026 19:38:31 GMT</pubDate>
     <item>
       <title>Azure/azure-policy</title>
       <link>https://github.com/Azure/azure-policy</link>
@@ -82,7 +82,7 @@
       <guid>https://github.com/open-telemetry/semantic-conventions</guid>
       <language>Open Policy Agent</language>
       <languageColor>#7d9199</languageColor>
-      <stars>554</stars>
+      <stars>555</stars>
       <forks>341</forks>
       <addStars>28</addStars>
       <contributors>

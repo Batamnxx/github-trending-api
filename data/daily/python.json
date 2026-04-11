@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 11 Apr 2026 13:56:09 GMT",
+  "pubDate": "Sat, 11 Apr 2026 19:38:31 GMT",
   "items": [
     {
       "title": "NousResearch/hermes-agent",
@@ -10,8 +10,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "56,414",
-      "forks": "7,434",
+      "stars": "58,188",
+      "forks": "7,709",
       "addStars": "6,437",
       "contributors": [
         {
@@ -35,9 +35,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56565191?s=40&v=4",
-          "name": "erosika",
-          "url": "https://github.com/erosika"
+          "avatar": "https://avatars.githubusercontent.com/u/52913345?s=40&v=4",
+          "name": "alt-glitch",
+          "url": "https://github.com/alt-glitch"
         }
       ]
     },
@@ -47,8 +47,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "101,184",
-      "forks": "6,222",
+      "stars": "101,853",
+      "forks": "6,286",
       "addStars": "3,069",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,424",
-      "forks": "1,111",
-      "addStars": "953",
+      "stars": "9,724",
+      "forks": "1,136",
+      "addStars": "1,136",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63361337?s=40&v=4",
@@ -121,8 +121,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,269",
-      "forks": "2,642",
+      "stars": "13,946",
+      "forks": "2,754",
       "addStars": "607",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,450",
-      "forks": "2,161",
+      "stars": "16,647",
+      "forks": "2,188",
       "addStars": "836",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "reverse engineering Gemini's SynthID detection",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,038",
-      "forks": "177",
+      "stars": "2,102",
+      "forks": "189",
       "addStars": "682",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,995",
+      "stars": "10,010",
       "forks": "1,318",
       "addStars": "94",
       "contributors": [
@@ -259,9 +259,9 @@
       "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "150,330",
-      "forks": "11,433",
-      "addStars": "308",
+      "stars": "150,382",
+      "forks": "11,439",
+      "addStars": "273",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8255800?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,072",
-      "forks": "3,067",
-      "addStars": "511",
+      "stars": "36,157",
+      "forks": "3,081",
+      "addStars": "417",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&v=4",
@@ -333,8 +333,8 @@
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,113",
-      "forks": "2,004",
+      "stars": "18,132",
+      "forks": "2,005",
       "addStars": "158",
       "contributors": [
         {
@@ -370,8 +370,8 @@
       "description": "TensorFlow code and pre-trained models for BERT",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,972",
-      "forks": "9,706",
+      "stars": "39,973",
+      "forks": "9,707",
       "addStars": "3",
       "contributors": [
         {
@@ -407,8 +407,8 @@
       "description": "Build and run agents you can see, understand and trust.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,405",
-      "forks": "2,438",
+      "stars": "23,424",
+      "forks": "2,447",
       "addStars": "69",
       "contributors": [
         {

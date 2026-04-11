@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 11 Apr 2026 03:40:41 GMT</pubDate>
+    <pubDate>Sat, 11 Apr 2026 07:53:46 GMT</pubDate>
     <item>
       <title>NousResearch/hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>52,885</stars>
-      <forks>6,899</forks>
+      <stars>54,170</stars>
+      <forks>7,096</forks>
       <addStars>46,639</addStars>
       <contributors>
         <contributor>
@@ -43,47 +43,14 @@
       </contributors>
     </item>
     <item>
-      <title>Yeachan-Heo/oh-my-codex</title>
-      <link>https://github.com/Yeachan-Heo/oh-my-codex</link>
-      <description>OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.</description>
-      <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>20,684</stars>
-      <forks>1,843</forks>
-      <addStars>18,775</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4</avatar>
-          <name>Yeachan-Heo</name>
-          <url>https://github.com/Yeachan-Heo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102889891?s=40&amp;v=4</avatar>
-          <name>HaD0Yun</name>
-          <url>https://github.com/HaD0Yun</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32605822?s=40&amp;v=4</avatar>
-          <name>junhoyeo</name>
-          <url>https://github.com/junhoyeo</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
       <description>My personal directory of skills, straight from my .claude directory.</description>
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>13,880</stars>
-      <forks>1,142</forks>
+      <stars>13,936</stars>
+      <forks>1,145</forks>
       <addStars>12,774</addStars>
       <contributors>
         <contributor>
@@ -105,8 +72,8 @@
       <guid>https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,106</stars>
-      <forks>3,143</forks>
+      <stars>29,122</stars>
+      <forks>3,142</forks>
       <addStars>14,315</addStars>
       <contributors>
         <contributor>
@@ -143,8 +110,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>60,275</stars>
-      <forks>7,672</forks>
+      <stars>60,333</stars>
+      <forks>7,680</forks>
       <addStars>32,590</addStars>
       <contributors>
         <contributor>
@@ -181,8 +148,8 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,280</stars>
-      <forks>7,973</forks>
+      <stars>53,365</stars>
+      <forks>7,989</forks>
       <addStars>40,273</addStars>
       <contributors>
         <contributor>
@@ -209,8 +176,8 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,673</stars>
-      <forks>1,853</forks>
+      <stars>27,767</stars>
+      <forks>1,860</forks>
       <addStars>19,712</addStars>
       <contributors>
         <contributor>
@@ -247,8 +214,8 @@
       <guid>https://github.com/affaan-m/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>150,272</stars>
-      <forks>23,248</forks>
+      <stars>150,510</stars>
+      <forks>23,298</forks>
       <addStars>80,939</addStars>
       <contributors>
         <contributor>
@@ -275,8 +242,8 @@
       <guid>https://github.com/jarrodwatts/claude-hud</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>18,243</stars>
-      <forks>793</forks>
+      <stars>18,274</stars>
+      <forks>795</forks>
       <addStars>13,975</addStars>
       <contributors>
         <contributor>
@@ -303,8 +270,8 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>28,298</stars>
-      <forks>1,193</forks>
+      <stars>28,331</stars>
+      <forks>1,195</forks>
       <addStars>16,279</addStars>
       <contributors>
         <contributor>
@@ -341,8 +308,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,452</stars>
-      <forks>1,672</forks>
+      <stars>20,505</stars>
+      <forks>1,678</forks>
       <addStars>16,503</addStars>
       <contributors>
         <contributor>
@@ -379,8 +346,8 @@
       <guid>https://github.com/shareAI-lab/learn-claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>51,406</stars>
-      <forks>8,381</forks>
+      <stars>51,487</stars>
+      <forks>8,402</forks>
       <addStars>26,930</addStars>
       <contributors>
         <contributor>
@@ -417,8 +384,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>49,322</stars>
-      <forks>8,925</forks>
+      <stars>49,385</stars>
+      <forks>8,939</forks>
       <addStars>17,751</addStars>
       <contributors>
         <contributor>
@@ -455,8 +422,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>145,943</stars>
-      <forks>12,509</forks>
+      <stars>146,194</stars>
+      <forks>12,537</forks>
       <addStars>70,214</addStars>
       <contributors>
         <contributor>
@@ -493,8 +460,8 @@
       <guid>https://github.com/msitarzewski/agency-agents</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>77,880</stars>
-      <forks>12,341</forks>
+      <stars>78,002</stars>
+      <forks>12,363</forks>
       <addStars>56,117</addStars>
       <contributors>
         <contributor>
@@ -508,6 +475,11 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7342666?s=40&amp;v=4</avatar>
+          <name>epowelljr</name>
+          <url>https://github.com/epowelljr</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/166588383?s=40&amp;v=4</avatar>
           <name>4shil</name>
           <url>https://github.com/4shil</url>
@@ -516,11 +488,6 @@
           <avatar>https://avatars.githubusercontent.com/u/62324457?s=40&amp;v=4</avatar>
           <name>CagesThrottleUs</name>
           <url>https://github.com/CagesThrottleUs</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/261095274?s=40&amp;v=4</avatar>
-          <name>DawnnnHuang</name>
-          <url>https://github.com/DawnnnHuang</url>
         </contributor>
       </contributors>
     </item>
@@ -531,8 +498,8 @@
       <guid>https://github.com/google-ai-edge/gallery</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>20,246</stars>
-      <forks>1,888</forks>
+      <stars>20,293</stars>
+      <forks>1,895</forks>
       <addStars>4,846</addStars>
       <contributors>
         <contributor>
@@ -564,8 +531,8 @@
       <guid>https://github.com/langchain-ai/open-swe</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,428</stars>
-      <forks>1,061</forks>
+      <stars>9,433</stars>
+      <forks>1,063</forks>
       <addStars>4,187</addStars>
       <contributors>
         <contributor>
@@ -592,8 +559,8 @@
       <guid>https://github.com/onyx-dot-app/onyx</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,441</stars>
-      <forks>3,514</forks>
+      <stars>26,472</stars>
+      <forks>3,519</forks>
       <addStars>8,661</addStars>
       <contributors>
         <contributor>

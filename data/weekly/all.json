@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 11 Apr 2026 03:40:41 GMT",
+  "pubDate": "Sat, 11 Apr 2026 07:53:46 GMT",
   "items": [
     {
       "title": "google-ai-edge/gallery",
@@ -10,8 +10,8 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "20,246",
-      "forks": "1,888",
+      "stars": "20,293",
+      "forks": "1,895",
       "addStars": "4,409",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,062",
-      "forks": "2,115",
+      "stars": "16,201",
+      "forks": "2,129",
       "addStars": "4,698",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,885",
-      "forks": "6,899",
+      "stars": "54,170",
+      "forks": "7,096",
       "addStars": "26,783",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "3,335",
-      "forks": "313",
+      "stars": "3,354",
+      "forks": "316",
       "addStars": "2,210",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,317",
-      "forks": "784",
+      "stars": "6,706",
+      "forks": "839",
       "addStars": "3,512",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,673",
-      "forks": "1,853",
+      "stars": "27,767",
+      "forks": "1,860",
       "addStars": "10,077",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "11,863",
-      "forks": "785",
+      "stars": "12,076",
+      "forks": "803",
       "addStars": "3,741",
       "contributors": [
         {
@@ -254,45 +254,13 @@
       ]
     },
     {
-      "title": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "20,684",
-      "forks": "1,843",
-      "addStars": "7,276",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&v=4",
-          "name": "Yeachan-Heo",
-          "url": "https://github.com/Yeachan-Heo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102889891?s=40&v=4",
-          "name": "HaD0Yun",
-          "url": "https://github.com/HaD0Yun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32605822?s=40&v=4",
-          "name": "junhoyeo",
-          "url": "https://github.com/junhoyeo"
-        }
-      ]
-    },
-    {
       "title": "NVIDIA/personaplex",
       "url": "https://github.com/NVIDIA/personaplex",
       "description": "PersonaPlex code.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,931",
-      "forks": "1,259",
+      "stars": "8,947",
+      "forks": "1,260",
       "addStars": "2,939",
       "contributors": [
         {
@@ -328,8 +296,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,441",
-      "forks": "3,514",
+      "stars": "26,472",
+      "forks": "3,519",
       "addStars": "3,804",
       "contributors": [
         {
@@ -360,8 +328,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,286",
-      "forks": "1,511",
+      "stars": "16,327",
+      "forks": "1,517",
       "addStars": "2,481",
       "contributors": [
         {
@@ -397,8 +365,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,775",
-      "forks": "2,964",
+      "stars": "24,884",
+      "forks": "2,983",
       "addStars": "7,215",
       "contributors": [
         {

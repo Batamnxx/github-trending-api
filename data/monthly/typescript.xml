@@ -3,7 +3,40 @@
     <title>GitHub Typescript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Sat, 11 Apr 2026 03:40:41 GMT</pubDate>
+    <pubDate>Sat, 11 Apr 2026 07:53:46 GMT</pubDate>
+    <item>
+      <title>Yeachan-Heo/oh-my-codex</title>
+      <link>https://github.com/Yeachan-Heo/oh-my-codex</link>
+      <description>OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.</description>
+      <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>20,796</stars>
+      <forks>1,851</forks>
+      <addStars>18,775</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4</avatar>
+          <name>Yeachan-Heo</name>
+          <url>https://github.com/Yeachan-Heo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/102889891?s=40&amp;v=4</avatar>
+          <name>HaD0Yun</name>
+          <url>https://github.com/HaD0Yun</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32605822?s=40&amp;v=4</avatar>
+          <name>junhoyeo</name>
+          <url>https://github.com/junhoyeo</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>siddharthvaddem/openscreen</title>
       <link>https://github.com/siddharthvaddem/openscreen</link>
@@ -11,8 +44,8 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,681</stars>
-      <forks>1,853</forks>
+      <stars>27,777</stars>
+      <forks>1,861</forks>
       <addStars>19,712</addStars>
       <contributors>
         <contributor>
@@ -49,8 +82,8 @@
       <guid>https://github.com/shareAI-lab/learn-claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>51,413</stars>
-      <forks>8,385</forks>
+      <stars>51,492</stars>
+      <forks>8,405</forks>
       <addStars>26,930</addStars>
       <contributors>
         <contributor>
@@ -87,8 +120,8 @@
       <guid>https://github.com/alibaba/page-agent</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,729</stars>
-      <forks>1,356</forks>
+      <stars>16,736</stars>
+      <forks>1,357</forks>
       <addStars>13,647</addStars>
       <contributors>
         <contributor>
@@ -110,8 +143,8 @@
       <guid>https://github.com/abhigyanpatwari/GitNexus</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,332</stars>
-      <forks>2,966</forks>
+      <stars>26,406</stars>
+      <forks>2,979</forks>
       <addStars>14,773</addStars>
       <contributors>
         <contributor>
@@ -148,7 +181,7 @@
       <guid>https://github.com/supermemoryai/supermemory</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,638</stars>
+      <stars>21,647</stars>
       <forks>1,983</forks>
       <addStars>4,868</addStars>
       <contributors>
@@ -186,8 +219,8 @@
       <guid>https://github.com/promptfoo/promptfoo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,914</stars>
-      <forks>1,706</forks>
+      <stars>19,922</stars>
+      <forks>1,707</forks>
       <addStars>8,307</addStars>
       <contributors>
         <contributor>
@@ -214,8 +247,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>34,002</stars>
-      <forks>2,036</forks>
+      <stars>34,012</stars>
+      <forks>2,037</forks>
       <addStars>5,834</addStars>
       <contributors>
         <contributor>
@@ -247,8 +280,8 @@
       <guid>https://github.com/Fission-AI/OpenSpec</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>39,003</stars>
-      <forks>2,651</forks>
+      <stars>39,032</stars>
+      <forks>2,655</forks>
       <addStars>10,008</addStars>
       <contributors>
         <contributor>
@@ -275,8 +308,8 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>31,136</stars>
-      <forks>3,485</forks>
+      <stars>31,167</stars>
+      <forks>3,487</forks>
       <addStars>10,964</addStars>
       <contributors>
         <contributor>
@@ -313,8 +346,8 @@
       <guid>https://github.com/zhukunpenglinyutong/jetbrains-cc-gui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,504</stars>
-      <forks>312</forks>
+      <stars>2,513</stars>
+      <forks>313</forks>
       <addStars>955</addStars>
       <contributors>
         <contributor>
@@ -351,8 +384,8 @@
       <guid>https://github.com/clash-verge-rev/clash-verge-rev</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>109,575</stars>
-      <forks>7,964</forks>
+      <stars>109,640</stars>
+      <forks>7,968</forks>
       <addStars>8,257</addStars>
       <contributors>
         <contributor>
@@ -389,8 +422,8 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,279</stars>
-      <forks>488</forks>
+      <stars>4,289</stars>
+      <forks>490</forks>
       <addStars>1,988</addStars>
       <contributors>
         <contributor>

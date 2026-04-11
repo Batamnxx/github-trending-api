@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 10 Apr 2026 19:48:18 GMT",
+  "pubDate": "Sat, 11 Apr 2026 03:40:41 GMT",
   "items": [
     {
       "title": "microsoft/markitdown",
@@ -10,9 +10,9 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "99,200",
-      "forks": "6,076",
-      "addStars": "2,353",
+      "stars": "100,016",
+      "forks": "6,127",
+      "addStars": "2,352",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,380",
-      "forks": "2,529",
+      "stars": "15,773",
+      "forks": "2,561",
       "addStars": "756",
       "contributors": [
         {
@@ -79,9 +79,9 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "51,369",
-      "forks": "6,647",
-      "addStars": "7,674",
+      "stars": "52,885",
+      "forks": "6,899",
+      "addStars": "7,671",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,639",
-      "forks": "1,089",
-      "addStars": "498",
+      "stars": "11,799",
+      "forks": "1,098",
+      "addStars": "507",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,783",
-      "forks": "696",
-      "addStars": "1,544",
+      "stars": "6,317",
+      "forks": "784",
+      "addStars": "1,506",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "11,549",
-      "forks": "756",
-      "addStars": "1,454",
+      "stars": "11,863",
+      "forks": "785",
+      "addStars": "1,450",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,635",
-      "forks": "2,544",
-      "addStars": "602",
+      "stars": "12,759",
+      "forks": "2,556",
+      "addStars": "601",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,837",
-      "forks": "2,083",
-      "addStars": "1,426",
+      "stars": "16,062",
+      "forks": "2,115",
+      "addStars": "1,424",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "14,679",
-      "forks": "1,242",
-      "addStars": "1,309",
+      "stars": "14,883",
+      "forks": "1,259",
+      "addStars": "1,306",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -328,8 +328,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "145,545",
-      "forks": "12,479",
+      "stars": "145,943",
+      "forks": "12,509",
       "addStars": "2,150",
       "contributors": [
         {
@@ -365,9 +365,9 @@
       "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "34,249",
-      "forks": "1,759",
-      "addStars": "141",
+      "stars": "34,328",
+      "forks": "1,760",
+      "addStars": "75",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79765?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "practice made claude perfect",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "35,544",
-      "forks": "3,355",
-      "addStars": "1,248",
+      "stars": "35,939",
+      "forks": "3,388",
+      "addStars": "1,251",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11731897?s=40&v=4",

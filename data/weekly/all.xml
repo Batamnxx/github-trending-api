@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 10 Apr 2026 19:48:18 GMT</pubDate>
+    <pubDate>Sat, 11 Apr 2026 03:40:41 GMT</pubDate>
     <item>
       <title>google-ai-edge/gallery</title>
       <link>https://github.com/google-ai-edge/gallery</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/google-ai-edge/gallery</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>20,155</stars>
-      <forks>1,883</forks>
-      <addStars>4,326</addStars>
+      <stars>20,246</stars>
+      <forks>1,888</forks>
+      <addStars>4,409</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8752427?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,837</stars>
-      <forks>2,083</forks>
-      <addStars>3,233</addStars>
+      <stars>16,062</stars>
+      <forks>2,115</forks>
+      <addStars>4,698</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4</avatar>
@@ -77,9 +77,9 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,370</stars>
-      <forks>6,647</forks>
-      <addStars>19,765</addStars>
+      <stars>52,885</stars>
+      <forks>6,899</forks>
+      <addStars>26,783</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/google-ai-edge/LiteRT-LM</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>3,296</stars>
-      <forks>310</forks>
-      <addStars>2,157</addStars>
+      <stars>3,335</stars>
+      <forks>313</forks>
+      <addStars>2,210</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/154857592?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/multica-ai/multica</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,783</stars>
-      <forks>696</forks>
-      <addStars>3,201</addStars>
+      <stars>6,317</stars>
+      <forks>784</forks>
+      <addStars>3,512</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,525</stars>
-      <forks>1,843</forks>
-      <addStars>12,278</addStars>
+      <stars>27,673</stars>
+      <forks>1,853</forks>
+      <addStars>10,077</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/forrestchang/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>11,549</stars>
-      <forks>756</forks>
-      <addStars>2,230</addStars>
+      <stars>11,863</stars>
+      <forks>785</forks>
+      <addStars>3,741</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7857126?s=40&amp;v=4</avatar>
@@ -267,9 +267,9 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,535</stars>
-      <forks>1,836</forks>
-      <addStars>9,737</addStars>
+      <stars>20,684</stars>
+      <forks>1,843</forks>
+      <addStars>7,276</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4</avatar>
@@ -300,9 +300,9 @@
       <guid>https://github.com/NVIDIA/personaplex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,897</stars>
-      <forks>1,256</forks>
-      <addStars>2,745</addStars>
+      <stars>8,931</stars>
+      <forks>1,259</forks>
+      <addStars>2,939</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/253125373?s=40&amp;v=4</avatar>
@@ -338,9 +338,9 @@
       <guid>https://github.com/onyx-dot-app/onyx</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,382</stars>
-      <forks>3,507</forks>
-      <addStars>5,556</addStars>
+      <stars>26,441</stars>
+      <forks>3,514</forks>
+      <addStars>3,804</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25087905?s=40&amp;v=4</avatar>
@@ -371,9 +371,9 @@
       <guid>https://github.com/google-research/timesfm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,243</stars>
-      <forks>1,494</forks>
-      <addStars>3,095</addStars>
+      <stars>16,286</stars>
+      <forks>1,511</forks>
+      <addStars>2,481</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4</avatar>
@@ -409,9 +409,9 @@
       <guid>https://github.com/luongnv89/claude-howto</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>24,632</stars>
-      <forks>2,943</forks>
-      <addStars>7,342</addStars>
+      <stars>24,775</stars>
+      <forks>2,964</forks>
+      <addStars>7,215</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3288457?s=40&amp;v=4</avatar>

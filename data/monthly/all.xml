@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 10 Apr 2026 19:48:18 GMT</pubDate>
+    <pubDate>Sat, 11 Apr 2026 03:40:41 GMT</pubDate>
     <item>
       <title>NousResearch/hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,370</stars>
-      <forks>6,647</forks>
-      <addStars>39,332</addStars>
+      <stars>52,885</stars>
+      <forks>6,899</forks>
+      <addStars>46,639</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,535</stars>
-      <forks>1,836</forks>
-      <addStars>18,112</addStars>
+      <stars>20,684</stars>
+      <forks>1,843</forks>
+      <addStars>18,775</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>13,794</stars>
-      <forks>1,136</forks>
-      <addStars>12,380</addStars>
+      <stars>13,880</stars>
+      <forks>1,142</forks>
+      <addStars>12,774</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
@@ -105,9 +105,9 @@
       <guid>https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,083</stars>
-      <forks>3,138</forks>
-      <addStars>14,209</addStars>
+      <stars>29,106</stars>
+      <forks>3,143</forks>
+      <addStars>14,315</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/78088687?s=40&amp;v=4</avatar>
@@ -143,9 +143,9 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>60,214</stars>
-      <forks>7,660</forks>
-      <addStars>33,722</addStars>
+      <stars>60,275</stars>
+      <forks>7,672</forks>
+      <addStars>32,590</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1003147?s=40&amp;v=4</avatar>
@@ -181,9 +181,9 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,133</stars>
-      <forks>7,952</forks>
-      <addStars>44,278</addStars>
+      <stars>53,280</stars>
+      <forks>7,973</forks>
+      <addStars>40,273</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4</avatar>
@@ -209,9 +209,9 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,525</stars>
-      <forks>1,843</forks>
-      <addStars>19,016</addStars>
+      <stars>27,673</stars>
+      <forks>1,853</forks>
+      <addStars>19,712</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70214527?s=40&amp;v=4</avatar>
@@ -247,9 +247,9 @@
       <guid>https://github.com/affaan-m/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>149,930</stars>
-      <forks>23,198</forks>
-      <addStars>80,680</addStars>
+      <stars>150,272</stars>
+      <forks>23,248</forks>
+      <addStars>80,939</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4</avatar>
@@ -275,9 +275,9 @@
       <guid>https://github.com/jarrodwatts/claude-hud</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>18,197</stars>
-      <forks>792</forks>
-      <addStars>13,776</addStars>
+      <stars>18,243</stars>
+      <forks>793</forks>
+      <addStars>13,975</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/35651410?s=40&amp;v=4</avatar>
@@ -303,9 +303,9 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>28,240</stars>
-      <forks>1,189</forks>
-      <addStars>16,038</addStars>
+      <stars>28,298</stars>
+      <forks>1,193</forks>
+      <addStars>16,279</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/206480?s=40&amp;v=4</avatar>
@@ -341,9 +341,9 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,378</stars>
-      <forks>1,666</forks>
-      <addStars>16,184</addStars>
+      <stars>20,452</stars>
+      <forks>1,672</forks>
+      <addStars>16,503</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4</avatar>
@@ -379,9 +379,9 @@
       <guid>https://github.com/shareAI-lab/learn-claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>51,326</stars>
-      <forks>8,373</forks>
-      <addStars>26,755</addStars>
+      <stars>51,406</stars>
+      <forks>8,381</forks>
+      <addStars>26,930</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/35400185?s=40&amp;v=4</avatar>
@@ -417,9 +417,9 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>49,255</stars>
-      <forks>8,919</forks>
-      <addStars>17,495</addStars>
+      <stars>49,322</stars>
+      <forks>8,925</forks>
+      <addStars>17,751</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4</avatar>
@@ -455,9 +455,9 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>145,545</stars>
-      <forks>12,479</forks>
-      <addStars>69,396</addStars>
+      <stars>145,943</stars>
+      <forks>12,509</forks>
+      <addStars>70,214</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45416?s=40&amp;v=4</avatar>
@@ -493,9 +493,9 @@
       <guid>https://github.com/msitarzewski/agency-agents</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>77,731</stars>
-      <forks>12,310</forks>
-      <addStars>61,564</addStars>
+      <stars>77,880</stars>
+      <forks>12,341</forks>
+      <addStars>56,117</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1972242?s=40&amp;v=4</avatar>
@@ -531,9 +531,9 @@
       <guid>https://github.com/google-ai-edge/gallery</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>20,155</stars>
-      <forks>1,883</forks>
-      <addStars>4,561</addStars>
+      <stars>20,246</stars>
+      <forks>1,888</forks>
+      <addStars>4,846</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8752427?s=40&amp;v=4</avatar>
@@ -564,9 +564,9 @@
       <guid>https://github.com/langchain-ai/open-swe</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,412</stars>
+      <stars>9,428</stars>
       <forks>1,061</forks>
-      <addStars>4,137</addStars>
+      <addStars>4,187</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/46789226?s=40&amp;v=4</avatar>
@@ -592,9 +592,9 @@
       <guid>https://github.com/onyx-dot-app/onyx</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,382</stars>
-      <forks>3,507</forks>
-      <addStars>8,528</addStars>
+      <stars>26,441</stars>
+      <forks>3,514</forks>
+      <addStars>8,661</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25087905?s=40&amp;v=4</avatar>

@@ -2,7 +2,7 @@
   "title": "GitHub Nushell Languages Daily Trending",
   "description": "Daily Trending of Nushell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 12 Apr 2026 13:59:27 GMT",
+  "pubDate": "Sun, 12 Apr 2026 19:41:27 GMT",
   "items": [
     {
       "title": "nushell/tree-sitter-nu",
@@ -84,7 +84,7 @@
       "description": "A community trust management system based on explicit vouches to participate.",
       "language": "Nushell",
       "languageColor": "#4E9906",
-      "stars": "4,146",
+      "stars": "4,152",
       "forks": "73",
       "addStars": "6",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "My dotfiles synced from localhost and remote machines",
       "language": "Nushell",
       "languageColor": "#4E9906",
-      "stars": "3,142",
+      "stars": "3,143",
       "forks": "263",
       "addStars": "3",
       "contributors": [

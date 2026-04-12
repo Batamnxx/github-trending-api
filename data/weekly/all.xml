@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 12 Apr 2026 13:59:27 GMT</pubDate>
+    <pubDate>Sun, 12 Apr 2026 19:41:27 GMT</pubDate>
     <item>
       <title>NousResearch/hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>63,664</stars>
-      <forks>8,530</forks>
+      <stars>65,524</stars>
+      <forks>8,756</forks>
       <addStars>32,572</addStars>
       <contributors>
         <contributor>
@@ -36,9 +36,9 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/56565191?s=40&amp;v=4</avatar>
-          <name>erosika</name>
-          <url>https://github.com/erosika</url>
+          <avatar>https://avatars.githubusercontent.com/u/52913345?s=40&amp;v=4</avatar>
+          <name>alt-glitch</name>
+          <url>https://github.com/alt-glitch</url>
         </contributor>
       </contributors>
     </item>
@@ -49,8 +49,8 @@
       <guid>https://github.com/forrestchang/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>14,882</stars>
-      <forks>1,057</forks>
+      <stars>15,762</stars>
+      <forks>1,145</forks>
       <addStars>4,969</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,105</stars>
-      <forks>2,239</forks>
+      <stars>17,183</stars>
+      <forks>2,249</forks>
       <addStars>5,560</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/multica-ai/multica</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,816</stars>
-      <forks>1,122</forks>
+      <stars>9,171</stars>
+      <forks>1,171</forks>
       <addStars>5,362</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/google-ai-edge/gallery</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>20,579</stars>
-      <forks>1,939</forks>
+      <stars>20,643</stars>
+      <forks>1,945</forks>
       <addStars>4,369</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/coleam00/Archon</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,776</stars>
-      <forks>2,677</forks>
+      <stars>16,939</stars>
+      <forks>2,695</forks>
       <addStars>2,410</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>103,683</stars>
-      <forks>6,444</forks>
+      <stars>104,324</stars>
+      <forks>6,499</forks>
       <addStars>8,202</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/google-ai-edge/LiteRT-LM</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>3,497</stars>
-      <forks>333</forks>
+      <stars>3,523</stars>
+      <forks>336</forks>
       <addStars>2,196</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/NVIDIA/personaplex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,050</stars>
-      <forks>1,279</forks>
+      <stars>9,070</stars>
+      <forks>1,280</forks>
       <addStars>2,905</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/TheCraigHewitt/seomachine</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,741</stars>
-      <forks>811</forks>
+      <stars>5,771</stars>
+      <forks>816</forks>
       <addStars>2,698</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/nvim-treesitter/nvim-treesitter</guid>
       <language>Tree-sitter Query</language>
       <languageColor>#8ea64c</languageColor>
-      <stars>13,635</stars>
-      <forks>1,244</forks>
+      <stars>13,643</stars>
+      <forks>1,245</forks>
       <addStars>154</addStars>
       <contributors>
         <contributor>

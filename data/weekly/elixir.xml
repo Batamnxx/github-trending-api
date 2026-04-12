@@ -3,7 +3,7 @@
     <title>GitHub Elixir Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Elixir Languages in GitHub</description>
-    <pubDate>Sun, 12 Apr 2026 04:13:29 GMT</pubDate>
+    <pubDate>Sun, 12 Apr 2026 08:05:09 GMT</pubDate>
     <item>
       <title>elixir-lang/elixir</title>
       <link>https://github.com/elixir-lang/elixir</link>
@@ -318,7 +318,7 @@
       <guid>https://github.com/elixir-lang/expert</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>1,960</stars>
+      <stars>1,961</stars>
       <forks>97</forks>
       <addStars>12</addStars>
       <contributors>

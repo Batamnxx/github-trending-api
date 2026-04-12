@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 12 Apr 2026 04:13:29 GMT",
+  "pubDate": "Sun, 12 Apr 2026 08:05:09 GMT",
   "items": [
     {
       "title": "NousResearch/hermes-agent",
@@ -10,8 +10,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,212",
-      "forks": "8,020",
+      "stars": "61,571",
+      "forks": "8,240",
       "addStars": "6,438",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "102,599",
-      "forks": "6,365",
+      "stars": "103,050",
+      "forks": "6,394",
       "addStars": "3,086",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,036",
-      "forks": "1,173",
+      "stars": "10,306",
+      "forks": "1,211",
       "addStars": "1,084",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,486",
-      "forks": "2,846",
+      "stars": "14,741",
+      "forks": "2,890",
       "addStars": "595",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,872",
-      "forks": "2,219",
+      "stars": "16,985",
+      "forks": "2,230",
       "addStars": "837",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "reverse engineering Gemini's SynthID detection",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,163",
+      "stars": "2,188",
       "forks": "197",
       "addStars": "552",
       "contributors": [
@@ -227,8 +227,8 @@
       "description": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,022",
-      "forks": "1,317",
+      "stars": "10,030",
+      "forks": "1,324",
       "addStars": "71",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "150,433",
-      "forks": "11,444",
+      "stars": "150,488",
+      "forks": "11,449",
       "addStars": "273",
       "contributors": [
         {
@@ -296,8 +296,8 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,239",
-      "forks": "3,096",
+      "stars": "36,279",
+      "forks": "3,095",
       "addStars": "417",
       "contributors": [
         {
@@ -333,8 +333,8 @@
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,151",
-      "forks": "2,008",
+      "stars": "18,166",
+      "forks": "2,012",
       "addStars": "128",
       "contributors": [
         {
@@ -370,8 +370,8 @@
       "description": "TensorFlow code and pre-trained models for BERT",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,973",
-      "forks": "9,706",
+      "stars": "39,976",
+      "forks": "9,707",
       "addStars": "3",
       "contributors": [
         {
@@ -407,7 +407,7 @@
       "description": "Build and run agents you can see, understand and trust.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,442",
+      "stars": "23,449",
       "forks": "2,454",
       "addStars": "67",
       "contributors": [

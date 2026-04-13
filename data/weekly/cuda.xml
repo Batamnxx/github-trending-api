@@ -3,7 +3,7 @@
     <title>GitHub Cuda Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Mon, 13 Apr 2026 04:23:19 GMT</pubDate>
+    <pubDate>Mon, 13 Apr 2026 09:03:41 GMT</pubDate>
     <item>
       <title>karpathy/llm.c</title>
       <link>https://github.com/karpathy/llm.c</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/karpathy/llm.c</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>29,540</stars>
+      <stars>29,544</stars>
       <forks>3,516</forks>
       <addStars>167</addStars>
       <contributors>
@@ -277,7 +277,7 @@
       <guid>https://github.com/NVIDIA/cuopt</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>813</stars>
+      <stars>814</stars>
       <forks>159</forks>
       <addStars>11</addStars>
       <contributors>

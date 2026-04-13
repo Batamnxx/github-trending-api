@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Monthly Trending",
   "description": "Monthly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 13 Apr 2026 14:48:44 GMT",
+  "pubDate": "Mon, 13 Apr 2026 20:08:45 GMT",
   "items": [
     {
       "title": "mattpocock/skills",
@@ -10,8 +10,8 @@
       "description": "My personal directory of skills, straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "14,624",
-      "forks": "1,200",
+      "stars": "14,691",
+      "forks": "1,203",
       "addStars": "13,290",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "149,869",
-      "forks": "12,955",
+      "stars": "150,227",
+      "forks": "12,992",
       "addStars": "69,862",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "79,296",
-      "forks": "12,650",
+      "stars": "79,379",
+      "forks": "12,661",
       "addStars": "44,749",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "113,362",
-      "forks": "18,948",
+      "stars": "113,451",
+      "forks": "18,965",
       "addStars": "36,618",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Docker configuration for running VLLM on dual DGX Sparks",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,002",
-      "forks": "177",
+      "stars": "1,007",
+      "forks": "178",
       "addStars": "457",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "My Codex Skills",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,272",
+      "stars": "3,273",
       "forks": "172",
       "addStars": "1,230",
       "contributors": [
@@ -207,7 +207,7 @@
       "description": "🐹 Deep clean and optimize your Mac.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "46,691",
+      "stars": "46,737",
       "forks": "1,418",
       "addStars": "7,321",
       "contributors": [
@@ -234,7 +234,7 @@
       "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,972",
+      "stars": "2,974",
       "forks": "406",
       "addStars": "372",
       "contributors": [
@@ -271,8 +271,8 @@
       "description": "",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "502",
-      "forks": "79",
+      "stars": "503",
+      "forks": "80",
       "addStars": "301",
       "contributors": [
         {
@@ -298,8 +298,8 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,160",
-      "forks": "362",
+      "stars": "3,166",
+      "forks": "363",
       "addStars": "754",
       "contributors": [
         {
@@ -330,7 +330,7 @@
       "description": "MacOS inside a Docker container.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "19,461",
+      "stars": "19,462",
       "forks": "966",
       "addStars": "754",
       "contributors": [
@@ -357,7 +357,7 @@
       "description": "😼 优雅地使用基于 clash/mihomo 的代理环境",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "11,805",
+      "stars": "11,810",
       "forks": "1,342",
       "addStars": "1,633",
       "contributors": [
@@ -394,8 +394,8 @@
       "description": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "13,785",
-      "forks": "1,491",
+      "stars": "13,788",
+      "forks": "1,492",
       "addStars": "379",
       "contributors": [
         {

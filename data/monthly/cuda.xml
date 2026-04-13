@@ -3,7 +3,7 @@
     <title>GitHub Cuda Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Mon, 13 Apr 2026 14:48:44 GMT</pubDate>
+    <pubDate>Mon, 13 Apr 2026 20:08:45 GMT</pubDate>
     <item>
       <title>karpathy/llm.c</title>
       <link>https://github.com/karpathy/llm.c</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/karpathy/llm.c</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>29,549</stars>
+      <stars>29,551</stars>
       <forks>3,517</forks>
       <addStars>480</addStars>
       <contributors>
@@ -88,7 +88,7 @@
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
       <stars>828</stars>
-      <forks>171</forks>
+      <forks>172</forks>
       <addStars>72</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/deepseek-ai/DeepEP</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>9,116</stars>
+      <stars>9,117</stars>
       <forks>1,148</forks>
       <addStars>94</addStars>
       <contributors>
@@ -239,7 +239,7 @@
       <guid>https://github.com/mirage-project/mirage</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>2,188</stars>
+      <stars>2,189</stars>
       <forks>194</forks>
       <addStars>41</addStars>
       <contributors>

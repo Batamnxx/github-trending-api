@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 12 Apr 2026 19:41:27 GMT",
+  "pubDate": "Mon, 13 Apr 2026 04:23:19 GMT",
   "items": [
     {
       "title": "NousResearch/hermes-agent",
@@ -10,9 +10,9 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "65,524",
-      "forks": "8,756",
-      "addStars": "7,450",
+      "stars": "69,418",
+      "forks": "9,263",
+      "addStars": "7,454",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,595",
-      "forks": "2,994",
-      "addStars": "1,998",
+      "stars": "16,068",
+      "forks": "3,054",
+      "addStars": "1,985",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "15,762",
-      "forks": "1,145",
-      "addStars": "2,351",
+      "stars": "17,707",
+      "forks": "1,338",
+      "addStars": "2,369",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
@@ -121,8 +121,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "104,324",
-      "forks": "6,499",
+      "stars": "105,332",
+      "forks": "6,593",
       "addStars": "2,513",
       "contributors": [
         {
@@ -158,9 +158,9 @@
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,171",
-      "forks": "1,171",
-      "addStars": "1,626",
+      "stars": "9,724",
+      "forks": "1,234",
+      "addStars": "1,609",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -195,8 +195,8 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,939",
-      "forks": "2,695",
+      "stars": "17,185",
+      "forks": "2,721",
       "addStars": "612",
       "contributors": [
         {
@@ -227,9 +227,9 @@
       "description": "practice made claude perfect",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "38,737",
-      "forks": "3,654",
-      "addStars": "1,537",
+      "stars": "39,468",
+      "forks": "3,727",
+      "addStars": "1,548",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11731897?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,105",
-      "forks": "1,293",
-      "addStars": "1,276",
+      "stars": "11,531",
+      "forks": "1,332",
+      "addStars": "1,278",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63361337?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "49,357",
-      "forks": "3,876",
-      "addStars": "814",
+      "stars": "50,548",
+      "forks": "3,989",
+      "addStars": "753",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,095",
-      "forks": "1,859",
-      "addStars": "228",
+      "stars": "19,209",
+      "forks": "1,867",
+      "addStars": "215",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11807284?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "25,110",
-      "forks": "1,069",
-      "addStars": "253",
+      "stars": "25,340",
+      "forks": "1,078",
+      "addStars": "182",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4829346?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "An AI Hedge Fund Team",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,097",
-      "forks": "9,039",
-      "addStars": "696",
+      "stars": "52,289",
+      "forks": "9,066",
+      "addStars": "663",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/901795?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,842",
-      "forks": "1,586",
-      "addStars": "519",
+      "stars": "16,067",
+      "forks": "1,596",
+      "addStars": "463",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/128247?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": "68,182",
-      "forks": "15,215",
-      "addStars": "450",
+      "stars": "68,446",
+      "forks": "15,288",
+      "addStars": "454",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3353541?s=40&v=4",

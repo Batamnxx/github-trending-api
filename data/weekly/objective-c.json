@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Weekly Trending",
   "description": "Weekly Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 14 Apr 2026 14:50:11 GMT",
+  "pubDate": "Tue, 14 Apr 2026 20:07:54 GMT",
   "items": [
     {
       "title": "geode-sdk/ios-launcher",
@@ -42,7 +42,7 @@
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "33,528",
+      "stars": "33,529",
       "forks": "10,553",
       "addStars": "3",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "A feature-rich tweak for Instagram on iOS!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "635",
-      "forks": "2,324",
+      "stars": "636",
+      "forks": "2,326",
       "addStars": "17",
       "contributors": [
         {

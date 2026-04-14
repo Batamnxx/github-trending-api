@@ -2,7 +2,7 @@
   "title": "GitHub Fluent Languages Monthly Trending",
   "description": "Monthly Trending of Fluent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 14 Apr 2026 14:50:11 GMT",
+  "pubDate": "Tue, 14 Apr 2026 20:07:54 GMT",
   "items": [
     {
       "title": "janeczku/calibre-web",
@@ -11,7 +11,7 @@
       "language": "Fluent",
       "languageColor": "#ffcc33",
       "stars": "16,945",
-      "forks": "1,757",
+      "forks": "1,758",
       "addStars": "244",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "30,526",
+      "stars": "30,533",
       "forks": "1,023",
       "addStars": "793",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "Server app for SlimeVR ecosystem",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "998",
+      "stars": "1,000",
       "forks": "233",
       "addStars": "24",
       "contributors": [

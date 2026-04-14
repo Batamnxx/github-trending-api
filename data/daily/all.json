@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 14 Apr 2026 04:12:11 GMT",
+  "pubDate": "Tue, 14 Apr 2026 08:45:34 GMT",
   "items": [
     {
       "title": "forrestchang/andrej-karpathy-skills",
@@ -10,8 +10,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "26,468",
-      "forks": "2,162",
+      "stars": "28,230",
+      "forks": "2,318",
       "addStars": "5,733",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "78,927",
-      "forks": "10,559",
+      "stars": "81,033",
+      "forks": "10,858",
       "addStars": "11,289",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,162",
-      "forks": "3,227",
+      "stars": "17,381",
+      "forks": "3,260",
       "addStars": "1,554",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "53,722",
-      "forks": "4,289",
+      "stars": "54,228",
+      "forks": "4,341",
       "addStars": "3,175",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "107,266",
-      "forks": "6,773",
+      "stars": "107,618",
+      "forks": "6,804",
       "addStars": "2,808",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,404",
-      "forks": "1,411",
+      "stars": "11,759",
+      "forks": "1,456",
       "addStars": "1,715",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,702",
-      "forks": "2,783",
+      "stars": "17,794",
+      "forks": "2,795",
       "addStars": "677",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,604",
-      "forks": "1,641",
+      "stars": "16,699",
+      "forks": "1,649",
       "addStars": "691",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "An AI Hedge Fund Team",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "53,114",
-      "forks": "9,216",
+      "stars": "53,444",
+      "forks": "9,274",
       "addStars": "783",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "39,661",
-      "forks": "4,405",
+      "stars": "39,802",
+      "forks": "4,418",
       "addStars": "1,012",
       "contributors": [
         {
@@ -362,11 +362,11 @@
     {
       "title": "shanraisshan/claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "description": "practice made claude perfect",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "42,162",
-      "forks": "4,022",
+      "stars": "42,643",
+      "forks": "4,074",
       "addStars": "2,461",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "The open-source voice synthesis studio",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,455",
-      "forks": "1,952",
+      "stars": "16,637",
+      "forks": "1,970",
       "addStars": "512",
       "contributors": [
         {
@@ -434,8 +434,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,556",
-      "forks": "1,888",
+      "stars": "19,621",
+      "forks": "1,890",
       "addStars": "339",
       "contributors": [
         {
@@ -471,8 +471,8 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "90,321",
-      "forks": "13,134",
+      "stars": "90,434",
+      "forks": "13,148",
       "addStars": "217",
       "contributors": [
         {
@@ -508,8 +508,8 @@
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "52,266",
-      "forks": "4,375",
+      "stars": "52,465",
+      "forks": "4,384",
       "addStars": "655",
       "contributors": [
         {
@@ -545,8 +545,8 @@
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": "69,028",
-      "forks": "15,411",
+      "stars": "69,173",
+      "forks": "15,438",
       "addStars": "703",
       "contributors": [
         {

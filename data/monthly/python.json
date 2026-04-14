@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Monthly Trending",
   "description": "Monthly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 14 Apr 2026 04:12:11 GMT",
+  "pubDate": "Tue, 14 Apr 2026 08:45:34 GMT",
   "items": [
     {
       "title": "NousResearch/hermes-agent",
@@ -10,8 +10,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "79,016",
-      "forks": "10,567",
+      "stars": "81,147",
+      "forks": "10,869",
       "addStars": "69,018",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Automate the process of making money online.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,455",
-      "forks": "3,169",
+      "stars": "29,480",
+      "forks": "3,172",
       "addStars": "14,609",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "61,235",
-      "forks": "7,862",
+      "stars": "61,323",
+      "forks": "7,882",
       "addStars": "31,379",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,620",
-      "forks": "1,762",
+      "stars": "21,684",
+      "forks": "1,774",
       "addStars": "17,477",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,192",
-      "forks": "9,079",
+      "stars": "50,272",
+      "forks": "9,087",
       "addStars": "18,422",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "54,758",
-      "forks": "8,252",
+      "stars": "54,859",
+      "forks": "8,269",
       "addStars": "34,012",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,343",
-      "forks": "4,558",
+      "stars": "39,401",
+      "forks": "4,569",
       "addStars": "15,781",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,981",
-      "forks": "3,581",
+      "stars": "27,017",
+      "forks": "3,585",
       "addStars": "9,163",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "90,325",
-      "forks": "13,134",
+      "stars": "90,441",
+      "forks": "13,149",
       "addStars": "10,543",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "107,284",
-      "forks": "6,774",
+      "stars": "107,634",
+      "forks": "6,807",
       "addStars": "16,296",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,634",
-      "forks": "2,868",
+      "stars": "20,671",
+      "forks": "2,872",
       "addStars": "10,010",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,997",
-      "forks": "1,611",
+      "stars": "17,048",
+      "forks": "1,615",
       "addStars": "6,891",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,826",
-      "forks": "2,339",
+      "stars": "17,931",
+      "forks": "2,357",
       "addStars": "7,082",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,939",
-      "forks": "1,398",
+      "stars": "10,977",
+      "forks": "1,403",
       "addStars": "6,071",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,166",
-      "forks": "3,227",
+      "stars": "17,392",
+      "forks": "3,260",
       "addStars": "5,766",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "61,440",
-      "forks": "5,316",
+      "stars": "61,470",
+      "forks": "5,321",
       "addStars": "7,714",
       "contributors": [
         {
@@ -567,8 +567,8 @@
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "38,574",
-      "forks": "3,153",
+      "stars": "38,618",
+      "forks": "3,160",
       "addStars": "10,769",
       "contributors": [
         {
@@ -594,8 +594,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,472",
-      "forks": "1,437",
+      "stars": "12,624",
+      "forks": "1,459",
       "addStars": "6,053",
       "contributors": [
         {
@@ -631,7 +631,7 @@
       "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,595",
+      "stars": "8,602",
       "forks": "883",
       "addStars": "3,704",
       "contributors": [
@@ -658,8 +658,8 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,779",
-      "forks": "843",
+      "stars": "9,806",
+      "forks": "847",
       "addStars": "5,607",
       "contributors": [
         {

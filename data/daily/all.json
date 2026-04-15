@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 14 Apr 2026 20:07:54 GMT",
+  "pubDate": "Wed, 15 Apr 2026 04:11:24 GMT",
   "items": [
     {
       "title": "forrestchang/andrej-karpathy-skills",
@@ -10,9 +10,9 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "32,308",
-      "forks": "2,644",
-      "addStars": "9,230",
+      "stars": "35,214",
+      "forks": "2,888",
+      "addStars": "9,263",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "55,416",
-      "forks": "4,446",
-      "addStars": "2,979",
+      "stars": "56,122",
+      "forks": "4,508",
+      "addStars": "2,997",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "The open-source voice synthesis studio",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,175",
-      "forks": "2,020",
-      "addStars": "1,165",
+      "stars": "17,507",
+      "forks": "2,045",
+      "addStars": "1,162",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,377",
-      "forks": "1,453",
-      "addStars": "769",
+      "stars": "11,807",
+      "forks": "1,485",
+      "addStars": "820",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6551176?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "108,280",
-      "forks": "6,852",
-      "addStars": "1,672",
+      "stars": "108,687",
+      "forks": "6,889",
+      "addStars": "1,675",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "152,062",
-      "forks": "13,187",
-      "addStars": "1,928",
+      "stars": "152,642",
+      "forks": "13,238",
+      "addStars": "1,919",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "66,264",
-      "forks": "7,577",
-      "addStars": "390",
+      "stars": "66,443",
+      "forks": "7,588",
+      "addStars": "472",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3440094?s=40&v=4",
@@ -259,8 +259,8 @@
       "description": "An AI Hedge Fund Team",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "54,005",
-      "forks": "9,360",
+      "stars": "54,322",
+      "forks": "9,421",
       "addStars": "1,007",
       "contributors": [
         {
@@ -296,9 +296,9 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,726",
-      "forks": "3,302",
-      "addStars": "965",
+      "stars": "17,884",
+      "forks": "3,318",
+      "addStars": "963",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "83,832",
-      "forks": "11,288",
-      "addStars": "8,282",
+      "stars": "85,581",
+      "forks": "11,595",
+      "addStars": "8,301",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
@@ -370,9 +370,9 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "40,150",
-      "forks": "4,441",
-      "addStars": "922",
+      "stars": "40,370",
+      "forks": "4,449",
+      "addStars": "931",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
@@ -407,9 +407,9 @@
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "43,539",
-      "forks": "4,161",
-      "addStars": "2,569",
+      "stars": "44,094",
+      "forks": "4,222",
+      "addStars": "2,583",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11731897?s=40&v=4",

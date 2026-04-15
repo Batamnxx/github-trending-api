@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Monthly Trending",
   "description": "Monthly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 15 Apr 2026 04:11:24 GMT",
+  "pubDate": "Wed, 15 Apr 2026 08:47:00 GMT",
   "items": [
     {
       "title": "leanprover-community/mathlib4",
@@ -10,7 +10,7 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "3,164",
+      "stars": "3,166",
       "forks": "1,228",
       "addStars": "167",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "7,819",
+      "stars": "7,821",
       "forks": "819",
       "addStars": "299",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "480",
+      "stars": "481",
       "forks": "120",
       "addStars": "54",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "198",
+      "stars": "199",
       "forks": "44",
       "addStars": "8",
       "contributors": [

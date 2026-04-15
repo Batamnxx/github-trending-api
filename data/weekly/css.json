@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Weekly Trending",
   "description": "Weekly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 15 Apr 2026 04:11:24 GMT",
+  "pubDate": "Wed, 15 Apr 2026 08:47:00 GMT",
   "items": [
     {
       "title": "karpathy/karpathy.github.io",
@@ -10,8 +10,8 @@
       "description": "my blog",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,233",
-      "forks": "277",
+      "stars": "1,239",
+      "forks": "278",
       "addStars": "121",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "11,167",
-      "forks": "3,050",
+      "stars": "11,168",
+      "forks": "3,051",
       "addStars": "36",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A sample Spring-based application",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "9,113",
-      "forks": "28,985",
+      "stars": "9,114",
+      "forks": "29,013",
       "addStars": "21",
       "contributors": [
         {
@@ -159,7 +159,7 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "1,218",
-      "forks": "6,746",
+      "forks": "6,749",
       "addStars": "11",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "🚀 A curated list of awesome resources for product/program managers to learn and grow.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "2,096",
+      "stars": "2,097",
       "forks": "185",
       "addStars": "25",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Personal theme for Obsidian",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "3,160",
+      "stars": "3,161",
       "forks": "208",
       "addStars": "24",
       "contributors": [
@@ -259,8 +259,8 @@
       "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "62,532",
-      "forks": "3,889",
+      "stars": "62,542",
+      "forks": "3,888",
       "addStars": "146",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "7,830",
-      "forks": "935",
+      "stars": "7,832",
+      "forks": "936",
       "addStars": "69",
       "contributors": [
         {
@@ -360,7 +360,7 @@
       "description": "A distraction-free and highly customizable theme for Obsidian.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "4,933",
+      "stars": "4,935",
       "forks": "234",
       "addStars": "47",
       "contributors": [
@@ -471,7 +471,7 @@
       "description": "Minimal CSS Framework for semantic HTML",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "16,519",
+      "stars": "16,520",
       "forks": "499",
       "addStars": "24",
       "contributors": [

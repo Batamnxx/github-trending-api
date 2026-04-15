@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 15 Apr 2026 04:11:24 GMT</pubDate>
+    <pubDate>Wed, 15 Apr 2026 08:47:00 GMT</pubDate>
     <item>
       <title>NousResearch/hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>85,582</stars>
-      <forks>11,595</forks>
+      <stars>87,009</stars>
+      <forks>11,777</forks>
       <addStars>76,339</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>15,058</stars>
-      <forks>1,223</forks>
+      <stars>15,126</stars>
+      <forks>1,226</forks>
       <addStars>13,952</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>23,699</stars>
-      <forks>2,312</forks>
+      <stars>23,740</stars>
+      <forks>2,316</forks>
       <addStars>23,194</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,581</stars>
-      <forks>3,172</forks>
+      <stars>29,607</stars>
+      <forks>3,174</forks>
       <addStars>14,719</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>29,829</stars>
-      <forks>2,026</forks>
+      <stars>29,904</stars>
+      <forks>2,033</forks>
       <addStars>21,866</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>61,580</stars>
-      <forks>7,921</forks>
+      <stars>61,658</stars>
+      <forks>7,940</forks>
       <addStars>31,482</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/jarrodwatts/claude-hud</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>19,210</stars>
-      <forks>855</forks>
+      <stars>19,285</stars>
+      <forks>860</forks>
       <addStars>14,720</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,922</stars>
-      <forks>1,793</forks>
+      <stars>21,975</stars>
+      <forks>1,797</forks>
       <addStars>17,814</addStars>
       <contributors>
         <contributor>
@@ -285,8 +285,8 @@
       <guid>https://github.com/google-ai-edge/gallery</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>21,072</stars>
-      <forks>1,997</forks>
+      <stars>21,106</stars>
+      <forks>2,002</forks>
       <addStars>5,745</addStars>
       <contributors>
         <contributor>
@@ -318,8 +318,8 @@
       <guid>https://github.com/affaan-m/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>156,331</stars>
-      <forks>24,265</forks>
+      <stars>156,628</stars>
+      <forks>24,314</forks>
       <addStars>81,407</addStars>
       <contributors>
         <contributor>
@@ -346,8 +346,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>50,510</stars>
-      <forks>9,118</forks>
+      <stars>50,569</stars>
+      <forks>9,131</forks>
       <addStars>18,642</addStars>
       <contributors>
         <contributor>
@@ -384,8 +384,8 @@
       <guid>https://github.com/langchain-ai/open-swe</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,538</stars>
-      <forks>1,067</forks>
+      <stars>9,545</stars>
+      <forks>1,068</forks>
       <addStars>4,290</addStars>
       <contributors>
         <contributor>
@@ -412,8 +412,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>152,642</stars>
-      <forks>13,238</forks>
+      <stars>153,127</stars>
+      <forks>13,292</forks>
       <addStars>70,149</addStars>
       <contributors>
         <contributor>
@@ -450,8 +450,8 @@
       <guid>https://github.com/forrestchang/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>35,215</stars>
-      <forks>2,888</forks>
+      <stars>37,490</stars>
+      <forks>3,067</forks>
       <addStars>23,210</addStars>
       <contributors>
         <contributor>
@@ -488,8 +488,8 @@
       <guid>https://github.com/shareAI-lab/learn-claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>53,416</stars>
-      <forks>8,769</forks>
+      <stars>53,582</stars>
+      <forks>8,795</forks>
       <addStars>27,017</addStars>
       <contributors>
         <contributor>
@@ -526,8 +526,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>39,566</stars>
-      <forks>4,596</forks>
+      <stars>39,610</stars>
+      <forks>4,604</forks>
       <addStars>16,017</addStars>
       <contributors>
         <contributor>
@@ -559,8 +559,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>108,687</stars>
-      <forks>6,889</forks>
+      <stars>108,978</stars>
+      <forks>6,920</forks>
       <addStars>17,711</addStars>
       <contributors>
         <contributor>

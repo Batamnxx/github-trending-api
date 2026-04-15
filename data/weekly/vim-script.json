@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Weekly Trending",
   "description": "Weekly Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 15 Apr 2026 04:11:24 GMT",
+  "pubDate": "Wed, 15 Apr 2026 08:47:00 GMT",
   "items": [
     {
       "title": "neovim/neovim",
@@ -10,8 +10,8 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "98,720",
-      "forks": "6,797",
+      "stars": "98,726",
+      "forks": "6,796",
       "addStars": "430",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "35,627",
+      "stars": "35,629",
       "forks": "1,946",
       "addStars": "25",
       "contributors": [

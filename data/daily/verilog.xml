@@ -3,7 +3,7 @@
     <title>GitHub Verilog Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Verilog Languages in GitHub</description>
-    <pubDate>Wed, 15 Apr 2026 04:11:24 GMT</pubDate>
+    <pubDate>Wed, 15 Apr 2026 08:47:00 GMT</pubDate>
     <item>
       <title>The-OpenROAD-Project/OpenROAD</title>
       <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/analogdevicesinc/hdl</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>1,899</stars>
+      <stars>1,900</stars>
       <forks>1,646</forks>
       <addStars>0</addStars>
       <contributors>
@@ -163,7 +163,7 @@
       <guid>https://github.com/YosysHQ/picorv32</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>4,094</stars>
+      <stars>4,095</stars>
       <forks>931</forks>
       <addStars>4</addStars>
       <contributors>

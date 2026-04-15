@@ -2,7 +2,7 @@
   "title": "GitHub Fluent Languages Daily Trending",
   "description": "Daily Trending of Fluent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 15 Apr 2026 04:11:24 GMT",
+  "pubDate": "Wed, 15 Apr 2026 08:47:00 GMT",
   "items": [
     {
       "title": "janeczku/calibre-web",
@@ -10,8 +10,8 @@
       "description": "📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "16,946",
-      "forks": "1,758",
+      "stars": "16,947",
+      "forks": "1,759",
       "addStars": "9",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Server app for SlimeVR ecosystem",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "1,000",
+      "stars": "999",
       "forks": "233",
       "addStars": "2",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "30,539",
-      "forks": "1,023",
+      "stars": "30,542",
+      "forks": "1,024",
       "addStars": "26",
       "contributors": [
         {

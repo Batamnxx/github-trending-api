@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 15 Apr 2026 20:05:19 GMT",
+  "pubDate": "Thu, 16 Apr 2026 04:17:30 GMT",
   "items": [
     {
       "title": "NousResearch/hermes-agent",
@@ -10,9 +10,9 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "89,123",
-      "forks": "12,173",
-      "addStars": "76,339",
+      "stars": "90,499",
+      "forks": "12,402",
+      "addStars": "81,412",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/127238744?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,808",
-      "forks": "2,319",
-      "addStars": "23,194",
+      "stars": "23,865",
+      "forks": "2,322",
+      "addStars": "23,152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/52841588?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Automate the process of making money online.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,678",
-      "forks": "3,180",
-      "addStars": "14,719",
+      "stars": "29,710",
+      "forks": "3,183",
+      "addStars": "14,848",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/78088687?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "My personal directory of skills, straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "15,320",
-      "forks": "1,245",
-      "addStars": "13,952",
+      "stars": "15,402",
+      "forks": "1,251",
+      "addStars": "14,248",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "42,035",
-      "forks": "3,418",
-      "addStars": "23,210",
+      "stars": "44,221",
+      "forks": "3,601",
+      "addStars": "32,572",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "61,779",
-      "forks": "7,959",
-      "addStars": "31,482",
+      "stars": "61,863",
+      "forks": "7,977",
+      "addStars": "31,460",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1003147?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,069",
-      "forks": "2,046",
-      "addStars": "21,866",
+      "stars": "30,178",
+      "forks": "2,057",
+      "addStars": "21,995",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70214527?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,077",
-      "forks": "1,802",
-      "addStars": "17,814",
+      "stars": "22,146",
+      "forks": "1,808",
+      "addStars": "18,023",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "21,186",
-      "forks": "2,007",
-      "addStars": "5,745",
+      "stars": "21,227",
+      "forks": "2,014",
+      "addStars": "5,881",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8752427?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "157,265",
-      "forks": "24,411",
-      "addStars": "81,407",
+      "stars": "157,674",
+      "forks": "24,501",
+      "addStars": "81,757",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -345,9 +345,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,696",
-      "forks": "9,158",
-      "addStars": "18,642",
+      "stars": "50,784",
+      "forks": "9,170",
+      "addStars": "18,792",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -382,9 +382,9 @@
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "19,388",
-      "forks": "864",
-      "addStars": "14,720",
+      "stars": "19,447",
+      "forks": "866",
+      "addStars": "14,960",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35651410?s=40&v=4",
@@ -409,9 +409,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "154,038",
-      "forks": "13,373",
-      "addStars": "70,149",
+      "stars": "154,649",
+      "forks": "13,425",
+      "addStars": "70,176",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -446,9 +446,9 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "109,385",
-      "forks": "6,953",
-      "addStars": "17,711",
+      "stars": "109,649",
+      "forks": "6,975",
+      "addStars": "18,909",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
@@ -483,9 +483,9 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,189",
-      "forks": "3,361",
-      "addStars": "6,599",
+      "stars": "18,317",
+      "forks": "3,375",
+      "addStars": "7,042",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
@@ -520,9 +520,9 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,724",
-      "forks": "4,612",
-      "addStars": "16,017",
+      "stars": "39,787",
+      "forks": "4,621",
+      "addStars": "16,228",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 16 Apr 2026 04:17:30 GMT",
+  "pubDate": "Thu, 16 Apr 2026 08:47:28 GMT",
   "items": [
     {
       "title": "NousResearch/hermes-agent",
@@ -10,8 +10,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "90,535",
-      "forks": "12,411",
+      "stars": "91,625",
+      "forks": "12,622",
       "addStars": "53,110",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,322",
-      "forks": "3,375",
+      "stars": "18,463",
+      "forks": "3,401",
       "addStars": "6,486",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "109,653",
-      "forks": "6,976",
+      "stars": "109,853",
+      "forks": "7,008",
       "addStars": "15,790",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,499",
-      "forks": "2,436",
+      "stars": "18,569",
+      "forks": "2,445",
       "addStars": "5,500",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "An AI Hedge Fund Team",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,223",
-      "forks": "9,580",
+      "stars": "55,420",
+      "forks": "9,604",
       "addStars": "4,314",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Create Reddit Videos with just✨ one command ✨",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,430",
-      "forks": "2,736",
+      "stars": "11,435",
+      "forks": "2,737",
       "addStars": "1,066",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,292",
-      "forks": "864",
+      "stars": "6,303",
+      "forks": "865",
       "addStars": "1,941",
       "contributors": [
         {
@@ -259,7 +259,7 @@
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,412",
+      "stars": "13,417",
       "forks": "2,272",
       "addStars": "800",
       "contributors": [
@@ -333,8 +333,8 @@
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,363",
-      "forks": "92",
+      "stars": "1,408",
+      "forks": "100",
       "addStars": "469",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "PersonaPlex code.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,364",
-      "forks": "1,310",
+      "stars": "9,372",
+      "forks": "1,313",
       "addStars": "1,057",
       "contributors": [
         {

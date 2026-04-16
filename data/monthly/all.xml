@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 16 Apr 2026 04:17:30 GMT</pubDate>
+    <pubDate>Thu, 16 Apr 2026 08:47:28 GMT</pubDate>
     <item>
       <title>NousResearch/hermes-agent</title>
       <link>https://github.com/NousResearch/hermes-agent</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>90,499</stars>
-      <forks>12,402</forks>
+      <stars>91,570</stars>
+      <forks>12,607</forks>
       <addStars>81,412</addStars>
       <contributors>
         <contributor>
@@ -43,14 +43,47 @@
       </contributors>
     </item>
     <item>
+      <title>Yeachan-Heo/oh-my-codex</title>
+      <link>https://github.com/Yeachan-Heo/oh-my-codex</link>
+      <description>OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.</description>
+      <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>23,379</stars>
+      <forks>2,006</forks>
+      <addStars>21,352</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54757707?s=40&amp;v=4</avatar>
+          <name>Yeachan-Heo</name>
+          <url>https://github.com/Yeachan-Heo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/102889891?s=40&amp;v=4</avatar>
+          <name>HaD0Yun</name>
+          <url>https://github.com/HaD0Yun</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32605822?s=40&amp;v=4</avatar>
+          <name>junhoyeo</name>
+          <url>https://github.com/junhoyeo</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>Crosstalk-Solutions/project-nomad</title>
       <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
       <description>Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.</description>
       <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>23,865</stars>
-      <forks>2,322</forks>
+      <stars>23,899</stars>
+      <forks>2,325</forks>
       <addStars>23,152</addStars>
       <contributors>
         <contributor>
@@ -82,8 +115,8 @@
       <guid>https://github.com/FujiwaraChoki/MoneyPrinterV2</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,710</stars>
-      <forks>3,183</forks>
+      <stars>29,733</stars>
+      <forks>3,184</forks>
       <addStars>14,848</addStars>
       <contributors>
         <contributor>
@@ -120,8 +153,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>15,402</stars>
-      <forks>1,251</forks>
+      <stars>15,467</stars>
+      <forks>1,256</forks>
       <addStars>14,248</addStars>
       <contributors>
         <contributor>
@@ -143,8 +176,8 @@
       <guid>https://github.com/forrestchang/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>44,221</stars>
-      <forks>3,601</forks>
+      <stars>45,767</stars>
+      <forks>3,751</forks>
       <addStars>32,572</addStars>
       <contributors>
         <contributor>
@@ -181,8 +214,8 @@
       <guid>https://github.com/bytedance/deer-flow</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>61,863</stars>
-      <forks>7,977</forks>
+      <stars>61,928</stars>
+      <forks>7,984</forks>
       <addStars>31,460</addStars>
       <contributors>
         <contributor>
@@ -219,8 +252,8 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>30,178</stars>
-      <forks>2,057</forks>
+      <stars>30,267</stars>
+      <forks>2,066</forks>
       <addStars>21,995</addStars>
       <contributors>
         <contributor>
@@ -257,8 +290,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,146</stars>
-      <forks>1,808</forks>
+      <stars>22,201</stars>
+      <forks>1,814</forks>
       <addStars>18,023</addStars>
       <contributors>
         <contributor>
@@ -295,8 +328,8 @@
       <guid>https://github.com/google-ai-edge/gallery</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>21,227</stars>
-      <forks>2,014</forks>
+      <stars>21,250</stars>
+      <forks>2,015</forks>
       <addStars>5,881</addStars>
       <contributors>
         <contributor>
@@ -328,8 +361,8 @@
       <guid>https://github.com/affaan-m/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>157,674</stars>
-      <forks>24,501</forks>
+      <stars>157,933</stars>
+      <forks>24,552</forks>
       <addStars>81,757</addStars>
       <contributors>
         <contributor>
@@ -356,8 +389,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>50,784</stars>
-      <forks>9,170</forks>
+      <stars>50,843</stars>
+      <forks>9,178</forks>
       <addStars>18,792</addStars>
       <contributors>
         <contributor>
@@ -394,8 +427,8 @@
       <guid>https://github.com/jarrodwatts/claude-hud</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>19,447</stars>
-      <forks>866</forks>
+      <stars>19,521</stars>
+      <forks>870</forks>
       <addStars>14,960</addStars>
       <contributors>
         <contributor>
@@ -422,8 +455,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>154,649</stars>
-      <forks>13,425</forks>
+      <stars>155,110</stars>
+      <forks>13,473</forks>
       <addStars>70,176</addStars>
       <contributors>
         <contributor>
@@ -460,8 +493,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>109,649</stars>
-      <forks>6,975</forks>
+      <stars>109,844</stars>
+      <forks>7,007</forks>
       <addStars>18,909</addStars>
       <contributors>
         <contributor>
@@ -498,8 +531,8 @@
       <guid>https://github.com/shiyu-coder/Kronos</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>18,317</stars>
-      <forks>3,375</forks>
+      <stars>18,454</stars>
+      <forks>3,400</forks>
       <addStars>7,042</addStars>
       <contributors>
         <contributor>
@@ -536,8 +569,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>39,787</stars>
-      <forks>4,621</forks>
+      <stars>39,825</stars>
+      <forks>4,626</forks>
       <addStars>16,228</addStars>
       <contributors>
         <contributor>

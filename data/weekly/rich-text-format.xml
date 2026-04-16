@@ -3,7 +3,7 @@
     <title>GitHub Rich-text-format Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Rich-text-format Languages in GitHub</description>
-    <pubDate>Thu, 16 Apr 2026 04:17:30 GMT</pubDate>
+    <pubDate>Thu, 16 Apr 2026 08:47:28 GMT</pubDate>
     <item>
       <title>ckeditor/ckeditor4</title>
       <link>https://github.com/ckeditor/ckeditor4</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/ckeditor/ckeditor4</guid>
       <language>Rich Text Format</language>
       <languageColor>#ccc</languageColor>
-      <stars>5,813</stars>
+      <stars>5,812</stars>
       <forks>2,459</forks>
       <addStars>0</addStars>
       <contributors>
@@ -50,7 +50,7 @@
       <language>Rich Text Format</language>
       <languageColor>#ccc</languageColor>
       <stars>1,156</stars>
-      <forks>42,144</forks>
+      <forks>42,146</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/phodal/github</guid>
       <language>Rich Text Format</language>
       <languageColor>#ccc</languageColor>
-      <stars>10,939</stars>
-      <forks>1,872</forks>
+      <stars>10,940</stars>
+      <forks>1,873</forks>
       <addStars>25</addStars>
       <contributors>
         <contributor>
@@ -125,7 +125,7 @@
       <guid>https://github.com/artur-graniszewski/DLSS-Enabler</guid>
       <language>Rich Text Format</language>
       <languageColor>#ccc</languageColor>
-      <stars>1,043</stars>
+      <stars>1,046</stars>
       <forks>26</forks>
       <addStars>46</addStars>
       <contributors>

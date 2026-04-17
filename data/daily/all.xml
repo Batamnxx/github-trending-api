@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 17 Apr 2026 04:15:43 GMT</pubDate>
+    <pubDate>Fri, 17 Apr 2026 08:46:30 GMT</pubDate>
     <item>
       <title>forrestchang/andrej-karpathy-skills</title>
       <link>https://github.com/forrestchang/andrej-karpathy-skills</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/forrestchang/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>50,918</stars>
-      <forks>4,215</forks>
+      <stars>52,400</stars>
+      <forks>4,367</forks>
       <addStars>7,959</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>60,192</stars>
-      <forks>4,961</forks>
+      <stars>60,658</stars>
+      <forks>5,006</forks>
       <addStars>1,897</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/lsdefine/GenericAgent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,944</stars>
-      <forks>329</forks>
+      <stars>3,127</stars>
+      <forks>344</forks>
       <addStars>872</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/jamiepine/voicebox</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,190</stars>
-      <forks>2,212</forks>
+      <stars>19,400</stars>
+      <forks>2,235</forks>
       <addStars>880</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/vercel-labs/open-agents</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,293</stars>
-      <forks>356</forks>
+      <stars>3,408</stars>
+      <forks>366</forks>
       <addStars>738</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/google/magika</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,908</stars>
-      <forks>800</forks>
+      <stars>15,056</stars>
+      <forks>813</forks>
       <addStars>854</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/steipete/wacli</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>1,728</stars>
-      <forks>200</forks>
+      <stars>1,787</stars>
+      <forks>206</forks>
       <addStars>321</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/topoteretes/cognee</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,893</stars>
-      <forks>1,638</forks>
+      <stars>16,031</stars>
+      <forks>1,650</forks>
       <addStars>170</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/z-lab/dflash</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,658</stars>
-      <forks>113</forks>
+      <stars>1,711</stars>
+      <forks>116</forks>
       <addStars>195</addStars>
       <contributors>
         <contributor>
@@ -328,8 +328,8 @@
       <guid>https://github.com/Lordog/dive-into-llms</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>30,896</stars>
-      <forks>3,744</forks>
+      <stars>31,136</stars>
+      <forks>3,769</forks>
       <addStars>1,385</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/openai/openai-agents-python</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,348</stars>
-      <forks>3,457</forks>
+      <stars>21,479</stars>
+      <forks>3,464</forks>
       <addStars>172</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/EvoMap/evolver</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>3,298</stars>
-      <forks>350</forks>
+      <stars>3,459</stars>
+      <forks>361</forks>
       <addStars>812</addStars>
       <contributors>
         <contributor>
@@ -437,8 +437,8 @@
       <guid>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>2,351</stars>
-      <forks>257</forks>
+      <stars>2,460</stars>
+      <forks>270</forks>
       <addStars>375</addStars>
       <contributors>
         <contributor>
@@ -460,8 +460,8 @@
       <guid>https://github.com/BasedHardware/omi</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>9,226</stars>
-      <forks>1,626</forks>
+      <stars>9,405</stars>
+      <forks>1,642</forks>
       <addStars>378</addStars>
       <contributors>
         <contributor>

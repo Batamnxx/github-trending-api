@@ -3,7 +3,7 @@
     <title>GitHub Markdown Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Markdown Languages in GitHub</description>
-    <pubDate>Fri, 17 Apr 2026 04:15:43 GMT</pubDate>
+    <pubDate>Fri, 17 Apr 2026 08:46:30 GMT</pubDate>
     <item>
       <title>adr/madr</title>
       <link>https://github.com/adr/madr</link>
@@ -44,8 +44,8 @@
       <guid>https://github.com/OAI/OpenAPI-Specification</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>30,923</stars>
-      <forks>9,165</forks>
+      <stars>30,926</stars>
+      <forks>9,166</forks>
       <addStars>12</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/jaywcjlove/linux-command</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>35,861</stars>
-      <forks>6,593</forks>
+      <stars>35,863</stars>
+      <forks>6,592</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -508,8 +508,8 @@
       <guid>https://github.com/codecrafters-io/build-your-own-x</guid>
       <language>Markdown</language>
       <languageColor>#083fa1</languageColor>
-      <stars>490,920</stars>
-      <forks>46,356</forks>
+      <stars>490,981</stars>
+      <forks>46,369</forks>
       <addStars>279</addStars>
       <contributors>
         <contributor>

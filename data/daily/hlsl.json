@@ -2,7 +2,7 @@
   "title": "GitHub Hlsl Languages Daily Trending",
   "description": "Daily Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 16 Apr 2026 20:02:15 GMT",
+  "pubDate": "Fri, 17 Apr 2026 04:15:43 GMT",
   "items": [
     {
       "title": "Blinue/Magpie",
@@ -39,7 +39,7 @@
       "languageColor": "#aace60",
       "stars": "144",
       "forks": "16",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6604318?s=40&v=4",

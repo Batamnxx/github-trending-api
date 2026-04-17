@@ -2,47 +2,15 @@
   "title": "GitHub Nushell Languages Daily Trending",
   "description": "Daily Trending of Nushell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 17 Apr 2026 08:46:30 GMT",
+  "pubDate": "Fri, 17 Apr 2026 14:20:27 GMT",
   "items": [
-    {
-      "title": "mitchellh/vouch",
-      "url": "https://github.com/mitchellh/vouch",
-      "description": "A community trust management system based on explicit vouches to participate.",
-      "language": "Nushell",
-      "languageColor": "#4E9906",
-      "stars": "4,193",
-      "forks": "73",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
-          "name": "mitchellh",
-          "url": "https://github.com/mitchellh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75451918?s=40&v=4",
-          "name": "faukah",
-          "url": "https://github.com/faukah"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77130613?s=40&v=4",
-          "name": "trag1c",
-          "url": "https://github.com/trag1c"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10704423?s=40&v=4",
-          "name": "vancluever",
-          "url": "https://github.com/vancluever"
-        }
-      ]
-    },
     {
       "title": "omerxx/dotfiles",
       "url": "https://github.com/omerxx/dotfiles",
       "description": "My dotfiles synced from localhost and remote machines",
       "language": "Nushell",
       "languageColor": "#4E9906",
-      "stars": "3,166",
+      "stars": "3,168",
       "forks": "270",
       "addStars": "6",
       "contributors": [
@@ -65,6 +33,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/146256518?s=40&v=4",
           "name": "JZsmitty",
           "url": "https://github.com/JZsmitty"
+        }
+      ]
+    },
+    {
+      "title": "mitchellh/vouch",
+      "url": "https://github.com/mitchellh/vouch",
+      "description": "A community trust management system based on explicit vouches to participate.",
+      "language": "Nushell",
+      "languageColor": "#4E9906",
+      "stars": "4,195",
+      "forks": "73",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
+          "name": "mitchellh",
+          "url": "https://github.com/mitchellh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75451918?s=40&v=4",
+          "name": "faukah",
+          "url": "https://github.com/faukah"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/77130613?s=40&v=4",
+          "name": "trag1c",
+          "url": "https://github.com/trag1c"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10704423?s=40&v=4",
+          "name": "vancluever",
+          "url": "https://github.com/vancluever"
         }
       ]
     },

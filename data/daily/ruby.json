@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 17 Apr 2026 14:20:27 GMT",
+  "pubDate": "Fri, 17 Apr 2026 19:59:01 GMT",
   "items": [
     {
       "title": "kilimchoi/engineering-blogs",
@@ -10,7 +10,7 @@
       "description": "A curated list of engineering blogs",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "37,870",
+      "stars": "37,881",
       "forks": "1,989",
       "addStars": "61",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "Deploy web apps anywhere.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "14,083",
+      "stars": "14,088",
       "forks": "699",
       "addStars": "43",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "The Rails application that powers OpenStreetMap",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "2,695",
+      "stars": "2,696",
       "forks": "1,050",
       "addStars": "2",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "49,129",
+      "stars": "49,128",
       "forks": "4,245",
       "addStars": "9",
       "contributors": [
@@ -255,7 +255,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "49,841",
-      "forks": "7,432",
+      "forks": "7,431",
       "addStars": "6",
       "contributors": [
         {
@@ -276,40 +276,13 @@
       ]
     },
     {
-      "title": "antiwork/gumroad",
-      "url": "https://github.com/antiwork/gumroad",
-      "description": "Sell stuff and see what sticks",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "8,915",
-      "forks": "1,861",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106525?s=40&v=4",
-          "name": "ershad",
-          "url": "https://github.com/ershad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1077405?s=40&v=4",
-          "name": "binary-koan",
-          "url": "https://github.com/binary-koan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73281575?s=40&v=4",
-          "name": "nyomanjyotisa",
-          "url": "https://github.com/nyomanjyotisa"
-        }
-      ]
-    },
-    {
       "title": "opf/openproject",
       "url": "https://github.com/opf/openproject",
       "description": "OpenProject is the leading open source project management software.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "14,840",
-      "forks": "3,190",
+      "stars": "14,843",
+      "forks": "3,191",
       "addStars": "16",
       "contributors": [
         {
@@ -346,7 +319,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "13,417",
-      "forks": "5,121",
+      "forks": "5,120",
       "addStars": "4",
       "contributors": [
         {
@@ -382,8 +355,8 @@
       "description": "🍺 The missing package manager for macOS (or Linux)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "47,576",
-      "forks": "11,077",
+      "stars": "47,583",
+      "forks": "11,075",
       "addStars": "25",
       "contributors": [
         {
@@ -456,8 +429,8 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "11,739",
-      "forks": "1,017",
+      "stars": "11,742",
+      "forks": "1,019",
       "addStars": "8",
       "contributors": [
         {
@@ -562,8 +535,8 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "46,804",
-      "forks": "8,878",
+      "stars": "46,825",
+      "forks": "8,877",
       "addStars": "11",
       "contributors": [
         {
@@ -627,7 +600,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "21,960",
-      "forks": "11,431",
+      "forks": "11,436",
       "addStars": "3",
       "contributors": [
         {
@@ -691,7 +664,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "13,524",
-      "forks": "1,389",
+      "forks": "1,390",
       "addStars": "1",
       "contributors": [
         {

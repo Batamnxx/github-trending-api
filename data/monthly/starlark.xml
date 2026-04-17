@@ -3,7 +3,7 @@
     <title>GitHub Starlark Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Starlark Languages in GitHub</description>
-    <pubDate>Fri, 17 Apr 2026 14:20:27 GMT</pubDate>
+    <pubDate>Fri, 17 Apr 2026 19:59:01 GMT</pubDate>
     <item>
       <title>bazelbuild/bazel-central-registry</title>
       <link>https://github.com/bazelbuild/bazel-central-registry</link>
@@ -121,7 +121,7 @@
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
       <stars>347</stars>
-      <forks>166</forks>
+      <forks>167</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -660,7 +660,7 @@
       <guid>https://github.com/GoogleContainerTools/distroless</guid>
       <language>Starlark</language>
       <languageColor>#76d275</languageColor>
-      <stars>22,522</stars>
+      <stars>22,523</stars>
       <forks>1,380</forks>
       <addStars>181</addStars>
       <contributors>

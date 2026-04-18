@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 18 Apr 2026 03:50:30 GMT",
+  "pubDate": "Sat, 18 Apr 2026 08:01:21 GMT",
   "items": [
     {
       "title": "NousResearch/hermes-agent",
@@ -10,8 +10,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "97,123",
-      "forks": "13,659",
+      "stars": "97,639",
+      "forks": "13,751",
       "addStars": "88,177",
       "contributors": [
         {
@@ -25,11 +25,6 @@
           "url": "https://github.com/0xbyt4"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/770929?s=40&v=4",
-          "name": "OutThisLife",
-          "url": "https://github.com/OutThisLife"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/82637225?s=40&v=4",
           "name": "kshitijk4poor",
           "url": "https://github.com/kshitijk4poor"
@@ -38,6 +33,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52913345?s=40&v=4",
+          "name": "alt-glitch",
+          "url": "https://github.com/alt-glitch"
+        }
+      ]
+    },
+    {
+      "title": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "23,871",
+      "forks": "2,033",
+      "addStars": "21,821",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54757707?s=40&v=4",
+          "name": "Yeachan-Heo",
+          "url": "https://github.com/Yeachan-Heo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/102889891?s=40&v=4",
+          "name": "HaD0Yun",
+          "url": "https://github.com/HaD0Yun"
         }
       ]
     },
@@ -47,8 +74,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "55,083",
-      "forks": "4,673",
+      "stars": "55,679",
+      "forks": "4,726",
       "addStars": "46,419",
       "contributors": [
         {
@@ -84,8 +111,8 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,189",
-      "forks": "2,352",
+      "stars": "24,210",
+      "forks": "2,353",
       "addStars": "22,096",
       "contributors": [
         {
@@ -116,8 +143,8 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "62,353",
-      "forks": "8,053",
+      "stars": "62,404",
+      "forks": "8,058",
       "addStars": "31,324",
       "contributors": [
         {
@@ -153,8 +180,8 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,845",
-      "forks": "2,107",
+      "stars": "30,897",
+      "forks": "2,110",
       "addStars": "22,478",
       "contributors": [
         {
@@ -190,7 +217,7 @@
       "description": "Automate the process of making money online.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,919",
+      "stars": "29,943",
       "forks": "3,199",
       "addStars": "15,049",
       "contributors": [
@@ -227,8 +254,8 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "21,424",
-      "forks": "2,042",
+      "stars": "21,437",
+      "forks": "2,043",
       "addStars": "6,084",
       "contributors": [
         {
@@ -259,7 +286,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,473",
+      "stars": "22,505",
       "forks": "1,841",
       "addStars": "18,294",
       "contributors": [
@@ -296,8 +323,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "159,764",
-      "forks": "24,839",
+      "stars": "159,892",
+      "forks": "24,853",
       "addStars": "78,601",
       "contributors": [
         {
@@ -323,8 +350,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "111,316",
-      "forks": "7,151",
+      "stars": "111,493",
+      "forks": "7,163",
       "addStars": "20,572",
       "contributors": [
         {
@@ -360,8 +387,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,087",
-      "forks": "3,483",
+      "stars": "19,123",
+      "forks": "3,489",
       "addStars": "7,863",
       "contributors": [
         {
@@ -397,8 +424,8 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,589",
-      "forks": "2,891",
+      "stars": "18,634",
+      "forks": "2,896",
       "addStars": "4,891",
       "contributors": [
         {
@@ -429,8 +456,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "51,248",
-      "forks": "9,245",
+      "stars": "51,290",
+      "forks": "9,255",
       "addStars": "19,008",
       "contributors": [
         {
@@ -466,8 +493,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "40,087",
-      "forks": "4,653",
+      "stars": "40,106",
+      "forks": "4,654",
       "addStars": "16,556",
       "contributors": [
         {
@@ -498,8 +525,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,210",
-      "forks": "1,699",
+      "stars": "14,294",
+      "forks": "1,710",
       "addStars": "7,961",
       "contributors": [
         {
@@ -535,8 +562,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "157,909",
-      "forks": "13,733",
+      "stars": "158,129",
+      "forks": "13,761",
       "addStars": "67,745",
       "contributors": [
         {
@@ -572,8 +599,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,185",
-      "forks": "2,554",
+      "stars": "19,354",
+      "forks": "2,579",
       "addStars": "8,319",
       "contributors": [
         {
@@ -604,8 +631,8 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "27,430",
-      "forks": "3,648",
+      "stars": "27,453",
+      "forks": "3,650",
       "addStars": "9,610",
       "contributors": [
         {

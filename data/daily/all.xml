@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 18 Apr 2026 03:50:30 GMT</pubDate>
+    <pubDate>Sat, 18 Apr 2026 08:01:21 GMT</pubDate>
     <item>
       <title>EvoMap/evolver</title>
       <link>https://github.com/EvoMap/evolver</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/EvoMap/evolver</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,385</stars>
-      <forks>426</forks>
+      <stars>4,567</stars>
+      <forks>442</forks>
       <addStars>737</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/lsdefine/GenericAgent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,767</stars>
-      <forks>397</forks>
+      <stars>3,919</stars>
+      <forks>415</forks>
       <addStars>845</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>2,802</stars>
-      <forks>290</forks>
+      <stars>2,873</stars>
+      <forks>293</forks>
       <addStars>538</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/BasedHardware/omi</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>9,902</stars>
-      <forks>1,673</forks>
+      <stars>10,007</stars>
+      <forks>1,683</forks>
       <addStars>824</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/Lordog/dive-into-llms</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>31,607</stars>
-      <forks>3,856</forks>
+      <stars>31,718</stars>
+      <forks>3,868</forks>
       <addStars>944</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>11,854</stars>
-      <forks>1,728</forks>
+      <stars>12,016</stars>
+      <forks>1,742</forks>
       <addStars>311</addStars>
       <contributors>
         <contributor>
@@ -209,8 +209,8 @@
       <guid>https://github.com/jamiepine/voicebox</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,936</stars>
-      <forks>2,286</forks>
+      <stars>20,075</stars>
+      <forks>2,300</forks>
       <addStars>797</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/lukilabs/craft-agents-oss</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,317</stars>
-      <forks>637</forks>
+      <stars>4,336</stars>
+      <forks>641</forks>
       <addStars>110</addStars>
       <contributors>
         <contributor>
@@ -280,8 +280,8 @@
       <guid>https://github.com/Tracer-Cloud/opensre</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,508</stars>
-      <forks>172</forks>
+      <stars>1,590</stars>
+      <forks>174</forks>
       <addStars>184</addStars>
       <contributors>
         <contributor>
@@ -318,8 +318,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>157,909</stars>
-      <forks>13,733</forks>
+      <stars>158,129</stars>
+      <forks>13,761</forks>
       <addStars>1,713</addStars>
       <contributors>
         <contributor>
@@ -356,19 +356,14 @@
       <guid>https://github.com/z-lab/dflash</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,816</stars>
-      <forks>118</forks>
+      <stars>1,832</stars>
+      <forks>120</forks>
       <addStars>287</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/141193260?s=40&amp;v=4</avatar>
           <name>jianc99</name>
           <url>https://github.com/jianc99</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70629228?s=40&amp;v=4</avatar>
-          <name>shaun0927</name>
-          <url>https://github.com/shaun0927</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5782437?s=40&amp;v=4</avatar>
@@ -389,8 +384,8 @@
       <guid>https://github.com/openai/openai-agents-python</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,881</stars>
-      <forks>3,495</forks>
+      <stars>21,956</stars>
+      <forks>3,506</forks>
       <addStars>625</addStars>
       <contributors>
         <contributor>
@@ -422,8 +417,8 @@
       <guid>https://github.com/google/magika</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,532</stars>
-      <forks>861</forks>
+      <stars>15,633</stars>
+      <forks>869</forks>
       <addStars>956</addStars>
       <contributors>
         <contributor>
@@ -455,8 +450,8 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,484</stars>
-      <forks>1,783</forks>
+      <stars>9,536</stars>
+      <forks>1,784</forks>
       <addStars>227</addStars>
       <contributors>
         <contributor>
@@ -493,8 +488,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>35,903</stars>
-      <forks>2,194</forks>
+      <stars>35,975</stars>
+      <forks>2,199</forks>
       <addStars>196</addStars>
       <contributors>
         <contributor>

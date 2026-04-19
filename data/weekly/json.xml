@@ -3,7 +3,7 @@
     <title>GitHub Json Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Json Languages in GitHub</description>
-    <pubDate>Sun, 19 Apr 2026 13:59:30 GMT</pubDate>
+    <pubDate>Sun, 19 Apr 2026 19:43:24 GMT</pubDate>
     <item>
       <title>upptime/upptime</title>
       <link>https://github.com/upptime/upptime</link>
@@ -44,8 +44,8 @@
       <guid>https://github.com/mdn/browser-compat-data</guid>
       <language>JSON</language>
       <languageColor>#292929</languageColor>
-      <stars>5,639</stars>
-      <forks>2,538</forks>
+      <stars>5,640</stars>
+      <forks>2,539</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>

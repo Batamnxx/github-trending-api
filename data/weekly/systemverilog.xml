@@ -3,7 +3,7 @@
     <title>GitHub Systemverilog Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Systemverilog Languages in GitHub</description>
-    <pubDate>Sun, 19 Apr 2026 19:43:24 GMT</pubDate>
+    <pubDate>Mon, 20 Apr 2026 04:22:57 GMT</pubDate>
     <item>
       <title>adam-maj/tiny-gpu</title>
       <link>https://github.com/adam-maj/tiny-gpu</link>
@@ -12,8 +12,8 @@
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
       <stars>12,229</stars>
-      <forks>1,144</forks>
-      <addStars>66</addStars>
+      <forks>1,145</forks>
+      <addStars>60</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/64697628?s=40&amp;v=4</avatar>
@@ -46,7 +46,7 @@
       <languageColor>#DAE1C2</languageColor>
       <stars>1,850</stars>
       <forks>716</forks>
-      <addStars>13</addStars>
+      <addStars>16</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/471032?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/lowRISC/opentitan</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>3,307</stars>
+      <stars>3,308</stars>
       <forks>988</forks>
-      <addStars>19</addStars>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/104845?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/verilator/verilator</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>3,545</stars>
+      <stars>3,546</stars>
       <forks>794</forks>
-      <addStars>25</addStars>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1180685?s=40&amp;v=4</avatar>
@@ -234,9 +234,9 @@
       <guid>https://github.com/pulp-platform/axi</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>1,553</stars>
-      <forks>350</forks>
-      <addStars>11</addStars>
+      <stars>1,554</stars>
+      <forks>351</forks>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3583291?s=40&amp;v=4</avatar>

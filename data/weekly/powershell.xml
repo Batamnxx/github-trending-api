@@ -3,7 +3,7 @@
     <title>GitHub Powershell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Powershell Languages in GitHub</description>
-    <pubDate>Tue, 21 Apr 2026 14:46:12 GMT</pubDate>
+    <pubDate>Tue, 21 Apr 2026 20:06:23 GMT</pubDate>
     <item>
       <title>microsoft/hve-core</title>
       <link>https://github.com/microsoft/hve-core</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/microsoft/hve-core</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>983</stars>
+      <stars>986</stars>
       <forks>162</forks>
       <addStars>49</addStars>
       <contributors>
@@ -38,51 +38,13 @@
       </contributors>
     </item>
     <item>
-      <title>ChrisTitusTech/winutil</title>
-      <link>https://github.com/ChrisTitusTech/winutil</link>
-      <description>Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates</description>
-      <guid>https://github.com/ChrisTitusTech/winutil</guid>
-      <language>PowerShell</language>
-      <languageColor>#012456</languageColor>
-      <stars>52,434</stars>
-      <forks>2,871</forks>
-      <addStars>638</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7896101?s=40&amp;v=4</avatar>
-          <name>ChrisTitusTech</name>
-          <url>https://github.com/ChrisTitusTech</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/121827219?s=40&amp;v=4</avatar>
-          <name>MyDrift-user</name>
-          <url>https://github.com/MyDrift-user</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70659536?s=40&amp;v=4</avatar>
-          <name>og-mrk</name>
-          <url>https://github.com/og-mrk</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47688561?s=40&amp;v=4</avatar>
-          <name>Marterich</name>
-          <url>https://github.com/Marterich</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/101426328?s=40&amp;v=4</avatar>
-          <name>CodingWonders</name>
-          <url>https://github.com/CodingWonders</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>Orange-Cyberdefense/GOAD</title>
       <link>https://github.com/Orange-Cyberdefense/GOAD</link>
       <description>game of active directory</description>
       <guid>https://github.com/Orange-Cyberdefense/GOAD</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>7,726</stars>
+      <stars>7,727</stars>
       <forks>1,062</forks>
       <addStars>36</addStars>
       <contributors>
@@ -153,7 +115,7 @@
       <guid>https://github.com/psmux/psmux</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>1,459</stars>
+      <stars>1,463</stars>
       <forks>97</forks>
       <addStars>215</addStars>
       <contributors>
@@ -192,7 +154,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>284</stars>
-      <forks>6,570</forks>
+      <forks>6,572</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -229,7 +191,7 @@
       <guid>https://github.com/actions/runner-images</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>12,668</stars>
+      <stars>12,667</stars>
       <forks>3,725</forks>
       <addStars>25</addStars>
       <contributors>
@@ -257,7 +219,7 @@
       <guid>https://github.com/Raphire/Win11Debloat</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>45,027</stars>
+      <stars>45,041</stars>
       <forks>1,832</forks>
       <addStars>575</addStars>
       <contributors>
@@ -295,8 +257,8 @@
       <guid>https://github.com/zoicware/RemoveWindowsAI</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>11,397</stars>
-      <forks>383</forks>
+      <stars>11,400</stars>
+      <forks>384</forks>
       <addStars>94</addStars>
       <contributors>
         <contributor>
@@ -328,7 +290,7 @@
       <guid>https://github.com/dotnet/core</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>21,942</stars>
+      <stars>21,943</stars>
       <forks>4,951</forks>
       <addStars>11</addStars>
       <contributors>
@@ -366,7 +328,7 @@
       <guid>https://github.com/ntdevlabs/tiny11builder</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>18,478</stars>
+      <stars>18,481</stars>
       <forks>1,427</forks>
       <addStars>83</addStars>
       <contributors>

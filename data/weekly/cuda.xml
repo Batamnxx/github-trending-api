@@ -3,7 +3,7 @@
     <title>GitHub Cuda Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Tue, 21 Apr 2026 14:46:12 GMT</pubDate>
+    <pubDate>Tue, 21 Apr 2026 20:06:23 GMT</pubDate>
     <item>
       <title>deepseek-ai/DeepGEMM</title>
       <link>https://github.com/deepseek-ai/DeepGEMM</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/deepseek-ai/DeepGEMM</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>6,918</stars>
+      <stars>6,920</stars>
       <forks>910</forks>
       <addStars>507</addStars>
       <contributors>
@@ -125,8 +125,8 @@
       <guid>https://github.com/karpathy/llm.c</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>29,647</stars>
-      <forks>3,542</forks>
+      <stars>29,648</stars>
+      <forks>3,544</forks>
       <addStars>90</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>2,936</stars>
+      <stars>2,937</stars>
       <forks>270</forks>
       <addStars>20</addStars>
       <contributors>
@@ -376,7 +376,7 @@
       <guid>https://github.com/NVIDIA/cuopt</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>823</stars>
+      <stars>824</stars>
       <forks>161</forks>
       <addStars>10</addStars>
       <contributors>
@@ -452,7 +452,7 @@
       <guid>https://github.com/HazyResearch/ThunderKittens</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>3,323</stars>
+      <stars>3,324</stars>
       <forks>277</forks>
       <addStars>12</addStars>
       <contributors>

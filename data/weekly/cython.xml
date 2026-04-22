@@ -3,7 +3,7 @@
     <title>GitHub Cython Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Cython Languages in GitHub</description>
-    <pubDate>Wed, 22 Apr 2026 04:10:45 GMT</pubDate>
+    <pubDate>Wed, 22 Apr 2026 08:50:38 GMT</pubDate>
     <item>
       <title>TA-Lib/ta-lib-python</title>
       <link>https://github.com/TA-Lib/ta-lib-python</link>
@@ -88,7 +88,7 @@
       <language>Cython</language>
       <languageColor>#fedf5b</languageColor>
       <stars>11,762</stars>
-      <forks>604</forks>
+      <forks>605</forks>
       <addStars>22</addStars>
       <contributors>
         <contributor>

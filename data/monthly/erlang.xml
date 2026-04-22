@@ -3,7 +3,7 @@
     <title>GitHub Erlang Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Erlang Languages in GitHub</description>
-    <pubDate>Wed, 22 Apr 2026 04:10:45 GMT</pubDate>
+    <pubDate>Wed, 22 Apr 2026 08:50:38 GMT</pubDate>
     <item>
       <title>emqx/emqx</title>
       <link>https://github.com/emqx/emqx</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/emqx/emqx</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>16,175</stars>
-      <forks>2,485</forks>
+      <stars>16,176</stars>
+      <forks>2,486</forks>
       <addStars>144</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/ninenines/cowboy</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>7,485</stars>
+      <stars>7,487</stars>
       <forks>1,168</forks>
       <addStars>9</addStars>
       <contributors>

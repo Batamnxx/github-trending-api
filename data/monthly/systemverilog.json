@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Monthly Trending",
   "description": "Monthly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 22 Apr 2026 04:10:45 GMT",
+  "pubDate": "Wed, 22 Apr 2026 08:50:38 GMT",
   "items": [
     {
       "title": "lowRISC/opentitan",
@@ -10,8 +10,8 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,315",
-      "forks": "988",
+      "stars": "3,316",
+      "forks": "990",
       "addStars": "71",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "1,218",
+      "stars": "1,219",
       "forks": "525",
       "addStars": "23",
       "contributors": [

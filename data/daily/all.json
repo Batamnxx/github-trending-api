@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 22 Apr 2026 14:45:53 GMT",
+  "pubDate": "Wed, 22 Apr 2026 20:07:44 GMT",
   "items": [
     {
       "title": "zilliztech/claude-context",
@@ -10,8 +10,8 @@
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,193",
-      "forks": "600",
+      "stars": "7,381",
+      "forks": "615",
       "addStars": "873",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,724",
-      "forks": "1,667",
+      "stars": "12,932",
+      "forks": "1,697",
       "addStars": "1,737",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,215",
-      "forks": "8,264",
+      "stars": "51,422",
+      "forks": "8,286",
       "addStars": "449",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,436",
-      "forks": "2,583",
+      "stars": "25,538",
+      "forks": "2,590",
       "addStars": "160",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "39,310",
-      "forks": "4,336",
+      "stars": "39,434",
+      "forks": "4,352",
       "addStars": "346",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,953",
-      "forks": "1,977",
+      "stars": "12,081",
+      "forks": "1,988",
       "addStars": "609",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,229",
-      "forks": "6,541",
+      "stars": "49,311",
+      "forks": "6,550",
       "addStars": "551",
       "contributors": [
         {
@@ -264,8 +264,8 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,351",
-      "forks": "2,039",
+      "stars": "17,463",
+      "forks": "2,053",
       "addStars": "770",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "54,262",
-      "forks": "23,632",
+      "stars": "54,364",
+      "forks": "23,643",
       "addStars": "932",
       "contributors": [
         {
@@ -333,8 +333,8 @@
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,296",
-      "forks": "862",
+      "stars": "5,460",
+      "forks": "879",
       "addStars": "237",
       "contributors": [
         {
@@ -370,9 +370,9 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,192",
-      "forks": "6,678",
-      "addStars": "509",
+      "stars": "59,479",
+      "forks": "6,701",
+      "addStars": "720",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25708027?s=40&v=4",
@@ -407,8 +407,8 @@
       "description": "The open agent skills tool - npx skills",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,249",
-      "forks": "1,259",
+      "stars": "15,383",
+      "forks": "1,273",
       "addStars": "317",
       "contributors": [
         {

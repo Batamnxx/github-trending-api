@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Javascript Languages in GitHub</description>
-    <pubDate>Thu, 23 Apr 2026 15:12:09 GMT</pubDate>
+    <pubDate>Thu, 23 Apr 2026 20:08:18 GMT</pubDate>
     <item>
       <title>EvoMap/evolver</title>
       <link>https://github.com/EvoMap/evolver</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/EvoMap/evolver</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>6,648</stars>
-      <forks>654</forks>
+      <stars>6,669</stars>
+      <forks>655</forks>
       <addStars>4,364</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/Anil-matcha/Open-Generative-AI</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>6,582</stars>
-      <forks>1,304</forks>
+      <stars>6,771</stars>
+      <forks>1,324</forks>
       <addStars>1,472</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/coreyhaines31/marketingskills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>23,410</stars>
-      <forks>3,764</forks>
+      <stars>23,642</stars>
+      <forks>3,779</forks>
       <addStars>1,735</addStars>
       <contributors>
         <contributor>
@@ -125,7 +125,7 @@
       <guid>https://github.com/HeyPuter/puter</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>40,603</stars>
+      <stars>40,613</stars>
       <forks>3,666</forks>
       <addStars>294</addStars>
       <contributors>
@@ -163,7 +163,7 @@
       <guid>https://github.com/aandrew-me/ytDownloader</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>9,387</stars>
+      <stars>9,390</stars>
       <forks>828</forks>
       <addStars>291</addStars>
       <contributors>
@@ -201,7 +201,7 @@
       <guid>https://github.com/microsoft/power-platform-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>201</stars>
+      <stars>202</stars>
       <forks>34</forks>
       <addStars>42</addStars>
       <contributors>
@@ -225,11 +225,6 @@
           <name>lesaltzm</name>
           <url>https://github.com/lesaltzm</url>
         </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25564713?s=40&amp;v=4</avatar>
-          <name>shivanichander</name>
-          <url>https://github.com/shivanichander</url>
-        </contributor>
       </contributors>
     </item>
     <item>
@@ -239,7 +234,7 @@
       <guid>https://github.com/mrdoob/three.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>112,134</stars>
+      <stars>112,141</stars>
       <forks>36,336</forks>
       <addStars>216</addStars>
       <contributors>
@@ -277,7 +272,7 @@
       <guid>https://github.com/juliangarnier/anime</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>67,315</stars>
+      <stars>67,320</stars>
       <forks>4,508</forks>
       <addStars>193</addStars>
       <contributors>
@@ -315,7 +310,7 @@
       <guid>https://github.com/decolua/9router</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>2,960</stars>
+      <stars>2,973</stars>
       <forks>714</forks>
       <addStars>404</addStars>
       <contributors>
@@ -353,8 +348,8 @@
       <guid>https://github.com/jo-inc/camofox-browser</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>2,946</stars>
-      <forks>292</forks>
+      <stars>2,949</stars>
+      <forks>293</forks>
       <addStars>372</addStars>
       <contributors>
         <contributor>
@@ -391,8 +386,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>21,499</stars>
-      <forks>1,032</forks>
+      <stars>21,538</stars>
+      <forks>1,036</forks>
       <addStars>1,967</addStars>
       <contributors>
         <contributor>
@@ -429,7 +424,7 @@
       <guid>https://github.com/plankanban/planka</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>11,897</stars>
+      <stars>11,896</stars>
       <forks>1,251</forks>
       <addStars>67</addStars>
       <contributors>
@@ -462,7 +457,7 @@
       <guid>https://github.com/badlogic/pi-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,335</stars>
+      <stars>1,338</stars>
       <forks>142</forks>
       <addStars>104</addStars>
       <contributors>

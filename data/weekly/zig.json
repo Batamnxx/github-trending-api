@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 23 Apr 2026 04:15:24 GMT",
+  "pubDate": "Thu, 23 Apr 2026 08:55:32 GMT",
   "items": [
     {
       "title": "zigtools/zls",
@@ -11,7 +11,7 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": "4,749",
-      "forks": "430",
+      "forks": "429",
       "addStars": "52",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "42,847",
+      "stars": "42,848",
       "forks": "3,070",
       "addStars": "35",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "89,280",
-      "forks": "4,365",
+      "stars": "89,281",
+      "forks": "4,366",
       "addStars": "211",
       "contributors": [
         {
@@ -104,9 +104,9 @@
           "url": "https://github.com/nektro"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/117481402?s=40&v=4",
-          "name": "robobun",
-          "url": "https://github.com/robobun"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -153,7 +153,7 @@
       "description": "A CLI tool to switch and manage Codex accounts",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,191",
+      "stars": "1,196",
       "forks": "77",
       "addStars": "169",
       "contributors": [
@@ -370,7 +370,7 @@
       "description": "Immediate Zig GUI for Apps and Games",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,342",
+      "stars": "1,343",
       "forks": "118",
       "addStars": "22",
       "contributors": [
@@ -518,7 +518,7 @@
       "description": "An open, technical and introductory book for the Zig programming language 📚📖",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,501",
+      "stars": "2,502",
       "forks": "152",
       "addStars": "18",
       "contributors": [
@@ -555,8 +555,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "51,444",
-      "forks": "2,410",
+      "stars": "51,462",
+      "forks": "2,413",
       "addStars": "633",
       "contributors": [
         {
@@ -592,7 +592,7 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,864",
+      "stars": "1,865",
       "forks": "97",
       "addStars": "21",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Monthly Trending",
   "description": "Monthly Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 24 Apr 2026 14:44:31 GMT",
+  "pubDate": "Fri, 24 Apr 2026 19:54:23 GMT",
   "items": [
     {
       "title": "SaschaWillems/Vulkan",
@@ -10,7 +10,7 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "11,906",
+      "stars": "11,907",
       "forks": "2,203",
       "addStars": "90",
       "contributors": [

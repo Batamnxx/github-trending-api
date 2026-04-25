@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Daily Trending",
   "description": "Daily Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 25 Apr 2026 03:54:32 GMT",
+  "pubDate": "Sat, 25 Apr 2026 08:07:17 GMT",
   "items": [
     {
       "title": "delta-io/delta",
@@ -84,7 +84,7 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "43,187",
+      "stars": "43,189",
       "forks": "29,164",
       "addStars": "16",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "18,107",
+      "stars": "18,108",
       "forks": "2,638",
       "addStars": "6",
       "contributors": [

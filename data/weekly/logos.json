@@ -2,7 +2,7 @@
   "title": "GitHub Logos Languages Weekly Trending",
   "description": "Weekly Trending of Logos Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 24 Apr 2026 19:54:23 GMT",
+  "pubDate": "Sat, 25 Apr 2026 03:54:32 GMT",
   "items": [
     {
       "title": "dayanch96/YTLite",
@@ -10,9 +10,9 @@
       "description": "A flexible enhancer for YouTube on iOS",
       "language": "Logos",
       "languageColor": "#ccc",
-      "stars": "4,929",
-      "forks": "20,259",
-      "addStars": "351",
+      "stars": "4,933",
+      "forks": "20,274",
+      "addStars": "354",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38832025?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "⚠️ DEPRECATED — rewrite in progress. For now please use YTLite with tweaks by @dayanch96 instead.",
       "language": "Logos",
       "languageColor": "#ccc",
-      "stars": "3,795",
-      "forks": "6,652",
-      "addStars": "31",
+      "stars": "3,796",
+      "forks": "6,650",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",

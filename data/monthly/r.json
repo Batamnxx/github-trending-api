@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Monthly Trending",
   "description": "Monthly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 26 Apr 2026 14:04:03 GMT",
+  "pubDate": "Sun, 26 Apr 2026 19:49:32 GMT",
   "items": [
     {
       "title": "posit-dev/skills",
@@ -84,7 +84,7 @@
       "description": "An implementation of the Grammar of Graphics in R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "6,917",
+      "stars": "6,918",
       "forks": "2,136",
       "addStars": "32",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "R for data science: a book",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "5,033",
+      "stars": "5,034",
       "forks": "4,412",
       "addStars": "21",
       "contributors": [

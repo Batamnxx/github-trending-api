@@ -3,7 +3,7 @@
     <title>GitHub R Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of R Languages in GitHub</description>
-    <pubDate>Sun, 26 Apr 2026 14:04:03 GMT</pubDate>
+    <pubDate>Sun, 26 Apr 2026 19:49:32 GMT</pubDate>
     <item>
       <title>JGCRI/gcam-core</title>
       <link>https://github.com/JGCRI/gcam-core</link>
@@ -50,7 +50,7 @@
       <language>R</language>
       <languageColor>#198CE7</languageColor>
       <stars>888</stars>
-      <forks>143,677</forks>
+      <forks>143,678</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -72,7 +72,7 @@
       <guid>https://github.com/hadley/r4ds</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>5,033</stars>
+      <stars>5,034</stars>
       <forks>4,412</forks>
       <addStars>5</addStars>
       <contributors>

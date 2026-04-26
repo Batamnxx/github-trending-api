@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Monthly Trending",
   "description": "Monthly Trending of Julia Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 26 Apr 2026 14:04:03 GMT",
+  "pubDate": "Sun, 26 Apr 2026 19:49:32 GMT",
   "items": [
     {
       "title": "JuliaRegistries/General",
@@ -84,7 +84,7 @@
       "description": "Graph Neural Networks in Julia",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "300",
+      "stars": "301",
       "forks": "67",
       "addStars": "5",
       "contributors": [

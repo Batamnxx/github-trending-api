@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 26 Apr 2026 14:04:03 GMT",
+  "pubDate": "Sun, 26 Apr 2026 19:49:32 GMT",
   "items": [
     {
       "title": "forrestchang/andrej-karpathy-skills",
@@ -10,8 +10,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "89,536",
-      "forks": "8,535",
+      "stars": "90,278",
+      "forks": "8,619",
       "addStars": "78,581",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "117,740",
-      "forks": "17,439",
+      "stars": "118,120",
+      "forks": "17,522",
       "addStars": "103,696",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,065",
-      "forks": "3,557",
+      "stars": "29,119",
+      "forks": "3,563",
       "addStars": "27,798",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,562",
-      "forks": "3,814",
+      "stars": "21,604",
+      "forks": "3,819",
       "addStars": "10,218",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,864",
-      "forks": "2,214",
+      "stars": "32,913",
+      "forks": "2,216",
       "addStars": "24,060",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,253",
-      "forks": "2,077",
+      "stars": "15,421",
+      "forks": "2,094",
       "addStars": "11,821",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,938",
-      "forks": "2,936",
+      "stars": "22,002",
+      "forks": "2,938",
       "addStars": "10,894",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,776",
-      "forks": "3,052",
+      "stars": "19,801",
+      "forks": "3,057",
       "addStars": "5,998",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "22,075",
-      "forks": "2,143",
+      "stars": "22,089",
+      "forks": "2,144",
       "addStars": "6,648",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "117,245",
-      "forks": "7,693",
+      "stars": "117,363",
+      "forks": "7,698",
       "addStars": "25,114",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,523",
-      "forks": "1,846",
+      "stars": "13,196",
+      "forks": "1,913",
       "addStars": "9,506",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,662",
-      "forks": "4,794",
+      "stars": "41,908",
+      "forks": "4,808",
       "addStars": "17,315",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,351",
-      "forks": "430",
+      "stars": "4,364",
+      "forks": "434",
       "addStars": "3,337",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,296",
-      "forks": "825",
+      "stars": "7,351",
+      "forks": "832",
       "addStars": "6,306",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,243",
-      "forks": "918",
+      "stars": "8,298",
+      "forks": "922",
       "addStars": "5,105",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "35,865",
-      "forks": "2,172",
+      "stars": "36,028",
+      "forks": "2,184",
       "addStars": "22,183",
       "contributors": [
         {
@@ -567,8 +567,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,616",
-      "forks": "1,816",
+      "stars": "18,640",
+      "forks": "1,819",
       "addStars": "8,492",
       "contributors": [
         {

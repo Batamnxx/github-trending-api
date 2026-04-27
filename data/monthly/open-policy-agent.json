@@ -2,7 +2,7 @@
   "title": "GitHub Open-policy-agent Languages Monthly Trending",
   "description": "Monthly Trending of Open-policy-agent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 27 Apr 2026 04:33:54 GMT",
+  "pubDate": "Mon, 27 Apr 2026 09:23:09 GMT",
   "items": [
     {
       "title": "Checkmarx/kics",
@@ -80,7 +80,7 @@
       "language": "Open Policy Agent",
       "languageColor": "#7d9199",
       "stars": "565",
-      "forks": "349",
+      "forks": "350",
       "addStars": "22",
       "contributors": [
         {

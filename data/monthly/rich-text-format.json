@@ -2,7 +2,7 @@
   "title": "GitHub Rich-text-format Languages Monthly Trending",
   "description": "Monthly Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 27 Apr 2026 09:23:09 GMT",
+  "pubDate": "Mon, 27 Apr 2026 15:07:08 GMT",
   "items": [
     {
       "title": "artur-graniszewski/DLSS-Enabler",
@@ -27,50 +27,13 @@
       ]
     },
     {
-      "title": "ckeditor/ckeditor5",
-      "url": "https://github.com/ckeditor/ckeditor5",
-      "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": "10,408",
-      "forks": "3,737",
-      "addStars": "31",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/156149?s=40&v=4",
-          "name": "Reinmar",
-          "url": "https://github.com/Reinmar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/247363?s=40&v=4",
-          "name": "jodator",
-          "url": "https://github.com/jodator"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68123541?s=40&v=4",
-          "name": "godai78",
-          "url": "https://github.com/godai78"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1232187?s=40&v=4",
-          "name": "niegowski",
-          "url": "https://github.com/niegowski"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2270764?s=40&v=4",
-          "name": "pomek",
-          "url": "https://github.com/pomek"
-        }
-      ]
-    },
-    {
       "title": "mathoudebine/turing-smart-screen-python",
       "url": "https://github.com/mathoudebine/turing-smart-screen-python",
       "description": "Unofficial Python system monitor and library for small IPS USB-C displays like Turing Smart Screen / TURZX",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
       "stars": "2,036",
-      "forks": "341",
+      "forks": "342",
       "addStars": "34",
       "contributors": [
         {
@@ -133,51 +96,14 @@
       ]
     },
     {
-      "title": "openenglishbible/Open-English-Bible",
-      "url": "https://github.com/openenglishbible/Open-English-Bible",
-      "description": "A CC0 licenced modern English translation of the Bible",
+      "title": "ckeditor/ckeditor5",
+      "url": "https://github.com/ckeditor/ckeditor5",
+      "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": "146",
-      "forks": "37",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/228597?s=40&v=4",
-          "name": "openenglishbible",
-          "url": "https://github.com/openenglishbible"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30102?s=40&v=4",
-          "name": "russellallen",
-          "url": "https://github.com/russellallen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/303383?s=40&v=4",
-          "name": "countingpine",
-          "url": "https://github.com/countingpine"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/141784185?s=40&v=4",
-          "name": "axylf",
-          "url": "https://github.com/axylf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12452738?s=40&v=4",
-          "name": "earboxer",
-          "url": "https://github.com/earboxer"
-        }
-      ]
-    },
-    {
-      "title": "ckeditor/ckeditor4",
-      "url": "https://github.com/ckeditor/ckeditor4",
-      "description": "The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": "5,813",
-      "forks": "2,456",
-      "addStars": "4",
+      "stars": "10,408",
+      "forks": "3,737",
+      "addStars": "31",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/156149?s=40&v=4",
@@ -185,24 +111,24 @@
           "url": "https://github.com/Reinmar"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1078728?s=40&v=4",
-          "name": "Comandeer",
-          "url": "https://github.com/Comandeer"
+          "avatar": "https://avatars.githubusercontent.com/u/247363?s=40&v=4",
+          "name": "jodator",
+          "url": "https://github.com/jodator"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5353898?s=40&v=4",
-          "name": "mlewand",
-          "url": "https://github.com/mlewand"
+          "avatar": "https://avatars.githubusercontent.com/u/68123541?s=40&v=4",
+          "name": "godai78",
+          "url": "https://github.com/godai78"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10279586?s=40&v=4",
-          "name": "jacekbogdanski",
-          "url": "https://github.com/jacekbogdanski"
+          "avatar": "https://avatars.githubusercontent.com/u/1232187?s=40&v=4",
+          "name": "niegowski",
+          "url": "https://github.com/niegowski"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1099479?s=40&v=4",
-          "name": "oleq",
-          "url": "https://github.com/oleq"
+          "avatar": "https://avatars.githubusercontent.com/u/2270764?s=40&v=4",
+          "name": "pomek",
+          "url": "https://github.com/pomek"
         }
       ]
     },
@@ -213,7 +139,7 @@
       "language": "Rich Text Format",
       "languageColor": "#ccc",
       "stars": "9,740",
-      "forks": "1,124",
+      "forks": "1,123",
       "addStars": "44",
       "contributors": [
         {
@@ -240,6 +166,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/251087?s=40&v=4",
           "name": "adamwulf",
           "url": "https://github.com/adamwulf"
+        }
+      ]
+    },
+    {
+      "title": "ckeditor/ckeditor4",
+      "url": "https://github.com/ckeditor/ckeditor4",
+      "description": "The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.",
+      "language": "Rich Text Format",
+      "languageColor": "#ccc",
+      "stars": "5,813",
+      "forks": "2,455",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/156149?s=40&v=4",
+          "name": "Reinmar",
+          "url": "https://github.com/Reinmar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1078728?s=40&v=4",
+          "name": "Comandeer",
+          "url": "https://github.com/Comandeer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5353898?s=40&v=4",
+          "name": "mlewand",
+          "url": "https://github.com/mlewand"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10279586?s=40&v=4",
+          "name": "jacekbogdanski",
+          "url": "https://github.com/jacekbogdanski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1099479?s=40&v=4",
+          "name": "oleq",
+          "url": "https://github.com/oleq"
         }
       ]
     }

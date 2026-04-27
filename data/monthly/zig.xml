@@ -3,7 +3,7 @@
     <title>GitHub Zig Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Zig Languages in GitHub</description>
-    <pubDate>Mon, 27 Apr 2026 09:23:09 GMT</pubDate>
+    <pubDate>Mon, 27 Apr 2026 15:07:08 GMT</pubDate>
     <item>
       <title>oven-sh/bun</title>
       <link>https://github.com/oven-sh/bun</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>89,372</stars>
-      <forks>4,366</forks>
+      <stars>89,376</stars>
+      <forks>4,368</forks>
       <addStars>1,196</addStars>
       <contributors>
         <contributor>
@@ -44,7 +44,7 @@
       <guid>https://github.com/zigtools/zls</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>4,759</stars>
+      <stars>4,760</stars>
       <forks>430</forks>
       <addStars>123</addStars>
       <contributors>
@@ -82,7 +82,7 @@
       <guid>https://github.com/Loongphy/codex-auth</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>1,283</stars>
+      <stars>1,289</stars>
       <forks>80</forks>
       <addStars>800</addStars>
       <contributors>
@@ -110,6 +110,44 @@
           <avatar>https://avatars.githubusercontent.com/u/73028156?s=40&amp;v=4</avatar>
           <name>notcheesex</name>
           <url>https://github.com/notcheesex</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>tigerbeetle/tigerbeetle</title>
+      <link>https://github.com/tigerbeetle/tigerbeetle</link>
+      <description>The financial transactions database designed for mission critical safety and performance.</description>
+      <guid>https://github.com/tigerbeetle/tigerbeetle</guid>
+      <language>Zig</language>
+      <languageColor>#ec915c</languageColor>
+      <stars>15,713</stars>
+      <forks>805</forks>
+      <addStars>258</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/461112?s=40&amp;v=4</avatar>
+          <name>sentientwaffle</name>
+          <url>https://github.com/sentientwaffle</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1711539?s=40&amp;v=4</avatar>
+          <name>matklad</name>
+          <url>https://github.com/matklad</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5728002?s=40&amp;v=4</avatar>
+          <name>batiati</name>
+          <url>https://github.com/batiati</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/413206?s=40&amp;v=4</avatar>
+          <name>jorangreef</name>
+          <url>https://github.com/jorangreef</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/703017?s=40&amp;v=4</avatar>
+          <name>cb22</name>
+          <url>https://github.com/cb22</url>
         </contributor>
       </contributors>
     </item>
@@ -152,89 +190,13 @@
       </contributors>
     </item>
     <item>
-      <title>tigerbeetle/tigerbeetle</title>
-      <link>https://github.com/tigerbeetle/tigerbeetle</link>
-      <description>The financial transactions database designed for mission critical safety and performance.</description>
-      <guid>https://github.com/tigerbeetle/tigerbeetle</guid>
-      <language>Zig</language>
-      <languageColor>#ec915c</languageColor>
-      <stars>15,712</stars>
-      <forks>805</forks>
-      <addStars>258</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/461112?s=40&amp;v=4</avatar>
-          <name>sentientwaffle</name>
-          <url>https://github.com/sentientwaffle</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1711539?s=40&amp;v=4</avatar>
-          <name>matklad</name>
-          <url>https://github.com/matklad</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5728002?s=40&amp;v=4</avatar>
-          <name>batiati</name>
-          <url>https://github.com/batiati</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/413206?s=40&amp;v=4</avatar>
-          <name>jorangreef</name>
-          <url>https://github.com/jorangreef</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/703017?s=40&amp;v=4</avatar>
-          <name>cb22</name>
-          <url>https://github.com/cb22</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>riverwm/river</title>
-      <link>https://github.com/riverwm/river</link>
-      <description>[mirror] A non-monolithic Wayland compositor</description>
-      <guid>https://github.com/riverwm/river</guid>
-      <language>Zig</language>
-      <languageColor>#ec915c</languageColor>
-      <stars>4,074</stars>
-      <forks>163</forks>
-      <addStars>110</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12723818?s=40&amp;v=4</avatar>
-          <name>ifreund</name>
-          <url>https://github.com/ifreund</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/49593314?s=40&amp;v=4</avatar>
-          <name>Leon-Plickat</name>
-          <url>https://github.com/Leon-Plickat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11297405?s=40&amp;v=4</avatar>
-          <name>novakne</name>
-          <url>https://github.com/novakne</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60553448?s=40&amp;v=4</avatar>
-          <name>maringuu</name>
-          <url>https://github.com/maringuu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48184470?s=40&amp;v=4</avatar>
-          <name>pmkap</name>
-          <url>https://github.com/pmkap</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>ziglang/zig</title>
       <link>https://github.com/ziglang/zig</link>
       <description>Moved to Codeberg</description>
       <guid>https://github.com/ziglang/zig</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>42,864</stars>
+      <stars>42,865</stars>
       <forks>3,068</forks>
       <addStars>202</addStars>
       <contributors>
@@ -272,7 +234,7 @@
       <guid>https://github.com/neurosnap/zmx</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>1,384</stars>
+      <stars>1,385</stars>
       <forks>70</forks>
       <addStars>251</addStars>
       <contributors>
@@ -310,7 +272,7 @@
       <guid>https://github.com/dmtrKovalenko/odiff</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>2,972</stars>
+      <stars>2,973</stars>
       <forks>102</forks>
       <addStars>131</addStars>
       <contributors>
@@ -348,8 +310,8 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>29,468</stars>
-      <forks>1,273</forks>
+      <stars>29,483</stars>
+      <forks>1,274</forks>
       <addStars>4,625</addStars>
       <contributors>
         <contributor>
@@ -386,7 +348,7 @@
       <guid>https://github.com/tonybanters/oxwm</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>682</stars>
+      <stars>685</stars>
       <forks>49</forks>
       <addStars>125</addStars>
       <contributors>
@@ -462,7 +424,7 @@
       <guid>https://github.com/neurocyte/flow</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>1,879</stars>
+      <stars>1,880</stars>
       <forks>97</forks>
       <addStars>85</addStars>
       <contributors>
@@ -532,13 +494,51 @@
       </contributors>
     </item>
     <item>
+      <title>riverwm/river</title>
+      <link>https://github.com/riverwm/river</link>
+      <description>[mirror] A non-monolithic Wayland compositor</description>
+      <guid>https://github.com/riverwm/river</guid>
+      <language>Zig</language>
+      <languageColor>#ec915c</languageColor>
+      <stars>4,074</stars>
+      <forks>163</forks>
+      <addStars>110</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12723818?s=40&amp;v=4</avatar>
+          <name>ifreund</name>
+          <url>https://github.com/ifreund</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/49593314?s=40&amp;v=4</avatar>
+          <name>Leon-Plickat</name>
+          <url>https://github.com/Leon-Plickat</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11297405?s=40&amp;v=4</avatar>
+          <name>novakne</name>
+          <url>https://github.com/novakne</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60553448?s=40&amp;v=4</avatar>
+          <name>maringuu</name>
+          <url>https://github.com/maringuu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48184470?s=40&amp;v=4</avatar>
+          <name>pmkap</name>
+          <url>https://github.com/pmkap</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>mitchellh/libxev</title>
       <link>https://github.com/mitchellh/libxev</link>
       <description>libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.</description>
       <guid>https://github.com/mitchellh/libxev</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>3,454</stars>
+      <stars>3,455</stars>
       <forks>169</forks>
       <addStars>67</addStars>
       <contributors>
@@ -561,39 +561,6 @@
           <avatar>https://avatars.githubusercontent.com/u/35909?s=40&amp;v=4</avatar>
           <name>ianic</name>
           <url>https://github.com/ianic</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>justrach/nanobrew</title>
-      <link>https://github.com/justrach/nanobrew</link>
-      <description>The fastest macOS package manager. Written in Zig. 3ms warm installs.</description>
-      <guid>https://github.com/justrach/nanobrew</guid>
-      <language>Zig</language>
-      <languageColor>#ec915c</languageColor>
-      <stars>1,027</stars>
-      <forks>13</forks>
-      <addStars>410</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54503978?s=40&amp;v=4</avatar>
-          <name>justrach</name>
-          <url>https://github.com/justrach</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26752019?s=40&amp;v=4</avatar>
-          <name>LeonardoZan</name>
-          <url>https://github.com/LeonardoZan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40278940?s=40&amp;v=4</avatar>
-          <name>NeverVane</name>
-          <url>https://github.com/NeverVane</url>
         </contributor>
       </contributors>
     </item>
@@ -636,6 +603,44 @@
       </contributors>
     </item>
     <item>
+      <title>rockorager/libvaxis</title>
+      <link>https://github.com/rockorager/libvaxis</link>
+      <description>a modern tui library written in zig</description>
+      <guid>https://github.com/rockorager/libvaxis</guid>
+      <language>Zig</language>
+      <languageColor>#ec915c</languageColor>
+      <stars>1,753</stars>
+      <forks>127</forks>
+      <addStars>69</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/476352?s=40&amp;v=4</avatar>
+          <name>rockorager</name>
+          <url>https://github.com/rockorager</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/68087632?s=40&amp;v=4</avatar>
+          <name>00JCIV00</name>
+          <url>https://github.com/00JCIV00</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1552770?s=40&amp;v=4</avatar>
+          <name>neurocyte</name>
+          <url>https://github.com/neurocyte</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/740022?s=40&amp;v=4</avatar>
+          <name>jcollie</name>
+          <url>https://github.com/jcollie</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/220109460?s=40&amp;v=4</avatar>
+          <name>ampcode-com</name>
+          <url>https://github.com/ampcode-com</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>capy-ui/capy</title>
       <link>https://github.com/capy-ui/capy</link>
       <description>💻Build one codebase and get native UI on Windows, Linux and Web</description>
@@ -670,44 +675,6 @@
           <avatar>https://avatars.githubusercontent.com/u/20910163?s=40&amp;v=4</avatar>
           <name>allisoneer</name>
           <url>https://github.com/allisoneer</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>rockorager/libvaxis</title>
-      <link>https://github.com/rockorager/libvaxis</link>
-      <description>a modern tui library written in zig</description>
-      <guid>https://github.com/rockorager/libvaxis</guid>
-      <language>Zig</language>
-      <languageColor>#ec915c</languageColor>
-      <stars>1,751</stars>
-      <forks>127</forks>
-      <addStars>69</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/476352?s=40&amp;v=4</avatar>
-          <name>rockorager</name>
-          <url>https://github.com/rockorager</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68087632?s=40&amp;v=4</avatar>
-          <name>00JCIV00</name>
-          <url>https://github.com/00JCIV00</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1552770?s=40&amp;v=4</avatar>
-          <name>neurocyte</name>
-          <url>https://github.com/neurocyte</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/740022?s=40&amp;v=4</avatar>
-          <name>jcollie</name>
-          <url>https://github.com/jcollie</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/220109460?s=40&amp;v=4</avatar>
-          <name>ampcode-com</name>
-          <url>https://github.com/ampcode-com</url>
         </contributor>
       </contributors>
     </item>

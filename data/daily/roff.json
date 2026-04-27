@@ -2,7 +2,7 @@
   "title": "GitHub Roff Languages Daily Trending",
   "description": "Daily Trending of Roff Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 27 Apr 2026 15:07:08 GMT",
+  "pubDate": "Mon, 27 Apr 2026 20:11:45 GMT",
   "items": [
     {
       "title": "TapXWorld/ChinaTextbook",
@@ -10,8 +10,8 @@
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": "70,453",
-      "forks": "15,761",
+      "stars": "70,454",
+      "forks": "15,759",
       "addStars": "48",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "Companion repo for complete Docker course",
       "language": "Roff",
       "languageColor": "#ecdebe",
-      "stars": "3,213",
-      "forks": "2,402",
+      "stars": "3,214",
+      "forks": "2,403",
       "addStars": "2",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Monthly Trending",
   "description": "Monthly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 27 Apr 2026 15:07:08 GMT",
+  "pubDate": "Mon, 27 Apr 2026 20:11:45 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -47,7 +47,7 @@
       "description": "Aave V4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "158",
+      "stars": "159",
       "forks": "75",
       "addStars": "27",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "3,301",
+      "stars": "3,302",
       "forks": "463",
       "addStars": "24",
       "contributors": [

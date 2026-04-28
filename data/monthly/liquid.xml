@@ -3,7 +3,7 @@
     <title>GitHub Liquid Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Liquid Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 04:37:10 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 09:26:47 GMT</pubDate>
     <item>
       <title>Shopify/dawn</title>
       <link>https://github.com/Shopify/dawn</link>
@@ -12,7 +12,7 @@
       <language>Liquid</language>
       <languageColor>#67b8de</languageColor>
       <stars>2,981</stars>
-      <forks>4,250</forks>
+      <forks>4,251</forks>
       <addStars>35</addStars>
       <contributors>
         <contributor>
@@ -44,7 +44,7 @@
       <guid>https://github.com/Shopify/skeleton-theme</guid>
       <language>Liquid</language>
       <languageColor>#67b8de</languageColor>
-      <stars>700</stars>
+      <stars>701</stars>
       <forks>438</forks>
       <addStars>21</addStars>
       <contributors>
@@ -82,7 +82,7 @@
       <guid>https://github.com/Shopify/horizon</guid>
       <language>Liquid</language>
       <languageColor>#67b8de</languageColor>
-      <stars>374</stars>
+      <stars>375</stars>
       <forks>261</forks>
       <addStars>10</addStars>
       <contributors>

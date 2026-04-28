@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 04:37:10 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 09:26:47 GMT</pubDate>
     <item>
       <title>ComposioHQ/awesome-codex-skills</title>
       <link>https://github.com/ComposioHQ/awesome-codex-skills</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ComposioHQ/awesome-codex-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,986</stars>
-      <forks>212</forks>
+      <stars>3,241</stars>
+      <forks>228</forks>
       <addStars>638</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/Alishahryar1/free-claude-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,424</stars>
-      <forks>2,283</forks>
+      <stars>16,752</stars>
+      <forks>2,350</forks>
       <addStars>2,949</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>25,855</stars>
-      <forks>2,596</forks>
+      <stars>25,935</stars>
+      <forks>2,599</forks>
       <addStars>154</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>43,345</stars>
-      <forks>4,907</forks>
+      <stars>43,607</stars>
+      <forks>4,924</forks>
       <addStars>757</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/Z4nzu/hackingtool</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>67,348</stars>
-      <forks>7,537</forks>
+      <stars>67,609</stars>
+      <forks>7,570</forks>
       <addStars>1,830</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,971</stars>
-      <forks>9,793</forks>
+      <stars>54,200</stars>
+      <forks>9,815</forks>
       <addStars>248</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/deepseek-ai/DeepSeek-V3</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>103,169</stars>
-      <forks>16,701</forks>
+      <stars>103,238</stars>
+      <forks>16,707</forks>
       <addStars>81</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/donnemartin/system-design-primer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>345,314</stars>
-      <forks>55,781</forks>
+      <stars>345,451</stars>
+      <forks>55,791</forks>
       <addStars>372</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>82,566</stars>
-      <forks>9,630</forks>
+      <stars>82,581</stars>
+      <forks>9,632</forks>
       <addStars>266</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/HunxByts/GhostTrack</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,861</stars>
-      <forks>1,393</forks>
+      <stars>10,004</stars>
+      <forks>1,413</forks>
       <addStars>348</addStars>
       <contributors>
         <contributor>
@@ -356,8 +356,8 @@
       <guid>https://github.com/hydropix/TranslateBooksWithLLMs</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,230</stars>
-      <forks>163</forks>
+      <stars>1,254</stars>
+      <forks>164</forks>
       <addStars>120</addStars>
       <contributors>
         <contributor>
@@ -389,8 +389,8 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,994</stars>
-      <forks>32,498</forks>
+      <stars>32,088</stars>
+      <forks>32,586</forks>
       <addStars>315</addStars>
       <contributors>
         <contributor>
@@ -422,7 +422,7 @@
       <guid>https://github.com/home-assistant/core</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>86,814</stars>
+      <stars>86,817</stars>
       <forks>37,387</forks>
       <addStars>460</addStars>
       <contributors>
@@ -460,7 +460,7 @@
       <guid>https://github.com/nikopueringer/CorridorKey</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,811</stars>
+      <stars>11,846</stars>
       <forks>713</forks>
       <addStars>186</addStars>
       <contributors>
@@ -498,7 +498,7 @@
       <guid>https://github.com/openai/openai-cs-agents-demo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,287</stars>
+      <stars>6,294</stars>
       <forks>956</forks>
       <addStars>56</addStars>
       <contributors>
@@ -536,8 +536,8 @@
       <guid>https://github.com/facebookresearch/ai4animationpy</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,586</stars>
-      <forks>193</forks>
+      <stars>1,591</stars>
+      <forks>195</forks>
       <addStars>115</addStars>
       <contributors>
         <contributor>

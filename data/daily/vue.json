@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Daily Trending",
   "description": "Daily Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "Smaug6739/Alexandrie",
@@ -10,9 +10,9 @@
       "description": "Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,569",
+      "stars": "1,571",
       "forks": "90",
-      "addStars": "91",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59796136?s=40&v=4",
@@ -44,7 +44,7 @@
       "languageColor": "#41b883",
       "stars": "3,106",
       "forks": "773",
-      "addStars": "20",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65544983?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "An Open Source YouTube app for privacy",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "20,694",
+      "stars": "20,701",
       "forks": "1,384",
-      "addStars": "11",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48293849?s=40&v=4",
@@ -111,7 +111,7 @@
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "24,857",
+      "stars": "24,860",
       "forks": "1,820",
       "addStars": "22",
       "contributors": [
@@ -150,7 +150,7 @@
       "languageColor": "#41b883",
       "stars": "1,473",
       "forks": "376",
-      "addStars": "21",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37097190?s=40&v=4",
@@ -180,7 +180,7 @@
       "description": "🤖📐专为数学建模设计的 Agent ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,814",
+      "stars": "1,815",
       "forks": "230",
       "addStars": "11",
       "contributors": [
@@ -217,8 +217,8 @@
       "description": "🎉 一个简约的第三方酷狗概念版音乐播放器",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,421",
-      "forks": "87",
+      "stars": "1,424",
+      "forks": "88",
       "addStars": "14",
       "contributors": [
         {
@@ -281,7 +281,7 @@
       "description": "Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "12,745",
+      "stars": "12,747",
       "forks": "634",
       "addStars": "8",
       "contributors": [
@@ -319,7 +319,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "3,214",
-      "forks": "5,017",
+      "forks": "5,018",
       "addStars": "1",
       "contributors": [
         {
@@ -424,7 +424,7 @@
       "description": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,569",
+      "stars": "6,570",
       "forks": "4,491",
       "addStars": "4",
       "contributors": [
@@ -493,9 +493,9 @@
       "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "9,934",
+      "stars": "9,935",
       "forks": "840",
-      "addStars": "10",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20838718?s=40&v=4",
@@ -515,9 +515,9 @@
       "description": "📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "3,149",
+      "stars": "3,152",
       "forks": "471",
-      "addStars": "6",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3392129?s=40&v=4",
@@ -549,7 +549,7 @@
       "languageColor": "#41b883",
       "stars": "32,817",
       "forks": "4,713",
-      "addStars": "11",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/68148142?s=40&v=4",
@@ -584,7 +584,7 @@
       "description": "小白羊网盘 - Powered by 阿里云盘。",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,015",
+      "stars": "6,016",
       "forks": "317",
       "addStars": "14",
       "contributors": [

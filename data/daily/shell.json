@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "mattpocock/skills",
@@ -10,8 +10,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "35,488",
-      "forks": "2,786",
+      "stars": "36,627",
+      "forks": "2,871",
       "addStars": "7,429",
       "contributors": [
         {
@@ -27,51 +27,14 @@
       ]
     },
     {
-      "title": "nikvdp/cco",
-      "url": "https://github.com/nikvdp/cco",
-      "description": "A thin protective layer for Claude Code",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "348",
-      "forks": "26",
-      "addStars": "34",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4651473?s=40&v=4",
-          "name": "nikvdp",
-          "url": "https://github.com/nikvdp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1817286?s=40&v=4",
-          "name": "tfriedel",
-          "url": "https://github.com/tfriedel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8575113?s=40&v=4",
-          "name": "tanimon",
-          "url": "https://github.com/tanimon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/513325?s=40&v=4",
-          "name": "philharton",
-          "url": "https://github.com/philharton"
-        }
-      ]
-    },
-    {
       "title": "HQarroum/docker-android",
       "url": "https://github.com/HQarroum/docker-android",
       "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "5,071",
-      "forks": "357",
-      "addStars": "247",
+      "stars": "5,088",
+      "forks": "361",
+      "addStars": "116",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1384633?s=40&v=4",
@@ -106,8 +69,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "171,098",
-      "forks": "15,099",
+      "stars": "171,387",
+      "forks": "15,119",
       "addStars": "1,577",
       "contributors": [
         {
@@ -143,8 +106,8 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "93,131",
-      "forks": "10,131",
+      "stars": "93,135",
+      "forks": "10,133",
       "addStars": "29",
       "contributors": [
         {
@@ -181,7 +144,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "46,433",
-      "forks": "5,558",
+      "forks": "5,559",
       "addStars": "23",
       "contributors": [
         {
@@ -217,9 +180,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "25,133",
-      "forks": "3,119",
-      "addStars": "870",
+      "stars": "25,220",
+      "forks": "3,127",
+      "addStars": "717",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -254,8 +217,8 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "12,231",
-      "forks": "761",
+      "stars": "12,237",
+      "forks": "762",
       "addStars": "18",
       "contributors": [
         {
@@ -292,7 +255,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "4,915",
-      "forks": "469",
+      "forks": "470",
       "addStars": "1",
       "contributors": [
         {
@@ -328,8 +291,8 @@
       "description": "Create beautiful slides on the web using Claude's frontend skills",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "15,947",
-      "forks": "1,292",
+      "stars": "15,961",
+      "forks": "1,294",
       "addStars": "133",
       "contributors": [
         {
@@ -366,7 +329,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "9,313",
-      "forks": "1,321",
+      "forks": "1,322",
       "addStars": "6",
       "contributors": [
         {

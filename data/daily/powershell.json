@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "ScoopInstaller/Scoop",
@@ -47,8 +47,8 @@
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "53,445",
-      "forks": "3,001",
+      "stars": "53,463",
+      "forks": "3,003",
       "addStars": "193",
       "contributors": [
         {
@@ -158,7 +158,7 @@
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "12,693",
+      "stars": "12,694",
       "forks": "3,725",
       "addStars": "1",
       "contributors": [
@@ -176,38 +176,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/48208649?s=40&v=4",
           "name": "miketimofeev",
           "url": "https://github.com/miketimofeev"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/azure-skills",
-      "url": "https://github.com/microsoft/azure-skills",
-      "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "751",
-      "forks": "115",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52458914?s=40&v=4",
-          "name": "fanyang-mono",
-          "url": "https://github.com/fanyang-mono"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102772054?s=40&v=4",
-          "name": "kvenkatrajan",
-          "url": "https://github.com/kvenkatrajan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74415662?s=40&v=4",
-          "name": "charris-msft",
-          "url": "https://github.com/charris-msft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22682497?s=40&v=4",
-          "name": "saikoumudi",
-          "url": "https://github.com/saikoumudi"
         }
       ]
     },
@@ -276,8 +244,8 @@
       "description": "Automation to assess the state of your M365 tenant against CISA's baselines",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "2,548",
-      "forks": "354",
+      "stars": "2,550",
+      "forks": "355",
       "addStars": "2",
       "contributors": [
         {

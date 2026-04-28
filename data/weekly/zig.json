@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "ziglang/zig",
@@ -47,8 +47,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "51,874",
-      "forks": "2,463",
+      "stars": "51,891",
+      "forks": "2,470",
       "addStars": "590",
       "contributors": [
         {
@@ -158,7 +158,7 @@
       "description": "Better GitHub statistics images for your profile, with stats from private repos too",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,437",
+      "stars": "3,438",
       "forks": "737",
       "addStars": "12",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "29,531",
+      "stars": "29,580",
       "forks": "1,275",
       "addStars": "538",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "A CLI tool to switch and manage Codex accounts",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,317",
+      "stars": "1,318",
       "forks": "85",
       "addStars": "140",
       "contributors": [
@@ -343,7 +343,7 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,885",
+      "stars": "1,886",
       "forks": "98",
       "addStars": "23",
       "contributors": [
@@ -528,8 +528,8 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,761",
-      "forks": "430",
+      "stars": "4,762",
+      "forks": "429",
       "addStars": "26",
       "contributors": [
         {
@@ -565,7 +565,7 @@
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,461",
+      "stars": "3,462",
       "forks": "217",
       "addStars": "15",
       "contributors": [

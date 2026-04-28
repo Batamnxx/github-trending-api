@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "iamgio/quarkdown",
@@ -10,8 +10,8 @@
       "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,634",
-      "forks": "305",
+      "stars": "11,851",
+      "forks": "315",
       "addStars": "797",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "AirPods liberated from Apple's ecosystem.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "26,704",
+      "stars": "26,711",
       "forks": "1,490",
       "addStars": "23",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "9,504",
-      "forks": "856",
+      "stars": "9,509",
+      "forks": "858",
       "addStars": "17",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Painless E2E Automation for Mobile and Web",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "13,781",
+      "stars": "13,788",
       "forks": "803",
       "addStars": "23",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "Essential tools and mods for Android nerds",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,548",
+      "stars": "1,550",
       "forks": "30",
       "addStars": "15",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "821",
+      "stars": "825",
       "forks": "44",
       "addStars": "24",
       "contributors": [
@@ -249,8 +249,8 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "55,035",
-      "forks": "7,278",
+      "stars": "55,048",
+      "forks": "7,280",
       "addStars": "85",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "A Download Manager that speeds up your downloads",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "14,697",
-      "forks": "755",
+      "stars": "14,706",
+      "forks": "757",
       "addStars": "44",
       "contributors": [
         {
@@ -397,7 +397,7 @@
       "description": "使用 Material Design 3 全新设计的阅读 3.0",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,195",
+      "stars": "3,196",
       "forks": "162",
       "addStars": "11",
       "contributors": [
@@ -429,8 +429,8 @@
       "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "21,106",
-      "forks": "4,374",
+      "stars": "21,109",
+      "forks": "4,376",
       "addStars": "9",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "5,581",
-      "forks": "228",
+      "stars": "5,588",
+      "forks": "229",
       "addStars": "24",
       "contributors": [
         {
@@ -503,7 +503,7 @@
       "description": "🍃 Patches for Morphe",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "453",
+      "stars": "455",
       "forks": "11",
       "addStars": "7",
       "contributors": [
@@ -530,7 +530,7 @@
       "description": "A material you designed app for your ADB needs",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,782",
+      "stars": "1,784",
       "forks": "89",
       "addStars": "9",
       "contributors": [
@@ -562,7 +562,7 @@
       "description": "Bringing Astrid Tasks back from the dead",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "5,159",
+      "stars": "5,161",
       "forks": "617",
       "addStars": "6",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "Anil-matcha/Open-Generative-AI",
@@ -10,8 +10,8 @@
       "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,570",
-      "forks": "1,709",
+      "stars": "9,689",
+      "forks": "1,723",
       "addStars": "3,862",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "25,332",
-      "forks": "4,009",
+      "stars": "25,377",
+      "forks": "4,022",
       "addStars": "2,729",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,170",
+      "stars": "7,178",
       "forks": "726",
       "addStars": "1,180",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "40,733",
-      "forks": "3,693",
+      "stars": "40,735",
+      "forks": "3,692",
       "addStars": "233",
       "contributors": [
         {
@@ -159,7 +159,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": "13,450",
-      "forks": "27,188",
+      "forks": "27,191",
       "addStars": "113",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,276",
-      "forks": "770",
+      "stars": "3,288",
+      "forks": "772",
       "addStars": "482",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "221",
+      "stars": "222",
       "forks": "38",
       "addStars": "39",
       "contributors": [
@@ -259,7 +259,7 @@
       "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "55,615",
+      "stars": "55,620",
       "forks": "4,152",
       "addStars": "237",
       "contributors": [
@@ -291,49 +291,12 @@
       ]
     },
     {
-      "title": "jo-inc/camofox-browser",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "3,370",
-      "forks": "337",
-      "addStars": "487",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/998?s=40&v=4",
-          "name": "skyfallsin",
-          "url": "https://github.com/skyfallsin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/135282870?s=40&v=4",
-          "name": "company8",
-          "url": "https://github.com/company8"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1442927?s=40&v=4",
-          "name": "leoneparise",
-          "url": "https://github.com/leoneparise"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45483921?s=40&v=4",
-          "name": "Microck",
-          "url": "https://github.com/Microck"
-        }
-      ]
-    },
-    {
       "title": "jesse-ai/jesse",
       "url": "https://github.com/jesse-ai/jesse",
       "description": "An advanced crypto trading bot written in Python",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,810",
+      "stars": "7,811",
       "forks": "1,102",
       "addStars": "128",
       "contributors": [
@@ -370,7 +333,7 @@
       "description": "Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "645",
+      "stars": "646",
       "forks": "143",
       "addStars": "38",
       "contributors": [
@@ -397,8 +360,8 @@
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "63,621",
-      "forks": "4,056",
+      "stars": "63,715",
+      "forks": "4,059",
       "addStars": "581",
       "contributors": [
         {
@@ -434,8 +397,8 @@
       "description": "LLM Frontend for Power Users.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "26,537",
-      "forks": "5,192",
+      "stars": "26,552",
+      "forks": "5,195",
       "addStars": "532",
       "contributors": [
         {
@@ -471,8 +434,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "86,010",
-      "forks": "7,739",
+      "stars": "86,021",
+      "forks": "7,742",
       "addStars": "512",
       "contributors": [
         {
@@ -545,7 +508,7 @@
       "description": "Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "686",
+      "stars": "687",
       "forks": "40",
       "addStars": "90",
       "contributors": [
@@ -577,8 +540,8 @@
       "description": "The privacy-first, self-hosted CAPTCHA for the modern web.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,127",
-      "forks": "420",
+      "stars": "6,131",
+      "forks": "421",
       "addStars": "883",
       "contributors": [
         {

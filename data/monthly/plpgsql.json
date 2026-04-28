@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Monthly Trending",
   "description": "Monthly Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "pgmq/pgmq",
@@ -10,7 +10,7 @@
       "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": "4,814",
+      "stars": "4,816",
       "forks": "137",
       "addStars": "116",
       "contributors": [
@@ -176,7 +176,7 @@
       "language": "PLpgSQL",
       "languageColor": "#336790",
       "stars": "3,053",
-      "forks": "659",
+      "forks": "660",
       "addStars": "23",
       "contributors": [
         {

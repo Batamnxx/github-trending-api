@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Monthly Trending",
   "description": "Monthly Trending of D Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "Dadoum/anisette-v3-server",
@@ -47,7 +47,7 @@
       "description": "OneDrive Client for Linux",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "12,369",
+      "stars": "12,371",
       "forks": "912",
       "addStars": "151",
       "contributors": [

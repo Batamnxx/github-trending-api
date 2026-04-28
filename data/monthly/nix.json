@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "NixOS/nixos-hardware",
@@ -42,8 +42,8 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,101",
-      "forks": "117",
+      "stars": "1,102",
+      "forks": "118",
       "addStars": "215",
       "contributors": [
         {
@@ -101,7 +101,7 @@
       "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,521",
+      "stars": "2,522",
       "forks": "198",
       "addStars": "100",
       "contributors": [
@@ -133,8 +133,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "24,484",
-      "forks": "18,730",
+      "stars": "24,486",
+      "forks": "18,733",
       "addStars": "485",
       "contributors": [
         {
@@ -170,7 +170,7 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "5,359",
+      "stars": "5,361",
       "forks": "614",
       "addStars": "128",
       "contributors": [
@@ -234,7 +234,7 @@
       "description": "Library for using modules to wrap packages with configuration directly, and a collection of pre-built wrapper modules!",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "277",
+      "stars": "278",
       "forks": "33",
       "addStars": "79",
       "contributors": [
@@ -266,7 +266,7 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,805",
+      "stars": "2,806",
       "forks": "216",
       "addStars": "99",
       "contributors": [
@@ -315,7 +315,7 @@
       "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,663",
+      "stars": "3,664",
       "forks": "174",
       "addStars": "54",
       "contributors": [

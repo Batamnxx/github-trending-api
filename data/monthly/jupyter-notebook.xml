@@ -3,7 +3,7 @@
     <title>GitHub Jupyter-notebook Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Jupyter-notebook Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>Lordog/dive-into-llms</title>
       <link>https://github.com/Lordog/dive-into-llms</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/Lordog/dive-into-llms</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>34,941</stars>
+      <stars>34,962</stars>
       <forks>4,294</forks>
       <addStars>10,818</addStars>
       <contributors>
@@ -49,8 +49,8 @@
       <guid>https://github.com/anthropics/claude-cookbooks</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>41,751</stars>
-      <forks>4,655</forks>
+      <stars>41,766</stars>
+      <forks>4,656</forks>
       <addStars>5,435</addStars>
       <contributors>
         <contributor>
@@ -81,14 +81,52 @@
       </contributors>
     </item>
     <item>
+      <title>microsoft/ai-agents-for-beginners</title>
+      <link>https://github.com/microsoft/ai-agents-for-beginners</link>
+      <description>12 Lessons to Get Started Building AI Agents</description>
+      <guid>https://github.com/microsoft/ai-agents-for-beginners</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>59,987</stars>
+      <forks>20,312</forks>
+      <addStars>4,992</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2511341?s=40&amp;v=4</avatar>
+          <name>leestott</name>
+          <url>https://github.com/leestott</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99078115?s=40&amp;v=4</avatar>
+          <name>skytin1004</name>
+          <url>https://github.com/skytin1004</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7462909?s=40&amp;v=4</avatar>
+          <name>koreyspace</name>
+          <url>https://github.com/koreyspace</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/93383164?s=40&amp;v=4</avatar>
+          <name>ShivamGoyal03</name>
+          <url>https://github.com/ShivamGoyal03</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40815708?s=40&amp;v=4</avatar>
+          <name>hyoshioka0128</name>
+          <url>https://github.com/hyoshioka0128</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>AI4Finance-Foundation/FinGPT</title>
       <link>https://github.com/AI4Finance-Foundation/FinGPT</link>
       <description>FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.</description>
       <guid>https://github.com/AI4Finance-Foundation/FinGPT</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>19,861</stars>
-      <forks>2,817</forks>
+      <stars>19,865</stars>
+      <forks>2,818</forks>
       <addStars>967</addStars>
       <contributors>
         <contributor>
@@ -125,7 +163,7 @@
       <guid>https://github.com/jackfrued/Python-100-Days</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>181,979</stars>
+      <stars>181,982</stars>
       <forks>55,674</forks>
       <addStars>2,048</addStars>
       <contributors>
@@ -164,7 +202,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>15,409</stars>
-      <forks>2,216</forks>
+      <forks>2,215</forks>
       <addStars>1,060</addStars>
       <contributors>
         <contributor>
@@ -201,8 +239,8 @@
       <guid>https://github.com/lyogavin/airllm</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>16,830</stars>
-      <forks>1,791</forks>
+      <stars>16,854</stars>
+      <forks>1,793</forks>
       <addStars>2,547</addStars>
       <contributors>
         <contributor>
@@ -239,8 +277,8 @@
       <guid>https://github.com/shap/shap</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>25,356</stars>
-      <forks>3,700</forks>
+      <stars>25,357</stars>
+      <forks>3,702</forks>
       <addStars>190</addStars>
       <contributors>
         <contributor>
@@ -277,8 +315,8 @@
       <guid>https://github.com/PolymathicAI/the_well</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>3,082</stars>
-      <forks>359</forks>
+      <stars>3,084</stars>
+      <forks>360</forks>
       <addStars>986</addStars>
       <contributors>
         <contributor>
@@ -315,7 +353,7 @@
       <guid>https://github.com/google-gemma/cookbook</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>3,473</stars>
+      <stars>3,474</stars>
       <forks>581</forks>
       <addStars>713</addStars>
       <contributors>
@@ -348,7 +386,7 @@
       <guid>https://github.com/datawhalechina/self-llm</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>30,171</stars>
+      <stars>30,173</stars>
       <forks>2,970</forks>
       <addStars>934</addStars>
       <contributors>
@@ -386,8 +424,8 @@
       <guid>https://github.com/datawhalechina/llm-universe</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>12,847</stars>
-      <forks>1,323</forks>
+      <stars>12,848</stars>
+      <forks>1,324</forks>
       <addStars>530</addStars>
       <contributors>
         <contributor>
@@ -424,8 +462,8 @@
       <guid>https://github.com/AI4Finance-Foundation/FinRobot</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>6,799</stars>
-      <forks>1,138</forks>
+      <stars>6,800</stars>
+      <forks>1,140</forks>
       <addStars>317</addStars>
       <contributors>
         <contributor>
@@ -501,7 +539,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>2,677</stars>
-      <forks>745</forks>
+      <forks>744</forks>
       <addStars>81</addStars>
       <contributors>
         <contributor>

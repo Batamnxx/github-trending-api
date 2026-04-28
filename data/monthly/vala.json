@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Monthly Trending",
   "description": "Monthly Trending of Vala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "alainm23/planify",
@@ -47,7 +47,7 @@
       "description": "A modern compatibility tools manager",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "1,384",
+      "stars": "1,385",
       "forks": "43",
       "addStars": "101",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": "4,022",
+      "stars": "4,021",
       "forks": "142",
       "addStars": "80",
       "contributors": [

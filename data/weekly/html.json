@@ -2,7 +2,7 @@
   "title": "GitHub Html Languages Weekly Trending",
   "description": "Weekly Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "trycua/cua",
@@ -10,8 +10,8 @@
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "14,831",
-      "forks": "932",
+      "stars": "14,840",
+      "forks": "931",
       "addStars": "1,251",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "1,701",
+      "stars": "1,702",
       "forks": "201",
       "addStars": "361",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "4,384",
-      "forks": "628",
+      "stars": "4,390",
+      "forks": "629",
       "addStars": "565",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "35,408",
-      "forks": "6,538",
+      "stars": "35,432",
+      "forks": "6,540",
       "addStars": "743",
       "contributors": [
         {
@@ -143,7 +143,7 @@
       "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "25,882",
+      "stars": "25,885",
       "forks": "3,451",
       "addStars": "171",
       "contributors": [
@@ -180,8 +180,8 @@
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "159,135",
-      "forks": "2,715",
+      "stars": "159,165",
+      "forks": "2,716",
       "addStars": "1,153",
       "contributors": [
         {
@@ -239,7 +239,7 @@
       "description": "Official OWASP Top 10 Document Repository",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "5,575",
+      "stars": "5,576",
       "forks": "1,063",
       "addStars": "38",
       "contributors": [
@@ -276,8 +276,8 @@
       "description": "🎓 Path to a free self-taught education in Computer Science!",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "203,341",
-      "forks": "25,309",
+      "stars": "203,349",
+      "forks": "25,307",
       "addStars": "273",
       "contributors": [
         {
@@ -313,7 +313,7 @@
       "description": "计算机自学指南",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "72,548",
+      "stars": "72,553",
       "forks": "7,881",
       "addStars": "152",
       "contributors": [
@@ -350,7 +350,7 @@
       "description": "IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx, keenetic, switchy, amnezia",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "1,327",
+      "stars": "1,330",
       "forks": "50",
       "addStars": "65",
       "contributors": [
@@ -377,8 +377,8 @@
       "description": "Open-Source Unified Vulnerability Management, DevSecOps & ASPM",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "4,663",
-      "forks": "1,856",
+      "stars": "4,662",
+      "forks": "1,854",
       "addStars": "20",
       "contributors": [
         {
@@ -405,7 +405,7 @@
       "language": "HTML",
       "languageColor": "#e34c26",
       "stars": "16,206",
-      "forks": "3,835",
+      "forks": "3,837",
       "addStars": "28",
       "contributors": [
         {

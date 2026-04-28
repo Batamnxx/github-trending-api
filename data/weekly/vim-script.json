@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Weekly Trending",
   "description": "Weekly Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "neovim/neovim",
@@ -10,8 +10,8 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "99,162",
-      "forks": "6,849",
+      "stars": "99,168",
+      "forks": "6,850",
       "addStars": "295",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "3,986",
+      "stars": "3,987",
       "forks": "146",
       "addStars": "14",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "35,638",
-      "forks": "1,945",
+      "stars": "35,637",
+      "forks": "1,946",
       "addStars": "20",
       "contributors": [
         {
@@ -138,7 +138,7 @@
       "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "21,594",
+      "stars": "21,596",
       "forks": "1,061",
       "addStars": "18",
       "contributors": [
@@ -175,7 +175,7 @@
       "description": "Vim plugin for LLM-assisted code/text completion",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "1,982",
+      "stars": "1,983",
       "forks": "103",
       "addStars": "19",
       "contributors": [
@@ -361,7 +361,7 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": "11,570",
-      "forks": "736",
+      "forks": "735",
       "addStars": "23",
       "contributors": [
         {
@@ -525,7 +525,7 @@
       "description": "A tree explorer plugin for vim.",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "20,076",
+      "stars": "20,077",
       "forks": "1,441",
       "addStars": "7",
       "contributors": [
@@ -636,7 +636,7 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "40,282",
+      "stars": "40,283",
       "forks": "6,033",
       "addStars": "55",
       "contributors": [

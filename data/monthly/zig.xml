@@ -3,7 +3,7 @@
     <title>GitHub Zig Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Zig Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>oven-sh/bun</title>
       <link>https://github.com/oven-sh/bun</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>89,409</stars>
-      <forks>4,371</forks>
+      <stars>89,418</stars>
+      <forks>4,373</forks>
       <addStars>1,190</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/zigtools/zls</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>4,761</stars>
-      <forks>430</forks>
+      <stars>4,762</stars>
+      <forks>429</forks>
       <addStars>123</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/Loongphy/codex-auth</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>1,317</stars>
+      <stars>1,318</stars>
       <forks>85</forks>
       <addStars>807</addStars>
       <contributors>
@@ -310,7 +310,7 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>29,531</stars>
+      <stars>29,580</stars>
       <forks>1,275</forks>
       <addStars>4,406</addStars>
       <contributors>
@@ -348,7 +348,7 @@
       <guid>https://github.com/PixelGuys/Cubyz</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>3,461</stars>
+      <stars>3,462</stars>
       <forks>217</forks>
       <addStars>78</addStars>
       <contributors>
@@ -462,7 +462,7 @@
       <guid>https://github.com/neurocyte/flow</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>1,885</stars>
+      <stars>1,886</stars>
       <forks>98</forks>
       <addStars>87</addStars>
       <contributors>
@@ -647,7 +647,7 @@
       <guid>https://github.com/Hejsil/zig-clap</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>1,521</stars>
+      <stars>1,520</stars>
       <forks>97</forks>
       <addStars>29</addStars>
       <contributors>

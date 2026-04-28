@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Weekly Trending",
   "description": "Weekly Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "xandergos/terrain-diffusion-mc",
@@ -10,7 +10,7 @@
       "description": "",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "306",
+      "stars": "308",
       "forks": "26",
       "addStars": "184",
       "contributors": [
@@ -37,7 +37,7 @@
       "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "36,827",
+      "stars": "36,831",
       "forks": "7,962",
       "addStars": "220",
       "contributors": [
@@ -74,8 +74,8 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "54,060",
-      "forks": "6,459",
+      "stars": "54,072",
+      "forks": "6,460",
       "addStars": "370",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "morphe patches for twitter",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "3,366",
+      "stars": "3,370",
       "forks": "96",
       "addStars": "95",
       "contributors": [
@@ -143,8 +143,8 @@
       "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "23,642",
-      "forks": "5,781",
+      "stars": "23,644",
+      "forks": "5,783",
       "addStars": "210",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Spring Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "59,876",
-      "forks": "38,839",
+      "stars": "59,879",
+      "forks": "38,840",
       "addStars": "42",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Design patterns implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "93,957",
-      "forks": "27,379",
+      "stars": "93,958",
+      "forks": "27,377",
       "addStars": "89",
       "contributors": [
         {
@@ -244,7 +244,7 @@
       "description": "基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "6,880",
+      "stars": "6,881",
       "forks": "1,974",
       "addStars": "43",
       "contributors": [
@@ -281,8 +281,8 @@
       "description": "[NeoForge Mod] Building Tools and Aesthetic Technology",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "4,137",
-      "forks": "1,284",
+      "stars": "4,140",
+      "forks": "1,285",
       "addStars": "42",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "67,780",
-      "forks": "7,439",
+      "stars": "67,792",
+      "forks": "7,440",
       "addStars": "323",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "13,082",
-      "forks": "2,747",
+      "stars": "13,086",
+      "forks": "2,749",
       "addStars": "102",
       "contributors": [
         {
@@ -392,7 +392,7 @@
       "description": "WhatsApp tools for Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "1,402",
+      "stars": "1,403",
       "forks": "186",
       "addStars": "30",
       "contributors": [
@@ -429,7 +429,7 @@
       "description": "Apache Flink",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "25,965",
+      "stars": "25,966",
       "forks": "13,923",
       "addStars": "29",
       "contributors": [
@@ -466,7 +466,7 @@
       "description": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "38,394",
+      "stars": "38,397",
       "forks": "10,237",
       "addStars": "98",
       "contributors": [
@@ -498,7 +498,7 @@
       "description": "面向企业级市场的一站式AI应用开发框架，支持多厂商大模型统一接入与管理，具备安全可控的企业知识库与高精度检索优化能力，提供可视化流程编排、自主决策智能体与多智能体协同调度，兼容主流 Agent Skill 协议，帮助企业与开发者零门槛快速构建安全、高效、可落地的AI智能体应用与行业解决方案。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "5,190",
+      "stars": "5,192",
       "forks": "1,277",
       "addStars": "66",
       "contributors": [
@@ -535,8 +535,8 @@
       "description": "AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,728",
-      "forks": "689",
+      "stars": "9,729",
+      "forks": "690",
       "addStars": "36",
       "contributors": [
         {
@@ -572,7 +572,7 @@
       "description": "LSPosed Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "23,568",
+      "stars": "23,570",
       "forks": "3,561",
       "addStars": "97",
       "contributors": [
@@ -609,8 +609,8 @@
       "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "11,791",
-      "forks": "2,173",
+      "stars": "11,795",
+      "forks": "2,174",
       "addStars": "111",
       "contributors": [
         {
@@ -641,8 +641,8 @@
       "description": "Conductor is an event driven agentic orchestration platform providing durable and highly resilient execution engine for applications and AI Agents",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "31,714",
-      "forks": "871",
+      "stars": "31,717",
+      "forks": "870",
       "addStars": "82",
       "contributors": [
         {

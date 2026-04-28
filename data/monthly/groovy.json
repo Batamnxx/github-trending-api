@@ -2,7 +2,7 @@
   "title": "GitHub Groovy Languages Monthly Trending",
   "description": "Monthly Trending of Groovy Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "rundeck/rundeck",
@@ -47,8 +47,8 @@
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": "18,523",
-      "forks": "5,118",
+      "stars": "18,524",
+      "forks": "5,117",
       "addStars": "93",
       "contributors": [
         {

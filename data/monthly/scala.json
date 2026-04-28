@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Monthly Trending",
   "description": "Monthly Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "delta-io/delta",
@@ -264,8 +264,8 @@
       "description": "sbt, the interactive build tool",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "4,925",
-      "forks": "1,031",
+      "stars": "4,926",
+      "forks": "1,033",
       "addStars": "21",
       "contributors": [
         {
@@ -555,7 +555,7 @@
       "description": "Open-source non-blocking L2 cache",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "57",
+      "stars": "58",
       "forks": "32",
       "addStars": "0",
       "contributors": [

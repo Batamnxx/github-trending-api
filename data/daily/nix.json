@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "numtide/llm-agents.nix",
@@ -10,8 +10,8 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,101",
-      "forks": "117",
+      "stars": "1,102",
+      "forks": "118",
       "addStars": "8",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "24,484",
-      "forks": "18,730",
+      "stars": "24,486",
+      "forks": "18,733",
       "addStars": "12",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,805",
+      "stars": "2,806",
       "forks": "216",
       "addStars": "8",
       "contributors": [
@@ -160,7 +160,7 @@
       "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,521",
+      "stars": "2,522",
       "forks": "198",
       "addStars": "4",
       "contributors": [
@@ -192,7 +192,7 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "5,359",
+      "stars": "5,361",
       "forks": "614",
       "addStars": "5",
       "contributors": [
@@ -264,7 +264,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "3,746",
-      "forks": "319",
+      "forks": "318",
       "addStars": "3",
       "contributors": [
         {
@@ -300,7 +300,7 @@
       "description": "Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "799",
+      "stars": "800",
       "forks": "35",
       "addStars": "8",
       "contributors": [
@@ -337,7 +337,7 @@
       "description": "",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "178",
+      "stars": "179",
       "forks": "12",
       "addStars": "2",
       "contributors": [
@@ -397,7 +397,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "2,770",
-      "forks": "379",
+      "forks": "380",
       "addStars": "4",
       "contributors": [
         {

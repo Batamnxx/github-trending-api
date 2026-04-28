@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Monthly Trending",
   "description": "Monthly Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "RockBlack-VPN/ip-address",
@@ -10,7 +10,7 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "1,957",
+      "stars": "1,959",
       "forks": "164",
       "addStars": "180",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "7,643",
+      "stars": "7,645",
       "forks": "500",
       "addStars": "260",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "Python best practices guidebook, written for humans.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "29,594",
+      "stars": "29,595",
       "forks": "5,906",
       "addStars": "87",
       "contributors": [

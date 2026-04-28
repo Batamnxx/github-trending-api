@@ -3,7 +3,7 @@
     <title>GitHub Lean Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Lean Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>leanprover/lean4</title>
       <link>https://github.com/leanprover/lean4</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/leanprover/lean4</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>7,917</stars>
+      <stars>7,918</stars>
       <forks>828</forks>
       <addStars>5</addStars>
       <contributors>
@@ -49,8 +49,8 @@
       <guid>https://github.com/leanprover-community/mathlib4</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>3,224</stars>
-      <forks>1,262</forks>
+      <stars>3,226</stars>
+      <forks>1,265</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>
@@ -110,7 +110,7 @@
       <guid>https://github.com/google-deepmind/formal-conjectures</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>939</stars>
+      <stars>941</stars>
       <forks>267</forks>
       <addStars>0</addStars>
       <contributors>
@@ -219,7 +219,7 @@
       <guid>https://github.com/opencompl/veir</guid>
       <language>Lean</language>
       <languageColor>#ccc</languageColor>
-      <stars>41</stars>
+      <stars>42</stars>
       <forks>8</forks>
       <addStars>0</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "CJackHwang/ds2api",
@@ -10,8 +10,8 @@
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,195",
-      "forks": "632",
+      "stars": "2,272",
+      "forks": "643",
       "addStars": "418",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,008",
-      "forks": "2,120",
-      "addStars": "92",
+      "stars": "17,011",
+      "forks": "2,121",
+      "addStars": "41",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31536789?s=40&v=4",
@@ -79,7 +79,7 @@
       "description": "🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,341",
+      "stars": "5,346",
       "forks": "188",
       "addStars": "34",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "29,512",
-      "forks": "6,266",
+      "stars": "29,531",
+      "forks": "6,272",
       "addStars": "251",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "22,447",
-      "forks": "1,472",
+      "stars": "22,473",
+      "forks": "1,473",
       "addStars": "476",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,164",
-      "forks": "2,220",
+      "stars": "17,170",
+      "forks": "2,221",
       "addStars": "15",
       "contributors": [
         {
@@ -222,9 +222,9 @@
       "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "19,819",
+      "stars": "19,826",
       "forks": "2,024",
-      "addStars": "116",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/547147?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "An HTTP toolkit for security research.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,038",
-      "forks": "571",
-      "addStars": "220",
+      "stars": "10,048",
+      "forks": "574",
+      "addStars": "148",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/983924?s=40&v=4",
@@ -281,8 +281,8 @@
       "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "23,600",
-      "forks": "1,579",
+      "stars": "23,606",
+      "forks": "1,582",
       "addStars": "51",
       "contributors": [
         {
@@ -318,7 +318,7 @@
       "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,589",
+      "stars": "6,598",
       "forks": "619",
       "addStars": "267",
       "contributors": [
@@ -355,9 +355,9 @@
       "description": "Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,394",
-      "forks": "2,896",
-      "addStars": "420",
+      "stars": "16,420",
+      "forks": "2,901",
+      "addStars": "307",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26101719?s=40&v=4",
@@ -392,8 +392,8 @@
       "description": "Staging repo for development of native port of TypeScript",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,241",
-      "forks": "931",
+      "stars": "25,244",
+      "forks": "932",
       "addStars": "21",
       "contributors": [
         {
@@ -424,9 +424,9 @@
       "description": "Orchestration-builder SDK for multi-agent coding workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "507",
-      "forks": "141",
-      "addStars": "31",
+      "stars": "512",
+      "forks": "145",
+      "addStars": "36",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8082291?s=40&v=4",
@@ -461,8 +461,8 @@
       "description": "微信视频号下载器",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "5,544",
-      "forks": "804",
+      "stars": "5,547",
+      "forks": "805",
       "addStars": "38",
       "contributors": [
         {
@@ -498,7 +498,7 @@
       "description": "A Cloud Native Batch System (Project under CNCF)",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,508",
+      "stars": "5,509",
       "forks": "1,339",
       "addStars": "7",
       "contributors": [
@@ -535,7 +535,7 @@
       "description": "A lightweight AWS service emulator written in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,080",
+      "stars": "1,083",
       "forks": "58",
       "addStars": "24",
       "contributors": [
@@ -567,7 +567,7 @@
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,890",
+      "stars": "16,891",
       "forks": "1,627",
       "addStars": "11",
       "contributors": [
@@ -604,9 +604,9 @@
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,937",
+      "stars": "2,944",
       "forks": "320",
-      "addStars": "49",
+      "addStars": "48",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6935240?s=40&v=4",

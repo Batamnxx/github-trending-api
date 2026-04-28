@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>forrestchang/andrej-karpathy-skills</title>
       <link>https://github.com/forrestchang/andrej-karpathy-skills</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/forrestchang/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>96,221</stars>
-      <forks>9,336</forks>
+      <stars>96,637</stars>
+      <forks>9,378</forks>
       <addStars>85,629</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>122,286</stars>
-      <forks>18,205</forks>
+      <stars>122,693</stars>
+      <forks>18,267</forks>
       <addStars>106,290</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/Yeachan-Heo/oh-my-codex</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,589</stars>
+      <stars>26,620</stars>
       <forks>2,177</forks>
       <addStars>23,773</addStars>
       <contributors>
@@ -120,8 +120,8 @@
       <guid>https://github.com/Alishahryar1/free-claude-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,113</stars>
-      <forks>2,402</forks>
+      <stars>17,347</stars>
+      <forks>2,443</forks>
       <addStars>14,253</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/shiyu-coder/Kronos</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,853</stars>
-      <forks>3,861</forks>
+      <stars>21,869</stars>
+      <forks>3,865</forks>
       <addStars>10,523</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,388</stars>
-      <forks>2,981</forks>
+      <stars>22,410</stars>
+      <forks>2,987</forks>
       <addStars>11,444</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/Fincept-Corporation/FinceptTerminal</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,909</stars>
-      <forks>2,300</forks>
+      <stars>17,083</stars>
+      <forks>2,323</forks>
       <addStars>13,159</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/siddharthvaddem/openscreen</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>33,368</stars>
-      <forks>2,241</forks>
+      <stars>33,415</stars>
+      <forks>2,244</forks>
       <addStars>24,316</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/google-ai-edge/gallery</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>22,195</stars>
-      <forks>2,162</forks>
+      <stars>22,214</stars>
+      <forks>2,165</forks>
       <addStars>6,756</addStars>
       <contributors>
         <contributor>
@@ -328,7 +328,7 @@
       <guid>https://github.com/coleam00/Archon</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>19,995</stars>
+      <stars>20,006</stars>
       <forks>3,076</forks>
       <addStars>6,196</addStars>
       <contributors>
@@ -361,8 +361,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>118,266</stars>
-      <forks>7,794</forks>
+      <stars>118,321</stars>
+      <forks>7,800</forks>
       <addStars>25,592</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/luongnv89/claude-howto</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,904</stars>
-      <forks>3,649</forks>
+      <stars>29,958</stars>
+      <forks>3,652</forks>
       <addStars>27,117</addStars>
       <contributors>
         <contributor>
@@ -437,8 +437,8 @@
       <guid>https://github.com/lsdefine/GenericAgent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,949</stars>
-      <forks>914</forks>
+      <stars>7,980</stars>
+      <forks>918</forks>
       <addStars>6,876</addStars>
       <contributors>
         <contributor>
@@ -475,8 +475,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>35,389</stars>
-      <forks>2,777</forks>
+      <stars>36,577</stars>
+      <forks>2,870</forks>
       <addStars>16,974</addStars>
       <contributors>
         <contributor>
@@ -498,8 +498,8 @@
       <guid>https://github.com/google-ai-edge/LiteRT-LM</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>4,458</stars>
-      <forks>439</forks>
+      <stars>4,468</stars>
+      <forks>438</forks>
       <addStars>3,437</addStars>
       <contributors>
         <contributor>
@@ -536,8 +536,8 @@
       <guid>https://github.com/Z4nzu/hackingtool</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>67,797</stars>
-      <forks>7,596</forks>
+      <stars>67,910</stars>
+      <forks>7,611</forks>
       <addStars>11,451</addStars>
       <contributors>
         <contributor>
@@ -574,8 +574,8 @@
       <guid>https://github.com/hugohe3/ppt-master</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,021</stars>
-      <forks>990</forks>
+      <stars>9,073</stars>
+      <forks>995</forks>
       <addStars>5,540</addStars>
       <contributors>
         <contributor>
@@ -612,8 +612,8 @@
       <guid>https://github.com/rtk-ai/rtk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>37,539</stars>
-      <forks>2,270</forks>
+      <stars>37,680</stars>
+      <forks>2,278</forks>
       <addStars>22,504</addStars>
       <contributors>
         <contributor>
@@ -645,8 +645,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>69,044</stars>
-      <forks>5,886</forks>
+      <stars>69,129</stars>
+      <forks>5,900</forks>
       <addStars>27,414</addStars>
       <contributors>
         <contributor>

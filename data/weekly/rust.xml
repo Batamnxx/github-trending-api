@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Rust Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>GyulyVGC/sniffnet</title>
       <link>https://github.com/GyulyVGC/sniffnet</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/GyulyVGC/sniffnet</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>36,683</stars>
-      <forks>1,443</forks>
+      <stars>36,722</stars>
+      <forks>1,445</forks>
       <addStars>1,959</addStars>
       <contributors>
         <contributor>
@@ -39,8 +39,8 @@
       <guid>https://github.com/farion1231/cc-switch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>54,223</stars>
-      <forks>3,519</forks>
+      <stars>54,357</stars>
+      <forks>3,536</forks>
       <addStars>5,027</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/rtk-ai/rtk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>37,548</stars>
-      <forks>2,270</forks>
+      <stars>37,685</stars>
+      <forks>2,279</forks>
       <addStars>6,222</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/superradcompany/microsandbox</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,864</stars>
-      <forks>282</forks>
+      <stars>5,869</stars>
+      <forks>283</forks>
       <addStars>226</addStars>
       <contributors>
         <contributor>
@@ -138,8 +138,8 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>50,607</stars>
-      <forks>6,682</forks>
+      <stars>50,625</stars>
+      <forks>6,685</forks>
       <addStars>2,604</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>79,943</stars>
-      <forks>8,033</forks>
+      <stars>79,954</stars>
+      <forks>8,037</forks>
       <addStars>546</addStars>
       <contributors>
         <contributor>
@@ -252,7 +252,7 @@
       <guid>https://github.com/dani-garcia/vaultwarden</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>59,418</stars>
+      <stars>59,425</stars>
       <forks>2,740</forks>
       <addStars>732</addStars>
       <contributors>
@@ -290,8 +290,8 @@
       <guid>https://github.com/Zackriya-Solutions/meetily</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,425</stars>
-      <forks>1,114</forks>
+      <stars>11,432</stars>
+      <forks>1,116</forks>
       <addStars>199</addStars>
       <contributors>
         <contributor>
@@ -328,7 +328,7 @@
       <guid>https://github.com/firecracker-microvm/firecracker</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>34,009</stars>
+      <stars>34,012</stars>
       <forks>2,364</forks>
       <addStars>173</addStars>
       <contributors>
@@ -366,7 +366,7 @@
       <guid>https://github.com/qdrant/qdrant</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>30,815</stars>
+      <stars>30,818</stars>
       <forks>2,215</forks>
       <addStars>325</addStars>
       <contributors>
@@ -399,7 +399,7 @@
       <guid>https://github.com/gitbutlerapp/gitbutler</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>20,697</stars>
+      <stars>20,700</stars>
       <forks>928</forks>
       <addStars>201</addStars>
       <contributors>
@@ -437,7 +437,7 @@
       <guid>https://github.com/typst/typst</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>53,145</stars>
+      <stars>53,151</stars>
       <forks>1,554</forks>
       <addStars>256</addStars>
       <contributors>
@@ -508,7 +508,7 @@
       <guid>https://github.com/zed-industries/codex-acp</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>678</stars>
+      <stars>679</stars>
       <forks>94</forks>
       <addStars>51</addStars>
       <contributors>
@@ -541,8 +541,8 @@
       <guid>https://github.com/pydantic/monty</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>7,036</stars>
-      <forks>304</forks>
+      <stars>7,039</stars>
+      <forks>305</forks>
       <addStars>135</addStars>
       <contributors>
         <contributor>
@@ -579,8 +579,8 @@
       <guid>https://github.com/web-infra-dev/rspack</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,653</stars>
-      <forks>791</forks>
+      <stars>12,654</stars>
+      <forks>792</forks>
       <addStars>34</addStars>
       <contributors>
         <contributor>

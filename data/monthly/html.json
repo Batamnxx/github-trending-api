@@ -2,7 +2,7 @@
   "title": "GitHub Html Languages Monthly Trending",
   "description": "Monthly Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "shanraisshan/claude-code-best-practice",
@@ -10,8 +10,8 @@
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "48,916",
-      "forks": "4,846",
+      "stars": "49,004",
+      "forks": "4,859",
       "addStars": "26,282",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "35,408",
-      "forks": "6,538",
+      "stars": "35,432",
+      "forks": "6,540",
       "addStars": "2,855",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "4,384",
-      "forks": "628",
+      "stars": "4,390",
+      "forks": "629",
       "addStars": "1,475",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "14,831",
-      "forks": "932",
+      "stars": "14,840",
+      "forks": "931",
       "addStars": "1,497",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "4,325",
-      "forks": "427",
+      "stars": "4,327",
+      "forks": "428",
       "addStars": "1,385",
       "contributors": [
         {
@@ -165,7 +165,7 @@
       "description": "Test suites for Web platform specs — including WHATWG, W3C, and others",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "5,905",
+      "stars": "5,906",
       "forks": "3,791",
       "addStars": "86",
       "contributors": [
@@ -202,7 +202,7 @@
       "description": "📚 Community guides for open source creators",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "15,394",
+      "stars": "15,396",
       "forks": "15,369",
       "addStars": "102",
       "contributors": [
@@ -239,7 +239,7 @@
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "1,701",
+      "stars": "1,702",
       "forks": "201",
       "addStars": "1,534",
       "contributors": [
@@ -276,7 +276,7 @@
       "description": "",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "1,153",
+      "stars": "1,155",
       "forks": "170",
       "addStars": "537",
       "contributors": [
@@ -313,7 +313,7 @@
       "description": "程序员技能图谱",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "21,275",
+      "stars": "21,274",
       "forks": "4,393",
       "addStars": "536",
       "contributors": [
@@ -350,8 +350,8 @@
       "description": "162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "3,151",
-      "forks": "503",
+      "stars": "3,154",
+      "forks": "504",
       "addStars": "1,123",
       "contributors": [
         {
@@ -409,7 +409,7 @@
       "description": "A Clash Client For OpenWrt",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "25,546",
+      "stars": "25,550",
       "forks": "3,873",
       "addStars": "670",
       "contributors": [
@@ -478,7 +478,7 @@
       "description": "IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx, keenetic, switchy, amnezia",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "1,327",
+      "stars": "1,330",
       "forks": "50",
       "addStars": "324",
       "contributors": [
@@ -505,7 +505,7 @@
       "description": "Application for managing recipes, planning meals, building shopping lists and much much more!",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "8,277",
+      "stars": "8,279",
       "forks": "807",
       "addStars": "200",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Monthly Trending",
   "description": "Monthly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "mattpocock/skills",
@@ -10,8 +10,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "35,489",
-      "forks": "2,786",
+      "stars": "36,627",
+      "forks": "2,871",
       "addStars": "16,974",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "16,472",
-      "forks": "2,387",
+      "stars": "16,484",
+      "forks": "2,389",
       "addStars": "9,742",
       "contributors": [
         {
@@ -54,8 +54,8 @@
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\"",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "13,703",
-      "forks": "1,207",
+      "stars": "13,758",
+      "forks": "1,209",
       "addStars": "7,545",
       "contributors": [
         {
@@ -76,8 +76,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "171,099",
-      "forks": "15,099",
+      "stars": "171,388",
+      "forks": "15,119",
       "addStars": "52,595",
       "contributors": [
         {
@@ -113,8 +113,8 @@
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "57,775",
-      "forks": "3,078",
+      "stars": "57,791",
+      "forks": "3,079",
       "addStars": "1,561",
       "contributors": [
         {
@@ -150,8 +150,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "118,785",
-      "forks": "19,730",
+      "stars": "118,841",
+      "forks": "19,734",
       "addStars": "35,754",
       "contributors": [
         {
@@ -187,8 +187,8 @@
       "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "5,071",
-      "forks": "357",
+      "stars": "5,088",
+      "forks": "361",
       "addStars": "1,059",
       "contributors": [
         {
@@ -224,8 +224,8 @@
       "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "619",
-      "forks": "64",
+      "stars": "627",
+      "forks": "66",
       "addStars": "286",
       "contributors": [
         {
@@ -246,7 +246,7 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,842",
+      "stars": "3,848",
       "forks": "403",
       "addStars": "1,050",
       "contributors": [
@@ -278,7 +278,7 @@
       "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "20,398",
+      "stars": "20,401",
       "forks": "5,396",
       "addStars": "922",
       "contributors": [
@@ -316,7 +316,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "3,407",
-      "forks": "181",
+      "forks": "182",
       "addStars": "1,045",
       "contributors": [
         {
@@ -342,8 +342,8 @@
       "description": "Docker configuration for running VLLM on dual DGX Sparks",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,207",
-      "forks": "208",
+      "stars": "1,209",
+      "forks": "210",
       "addStars": "457",
       "contributors": [
         {
@@ -379,8 +379,8 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "12,231",
-      "forks": "761",
+      "stars": "12,237",
+      "forks": "762",
       "addStars": "412",
       "contributors": [
         {
@@ -416,8 +416,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "25,133",
-      "forks": "3,119",
+      "stars": "25,220",
+      "forks": "3,127",
       "addStars": "24,929",
       "contributors": [
         {

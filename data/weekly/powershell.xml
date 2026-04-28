@@ -3,7 +3,7 @@
     <title>GitHub Powershell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Powershell Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>ChrisTitusTech/winutil</title>
       <link>https://github.com/ChrisTitusTech/winutil</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ChrisTitusTech/winutil</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>53,445</stars>
-      <forks>3,001</forks>
+      <stars>53,463</stars>
+      <forks>3,003</forks>
       <addStars>1,065</addStars>
       <contributors>
         <contributor>
@@ -43,46 +43,13 @@
       </contributors>
     </item>
     <item>
-      <title>microsoft/azure-skills</title>
-      <link>https://github.com/microsoft/azure-skills</link>
-      <description>Official agent plugin providing skills and MCP server configurations for Azure scenarios.</description>
-      <guid>https://github.com/microsoft/azure-skills</guid>
-      <language>PowerShell</language>
-      <languageColor>#012456</languageColor>
-      <stars>751</stars>
-      <forks>115</forks>
-      <addStars>82</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52458914?s=40&amp;v=4</avatar>
-          <name>fanyang-mono</name>
-          <url>https://github.com/fanyang-mono</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102772054?s=40&amp;v=4</avatar>
-          <name>kvenkatrajan</name>
-          <url>https://github.com/kvenkatrajan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/74415662?s=40&amp;v=4</avatar>
-          <name>charris-msft</name>
-          <url>https://github.com/charris-msft</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22682497?s=40&amp;v=4</avatar>
-          <name>saikoumudi</name>
-          <url>https://github.com/saikoumudi</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>actions/runner-images</title>
       <link>https://github.com/actions/runner-images</link>
       <description>GitHub Actions runner images</description>
       <guid>https://github.com/actions/runner-images</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>12,693</stars>
+      <stars>12,694</stars>
       <forks>3,725</forks>
       <addStars>29</addStars>
       <contributors>
@@ -110,7 +77,7 @@
       <guid>https://github.com/ntdevlabs/tiny11builder</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>18,555</stars>
+      <stars>18,557</stars>
       <forks>1,435</forks>
       <addStars>87</addStars>
       <contributors>
@@ -187,7 +154,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>21,951</stars>
-      <forks>4,953</forks>
+      <forks>4,952</forks>
       <addStars>16</addStars>
       <contributors>
         <contributor>
@@ -224,8 +191,8 @@
       <guid>https://github.com/microsoft/hve-core</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>1,018</stars>
-      <forks>165</forks>
+      <stars>1,020</stars>
+      <forks>166</forks>
       <addStars>35</addStars>
       <contributors>
         <contributor>
@@ -295,7 +262,7 @@
       <guid>https://github.com/Raphire/Win11Debloat</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>45,487</stars>
+      <stars>45,502</stars>
       <forks>1,855</forks>
       <addStars>518</addStars>
       <contributors>
@@ -371,8 +338,8 @@
       <guid>https://github.com/Orange-Cyberdefense/GOAD</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>7,757</stars>
-      <forks>1,063</forks>
+      <stars>7,758</stars>
+      <forks>1,064</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>

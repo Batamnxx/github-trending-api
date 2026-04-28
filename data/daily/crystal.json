@@ -2,7 +2,7 @@
   "title": "GitHub Crystal Languages Daily Trending",
   "description": "Daily Trending of Crystal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "crystal-lang/crystal",
@@ -47,8 +47,8 @@
       "description": "Invidious is an alternative front-end to YouTube",
       "language": "Crystal",
       "languageColor": "#000100",
-      "stars": "19,081",
-      "forks": "2,120",
+      "stars": "19,149",
+      "forks": "2,125",
       "addStars": "4",
       "contributors": [
         {

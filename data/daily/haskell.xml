@@ -3,7 +3,7 @@
     <title>GitHub Haskell Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Haskell Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>PostgREST/postgrest</title>
       <link>https://github.com/PostgREST/postgrest</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/PostgREST/postgrest</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>27,043</stars>
+      <stars>27,044</stars>
       <forks>1,189</forks>
       <addStars>11</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/IntersectMBO/plutus</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>1,634</stars>
+      <stars>1,635</stars>
       <forks>510</forks>
       <addStars>0</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/jgm/pandoc</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>43,752</stars>
-      <forks>3,833</forks>
+      <stars>43,756</stars>
+      <forks>3,834</forks>
       <addStars>26</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/koalaman/shellcheck</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>39,346</stars>
+      <stars>39,345</stars>
       <forks>1,912</forks>
       <addStars>6</addStars>
       <contributors>
@@ -201,7 +201,7 @@
       <guid>https://github.com/b3nj5m1n/xdg-ninja</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>3,195</stars>
+      <stars>3,196</stars>
       <forks>188</forks>
       <addStars>1</addStars>
       <contributors>

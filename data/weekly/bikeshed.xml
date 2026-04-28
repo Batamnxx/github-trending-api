@@ -3,7 +3,7 @@
     <title>GitHub Bikeshed Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Bikeshed Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>patcg-individual-drafts/topics</title>
       <link>https://github.com/patcg-individual-drafts/topics</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/patcg-individual-drafts/topics</guid>
       <language>Bikeshed</language>
       <languageColor>#5562ac</languageColor>
-      <stars>834</stars>
-      <forks>822</forks>
+      <stars>835</stars>
+      <forks>823</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/webmachinelearning/webmcp</guid>
       <language>Bikeshed</language>
       <languageColor>#5562ac</languageColor>
-      <stars>2,317</stars>
+      <stars>2,318</stars>
       <forks>141</forks>
       <addStars>26</addStars>
       <contributors>

@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Weekly Trending",
   "description": "Weekly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "Freika/dawarich",
@@ -10,7 +10,7 @@
       "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "8,872",
+      "stars": "8,871",
       "forks": "293",
       "addStars": "115",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "For empowering community 🌱",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "22,671",
+      "stars": "22,670",
       "forks": "4,179",
       "addStars": "8",
       "contributors": [
@@ -69,8 +69,8 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "28,901",
-      "forks": "7,094",
+      "stars": "28,911",
+      "forks": "7,101",
       "addStars": "228",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Community-curated topic and collection pages on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,735",
-      "forks": "14,166",
+      "stars": "4,736",
+      "forks": "14,167",
       "addStars": "11",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "23,553",
-      "forks": "5,583",
+      "stars": "23,551",
+      "forks": "5,584",
       "addStars": "36",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "46,917",
-      "forks": "8,891",
+      "stars": "46,920",
+      "forks": "8,892",
       "addStars": "65",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "🍺 The missing package manager for macOS (or Linux)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "47,764",
-      "forks": "11,086",
+      "stars": "47,767",
+      "forks": "11,088",
       "addStars": "142",
       "contributors": [
         {
@@ -249,7 +249,7 @@
       "description": "API Documentation Browser",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "38,790",
+      "stars": "38,791",
       "forks": "2,592",
       "addStars": "55",
       "contributors": [
@@ -281,7 +281,7 @@
       "description": "OpenProject is the leading open source project management software.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "14,950",
+      "stars": "14,951",
       "forks": "3,210",
       "addStars": "74",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "38,048",
+      "stars": "38,050",
       "forks": "14,850",
       "addStars": "64",
       "contributors": [
@@ -355,8 +355,8 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,389",
-      "forks": "22,203",
+      "stars": "58,387",
+      "forks": "22,202",
       "addStars": "38",
       "contributors": [
         {
@@ -392,7 +392,7 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "11,782",
+      "stars": "11,783",
       "forks": "1,035",
       "addStars": "34",
       "contributors": [
@@ -424,8 +424,8 @@
       "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "51,393",
-      "forks": "10,284",
+      "stars": "51,395",
+      "forks": "10,283",
       "addStars": "46",
       "contributors": [
         {
@@ -462,7 +462,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "49,887",
-      "forks": "7,434",
+      "forks": "7,433",
       "addStars": "45",
       "contributors": [
         {
@@ -488,7 +488,7 @@
       "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "13,438",
+      "stars": "13,439",
       "forks": "5,135",
       "addStars": "15",
       "contributors": [
@@ -563,7 +563,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "15,375",
-      "forks": "5,256",
+      "forks": "5,257",
       "addStars": "19",
       "contributors": [
         {
@@ -663,7 +663,7 @@
       "description": "Zammad is a web based open source helpdesk/customer support system.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "5,560",
+      "stars": "5,562",
       "forks": "981",
       "addStars": "24",
       "contributors": [
@@ -700,8 +700,8 @@
       "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "24,321",
-      "forks": "5,792",
+      "stars": "24,320",
+      "forks": "5,791",
       "addStars": "11",
       "contributors": [
         {

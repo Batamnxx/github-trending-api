@@ -2,7 +2,7 @@
   "title": "GitHub Scheme Languages Monthly Trending",
   "description": "Monthly Trending of Scheme Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "ashinn/chibi-scheme",
@@ -10,7 +10,7 @@
       "description": "Official chibi-scheme repository",
       "language": "Scheme",
       "languageColor": "#1e4aec",
-      "stars": "1,354",
+      "stars": "1,355",
       "forks": "155",
       "addStars": "9",
       "contributors": [

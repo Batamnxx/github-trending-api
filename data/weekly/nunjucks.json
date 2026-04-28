@@ -2,7 +2,7 @@
   "title": "GitHub Nunjucks Languages Weekly Trending",
   "description": "Weekly Trending of Nunjucks Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "remoteintech/remote-jobs",
@@ -10,7 +10,7 @@
       "description": "Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies",
       "language": "Nunjucks",
       "languageColor": "#3d8137",
-      "stars": "40,277",
+      "stars": "40,278",
       "forks": "3,931",
       "addStars": "31",
       "contributors": [
@@ -43,7 +43,7 @@
       "language": "Nunjucks",
       "languageColor": "#3d8137",
       "stars": "914",
-      "forks": "897",
+      "forks": "898",
       "addStars": "4",
       "contributors": [
         {

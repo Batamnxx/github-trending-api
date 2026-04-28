@@ -2,7 +2,7 @@
   "title": "GitHub Nushell Languages Daily Trending",
   "description": "Daily Trending of Nushell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "omerxx/dotfiles",
@@ -42,7 +42,7 @@
       "description": "A community trust management system based on explicit vouches to participate.",
       "language": "Nushell",
       "languageColor": "#4E9906",
-      "stars": "4,286",
+      "stars": "4,288",
       "forks": "77",
       "addStars": "11",
       "contributors": [

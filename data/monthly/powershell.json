@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Monthly Trending",
   "description": "Monthly Trending of Powershell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "ChrisTitusTech/winutil",
@@ -10,8 +10,8 @@
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "53,445",
-      "forks": "3,001",
+      "stars": "53,463",
+      "forks": "3,003",
       "addStars": "3,210",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "45,487",
+      "stars": "45,502",
       "forks": "1,855",
       "addStars": "2,855",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "MCP Server and CLI for accessing Work IQ",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "769",
+      "stars": "770",
       "forks": "73",
       "addStars": "154",
       "contributors": [
@@ -143,44 +143,12 @@
       ]
     },
     {
-      "title": "microsoft/azure-skills",
-      "url": "https://github.com/microsoft/azure-skills",
-      "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "751",
-      "forks": "115",
-      "addStars": "178",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52458914?s=40&v=4",
-          "name": "fanyang-mono",
-          "url": "https://github.com/fanyang-mono"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102772054?s=40&v=4",
-          "name": "kvenkatrajan",
-          "url": "https://github.com/kvenkatrajan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74415662?s=40&v=4",
-          "name": "charris-msft",
-          "url": "https://github.com/charris-msft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22682497?s=40&v=4",
-          "name": "saikoumudi",
-          "url": "https://github.com/saikoumudi"
-        }
-      ]
-    },
-    {
       "title": "microsoft/skills-for-fabric",
       "url": "https://github.com/microsoft/skills-for-fabric",
       "description": "A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "306",
+      "stars": "307",
       "forks": "68",
       "addStars": "109",
       "contributors": [
@@ -202,7 +170,7 @@
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "12,693",
+      "stars": "12,694",
       "forks": "3,725",
       "addStars": "117",
       "contributors": [
@@ -267,7 +235,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "2,063",
-      "forks": "1,621",
+      "forks": "1,622",
       "addStars": "21",
       "contributors": [
         {
@@ -335,7 +303,7 @@
       "description": "The Official USB Rubber Ducky Payload Repository",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "5,690",
+      "stars": "5,692",
       "forks": "1,638",
       "addStars": "83",
       "contributors": [
@@ -410,7 +378,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "168",
-      "forks": "551",
+      "forks": "552",
       "addStars": "5",
       "contributors": [
         {

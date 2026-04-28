@@ -3,7 +3,7 @@
     <title>GitHub C++ Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of C++ Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>google/googletest</title>
       <link>https://github.com/google/googletest</link>
@@ -45,7 +45,7 @@
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
       <stars>12,604</stars>
-      <forks>1,016</forks>
+      <forks>1,015</forks>
       <addStars>42</addStars>
       <contributors>
         <contributor>
@@ -83,7 +83,7 @@
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
       <stars>13,279</stars>
-      <forks>1,479</forks>
+      <forks>1,478</forks>
       <addStars>305</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/imputnet/helium</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>14,621</stars>
-      <forks>329</forks>
+      <stars>14,659</stars>
+      <forks>330</forks>
       <addStars>614</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/nlohmann/json</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>49,512</stars>
-      <forks>7,379</forks>
+      <stars>49,516</stars>
+      <forks>7,380</forks>
       <addStars>83</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/ggml-org/llama.cpp</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>107,153</stars>
-      <forks>17,490</forks>
+      <stars>107,190</stars>
+      <forks>17,501</forks>
       <addStars>1,802</addStars>
       <contributors>
         <contributor>
@@ -229,7 +229,7 @@
       <guid>https://github.com/microsoft/onnxruntime</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>20,371</stars>
+      <stars>20,372</stars>
       <forks>3,875</forks>
       <addStars>463</addStars>
       <contributors>
@@ -267,7 +267,7 @@
       <guid>https://github.com/BruceDevices/firmware</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>5,460</stars>
+      <stars>5,465</stars>
       <forks>1,848</forks>
       <addStars>69</addStars>
       <contributors>
@@ -305,8 +305,8 @@
       <guid>https://github.com/LizardByte/Sunshine</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>36,507</stars>
-      <forks>1,884</forks>
+      <stars>36,510</stars>
+      <forks>1,885</forks>
       <addStars>301</addStars>
       <contributors>
         <contributor>
@@ -339,7 +339,7 @@
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
       <stars>10,607</stars>
-      <forks>1,223</forks>
+      <forks>1,222</forks>
       <addStars>77</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/esphome/esphome</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>10,988</stars>
-      <forks>5,239</forks>
+      <stars>10,990</stars>
+      <forks>5,240</forks>
       <addStars>66</addStars>
       <contributors>
         <contributor>
@@ -409,8 +409,8 @@
       <guid>https://github.com/protocolbuffers/protobuf</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>71,167</stars>
-      <forks>16,116</forks>
+      <stars>71,168</stars>
+      <forks>16,117</forks>
       <addStars>72</addStars>
       <contributors>
         <contributor>
@@ -447,7 +447,7 @@
       <guid>https://github.com/microsoft/WSL</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>32,066</stars>
+      <stars>32,068</stars>
       <forks>1,701</forks>
       <addStars>150</addStars>
       <contributors>
@@ -518,7 +518,7 @@
       <guid>https://github.com/meshtastic/firmware</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>7,364</stars>
+      <stars>7,366</stars>
       <forks>2,284</forks>
       <addStars>49</addStars>
       <contributors>
@@ -579,8 +579,8 @@
       <guid>https://github.com/kvcache-ai/Mooncake</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>5,218</stars>
-      <forks>713</forks>
+      <stars>5,220</stars>
+      <forks>714</forks>
       <addStars>65</addStars>
       <contributors>
         <contributor>
@@ -617,8 +617,8 @@
       <guid>https://github.com/WerWolv/ImHex</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>53,339</stars>
-      <forks>2,370</forks>
+      <stars>53,341</stars>
+      <forks>2,369</forks>
       <addStars>136</addStars>
       <contributors>
         <contributor>
@@ -655,8 +655,8 @@
       <guid>https://github.com/bitcoin/bitcoin</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>88,951</stars>
-      <forks>38,934</forks>
+      <stars>88,957</stars>
+      <forks>38,936</forks>
       <addStars>100</addStars>
       <contributors>
         <contributor>
@@ -693,8 +693,8 @@
       <guid>https://github.com/ml-explore/mlx</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>25,819</stars>
-      <forks>1,730</forks>
+      <stars>25,828</stars>
+      <forks>1,731</forks>
       <addStars>224</addStars>
       <contributors>
         <contributor>

@@ -3,7 +3,7 @@
     <title>GitHub Scala Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Scala Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>twitter/the-algorithm</title>
       <link>https://github.com/twitter/the-algorithm</link>
@@ -115,8 +115,8 @@
       <guid>https://github.com/apache/spark</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>43,209</stars>
-      <forks>29,161</forks>
+      <stars>43,210</stars>
+      <forks>29,163</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/sbt/sbt</guid>
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
-      <stars>4,925</stars>
-      <forks>1,031</forks>
+      <stars>4,926</stars>
+      <forks>1,033</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -803,7 +803,7 @@
       <language>Scala</language>
       <languageColor>#c22d40</languageColor>
       <stars>125</stars>
-      <forks>173</forks>
+      <forks>174</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Monthly Trending",
   "description": "Monthly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "Lissy93/dashy",
@@ -10,7 +10,7 @@
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "24,857",
+      "stars": "24,860",
       "forks": "1,820",
       "addStars": "579",
       "contributors": [
@@ -74,8 +74,8 @@
       "description": "🎉 一个简约的第三方酷狗概念版音乐播放器",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,421",
-      "forks": "87",
+      "stars": "1,424",
+      "forks": "88",
       "addStars": "618",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "15,065",
+      "stars": "15,068",
       "forks": "1,229",
       "addStars": "506",
       "contributors": [
@@ -276,7 +276,7 @@
       "description": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "5,227",
+      "stars": "5,228",
       "forks": "1,017",
       "addStars": "194",
       "contributors": [
@@ -350,7 +350,7 @@
       "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "12,389",
+      "stars": "12,390",
       "forks": "2,107",
       "addStars": "302",
       "contributors": [
@@ -382,7 +382,7 @@
       "description": "Fully featured, open source CRM",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,594",
+      "stars": "2,596",
       "forks": "1,026",
       "addStars": "132",
       "contributors": [
@@ -451,7 +451,7 @@
       "description": "An offline-first photo manager for large local libraries",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "568",
+      "stars": "569",
       "forks": "24",
       "addStars": "282",
       "contributors": [
@@ -484,7 +484,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "2,858",
-      "forks": "1,258",
+      "forks": "1,259",
       "addStars": "109",
       "contributors": [
         {

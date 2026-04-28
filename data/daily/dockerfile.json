@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "datawhalechina/vibe-vibe",
@@ -10,7 +10,7 @@
       "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "4,787",
+      "stars": "4,790",
       "forks": "385",
       "addStars": "30",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "✅ The Node.js best practices list (July 2024)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "105,235",
+      "stars": "105,236",
       "forks": "10,728",
       "addStars": "14",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "11,422",
-      "forks": "3,596",
+      "stars": "11,430",
+      "forks": "3,598",
       "addStars": "3",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "99,687",
-      "forks": "10,923",
+      "stars": "99,688",
+      "forks": "10,925",
       "addStars": "23",
       "contributors": [
         {
@@ -352,7 +352,7 @@
       "description": "Run Obsidian.md in a browser via a docker container.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,530",
+      "stars": "2,531",
       "forks": "206",
       "addStars": "2",
       "contributors": [

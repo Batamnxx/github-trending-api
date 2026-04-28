@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Weekly Trending",
   "description": "Weekly Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "alienator88/Pearcleaner",
@@ -10,7 +10,7 @@
       "description": "A free, source-available and fair-code licensed mac app cleaner",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "12,777",
+      "stars": "12,784",
       "forks": "306",
       "addStars": "345",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Lightweight Plain Text Editor for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "7,904",
+      "stars": "7,905",
       "forks": "490",
       "addStars": "51",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "8,758",
-      "forks": "668",
+      "stars": "8,766",
+      "forks": "670",
       "addStars": "200",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Lightweight clipboard manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "19,608",
+      "stars": "19,612",
       "forks": "929",
       "addStars": "118",
       "contributors": [
@@ -158,8 +158,8 @@
       "description": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,035",
-      "forks": "339",
+      "stars": "4,036",
+      "forks": "337",
       "addStars": "67",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "Fast, free alternative to Wispr Flow",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,452",
+      "stars": "1,457",
       "forks": "118",
       "addStars": "88",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "38,375",
+      "stars": "38,383",
       "forks": "1,289",
       "addStars": "233",
       "contributors": [
@@ -306,7 +306,7 @@
       "description": "The modern video player for macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "44,635",
+      "stars": "44,638",
       "forks": "2,807",
       "addStars": "129",
       "contributors": [
@@ -343,8 +343,8 @@
       "description": "Firefox for iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "12,922",
-      "forks": "3,197",
+      "stars": "12,925",
+      "forks": "3,198",
       "addStars": "30",
       "contributors": [
         {
@@ -444,7 +444,7 @@
       "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "102,814",
+      "stars": "102,827",
       "forks": "7,667",
       "addStars": "480",
       "contributors": [
@@ -476,7 +476,7 @@
       "description": "Window peeking, alt-tab and other enhancements for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,705",
+      "stars": "4,712",
       "forks": "142",
       "addStars": "129",
       "contributors": [
@@ -513,7 +513,7 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "33,883",
+      "stars": "33,882",
       "forks": "1,696",
       "addStars": "110",
       "contributors": [
@@ -577,8 +577,8 @@
       "description": "Powerful menu bar manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "27,624",
-      "forks": "687",
+      "stars": "27,626",
+      "forks": "688",
       "addStars": "175",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Monthly Trending",
   "description": "Monthly Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "google-ai-edge/LiteRT-LM",
@@ -10,8 +10,8 @@
       "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,458",
-      "forks": "439",
+      "stars": "4,468",
+      "forks": "438",
       "addStars": "3,437",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "107,153",
-      "forks": "17,490",
+      "stars": "107,190",
+      "forks": "17,501",
       "addStars": "7,870",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "31,579",
+      "stars": "31,584",
       "forks": "6,655",
       "addStars": "1,341",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "15,433",
+      "stars": "15,435",
       "forks": "2,279",
       "addStars": "397",
       "contributors": [
@@ -158,8 +158,8 @@
       "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,898",
-      "forks": "1,361",
+      "stars": "11,902",
+      "forks": "1,362",
       "addStars": "778",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "Distribute and run LLMs with a single file.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "24,305",
+      "stars": "24,308",
       "forks": "1,334",
       "addStars": "456",
       "contributors": [
@@ -232,8 +232,8 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "25,819",
-      "forks": "1,730",
+      "stars": "25,828",
+      "forks": "1,731",
       "addStars": "1,024",
       "contributors": [
         {
@@ -269,8 +269,8 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "14,621",
-      "forks": "329",
+      "stars": "14,659",
+      "forks": "330",
       "addStars": "1,853",
       "contributors": [
         {
@@ -306,7 +306,7 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,620",
+      "stars": "11,624",
       "forks": "838",
       "addStars": "772",
       "contributors": [
@@ -343,8 +343,8 @@
       "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "53,339",
-      "forks": "2,370",
+      "stars": "53,341",
+      "forks": "2,369",
       "addStars": "428",
       "contributors": [
         {
@@ -417,8 +417,8 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "37,788",
-      "forks": "3,184",
+      "stars": "37,794",
+      "forks": "3,186",
       "addStars": "840",
       "contributors": [
         {
@@ -454,7 +454,7 @@
       "description": "LÖVE is an awesome 2D game framework for Lua.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "8,257",
+      "stars": "8,259",
       "forks": "586",
       "addStars": "392",
       "contributors": [
@@ -491,7 +491,7 @@
       "description": "Tensor library for machine learning",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "14,541",
+      "stars": "14,543",
       "forks": "1,581",
       "addStars": "261",
       "contributors": [
@@ -528,8 +528,8 @@
       "description": "Compatibility tool for Steam Play based on Wine and additional components",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "31,175",
-      "forks": "1,414",
+      "stars": "31,178",
+      "forks": "1,415",
       "addStars": "645",
       "contributors": [
         {
@@ -603,7 +603,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "13,279",
-      "forks": "1,479",
+      "forks": "1,478",
       "addStars": "748",
       "contributors": [
         {
@@ -676,7 +676,7 @@
       "description": "llama.cpp fork with additional SOTA quants and improved performance",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,255",
+      "stars": "2,258",
       "forks": "281",
       "addStars": "365",
       "contributors": [
@@ -713,7 +713,7 @@
       "description": "The official GitHub mirror of the Chromium source",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "23,545",
+      "stars": "23,546",
       "forks": "8,814",
       "addStars": "332",
       "contributors": [
@@ -750,7 +750,7 @@
       "description": "Utility to convert between various subscription format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "16,444",
+      "stars": "16,446",
       "forks": "3,742",
       "addStars": "324",
       "contributors": [
@@ -787,7 +787,7 @@
       "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "44,229",
+      "stars": "44,230",
       "forks": "3,670",
       "addStars": "686",
       "contributors": [

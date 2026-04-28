@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "zilliztech/claude-context",
@@ -10,8 +10,8 @@
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,044",
-      "forks": "752",
+      "stars": "10,075",
+      "forks": "753",
       "addStars": "3,725",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,881",
-      "forks": "750",
+      "stars": "10,919",
+      "forks": "752",
       "addStars": "2,346",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,342",
+      "stars": "4,345",
       "forks": "283",
       "addStars": "1,675",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,711",
-      "forks": "2,060",
+      "stars": "13,710",
+      "forks": "2,061",
       "addStars": "2,499",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,247",
-      "forks": "2,655",
+      "stars": "26,261",
+      "forks": "2,657",
       "addStars": "987",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "42,021",
-      "forks": "4,918",
+      "stars": "42,121",
+      "forks": "4,934",
       "addStars": "3,727",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,330",
-      "forks": "2,731",
+      "stars": "22,401",
+      "forks": "2,739",
       "addStars": "4,532",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,701",
-      "forks": "5,367",
+      "stars": "29,717",
+      "forks": "5,376",
       "addStars": "580",
       "contributors": [
         {
@@ -296,7 +296,7 @@
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "44,662",
+      "stars": "44,666",
       "forks": "4,244",
       "addStars": "729",
       "contributors": [
@@ -333,8 +333,8 @@
       "description": "3D Gaussian Splat Editor",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,963",
-      "forks": "585",
+      "stars": "4,965",
+      "forks": "587",
       "addStars": "468",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,428",
-      "forks": "3,681",
+      "stars": "32,552",
+      "forks": "3,695",
       "addStars": "4,043",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "Smart Model Routing for Agents. Cut Costs up to 70% 🦚",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,764",
-      "forks": "331",
+      "stars": "5,775",
+      "forks": "332",
       "addStars": "430",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "40,647",
-      "forks": "4,549",
+      "stars": "40,668",
+      "forks": "4,551",
       "addStars": "1,976",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "77,914",
-      "forks": "6,809",
+      "stars": "77,921",
+      "forks": "6,810",
       "addStars": "841",
       "contributors": [
         {

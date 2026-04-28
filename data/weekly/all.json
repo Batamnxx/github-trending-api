@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "Alishahryar1/free-claude-code",
@@ -10,8 +10,8 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,113",
-      "forks": "2,402",
+      "stars": "17,347",
+      "forks": "2,443",
       "addStars": "13,415",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "35,389",
-      "forks": "2,777",
+      "stars": "36,577",
+      "forks": "2,870",
       "addStars": "10,757",
       "contributors": [
         {
@@ -64,8 +64,8 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "67,797",
-      "forks": "7,596",
+      "stars": "67,910",
+      "forks": "7,611",
       "addStars": "8,378",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "96,221",
-      "forks": "9,336",
+      "stars": "96,637",
+      "forks": "9,378",
       "addStars": "28,522",
       "contributors": [
         {
@@ -138,7 +138,7 @@
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,040",
+      "stars": "10,071",
       "forks": "753",
       "addStars": "3,725",
       "contributors": [
@@ -175,8 +175,8 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,909",
-      "forks": "2,300",
+      "stars": "17,083",
+      "forks": "2,323",
       "addStars": "7,513",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,260",
-      "forks": "1,187",
+      "stars": "7,299",
+      "forks": "1,193",
       "addStars": "2,332",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,564",
-      "forks": "1,708",
+      "stars": "9,686",
+      "forks": "1,722",
       "addStars": "3,862",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,949",
-      "forks": "914",
+      "stars": "7,980",
+      "forks": "918",
       "addStars": "2,832",
       "contributors": [
         {
@@ -318,7 +318,7 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,197",
+      "stars": "19,228",
       "forks": "2,188",
       "addStars": "2,622",
       "contributors": [
@@ -355,8 +355,8 @@
       "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,728",
-      "forks": "417",
+      "stars": "3,775",
+      "forks": "423",
       "addStars": "1,677",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,194",
-      "forks": "631",
+      "stars": "2,272",
+      "forks": "643",
       "addStars": "627",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "36,682",
-      "forks": "1,443",
+      "stars": "36,720",
+      "forks": "1,445",
       "addStars": "1,959",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "25,117",
-      "forks": "3,119",
+      "stars": "25,218",
+      "forks": "3,126",
       "addStars": "6,256",
       "contributors": [
         {

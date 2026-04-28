@@ -2,7 +2,7 @@
   "title": "GitHub Al Languages Daily Trending",
   "description": "Daily Trending of Al Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "microsoft/BCApps",
@@ -11,7 +11,7 @@
       "language": "AL",
       "languageColor": "#3AA2B5",
       "stars": "574",
-      "forks": "366",
+      "forks": "365",
       "addStars": "1",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Repository for collaboration on Microsoft AL application add-on and localization extensions for Microsoft Dynamics 365 Business Central.",
       "language": "AL",
       "languageColor": "#3AA2B5",
-      "stars": "968",
+      "stars": "969",
       "forks": "696",
       "addStars": "1",
       "contributors": [

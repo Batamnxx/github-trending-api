@@ -2,53 +2,16 @@
   "title": "GitHub Javascript Languages Monthly Trending",
   "description": "Monthly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
-    {
-      "title": "jo-inc/camofox-browser",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "3,370",
-      "forks": "337",
-      "addStars": "2,407",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/998?s=40&v=4",
-          "name": "skyfallsin",
-          "url": "https://github.com/skyfallsin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/135282870?s=40&v=4",
-          "name": "company8",
-          "url": "https://github.com/company8"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1442927?s=40&v=4",
-          "name": "leoneparise",
-          "url": "https://github.com/leoneparise"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45483921?s=40&v=4",
-          "name": "Microck",
-          "url": "https://github.com/Microck"
-        }
-      ]
-    },
     {
       "title": "decolua/9router",
       "url": "https://github.com/decolua/9router",
       "description": "Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,276",
-      "forks": "770",
+      "stars": "3,288",
+      "forks": "772",
       "addStars": "1,939",
       "contributors": [
         {
@@ -116,8 +79,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "25,332",
-      "forks": "4,009",
+      "stars": "25,377",
+      "forks": "4,022",
       "addStars": "8,327",
       "contributors": [
         {
@@ -153,8 +116,8 @@
       "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "32,660",
-      "forks": "6,222",
+      "stars": "32,666",
+      "forks": "6,224",
       "addStars": "1,703",
       "contributors": [
         {
@@ -190,8 +153,8 @@
       "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,570",
-      "forks": "1,709",
+      "stars": "9,689",
+      "forks": "1,723",
       "addStars": "6,615",
       "contributors": [
         {
@@ -227,8 +190,8 @@
       "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,057",
-      "forks": "705",
+      "stars": "7,062",
+      "forks": "707",
       "addStars": "5,314",
       "contributors": [
         {
@@ -264,8 +227,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "169,101",
-      "forks": "26,201",
+      "stars": "169,243",
+      "forks": "26,223",
       "addStars": "57,678",
       "contributors": [
         {
@@ -291,8 +254,8 @@
       "description": "Skills for pi coding agent (compatible with Claude Code and Codex CLI)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,439",
-      "forks": "150",
+      "stars": "1,452",
+      "forks": "151",
       "addStars": "482",
       "contributors": [
         {
@@ -313,7 +276,7 @@
       "description": "Open Source version of Claude Cowork with 500+ SaaS app integrations",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,008",
+      "stars": "4,014",
       "forks": "680",
       "addStars": "876",
       "contributors": [
@@ -335,8 +298,8 @@
       "description": "GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "24,236",
-      "forks": "1,390",
+      "stars": "24,240",
+      "forks": "1,391",
       "addStars": "2,321",
       "contributors": [
         {
@@ -362,7 +325,7 @@
       "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "61,261",
+      "stars": "61,260",
       "forks": "7,152",
       "addStars": "88",
       "contributors": [
@@ -399,7 +362,7 @@
       "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "39,522",
+      "stars": "39,523",
       "forks": "7,137",
       "addStars": "323",
       "contributors": [
@@ -436,8 +399,8 @@
       "description": "Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,539",
-      "forks": "172",
+      "stars": "1,541",
+      "forks": "174",
       "addStars": "827",
       "contributors": [
         {
@@ -468,7 +431,7 @@
       "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,170",
+      "stars": "7,178",
       "forks": "726",
       "addStars": "2,529",
       "contributors": [
@@ -505,8 +468,8 @@
       "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via SkillKit), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,467",
-      "forks": "446",
+      "stars": "1,469",
+      "forks": "449",
       "addStars": "540",
       "contributors": [
         {
@@ -542,8 +505,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "22,643",
-      "forks": "1,123",
+      "stars": "22,761",
+      "forks": "1,129",
       "addStars": "8,373",
       "contributors": [
         {

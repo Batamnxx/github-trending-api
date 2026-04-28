@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>35,389</stars>
-      <forks>2,778</forks>
+      <stars>36,576</stars>
+      <forks>2,870</forks>
       <addStars>7,429</addStars>
       <contributors>
         <contributor>
@@ -34,8 +34,8 @@
       <guid>https://github.com/abhigyanpatwari/GitNexus</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,414</stars>
-      <forks>3,679</forks>
+      <stars>32,547</stars>
+      <forks>3,695</forks>
       <addStars>1,565</addStars>
       <contributors>
         <contributor>
@@ -67,8 +67,8 @@
       <guid>https://github.com/ComposioHQ/awesome-codex-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,447</stars>
-      <forks>239</forks>
+      <stars>3,894</stars>
+      <forks>248</forks>
       <addStars>961</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,167</stars>
-      <forks>4,946</forks>
+      <stars>44,587</stars>
+      <forks>4,962</forks>
       <addStars>1,523</addStars>
       <contributors>
         <contributor>
@@ -138,8 +138,8 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,027</stars>
-      <forks>2,608</forks>
+      <stars>26,092</stars>
+      <forks>2,611</forks>
       <addStars>347</addStars>
       <contributors>
         <contributor>
@@ -166,8 +166,8 @@
       <guid>https://github.com/HunxByts/GhostTrack</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,271</stars>
-      <forks>1,458</forks>
+      <stars>10,477</stars>
+      <forks>1,477</forks>
       <addStars>976</addStars>
       <contributors>
         <contributor>
@@ -189,9 +189,9 @@
       <guid>https://github.com/fspecii/ace-step-ui</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,466</stars>
-      <forks>242</forks>
-      <addStars>200</addStars>
+      <stars>1,589</stars>
+      <forks>252</forks>
+      <addStars>263</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4722521?s=40&amp;v=4</avatar>
@@ -217,8 +217,8 @@
       <guid>https://github.com/public-apis/public-apis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>427,747</stars>
-      <forks>46,730</forks>
+      <stars>427,977</stars>
+      <forks>46,744</forks>
       <addStars>600</addStars>
       <contributors>
         <contributor>
@@ -255,8 +255,8 @@
       <guid>https://github.com/CJackHwang/ds2api</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,194</stars>
-      <forks>631</forks>
+      <stars>2,272</stars>
+      <forks>643</forks>
       <addStars>418</addStars>
       <contributors>
         <contributor>
@@ -293,8 +293,8 @@
       <guid>https://github.com/Alishahryar1/free-claude-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,116</stars>
-      <forks>2,402</forks>
+      <stars>17,347</stars>
+      <forks>2,443</forks>
       <addStars>1,706</addStars>
       <contributors>
         <contributor>
@@ -326,8 +326,8 @@
       <guid>https://github.com/donnemartin/system-design-primer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>345,627</stars>
-      <forks>55,811</forks>
+      <stars>345,767</stars>
+      <forks>55,824</forks>
       <addStars>734</addStars>
       <contributors>
         <contributor>
@@ -364,8 +364,8 @@
       <guid>https://github.com/EbookFoundation/free-programming-books</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>386,459</stars>
-      <forks>66,151</forks>
+      <stars>386,556</stars>
+      <forks>66,159</forks>
       <addStars>133</addStars>
       <contributors>
         <contributor>
@@ -402,8 +402,8 @@
       <guid>https://github.com/iamgio/quarkdown</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>11,618</stars>
-      <forks>305</forks>
+      <stars>11,842</stars>
+      <forks>315</forks>
       <addStars>797</addStars>
       <contributors>
         <contributor>

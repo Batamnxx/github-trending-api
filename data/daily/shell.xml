@@ -3,7 +3,7 @@
     <title>GitHub Shell Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Shell Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>35,488</stars>
-      <forks>2,786</forks>
+      <stars>36,627</stars>
+      <forks>2,871</forks>
       <addStars>7,429</addStars>
       <contributors>
         <contributor>
@@ -28,53 +28,15 @@
       </contributors>
     </item>
     <item>
-      <title>nikvdp/cco</title>
-      <link>https://github.com/nikvdp/cco</link>
-      <description>A thin protective layer for Claude Code</description>
-      <guid>https://github.com/nikvdp/cco</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>348</stars>
-      <forks>26</forks>
-      <addStars>34</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4651473?s=40&amp;v=4</avatar>
-          <name>nikvdp</name>
-          <url>https://github.com/nikvdp</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1817286?s=40&amp;v=4</avatar>
-          <name>tfriedel</name>
-          <url>https://github.com/tfriedel</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8575113?s=40&amp;v=4</avatar>
-          <name>tanimon</name>
-          <url>https://github.com/tanimon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/513325?s=40&amp;v=4</avatar>
-          <name>philharton</name>
-          <url>https://github.com/philharton</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>HQarroum/docker-android</title>
       <link>https://github.com/HQarroum/docker-android</link>
       <description>🤖 A minimal and customizable Docker image running the Android emulator as a service.</description>
       <guid>https://github.com/HQarroum/docker-android</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>5,071</stars>
-      <forks>357</forks>
-      <addStars>247</addStars>
+      <stars>5,088</stars>
+      <forks>361</forks>
+      <addStars>116</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1384633?s=40&amp;v=4</avatar>
@@ -110,8 +72,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>171,098</stars>
-      <forks>15,099</forks>
+      <stars>171,387</stars>
+      <forks>15,119</forks>
       <addStars>1,577</addStars>
       <contributors>
         <contributor>
@@ -148,8 +110,8 @@
       <guid>https://github.com/nvm-sh/nvm</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>93,131</stars>
-      <forks>10,131</forks>
+      <stars>93,135</stars>
+      <forks>10,133</forks>
       <addStars>29</addStars>
       <contributors>
         <contributor>
@@ -187,7 +149,7 @@
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
       <stars>46,433</stars>
-      <forks>5,558</forks>
+      <forks>5,559</forks>
       <addStars>23</addStars>
       <contributors>
         <contributor>
@@ -224,9 +186,9 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>25,133</stars>
-      <forks>3,119</forks>
-      <addStars>870</addStars>
+      <stars>25,220</stars>
+      <forks>3,127</forks>
+      <addStars>717</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4</avatar>
@@ -262,8 +224,8 @@
       <guid>https://github.com/pystardust/ani-cli</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>12,231</stars>
-      <forks>761</forks>
+      <stars>12,237</stars>
+      <forks>762</forks>
       <addStars>18</addStars>
       <contributors>
         <contributor>
@@ -301,7 +263,7 @@
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
       <stars>4,915</stars>
-      <forks>469</forks>
+      <forks>470</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -338,8 +300,8 @@
       <guid>https://github.com/zarazhangrui/frontend-slides</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>15,947</stars>
-      <forks>1,292</forks>
+      <stars>15,961</stars>
+      <forks>1,294</forks>
       <addStars>133</addStars>
       <contributors>
         <contributor>
@@ -377,7 +339,7 @@
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
       <stars>9,313</stars>
-      <forks>1,321</forks>
+      <forks>1,322</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Monthly Trending",
   "description": "Monthly Trending of Starlark Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "bazel-contrib/rules_foreign_cc",
@@ -111,7 +111,7 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "3,778",
+      "stars": "3,779",
       "forks": "292",
       "addStars": "45",
       "contributors": [
@@ -260,7 +260,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": "363",
-      "forks": "744",
+      "forks": "743",
       "addStars": "7",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "22,568",
+      "stars": "22,569",
       "forks": "1,387",
       "addStars": "159",
       "contributors": [
@@ -631,8 +631,8 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": "8,541",
-      "forks": "2,575",
+      "stars": "8,543",
+      "forks": "2,574",
       "addStars": "58",
       "contributors": [
         {

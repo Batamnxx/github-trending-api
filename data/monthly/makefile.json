@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Monthly Trending",
   "description": "Monthly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "ROCKNIX/distribution",
@@ -10,7 +10,7 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "1,233",
+      "stars": "1,234",
       "forks": "222",
       "addStars": "131",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "776",
+      "stars": "777",
       "forks": "308",
       "addStars": "9",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "2,961",
+      "stars": "2,962",
       "forks": "127",
       "addStars": "60",
       "contributors": [
@@ -265,7 +265,7 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": "34",
-      "forks": "51",
+      "forks": "52",
       "addStars": "1",
       "contributors": [
         {
@@ -370,8 +370,8 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "55,862",
-      "forks": "5,443",
+      "stars": "55,865",
+      "forks": "5,442",
       "addStars": "287",
       "contributors": [
         {
@@ -407,7 +407,7 @@
       "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "4,079",
+      "stars": "4,080",
       "forks": "118",
       "addStars": "71",
       "contributors": [

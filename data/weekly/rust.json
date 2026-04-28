@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "GyulyVGC/sniffnet",
@@ -10,8 +10,8 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "36,683",
-      "forks": "1,443",
+      "stars": "36,722",
+      "forks": "1,445",
       "addStars": "1,959",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "54,223",
-      "forks": "3,519",
+      "stars": "54,357",
+      "forks": "3,536",
       "addStars": "5,027",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,548",
-      "forks": "2,270",
+      "stars": "37,685",
+      "forks": "2,279",
       "addStars": "6,222",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "🧱 secure, local and programmable sandboxes for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,864",
-      "forks": "282",
+      "stars": "5,869",
+      "forks": "283",
       "addStars": "226",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,607",
-      "forks": "6,682",
+      "stars": "50,625",
+      "forks": "6,685",
       "addStars": "2,604",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "79,943",
-      "forks": "8,033",
+      "stars": "79,954",
+      "forks": "8,037",
       "addStars": "546",
       "contributors": [
         {
@@ -244,7 +244,7 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "59,418",
+      "stars": "59,425",
       "forks": "2,740",
       "addStars": "732",
       "contributors": [
@@ -281,8 +281,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,425",
-      "forks": "1,114",
+      "stars": "11,432",
+      "forks": "1,116",
       "addStars": "199",
       "contributors": [
         {
@@ -318,7 +318,7 @@
       "description": "Secure and fast microVMs for serverless computing.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "34,009",
+      "stars": "34,012",
       "forks": "2,364",
       "addStars": "173",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "30,815",
+      "stars": "30,818",
       "forks": "2,215",
       "addStars": "325",
       "contributors": [
@@ -387,7 +387,7 @@
       "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,697",
+      "stars": "20,700",
       "forks": "928",
       "addStars": "201",
       "contributors": [
@@ -424,7 +424,7 @@
       "description": "A markup-based typesetting system that is powerful and easy to learn.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "53,145",
+      "stars": "53,151",
       "forks": "1,554",
       "addStars": "256",
       "contributors": [
@@ -493,7 +493,7 @@
       "description": "",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "678",
+      "stars": "679",
       "forks": "94",
       "addStars": "51",
       "contributors": [
@@ -525,8 +525,8 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,036",
-      "forks": "304",
+      "stars": "7,039",
+      "forks": "305",
       "addStars": "135",
       "contributors": [
         {
@@ -562,8 +562,8 @@
       "description": "Fast Rust-based bundler for the web with a modernized webpack API 🦀",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,653",
-      "forks": "791",
+      "stars": "12,654",
+      "forks": "792",
       "addStars": "34",
       "contributors": [
         {

@@ -3,7 +3,7 @@
     <title>GitHub Gdscript Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Gdscript Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>Orama-Interactive/Pixelorama</title>
       <link>https://github.com/Orama-Interactive/Pixelorama</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/Orama-Interactive/Pixelorama</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>9,439</stars>
+      <stars>9,442</stars>
       <forks>496</forks>
       <addStars>169</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/KsanaDock/Microverse</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>2,258</stars>
+      <stars>2,259</stars>
       <forks>389</forks>
       <addStars>79</addStars>
       <contributors>
@@ -201,7 +201,7 @@
       <guid>https://github.com/dialogic-godot/dialogic</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>5,493</stars>
+      <stars>5,494</stars>
       <forks>325</forks>
       <addStars>127</addStars>
       <contributors>
@@ -277,8 +277,8 @@
       <guid>https://github.com/gdquest-demos/godot-open-rpg</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>2,712</stars>
-      <forks>320</forks>
+      <stars>2,713</stars>
+      <forks>321</forks>
       <addStars>71</addStars>
       <contributors>
         <contributor>

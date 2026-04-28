@@ -3,7 +3,7 @@
     <title>GitHub Astro Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Astro Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>RyanFitzgerald/devportfolio</title>
       <link>https://github.com/RyanFitzgerald/devportfolio</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/RyanFitzgerald/devportfolio</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>4,865</stars>
+      <stars>4,867</stars>
       <forks>4,133</forks>
       <addStars>0</addStars>
       <contributors>
@@ -44,7 +44,7 @@
       <guid>https://github.com/bitbonsai/mcpvault</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>1,161</stars>
+      <stars>1,162</stars>
       <forks>88</forks>
       <addStars>10</addStars>
       <contributors>
@@ -78,7 +78,7 @@
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
       <stars>1,091</stars>
-      <forks>377</forks>
+      <forks>378</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -153,7 +153,7 @@
       <guid>https://github.com/cworld1/astro-theme-pure</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>911</stars>
+      <stars>912</stars>
       <forks>252</forks>
       <addStars>4</addStars>
       <contributors>
@@ -224,8 +224,8 @@
       <guid>https://github.com/samber/awesome-prometheus-alerts</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>7,948</stars>
-      <forks>1,148</forks>
+      <stars>7,949</stars>
+      <forks>1,147</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -258,7 +258,7 @@
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
       <stars>363</stars>
-      <forks>4,378</forks>
+      <forks>4,379</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>

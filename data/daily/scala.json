@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Daily Trending",
   "description": "Daily Trending of Scala Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "twitter/the-algorithm",
@@ -111,8 +111,8 @@
       "description": "Apache Spark - A unified analytics engine for large-scale data processing",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "43,209",
-      "forks": "29,161",
+      "stars": "43,210",
+      "forks": "29,163",
       "addStars": "7",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "sbt, the interactive build tool",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": "4,925",
-      "forks": "1,031",
+      "stars": "4,926",
+      "forks": "1,033",
       "addStars": "1",
       "contributors": [
         {
@@ -780,7 +780,7 @@
       "language": "Scala",
       "languageColor": "#c22d40",
       "stars": "125",
-      "forks": "173",
+      "forks": "174",
       "addStars": "0",
       "contributors": [
         {

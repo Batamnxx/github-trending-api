@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Daily Trending",
   "description": "Daily Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "thewhiteh4t/seeker",
@@ -10,8 +10,8 @@
       "description": "Accurately Locate Smartphones using Social Engineering",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "9,311",
-      "forks": "2,163",
+      "stars": "9,316",
+      "forks": "2,164",
       "addStars": "18",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "11,237",
-      "forks": "3,060",
+      "stars": "11,238",
+      "forks": "3,062",
       "addStars": "6",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "my blog",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,377",
+      "stars": "1,380",
       "forks": "289",
-      "addStars": "14",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
@@ -121,7 +121,7 @@
       "description": "50+ mini web projects using HTML, CSS & JS",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "40,529",
+      "stars": "40,530",
       "forks": "9,763",
       "addStars": "7",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "🕶️ Awesome stuff for Obsidian",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "8,720",
+      "stars": "8,722",
       "forks": "348",
       "addStars": "6",
       "contributors": [
@@ -368,8 +368,8 @@
       "title": "brgkdm/DayZen-good-first-issue",
       "url": "https://github.com/brgkdm/DayZen-good-first-issue",
       "description": "A user-friendly dashboard for beginners and advanced students that allows them to input and visualize their daily routine.",
-      "language": "CSS",
-      "languageColor": "#663399",
+      "language": "HTML",
+      "languageColor": "#e34c26",
       "stars": "28",
       "forks": "105",
       "addStars": "0",

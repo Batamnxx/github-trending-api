@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>datawhalechina/vibe-vibe</title>
       <link>https://github.com/datawhalechina/vibe-vibe</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/datawhalechina/vibe-vibe</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>4,787</stars>
+      <stars>4,790</stars>
       <forks>385</forks>
       <addStars>30</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/goldbergyoni/nodebestpractices</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>105,235</stars>
+      <stars>105,236</stars>
       <forks>10,728</forks>
       <addStars>14</addStars>
       <contributors>
@@ -82,8 +82,8 @@
       <guid>https://github.com/autowarefoundation/autoware</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>11,422</stars>
-      <forks>3,596</forks>
+      <stars>11,430</stars>
+      <forks>3,598</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/Anduin2017/HowToCook</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>99,687</stars>
-      <forks>10,923</forks>
+      <stars>99,688</stars>
+      <forks>10,925</forks>
       <addStars>23</addStars>
       <contributors>
         <contributor>
@@ -364,7 +364,7 @@
       <guid>https://github.com/sytone/obsidian-remote</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>2,530</stars>
+      <stars>2,531</stars>
       <forks>206</forks>
       <addStars>2</addStars>
       <contributors>

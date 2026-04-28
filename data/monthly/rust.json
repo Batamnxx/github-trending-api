@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Monthly Trending",
   "description": "Monthly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "rtk-ai/rtk",
@@ -10,8 +10,8 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,548",
-      "forks": "2,270",
+      "stars": "37,685",
+      "forks": "2,279",
       "addStars": "22,504",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "54,223",
-      "forks": "3,519",
+      "stars": "54,357",
+      "forks": "3,536",
       "addStars": "18,629",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "78,529",
-      "forks": "11,221",
+      "stars": "78,582",
+      "forks": "11,227",
       "addStars": "10,729",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "ML-powered manga translator, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,166",
+      "stars": "4,167",
       "forks": "224",
       "addStars": "2,964",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,091",
+      "stars": "7,095",
       "forks": "1,407",
       "addStars": "1,905",
       "contributors": [
@@ -180,8 +180,8 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "43,453",
-      "forks": "4,432",
+      "stars": "43,469",
+      "forks": "4,437",
       "addStars": "9,988",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "🧱 secure, local and programmable sandboxes for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,864",
-      "forks": "282",
+      "stars": "5,869",
+      "forks": "283",
       "addStars": "707",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "36,683",
-      "forks": "1,443",
+      "stars": "36,722",
+      "forks": "1,445",
       "addStars": "3,482",
       "contributors": [
         {
@@ -308,8 +308,8 @@
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "26,682",
-      "forks": "1,141",
+      "stars": "26,701",
+      "forks": "1,142",
       "addStars": "2,819",
       "contributors": [
         {
@@ -345,7 +345,7 @@
       "description": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "30,532",
+      "stars": "30,534",
       "forks": "520",
       "addStars": "870",
       "contributors": [
@@ -367,12 +367,12 @@
       ]
     },
     {
-      "title": "dmtrKovalenko/fff.nvim",
-      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "title": "dmtrKovalenko/fff",
+      "url": "https://github.com/dmtrKovalenko/fff",
       "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,506",
+      "stars": "5,514",
       "forks": "247",
       "addStars": "4,323",
       "contributors": [
@@ -404,7 +404,7 @@
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,206",
+      "stars": "2,210",
       "forks": "127",
       "addStars": "792",
       "contributors": [
@@ -441,8 +441,8 @@
       "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,259",
-      "forks": "1,310",
+      "stars": "15,269",
+      "forks": "1,311",
       "addStars": "1,560",
       "contributors": [
         {
@@ -478,8 +478,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "113,069",
-      "forks": "16,953",
+      "stars": "113,083",
+      "forks": "16,959",
       "addStars": "3,218",
       "contributors": [
         {
@@ -512,11 +512,11 @@
     {
       "title": "tonhowtf/omniget",
       "url": "https://github.com/tonhowtf/omniget",
-      "description": "Desktop app to download videos, courses. YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt-dlp. Download torrents and send files between devices over P2P.",
+      "description": "Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs and EPUBs with highlights, bookmarks and a focus mode. Also downloads YouTube, Instagram, TikTok and torrents.",
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "2,210",
-      "forks": "161",
+      "forks": "162",
       "addStars": "1,203",
       "contributors": [
         {
@@ -553,7 +553,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "18,958",
-      "forks": "539",
+      "forks": "540",
       "addStars": "1,866",
       "contributors": [
         {
@@ -589,7 +589,7 @@
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "63,050",
+      "stars": "63,057",
       "forks": "2,527",
       "addStars": "1,689",
       "contributors": [
@@ -626,7 +626,7 @@
       "description": "🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,310",
+      "stars": "2,318",
       "forks": "154",
       "addStars": "914",
       "contributors": [

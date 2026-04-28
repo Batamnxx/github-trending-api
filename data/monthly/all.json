@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "forrestchang/andrej-karpathy-skills",
@@ -10,8 +10,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "96,221",
-      "forks": "9,336",
+      "stars": "96,637",
+      "forks": "9,378",
       "addStars": "85,629",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "122,286",
-      "forks": "18,205",
+      "stars": "122,693",
+      "forks": "18,267",
       "addStars": "106,290",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,589",
+      "stars": "26,620",
       "forks": "2,177",
       "addStars": "23,773",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,113",
-      "forks": "2,402",
+      "stars": "17,347",
+      "forks": "2,443",
       "addStars": "14,253",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,853",
-      "forks": "3,861",
+      "stars": "21,869",
+      "forks": "3,865",
       "addStars": "10,523",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,388",
-      "forks": "2,981",
+      "stars": "22,410",
+      "forks": "2,987",
       "addStars": "11,444",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,909",
-      "forks": "2,300",
+      "stars": "17,083",
+      "forks": "2,323",
       "addStars": "13,159",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,368",
-      "forks": "2,241",
+      "stars": "33,415",
+      "forks": "2,244",
       "addStars": "24,316",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "22,195",
-      "forks": "2,162",
+      "stars": "22,214",
+      "forks": "2,165",
       "addStars": "6,756",
       "contributors": [
         {
@@ -318,7 +318,7 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,995",
+      "stars": "20,006",
       "forks": "3,076",
       "addStars": "6,196",
       "contributors": [
@@ -350,8 +350,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "118,266",
-      "forks": "7,794",
+      "stars": "118,321",
+      "forks": "7,800",
       "addStars": "25,592",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,904",
-      "forks": "3,649",
+      "stars": "29,958",
+      "forks": "3,652",
       "addStars": "27,117",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,949",
-      "forks": "914",
+      "stars": "7,980",
+      "forks": "918",
       "addStars": "6,876",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "35,389",
-      "forks": "2,777",
+      "stars": "36,577",
+      "forks": "2,870",
       "addStars": "16,974",
       "contributors": [
         {
@@ -483,8 +483,8 @@
       "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,458",
-      "forks": "439",
+      "stars": "4,468",
+      "forks": "438",
       "addStars": "3,437",
       "contributors": [
         {
@@ -520,8 +520,8 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "67,797",
-      "forks": "7,596",
+      "stars": "67,910",
+      "forks": "7,611",
       "addStars": "11,451",
       "contributors": [
         {
@@ -557,8 +557,8 @@
       "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,021",
-      "forks": "990",
+      "stars": "9,073",
+      "forks": "995",
       "addStars": "5,540",
       "contributors": [
         {
@@ -594,8 +594,8 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,539",
-      "forks": "2,270",
+      "stars": "37,680",
+      "forks": "2,278",
       "addStars": "22,504",
       "contributors": [
         {
@@ -626,8 +626,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "69,044",
-      "forks": "5,886",
+      "stars": "69,129",
+      "forks": "5,900",
       "addStars": "27,414",
       "contributors": [
         {

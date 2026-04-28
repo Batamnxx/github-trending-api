@@ -3,7 +3,7 @@
     <title>GitHub Mdx Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Mdx Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>enactic/openarm</title>
       <link>https://github.com/enactic/openarm</link>
@@ -44,8 +44,8 @@
       <guid>https://github.com/cloudflare/cloudflare-docs</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>4,670</stars>
-      <forks>13,947</forks>
+      <stars>4,672</stars>
+      <forks>13,950</forks>
       <addStars>159</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/twbs/bootstrap</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>174,211</stars>
-      <forks>78,946</forks>
+      <stars>174,212</stars>
+      <forks>78,945</forks>
       <addStars>343</addStars>
       <contributors>
         <contributor>
@@ -115,7 +115,7 @@
       <guid>https://github.com/dair-ai/Prompt-Engineering-Guide</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>73,943</stars>
+      <stars>73,955</stars>
       <forks>7,987</forks>
       <addStars>1,719</addStars>
       <contributors>
@@ -154,7 +154,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>432</stars>
-      <forks>2,251</forks>
+      <forks>2,252</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -225,7 +225,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>39,292</stars>
-      <forks>3,351</forks>
+      <forks>3,353</forks>
       <addStars>726</addStars>
       <contributors>
         <contributor>
@@ -262,7 +262,7 @@
       <guid>https://github.com/npm/documentation</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>639</stars>
+      <stars>640</stars>
       <forks>3,874</forks>
       <addStars>31</addStars>
       <contributors>
@@ -295,8 +295,8 @@
       <guid>https://github.com/deepset-ai/haystack</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>25,008</stars>
-      <forks>2,743</forks>
+      <stars>25,011</stars>
+      <forks>2,744</forks>
       <addStars>432</addStars>
       <contributors>
         <contributor>
@@ -328,7 +328,7 @@
       <guid>https://github.com/any4ai/AnyCrawl</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>3,143</stars>
+      <stars>3,144</stars>
       <forks>339</forks>
       <addStars>380</addStars>
       <contributors>
@@ -461,7 +461,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>1,928</stars>
-      <forks>300</forks>
+      <forks>301</forks>
       <addStars>249</addStars>
       <contributors>
         <contributor>
@@ -593,7 +593,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>113</stars>
-      <forks>55</forks>
+      <forks>57</forks>
       <addStars>12</addStars>
       <contributors>
         <contributor>

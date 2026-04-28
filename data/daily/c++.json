@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "facebook/react-native",
@@ -10,8 +10,8 @@
       "description": "A framework for building native applications using React",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "125,734",
-      "forks": "25,150",
+      "stars": "125,737",
+      "forks": "25,151",
       "addStars": "12",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "810",
-      "forks": "92",
+      "stars": "818",
+      "forks": "95",
       "addStars": "84",
       "contributors": [
         {
@@ -79,9 +79,9 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "14,621",
-      "forks": "329",
-      "addStars": "223",
+      "stars": "14,659",
+      "forks": "330",
+      "addStars": "202",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71202418?s=40&v=4",
@@ -116,7 +116,7 @@
       "description": "RenderDoc is a stand-alone graphics debugging tool.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "10,648",
+      "stars": "10,649",
       "forks": "1,627",
       "addStars": "9",
       "contributors": [
@@ -180,8 +180,8 @@
       "description": "🦊 Anti-detect browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,782",
-      "forks": "655",
+      "stars": "7,790",
+      "forks": "657",
       "addStars": "42",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "35,336",
-      "forks": "1,692",
+      "stars": "35,340",
+      "forks": "1,691",
       "addStars": "31",
       "contributors": [
         {
@@ -254,7 +254,7 @@
       "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,429",
+      "stars": "1,430",
       "forks": "418",
       "addStars": "4",
       "contributors": [
@@ -286,7 +286,7 @@
       "description": "The QuantLib C++ library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,073",
+      "stars": "7,075",
       "forks": "2,187",
       "addStars": "5",
       "contributors": [
@@ -360,8 +360,8 @@
       "description": "Space exploration, trading, and combat game.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,288",
-      "forks": "1,248",
+      "stars": "7,289",
+      "forks": "1,250",
       "addStars": "10",
       "contributors": [
         {
@@ -398,7 +398,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "12,604",
-      "forks": "1,016",
+      "forks": "1,015",
       "addStars": "10",
       "contributors": [
         {
@@ -434,7 +434,7 @@
       "description": "An open-source C++ library developed and used at Facebook.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "30,342",
+      "stars": "30,340",
       "forks": "5,866",
       "addStars": "2",
       "contributors": [
@@ -508,7 +508,7 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "32,066",
+      "stars": "32,068",
       "forks": "1,701",
       "addStars": "20",
       "contributors": [
@@ -540,7 +540,7 @@
       "description": "基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "3,807",
+      "stars": "3,809",
       "forks": "417",
       "addStars": "15",
       "contributors": [
@@ -572,7 +572,7 @@
       "description": "💻 Desktop sync client for Nextcloud",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "3,688",
+      "stars": "3,689",
       "forks": "939",
       "addStars": "1",
       "contributors": [
@@ -609,8 +609,8 @@
       "description": "JSON for Modern C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "49,512",
-      "forks": "7,379",
+      "stars": "49,516",
+      "forks": "7,380",
       "addStars": "14",
       "contributors": [
         {
@@ -673,7 +673,7 @@
       "description": "The Z3 Theorem Prover",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "12,199",
+      "stars": "12,200",
       "forks": "1,647",
       "addStars": "5",
       "contributors": [
@@ -705,8 +705,8 @@
       "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,510",
-      "forks": "2,035",
+      "stars": "7,512",
+      "forks": "2,036",
       "addStars": "4",
       "contributors": [
         {

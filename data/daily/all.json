@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "mattpocock/skills",
@@ -10,8 +10,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "35,389",
-      "forks": "2,778",
+      "stars": "36,576",
+      "forks": "2,870",
       "addStars": "7,429",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,414",
-      "forks": "3,679",
+      "stars": "32,547",
+      "forks": "3,695",
       "addStars": "1,565",
       "contributors": [
         {
@@ -64,8 +64,8 @@
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,447",
-      "forks": "239",
+      "stars": "3,894",
+      "forks": "248",
       "addStars": "961",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,167",
-      "forks": "4,946",
+      "stars": "44,587",
+      "forks": "4,962",
       "addStars": "1,523",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,027",
-      "forks": "2,608",
+      "stars": "26,092",
+      "forks": "2,611",
       "addStars": "347",
       "contributors": [
         {
@@ -160,8 +160,8 @@
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,271",
-      "forks": "1,458",
+      "stars": "10,477",
+      "forks": "1,477",
       "addStars": "976",
       "contributors": [
         {
@@ -182,9 +182,9 @@
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,466",
-      "forks": "242",
-      "addStars": "200",
+      "stars": "1,589",
+      "forks": "252",
+      "addStars": "263",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4722521?s=40&v=4",
@@ -209,8 +209,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "427,747",
-      "forks": "46,730",
+      "stars": "427,977",
+      "forks": "46,744",
       "addStars": "600",
       "contributors": [
         {
@@ -246,8 +246,8 @@
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,194",
-      "forks": "631",
+      "stars": "2,272",
+      "forks": "643",
       "addStars": "418",
       "contributors": [
         {
@@ -283,8 +283,8 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,116",
-      "forks": "2,402",
+      "stars": "17,347",
+      "forks": "2,443",
       "addStars": "1,706",
       "contributors": [
         {
@@ -315,8 +315,8 @@
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "345,627",
-      "forks": "55,811",
+      "stars": "345,767",
+      "forks": "55,824",
       "addStars": "734",
       "contributors": [
         {
@@ -352,8 +352,8 @@
       "description": "📚 Freely available programming books",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "386,459",
-      "forks": "66,151",
+      "stars": "386,556",
+      "forks": "66,159",
       "addStars": "133",
       "contributors": [
         {
@@ -389,8 +389,8 @@
       "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,618",
-      "forks": "305",
+      "stars": "11,842",
+      "forks": "315",
       "addStars": "797",
       "contributors": [
         {

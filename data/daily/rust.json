@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "farion1231/cc-switch",
@@ -10,8 +10,8 @@
       "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "54,223",
-      "forks": "3,519",
+      "stars": "54,357",
+      "forks": "3,536",
       "addStars": "1,518",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Simple Yet Powerful Anti-Detect Browser 🍩",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,117",
-      "forks": "181",
+      "stars": "2,136",
+      "forks": "184",
       "addStars": "113",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,756",
-      "forks": "234",
+      "stars": "1,760",
+      "forks": "235",
       "addStars": "54",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,677",
+      "stars": "4,678",
       "forks": "415",
       "addStars": "46",
       "contributors": [
@@ -138,8 +138,8 @@
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,688",
-      "forks": "1,066",
+      "stars": "6,689",
+      "forks": "1,067",
       "addStars": "14",
       "contributors": [
         {
@@ -175,7 +175,7 @@
       "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,818",
+      "stars": "7,819",
       "forks": "1,292",
       "addStars": "2",
       "contributors": [
@@ -212,7 +212,7 @@
       "description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,078",
+      "stars": "8,081",
       "forks": "412",
       "addStars": "7",
       "contributors": [
@@ -249,8 +249,8 @@
       "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "42,545",
-      "forks": "4,607",
+      "stars": "42,562",
+      "forks": "4,608",
       "addStars": "8",
       "contributors": [
         {
@@ -276,7 +276,7 @@
       "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,583",
+      "stars": "5,585",
       "forks": "633",
       "addStars": "10",
       "contributors": [
@@ -303,7 +303,7 @@
       "description": "A Rust compiler front-end for IDEs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,340",
+      "stars": "16,342",
       "forks": "2,053",
       "addStars": "24",
       "contributors": [
@@ -330,7 +330,7 @@
       "description": "Linux GPU Configuration And Monitoring Tool",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,352",
+      "stars": "4,358",
       "forks": "111",
       "addStars": "20",
       "contributors": [
@@ -367,7 +367,7 @@
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,206",
+      "stars": "2,210",
       "forks": "127",
       "addStars": "31",
       "contributors": [
@@ -404,8 +404,8 @@
       "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,259",
-      "forks": "1,310",
+      "stars": "15,269",
+      "forks": "1,311",
       "addStars": "120",
       "contributors": [
         {
@@ -441,7 +441,7 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "105,960",
+      "stars": "105,968",
       "forks": "3,561",
       "addStars": "53",
       "contributors": [
@@ -473,7 +473,7 @@
       "description": "NCX Infra Controller - Hardware Lifecycle Management and multitenant networking",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "134",
+      "stars": "138",
       "forks": "89",
       "addStars": "1",
       "contributors": [

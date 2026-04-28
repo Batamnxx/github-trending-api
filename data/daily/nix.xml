@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Nix Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>numtide/llm-agents.nix</title>
       <link>https://github.com/numtide/llm-agents.nix</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/numtide/llm-agents.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,101</stars>
-      <forks>117</forks>
+      <stars>1,102</stars>
+      <forks>118</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>
@@ -34,8 +34,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>24,484</stars>
-      <forks>18,730</forks>
+      <stars>24,486</stars>
+      <forks>18,733</forks>
       <addStars>12</addStars>
       <contributors>
         <contributor>
@@ -110,7 +110,7 @@
       <guid>https://github.com/Mic92/sops-nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,805</stars>
+      <stars>2,806</stars>
       <forks>216</forks>
       <addStars>8</addStars>
       <contributors>
@@ -166,7 +166,7 @@
       <guid>https://github.com/microvm-nix/microvm.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,521</stars>
+      <stars>2,522</stars>
       <forks>198</forks>
       <addStars>4</addStars>
       <contributors>
@@ -199,7 +199,7 @@
       <guid>https://github.com/nix-darwin/nix-darwin</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>5,359</stars>
+      <stars>5,361</stars>
       <forks>614</forks>
       <addStars>5</addStars>
       <contributors>
@@ -274,7 +274,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>3,746</stars>
-      <forks>319</forks>
+      <forks>318</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -311,7 +311,7 @@
       <guid>https://github.com/cloud-gouv/securix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>799</stars>
+      <stars>800</stars>
       <forks>35</forks>
       <addStars>8</addStars>
       <contributors>
@@ -349,7 +349,7 @@
       <guid>https://github.com/cloud-gouv/bureautix-example</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>178</stars>
+      <stars>179</stars>
       <forks>12</forks>
       <addStars>2</addStars>
       <contributors>
@@ -411,7 +411,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>2,770</stars>
-      <forks>379</forks>
+      <forks>380</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Monthly Trending",
   "description": "Monthly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "Yeachan-Heo/oh-my-codex",
@@ -10,7 +10,7 @@
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,593",
+      "stars": "26,622",
       "forks": "2,177",
       "addStars": "23,773",
       "contributors": [
@@ -42,8 +42,8 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,375",
-      "forks": "2,242",
+      "stars": "33,415",
+      "forks": "2,244",
       "addStars": "24,316",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,996",
-      "forks": "3,077",
+      "stars": "20,006",
+      "forks": "3,076",
       "addStars": "6,196",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "69,052",
-      "forks": "5,886",
+      "stars": "69,134",
+      "forks": "5,901",
       "addStars": "27,414",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,881",
-      "forks": "750",
+      "stars": "10,919",
+      "forks": "752",
       "addStars": "4,666",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,458",
-      "forks": "577",
+      "stars": "9,474",
+      "forks": "578",
       "addStars": "4,144",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,618",
-      "forks": "588",
+      "stars": "3,626",
+      "forks": "591",
       "addStars": "2,291",
       "contributors": [
         {
@@ -239,8 +239,8 @@
       "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,822",
-      "forks": "2,158",
+      "stars": "8,831",
+      "forks": "2,159",
       "addStars": "3,044",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,711",
-      "forks": "2,060",
+      "stars": "13,710",
+      "forks": "2,061",
       "addStars": "4,694",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "An open-source AI agent that lives in your terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,976",
-      "forks": "2,301",
+      "stars": "23,986",
+      "forks": "2,303",
       "addStars": "3,068",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "114,240",
-      "forks": "8,349",
+      "stars": "114,275",
+      "forks": "8,350",
       "addStars": "8,577",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "✨ An advanced 3D Gaussian Splatting renderer for THREE.js",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,803",
-      "forks": "289",
+      "stars": "2,804",
+      "forks": "290",
       "addStars": "789",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,701",
-      "forks": "5,367",
+      "stars": "29,717",
+      "forks": "5,376",
       "addStars": "2,121",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,833",
-      "forks": "5,485",
+      "stars": "8,834",
+      "forks": "5,486",
       "addStars": "1,490",
       "contributors": [
         {
@@ -493,7 +493,7 @@
       "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,326",
+      "stars": "5,328",
       "forks": "852",
       "addStars": "2,924",
       "contributors": [
@@ -530,8 +530,8 @@
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,729",
-      "forks": "1,878",
+      "stars": "14,739",
+      "forks": "1,880",
       "addStars": "7,107",
       "contributors": [
         {

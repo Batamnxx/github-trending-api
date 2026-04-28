@@ -2,15 +2,52 @@
   "title": "GitHub Jupyter-notebook Languages Weekly Trending",
   "description": "Weekly Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
+    {
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "59,987",
+      "forks": "20,312",
+      "addStars": "2,569",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
+          "name": "koreyspace",
+          "url": "https://github.com/koreyspace"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93383164?s=40&v=4",
+          "name": "ShivamGoyal03",
+          "url": "https://github.com/ShivamGoyal03"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40815708?s=40&v=4",
+          "name": "hyoshioka0128",
+          "url": "https://github.com/hyoshioka0128"
+        }
+      ]
+    },
     {
       "title": "openai/openai-cookbook",
       "url": "https://github.com/openai/openai-cookbook",
       "description": "Examples and guides for using the OpenAI API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "73,060",
+      "stars": "73,065",
       "forks": "12,329",
       "addStars": "223",
       "contributors": [
@@ -48,7 +85,7 @@
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
       "stars": "15,409",
-      "forks": "2,216",
+      "forks": "2,215",
       "addStars": "643",
       "contributors": [
         {
@@ -84,7 +121,7 @@
       "description": "A collection of guides and examples for the Gemma open models from Google.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "3,473",
+      "stars": "3,474",
       "forks": "581",
       "addStars": "292",
       "contributors": [
@@ -116,8 +153,8 @@
       "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "4,698",
-      "forks": "3,878",
+      "stars": "4,702",
+      "forks": "3,879",
       "addStars": "268",
       "contributors": [
         {
@@ -153,7 +190,7 @@
       "description": "Multi-agent systems, memory, planning, reasoning loops",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "2,303",
+      "stars": "2,304",
       "forks": "517",
       "addStars": "52",
       "contributors": [
@@ -176,43 +213,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/201518671?s=40&v=4",
           "name": "AG2AI-Admin",
           "url": "https://github.com/AG2AI-Admin"
-        }
-      ]
-    },
-    {
-      "title": "DataTalksClub/data-engineering-zoomcamp",
-      "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
-      "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "40,470",
-      "forks": "8,092",
-      "addStars": "310",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/875246?s=40&v=4",
-          "name": "alexeygrigorev",
-          "url": "https://github.com/alexeygrigorev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4315804?s=40&v=4",
-          "name": "Victoriapm",
-          "url": "https://github.com/Victoriapm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9307691?s=40&v=4",
-          "name": "sejalv",
-          "url": "https://github.com/sejalv"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3662357?s=40&v=4",
-          "name": "AnkushKhanna",
-          "url": "https://github.com/AnkushKhanna"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34094921?s=40&v=4",
-          "name": "wrussell1999",
-          "url": "https://github.com/wrussell1999"
         }
       ]
     },
@@ -259,8 +259,8 @@
       "description": "📚 从零开始构建大模型",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "29,685",
-      "forks": "2,777",
+      "stars": "29,691",
+      "forks": "2,776",
       "addStars": "484",
       "contributors": [
         {
@@ -296,8 +296,8 @@
       "description": "Repo to accompany my mastering LLM engineering course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "5,784",
-      "forks": "5,610",
+      "stars": "5,786",
+      "forks": "5,614",
       "addStars": "88",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "34,941",
+      "stars": "34,962",
       "forks": "4,294",
       "addStars": "1,949",
       "contributors": [
@@ -365,7 +365,7 @@
       "description": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "2,702",
+      "stars": "2,705",
       "forks": "1,074",
       "addStars": "57",
       "contributors": [
@@ -397,7 +397,7 @@
       "description": "This repo is meant to serve as a guide for Machine Learning/AI technical interviews.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "8,103",
+      "stars": "8,104",
       "forks": "1,457",
       "addStars": "64",
       "contributors": [

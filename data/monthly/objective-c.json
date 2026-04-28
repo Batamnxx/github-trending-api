@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Monthly Trending",
   "description": "Monthly Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "noah-nuebling/mac-mouse-fix",
@@ -10,7 +10,7 @@
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "9,879",
+      "stars": "9,880",
       "forks": "315",
       "addStars": "397",
       "contributors": [
@@ -37,7 +37,7 @@
       "description": "Manages installing and launching Geometry Dash for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "505",
+      "stars": "506",
       "forks": "161",
       "addStars": "75",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "21,294",
+      "stars": "21,297",
       "forks": "1,532",
       "addStars": "267",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "33,488",
+      "stars": "33,486",
       "forks": "10,570",
       "addStars": "14",
       "contributors": [
@@ -149,7 +149,7 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": "17,461",
-      "forks": "1,367",
+      "forks": "1,368",
       "addStars": "218",
       "contributors": [
         {
@@ -466,7 +466,7 @@
       "description": "LuLu is the free open-source macOS firewall",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "12,460",
+      "stars": "12,462",
       "forks": "560",
       "addStars": "255",
       "contributors": [
@@ -540,7 +540,7 @@
       "description": "A fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "13,328",
+      "stars": "13,327",
       "forks": "2,278",
       "addStars": "17",
       "contributors": [

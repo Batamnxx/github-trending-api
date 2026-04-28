@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Monthly Trending",
   "description": "Monthly Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "samber/awesome-prometheus-alerts",
@@ -10,8 +10,8 @@
       "description": "🚨 Collection of Prometheus alerting rules",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "7,948",
-      "forks": "1,148",
+      "stars": "7,949",
+      "forks": "1,147",
       "addStars": "143",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "🦄 A curated list of privacy & security-focused software and services",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "9,282",
+      "stars": "9,284",
       "forks": "492",
       "addStars": "184",
       "contributors": [
@@ -186,7 +186,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "1,091",
-      "forks": "377",
+      "forks": "378",
       "addStars": "53",
       "contributors": [
         {
@@ -222,7 +222,7 @@
       "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "860",
+      "stars": "861",
       "forks": "377",
       "addStars": "120",
       "contributors": [
@@ -292,7 +292,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "363",
-      "forks": "4,378",
+      "forks": "4,379",
       "addStars": "2",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "Homepage for @zen-browser!",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "1,220",
+      "stars": "1,219",
       "forks": "249",
       "addStars": "66",
       "contributors": [
@@ -365,7 +365,7 @@
       "description": "⭐ A simple, fast and powerful blog & document theme built by Astro",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "911",
+      "stars": "912",
       "forks": "252",
       "addStars": "52",
       "contributors": [
@@ -397,8 +397,8 @@
       "description": "✨A static blog template built with Astro.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "4,481",
-      "forks": "1,188",
+      "stars": "4,482",
+      "forks": "1,187",
       "addStars": "170",
       "contributors": [
         {

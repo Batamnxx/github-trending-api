@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Weekly Trending",
   "description": "Weekly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepSeek-LLM",
@@ -47,7 +47,7 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "1,233",
+      "stars": "1,234",
       "forks": "222",
       "addStars": "43",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "55,862",
-      "forks": "5,443",
+      "stars": "55,865",
+      "forks": "5,442",
       "addStars": "48",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "A sample pack of GitHub Agentic Workflows!",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "652",
+      "stars": "653",
       "forks": "99",
       "addStars": "37",
       "contributors": [
@@ -144,7 +144,7 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": "4,481",
-      "forks": "3,855",
+      "forks": "3,854",
       "addStars": "10",
       "contributors": [
         {
@@ -244,7 +244,7 @@
       "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "776",
+      "stars": "777",
       "forks": "308",
       "addStars": "1",
       "contributors": [
@@ -345,8 +345,8 @@
       "description": "machine-readable data for https://awesome-selfhosted.net",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "949",
-      "forks": "938",
+      "stars": "951",
+      "forks": "939",
       "addStars": "9",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "llvm/llvm-project",
@@ -11,7 +11,7 @@
       "language": "LLVM",
       "languageColor": "#185619",
       "stars": "38,084",
-      "forks": "16,988",
+      "forks": "16,994",
       "addStars": "21",
       "contributors": [
         {

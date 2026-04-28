@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Monthly Trending",
   "description": "Monthly Trending of Smali Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "AhMyth/AhMyth-Android-RAT",
@@ -47,7 +47,7 @@
       "description": "🧘 An updatable, open source Instagram app for Android without distractions.",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "250",
+      "stars": "253",
       "forks": "13",
       "addStars": "137",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "2,079",
+      "stars": "2,080",
       "forks": "14",
       "addStars": "127",
       "contributors": [
@@ -96,7 +96,7 @@
       "description": "GameHub Lite is a community-maintained modified version of GameHub for education purposes",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "1,536",
+      "stars": "1,538",
       "forks": "38",
       "addStars": "184",
       "contributors": [

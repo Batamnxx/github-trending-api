@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Monthly Trending",
   "description": "Monthly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "karpathy/karpathy.github.io",
@@ -10,7 +10,7 @@
       "description": "my blog",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,377",
+      "stars": "1,380",
       "forks": "289",
       "addStars": "369",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Accurately Locate Smartphones using Social Engineering",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "9,311",
-      "forks": "2,163",
+      "stars": "9,316",
+      "forks": "2,164",
       "addStars": "139",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "62,744",
+      "stars": "62,747",
       "forks": "3,904",
       "addStars": "613",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "11,237",
-      "forks": "3,060",
+      "stars": "11,238",
+      "forks": "3,062",
       "addStars": "164",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "82,532",
+      "stars": "82,533",
       "forks": "16,016",
       "addStars": "145",
       "contributors": [
@@ -254,7 +254,7 @@
       "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "44,926",
+      "stars": "44,924",
       "forks": "5,544",
       "addStars": "123",
       "contributors": [
@@ -328,7 +328,7 @@
       "description": "Set of icons representing programming languages, designing & development tools",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "11,591",
+      "stars": "11,592",
       "forks": "2,451",
       "addStars": "85",
       "contributors": [
@@ -365,7 +365,7 @@
       "description": "Google APIs Client Library for browser JavaScript, aka gapi.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "3,504",
+      "stars": "3,505",
       "forks": "1,150",
       "addStars": "18",
       "contributors": [

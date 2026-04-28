@@ -3,7 +3,7 @@
     <title>GitHub Powershell Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Powershell Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>ChrisTitusTech/winutil</title>
       <link>https://github.com/ChrisTitusTech/winutil</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ChrisTitusTech/winutil</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>53,445</stars>
-      <forks>3,001</forks>
+      <stars>53,463</stars>
+      <forks>3,003</forks>
       <addStars>3,210</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/Raphire/Win11Debloat</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>45,487</stars>
+      <stars>45,502</stars>
       <forks>1,855</forks>
       <addStars>2,855</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/microsoft/work-iq</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>769</stars>
+      <stars>770</stars>
       <forks>73</forks>
       <addStars>154</addStars>
       <contributors>
@@ -147,46 +147,13 @@
       </contributors>
     </item>
     <item>
-      <title>microsoft/azure-skills</title>
-      <link>https://github.com/microsoft/azure-skills</link>
-      <description>Official agent plugin providing skills and MCP server configurations for Azure scenarios.</description>
-      <guid>https://github.com/microsoft/azure-skills</guid>
-      <language>PowerShell</language>
-      <languageColor>#012456</languageColor>
-      <stars>751</stars>
-      <forks>115</forks>
-      <addStars>178</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52458914?s=40&amp;v=4</avatar>
-          <name>fanyang-mono</name>
-          <url>https://github.com/fanyang-mono</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102772054?s=40&amp;v=4</avatar>
-          <name>kvenkatrajan</name>
-          <url>https://github.com/kvenkatrajan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/74415662?s=40&amp;v=4</avatar>
-          <name>charris-msft</name>
-          <url>https://github.com/charris-msft</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22682497?s=40&amp;v=4</avatar>
-          <name>saikoumudi</name>
-          <url>https://github.com/saikoumudi</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>microsoft/skills-for-fabric</title>
       <link>https://github.com/microsoft/skills-for-fabric</link>
       <description>A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric</description>
       <guid>https://github.com/microsoft/skills-for-fabric</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>306</stars>
+      <stars>307</stars>
       <forks>68</forks>
       <addStars>109</addStars>
       <contributors>
@@ -209,7 +176,7 @@
       <guid>https://github.com/actions/runner-images</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>12,693</stars>
+      <stars>12,694</stars>
       <forks>3,725</forks>
       <addStars>117</addStars>
       <contributors>
@@ -276,7 +243,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>2,063</stars>
-      <forks>1,621</forks>
+      <forks>1,622</forks>
       <addStars>21</addStars>
       <contributors>
         <contributor>
@@ -346,7 +313,7 @@
       <guid>https://github.com/hak5/usbrubberducky-payloads</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>5,690</stars>
+      <stars>5,692</stars>
       <forks>1,638</forks>
       <addStars>83</addStars>
       <contributors>
@@ -423,7 +390,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>168</stars>
-      <forks>551</forks>
+      <forks>552</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>

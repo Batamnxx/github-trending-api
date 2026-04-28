@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "anthropics/prompt-eng-interactive-tutorial",
@@ -10,8 +10,8 @@
       "description": "Anthropic's Interactive Prompt Engineering Tutorial",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "35,072",
-      "forks": "3,725",
+      "stars": "35,075",
+      "forks": "3,724",
       "addStars": "43",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "16,830",
-      "forks": "1,791",
+      "stars": "16,854",
+      "forks": "1,793",
       "addStars": "81",
       "contributors": [
         {
@@ -69,9 +69,9 @@
       "description": "📚 从零开始构建大模型",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "29,685",
-      "forks": "2,777",
-      "addStars": "159",
+      "stars": "29,691",
+      "forks": "2,776",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/77671993?s=40&v=4",
@@ -143,7 +143,7 @@
       "description": "Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "1,886",
+      "stars": "1,887",
       "forks": "303",
       "addStars": "28",
       "contributors": [
@@ -217,9 +217,9 @@
       "description": "",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "8,145",
+      "stars": "8,149",
       "forks": "1,976",
-      "addStars": "14",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -249,7 +249,7 @@
       "description": "This repo is meant to serve as a guide for Machine Learning/AI technical interviews.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "8,103",
+      "stars": "8,104",
       "forks": "1,457",
       "addStars": "33",
       "contributors": [
@@ -286,7 +286,7 @@
       "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, PyTorch, and Hugging Face libraries.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "1,392",
+      "stars": "1,394",
       "forks": "468",
       "addStars": "5",
       "contributors": [
@@ -323,9 +323,9 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "181,979",
+      "stars": "181,982",
       "forks": "55,674",
-      "addStars": "62",
+      "addStars": "56",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7474657?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "The fastai book, published as Jupyter Notebooks",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "24,911",
-      "forks": "9,455",
-      "addStars": "5",
+      "stars": "24,912",
+      "forks": "9,456",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/346999?s=40&v=4",
@@ -434,7 +434,7 @@
       "description": "",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "1,552",
+      "stars": "1,553",
       "forks": "333",
       "addStars": "1",
       "contributors": [
@@ -466,7 +466,7 @@
       "description": "The IQ Series is a hands-on learning experience for Microsoft IQ: Microsoft's unified intelligence layer for the enterprise, spanning Foundry IQ, Work IQ, and Fabric IQ. The series includes video episodes, Jupyter notebooks, and Azure deployment templates.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "128",
+      "stars": "130",
       "forks": "82",
       "addStars": "6",
       "contributors": [

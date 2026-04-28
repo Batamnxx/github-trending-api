@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nix Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 20:20:32 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>24,484</stars>
-      <forks>18,730</forks>
+      <stars>24,486</stars>
+      <forks>18,733</forks>
       <addStars>141</addStars>
       <contributors>
         <contributor>
@@ -120,7 +120,7 @@
       <guid>https://github.com/nix-darwin/nix-darwin</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>5,359</stars>
+      <stars>5,361</stars>
       <forks>614</forks>
       <addStars>44</addStars>
       <contributors>
@@ -153,7 +153,7 @@
       <guid>https://github.com/Mic92/sops-nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,805</stars>
+      <stars>2,806</stars>
       <forks>216</forks>
       <addStars>32</addStars>
       <contributors>
@@ -176,7 +176,7 @@
       <guid>https://github.com/cloud-gouv/securix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>799</stars>
+      <stars>800</stars>
       <forks>35</forks>
       <addStars>95</addStars>
       <contributors>
@@ -215,7 +215,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>2,770</stars>
-      <forks>379</forks>
+      <forks>380</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>
@@ -242,8 +242,8 @@
       <guid>https://github.com/numtide/llm-agents.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,101</stars>
-      <forks>117</forks>
+      <stars>1,102</stars>
+      <forks>118</forks>
       <addStars>49</addStars>
       <contributors>
         <contributor>
@@ -416,7 +416,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>3,746</stars>
-      <forks>319</forks>
+      <forks>318</forks>
       <addStars>15</addStars>
       <contributors>
         <contributor>

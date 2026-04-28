@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Daily Trending",
   "description": "Daily Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "Flowseal/zapret-discord-youtube",
@@ -10,7 +10,7 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "26,544",
+      "stars": "26,561",
       "forks": "2,074",
       "addStars": "49",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "ip address - Youtube, Instagtam, Twitter, Netflix",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "1,957",
+      "stars": "1,959",
       "forks": "164",
       "addStars": "4",
       "contributors": [
@@ -143,7 +143,7 @@
       "description": "Get the Ryzen processors with AMD Radeon 680M/780M integrated graphics or RDNA2/RDNA3 GPUs running with Proxmox, GPU passthrough and UEFI included.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "1,189",
+      "stars": "1,190",
       "forks": "121",
       "addStars": "1",
       "contributors": [

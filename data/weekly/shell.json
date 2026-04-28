@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Weekly Trending",
   "description": "Weekly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "mattpocock/skills",
@@ -10,8 +10,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "35,488",
-      "forks": "2,786",
+      "stars": "36,627",
+      "forks": "2,871",
       "addStars": "10,757",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "25,133",
-      "forks": "3,119",
+      "stars": "25,220",
+      "forks": "3,127",
       "addStars": "6,256",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\"",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "13,703",
-      "forks": "1,207",
+      "stars": "13,758",
+      "forks": "1,209",
       "addStars": "3,094",
       "contributors": [
         {
@@ -91,8 +91,8 @@
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "57,775",
-      "forks": "3,078",
+      "stars": "57,791",
+      "forks": "3,079",
       "addStars": "614",
       "contributors": [
         {
@@ -128,8 +128,8 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "12,231",
-      "forks": "761",
+      "stars": "12,237",
+      "forks": "762",
       "addStars": "128",
       "contributors": [
         {
@@ -165,8 +165,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "171,099",
-      "forks": "15,099",
+      "stars": "171,387",
+      "forks": "15,119",
       "addStars": "8,670",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "Archlinux Kernel based on different schedulers and some other performance improvements.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,406",
-      "forks": "113",
+      "stars": "3,416",
+      "forks": "112",
       "addStars": "71",
       "contributors": [
         {
@@ -239,8 +239,8 @@
       "description": "Certified Kubernetes Administrator - CKA Course",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "10,416",
-      "forks": "9,441",
+      "stars": "10,417",
+      "forks": "9,442",
       "addStars": "38",
       "contributors": [
         {
@@ -276,7 +276,7 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,842",
+      "stars": "3,848",
       "forks": "403",
       "addStars": "228",
       "contributors": [
@@ -308,8 +308,8 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "31,120",
-      "forks": "1,671",
+      "stars": "31,125",
+      "forks": "1,670",
       "addStars": "123",
       "contributors": [
         {
@@ -341,7 +341,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "46,433",
-      "forks": "5,558",
+      "forks": "5,559",
       "addStars": "93",
       "contributors": [
         {
@@ -377,8 +377,8 @@
       "description": "Create beautiful slides on the web using Claude's frontend skills",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "15,947",
-      "forks": "1,292",
+      "stars": "15,961",
+      "forks": "1,294",
       "addStars": "836",
       "contributors": [
         {

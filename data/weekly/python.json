@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
+  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
   "items": [
     {
       "title": "Alishahryar1/free-claude-code",
@@ -10,8 +10,8 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,140",
-      "forks": "2,407",
+      "stars": "17,352",
+      "forks": "2,445",
       "addStars": "13,415",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "67,803",
-      "forks": "7,596",
+      "stars": "67,915",
+      "forks": "7,612",
       "addStars": "8,378",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,930",
-      "forks": "2,303",
+      "stars": "17,094",
+      "forks": "2,326",
       "addStars": "7,513",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,263",
-      "forks": "1,187",
+      "stars": "7,300",
+      "forks": "1,193",
       "addStars": "2,332",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,950",
-      "forks": "914",
+      "stars": "7,981",
+      "forks": "918",
       "addStars": "2,832",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,197",
+      "stars": "19,230",
       "forks": "2,188",
       "addStars": "2,622",
       "contributors": [
@@ -222,8 +222,8 @@
       "description": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,731",
-      "forks": "418",
+      "stars": "3,778",
+      "forks": "424",
       "addStars": "1,677",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,708",
-      "forks": "23,908",
+      "stars": "55,719",
+      "forks": "23,910",
       "addStars": "2,770",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,498",
-      "forks": "134",
+      "stars": "1,505",
+      "forks": "135",
       "addStars": "218",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,628",
-      "forks": "5,603",
+      "stars": "26,637",
+      "forks": "5,607",
       "addStars": "499",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,128",
-      "forks": "2,659",
+      "stars": "34,136",
+      "forks": "2,663",
       "addStars": "1,444",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,028",
-      "forks": "719",
+      "stars": "4,038",
+      "forks": "721",
       "addStars": "504",
       "contributors": [
         {
@@ -434,8 +434,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,034",
-      "forks": "2,608",
+      "stars": "26,096",
+      "forks": "2,611",
       "addStars": "1,166",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "118,269",
-      "forks": "7,795",
+      "stars": "118,323",
+      "forks": "7,800",
       "addStars": "4,514",
       "contributors": [
         {

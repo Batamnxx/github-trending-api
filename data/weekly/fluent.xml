@@ -3,7 +3,7 @@
     <title>GitHub Fluent Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Fluent Languages in GitHub</description>
-    <pubDate>Tue, 28 Apr 2026 09:26:47 GMT</pubDate>
+    <pubDate>Tue, 28 Apr 2026 15:26:16 GMT</pubDate>
     <item>
       <title>qarmin/czkawka</title>
       <link>https://github.com/qarmin/czkawka</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/qarmin/czkawka</guid>
       <language>Fluent</language>
       <languageColor>#ffcc33</languageColor>
-      <stars>30,767</stars>
+      <stars>30,773</stars>
       <forks>1,033</forks>
       <addStars>125</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/janeczku/calibre-web</guid>
       <language>Fluent</language>
       <languageColor>#ffcc33</languageColor>
-      <stars>17,025</stars>
+      <stars>17,027</stars>
       <forks>1,766</forks>
       <addStars>48</addStars>
       <contributors>
@@ -77,6 +77,44 @@
           <avatar>https://avatars.githubusercontent.com/u/999845?s=40&amp;v=4</avatar>
           <name>jkrehm</name>
           <url>https://github.com/jkrehm</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>an-anime-team/an-anime-game-launcher</title>
+      <link>https://github.com/an-anime-team/an-anime-game-launcher</link>
+      <description>An Anime Game launcher for Linux with telemetry disabling</description>
+      <guid>https://github.com/an-anime-team/an-anime-game-launcher</guid>
+      <language>Fluent</language>
+      <languageColor>#ffcc33</languageColor>
+      <stars>2,079</stars>
+      <forks>83</forks>
+      <addStars>8</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29639507?s=40&amp;v=4</avatar>
+          <name>krypt0nn</name>
+          <url>https://github.com/krypt0nn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43478602?s=40&amp;v=4</avatar>
+          <name>JohnTheCoolingFan</name>
+          <url>https://github.com/JohnTheCoolingFan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/98063377?s=40&amp;v=4</avatar>
+          <name>NelloKudo</name>
+          <url>https://github.com/NelloKudo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/87247880?s=40&amp;v=4</avatar>
+          <name>vbrabandt</name>
+          <url>https://github.com/vbrabandt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8841466?s=40&amp;v=4</avatar>
+          <name>Mar0xy</name>
+          <url>https://github.com/Mar0xy</url>
         </contributor>
       </contributors>
     </item>
@@ -119,44 +157,6 @@
       </contributors>
     </item>
     <item>
-      <title>an-anime-team/an-anime-game-launcher</title>
-      <link>https://github.com/an-anime-team/an-anime-game-launcher</link>
-      <description>An Anime Game launcher for Linux with telemetry disabling</description>
-      <guid>https://github.com/an-anime-team/an-anime-game-launcher</guid>
-      <language>Fluent</language>
-      <languageColor>#ffcc33</languageColor>
-      <stars>2,080</stars>
-      <forks>83</forks>
-      <addStars>8</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29639507?s=40&amp;v=4</avatar>
-          <name>krypt0nn</name>
-          <url>https://github.com/krypt0nn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43478602?s=40&amp;v=4</avatar>
-          <name>JohnTheCoolingFan</name>
-          <url>https://github.com/JohnTheCoolingFan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/98063377?s=40&amp;v=4</avatar>
-          <name>NelloKudo</name>
-          <url>https://github.com/NelloKudo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87247880?s=40&amp;v=4</avatar>
-          <name>vbrabandt</name>
-          <url>https://github.com/vbrabandt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8841466?s=40&amp;v=4</avatar>
-          <name>Mar0xy</name>
-          <url>https://github.com/Mar0xy</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>mozilla/blurts-server</title>
       <link>https://github.com/mozilla/blurts-server</link>
       <description>Mozilla Monitor arms you with tools to keep your personal information safe. Find out what hackers already know about you and learn how to stay a step ahead of them.</description>
@@ -186,6 +186,39 @@
           <avatar>https://avatars.githubusercontent.com/u/22355127?s=40&amp;v=4</avatar>
           <name>lesleyjanenorton</name>
           <url>https://github.com/lesleyjanenorton</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>CachyOS/CachyOS-Welcome</title>
+      <link>https://github.com/CachyOS/CachyOS-Welcome</link>
+      <description/>
+      <guid>https://github.com/CachyOS/CachyOS-Welcome</guid>
+      <language>Fluent</language>
+      <languageColor>#ffcc33</languageColor>
+      <stars>35</stars>
+      <forks>66</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37552959?s=40&amp;v=4</avatar>
+          <name>vnepogodin</name>
+          <url>https://github.com/vnepogodin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/70081076?s=40&amp;v=4</avatar>
+          <name>ptr1337</name>
+          <url>https://github.com/ptr1337</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46625863?s=40&amp;v=4</avatar>
+          <name>NextWork123</name>
+          <url>https://github.com/NextWork123</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/130937?s=40&amp;v=4</avatar>
+          <name>ptcodes</name>
+          <url>https://github.com/ptcodes</url>
         </contributor>
       </contributors>
     </item>

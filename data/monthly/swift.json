@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Monthly Trending",
   "description": "Monthly Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 09:26:47 GMT",
+  "pubDate": "Tue, 28 Apr 2026 15:26:16 GMT",
   "items": [
     {
       "title": "farouqaldori/vibe-notch",
@@ -10,7 +10,7 @@
       "description": "Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,224",
+      "stars": "2,225",
       "forks": "318",
       "addStars": "1,104",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "8,749",
+      "stars": "8,758",
       "forks": "668",
       "addStars": "955",
       "contributors": [
@@ -79,40 +79,13 @@
       ]
     },
     {
-      "title": "automazeio/vibeproxy",
-      "url": "https://github.com/automazeio/vibeproxy",
-      "description": "Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "2,566",
-      "forks": "184",
-      "addStars": "618",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1185458?s=40&v=4",
-          "name": "ranaroussi",
-          "url": "https://github.com/ranaroussi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59279509?s=40&v=4",
-          "name": "devatnull",
-          "url": "https://github.com/devatnull"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13633271?s=40&v=4",
-          "name": "jsj",
-          "url": "https://github.com/jsj"
-        }
-      ]
-    },
-    {
       "title": "TelegramMessenger/Telegram-iOS",
       "url": "https://github.com/TelegramMessenger/Telegram-iOS",
       "description": "Telegram-iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "8,463",
-      "forks": "2,570",
+      "stars": "8,465",
+      "forks": "2,569",
       "addStars": "344",
       "contributors": [
         {
@@ -143,12 +116,39 @@
       ]
     },
     {
+      "title": "automazeio/vibeproxy",
+      "url": "https://github.com/automazeio/vibeproxy",
+      "description": "Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "2,569",
+      "forks": "184",
+      "addStars": "618",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1185458?s=40&v=4",
+          "name": "ranaroussi",
+          "url": "https://github.com/ranaroussi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59279509?s=40&v=4",
+          "name": "devatnull",
+          "url": "https://github.com/devatnull"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13633271?s=40&v=4",
+          "name": "jsj",
+          "url": "https://github.com/jsj"
+        }
+      ]
+    },
+    {
       "title": "jordanbaird/Ice",
       "url": "https://github.com/jordanbaird/Ice",
       "description": "Powerful menu bar manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "27,617",
+      "stars": "27,624",
       "forks": "687",
       "addStars": "922",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "The modern video player for macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "44,634",
+      "stars": "44,635",
       "forks": "2,807",
       "addStars": "489",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "102,781",
+      "stars": "102,814",
       "forks": "7,667",
       "addStars": "2,183",
       "contributors": [
@@ -254,7 +254,7 @@
       "description": "A free, source-available and fair-code licensed mac app cleaner",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "12,765",
+      "stars": "12,777",
       "forks": "306",
       "addStars": "817",
       "contributors": [
@@ -328,7 +328,7 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "38,370",
+      "stars": "38,375",
       "forks": "1,289",
       "addStars": "1,036",
       "contributors": [
@@ -365,8 +365,8 @@
       "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "28,929",
-      "forks": "918",
+      "stars": "28,935",
+      "forks": "917",
       "addStars": "306",
       "contributors": [
         {
@@ -402,7 +402,7 @@
       "description": "Window peeking, alt-tab and other enhancements for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,701",
+      "stars": "4,705",
       "forks": "142",
       "addStars": "598",
       "contributors": [
@@ -430,6 +430,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/36539682?s=40&v=4",
           "name": "MarcosKlender",
           "url": "https://github.com/MarcosKlender"
+        }
+      ]
+    },
+    {
+      "title": "gluonfield/enchanted",
+      "url": "https://github.com/gluonfield/enchanted",
+      "description": "Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "5,914",
+      "forks": "413",
+      "addStars": "81",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5672094?s=40&v=4",
+          "name": "gluonfield",
+          "url": "https://github.com/gluonfield"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1271610?s=40&v=4",
+          "name": "vanhalt",
+          "url": "https://github.com/vanhalt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7823011?s=40&v=4",
+          "name": "wzulfikar",
+          "url": "https://github.com/wzulfikar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1417385?s=40&v=4",
+          "name": "so898",
+          "url": "https://github.com/so898"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4938757?s=40&v=4",
+          "name": "vishv96",
+          "url": "https://github.com/vishv96"
+        }
+      ]
+    },
+    {
+      "title": "jurplel/InstantSpaceSwitcher",
+      "url": "https://github.com/jurplel/InstantSpaceSwitcher",
+      "description": "Native space switching on macOS with no animation",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "1,448",
+      "forks": "40",
+      "addStars": "1,262",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10716694?s=40&v=4",
+          "name": "jurplel",
+          "url": "https://github.com/jurplel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14209781?s=40&v=4",
+          "name": "joshuarli",
+          "url": "https://github.com/joshuarli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57512390?s=40&v=4",
+          "name": "ArhanChaudhary",
+          "url": "https://github.com/ArhanChaudhary"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57446?s=40&v=4",
+          "name": "zenangst",
+          "url": "https://github.com/zenangst"
         }
       ]
     },
@@ -471,86 +545,12 @@
       ]
     },
     {
-      "title": "gluonfield/enchanted",
-      "url": "https://github.com/gluonfield/enchanted",
-      "description": "Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "5,912",
-      "forks": "413",
-      "addStars": "81",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5672094?s=40&v=4",
-          "name": "gluonfield",
-          "url": "https://github.com/gluonfield"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1271610?s=40&v=4",
-          "name": "vanhalt",
-          "url": "https://github.com/vanhalt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7823011?s=40&v=4",
-          "name": "wzulfikar",
-          "url": "https://github.com/wzulfikar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1417385?s=40&v=4",
-          "name": "so898",
-          "url": "https://github.com/so898"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4938757?s=40&v=4",
-          "name": "vishv96",
-          "url": "https://github.com/vishv96"
-        }
-      ]
-    },
-    {
-      "title": "jurplel/InstantSpaceSwitcher",
-      "url": "https://github.com/jurplel/InstantSpaceSwitcher",
-      "description": "Native space switching on macOS with no animation",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "1,447",
-      "forks": "40",
-      "addStars": "1,262",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10716694?s=40&v=4",
-          "name": "jurplel",
-          "url": "https://github.com/jurplel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14209781?s=40&v=4",
-          "name": "joshuarli",
-          "url": "https://github.com/joshuarli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57512390?s=40&v=4",
-          "name": "ArhanChaudhary",
-          "url": "https://github.com/ArhanChaudhary"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57446?s=40&v=4",
-          "name": "zenangst",
-          "url": "https://github.com/zenangst"
-        }
-      ]
-    },
-    {
       "title": "coteditor/CotEditor",
       "url": "https://github.com/coteditor/CotEditor",
       "description": "Lightweight Plain Text Editor for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "7,901",
+      "stars": "7,904",
       "forks": "490",
       "addStars": "163",
       "contributors": [
@@ -578,43 +578,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1067855?s=40&v=4",
           "name": "umireon",
           "url": "https://github.com/umireon"
-        }
-      ]
-    },
-    {
-      "title": "manaflow-ai/cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "15,648",
-      "forks": "1,156",
-      "addStars": "4,811",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54008264?s=40&v=4",
-          "name": "lawrencecchen",
-          "url": "https://github.com/lawrencecchen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38676809?s=40&v=4",
-          "name": "austinywang",
-          "url": "https://github.com/austinywang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38548475?s=40&v=4",
-          "name": "anthhub",
-          "url": "https://github.com/anthhub"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/677833?s=40&v=4",
-          "name": "talldan",
-          "url": "https://github.com/talldan"
         }
       ]
     },
@@ -647,6 +610,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/1897507?s=40&v=4",
           "name": "isabelrios",
           "url": "https://github.com/isabelrios"
+        }
+      ]
+    },
+    {
+      "title": "p0deje/Maccy",
+      "url": "https://github.com/p0deje/Maccy",
+      "description": "Lightweight clipboard manager for macOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "19,608",
+      "forks": "929",
+      "addStars": "512",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/665846?s=40&v=4",
+          "name": "p0deje",
+          "url": "https://github.com/p0deje"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31143295?s=40&v=4",
+          "name": "weisJ",
+          "url": "https://github.com/weisJ"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+          "name": "weblate",
+          "url": "https://github.com/weblate"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11874560?s=40&v=4",
+          "name": "imlolman",
+          "url": "https://github.com/imlolman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30829474?s=40&v=4",
+          "name": "trungdoan2507",
+          "url": "https://github.com/trungdoan2507"
+        }
+      ]
+    },
+    {
+      "title": "cirruslabs/tart",
+      "url": "https://github.com/cirruslabs/tart",
+      "description": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "5,572",
+      "forks": "276",
+      "addStars": "353",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/85709?s=40&v=4",
+          "name": "edigaryev",
+          "url": "https://github.com/edigaryev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/989066?s=40&v=4",
+          "name": "fkorotkov",
+          "url": "https://github.com/fkorotkov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7536?s=40&v=4",
+          "name": "torarnv",
+          "url": "https://github.com/torarnv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/316931?s=40&v=4",
+          "name": "raven",
+          "url": "https://github.com/raven"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61566036?s=40&v=4",
+          "name": "marc-48k",
+          "url": "https://github.com/marc-48k"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "title": "GitHub Nim Languages Monthly Trending",
   "description": "Monthly Trending of Nim Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 28 Apr 2026 20:20:32 GMT",
+  "pubDate": "Wed, 29 Apr 2026 04:33:10 GMT",
   "items": [
     {
       "title": "nim-lang/Nim",
@@ -10,9 +10,9 @@
       "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": "17,957",
+      "stars": "17,956",
       "forks": "1,528",
-      "addStars": "141",
+      "addStars": "143",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/287816?s=40&v=4",
@@ -42,7 +42,7 @@
       "description": "Logos Messaging protocols implemented in Nim",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": "243",
+      "stars": "242",
       "forks": "81",
       "addStars": "5",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 29 Apr 2026 15:12:45 GMT",
+  "pubDate": "Wed, 29 Apr 2026 20:13:24 GMT",
   "items": [
     {
       "title": "HunxByts/GhostTrack",
@@ -10,8 +10,8 @@
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,293",
-      "forks": "1,554",
+      "stars": "11,478",
+      "forks": "1,574",
       "addStars": "1,036",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,590",
-      "forks": "288",
+      "stars": "4,702",
+      "forks": "295",
       "addStars": "1,180",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,484",
-      "forks": "5,027",
+      "stars": "45,586",
+      "forks": "5,038",
       "addStars": "1,688",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,543",
-      "forks": "32,863",
+      "stars": "32,654",
+      "forks": "32,895",
       "addStars": "358",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "📚 Freely available programming books",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "387,014",
-      "forks": "66,177",
+      "stars": "387,104",
+      "forks": "66,179",
       "addStars": "609",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,961",
-      "forks": "1,409",
+      "stars": "20,141",
+      "forks": "1,416",
       "addStars": "31",
       "contributors": [
         {
@@ -197,8 +197,8 @@
       "description": "On-device TTS model by Neuphonic",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,724",
-      "forks": "618",
+      "stars": "5,734",
+      "forks": "620",
       "addStars": "95",
       "contributors": [
         {
@@ -234,8 +234,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "54,690",
-      "forks": "9,940",
+      "stars": "55,475",
+      "forks": "10,230",
       "addStars": "324",
       "contributors": [
         {
@@ -271,8 +271,8 @@
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "346,181",
-      "forks": "55,861",
+      "stars": "346,222",
+      "forks": "55,867",
       "addStars": "657",
       "contributors": [
         {
@@ -308,8 +308,8 @@
       "description": "NanoGPT (124M) in 90 seconds",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,166",
-      "forks": "724",
+      "stars": "5,170",
+      "forks": "726",
       "addStars": "21",
       "contributors": [
         {
@@ -345,8 +345,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "103,292",
-      "forks": "16,716",
+      "stars": "103,297",
+      "forks": "16,717",
       "addStars": "46",
       "contributors": [
         {
@@ -382,7 +382,7 @@
       "description": "智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,302",
+      "stars": "7,309",
       "forks": "1,317",
       "addStars": "42",
       "contributors": [
@@ -409,8 +409,8 @@
       "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,429",
-      "forks": "1,020",
+      "stars": "9,493",
+      "forks": "1,023",
       "addStars": "411",
       "contributors": [
         {
@@ -446,8 +446,8 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,168",
-      "forks": "2,061",
+      "stars": "20,196",
+      "forks": "2,067",
       "addStars": "81",
       "contributors": [
         {

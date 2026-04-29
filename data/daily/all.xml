@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 29 Apr 2026 15:12:45 GMT</pubDate>
+    <pubDate>Wed, 29 Apr 2026 20:13:24 GMT</pubDate>
     <item>
       <title>warpdotdev/warp</title>
       <link>https://github.com/warpdotdev/warp</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/warpdotdev/warp</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>40,833</stars>
-      <forks>2,316</forks>
+      <stars>42,772</stars>
+      <forks>2,526</forks>
       <addStars>11,955</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>42,200</stars>
-      <forks>3,314</forks>
+      <stars>43,406</stars>
+      <forks>3,411</forks>
       <addStars>7,356</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/HunxByts/GhostTrack</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,279</stars>
-      <forks>1,553</forks>
+      <stars>11,471</stars>
+      <forks>1,573</forks>
       <addStars>1,036</addStars>
       <contributors>
         <contributor>
@@ -95,8 +95,8 @@
       <guid>https://github.com/ComposioHQ/awesome-codex-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,585</stars>
-      <forks>288</forks>
+      <stars>4,694</stars>
+      <forks>295</forks>
       <addStars>1,180</addStars>
       <contributors>
         <contributor>
@@ -133,8 +133,8 @@
       <guid>https://github.com/1jehuang/jcode</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,130</stars>
-      <forks>114</forks>
+      <stars>1,275</stars>
+      <forks>123</forks>
       <addStars>386</addStars>
       <contributors>
         <contributor>
@@ -156,8 +156,8 @@
       <guid>https://github.com/abhigyanpatwari/GitNexus</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>33,136</stars>
-      <forks>3,754</forks>
+      <stars>33,259</stars>
+      <forks>3,771</forks>
       <addStars>777</addStars>
       <contributors>
         <contributor>
@@ -189,8 +189,8 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,479</stars>
-      <forks>5,027</forks>
+      <stars>45,583</stars>
+      <forks>5,035</forks>
       <addStars>1,688</addStars>
       <contributors>
         <contributor>
@@ -222,8 +222,8 @@
       <guid>https://github.com/CJackHwang/ds2api</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,610</stars>
-      <forks>704</forks>
+      <stars>2,664</stars>
+      <forks>716</forks>
       <addStars>461</addStars>
       <contributors>
         <contributor>
@@ -260,8 +260,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>172,693</stars>
-      <forks>15,234</forks>
+      <stars>172,958</stars>
+      <forks>15,254</forks>
       <addStars>1,683</addStars>
       <contributors>
         <contributor>
@@ -298,8 +298,8 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,529</stars>
-      <forks>32,860</forks>
+      <stars>32,652</stars>
+      <forks>32,894</forks>
       <addStars>358</addStars>
       <contributors>
         <contributor>
@@ -331,8 +331,8 @@
       <guid>https://github.com/lukilabs/craft-agents-oss</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,224</stars>
-      <forks>716</forks>
+      <stars>5,290</stars>
+      <forks>721</forks>
       <addStars>432</addStars>
       <contributors>
         <contributor>
@@ -364,8 +364,8 @@
       <guid>https://github.com/EbookFoundation/free-programming-books</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>387,009</stars>
-      <forks>66,176</forks>
+      <stars>387,099</stars>
+      <forks>66,178</forks>
       <addStars>609</addStars>
       <contributors>
         <contributor>
@@ -402,8 +402,8 @@
       <guid>https://github.com/soxoj/maigret</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,950</stars>
-      <forks>1,409</forks>
+      <stars>20,135</stars>
+      <forks>1,415</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>
@@ -430,9 +430,9 @@
       <guid>https://github.com/iv-org/invidious</guid>
       <language>Crystal</language>
       <languageColor>#000100</languageColor>
-      <stars>19,317</stars>
+      <stars>19,375</stars>
       <forks>2,132</forks>
-      <addStars>143</addStars>
+      <addStars>243</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/14208607?s=40&amp;v=4</avatar>
@@ -468,9 +468,9 @@
       <guid>https://github.com/gorhill/uBlock</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>63,921</stars>
+      <stars>63,983</stars>
       <forks>4,070</forks>
-      <addStars>569</addStars>
+      <addStars>315</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/585534?s=40&amp;v=4</avatar>
@@ -506,8 +506,8 @@
       <guid>https://github.com/microsoft/PowerToys</guid>
       <language>C#</language>
       <languageColor>#178600</languageColor>
-      <stars>132,245</stars>
-      <forks>7,909</forks>
+      <stars>132,328</stars>
+      <forks>7,911</forks>
       <addStars>79</addStars>
       <contributors>
         <contributor>

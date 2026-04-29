@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Weekly Trending",
   "description": "Weekly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 29 Apr 2026 04:33:10 GMT",
+  "pubDate": "Wed, 29 Apr 2026 09:13:06 GMT",
   "items": [
     {
       "title": "mattpocock/skills",
@@ -10,8 +10,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "38,724",
-      "forks": "3,044",
+      "stars": "40,531",
+      "forks": "3,181",
       "addStars": "18,218",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "25,475",
-      "forks": "3,158",
+      "stars": "25,698",
+      "forks": "3,187",
       "addStars": "6,179",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\"",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "13,830",
-      "forks": "1,219",
+      "stars": "13,879",
+      "forks": "1,220",
       "addStars": "2,645",
       "contributors": [
         {
@@ -91,7 +91,7 @@
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "57,895",
+      "stars": "57,912",
       "forks": "3,100",
       "addStars": "311",
       "contributors": [
@@ -128,8 +128,8 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "12,247",
-      "forks": "763",
+      "stars": "12,252",
+      "forks": "764",
       "addStars": "125",
       "contributors": [
         {
@@ -165,8 +165,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "171,855",
-      "forks": "15,160",
+      "stars": "172,267",
+      "forks": "15,202",
       "addStars": "8,796",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "Archlinux Kernel based on different schedulers and some other performance improvements.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,427",
-      "forks": "112",
+      "stars": "3,435",
+      "forks": "113",
       "addStars": "81",
       "contributors": [
         {
@@ -239,8 +239,8 @@
       "description": "Certified Kubernetes Administrator - CKA Course",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "10,420",
-      "forks": "9,442",
+      "stars": "10,421",
+      "forks": "9,443",
       "addStars": "38",
       "contributors": [
         {
@@ -276,7 +276,7 @@
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,855",
+      "stars": "3,859",
       "forks": "403",
       "addStars": "222",
       "contributors": [
@@ -340,7 +340,7 @@
       "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "46,435",
+      "stars": "46,438",
       "forks": "5,560",
       "addStars": "88",
       "contributors": [
@@ -377,8 +377,8 @@
       "description": "Create beautiful slides on the web using Claude's frontend skills",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "15,988",
-      "forks": "1,297",
+      "stars": "16,015",
+      "forks": "1,301",
       "addStars": "840",
       "contributors": [
         {

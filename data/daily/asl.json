@@ -2,7 +2,7 @@
   "title": "GitHub Asl Languages Daily Trending",
   "description": "Daily Trending of Asl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 29 Apr 2026 20:13:24 GMT",
+  "pubDate": "Thu, 30 Apr 2026 04:35:58 GMT",
   "items": [
     {
       "title": "postgres-cn/pgdoc-cn",
@@ -10,7 +10,7 @@
       "description": "PostgreSQL manual Chinese translation by China PostgreSQL Users Group",
       "language": "ASL",
       "languageColor": "#ccc",
-      "stars": "1,920",
+      "stars": "1,921",
       "forks": "441",
       "addStars": "0",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Broken edk2 port for Qualcomm platforms xD",
       "language": "ASL",
       "languageColor": "#ccc",
-      "stars": "2,555",
-      "forks": "484",
+      "stars": "2,556",
+      "forks": "485",
       "addStars": "0",
       "contributors": [
         {

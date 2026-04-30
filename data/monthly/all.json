@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 30 Apr 2026 04:35:58 GMT",
+  "pubDate": "Thu, 30 Apr 2026 09:19:27 GMT",
   "items": [
     {
       "title": "forrestchang/andrej-karpathy-skills",
@@ -10,8 +10,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "100,565",
-      "forks": "9,839",
+      "stars": "101,407",
+      "forks": "9,944",
       "addStars": "91,463",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "125,394",
-      "forks": "18,715",
+      "stars": "125,880",
+      "forks": "18,807",
       "addStars": "109,206",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,664",
-      "forks": "2,649",
+      "stars": "18,793",
+      "forks": "2,670",
       "addStars": "17,106",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,889",
-      "forks": "2,419",
+      "stars": "18,009",
+      "forks": "2,433",
       "addStars": "14,863",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,614",
-      "forks": "3,018",
+      "stars": "22,644",
+      "forks": "3,024",
       "addStars": "11,789",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,066",
-      "forks": "3,894",
+      "stars": "22,140",
+      "forks": "3,906",
       "addStars": "10,729",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "22,301",
-      "forks": "2,186",
+      "stars": "22,323",
+      "forks": "2,188",
       "addStars": "6,868",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,697",
-      "forks": "2,255",
+      "stars": "33,734",
+      "forks": "2,258",
       "addStars": "24,784",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,223",
-      "forks": "3,093",
+      "stars": "20,247",
+      "forks": "3,094",
       "addStars": "6,446",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "118,785",
-      "forks": "7,844",
+      "stars": "118,850",
+      "forks": "7,847",
       "addStars": "26,298",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "45,669",
-      "forks": "3,685",
+      "stars": "46,921",
+      "forks": "3,818",
       "addStars": "31,265",
       "contributors": [
         {
@@ -377,8 +377,8 @@
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,289",
-      "forks": "944",
+      "stars": "8,369",
+      "forks": "954",
       "addStars": "7,409",
       "contributors": [
         {
@@ -414,8 +414,8 @@
       "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "4,536",
-      "forks": "444",
+      "stars": "4,550",
+      "forks": "446",
       "addStars": "3,526",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "68,798",
-      "forks": "7,754",
+      "stars": "68,932",
+      "forks": "7,771",
       "addStars": "12,830",
       "contributors": [
         {
@@ -488,8 +488,8 @@
       "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,658",
-      "forks": "1,038",
+      "stars": "9,815",
+      "forks": "1,050",
       "addStars": "6,239",
       "contributors": [
         {

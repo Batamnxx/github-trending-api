@@ -3,7 +3,7 @@
     <title>GitHub Elixir Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Elixir Languages in GitHub</description>
-    <pubDate>Thu, 30 Apr 2026 04:35:58 GMT</pubDate>
+    <pubDate>Thu, 30 Apr 2026 09:19:27 GMT</pubDate>
     <item>
       <title>plausible/analytics</title>
       <link>https://github.com/plausible/analytics</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/plausible/analytics</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>24,704</stars>
+      <stars>24,707</stars>
       <forks>1,389</forks>
       <addStars>8</addStars>
       <contributors>
@@ -105,7 +105,7 @@
       <guid>https://github.com/phoenixframework/phoenix</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>22,980</stars>
+      <stars>22,982</stars>
       <forks>3,056</forks>
       <addStars>2</addStars>
       <contributors>
@@ -302,51 +302,13 @@
       </contributors>
     </item>
     <item>
-      <title>mishka-group/mishka_chelekom</title>
-      <link>https://github.com/mishka-group/mishka_chelekom</link>
-      <description>Mishka Chelekom is a fully featured components and UI kit library for Phoenix &amp; Phoenix LiveView</description>
-      <guid>https://github.com/mishka-group/mishka_chelekom</guid>
-      <language>Elixir</language>
-      <languageColor>#6e4a7e</languageColor>
-      <stars>720</stars>
-      <forks>20</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8413604?s=40&amp;v=4</avatar>
-          <name>shahryarjb</name>
-          <url>https://github.com/shahryarjb</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28711325?s=40&amp;v=4</avatar>
-          <name>MonaAghili</name>
-          <url>https://github.com/MonaAghili</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/391402?s=40&amp;v=4</avatar>
-          <name>mithereal</name>
-          <url>https://github.com/mithereal</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1861670?s=40&amp;v=4</avatar>
-          <name>MetaBureau</name>
-          <url>https://github.com/MetaBureau</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/497073?s=40&amp;v=4</avatar>
-          <name>MoritzMaxeiner</name>
-          <url>https://github.com/MoritzMaxeiner</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>elixir-lang/elixir</title>
       <link>https://github.com/elixir-lang/elixir</link>
       <description>Elixir is a dynamic, functional language for building scalable and maintainable applications</description>
       <guid>https://github.com/elixir-lang/elixir</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>26,383</stars>
+      <stars>26,385</stars>
       <forks>3,482</forks>
       <addStars>8</addStars>
       <contributors>
@@ -536,7 +498,7 @@
       <guid>https://github.com/duffelhq/paginator</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>823</stars>
+      <stars>822</stars>
       <forks>101</forks>
       <addStars>0</addStars>
       <contributors>

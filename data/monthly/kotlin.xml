@@ -3,7 +3,7 @@
     <title>GitHub Kotlin Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Kotlin Languages in GitHub</description>
-    <pubDate>Thu, 30 Apr 2026 09:19:27 GMT</pubDate>
+    <pubDate>Thu, 30 Apr 2026 15:09:49 GMT</pubDate>
     <item>
       <title>google-ai-edge/gallery</title>
       <link>https://github.com/google-ai-edge/gallery</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/google-ai-edge/gallery</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>22,323</stars>
-      <forks>2,188</forks>
+      <stars>22,337</stars>
+      <forks>2,192</forks>
       <addStars>6,868</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/2dust/v2rayNG</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>55,135</stars>
-      <forks>7,289</forks>
+      <stars>55,154</stars>
+      <forks>7,290</forks>
       <addStars>2,417</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/capcom6/android-sms-gateway</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>4,314</stars>
-      <forks>707</forks>
+      <stars>4,315</stars>
+      <forks>708</forks>
       <addStars>2,907</addStars>
       <contributors>
         <contributor>
@@ -104,51 +104,13 @@
       </contributors>
     </item>
     <item>
-      <title>keiyoushi/extensions-source</title>
-      <link>https://github.com/keiyoushi/extensions-source</link>
-      <description>Source code of extensions in https://github.com/keiyoushi/extensions</description>
-      <guid>https://github.com/keiyoushi/extensions-source</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>4,032</stars>
-      <forks>1,277</forks>
-      <addStars>155</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13540478?s=40&amp;v=4</avatar>
-          <name>vetleledaal</name>
-          <url>https://github.com/vetleledaal</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48650614?s=40&amp;v=4</avatar>
-          <name>AwkwardPeak7</name>
-          <url>https://github.com/AwkwardPeak7</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/156493704?s=40&amp;v=4</avatar>
-          <name>choppeh</name>
-          <url>https://github.com/choppeh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/90949336?s=40&amp;v=4</avatar>
-          <name>bapeey</name>
-          <url>https://github.com/bapeey</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/92439990?s=40&amp;v=4</avatar>
-          <name>beer-psi</name>
-          <url>https://github.com/beer-psi</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>AAswordman/Operit</title>
       <link>https://github.com/AAswordman/Operit</link>
       <description>The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent</description>
       <guid>https://github.com/AAswordman/Operit</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>4,362</stars>
+      <stars>4,369</stars>
       <forks>338</forks>
       <addStars>578</addStars>
       <contributors>
@@ -186,8 +148,8 @@
       <guid>https://github.com/MatsuriDayo/NekoBoxForAndroid</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>20,423</stars>
-      <forks>1,597</forks>
+      <stars>20,431</stars>
+      <forks>1,599</forks>
       <addStars>950</addStars>
       <contributors>
         <contributor>
@@ -214,57 +176,6 @@
           <avatar>https://avatars.githubusercontent.com/u/17470335?s=40&amp;v=4</avatar>
           <name>NeroBlackstone</name>
           <url>https://github.com/NeroBlackstone</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>pass-with-high-score/blockads-android</title>
-      <link>https://github.com/pass-with-high-score/blockads-android</link>
-      <description>Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.</description>
-      <guid>https://github.com/pass-with-high-score/blockads-android</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>832</stars>
-      <forks>44</forks>
-      <addStars>447</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/94773751?s=40&amp;v=4</avatar>
-          <name>nqmgaming</name>
-          <url>https://github.com/nqmgaming</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/265216738?s=40&amp;v=4</avatar>
-          <name>minhnq1-apero</name>
-          <url>https://github.com/minhnq1-apero</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>cat3399/blbl</title>
-      <link>https://github.com/cat3399/blbl</link>
-      <description>一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5</description>
-      <guid>https://github.com/cat3399/blbl</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>1,664</stars>
-      <forks>106</forks>
-      <addStars>779</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/127954618?s=40&amp;v=4</avatar>
-          <name>cat3399</name>
-          <url>https://github.com/cat3399</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/67491974?s=40&amp;v=4</avatar>
-          <name>Frost819</name>
-          <url>https://github.com/Frost819</url>
         </contributor>
       </contributors>
     </item>
@@ -307,42 +218,14 @@
       </contributors>
     </item>
     <item>
-      <title>koiverse/ArchiveTune</title>
-      <link>https://github.com/koiverse/ArchiveTune</link>
-      <description>The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.</description>
-      <guid>https://github.com/koiverse/ArchiveTune</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>1,597</stars>
-      <forks>51</forks>
-      <addStars>566</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/107134739?s=40&amp;v=4</avatar>
-          <name>koiverse</name>
-          <url>https://github.com/koiverse</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/93458424?s=40&amp;v=4</avatar>
-          <name>Windowstechtips</name>
-          <url>https://github.com/Windowstechtips</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/80249864?s=40&amp;v=4</avatar>
-          <name>sang765</name>
-          <url>https://github.com/sang765</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>iamgio/quarkdown</title>
       <link>https://github.com/iamgio/quarkdown</link>
       <description>🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.</description>
       <guid>https://github.com/iamgio/quarkdown</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>12,655</stars>
-      <forks>341</forks>
+      <stars>12,829</stars>
+      <forks>348</forks>
       <addStars>2,312</addStars>
       <contributors>
         <contributor>
@@ -373,35 +256,119 @@
       </contributors>
     </item>
     <item>
-      <title>PortSwigger/mcp-server</title>
-      <link>https://github.com/PortSwigger/mcp-server</link>
-      <description>MCP Server for Burp</description>
-      <guid>https://github.com/PortSwigger/mcp-server</guid>
+      <title>pass-with-high-score/blockads-android</title>
+      <link>https://github.com/pass-with-high-score/blockads-android</link>
+      <description>Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.</description>
+      <guid>https://github.com/pass-with-high-score/blockads-android</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>729</stars>
-      <forks>127</forks>
-      <addStars>130</addStars>
+      <stars>832</stars>
+      <forks>44</forks>
+      <addStars>447</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/152267411?s=40&amp;v=4</avatar>
-          <name>portswigger-penguin</name>
-          <url>https://github.com/portswigger-penguin</url>
+          <avatar>https://avatars.githubusercontent.com/u/94773751?s=40&amp;v=4</avatar>
+          <name>nqmgaming</name>
+          <url>https://github.com/nqmgaming</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/152162390?s=40&amp;v=4</avatar>
-          <name>ps-porpoise</name>
-          <url>https://github.com/ps-porpoise</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58562826?s=40&amp;v=4</avatar>
-          <name>Hannah-PortSwigger</name>
-          <url>https://github.com/Hannah-PortSwigger</url>
+          <avatar>https://avatars.githubusercontent.com/u/265216738?s=40&amp;v=4</avatar>
+          <name>minhnq1-apero</name>
+          <url>https://github.com/minhnq1-apero</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>cat3399/blbl</title>
+      <link>https://github.com/cat3399/blbl</link>
+      <description>一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5</description>
+      <guid>https://github.com/cat3399/blbl</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>1,668</stars>
+      <forks>106</forks>
+      <addStars>779</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/127954618?s=40&amp;v=4</avatar>
+          <name>cat3399</name>
+          <url>https://github.com/cat3399</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65591973?s=40&amp;v=4</avatar>
-          <name>jakbin</name>
-          <url>https://github.com/jakbin</url>
+          <avatar>https://avatars.githubusercontent.com/u/67491974?s=40&amp;v=4</avatar>
+          <name>Frost819</name>
+          <url>https://github.com/Frost819</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>keiyoushi/extensions-source</title>
+      <link>https://github.com/keiyoushi/extensions-source</link>
+      <description>Source code of extensions in https://github.com/keiyoushi/extensions</description>
+      <guid>https://github.com/keiyoushi/extensions-source</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>4,032</stars>
+      <forks>1,277</forks>
+      <addStars>155</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13540478?s=40&amp;v=4</avatar>
+          <name>vetleledaal</name>
+          <url>https://github.com/vetleledaal</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48650614?s=40&amp;v=4</avatar>
+          <name>AwkwardPeak7</name>
+          <url>https://github.com/AwkwardPeak7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/156493704?s=40&amp;v=4</avatar>
+          <name>choppeh</name>
+          <url>https://github.com/choppeh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/90949336?s=40&amp;v=4</avatar>
+          <name>bapeey</name>
+          <url>https://github.com/bapeey</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/92439990?s=40&amp;v=4</avatar>
+          <name>beer-psi</name>
+          <url>https://github.com/beer-psi</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>koiverse/ArchiveTune</title>
+      <link>https://github.com/koiverse/ArchiveTune</link>
+      <description>The Cutest Material 3 Expressive Music Player With Support Local File and Youtube Music for Android.</description>
+      <guid>https://github.com/koiverse/ArchiveTune</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>1,601</stars>
+      <forks>51</forks>
+      <addStars>566</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/107134739?s=40&amp;v=4</avatar>
+          <name>koiverse</name>
+          <url>https://github.com/koiverse</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/93458424?s=40&amp;v=4</avatar>
+          <name>Windowstechtips</name>
+          <url>https://github.com/Windowstechtips</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/80249864?s=40&amp;v=4</avatar>
+          <name>sang765</name>
+          <url>https://github.com/sang765</url>
         </contributor>
       </contributors>
     </item>
@@ -412,7 +379,7 @@
       <guid>https://github.com/embabel/embabel-agent</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>3,374</stars>
+      <stars>3,376</stars>
       <forks>336</forks>
       <addStars>184</addStars>
       <contributors>
@@ -450,7 +417,7 @@
       <guid>https://github.com/A-EDev/Flow</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>714</stars>
+      <stars>717</stars>
       <forks>17</forks>
       <addStars>342</addStars>
       <contributors>
@@ -482,134 +449,35 @@
       </contributors>
     </item>
     <item>
-      <title>mihonapp/mihon</title>
-      <link>https://github.com/mihonapp/mihon</link>
-      <description>Free and open source manga reader for Android</description>
-      <guid>https://github.com/mihonapp/mihon</guid>
+      <title>PortSwigger/mcp-server</title>
+      <link>https://github.com/PortSwigger/mcp-server</link>
+      <description>MCP Server for Burp</description>
+      <guid>https://github.com/PortSwigger/mcp-server</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>20,248</stars>
-      <forks>1,122</forks>
-      <addStars>821</addStars>
+      <stars>732</stars>
+      <forks>127</forks>
+      <addStars>130</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59261191?s=40&amp;v=4</avatar>
-          <name>AntsyLich</name>
-          <url>https://github.com/AntsyLich</url>
+          <avatar>https://avatars.githubusercontent.com/u/152267411?s=40&amp;v=4</avatar>
+          <name>portswigger-penguin</name>
+          <url>https://github.com/portswigger-penguin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
-          <name>renovate-bot</name>
-          <url>https://github.com/renovate-bot</url>
+          <avatar>https://avatars.githubusercontent.com/u/152162390?s=40&amp;v=4</avatar>
+          <name>ps-porpoise</name>
+          <url>https://github.com/ps-porpoise</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10052873?s=40&amp;v=4</avatar>
-          <name>giosann</name>
-          <url>https://github.com/giosann</url>
+          <avatar>https://avatars.githubusercontent.com/u/58562826?s=40&amp;v=4</avatar>
+          <name>Hannah-PortSwigger</name>
+          <url>https://github.com/Hannah-PortSwigger</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10836780?s=40&amp;v=4</avatar>
-          <name>Soitora</name>
-          <url>https://github.com/Soitora</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>xororz/local-dream</title>
-      <link>https://github.com/xororz/local-dream</link>
-      <description>Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.</description>
-      <guid>https://github.com/xororz/local-dream</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>2,301</stars>
-      <forks>146</forks>
-      <addStars>394</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/157940664?s=40&amp;v=4</avatar>
-          <name>xororz</name>
-          <url>https://github.com/xororz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6385678?s=40&amp;v=4</avatar>
-          <name>Attect</name>
-          <url>https://github.com/Attect</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102380235?s=40&amp;v=4</avatar>
-          <name>wyfhbb</name>
-          <url>https://github.com/wyfhbb</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58381646?s=40&amp;v=4</avatar>
-          <name>HELPMEEADICE</name>
-          <url>https://github.com/HELPMEEADICE</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bannedbook/fanqiang</title>
-      <link>https://github.com/bannedbook/fanqiang</link>
-      <description>翻墙-科学上网</description>
-      <guid>https://github.com/bannedbook/fanqiang</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>43,455</stars>
-      <forks>7,721</forks>
-      <addStars>646</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4361923?s=40&amp;v=4</avatar>
-          <name>bannedbook</name>
-          <url>https://github.com/bannedbook</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50905019?s=40&amp;v=4</avatar>
-          <name>crazyetiii</name>
-          <url>https://github.com/crazyetiii</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>SagerNet/sing-box-for-android</title>
-      <link>https://github.com/SagerNet/sing-box-for-android</link>
-      <description>Experimental Android client for sing-box</description>
-      <guid>https://github.com/SagerNet/sing-box-for-android</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>1,049</stars>
-      <forks>369</forks>
-      <addStars>83</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/56506714?s=40&amp;v=4</avatar>
-          <name>nekohasekai</name>
-          <url>https://github.com/nekohasekai</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6316115?s=40&amp;v=4</avatar>
-          <name>iKirby</name>
-          <url>https://github.com/iKirby</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36977733?s=40&amp;v=4</avatar>
-          <name>linsui</name>
-          <url>https://github.com/linsui</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/95130625?s=40&amp;v=4</avatar>
-          <name>mikinol</name>
-          <url>https://github.com/mikinol</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/139959885?s=40&amp;v=4</avatar>
-          <name>xchacha20-poly1305</name>
-          <url>https://github.com/xchacha20-poly1305</url>
+          <avatar>https://avatars.githubusercontent.com/u/65591973?s=40&amp;v=4</avatar>
+          <name>jakbin</name>
+          <url>https://github.com/jakbin</url>
         </contributor>
       </contributors>
     </item>
@@ -652,13 +520,145 @@
       </contributors>
     </item>
     <item>
+      <title>bannedbook/fanqiang</title>
+      <link>https://github.com/bannedbook/fanqiang</link>
+      <description>翻墙-科学上网</description>
+      <guid>https://github.com/bannedbook/fanqiang</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>43,461</stars>
+      <forks>7,720</forks>
+      <addStars>646</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4361923?s=40&amp;v=4</avatar>
+          <name>bannedbook</name>
+          <url>https://github.com/bannedbook</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/50905019?s=40&amp;v=4</avatar>
+          <name>crazyetiii</name>
+          <url>https://github.com/crazyetiii</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>mihonapp/mihon</title>
+      <link>https://github.com/mihonapp/mihon</link>
+      <description>Free and open source manga reader for Android</description>
+      <guid>https://github.com/mihonapp/mihon</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>20,252</stars>
+      <forks>1,122</forks>
+      <addStars>821</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59261191?s=40&amp;v=4</avatar>
+          <name>AntsyLich</name>
+          <url>https://github.com/AntsyLich</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
+          <name>renovate-bot</name>
+          <url>https://github.com/renovate-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10052873?s=40&amp;v=4</avatar>
+          <name>giosann</name>
+          <url>https://github.com/giosann</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10836780?s=40&amp;v=4</avatar>
+          <name>Soitora</name>
+          <url>https://github.com/Soitora</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>xororz/local-dream</title>
+      <link>https://github.com/xororz/local-dream</link>
+      <description>Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.</description>
+      <guid>https://github.com/xororz/local-dream</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>2,302</stars>
+      <forks>147</forks>
+      <addStars>394</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/157940664?s=40&amp;v=4</avatar>
+          <name>xororz</name>
+          <url>https://github.com/xororz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6385678?s=40&amp;v=4</avatar>
+          <name>Attect</name>
+          <url>https://github.com/Attect</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/102380235?s=40&amp;v=4</avatar>
+          <name>wyfhbb</name>
+          <url>https://github.com/wyfhbb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/58381646?s=40&amp;v=4</avatar>
+          <name>HELPMEEADICE</name>
+          <url>https://github.com/HELPMEEADICE</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>SagerNet/sing-box-for-android</title>
+      <link>https://github.com/SagerNet/sing-box-for-android</link>
+      <description>Experimental Android client for sing-box</description>
+      <guid>https://github.com/SagerNet/sing-box-for-android</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>1,049</stars>
+      <forks>370</forks>
+      <addStars>83</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56506714?s=40&amp;v=4</avatar>
+          <name>nekohasekai</name>
+          <url>https://github.com/nekohasekai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6316115?s=40&amp;v=4</avatar>
+          <name>iKirby</name>
+          <url>https://github.com/iKirby</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36977733?s=40&amp;v=4</avatar>
+          <name>linsui</name>
+          <url>https://github.com/linsui</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/95130625?s=40&amp;v=4</avatar>
+          <name>mikinol</name>
+          <url>https://github.com/mikinol</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/139959885?s=40&amp;v=4</avatar>
+          <name>xchacha20-poly1305</name>
+          <url>https://github.com/xchacha20-poly1305</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>recloudstream/cloudstream</title>
       <link>https://github.com/recloudstream/cloudstream</link>
       <description>Android app for streaming and downloading media.</description>
       <guid>https://github.com/recloudstream/cloudstream</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>9,522</stars>
+      <stars>9,523</stars>
       <forks>858</forks>
       <addStars>342</addStars>
       <contributors>

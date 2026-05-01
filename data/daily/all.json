@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 01 May 2026 04:52:52 GMT",
+  "pubDate": "Fri, 01 May 2026 09:04:29 GMT",
   "items": [
     {
       "title": "warpdotdev/warp",
@@ -10,8 +10,8 @@
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,666",
-      "forks": "3,258",
+      "stars": "50,290",
+      "forks": "3,317",
       "addStars": "8,399",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,059",
-      "forks": "11,045",
+      "stars": "58,383",
+      "forks": "11,140",
       "addStars": "2,023",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "49,985",
-      "forks": "4,109",
+      "stars": "50,590",
+      "forks": "4,173",
       "addStars": "6,187",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "174,748",
-      "forks": "15,418",
+      "stars": "174,965",
+      "forks": "15,443",
       "addStars": "1,632",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,604",
-      "forks": "742",
+      "stars": "5,630",
+      "forks": "748",
       "addStars": "319",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "429,646",
-      "forks": "46,877",
+      "stars": "429,805",
+      "forks": "46,896",
       "addStars": "322",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "Coding Agent Harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,949",
-      "forks": "177",
+      "stars": "2,015",
+      "forks": "184",
       "addStars": "675",
       "contributors": [
         {
@@ -234,8 +234,8 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,918",
-      "forks": "1,456",
+      "stars": "21,011",
+      "forks": "1,460",
       "addStars": "730",
       "contributors": [
         {
@@ -261,8 +261,8 @@
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,235",
-      "forks": "1,635",
+      "stars": "12,316",
+      "forks": "1,642",
       "addStars": "841",
       "contributors": [
         {
@@ -283,8 +283,8 @@
       "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "13,171",
-      "forks": "361",
+      "stars": "13,280",
+      "forks": "364",
       "addStars": "177",
       "contributors": [
         {
@@ -320,8 +320,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "52,953",
-      "forks": "2,569",
+      "stars": "53,045",
+      "forks": "2,575",
       "addStars": "341",
       "contributors": [
         {
@@ -357,8 +357,8 @@
       "description": "Video discussing this curriculum:",
       "language": "",
       "languageColor": "",
-      "stars": "22,414",
-      "forks": "3,216",
+      "stars": "22,456",
+      "forks": "3,221",
       "addStars": "140",
       "contributors": [
         {
@@ -389,8 +389,8 @@
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "891",
-      "forks": "67",
+      "stars": "945",
+      "forks": "69",
       "addStars": "69",
       "contributors": [
         {

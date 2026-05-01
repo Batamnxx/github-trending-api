@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 30 Apr 2026 20:11:59 GMT",
+  "pubDate": "Fri, 01 May 2026 04:52:52 GMT",
   "items": [
     {
       "title": "warpdotdev/warp",
@@ -10,9 +10,9 @@
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "48,802",
-      "forks": "3,157",
-      "addStars": "8,262",
+      "stars": "49,666",
+      "forks": "3,258",
+      "addStars": "8,399",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/260729474?s=40&v=4",
@@ -35,9 +35,9 @@
           "url": "https://github.com/seemeroland"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/30786057?s=40&v=4",
-          "name": "danielpeng2",
-          "url": "https://github.com/danielpeng2"
+          "avatar": "https://avatars.githubusercontent.com/u/65182701?s=40&v=4",
+          "name": "harryalbert",
+          "url": "https://github.com/harryalbert"
         }
       ]
     },
@@ -47,9 +47,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "57,364",
-      "forks": "10,845",
-      "addStars": "2,203",
+      "stars": "58,059",
+      "forks": "11,045",
+      "addStars": "2,023",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "48,919",
-      "forks": "3,997",
-      "addStars": "6,175",
+      "stars": "49,985",
+      "forks": "4,109",
+      "addStars": "6,187",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "174,424",
-      "forks": "15,388",
-      "addStars": "1,623",
+      "stars": "174,748",
+      "forks": "15,418",
+      "addStars": "1,632",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,534",
-      "forks": "738",
-      "addStars": "314",
+      "stars": "5,604",
+      "forks": "742",
+      "addStars": "319",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2445418?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "429,382",
-      "forks": "46,856",
-      "addStars": "307",
+      "stars": "429,646",
+      "forks": "46,877",
+      "addStars": "322",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50463866?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Coding Agent Harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,828",
-      "forks": "168",
-      "addStars": "670",
+      "stars": "1,949",
+      "forks": "177",
+      "addStars": "675",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/94247773?s=40&v=4",
@@ -234,9 +234,9 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,740",
-      "forks": "1,446",
-      "addStars": "723",
+      "stars": "20,918",
+      "forks": "1,456",
+      "addStars": "730",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31013580?s=40&v=4",
@@ -261,9 +261,9 @@
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,104",
-      "forks": "1,625",
-      "addStars": "830",
+      "stars": "12,235",
+      "forks": "1,635",
+      "addStars": "841",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/130666567?s=40&v=4",
@@ -283,9 +283,9 @@
       "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "12,960",
-      "forks": "353",
-      "addStars": "350",
+      "stars": "13,171",
+      "forks": "361",
+      "addStars": "177",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16124324?s=40&v=4",
@@ -320,9 +320,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "52,754",
-      "forks": "2,556",
-      "addStars": "379",
+      "stars": "52,953",
+      "forks": "2,569",
+      "addStars": "341",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
@@ -357,9 +357,9 @@
       "description": "Video discussing this curriculum:",
       "language": "",
       "languageColor": "",
-      "stars": "22,342",
-      "forks": "3,210",
-      "addStars": "133",
+      "stars": "22,414",
+      "forks": "3,216",
+      "addStars": "140",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15620553?s=40&v=4",
@@ -389,9 +389,9 @@
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "784",
-      "forks": "63",
-      "addStars": "54",
+      "stars": "891",
+      "forks": "67",
+      "addStars": "69",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3813908?s=40&v=4",

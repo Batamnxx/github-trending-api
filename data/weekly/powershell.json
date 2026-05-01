@@ -2,17 +2,49 @@
   "title": "GitHub Powershell Languages Weekly Trending",
   "description": "Weekly Trending of Powershell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 30 Apr 2026 20:11:59 GMT",
+  "pubDate": "Fri, 01 May 2026 04:52:52 GMT",
   "items": [
+    {
+      "title": "microsoft/azure-skills",
+      "url": "https://github.com/microsoft/azure-skills",
+      "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "780",
+      "forks": "119",
+      "addStars": "89",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52458914?s=40&v=4",
+          "name": "fanyang-mono",
+          "url": "https://github.com/fanyang-mono"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/102772054?s=40&v=4",
+          "name": "kvenkatrajan",
+          "url": "https://github.com/kvenkatrajan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74415662?s=40&v=4",
+          "name": "charris-msft",
+          "url": "https://github.com/charris-msft"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10506730?s=40&v=4",
+          "name": "tmeschter",
+          "url": "https://github.com/tmeschter"
+        }
+      ]
+    },
     {
       "title": "actions/runner-images",
       "url": "https://github.com/actions/runner-images",
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "12,695",
-      "forks": "3,728",
-      "addStars": "34",
+      "stars": "12,694",
+      "forks": "3,727",
+      "addStars": "31",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/72681142?s=40&v=4",
@@ -37,9 +69,9 @@
       "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "1,029",
+      "stars": "1,031",
       "forks": "172",
-      "addStars": "34",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4399970?s=40&v=4",
@@ -69,9 +101,9 @@
       "description": "The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "872",
-      "forks": "292",
-      "addStars": "16",
+      "stars": "873",
+      "forks": "290",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10568244?s=40&v=4",
@@ -106,7 +138,7 @@
       "description": "A command-line installer for Windows.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "24,034",
+      "stars": "24,036",
       "forks": "1,528",
       "addStars": "56",
       "contributors": [
@@ -145,7 +177,7 @@
       "languageColor": "#012456",
       "stars": "587",
       "forks": "41",
-      "addStars": "14",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31777541?s=40&v=4",
@@ -161,7 +193,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "287",
-      "forks": "6,596",
+      "forks": "6,598",
       "addStars": "2",
       "contributors": [
         {
@@ -199,7 +231,7 @@
       "languageColor": "#012456",
       "stars": "1,329",
       "forks": "110",
-      "addStars": "13",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5046855?s=40&v=4",
@@ -229,9 +261,9 @@
       "description": "Scripts to build a trimmed-down Windows 11 image.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "18,574",
+      "stars": "18,577",
       "forks": "1,434",
-      "addStars": "81",
+      "addStars": "83",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38796849?s=40&v=4",
@@ -304,7 +336,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "2,063",
-      "forks": "1,627",
+      "forks": "1,628",
       "addStars": "4",
       "contributors": [
         {

@@ -3,7 +3,7 @@
     <title>GitHub Assembly Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Assembly Languages in GitHub</description>
-    <pubDate>Sat, 02 May 2026 14:10:03 GMT</pubDate>
+    <pubDate>Sat, 02 May 2026 19:55:27 GMT</pubDate>
     <item>
       <title>riscv/riscv-arch-test</title>
       <link>https://github.com/riscv/riscv-arch-test</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/riscv/riscv-arch-test</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>690</stars>
+      <stars>691</stars>
       <forks>305</forks>
       <addStars>3</addStars>
       <contributors>
@@ -126,7 +126,7 @@
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
       <stars>422</stars>
-      <forks>160</forks>
+      <forks>161</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -291,7 +291,7 @@
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
       <stars>18,021</stars>
-      <forks>2,024</forks>
+      <forks>2,025</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>

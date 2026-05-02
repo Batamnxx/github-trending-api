@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 02 May 2026 04:20:48 GMT",
+  "pubDate": "Sat, 02 May 2026 08:23:02 GMT",
   "items": [
     {
       "title": "TauricResearch/TradingAgents",
@@ -10,8 +10,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,126",
-      "forks": "11,563",
+      "stars": "60,468",
+      "forks": "11,655",
       "addStars": "2,112",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,817",
-      "forks": "1,534",
+      "stars": "21,967",
+      "forks": "1,547",
       "addStars": "535",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,703",
-      "forks": "3,488",
+      "stars": "51,967",
+      "forks": "3,525",
       "addStars": "3,401",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Coding Agent Harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,429",
-      "forks": "214",
+      "stars": "2,501",
+      "forks": "224",
       "addStars": "403",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "52,920",
-      "forks": "4,449",
+      "stars": "53,413",
+      "forks": "4,495",
       "addStars": "3,645",
       "contributors": [
         {
@@ -155,8 +155,8 @@
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,228",
-      "forks": "86",
+      "stars": "1,273",
+      "forks": "90",
       "addStars": "334",
       "contributors": [
         {
@@ -192,8 +192,8 @@
       "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "28,196",
-      "forks": "3,560",
+      "stars": "28,241",
+      "forks": "3,562",
       "addStars": "56",
       "contributors": [
         {
@@ -229,8 +229,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "175,769",
-      "forks": "15,534",
+      "stars": "175,983",
+      "forks": "15,564",
       "addStars": "1,096",
       "contributors": [
         {
@@ -266,8 +266,8 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "26,990",
-      "forks": "2,108",
+      "stars": "27,003",
+      "forks": "2,109",
       "addStars": "145",
       "contributors": [
         {

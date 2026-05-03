@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Monthly Trending",
   "description": "Monthly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 03 May 2026 14:10:51 GMT",
+  "pubDate": "Sun, 03 May 2026 19:55:15 GMT",
   "items": [
     {
       "title": "peazip/PeaZip",
@@ -47,7 +47,7 @@
       "description": "Cheat Engine. A development environment focused on modding",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "18,190",
+      "stars": "18,189",
       "forks": "2,554",
       "addStars": "205",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "RDP Wrapper Library",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "16,524",
+      "stars": "16,526",
       "forks": "4,032",
       "addStars": "123",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "4,111",
+      "stars": "4,112",
       "forks": "291",
       "addStars": "120",
       "contributors": [

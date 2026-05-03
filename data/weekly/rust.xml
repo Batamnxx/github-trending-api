@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Rust Languages in GitHub</description>
-    <pubDate>Sun, 03 May 2026 08:50:12 GMT</pubDate>
+    <pubDate>Sun, 03 May 2026 14:10:51 GMT</pubDate>
     <item>
       <title>zed-industries/zed</title>
       <link>https://github.com/zed-industries/zed</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>81,397</stars>
-      <forks>8,196</forks>
+      <stars>81,441</stars>
+      <forks>8,204</forks>
       <addStars>1,604</addStars>
       <contributors>
         <contributor>
@@ -43,13 +43,69 @@
       </contributors>
     </item>
     <item>
+      <title>njbrake/agent-of-empires</title>
+      <link>https://github.com/njbrake/agent-of-empires</link>
+      <description>Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.</description>
+      <guid>https://github.com/njbrake/agent-of-empires</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>1,912</stars>
+      <forks>158</forks>
+      <addStars>204</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33383515?s=40&amp;v=4</avatar>
+          <name>njbrake</name>
+          <url>https://github.com/njbrake</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6537332?s=40&amp;v=4</avatar>
+          <name>jerome-benoit</name>
+          <url>https://github.com/jerome-benoit</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>GyulyVGC/sniffnet</title>
+      <link>https://github.com/GyulyVGC/sniffnet</link>
+      <description>Comfortably monitor your Internet traffic 🕵️‍♂️</description>
+      <guid>https://github.com/GyulyVGC/sniffnet</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>37,134</stars>
+      <forks>1,485</forks>
+      <addStars>1,121</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/100347457?s=40&amp;v=4</avatar>
+          <name>GyulyVGC</name>
+          <url>https://github.com/GyulyVGC</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/101053125?s=40&amp;v=4</avatar>
+          <name>Crirock</name>
+          <url>https://github.com/Crirock</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/72827203?s=40&amp;v=4</avatar>
+          <name>colin99d</name>
+          <url>https://github.com/colin99d</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>ilysenko/codex-desktop-linux</title>
       <link>https://github.com/ilysenko/codex-desktop-linux</link>
       <description>Run OpenAI Codex Desktop on Linux - automated installer</description>
       <guid>https://github.com/ilysenko/codex-desktop-linux</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>538</stars>
+      <stars>542</stars>
       <forks>87</forks>
       <addStars>172</addStars>
       <contributors>
@@ -81,42 +137,14 @@
       </contributors>
     </item>
     <item>
-      <title>njbrake/agent-of-empires</title>
-      <link>https://github.com/njbrake/agent-of-empires</link>
-      <description>Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.</description>
-      <guid>https://github.com/njbrake/agent-of-empires</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>1,907</stars>
-      <forks>155</forks>
-      <addStars>204</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33383515?s=40&amp;v=4</avatar>
-          <name>njbrake</name>
-          <url>https://github.com/njbrake</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6537332?s=40&amp;v=4</avatar>
-          <name>jerome-benoit</name>
-          <url>https://github.com/jerome-benoit</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>warpdotdev/warp</title>
       <link>https://github.com/warpdotdev/warp</link>
       <description>Warp is an agentic development environment, born out of the terminal.</description>
       <guid>https://github.com/warpdotdev/warp</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>53,056</stars>
-      <forks>3,693</forks>
+      <stars>53,269</stars>
+      <forks>3,723</forks>
       <addStars>26,208</addStars>
       <contributors>
         <contributor>
@@ -147,42 +175,14 @@
       </contributors>
     </item>
     <item>
-      <title>GyulyVGC/sniffnet</title>
-      <link>https://github.com/GyulyVGC/sniffnet</link>
-      <description>Comfortably monitor your Internet traffic 🕵️‍♂️</description>
-      <guid>https://github.com/GyulyVGC/sniffnet</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>37,125</stars>
-      <forks>1,484</forks>
-      <addStars>1,121</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/100347457?s=40&amp;v=4</avatar>
-          <name>GyulyVGC</name>
-          <url>https://github.com/GyulyVGC</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/101053125?s=40&amp;v=4</avatar>
-          <name>Crirock</name>
-          <url>https://github.com/Crirock</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/72827203?s=40&amp;v=4</avatar>
-          <name>colin99d</name>
-          <url>https://github.com/colin99d</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>farion1231/cc-switch</title>
       <link>https://github.com/farion1231/cc-switch</link>
       <description>A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw &amp; Gemini CLI.</description>
       <guid>https://github.com/farion1231/cc-switch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>58,112</stars>
-      <forks>3,775</forks>
+      <stars>58,299</stars>
+      <forks>3,785</forks>
       <addStars>6,629</addStars>
       <contributors>
         <contributor>
@@ -208,47 +208,14 @@
       </contributors>
     </item>
     <item>
-      <title>rtk-ai/rtk</title>
-      <link>https://github.com/rtk-ai/rtk</link>
-      <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
-      <guid>https://github.com/rtk-ai/rtk</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>40,253</stars>
-      <forks>2,461</forks>
-      <addStars>4,726</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43991222?s=40&amp;v=4</avatar>
-          <name>aeppling</name>
-          <url>https://github.com/aeppling</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52030887?s=40&amp;v=4</avatar>
-          <name>pszymkowiak</name>
-          <url>https://github.com/pszymkowiak</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3902606?s=40&amp;v=4</avatar>
-          <name>FlorianBruniaux</name>
-          <url>https://github.com/FlorianBruniaux</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>tonhowtf/omniget</title>
       <link>https://github.com/tonhowtf/omniget</link>
       <description>Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs and EPUBs with highlights, bookmarks and a focus mode. Also downloads YouTube, Instagram, TikTok and torrents.</description>
       <guid>https://github.com/tonhowtf/omniget</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,278</stars>
-      <forks>253</forks>
+      <stars>3,337</stars>
+      <forks>258</forks>
       <addStars>970</addStars>
       <contributors>
         <contributor>
@@ -275,6 +242,143 @@
           <avatar>https://avatars.githubusercontent.com/u/11593018?s=40&amp;v=4</avatar>
           <name>gokomer</name>
           <url>https://github.com/gokomer</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Michael-A-Kuykendall/shimmy</title>
+      <link>https://github.com/Michael-A-Kuykendall/shimmy</link>
+      <description>⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.</description>
+      <guid>https://github.com/Michael-A-Kuykendall/shimmy</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>4,755</stars>
+      <forks>426</forks>
+      <addStars>383</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/196678413?s=40&amp;v=4</avatar>
+          <name>Michael-A-Kuykendall</name>
+          <url>https://github.com/Michael-A-Kuykendall</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/123415350?s=40&amp;v=4</avatar>
+          <name>VMLYR-MikeKuykendall</name>
+          <url>https://github.com/VMLYR-MikeKuykendall</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/122314322?s=40&amp;v=4</avatar>
+          <name>LopezNuance</name>
+          <url>https://github.com/LopezNuance</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>stalwartlabs/stalwart</title>
+      <link>https://github.com/stalwartlabs/stalwart</link>
+      <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
+      <guid>https://github.com/stalwartlabs/stalwart</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>12,609</stars>
+      <forks>727</forks>
+      <addStars>111</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11444311?s=40&amp;v=4</avatar>
+          <name>mdecimus</name>
+          <url>https://github.com/mdecimus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31735039?s=40&amp;v=4</avatar>
+          <name>vickunwu</name>
+          <url>https://github.com/vickunwu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1345795?s=40&amp;v=4</avatar>
+          <name>rmsc</name>
+          <url>https://github.com/rmsc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14900584?s=40&amp;v=4</avatar>
+          <name>stratacast</name>
+          <url>https://github.com/stratacast</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>rtk-ai/rtk</title>
+      <link>https://github.com/rtk-ai/rtk</link>
+      <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
+      <guid>https://github.com/rtk-ai/rtk</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>40,422</stars>
+      <forks>2,469</forks>
+      <addStars>4,726</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43991222?s=40&amp;v=4</avatar>
+          <name>aeppling</name>
+          <url>https://github.com/aeppling</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52030887?s=40&amp;v=4</avatar>
+          <name>pszymkowiak</name>
+          <url>https://github.com/pszymkowiak</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3902606?s=40&amp;v=4</avatar>
+          <name>FlorianBruniaux</name>
+          <url>https://github.com/FlorianBruniaux</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>xingkongliang/skills-manager</title>
+      <link>https://github.com/xingkongliang/skills-manager</link>
+      <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.</description>
+      <guid>https://github.com/xingkongliang/skills-manager</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>1,033</stars>
+      <forks>93</forks>
+      <addStars>143</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8827798?s=40&amp;v=4</avatar>
+          <name>xingkongliang</name>
+          <url>https://github.com/xingkongliang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64465529?s=40&amp;v=4</avatar>
+          <name>enshulv</name>
+          <url>https://github.com/enshulv</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63341022?s=40&amp;v=4</avatar>
+          <name>whereissam</name>
+          <url>https://github.com/whereissam</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13760561?s=40&amp;v=4</avatar>
+          <name>beyond-infra</name>
+          <url>https://github.com/beyond-infra</url>
         </contributor>
       </contributors>
     </item>
@@ -317,35 +421,40 @@
       </contributors>
     </item>
     <item>
-      <title>qdrant/qdrant</title>
-      <link>https://github.com/qdrant/qdrant</link>
-      <description>Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</description>
-      <guid>https://github.com/qdrant/qdrant</guid>
+      <title>iii-hq/iii</title>
+      <link>https://github.com/iii-hq/iii</link>
+      <description>Effortlessly compose, extend, and observe every service in real-time for the first time ever.</description>
+      <guid>https://github.com/iii-hq/iii</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>30,977</stars>
-      <forks>2,231</forks>
-      <addStars>303</addStars>
+      <stars>15,489</stars>
+      <forks>1,035</forks>
+      <addStars>160</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1935623?s=40&amp;v=4</avatar>
-          <name>generall</name>
-          <url>https://github.com/generall</url>
+          <avatar>https://avatars.githubusercontent.com/u/5348335?s=40&amp;v=4</avatar>
+          <name>ytallo</name>
+          <url>https://github.com/ytallo</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/856222?s=40&amp;v=4</avatar>
-          <name>timvisee</name>
-          <url>https://github.com/timvisee</url>
+          <avatar>https://avatars.githubusercontent.com/u/4141723?s=40&amp;v=4</avatar>
+          <name>sergiofilhowz</name>
+          <url>https://github.com/sergiofilhowz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/606963?s=40&amp;v=4</avatar>
-          <name>agourlay</name>
-          <url>https://github.com/agourlay</url>
+          <avatar>https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4</avatar>
+          <name>rohitg00</name>
+          <url>https://github.com/rohitg00</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62079184?s=40&amp;v=4</avatar>
-          <name>coszio</name>
-          <url>https://github.com/coszio</url>
+          <avatar>https://avatars.githubusercontent.com/u/5047011?s=40&amp;v=4</avatar>
+          <name>andersonleal</name>
+          <url>https://github.com/andersonleal</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
         </contributor>
       </contributors>
     </item>
@@ -356,7 +465,7 @@
       <guid>https://github.com/web-infra-dev/rspack</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,667</stars>
+      <stars>12,669</stars>
       <forks>794</forks>
       <addStars>35</addStars>
       <contributors>
@@ -383,58 +492,20 @@
       </contributors>
     </item>
     <item>
-      <title>Zackriya-Solutions/meetily</title>
-      <link>https://github.com/Zackriya-Solutions/meetily</link>
-      <description>Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.</description>
-      <guid>https://github.com/Zackriya-Solutions/meetily</guid>
+      <title>razvandimescu/numa</title>
+      <link>https://github.com/razvandimescu/numa</link>
+      <description>Portable DNS resolver in Rust — .numa local domains, ad blocking, developer overrides</description>
+      <guid>https://github.com/razvandimescu/numa</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,531</stars>
-      <forks>1,128</forks>
-      <addStars>210</addStars>
+      <stars>911</stars>
+      <forks>57</forks>
+      <addStars>258</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/85450497?s=40&amp;v=4</avatar>
-          <name>sujithatzackriya</name>
-          <url>https://github.com/sujithatzackriya</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/213172806?s=40&amp;v=4</avatar>
-          <name>safvanatzack</name>
-          <url>https://github.com/safvanatzack</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37416474?s=40&amp;v=4</avatar>
-          <name>mohammedsafvan</name>
-          <url>https://github.com/mohammedsafvan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87969134?s=40&amp;v=4</avatar>
-          <name>athulchandroth</name>
-          <url>https://github.com/athulchandroth</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18640268?s=40&amp;v=4</avatar>
-          <name>sujithhubpost</name>
-          <url>https://github.com/sujithhubpost</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>xingkongliang/skills-manager</title>
-      <link>https://github.com/xingkongliang/skills-manager</link>
-      <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.</description>
-      <guid>https://github.com/xingkongliang/skills-manager</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>1,023</stars>
-      <forks>93</forks>
-      <addStars>143</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8827798?s=40&amp;v=4</avatar>
-          <name>xingkongliang</name>
-          <url>https://github.com/xingkongliang</url>
+          <avatar>https://avatars.githubusercontent.com/u/168745?s=40&amp;v=4</avatar>
+          <name>razvandimescu</name>
+          <url>https://github.com/razvandimescu</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -442,90 +513,75 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64465529?s=40&amp;v=4</avatar>
-          <name>enshulv</name>
-          <url>https://github.com/enshulv</url>
+          <avatar>https://avatars.githubusercontent.com/u/762049?s=40&amp;v=4</avatar>
+          <name>lbrndnr</name>
+          <url>https://github.com/lbrndnr</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63341022?s=40&amp;v=4</avatar>
-          <name>whereissam</name>
-          <url>https://github.com/whereissam</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13760561?s=40&amp;v=4</avatar>
-          <name>beyond-infra</name>
-          <url>https://github.com/beyond-infra</url>
+          <avatar>https://avatars.githubusercontent.com/u/4674433?s=40&amp;v=4</avatar>
+          <name>CaseyLabs</name>
+          <url>https://github.com/CaseyLabs</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>GitoxideLabs/gitoxide</title>
-      <link>https://github.com/GitoxideLabs/gitoxide</link>
-      <description>An idiomatic, lean, fast &amp; safe pure Rust implementation of Git</description>
-      <guid>https://github.com/GitoxideLabs/gitoxide</guid>
+      <title>cjpais/Handy</title>
+      <link>https://github.com/cjpais/Handy</link>
+      <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+      <guid>https://github.com/cjpais/Handy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,296</stars>
-      <forks>462</forks>
-      <addStars>78</addStars>
+      <stars>21,024</stars>
+      <forks>1,735</forks>
+      <addStars>450</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63622?s=40&amp;v=4</avatar>
-          <name>Byron</name>
-          <url>https://github.com/Byron</url>
+          <avatar>https://avatars.githubusercontent.com/u/1559480?s=40&amp;v=4</avatar>
+          <name>cjpais</name>
+          <url>https://github.com/cjpais</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1771172?s=40&amp;v=4</avatar>
-          <name>EliahKagan</name>
-          <url>https://github.com/EliahKagan</url>
+          <avatar>https://avatars.githubusercontent.com/u/914320?s=40&amp;v=4</avatar>
+          <name>vladstudio</name>
+          <url>https://github.com/vladstudio</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5648141?s=40&amp;v=4</avatar>
-          <name>cruessler</name>
-          <url>https://github.com/cruessler</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6173958?s=40&amp;v=4</avatar>
-          <name>edward-shen</name>
-          <url>https://github.com/edward-shen</url>
+          <avatar>https://avatars.githubusercontent.com/u/10460518?s=40&amp;v=4</avatar>
+          <name>VirenMohindra</name>
+          <url>https://github.com/VirenMohindra</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9403190?s=40&amp;v=4</avatar>
-          <name>svetli-n</name>
-          <url>https://github.com/svetli-n</url>
+          <avatar>https://avatars.githubusercontent.com/u/9982364?s=40&amp;v=4</avatar>
+          <name>xilec</name>
+          <url>https://github.com/xilec</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>stalwartlabs/stalwart</title>
-      <link>https://github.com/stalwartlabs/stalwart</link>
-      <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
-      <guid>https://github.com/stalwartlabs/stalwart</guid>
+      <title>1jehuang/jcode</title>
+      <link>https://github.com/1jehuang/jcode</link>
+      <description>Coding Agent Harness</description>
+      <guid>https://github.com/1jehuang/jcode</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,604</stars>
-      <forks>727</forks>
-      <addStars>111</addStars>
+      <stars>3,208</stars>
+      <forks>290</forks>
+      <addStars>2,798</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11444311?s=40&amp;v=4</avatar>
-          <name>mdecimus</name>
-          <url>https://github.com/mdecimus</url>
+          <avatar>https://avatars.githubusercontent.com/u/94247773?s=40&amp;v=4</avatar>
+          <name>1jehuang</name>
+          <url>https://github.com/1jehuang</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31735039?s=40&amp;v=4</avatar>
-          <name>vickunwu</name>
-          <url>https://github.com/vickunwu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1345795?s=40&amp;v=4</avatar>
-          <name>rmsc</name>
-          <url>https://github.com/rmsc</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14900584?s=40&amp;v=4</avatar>
-          <name>stratacast</name>
-          <url>https://github.com/stratacast</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
       </contributors>
     </item>

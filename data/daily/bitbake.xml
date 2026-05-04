@@ -3,7 +3,7 @@
     <title>GitHub Bitbake Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Bitbake Languages in GitHub</description>
-    <pubDate>Mon, 04 May 2026 04:43:27 GMT</pubDate>
+    <pubDate>Mon, 04 May 2026 09:25:30 GMT</pubDate>
     <item>
       <title>Xilinx/meta-xilinx</title>
       <link>https://github.com/Xilinx/meta-xilinx</link>
@@ -462,8 +462,8 @@
       <guid>https://github.com/qualcomm-linux/meta-qcom</guid>
       <language>BitBake</language>
       <languageColor>#00bce4</languageColor>
-      <stars>124</stars>
-      <forks>248</forks>
+      <stars>125</stars>
+      <forks>249</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>

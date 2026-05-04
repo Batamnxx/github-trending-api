@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Weekly Trending",
   "description": "Weekly Trending of Yaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 04 May 2026 15:09:53 GMT",
+  "pubDate": "Mon, 04 May 2026 20:19:53 GMT",
   "items": [
     {
       "title": "GTFOBins/GTFOBins.github.io",
@@ -10,7 +10,7 @@
       "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "13,170",
+      "stars": "13,171",
       "forks": "1,580",
       "addStars": "200",
       "contributors": [
@@ -74,7 +74,7 @@
       "description": "",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "2,773",
+      "stars": "2,775",
       "forks": "957",
       "addStars": "10",
       "contributors": [

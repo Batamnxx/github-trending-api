@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 04 May 2026 20:19:53 GMT</pubDate>
+    <pubDate>Tue, 05 May 2026 04:19:12 GMT</pubDate>
     <item>
       <title>mattpocock/skills</title>
       <link>https://github.com/mattpocock/skills</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>58,788</stars>
-      <forks>5,067</forks>
-      <addStars>34,848</addStars>
+      <stars>59,289</stars>
+      <forks>5,106</forks>
+      <addStars>31,091</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
@@ -34,9 +34,9 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>67,150</stars>
-      <forks>12,947</forks>
-      <addStars>11,252</addStars>
+      <stars>67,833</stars>
+      <forks>13,053</forks>
+      <addStars>13,293</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4</avatar>
@@ -72,9 +72,9 @@
       <guid>https://github.com/soxoj/maigret</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>24,697</stars>
-      <forks>1,726</forks>
-      <addStars>3,729</addStars>
+      <stars>24,988</stars>
+      <forks>1,740</forks>
+      <addStars>4,789</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/31013580?s=40&amp;v=4</avatar>
@@ -100,9 +100,9 @@
       <guid>https://github.com/ComposioHQ/awesome-codex-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,452</stars>
-      <forks>420</forks>
-      <addStars>4,279</addStars>
+      <stars>6,559</stars>
+      <forks>429</forks>
+      <addStars>3,964</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/67639393?s=40&amp;v=4</avatar>
@@ -138,9 +138,9 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>41,046</stars>
-      <forks>4,598</forks>
-      <addStars>4,321</addStars>
+      <stars>41,703</stars>
+      <forks>4,659</forks>
+      <addStars>6,838</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
@@ -176,9 +176,9 @@
       <guid>https://github.com/Alishahryar1/free-claude-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,157</stars>
-      <forks>3,052</forks>
-      <addStars>8,276</addStars>
+      <stars>21,287</stars>
+      <forks>3,065</forks>
+      <addStars>5,787</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4</avatar>
@@ -209,9 +209,9 @@
       <guid>https://github.com/CJackHwang/ds2api</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,367</stars>
-      <forks>906</forks>
-      <addStars>1,660</addStars>
+      <stars>3,405</stars>
+      <forks>921</forks>
+      <addStars>1,619</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/155826701?s=40&amp;v=4</avatar>
@@ -247,9 +247,9 @@
       <guid>https://github.com/refactoringhq/tolaria</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,504</stars>
-      <forks>681</forks>
-      <addStars>3,337</addStars>
+      <stars>9,579</stars>
+      <forks>688</forks>
+      <addStars>2,493</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/695274?s=40&amp;v=4</avatar>
@@ -280,9 +280,9 @@
       <guid>https://github.com/AIDC-AI/Pixelle-Video</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,802</stars>
-      <forks>1,684</forks>
-      <addStars>2,659</addStars>
+      <stars>10,974</stars>
+      <forks>1,703</forks>
+      <addStars>3,635</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9640444?s=40&amp;v=4</avatar>
@@ -318,9 +318,9 @@
       <guid>https://github.com/Z4nzu/hackingtool</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>71,335</stars>
-      <forks>8,048</forks>
-      <addStars>6,104</addStars>
+      <stars>71,471</stars>
+      <forks>8,067</forks>
+      <addStars>4,767</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25708027?s=40&amp;v=4</avatar>
@@ -356,9 +356,9 @@
       <guid>https://github.com/abhigyanpatwari/GitNexus</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>35,566</stars>
-      <forks>4,042</forks>
-      <addStars>5,423</addStars>
+      <stars>35,660</stars>
+      <forks>4,056</forks>
+      <addStars>4,694</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/126312502?s=40&amp;v=4</avatar>

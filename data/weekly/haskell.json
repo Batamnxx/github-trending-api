@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 06 May 2026 04:36:29 GMT",
+  "pubDate": "Wed, 06 May 2026 09:28:22 GMT",
   "items": [
     {
       "title": "simplex-chat/simplex-chat",
@@ -47,8 +47,8 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "39,386",
-      "forks": "1,913",
+      "stars": "39,387",
+      "forks": "1,912",
       "addStars": "52",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "43,904",
+      "stars": "43,913",
       "forks": "3,842",
       "addStars": "155",
       "contributors": [
@@ -334,7 +334,7 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": "4,476",
-      "forks": "378",
+      "forks": "379",
       "addStars": "16",
       "contributors": [
         {

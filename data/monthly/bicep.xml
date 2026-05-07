@@ -3,7 +3,7 @@
     <title>GitHub Bicep Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Bicep Languages in GitHub</description>
-    <pubDate>Thu, 07 May 2026 04:37:11 GMT</pubDate>
+    <pubDate>Thu, 07 May 2026 09:38:08 GMT</pubDate>
     <item>
       <title>Azure/azure-quickstart-templates</title>
       <link>https://github.com/Azure/azure-quickstart-templates</link>
@@ -163,7 +163,7 @@
       <guid>https://github.com/Azure-Samples/ai-hub-gateway-solution-accelerator</guid>
       <language>Bicep</language>
       <languageColor>#519aba</languageColor>
-      <stars>270</stars>
+      <stars>271</stars>
       <forks>158</forks>
       <addStars>8</addStars>
       <contributors>

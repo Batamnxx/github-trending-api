@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Weekly Trending",
   "description": "Weekly Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 07 May 2026 04:37:11 GMT",
+  "pubDate": "Thu, 07 May 2026 09:38:08 GMT",
   "items": [
     {
       "title": "cizia64/CrossMix-OS",
@@ -69,8 +69,8 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "11,928",
-      "forks": "2,205",
+      "stars": "11,929",
+      "forks": "2,206",
       "addStars": "16",
       "contributors": [
         {

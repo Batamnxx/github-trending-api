@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 07 May 2026 04:37:11 GMT",
+  "pubDate": "Thu, 07 May 2026 09:38:08 GMT",
   "items": [
     {
       "title": "forrestchang/andrej-karpathy-skills",
@@ -10,8 +10,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "117,033",
-      "forks": "11,764",
+      "stars": "117,685",
+      "forks": "11,828",
       "addStars": "108,696",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "136,241",
-      "forks": "20,882",
+      "stars": "136,704",
+      "forks": "20,995",
       "addStars": "108,903",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,464",
-      "forks": "3,098",
+      "stars": "25,602",
+      "forks": "3,113",
       "addStars": "23,259",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "63,348",
-      "forks": "5,481",
+      "stars": "63,847",
+      "forks": "5,521",
       "addStars": "50,255",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,093",
-      "forks": "3,201",
+      "stars": "22,169",
+      "forks": "3,208",
       "addStars": "20,330",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,248",
-      "forks": "4,069",
+      "stars": "23,321",
+      "forks": "4,074",
       "addStars": "11,751",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,948",
-      "forks": "3,193",
+      "stars": "20,965",
+      "forks": "3,195",
       "addStars": "7,160",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "31,069",
-      "forks": "3,669",
+      "stars": "31,937",
+      "forks": "3,725",
       "addStars": "24,777",
       "contributors": [
         {
@@ -269,9 +269,9 @@
           "url": "https://github.com/dj2313"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5760341?s=40&v=4",
-          "name": "devmarkpro",
-          "url": "https://github.com/devmarkpro"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -281,8 +281,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "121,216",
-      "forks": "8,130",
+      "stars": "121,321",
+      "forks": "8,139",
       "addStars": "28,140",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,516",
-      "forks": "3,121",
+      "stars": "23,555",
+      "forks": "3,125",
       "addStars": "12,136",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,375",
-      "forks": "1,096",
+      "stars": "9,415",
+      "forks": "1,101",
       "addStars": "8,509",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,882",
-      "forks": "1,944",
+      "stars": "13,082",
+      "forks": "1,974",
       "addStars": "9,276",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "73,030",
-      "forks": "6,269",
+      "stars": "73,128",
+      "forks": "6,277",
       "addStars": "27,608",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "72,369",
-      "forks": "8,178",
+      "stars": "72,462",
+      "forks": "8,192",
       "addStars": "14,651",
       "contributors": [
         {
@@ -493,8 +493,8 @@
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,213",
-      "forks": "476",
+      "stars": "7,302",
+      "forks": "481",
       "addStars": "6,418",
       "contributors": [
         {
@@ -525,50 +525,13 @@
       ]
     },
     {
-      "title": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "12,352",
-      "forks": "1,272",
-      "addStars": "8,379",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/188330578?s=40&v=4",
-          "name": "hugohe3",
-          "url": "https://github.com/hugohe3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/185591438?s=40&v=4",
-          "name": "WodenJay",
-          "url": "https://github.com/WodenJay"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58585665?s=40&v=4",
-          "name": "shandianchengzi",
-          "url": "https://github.com/shandianchengzi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30764166?s=40&v=4",
-          "name": "scientificworld",
-          "url": "https://github.com/scientificworld"
-        }
-      ]
-    },
-    {
       "title": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "70,484",
-      "forks": "13,615",
+      "stars": "70,710",
+      "forks": "13,669",
       "addStars": "22,701",
       "contributors": [
         {

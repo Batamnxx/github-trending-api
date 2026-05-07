@@ -3,7 +3,45 @@
     <title>GitHub Elixir Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Elixir Languages in GitHub</description>
-    <pubDate>Thu, 07 May 2026 15:27:17 GMT</pubDate>
+    <pubDate>Thu, 07 May 2026 20:18:09 GMT</pubDate>
+    <item>
+      <title>openai/symphony</title>
+      <link>https://github.com/openai/symphony</link>
+      <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
+      <guid>https://github.com/openai/symphony</guid>
+      <language>Elixir</language>
+      <languageColor>#6e4a7e</languageColor>
+      <stars>22,352</stars>
+      <forks>2,079</forks>
+      <addStars>7,799</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/189043716?s=40&amp;v=4</avatar>
+          <name>frantic-openai</name>
+          <url>https://github.com/frantic-openai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4</avatar>
+          <name>codex</name>
+          <url>https://github.com/codex</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15899713?s=40&amp;v=4</avatar>
+          <name>kevinw-openai</name>
+          <url>https://github.com/kevinw-openai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/201815723?s=40&amp;v=4</avatar>
+          <name>hintz-openai</name>
+          <url>https://github.com/hintz-openai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/247462730?s=40&amp;v=4</avatar>
+          <name>mstrautmann-oai</name>
+          <url>https://github.com/mstrautmann-oai</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>phoenixframework/phoenix</title>
       <link>https://github.com/phoenixframework/phoenix</link>
@@ -11,8 +49,8 @@
       <guid>https://github.com/phoenixframework/phoenix</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>22,992</stars>
-      <forks>3,055</forks>
+      <stars>22,994</stars>
+      <forks>3,056</forks>
       <addStars>100</addStars>
       <contributors>
         <contributor>
@@ -44,8 +82,8 @@
       <guid>https://github.com/plausible/analytics</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>24,780</stars>
-      <forks>1,397</forks>
+      <stars>24,781</stars>
+      <forks>1,396</forks>
       <addStars>265</addStars>
       <contributors>
         <contributor>
@@ -105,7 +143,7 @@
       <guid>https://github.com/blockscout/blockscout</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>4,517</stars>
+      <stars>4,518</stars>
       <forks>3,059</forks>
       <addStars>40</addStars>
       <contributors>
@@ -138,8 +176,8 @@
       <guid>https://github.com/ash-project/ash</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>2,405</stars>
-      <forks>388</forks>
+      <stars>2,406</stars>
+      <forks>389</forks>
       <addStars>32</addStars>
       <contributors>
         <contributor>
@@ -171,7 +209,7 @@
       <guid>https://github.com/phoenixframework/phoenix_live_view</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>6,760</stars>
+      <stars>6,761</stars>
       <forks>1,035</forks>
       <addStars>18</addStars>
       <contributors>
@@ -351,7 +389,7 @@
       <guid>https://github.com/elixir-lang/elixir</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>26,378</stars>
+      <stars>26,380</stars>
       <forks>3,485</forks>
       <addStars>132</addStars>
       <contributors>
@@ -389,7 +427,7 @@
       <guid>https://github.com/algora-io/algora</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>1,290</stars>
+      <stars>1,291</stars>
       <forks>85</forks>
       <addStars>57</addStars>
       <contributors>

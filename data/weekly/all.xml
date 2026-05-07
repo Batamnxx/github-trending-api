@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 07 May 2026 15:27:17 GMT</pubDate>
+    <pubDate>Thu, 07 May 2026 20:18:09 GMT</pubDate>
     <item>
       <title>TauricResearch/TradingAgents</title>
       <link>https://github.com/TauricResearch/TradingAgents</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>70,902</stars>
-      <forks>13,724</forks>
+      <stars>71,018</stars>
+      <forks>13,750</forks>
       <addStars>15,576</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>45,897</stars>
-      <forks>5,075</forks>
+      <stars>46,038</stars>
+      <forks>5,094</forks>
       <addStars>10,993</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>64,364</stars>
-      <forks>5,559</forks>
+      <stars>64,648</stars>
+      <forks>5,577</forks>
       <addStars>20,777</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/soxoj/maigret</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,156</stars>
-      <forks>1,821</forks>
+      <stars>26,195</stars>
+      <forks>1,828</forks>
       <addStars>5,990</addStars>
       <contributors>
         <contributor>
@@ -138,8 +138,8 @@
       <guid>https://github.com/warpdotdev/warp</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>56,209</stars>
-      <forks>4,159</forks>
+      <stars>56,280</stars>
+      <forks>4,176</forks>
       <addStars>15,633</addStars>
       <contributors>
         <contributor>
@@ -176,8 +176,8 @@
       <guid>https://github.com/1jehuang/jcode</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>4,758</stars>
-      <forks>463</forks>
+      <stars>4,823</stars>
+      <forks>472</forks>
       <addStars>3,332</addStars>
       <contributors>
         <contributor>
@@ -199,8 +199,8 @@
       <guid>https://github.com/virattt/dexter</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,645</stars>
-      <forks>2,998</forks>
+      <stars>24,675</stars>
+      <forks>3,004</forks>
       <addStars>2,668</addStars>
       <contributors>
         <contributor>
@@ -237,8 +237,8 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,500</stars>
-      <forks>1,377</forks>
+      <stars>11,221</stars>
+      <forks>1,461</forks>
       <addStars>906</addStars>
       <contributors>
         <contributor>
@@ -275,8 +275,8 @@
       <guid>https://github.com/AIDC-AI/Pixelle-Video</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,224</stars>
-      <forks>1,989</forks>
+      <stars>13,282</stars>
+      <forks>1,997</forks>
       <addStars>5,048</addStars>
       <contributors>
         <contributor>
@@ -313,8 +313,8 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,006</stars>
-      <forks>4,354</forks>
+      <stars>47,152</stars>
+      <forks>4,371</forks>
       <addStars>6,699</addStars>
       <contributors>
         <contributor>
@@ -351,8 +351,8 @@
       <guid>https://github.com/docusealco/docuseal</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>15,387</stars>
-      <forks>1,397</forks>
+      <stars>15,509</stars>
+      <forks>1,402</forks>
       <addStars>2,747</addStars>
       <contributors>
         <contributor>
@@ -378,14 +378,52 @@
       </contributors>
     </item>
     <item>
+      <title>openai/symphony</title>
+      <link>https://github.com/openai/symphony</link>
+      <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
+      <guid>https://github.com/openai/symphony</guid>
+      <language>Elixir</language>
+      <languageColor>#6e4a7e</languageColor>
+      <stars>22,352</stars>
+      <forks>2,079</forks>
+      <addStars>2,406</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/189043716?s=40&amp;v=4</avatar>
+          <name>frantic-openai</name>
+          <url>https://github.com/frantic-openai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4</avatar>
+          <name>codex</name>
+          <url>https://github.com/codex</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15899713?s=40&amp;v=4</avatar>
+          <name>kevinw-openai</name>
+          <url>https://github.com/kevinw-openai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/201815723?s=40&amp;v=4</avatar>
+          <name>hintz-openai</name>
+          <url>https://github.com/hintz-openai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/247462730?s=40&amp;v=4</avatar>
+          <name>mstrautmann-oai</name>
+          <url>https://github.com/mstrautmann-oai</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>LearningCircuit/local-deep-research</title>
       <link>https://github.com/LearningCircuit/local-deep-research</link>
       <description>~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.</description>
       <guid>https://github.com/LearningCircuit/local-deep-research</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,076</stars>
-      <forks>539</forks>
+      <stars>6,162</stars>
+      <forks>544</forks>
       <addStars>1,102</addStars>
       <contributors>
         <contributor>
@@ -412,8 +450,8 @@
       <guid>https://github.com/cocoindex-io/cocoindex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,713</stars>
-      <forks>643</forks>
+      <stars>8,786</stars>
+      <forks>646</forks>
       <addStars>1,474</addStars>
       <contributors>
         <contributor>
@@ -450,7 +488,7 @@
       <guid>https://github.com/fspecii/ace-step-ui</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>3,185</stars>
+      <stars>3,208</stars>
       <forks>467</forks>
       <addStars>1,081</addStars>
       <contributors>
@@ -478,8 +516,8 @@
       <guid>https://github.com/ComposioHQ/awesome-codex-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,380</stars>
-      <forks>485</forks>
+      <stars>7,416</stars>
+      <forks>487</forks>
       <addStars>2,539</addStars>
       <contributors>
         <contributor>

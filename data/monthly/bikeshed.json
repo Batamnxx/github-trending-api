@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Monthly Trending",
   "description": "Monthly Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 06 May 2026 20:26:55 GMT",
+  "pubDate": "Thu, 07 May 2026 04:37:11 GMT",
   "items": [
     {
       "title": "patcg-individual-drafts/topics",
@@ -12,7 +12,7 @@
       "languageColor": "#5562ac",
       "stars": "839",
       "forks": "828",
-      "addStars": "15",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4599939?s=40&v=4",
@@ -150,7 +150,7 @@
       "languageColor": "#5562ac",
       "stars": "4,828",
       "forks": "789",
-      "addStars": "14",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/725717?s=40&v=4",

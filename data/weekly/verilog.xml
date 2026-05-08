@@ -3,7 +3,7 @@
     <title>GitHub Verilog Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Verilog Languages in GitHub</description>
-    <pubDate>Fri, 08 May 2026 04:18:40 GMT</pubDate>
+    <pubDate>Fri, 08 May 2026 08:23:37 GMT</pubDate>
     <item>
       <title>The-OpenROAD-Project/OpenROAD</title>
       <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
@@ -87,8 +87,8 @@
       <guid>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>632</stars>
-      <forks>477</forks>
+      <stars>633</stars>
+      <forks>479</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/vortexgpgpu/vortex</guid>
       <language>Verilog</language>
       <languageColor>#b2b7f8</languageColor>
-      <stars>2,005</stars>
+      <stars>2,007</stars>
       <forks>474</forks>
       <addStars>10</addStars>
       <contributors>

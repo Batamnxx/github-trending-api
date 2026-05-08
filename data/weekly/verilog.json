@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Weekly Trending",
   "description": "Weekly Trending of Verilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 08 May 2026 04:18:40 GMT",
+  "pubDate": "Fri, 08 May 2026 08:23:37 GMT",
   "items": [
     {
       "title": "The-OpenROAD-Project/OpenROAD",
@@ -84,8 +84,8 @@
       "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "632",
-      "forks": "477",
+      "stars": "633",
+      "forks": "479",
       "addStars": "10",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "2,005",
+      "stars": "2,007",
       "forks": "474",
       "addStars": "10",
       "contributors": [

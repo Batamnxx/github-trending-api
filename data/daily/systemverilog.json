@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 14:16:42 GMT",
+  "pubDate": "Sat, 09 May 2026 19:58:20 GMT",
   "items": [
     {
       "title": "chipsalliance/caliptra-rtl",
@@ -84,7 +84,7 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "12,371",
+      "stars": "12,372",
       "forks": "1,171",
       "addStars": "5",
       "contributors": [

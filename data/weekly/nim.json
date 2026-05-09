@@ -2,7 +2,7 @@
   "title": "GitHub Nim Languages Weekly Trending",
   "description": "Weekly Trending of Nim Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 04:28:04 GMT",
+  "pubDate": "Sat, 09 May 2026 08:44:33 GMT",
   "items": [
     {
       "title": "status-im/nim-stew",
@@ -153,8 +153,8 @@
       "description": "Alternative Twitter front-end",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": "12,903",
-      "forks": "730",
+      "stars": "12,904",
+      "forks": "729",
       "addStars": "41",
       "contributors": [
         {
@@ -339,7 +339,7 @@
       "language": "Nim",
       "languageColor": "#ffc200",
       "stars": "312",
-      "forks": "72",
+      "forks": "73",
       "addStars": "1",
       "contributors": [
         {

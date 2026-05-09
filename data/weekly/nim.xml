@@ -3,7 +3,7 @@
     <title>GitHub Nim Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nim Languages in GitHub</description>
-    <pubDate>Sat, 09 May 2026 04:28:04 GMT</pubDate>
+    <pubDate>Sat, 09 May 2026 08:44:33 GMT</pubDate>
     <item>
       <title>status-im/nim-stew</title>
       <link>https://github.com/status-im/nim-stew</link>
@@ -158,8 +158,8 @@
       <guid>https://github.com/zedeus/nitter</guid>
       <language>Nim</language>
       <languageColor>#ffc200</languageColor>
-      <stars>12,903</stars>
-      <forks>730</forks>
+      <stars>12,904</stars>
+      <forks>729</forks>
       <addStars>41</addStars>
       <contributors>
         <contributor>
@@ -349,7 +349,7 @@
       <language>Nim</language>
       <languageColor>#ffc200</languageColor>
       <stars>312</stars>
-      <forks>72</forks>
+      <forks>73</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Monthly Trending",
   "description": "Monthly Trending of Yaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 04:28:04 GMT",
+  "pubDate": "Sat, 09 May 2026 08:44:33 GMT",
   "items": [
     {
       "title": "GTFOBins/GTFOBins.github.io",
@@ -10,7 +10,7 @@
       "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "13,194",
+      "stars": "13,192",
       "forks": "1,584",
       "addStars": "320",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "aqua's Standard Registry",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "323",
+      "stars": "324",
       "forks": "333",
       "addStars": "20",
       "contributors": [
@@ -175,7 +175,7 @@
       "description": "",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": "2,779",
+      "stars": "2,780",
       "forks": "955",
       "addStars": "37",
       "contributors": [

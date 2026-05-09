@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 09 May 2026 04:28:04 GMT</pubDate>
+    <pubDate>Sat, 09 May 2026 08:44:33 GMT</pubDate>
     <item>
       <title>forrestchang/andrej-karpathy-skills</title>
       <link>https://github.com/forrestchang/andrej-karpathy-skills</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/forrestchang/andrej-karpathy-skills</guid>
       <language/>
       <languageColor/>
-      <stars>121,033</stars>
-      <forks>12,225</forks>
+      <stars>121,467</stars>
+      <forks>12,274</forks>
       <addStars>112,013</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>139,540</stars>
-      <forks>21,570</forks>
+      <stars>139,944</stars>
+      <forks>21,660</forks>
       <addStars>104,052</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>66,918</stars>
-      <forks>5,751</forks>
+      <stars>67,248</stars>
+      <forks>5,781</forks>
       <addStars>53,203</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/Alishahryar1/free-claude-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,916</stars>
-      <forks>3,315</forks>
+      <stars>22,992</stars>
+      <forks>3,332</forks>
       <addStars>20,993</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/multica-ai/multica</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,313</stars>
-      <forks>3,180</forks>
+      <stars>26,415</stars>
+      <forks>3,189</forks>
       <addStars>23,942</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/shiyu-coder/Kronos</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,696</stars>
-      <forks>4,145</forks>
+      <stars>23,729</stars>
+      <forks>4,149</forks>
       <addStars>12,092</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>35,897</stars>
-      <forks>4,066</forks>
+      <stars>36,489</stars>
+      <forks>4,110</forks>
       <addStars>25,346</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/lsdefine/GenericAgent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,975</stars>
-      <forks>1,144</forks>
+      <stars>10,133</stars>
+      <forks>1,157</forks>
       <addStars>8,855</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/AIDC-AI/Pixelle-Video</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,862</stars>
-      <forks>2,058</forks>
+      <stars>13,971</stars>
+      <forks>2,068</forks>
       <addStars>10,269</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/OpenBMB/VoxCPM</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,875</stars>
-      <forks>2,116</forks>
+      <stars>17,924</stars>
+      <forks>2,123</forks>
       <addStars>11,007</addStars>
       <contributors>
         <contributor>
@@ -371,7 +371,7 @@
       <guid>https://github.com/coleam00/Archon</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,089</stars>
+      <stars>21,101</stars>
       <forks>3,215</forks>
       <addStars>7,274</addStars>
       <contributors>
@@ -404,8 +404,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>122,010</stars>
-      <forks>8,213</forks>
+      <stars>122,069</stars>
+      <forks>8,225</forks>
       <addStars>28,653</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/Z4nzu/hackingtool</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,012</stars>
-      <forks>8,252</forks>
+      <stars>73,060</stars>
+      <forks>8,256</forks>
       <addStars>15,265</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/ComposioHQ/awesome-codex-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,692</stars>
-      <forks>501</forks>
+      <stars>7,728</stars>
+      <forks>502</forks>
       <addStars>6,940</addStars>
       <contributors>
         <contributor>
@@ -518,8 +518,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>73,833</stars>
-      <forks>6,339</forks>
+      <stars>73,902</stars>
+      <forks>6,346</forks>
       <addStars>27,861</addStars>
       <contributors>
         <contributor>
@@ -551,8 +551,8 @@
       <guid>https://github.com/hugohe3/ppt-master</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>13,582</stars>
-      <forks>1,383</forks>
+      <stars>13,726</stars>
+      <forks>1,393</forks>
       <addStars>9,337</addStars>
       <contributors>
         <contributor>
@@ -589,8 +589,8 @@
       <guid>https://github.com/soxoj/maigret</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,672</stars>
-      <forks>1,873</forks>
+      <stars>26,744</stars>
+      <forks>1,879</forks>
       <addStars>7,182</addStars>
       <contributors>
         <contributor>
@@ -617,8 +617,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>71,950</stars>
-      <forks>13,968</forks>
+      <stars>72,089</stars>
+      <forks>13,989</forks>
       <addStars>23,486</addStars>
       <contributors>
         <contributor>

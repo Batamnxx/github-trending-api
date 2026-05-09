@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 04:28:04 GMT",
+  "pubDate": "Sat, 09 May 2026 08:44:33 GMT",
   "items": [
     {
       "title": "bitbonsai/mcpvault",
@@ -79,8 +79,8 @@
       "description": "流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "945",
-      "forks": "483",
+      "stars": "950",
+      "forks": "486",
       "addStars": "17",
       "contributors": [
         {
@@ -175,7 +175,7 @@
       "description": "🚨 Collection of Prometheus alerting rules",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "7,971",
+      "stars": "7,972",
       "forks": "1,149",
       "addStars": "5",
       "contributors": [
@@ -313,7 +313,7 @@
       "description": "⭐ A simple, fast and powerful blog & document theme built by Astro",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "925",
+      "stars": "926",
       "forks": "257",
       "addStars": "3",
       "contributors": [

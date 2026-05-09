@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 04:28:04 GMT",
+  "pubDate": "Sat, 09 May 2026 08:44:33 GMT",
   "items": [
     {
       "title": "forrestchang/andrej-karpathy-skills",
@@ -10,8 +10,8 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "121,033",
-      "forks": "12,225",
+      "stars": "121,467",
+      "forks": "12,274",
       "addStars": "112,013",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "139,540",
-      "forks": "21,570",
+      "stars": "139,944",
+      "forks": "21,660",
       "addStars": "104,052",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "66,918",
-      "forks": "5,751",
+      "stars": "67,248",
+      "forks": "5,781",
       "addStars": "53,203",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,916",
-      "forks": "3,315",
+      "stars": "22,992",
+      "forks": "3,332",
       "addStars": "20,993",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,313",
-      "forks": "3,180",
+      "stars": "26,415",
+      "forks": "3,189",
       "addStars": "23,942",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,696",
-      "forks": "4,145",
+      "stars": "23,729",
+      "forks": "4,149",
       "addStars": "12,092",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "35,897",
-      "forks": "4,066",
+      "stars": "36,489",
+      "forks": "4,110",
       "addStars": "25,346",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,975",
-      "forks": "1,144",
+      "stars": "10,133",
+      "forks": "1,157",
       "addStars": "8,855",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,862",
-      "forks": "2,058",
+      "stars": "13,971",
+      "forks": "2,068",
       "addStars": "10,269",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,875",
-      "forks": "2,116",
+      "stars": "17,924",
+      "forks": "2,123",
       "addStars": "11,007",
       "contributors": [
         {
@@ -360,7 +360,7 @@
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,089",
+      "stars": "21,101",
       "forks": "3,215",
       "addStars": "7,274",
       "contributors": [
@@ -392,8 +392,8 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "122,010",
-      "forks": "8,213",
+      "stars": "122,069",
+      "forks": "8,225",
       "addStars": "28,653",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "73,012",
-      "forks": "8,252",
+      "stars": "73,060",
+      "forks": "8,256",
       "addStars": "15,265",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,692",
-      "forks": "501",
+      "stars": "7,728",
+      "forks": "502",
       "addStars": "6,940",
       "contributors": [
         {
@@ -503,8 +503,8 @@
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "73,833",
-      "forks": "6,339",
+      "stars": "73,902",
+      "forks": "6,346",
       "addStars": "27,861",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,582",
-      "forks": "1,383",
+      "stars": "13,726",
+      "forks": "1,393",
       "addStars": "9,337",
       "contributors": [
         {
@@ -572,8 +572,8 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,672",
-      "forks": "1,873",
+      "stars": "26,744",
+      "forks": "1,879",
       "addStars": "7,182",
       "contributors": [
         {
@@ -599,8 +599,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,950",
-      "forks": "13,968",
+      "stars": "72,089",
+      "forks": "13,989",
       "addStars": "23,486",
       "contributors": [
         {

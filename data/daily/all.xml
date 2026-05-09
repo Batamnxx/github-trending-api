@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 09 May 2026 04:28:04 GMT</pubDate>
+    <pubDate>Sat, 09 May 2026 08:44:33 GMT</pubDate>
     <item>
       <title>anthropics/financial-services</title>
       <link>https://github.com/anthropics/financial-services</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,665</stars>
-      <forks>1,974</forks>
+      <stars>16,273</stars>
+      <forks>2,036</forks>
       <addStars>3,660</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>35,897</stars>
-      <forks>4,066</forks>
+      <stars>36,489</stars>
+      <forks>4,110</forks>
       <addStars>1,893</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/Hmbown/DeepSeek-TUI</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>22,171</stars>
-      <forks>1,741</forks>
+      <stars>22,561</stars>
+      <forks>1,785</forks>
       <addStars>3,731</addStars>
       <contributors>
         <contributor>
@@ -125,7 +125,7 @@
       <guid>https://github.com/z-lab/dflash</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,896</stars>
+      <stars>3,948</stars>
       <forks>269</forks>
       <addStars>379</addStars>
       <contributors>
@@ -158,8 +158,8 @@
       <guid>https://github.com/decolua/9router</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>5,782</stars>
-      <forks>1,087</forks>
+      <stars>5,987</stars>
+      <forks>1,106</forks>
       <addStars>1,052</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/CloakHQ/CloakBrowser</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,269</stars>
-      <forks>256</forks>
+      <stars>3,537</stars>
+      <forks>273</forks>
       <addStars>526</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/awslabs/aidlc-workflows</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,813</stars>
-      <forks>307</forks>
+      <stars>1,858</stars>
+      <forks>313</forks>
       <addStars>58</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/HKUDS/AI-Trader</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,791</stars>
-      <forks>2,445</forks>
+      <stars>14,949</stars>
+      <forks>2,461</forks>
       <addStars>202</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/LearningCircuit/local-deep-research</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,803</stars>
-      <forks>602</forks>
+      <stars>6,869</stars>
+      <forks>609</forks>
       <addStars>559</addStars>
       <contributors>
         <contributor>
@@ -328,8 +328,8 @@
       <guid>https://github.com/lobehub/lobehub</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>76,581</stars>
-      <forks>15,117</forks>
+      <stars>76,659</stars>
+      <forks>15,118</forks>
       <addStars>125</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/datawhalechina/hello-agents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,882</stars>
-      <forks>5,451</forks>
+      <stars>45,177</stars>
+      <forks>5,489</forks>
       <addStars>667</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/flutter/skills</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>1,742</stars>
-      <forks>94</forks>
+      <stars>1,799</stars>
+      <forks>96</forks>
       <addStars>118</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Monthly Trending",
   "description": "Monthly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 04:28:04 GMT",
+  "pubDate": "Sat, 09 May 2026 08:44:33 GMT",
   "items": [
     {
       "title": "cheat-engine/cheat-engine",
@@ -10,8 +10,8 @@
       "description": "Cheat Engine. A development environment focused on modding",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "18,225",
-      "forks": "2,559",
+      "stars": "18,226",
+      "forks": "2,560",
       "addStars": "206",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "5,922",
+      "stars": "5,923",
       "forks": "567",
       "addStars": "48",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "RDP Wrapper Library",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "16,536",
+      "stars": "16,539",
       "forks": "4,036",
       "addStars": "122",
       "contributors": [
@@ -159,7 +159,7 @@
       "language": "Pascal",
       "languageColor": "#E3F171",
       "stars": "4,124",
-      "forks": "293",
+      "forks": "294",
       "addStars": "95",
       "contributors": [
         {
@@ -306,7 +306,7 @@
       "description": "Goverlay is an easy graphical interface to configure MangoHud, vkBasalt, and OptiScaler",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "1,280",
+      "stars": "1,281",
       "forks": "56",
       "addStars": "56",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 04:28:04 GMT",
+  "pubDate": "Sat, 09 May 2026 08:44:33 GMT",
   "items": [
     {
       "title": "dyphire/mpv-config",
@@ -10,7 +10,7 @@
       "description": "本项目为 windows 下 mpv 播放器的配置文件 (This project is the configuration file of mpv player on Windows)",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "1,672",
+      "stars": "1,673",
       "forks": "80",
       "addStars": "6",
       "contributors": [
@@ -70,7 +70,7 @@
       "language": "GLSL",
       "languageColor": "#5686a5",
       "stars": "11,937",
-      "forks": "2,207",
+      "forks": "2,206",
       "addStars": "6",
       "contributors": [
         {

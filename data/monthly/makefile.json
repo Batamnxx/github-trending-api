@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Monthly Trending",
   "description": "Monthly Trending of Makefile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 04:28:04 GMT",
+  "pubDate": "Sat, 09 May 2026 08:44:33 GMT",
   "items": [
     {
       "title": "ROCKNIX/distribution",
@@ -10,7 +10,7 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": "1,270",
+      "stars": "1,272",
       "forks": "235",
       "addStars": "153",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Blade Languages Weekly Trending",
   "description": "Weekly Trending of Blade Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 08:44:33 GMT",
+  "pubDate": "Sat, 09 May 2026 14:16:42 GMT",
   "items": [
     {
       "title": "laravel/laravel",
@@ -47,7 +47,7 @@
       "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
       "language": "Blade",
       "languageColor": "#f7523f",
-      "stars": "22,455",
+      "stars": "22,454",
       "forks": "1,451",
       "addStars": "105",
       "contributors": [

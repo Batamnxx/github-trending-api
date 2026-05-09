@@ -2,7 +2,7 @@
   "title": "GitHub Blade Languages Daily Trending",
   "description": "Daily Trending of Blade Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 08:44:33 GMT",
+  "pubDate": "Sat, 09 May 2026 14:16:42 GMT",
   "items": [
     {
       "title": "laravel/laravel",
@@ -42,34 +42,12 @@
       ]
     },
     {
-      "title": "dbarzin/mercator",
-      "url": "https://github.com/dbarzin/mercator",
-      "description": "Mapping the information system / Cartographie du système d'information",
-      "language": "Blade",
-      "languageColor": "#f7523f",
-      "stars": "522",
-      "forks": "76",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43208232?s=40&v=4",
-          "name": "dbarzin",
-          "url": "https://github.com/dbarzin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70174290?s=40&v=4",
-          "name": "GlorfindelIldarion",
-          "url": "https://github.com/GlorfindelIldarion"
-        }
-      ]
-    },
-    {
       "title": "krayin/laravel-crm",
       "url": "https://github.com/krayin/laravel-crm",
       "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
       "language": "Blade",
       "languageColor": "#f7523f",
-      "stars": "22,455",
+      "stars": "22,454",
       "forks": "1,451",
       "addStars": "10",
       "contributors": [

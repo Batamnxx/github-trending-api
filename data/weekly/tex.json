@@ -2,42 +2,42 @@
   "title": "GitHub Tex Languages Weekly Trending",
   "description": "Weekly Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 09 May 2026 08:44:33 GMT",
+  "pubDate": "Sat, 09 May 2026 14:16:42 GMT",
   "items": [
     {
-      "title": "lervag/vimtex",
-      "url": "https://github.com/lervag/vimtex",
-      "description": "VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+      "title": "TheNetAdmin/zjuthesis",
+      "url": "https://github.com/TheNetAdmin/zjuthesis",
+      "description": "Zhejiang University Graduation Thesis LaTeX Template",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,251",
-      "forks": "409",
-      "addStars": "9",
+      "stars": "3,638",
+      "forks": "744",
+      "addStars": "18",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/998898?s=40&v=4",
-          "name": "lervag",
-          "url": "https://github.com/lervag"
+          "avatar": "https://avatars.githubusercontent.com/u/18525442?s=40&v=4",
+          "name": "TheNetAdmin",
+          "url": "https://github.com/TheNetAdmin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7195553?s=40&v=4",
-          "name": "Konfekt",
-          "url": "https://github.com/Konfekt"
+          "avatar": "https://avatars.githubusercontent.com/u/66413488?s=40&v=4",
+          "name": "endless-hu",
+          "url": "https://github.com/endless-hu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/371756?s=40&v=4",
-          "name": "kiryph",
-          "url": "https://github.com/kiryph"
+          "avatar": "https://avatars.githubusercontent.com/u/48663326?s=40&v=4",
+          "name": "xfz329",
+          "url": "https://github.com/xfz329"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/50270681?s=40&v=4",
-          "name": "ejmastnak",
-          "url": "https://github.com/ejmastnak"
+          "avatar": "https://avatars.githubusercontent.com/u/48900010?s=40&v=4",
+          "name": "futuretech6",
+          "url": "https://github.com/futuretech6"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/50843046?s=40&v=4",
-          "name": "TornaxO7",
-          "url": "https://github.com/TornaxO7"
+          "avatar": "https://avatars.githubusercontent.com/u/22725494?s=40&v=4",
+          "name": "ya654",
+          "url": "https://github.com/ya654"
         }
       ]
     },
@@ -47,7 +47,7 @@
       "description": "贵校课程资料民间整理",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "33,552",
+      "stars": "33,554",
       "forks": "8,235",
       "addStars": "38",
       "contributors": [
@@ -79,39 +79,39 @@
       ]
     },
     {
-      "title": "sb2nov/resume",
-      "url": "https://github.com/sb2nov/resume",
-      "description": "Software developer resume in Latex",
+      "title": "zhanwen/MathModel",
+      "url": "https://github.com/zhanwen/MathModel",
+      "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,622",
-      "forks": "1,821",
-      "addStars": "13",
+      "stars": "10,159",
+      "forks": "2,234",
+      "addStars": "39",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1517779?s=40&v=4",
-          "name": "sb2nov",
-          "url": "https://github.com/sb2nov"
+          "avatar": "https://avatars.githubusercontent.com/u/11382789?s=40&v=4",
+          "name": "zhanwen",
+          "url": "https://github.com/zhanwen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/146706527?s=40&v=4",
-          "name": "TheColorDarkBlue",
-          "url": "https://github.com/TheColorDarkBlue"
+          "avatar": "https://avatars.githubusercontent.com/u/161724400?s=40&v=4",
+          "name": "VeraAquarius",
+          "url": "https://github.com/VeraAquarius"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/947595?s=40&v=4",
-          "name": "dearlordylord",
-          "url": "https://github.com/dearlordylord"
+          "avatar": "https://avatars.githubusercontent.com/u/28013506?s=40&v=4",
+          "name": "Sophia-fez",
+          "url": "https://github.com/Sophia-fez"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1228142?s=40&v=4",
-          "name": "greenmoon55",
-          "url": "https://github.com/greenmoon55"
+          "avatar": "https://avatars.githubusercontent.com/u/53591990?s=40&v=4",
+          "name": "CosmosView",
+          "url": "https://github.com/CosmosView"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6411209?s=40&v=4",
-          "name": "ygnr",
-          "url": "https://github.com/ygnr"
+          "avatar": "https://avatars.githubusercontent.com/u/87629670?s=40&v=4",
+          "name": "WayneWu0526",
+          "url": "https://github.com/WayneWu0526"
         }
       ]
     },
@@ -121,7 +121,7 @@
       "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "11,064",
+      "stars": "11,065",
       "forks": "2,835",
       "addStars": "31",
       "contributors": [
@@ -153,76 +153,76 @@
       ]
     },
     {
-      "title": "zhanwen/MathModel",
-      "url": "https://github.com/zhanwen/MathModel",
-      "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
+      "title": "sb2nov/resume",
+      "url": "https://github.com/sb2nov/resume",
+      "description": "Software developer resume in Latex",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "10,156",
-      "forks": "2,233",
-      "addStars": "39",
+      "stars": "6,624",
+      "forks": "1,821",
+      "addStars": "13",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11382789?s=40&v=4",
-          "name": "zhanwen",
-          "url": "https://github.com/zhanwen"
+          "avatar": "https://avatars.githubusercontent.com/u/1517779?s=40&v=4",
+          "name": "sb2nov",
+          "url": "https://github.com/sb2nov"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/161724400?s=40&v=4",
-          "name": "VeraAquarius",
-          "url": "https://github.com/VeraAquarius"
+          "avatar": "https://avatars.githubusercontent.com/u/146706527?s=40&v=4",
+          "name": "TheColorDarkBlue",
+          "url": "https://github.com/TheColorDarkBlue"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/28013506?s=40&v=4",
-          "name": "Sophia-fez",
-          "url": "https://github.com/Sophia-fez"
+          "avatar": "https://avatars.githubusercontent.com/u/947595?s=40&v=4",
+          "name": "dearlordylord",
+          "url": "https://github.com/dearlordylord"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/53591990?s=40&v=4",
-          "name": "CosmosView",
-          "url": "https://github.com/CosmosView"
+          "avatar": "https://avatars.githubusercontent.com/u/1228142?s=40&v=4",
+          "name": "greenmoon55",
+          "url": "https://github.com/greenmoon55"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/87629670?s=40&v=4",
-          "name": "WayneWu0526",
-          "url": "https://github.com/WayneWu0526"
+          "avatar": "https://avatars.githubusercontent.com/u/6411209?s=40&v=4",
+          "name": "ygnr",
+          "url": "https://github.com/ygnr"
         }
       ]
     },
     {
-      "title": "tuna/thuthesis",
-      "url": "https://github.com/tuna/thuthesis",
-      "description": "LaTeX Thesis Template for Tsinghua University",
+      "title": "lervag/vimtex",
+      "url": "https://github.com/lervag/vimtex",
+      "description": "VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "5,305",
-      "forks": "1,145",
-      "addStars": "14",
+      "stars": "6,252",
+      "forks": "409",
+      "addStars": "9",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12290822?s=40&v=4",
-          "name": "zepinglee",
-          "url": "https://github.com/zepinglee"
+          "avatar": "https://avatars.githubusercontent.com/u/998898?s=40&v=4",
+          "name": "lervag",
+          "url": "https://github.com/lervag"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1863?s=40&v=4",
-          "name": "xueruini",
-          "url": "https://github.com/xueruini"
+          "avatar": "https://avatars.githubusercontent.com/u/7195553?s=40&v=4",
+          "name": "Konfekt",
+          "url": "https://github.com/Konfekt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2819727?s=40&v=4",
-          "name": "Harry-Chen",
-          "url": "https://github.com/Harry-Chen"
+          "avatar": "https://avatars.githubusercontent.com/u/371756?s=40&v=4",
+          "name": "kiryph",
+          "url": "https://github.com/kiryph"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/933935?s=40&v=4",
-          "name": "alick",
-          "url": "https://github.com/alick"
+          "avatar": "https://avatars.githubusercontent.com/u/50270681?s=40&v=4",
+          "name": "ejmastnak",
+          "url": "https://github.com/ejmastnak"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/110140?s=40&v=4",
-          "name": "frankpzh",
-          "url": "https://github.com/frankpzh"
+          "avatar": "https://avatars.githubusercontent.com/u/50843046?s=40&v=4",
+          "name": "TornaxO7",
+          "url": "https://github.com/TornaxO7"
         }
       ]
     },
@@ -264,39 +264,34 @@
       ]
     },
     {
-      "title": "TheNetAdmin/zjuthesis",
-      "url": "https://github.com/TheNetAdmin/zjuthesis",
-      "description": "Zhejiang University Graduation Thesis LaTeX Template",
+      "title": "posquit0/Awesome-CV",
+      "url": "https://github.com/posquit0/Awesome-CV",
+      "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "3,638",
-      "forks": "744",
-      "addStars": "18",
+      "stars": "27,476",
+      "forks": "5,222",
+      "addStars": "45",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18525442?s=40&v=4",
-          "name": "TheNetAdmin",
-          "url": "https://github.com/TheNetAdmin"
+          "avatar": "https://avatars.githubusercontent.com/u/1484002?s=40&v=4",
+          "name": "posquit0",
+          "url": "https://github.com/posquit0"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/66413488?s=40&v=4",
-          "name": "endless-hu",
-          "url": "https://github.com/endless-hu"
+          "avatar": "https://avatars.githubusercontent.com/u/3946014?s=40&v=4",
+          "name": "OJFord",
+          "url": "https://github.com/OJFord"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48663326?s=40&v=4",
-          "name": "xfz329",
-          "url": "https://github.com/xfz329"
+          "avatar": "https://avatars.githubusercontent.com/u/690051?s=40&v=4",
+          "name": "nitrogl",
+          "url": "https://github.com/nitrogl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48900010?s=40&v=4",
-          "name": "futuretech6",
-          "url": "https://github.com/futuretech6"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22725494?s=40&v=4",
-          "name": "ya654",
-          "url": "https://github.com/ya654"
+          "avatar": "https://avatars.githubusercontent.com/u/1300336?s=40&v=4",
+          "name": "dcsim",
+          "url": "https://github.com/dcsim"
         }
       ]
     },
@@ -306,7 +301,7 @@
       "description": "Design of the Dart language",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "2,910",
+      "stars": "2,909",
       "forks": "233",
       "addStars": "3",
       "contributors": [
@@ -343,7 +338,7 @@
       "description": "Latex code for making neural networks diagrams",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "24,717",
+      "stars": "24,719",
       "forks": "3,059",
       "addStars": "32",
       "contributors": [
@@ -371,6 +366,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/9316076?s=40&v=4",
           "name": "Brandon-HY-Lin",
           "url": "https://github.com/Brandon-HY-Lin"
+        }
+      ]
+    },
+    {
+      "title": "tuna/thuthesis",
+      "url": "https://github.com/tuna/thuthesis",
+      "description": "LaTeX Thesis Template for Tsinghua University",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "5,305",
+      "forks": "1,146",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12290822?s=40&v=4",
+          "name": "zepinglee",
+          "url": "https://github.com/zepinglee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1863?s=40&v=4",
+          "name": "xueruini",
+          "url": "https://github.com/xueruini"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2819727?s=40&v=4",
+          "name": "Harry-Chen",
+          "url": "https://github.com/Harry-Chen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/933935?s=40&v=4",
+          "name": "alick",
+          "url": "https://github.com/alick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110140?s=40&v=4",
+          "name": "frankpzh",
+          "url": "https://github.com/frankpzh"
         }
       ]
     }

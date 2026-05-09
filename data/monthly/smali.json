@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Monthly Trending",
   "description": "Monthly Trending of Smali Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 08 May 2026 20:08:36 GMT",
+  "pubDate": "Sat, 09 May 2026 04:28:04 GMT",
   "items": [
     {
       "title": "LittleSurvival/copymanga-copy20",
@@ -10,9 +10,9 @@
       "description": "Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "2,114",
+      "stars": "2,115",
       "forks": "13",
-      "addStars": "117",
+      "addStars": "112",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66905920?s=40&v=4",
@@ -69,9 +69,9 @@
       "description": "GameHub Lite is a community-maintained modified version of GameHub for education purposes",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "1,588",
+      "stars": "1,589",
       "forks": "40",
-      "addStars": "169",
+      "addStars": "171",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/249754843?s=40&v=4",
@@ -102,8 +102,8 @@
       "language": "Smali",
       "languageColor": "#ccc",
       "stars": "313",
-      "forks": "18",
-      "addStars": "187",
+      "forks": "19",
+      "addStars": "191",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47366872?s=40&v=4",

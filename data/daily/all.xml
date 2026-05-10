@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 10 May 2026 04:49:27 GMT</pubDate>
+    <pubDate>Sun, 10 May 2026 08:57:52 GMT</pubDate>
     <item>
       <title>anthropics/financial-services</title>
       <link>https://github.com/anthropics/financial-services</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,637</stars>
-      <forks>2,248</forks>
+      <stars>17,873</stars>
+      <forks>2,295</forks>
       <addStars>3,281</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>31,536</stars>
-      <forks>3,133</forks>
+      <stars>31,654</stars>
+      <forks>3,145</forks>
       <addStars>552</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/rohitg00/agentmemory</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,576</stars>
-      <forks>348</forks>
+      <stars>3,715</stars>
+      <forks>362</forks>
       <addStars>533</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/datawhalechina/hello-agents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,816</stars>
-      <forks>5,542</forks>
+      <stars>45,977</stars>
+      <forks>5,548</forks>
       <addStars>1,197</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/datawhalechina/easy-vibe</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>8,630</stars>
-      <forks>867</forks>
+      <stars>8,741</stars>
+      <forks>870</forks>
       <addStars>294</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/rowboatlabs/rowboat</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,851</stars>
-      <forks>1,372</forks>
+      <stars>13,910</stars>
+      <forks>1,378</forks>
       <addStars>144</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>38,889</stars>
-      <forks>2,460</forks>
+      <stars>38,971</stars>
+      <forks>2,465</forks>
       <addStars>107</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/masterking32/MasterDnsVPN</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,619</stars>
-      <forks>278</forks>
+      <stars>2,701</stars>
+      <forks>293</forks>
       <addStars>597</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/playcanvas/supersplat</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,384</stars>
-      <forks>737</forks>
+      <stars>6,481</stars>
+      <forks>743</forks>
       <addStars>514</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/Lordog/dive-into-llms</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>36,581</stars>
-      <forks>4,497</forks>
+      <stars>36,659</stars>
+      <forks>4,506</forks>
       <addStars>160</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>37,563</stars>
-      <forks>4,194</forks>
+      <stars>37,761</stars>
+      <forks>4,209</forks>
       <addStars>3,009</addStars>
       <contributors>
         <contributor>
@@ -414,8 +414,8 @@
       <guid>https://github.com/decolua/9router</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>6,654</stars>
-      <forks>1,185</forks>
+      <stars>6,795</stars>
+      <forks>1,199</forks>
       <addStars>1,031</addStars>
       <contributors>
         <contributor>
@@ -452,8 +452,8 @@
       <guid>https://github.com/oracle-devrel/oracle-ai-developer-hub</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>857</stars>
-      <forks>237</forks>
+      <stars>911</stars>
+      <forks>240</forks>
       <addStars>90</addStars>
       <contributors>
         <contributor>

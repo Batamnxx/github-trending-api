@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Monthly Trending",
   "description": "Monthly Trending of Mdx Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 10 May 2026 04:49:27 GMT",
+  "pubDate": "Sun, 10 May 2026 08:57:52 GMT",
   "items": [
     {
       "title": "cloudflare/cloudflare-docs",
@@ -11,7 +11,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "4,705",
-      "forks": "14,189",
+      "forks": "14,191",
       "addStars": "138",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "2,379",
+      "stars": "2,380",
       "forks": "264",
       "addStars": "323",
       "contributors": [
@@ -185,8 +185,8 @@
       "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "25,140",
-      "forks": "2,775",
+      "stars": "25,141",
+      "forks": "2,776",
       "addStars": "402",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "1,983",
-      "forks": "317",
+      "stars": "1,984",
+      "forks": "318",
       "addStars": "188",
       "contributors": [
         {
@@ -372,7 +372,7 @@
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "74,388",
+      "stars": "74,395",
       "forks": "8,037",
       "addStars": "1,455",
       "contributors": [
@@ -585,7 +585,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "143",
-      "forks": "626",
+      "forks": "627",
       "addStars": "2",
       "contributors": [
         {

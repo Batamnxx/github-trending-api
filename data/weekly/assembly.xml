@@ -3,7 +3,7 @@
     <title>GitHub Assembly Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Assembly Languages in GitHub</description>
-    <pubDate>Mon, 11 May 2026 05:02:28 GMT</pubDate>
+    <pubDate>Mon, 11 May 2026 10:40:02 GMT</pubDate>
     <item>
       <title>vxunderground/MalwareSourceCode</title>
       <link>https://github.com/vxunderground/MalwareSourceCode</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/vxunderground/MalwareSourceCode</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>18,198</stars>
+      <stars>18,197</stars>
       <forks>2,051</forks>
       <addStars>69</addStars>
       <contributors>
@@ -49,7 +49,7 @@
       <guid>https://github.com/ROCm/rocm-libraries</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>332</stars>
+      <stars>333</stars>
       <forks>284</forks>
       <addStars>4</addStars>
       <contributors>
@@ -77,8 +77,8 @@
       <guid>https://github.com/openhwgroup/cva6</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>2,927</stars>
-      <forks>946</forks>
+      <stars>2,930</stars>
+      <forks>947</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>
@@ -185,40 +185,78 @@
       </contributors>
     </item>
     <item>
-      <title>pret/pokered</title>
-      <link>https://github.com/pret/pokered</link>
-      <description>Disassembly of Pokémon Red/Blue</description>
-      <guid>https://github.com/pret/pokered</guid>
+      <title>apple/swift-nio-ssl</title>
+      <link>https://github.com/apple/swift-nio-ssl</link>
+      <description>TLS Support for SwiftNIO, based on BoringSSL.</description>
+      <guid>https://github.com/apple/swift-nio-ssl</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>4,692</stars>
-      <forks>1,232</forks>
-      <addStars>11</addStars>
+      <stars>423</stars>
+      <forks>162</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/101238?s=40&amp;v=4</avatar>
-          <name>kanzure</name>
-          <url>https://github.com/kanzure</url>
+          <avatar>https://avatars.githubusercontent.com/u/1382556?s=40&amp;v=4</avatar>
+          <name>Lukasa</name>
+          <url>https://github.com/Lukasa</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5231310?s=40&amp;v=4</avatar>
-          <name>dannye</name>
-          <url>https://github.com/dannye</url>
+          <avatar>https://avatars.githubusercontent.com/u/5047671?s=40&amp;v=4</avatar>
+          <name>glbrntt</name>
+          <url>https://github.com/glbrntt</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35663410?s=40&amp;v=4</avatar>
-          <name>Rangi42</name>
-          <url>https://github.com/Rangi42</url>
+          <avatar>https://avatars.githubusercontent.com/u/624238?s=40&amp;v=4</avatar>
+          <name>weissi</name>
+          <url>https://github.com/weissi</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1767429?s=40&amp;v=4</avatar>
-          <name>iimarckus</name>
-          <url>https://github.com/iimarckus</url>
+          <avatar>https://avatars.githubusercontent.com/u/104022490?s=40&amp;v=4</avatar>
+          <name>rnro</name>
+          <url>https://github.com/rnro</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1654211?s=40&amp;v=4</avatar>
-          <name>yenatch</name>
-          <url>https://github.com/yenatch</url>
+          <avatar>https://avatars.githubusercontent.com/u/5688874?s=40&amp;v=4</avatar>
+          <name>dnadoba</name>
+          <url>https://github.com/dnadoba</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>apple/swift-crypto</title>
+      <link>https://github.com/apple/swift-crypto</link>
+      <description>Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</description>
+      <guid>https://github.com/apple/swift-crypto</guid>
+      <language>Assembly</language>
+      <languageColor>#6E4C13</languageColor>
+      <stars>1,679</stars>
+      <forks>204</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1382556?s=40&amp;v=4</avatar>
+          <name>Lukasa</name>
+          <url>https://github.com/Lukasa</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1125539?s=40&amp;v=4</avatar>
+          <name>simonjbeaumont</name>
+          <url>https://github.com/simonjbeaumont</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/104022490?s=40&amp;v=4</avatar>
+          <name>rnro</name>
+          <url>https://github.com/rnro</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/864410?s=40&amp;v=4</avatar>
+          <name>Sajjon</name>
+          <url>https://github.com/Sajjon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63311?s=40&amp;v=4</avatar>
+          <name>compnerd</name>
+          <url>https://github.com/compnerd</url>
         </contributor>
       </contributors>
     </item>
@@ -261,44 +299,6 @@
       </contributors>
     </item>
     <item>
-      <title>apple/swift-nio-ssl</title>
-      <link>https://github.com/apple/swift-nio-ssl</link>
-      <description>TLS Support for SwiftNIO, based on BoringSSL.</description>
-      <guid>https://github.com/apple/swift-nio-ssl</guid>
-      <language>Assembly</language>
-      <languageColor>#6E4C13</languageColor>
-      <stars>423</stars>
-      <forks>162</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1382556?s=40&amp;v=4</avatar>
-          <name>Lukasa</name>
-          <url>https://github.com/Lukasa</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5047671?s=40&amp;v=4</avatar>
-          <name>glbrntt</name>
-          <url>https://github.com/glbrntt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/624238?s=40&amp;v=4</avatar>
-          <name>weissi</name>
-          <url>https://github.com/weissi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/104022490?s=40&amp;v=4</avatar>
-          <name>rnro</name>
-          <url>https://github.com/rnro</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5688874?s=40&amp;v=4</avatar>
-          <name>dnadoba</name>
-          <url>https://github.com/dnadoba</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>PRoX2011/x16-PRos</title>
       <link>https://github.com/PRoX2011/x16-PRos</link>
       <description>Simple 16 bit (real mode) operating system writen in NASM from scratch</description>
@@ -333,44 +333,6 @@
           <avatar>https://avatars.githubusercontent.com/u/179692930?s=40&amp;v=4</avatar>
           <name>qwez-dev</name>
           <url>https://github.com/qwez-dev</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>apple/swift-crypto</title>
-      <link>https://github.com/apple/swift-crypto</link>
-      <description>Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</description>
-      <guid>https://github.com/apple/swift-crypto</guid>
-      <language>Assembly</language>
-      <languageColor>#6E4C13</languageColor>
-      <stars>1,679</stars>
-      <forks>204</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1382556?s=40&amp;v=4</avatar>
-          <name>Lukasa</name>
-          <url>https://github.com/Lukasa</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1125539?s=40&amp;v=4</avatar>
-          <name>simonjbeaumont</name>
-          <url>https://github.com/simonjbeaumont</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/104022490?s=40&amp;v=4</avatar>
-          <name>rnro</name>
-          <url>https://github.com/rnro</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/864410?s=40&amp;v=4</avatar>
-          <name>Sajjon</name>
-          <url>https://github.com/Sajjon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63311?s=40&amp;v=4</avatar>
-          <name>compnerd</name>
-          <url>https://github.com/compnerd</url>
         </contributor>
       </contributors>
     </item>
@@ -452,7 +414,7 @@
       <guid>https://github.com/aws/aws-lc</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>765</stars>
+      <stars>766</stars>
       <forks>180</forks>
       <addStars>4</addStars>
       <contributors>
@@ -480,6 +442,44 @@
           <avatar>https://avatars.githubusercontent.com/u/11924508?s=40&amp;v=4</avatar>
           <name>samuel40791765</name>
           <url>https://github.com/samuel40791765</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>boostorg/context</title>
+      <link>https://github.com/boostorg/context</link>
+      <description/>
+      <guid>https://github.com/boostorg/context</guid>
+      <language>Assembly</language>
+      <languageColor>#6E4C13</languageColor>
+      <stars>355</stars>
+      <forks>178</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/914496?s=40&amp;v=4</avatar>
+          <name>olk</name>
+          <url>https://github.com/olk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3112415?s=40&amp;v=4</avatar>
+          <name>eldiener</name>
+          <url>https://github.com/eldiener</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2998253?s=40&amp;v=4</avatar>
+          <name>grafikrobot</name>
+          <url>https://github.com/grafikrobot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2743474?s=40&amp;v=4</avatar>
+          <name>Kojoley</name>
+          <url>https://github.com/Kojoley</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3116174?s=40&amp;v=4</avatar>
+          <name>pdimov</name>
+          <url>https://github.com/pdimov</url>
         </contributor>
       </contributors>
     </item>

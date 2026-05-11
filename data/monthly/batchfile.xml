@@ -3,7 +3,7 @@
     <title>GitHub Batchfile Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Batchfile Languages in GitHub</description>
-    <pubDate>Mon, 11 May 2026 05:02:28 GMT</pubDate>
+    <pubDate>Mon, 11 May 2026 10:40:02 GMT</pubDate>
     <item>
       <title>Flowseal/zapret-discord-youtube</title>
       <link>https://github.com/Flowseal/zapret-discord-youtube</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Flowseal/zapret-discord-youtube</guid>
       <language>Batchfile</language>
       <languageColor>#C1F12E</languageColor>
-      <stars>27,747</stars>
-      <forks>2,161</forks>
+      <stars>27,761</stars>
+      <forks>2,160</forks>
       <addStars>2,105</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/RockBlack-VPN/ip-address</guid>
       <language>Batchfile</language>
       <languageColor>#C1F12E</languageColor>
-      <stars>1,995</stars>
+      <stars>1,996</stars>
       <forks>167</forks>
       <addStars>144</addStars>
       <contributors>
@@ -81,14 +81,37 @@
       </contributors>
     </item>
     <item>
+      <title>shlima/keneetic-antifilter</title>
+      <link>https://github.com/shlima/keneetic-antifilter</link>
+      <description>Правила маршрутизации youtube, instagram, chatgpt для роутеров keenetic</description>
+      <guid>https://github.com/shlima/keneetic-antifilter</guid>
+      <language>Batchfile</language>
+      <languageColor>#C1F12E</languageColor>
+      <stars>380</stars>
+      <forks>16</forks>
+      <addStars>51</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2356771?s=40&amp;v=4</avatar>
+          <name>shlima</name>
+          <url>https://github.com/shlima</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64899574?s=40&amp;v=4</avatar>
+          <name>superheher</name>
+          <url>https://github.com/superheher</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>realpython/python-guide</title>
       <link>https://github.com/realpython/python-guide</link>
       <description>Python best practices guidebook, written for humans.</description>
       <guid>https://github.com/realpython/python-guide</guid>
       <language>Batchfile</language>
       <languageColor>#C1F12E</languageColor>
-      <stars>29,608</stars>
-      <forks>5,903</forks>
+      <stars>29,609</stars>
+      <forks>5,904</forks>
       <addStars>81</addStars>
       <contributors>
         <contributor>
@@ -115,29 +138,6 @@
           <avatar>https://avatars.githubusercontent.com/u/836375?s=40&amp;v=4</avatar>
           <name>rgbkrk</name>
           <url>https://github.com/rgbkrk</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>shlima/keneetic-antifilter</title>
-      <link>https://github.com/shlima/keneetic-antifilter</link>
-      <description>Правила маршрутизации youtube, instagram, chatgpt для роутеров keenetic</description>
-      <guid>https://github.com/shlima/keneetic-antifilter</guid>
-      <language>Batchfile</language>
-      <languageColor>#C1F12E</languageColor>
-      <stars>380</stars>
-      <forks>16</forks>
-      <addStars>51</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2356771?s=40&amp;v=4</avatar>
-          <name>shlima</name>
-          <url>https://github.com/shlima</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64899574?s=40&amp;v=4</avatar>
-          <name>superheher</name>
-          <url>https://github.com/superheher</url>
         </contributor>
       </contributors>
     </item>
@@ -199,29 +199,6 @@
           <avatar>https://avatars.githubusercontent.com/u/16633480?s=40&amp;v=4</avatar>
           <name>Mustafa1p</name>
           <url>https://github.com/Mustafa1p</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Alex313031/Thorium-Win</title>
-      <link>https://github.com/Alex313031/Thorium-Win</link>
-      <description>Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium</description>
-      <guid>https://github.com/Alex313031/Thorium-Win</guid>
-      <language>Batchfile</language>
-      <languageColor>#C1F12E</languageColor>
-      <stars>2,368</stars>
-      <forks>52</forks>
-      <addStars>80</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45863095?s=40&amp;v=4</avatar>
-          <name>Alex313031</name>
-          <url>https://github.com/Alex313031</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4</avatar>
-          <name>eltociear</name>
-          <url>https://github.com/eltociear</url>
         </contributor>
       </contributors>
     </item>

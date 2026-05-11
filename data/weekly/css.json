@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Weekly Trending",
   "description": "Weekly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 11 May 2026 05:02:28 GMT",
+  "pubDate": "Mon, 11 May 2026 10:40:02 GMT",
   "items": [
     {
       "title": "Diolinux/PhotoGIMP",
@@ -10,7 +10,7 @@
       "description": "A Patch for GIMP 3+ for Photoshop Users",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "8,722",
+      "stars": "8,724",
       "forks": "270",
       "addStars": "216",
       "contributors": [
@@ -42,50 +42,13 @@
       ]
     },
     {
-      "title": "HackTricks-wiki/hacktricks",
-      "url": "https://github.com/HackTricks-wiki/hacktricks",
-      "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": "11,281",
-      "forks": "3,067",
-      "addStars": "37",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17181413?s=40&v=4",
-          "name": "carlospolop",
-          "url": "https://github.com/carlospolop"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42553774?s=40&v=4",
-          "name": "CoolHandSquid",
-          "url": "https://github.com/CoolHandSquid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/97813742?s=40&v=4",
-          "name": "darcsec",
-          "url": "https://github.com/darcsec"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99985286?s=40&v=4",
-          "name": "TricksterShubi",
-          "url": "https://github.com/TricksterShubi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18504086?s=40&v=4",
-          "name": "clem9669",
-          "url": "https://github.com/clem9669"
-        }
-      ]
-    },
-    {
       "title": "spring-projects/spring-petclinic",
       "url": "https://github.com/spring-projects/spring-petclinic",
       "description": "A sample Spring-based application",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "9,211",
-      "forks": "29,328",
+      "stars": "9,212",
+      "forks": "29,329",
       "addStars": "34",
       "contributors": [
         {
@@ -116,66 +79,39 @@
       ]
     },
     {
-      "title": "hkhcoder/vprofile-project",
-      "url": "https://github.com/hkhcoder/vprofile-project",
-      "description": "",
+      "title": "HackTricks-wiki/hacktricks",
+      "url": "https://github.com/HackTricks-wiki/hacktricks",
+      "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,266",
-      "forks": "6,924",
-      "addStars": "10",
+      "stars": "11,282",
+      "forks": "3,068",
+      "addStars": "37",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/137309866?s=40&v=4",
-          "name": "hkhcoder",
-          "url": "https://github.com/hkhcoder"
+          "avatar": "https://avatars.githubusercontent.com/u/17181413?s=40&v=4",
+          "name": "carlospolop",
+          "url": "https://github.com/carlospolop"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46835275?s=40&v=4",
-          "name": "devopshydclub",
-          "url": "https://github.com/devopshydclub"
+          "avatar": "https://avatars.githubusercontent.com/u/42553774?s=40&v=4",
+          "name": "CoolHandSquid",
+          "url": "https://github.com/CoolHandSquid"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/147797447?s=40&v=4",
-          "name": "devops4sure",
-          "url": "https://github.com/devops4sure"
-        }
-      ]
-    },
-    {
-      "title": "isocpp/CppCoreGuidelines",
-      "url": "https://github.com/isocpp/CppCoreGuidelines",
-      "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": "44,974",
-      "forks": "5,545",
-      "addStars": "34",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1801526?s=40&v=4",
-          "name": "hsutter",
-          "url": "https://github.com/hsutter"
+          "avatar": "https://avatars.githubusercontent.com/u/97813742?s=40&v=4",
+          "name": "darcsec",
+          "url": "https://github.com/darcsec"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11031650?s=40&v=4",
-          "name": "gdr-at-ms",
-          "url": "https://github.com/gdr-at-ms"
+          "avatar": "https://avatars.githubusercontent.com/u/99985286?s=40&v=4",
+          "name": "TricksterShubi",
+          "url": "https://github.com/TricksterShubi"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1525116?s=40&v=4",
-          "name": "tkruse",
-          "url": "https://github.com/tkruse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9330739?s=40&v=4",
-          "name": "cubbimew",
-          "url": "https://github.com/cubbimew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10933044?s=40&v=4",
-          "name": "BjarneStroustrup",
-          "url": "https://github.com/BjarneStroustrup"
+          "avatar": "https://avatars.githubusercontent.com/u/18504086?s=40&v=4",
+          "name": "clem9669",
+          "url": "https://github.com/clem9669"
         }
       ]
     },
@@ -185,7 +121,7 @@
       "description": "Accurately Locate Smartphones using Social Engineering",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "9,401",
+      "stars": "9,400",
       "forks": "2,184",
       "addStars": "47",
       "contributors": [
@@ -217,34 +153,140 @@
       ]
     },
     {
-      "title": "ColorlibHQ/AdminLTE",
-      "url": "https://github.com/ColorlibHQ/AdminLTE",
-      "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+      "title": "isocpp/CppCoreGuidelines",
+      "url": "https://github.com/isocpp/CppCoreGuidelines",
+      "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "45,378",
-      "forks": "18,238",
-      "addStars": "16",
+      "stars": "44,977",
+      "forks": "5,545",
+      "addStars": "34",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1554582?s=40&v=4",
-          "name": "REJack",
-          "url": "https://github.com/REJack"
+          "avatar": "https://avatars.githubusercontent.com/u/1801526?s=40&v=4",
+          "name": "hsutter",
+          "url": "https://github.com/hsutter"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1512664?s=40&v=4",
-          "name": "almasaeed2010",
-          "url": "https://github.com/almasaeed2010"
+          "avatar": "https://avatars.githubusercontent.com/u/11031650?s=40&v=4",
+          "name": "gdr-at-ms",
+          "url": "https://github.com/gdr-at-ms"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/50356015?s=40&v=4",
-          "name": "danny007in",
-          "url": "https://github.com/danny007in"
+          "avatar": "https://avatars.githubusercontent.com/u/1525116?s=40&v=4",
+          "name": "tkruse",
+          "url": "https://github.com/tkruse"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/349621?s=40&v=4",
-          "name": "XhmikosR",
-          "url": "https://github.com/XhmikosR"
+          "avatar": "https://avatars.githubusercontent.com/u/9330739?s=40&v=4",
+          "name": "cubbimew",
+          "url": "https://github.com/cubbimew"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10933044?s=40&v=4",
+          "name": "BjarneStroustrup",
+          "url": "https://github.com/BjarneStroustrup"
+        }
+      ]
+    },
+    {
+      "title": "hkhcoder/vprofile-project",
+      "url": "https://github.com/hkhcoder/vprofile-project",
+      "description": "",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "1,267",
+      "forks": "6,925",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/137309866?s=40&v=4",
+          "name": "hkhcoder",
+          "url": "https://github.com/hkhcoder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46835275?s=40&v=4",
+          "name": "devopshydclub",
+          "url": "https://github.com/devopshydclub"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/147797447?s=40&v=4",
+          "name": "devops4sure",
+          "url": "https://github.com/devops4sure"
+        }
+      ]
+    },
+    {
+      "title": "kepano/flexoki",
+      "url": "https://github.com/kepano/flexoki",
+      "description": "An inky color scheme for prose and code.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "3,363",
+      "forks": "111",
+      "addStars": "53",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10565871?s=40&v=4",
+          "name": "kepano",
+          "url": "https://github.com/kepano"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6334322?s=40&v=4",
+          "name": "dinocosta",
+          "url": "https://github.com/dinocosta"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63781175?s=40&v=4",
+          "name": "sanngridhr",
+          "url": "https://github.com/sanngridhr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/115649477?s=40&v=4",
+          "name": "thatoddshade",
+          "url": "https://github.com/thatoddshade"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57529236?s=40&v=4",
+          "name": "tklai",
+          "url": "https://github.com/tklai"
+        }
+      ]
+    },
+    {
+      "title": "vinceliuice/Orchis-theme",
+      "url": "https://github.com/vinceliuice/Orchis-theme",
+      "description": "Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "3,912",
+      "forks": "257",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7604295?s=40&v=4",
+          "name": "vinceliuice",
+          "url": "https://github.com/vinceliuice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22682408?s=40&v=4",
+          "name": "Demetrio92",
+          "url": "https://github.com/Demetrio92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/131406?s=40&v=4",
+          "name": "kapouer",
+          "url": "https://github.com/kapouer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22567908?s=40&v=4",
+          "name": "marmitar",
+          "url": "https://github.com/marmitar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1464877?s=40&v=4",
+          "name": "ksangers",
+          "url": "https://github.com/ksangers"
         }
       ]
     },
@@ -254,7 +296,7 @@
       "description": "记录人类完蛋全过程。",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "262",
+      "stars": "264",
       "forks": "20",
       "addStars": "63",
       "contributors": [
@@ -281,7 +323,7 @@
       "description": "Custom CSS theme for doxygen html-documentation with lots of customization parameters.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "1,364",
+      "stars": "1,365",
       "forks": "141",
       "addStars": "4",
       "contributors": [
@@ -318,8 +360,8 @@
       "description": "The Missing Semester of Your CS Education 📚",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "5,761",
-      "forks": "1,363",
+      "stars": "5,764",
+      "forks": "1,364",
       "addStars": "53",
       "contributors": [
         {
@@ -346,6 +388,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/8521043?s=40&v=4",
           "name": "bewuethr",
           "url": "https://github.com/bewuethr"
+        }
+      ]
+    },
+    {
+      "title": "rust-lang/nomicon",
+      "url": "https://github.com/rust-lang/nomicon",
+      "description": "The Dark Arts of Advanced and Unsafe Rust Programming",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "2,266",
+      "forks": "319",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1136864?s=40&v=4",
+          "name": "Gankra",
+          "url": "https://github.com/Gankra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25030997?s=40&v=4",
+          "name": "JohnTitor",
+          "url": "https://github.com/JohnTitor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43198?s=40&v=4",
+          "name": "ehuss",
+          "url": "https://github.com/ehuss"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/330628?s=40&v=4",
+          "name": "RalfJung",
+          "url": "https://github.com/RalfJung"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27786?s=40&v=4",
+          "name": "steveklabnik",
+          "url": "https://github.com/steveklabnik"
         }
       ]
     }

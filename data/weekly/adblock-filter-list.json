@@ -2,7 +2,7 @@
   "title": "GitHub Adblock-filter-list Languages Weekly Trending",
   "description": "Weekly Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 11 May 2026 15:54:46 GMT",
+  "pubDate": "Mon, 11 May 2026 20:48:33 GMT",
   "items": [
     {
       "title": "Stevoisiak/Stevos-GenAI-Blocklist",
@@ -47,7 +47,7 @@
       "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "5,721",
+      "stars": "5,723",
       "forks": "996",
       "addStars": "22",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "AdGuard DNS filter",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "1,238",
+      "stars": "1,239",
       "forks": "177",
       "addStars": "7",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Astro Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Astro Languages in GitHub</description>
-    <pubDate>Mon, 11 May 2026 10:40:02 GMT</pubDate>
+    <pubDate>Mon, 11 May 2026 15:54:46 GMT</pubDate>
     <item>
       <title>satnaing/astro-paper</title>
       <link>https://github.com/satnaing/astro-paper</link>
@@ -12,7 +12,7 @@
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
       <stars>4,591</stars>
-      <forks>964</forks>
+      <forks>965</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/Lissy93/awesome-privacy</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>9,353</stars>
-      <forks>502</forks>
+      <stars>9,356</stars>
+      <forks>503</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>
@@ -149,11 +149,11 @@
     <item>
       <title>arthelokyo/astrowind</title>
       <link>https://github.com/arthelokyo/astrowind</link>
-      <description>⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.</description>
+      <description>⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.</description>
       <guid>https://github.com/arthelokyo/astrowind</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>5,636</stars>
+      <stars>5,638</stars>
       <forks>1,593</forks>
       <addStars>3</addStars>
       <contributors>
@@ -191,8 +191,8 @@
       <guid>https://github.com/saicaca/fuwari</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>4,531</stars>
-      <forks>1,204</forks>
+      <stars>4,533</stars>
+      <forks>1,205</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/manuelernestog/astrofy</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>1,356</stars>
-      <forks>438</forks>
+      <stars>1,357</stars>
+      <forks>437</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/CuteLeaf/Firefly</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>979</stars>
-      <forks>513</forks>
+      <stars>983</stars>
+      <forks>517</forks>
       <addStars>12</addStars>
       <contributors>
         <contributor>

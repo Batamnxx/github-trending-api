@@ -3,7 +3,7 @@
     <title>GitHub Assembly Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Assembly Languages in GitHub</description>
-    <pubDate>Mon, 11 May 2026 10:40:02 GMT</pubDate>
+    <pubDate>Mon, 11 May 2026 15:54:46 GMT</pubDate>
     <item>
       <title>openhwgroup/cva6</title>
       <link>https://github.com/openhwgroup/cva6</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/BLAKE3-team/BLAKE3</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>6,213</stars>
+      <stars>6,214</stars>
       <forks>451</forks>
       <addStars>4</addStars>
       <contributors>
@@ -391,7 +391,7 @@
       <guid>https://github.com/JSsixtyfour/smashremix</guid>
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
-      <stars>898</stars>
+      <stars>899</stars>
       <forks>68</forks>
       <addStars>0</addStars>
       <contributors>
@@ -529,7 +529,7 @@
       <language>Assembly</language>
       <languageColor>#6E4C13</languageColor>
       <stars>1,679</stars>
-      <forks>204</forks>
+      <forks>205</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>

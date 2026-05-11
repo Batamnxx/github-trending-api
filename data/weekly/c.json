@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Weekly Trending",
   "description": "Weekly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 11 May 2026 10:40:02 GMT",
+  "pubDate": "Mon, 11 May 2026 15:54:46 GMT",
   "items": [
     {
       "title": "NetHack/NetHack",
@@ -10,8 +10,8 @@
       "description": "Official NetHack Git Repository",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "3,723",
-      "forks": "570",
+      "stars": "3,724",
+      "forks": "571",
       "addStars": "115",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "2,821",
-      "forks": "874",
+      "stars": "2,825",
+      "forks": "876",
       "addStars": "84",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "60,880",
-      "forks": "27,879",
+      "stars": "60,885",
+      "forks": "27,881",
       "addStars": "172",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "26,838",
-      "forks": "12,376",
+      "stars": "26,842",
+      "forks": "12,379",
       "addStars": "287",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "2,714",
+      "stars": "2,715",
       "forks": "280",
       "addStars": "29",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "74,277",
+      "stars": "74,282",
       "forks": "24,607",
       "addStars": "181",
       "contributors": [
@@ -264,8 +264,8 @@
       "description": "Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "6,264",
-      "forks": "1,701",
+      "stars": "6,267",
+      "forks": "1,703",
       "addStars": "56",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "15,220",
-      "forks": "9,125",
+      "stars": "15,223",
+      "forks": "9,126",
       "addStars": "73",
       "contributors": [
         {
@@ -338,7 +338,7 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "23,936",
+      "stars": "23,939",
       "forks": "624",
       "addStars": "158",
       "contributors": [
@@ -375,7 +375,7 @@
       "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "25,720",
+      "stars": "25,722",
       "forks": "1,131",
       "addStars": "78",
       "contributors": [
@@ -412,7 +412,7 @@
       "description": "stb single-file public domain libraries for C/C++",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "33,606",
+      "stars": "33,608",
       "forks": "8,052",
       "addStars": "80",
       "contributors": [
@@ -449,8 +449,8 @@
       "description": "Decompilation of Pokémon Emerald",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "3,129",
-      "forks": "4,038",
+      "stars": "3,131",
+      "forks": "4,039",
       "addStars": "23",
       "contributors": [
         {
@@ -486,8 +486,8 @@
       "description": "An opensource OpenWrt variant for mainland China users.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "10,752",
-      "forks": "3,506",
+      "stars": "10,753",
+      "forks": "3,511",
       "addStars": "63",
       "contributors": [
         {
@@ -560,7 +560,7 @@
       "description": "UNIX-like reverse engineering framework and command-line toolset",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "23,783",
+      "stars": "23,785",
       "forks": "3,228",
       "addStars": "201",
       "contributors": [
@@ -597,7 +597,7 @@
       "description": "Flipper Zero Unleashed Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "21,538",
+      "stars": "21,539",
       "forks": "1,870",
       "addStars": "38",
       "contributors": [

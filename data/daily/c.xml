@@ -3,7 +3,7 @@
     <title>GitHub C Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of C Languages in GitHub</description>
-    <pubDate>Mon, 11 May 2026 10:40:02 GMT</pubDate>
+    <pubDate>Mon, 11 May 2026 15:54:46 GMT</pubDate>
     <item>
       <title>antirez/kilo</title>
       <link>https://github.com/antirez/kilo</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/OISF/suricata</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,264</stars>
-      <forks>1,701</forks>
+      <stars>6,267</stars>
+      <forks>1,703</forks>
       <addStars>21</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/flipperdevices/flipperzero-firmware</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>15,957</stars>
-      <forks>3,347</forks>
+      <stars>15,960</stars>
+      <forks>3,348</forks>
       <addStars>23</addStars>
       <contributors>
         <contributor>
@@ -125,7 +125,7 @@
       <guid>https://github.com/espeak-ng/espeak-ng</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,440</stars>
+      <stars>6,441</stars>
       <forks>1,219</forks>
       <addStars>5</addStars>
       <contributors>
@@ -163,7 +163,7 @@
       <guid>https://github.com/ventoy/Ventoy</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>76,535</stars>
+      <stars>76,542</stars>
       <forks>4,793</forks>
       <addStars>36</addStars>
       <contributors>
@@ -201,7 +201,7 @@
       <guid>https://github.com/mpv-player/mpv</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>35,185</stars>
+      <stars>35,188</stars>
       <forks>3,322</forks>
       <addStars>16</addStars>
       <contributors>
@@ -240,7 +240,7 @@
       <language>C</language>
       <languageColor>#555555</languageColor>
       <stars>206</stars>
-      <forks>42</forks>
+      <forks>43</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -277,8 +277,8 @@
       <guid>https://github.com/immortalwrt/immortalwrt</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>10,752</stars>
-      <forks>3,506</forks>
+      <stars>10,753</stars>
+      <forks>3,511</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -315,7 +315,7 @@
       <guid>https://github.com/curl/curl</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>41,770</stars>
+      <stars>41,776</stars>
       <forks>7,178</forks>
       <addStars>19</addStars>
       <contributors>
@@ -391,7 +391,7 @@
       <guid>https://github.com/Klipper3d/klipper</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>11,517</stars>
+      <stars>11,518</stars>
       <forks>5,871</forks>
       <addStars>3</addStars>
       <contributors>
@@ -429,8 +429,8 @@
       <guid>https://github.com/meshcore-dev/MeshCore</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>2,821</stars>
-      <forks>874</forks>
+      <stars>2,825</stars>
+      <forks>876</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -467,7 +467,7 @@
       <guid>https://github.com/valkey-io/valkey</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>25,720</stars>
+      <stars>25,722</stars>
       <forks>1,131</forks>
       <addStars>10</addStars>
       <contributors>
@@ -505,7 +505,7 @@
       <guid>https://github.com/uber/h3</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,239</stars>
+      <stars>6,240</stars>
       <forks>574</forks>
       <addStars>7</addStars>
       <contributors>
@@ -543,8 +543,8 @@
       <guid>https://github.com/openssl/openssl</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>30,130</stars>
-      <forks>11,253</forks>
+      <stars>30,133</stars>
+      <forks>11,251</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
@@ -581,7 +581,7 @@
       <guid>https://github.com/nothings/stb</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>33,606</stars>
+      <stars>33,608</stars>
       <forks>8,052</forks>
       <addStars>11</addStars>
       <contributors>
@@ -695,7 +695,7 @@
       <guid>https://github.com/Zelda64Recomp/Zelda64Recomp</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,991</stars>
+      <stars>6,995</stars>
       <forks>323</forks>
       <addStars>15</addStars>
       <contributors>
@@ -733,8 +733,8 @@
       <guid>https://github.com/HarbourMasters/Shipwright</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>4,734</stars>
-      <forks>700</forks>
+      <stars>4,742</stars>
+      <forks>699</forks>
       <addStars>23</addStars>
       <contributors>
         <contributor>
@@ -771,7 +771,7 @@
       <guid>https://github.com/HarbourMasters/2ship2harkinian</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>1,915</stars>
+      <stars>1,917</stars>
       <forks>182</forks>
       <addStars>16</addStars>
       <contributors>

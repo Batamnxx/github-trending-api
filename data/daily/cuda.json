@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 11 May 2026 10:40:02 GMT",
+  "pubDate": "Mon, 11 May 2026 15:54:46 GMT",
   "items": [
     {
       "title": "NVIDIA/cub",
@@ -47,7 +47,7 @@
       "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,350",
+      "stars": "3,351",
       "forks": "279",
       "addStars": "1",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "865",
+      "stars": "866",
       "forks": "182",
       "addStars": "1",
       "contributors": [
@@ -343,7 +343,7 @@
       "description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,113",
+      "stars": "1,114",
       "forks": "185",
       "addStars": "1",
       "contributors": [
@@ -380,8 +380,8 @@
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "7,238",
-      "forks": "975",
+      "stars": "7,241",
+      "forks": "976",
       "addStars": "7",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 11 May 2026 10:40:02 GMT",
+  "pubDate": "Mon, 11 May 2026 15:54:46 GMT",
   "items": [
     {
       "title": "transmission/transmission",
@@ -10,7 +10,7 @@
       "description": "Official Transmission BitTorrent client repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "14,687",
+      "stars": "14,689",
       "forks": "1,378",
       "addStars": "9",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "40,884",
+      "stars": "40,897",
       "forks": "3,859",
       "addStars": "22",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "35,642",
-      "forks": "1,714",
+      "stars": "35,647",
+      "forks": "1,716",
       "addStars": "30",
       "contributors": [
         {
@@ -158,7 +158,7 @@
       "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "13,727",
+      "stars": "13,724",
       "forks": "3,413",
       "addStars": "8",
       "contributors": [
@@ -195,8 +195,8 @@
       "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "9,308",
-      "forks": "1,300",
+      "stars": "9,311",
+      "forks": "1,301",
       "addStars": "13",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "73,123",
-      "forks": "11,760",
+      "stars": "73,129",
+      "forks": "11,759",
       "addStars": "27",
       "contributors": [
         {
@@ -269,7 +269,7 @@
       "description": "PCSX2 - The Playstation 2 Emulator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "14,830",
+      "stars": "14,831",
       "forks": "1,960",
       "addStars": "8",
       "contributors": [
@@ -306,8 +306,8 @@
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "30,847",
-      "forks": "5,532",
+      "stars": "30,848",
+      "forks": "5,533",
       "addStars": "14",
       "contributors": [
         {
@@ -344,7 +344,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "33,156",
-      "forks": "3,326",
+      "forks": "3,325",
       "addStars": "2",
       "contributors": [
         {
@@ -380,7 +380,7 @@
       "description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "9,689",
+      "stars": "9,692",
       "forks": "1,845",
       "addStars": "5",
       "contributors": [
@@ -417,8 +417,8 @@
       "description": "Tensor library for machine learning",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "14,624",
-      "forks": "1,606",
+      "stars": "14,626",
+      "forks": "1,607",
       "addStars": "8",
       "contributors": [
         {
@@ -454,8 +454,8 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "36,848",
-      "forks": "1,918",
+      "stars": "36,856",
+      "forks": "1,920",
       "addStars": "28",
       "contributors": [
         {
@@ -486,8 +486,8 @@
       "description": "Bitcoin Core integration/staging tree",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "89,049",
-      "forks": "38,959",
+      "stars": "89,054",
+      "forks": "38,960",
       "addStars": "10",
       "contributors": [
         {
@@ -523,7 +523,7 @@
       "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "18,748",
+      "stars": "18,759",
       "forks": "2,284",
       "addStars": "18",
       "contributors": [
@@ -561,7 +561,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "25,628",
-      "forks": "6,107",
+      "forks": "6,108",
       "addStars": "2",
       "contributors": [
         {
@@ -597,8 +597,8 @@
       "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,461",
-      "forks": "331",
+      "stars": "2,467",
+      "forks": "332",
       "addStars": "48",
       "contributors": [
         {
@@ -671,7 +671,7 @@
       "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "15,597",
+      "stars": "15,599",
       "forks": "1,775",
       "addStars": "1",
       "contributors": [
@@ -708,8 +708,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "38,586",
-      "forks": "10,765",
+      "stars": "38,587",
+      "forks": "10,766",
       "addStars": "6",
       "contributors": [
         {
@@ -740,7 +740,7 @@
       "description": "TrinityCore Open Source MMO Framework (master = 12.0.5.67451, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "10,552",
+      "stars": "10,553",
       "forks": "6,319",
       "addStars": "2",
       "contributors": [
@@ -777,7 +777,7 @@
       "description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "12,860",
+      "stars": "12,861",
       "forks": "2,307",
       "addStars": "7",
       "contributors": [

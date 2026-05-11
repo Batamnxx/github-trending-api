@@ -3,7 +3,7 @@
     <title>GitHub Astro Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Astro Languages in GitHub</description>
-    <pubDate>Mon, 11 May 2026 10:40:02 GMT</pubDate>
+    <pubDate>Mon, 11 May 2026 15:54:46 GMT</pubDate>
     <item>
       <title>CuteLeaf/Firefly</title>
       <link>https://github.com/CuteLeaf/Firefly</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/CuteLeaf/Firefly</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>979</stars>
-      <forks>513</forks>
+      <stars>983</stars>
+      <forks>517</forks>
       <addStars>90</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/Lissy93/awesome-privacy</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>9,353</stars>
-      <forks>502</forks>
+      <stars>9,356</stars>
+      <forks>503</forks>
       <addStars>51</addStars>
       <contributors>
         <contributor>
@@ -78,11 +78,11 @@
     <item>
       <title>arthelokyo/astrowind</title>
       <link>https://github.com/arthelokyo/astrowind</link>
-      <description>⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.</description>
+      <description>⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.</description>
       <guid>https://github.com/arthelokyo/astrowind</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>5,636</stars>
+      <stars>5,638</stars>
       <forks>1,593</forks>
       <addStars>20</addStars>
       <contributors>
@@ -154,7 +154,7 @@
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
       <stars>4,591</stars>
-      <forks>964</forks>
+      <forks>965</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/saicaca/fuwari</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>4,531</stars>
-      <forks>1,204</forks>
+      <stars>4,533</stars>
+      <forks>1,205</forks>
       <addStars>28</addStars>
       <contributors>
         <contributor>
@@ -219,7 +219,7 @@
       <guid>https://github.com/zeon-studio/astroplate</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>1,104</stars>
+      <stars>1,105</stars>
       <forks>386</forks>
       <addStars>5</addStars>
       <contributors>
@@ -257,7 +257,7 @@
       <guid>https://github.com/bitbonsai/mcpvault</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>1,230</stars>
+      <stars>1,232</stars>
       <forks>94</forks>
       <addStars>38</addStars>
       <contributors>

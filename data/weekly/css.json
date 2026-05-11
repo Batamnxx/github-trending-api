@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Weekly Trending",
   "description": "Weekly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 11 May 2026 10:40:02 GMT",
+  "pubDate": "Mon, 11 May 2026 15:54:46 GMT",
   "items": [
     {
       "title": "Diolinux/PhotoGIMP",
@@ -47,8 +47,8 @@
       "description": "A sample Spring-based application",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "9,212",
-      "forks": "29,329",
+      "stars": "9,213",
+      "forks": "29,332",
       "addStars": "34",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "11,282",
+      "stars": "11,280",
       "forks": "3,068",
       "addStars": "37",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "Accurately Locate Smartphones using Social Engineering",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "9,400",
-      "forks": "2,184",
+      "stars": "9,399",
+      "forks": "2,186",
       "addStars": "47",
       "contributors": [
         {
@@ -196,7 +196,7 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "1,267",
-      "forks": "6,925",
+      "forks": "6,926",
       "addStars": "10",
       "contributors": [
         {
@@ -222,7 +222,7 @@
       "description": "An inky color scheme for prose and code.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "3,363",
+      "stars": "3,366",
       "forks": "111",
       "addStars": "53",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "记录人类完蛋全过程。",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "264",
+      "stars": "265",
       "forks": "20",
       "addStars": "63",
       "contributors": [
@@ -360,8 +360,8 @@
       "description": "The Missing Semester of Your CS Education 📚",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "5,764",
-      "forks": "1,364",
+      "stars": "5,765",
+      "forks": "1,365",
       "addStars": "53",
       "contributors": [
         {

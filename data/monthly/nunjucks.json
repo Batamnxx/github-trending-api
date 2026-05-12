@@ -2,7 +2,7 @@
   "title": "GitHub Nunjucks Languages Monthly Trending",
   "description": "Monthly Trending of Nunjucks Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 12 May 2026 15:39:14 GMT",
+  "pubDate": "Tue, 12 May 2026 20:42:46 GMT",
   "items": [
     {
       "title": "xdesro/personalsit.es",
@@ -11,7 +11,7 @@
       "language": "Nunjucks",
       "languageColor": "#3d8137",
       "stars": "926",
-      "forks": "928",
+      "forks": "929",
       "addStars": "17",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
       "language": "Nunjucks",
       "languageColor": "#3d8137",
-      "stars": "60,858",
-      "forks": "11,042",
+      "stars": "60,862",
+      "forks": "11,043",
       "addStars": "92",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Json Languages Daily Trending",
   "description": "Daily Trending of Json Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 12 May 2026 15:39:14 GMT",
+  "pubDate": "Tue, 12 May 2026 20:42:46 GMT",
   "items": [
     {
       "title": "osmlab/name-suggestion-index",
@@ -48,7 +48,7 @@
       "language": "JSON",
       "languageColor": "#292929",
       "stars": "5,661",
-      "forks": "2,552",
+      "forks": "2,553",
       "addStars": "1",
       "contributors": [
         {

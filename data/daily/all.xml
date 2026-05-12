@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 11 May 2026 20:48:33 GMT</pubDate>
+    <pubDate>Tue, 12 May 2026 04:40:56 GMT</pubDate>
     <item>
       <title>bytedance/UI-TARS-desktop</title>
       <link>https://github.com/bytedance/UI-TARS-desktop</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/bytedance/UI-TARS-desktop</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,922</stars>
-      <forks>3,262</forks>
+      <stars>33,162</stars>
+      <forks>3,287</forks>
       <addStars>956</addStars>
       <contributors>
         <contributor>
@@ -49,9 +49,9 @@
       <guid>https://github.com/CloakHQ/CloakBrowser</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,964</stars>
-      <forks>449</forks>
-      <addStars>1,325</addStars>
+      <stars>6,492</stars>
+      <forks>476</forks>
+      <addStars>1,320</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/263726196?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/yikart/AiToEarn</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,643</stars>
-      <forks>1,992</forks>
-      <addStars>595</addStars>
+      <stars>11,047</stars>
+      <forks>2,026</forks>
+      <addStars>427</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/30893307?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/playcanvas/supersplat</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,277</stars>
-      <forks>797</forks>
-      <addStars>533</addStars>
+      <stars>7,440</stars>
+      <forks>813</forks>
+      <addStars>531</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11276292?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/datawhalechina/easy-vibe</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>9,827</stars>
-      <forks>940</forks>
-      <addStars>808</addStars>
+      <stars>10,074</stars>
+      <forks>958</forks>
+      <addStars>812</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96160062?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/decolua/9router</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>8,203</stars>
-      <forks>1,316</forks>
-      <addStars>942</addStars>
+      <stars>8,531</stars>
+      <forks>1,350</forks>
+      <addStars>941</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/17893081?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/tinyhumansai/openhuman</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,332</stars>
-      <forks>176</forks>
-      <addStars>501</addStars>
+      <stars>1,644</stars>
+      <forks>191</forks>
+      <addStars>366</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/31011319?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/millionco/react-doctor</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,953</stars>
-      <forks>253</forks>
-      <addStars>340</addStars>
+      <stars>8,189</stars>
+      <forks>265</forks>
+      <addStars>212</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/38025074?s=40&amp;v=4</avatar>
@@ -286,11 +286,6 @@
           <name>NisargIO</name>
           <url>https://github.com/NisargIO</url>
         </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
       </contributors>
     </item>
     <item>
@@ -300,9 +295,9 @@
       <guid>https://github.com/Lordog/dive-into-llms</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>37,261</stars>
-      <forks>4,569</forks>
-      <addStars>451</addStars>
+      <stars>37,413</stars>
+      <forks>4,584</forks>
+      <addStars>422</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/59903352?s=40&amp;v=4</avatar>
@@ -338,9 +333,9 @@
       <guid>https://github.com/AUTOMATIC1111/stable-diffusion-webui</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>162,881</stars>
-      <forks>30,334</forks>
-      <addStars>29</addStars>
+      <stars>162,930</stars>
+      <forks>30,340</forks>
+      <addStars>39</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20920490?s=40&amp;v=4</avatar>
@@ -376,9 +371,9 @@
       <guid>https://github.com/rasbt/LLMs-from-scratch</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>92,891</stars>
-      <forks>14,329</forks>
-      <addStars>408</addStars>
+      <stars>93,142</stars>
+      <forks>14,351</forks>
+      <addStars>337</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5618407?s=40&amp;v=4</avatar>
@@ -414,9 +409,9 @@
       <guid>https://github.com/NousResearch/hermes-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>144,547</stars>
-      <forks>22,597</forks>
-      <addStars>2,229</addStars>
+      <stars>145,270</stars>
+      <forks>22,719</forks>
+      <addStars>2,065</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/127238744?s=40&amp;v=4</avatar>
@@ -452,9 +447,9 @@
       <guid>https://github.com/rohitg00/agentmemory</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,625</stars>
-      <forks>437</forks>
-      <addStars>604</addStars>
+      <stars>4,927</stars>
+      <forks>466</forks>
+      <addStars>430</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4</avatar>

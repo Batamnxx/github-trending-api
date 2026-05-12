@@ -3,7 +3,7 @@
     <title>GitHub Emacs-lisp Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
-    <pubDate>Tue, 12 May 2026 04:40:56 GMT</pubDate>
+    <pubDate>Tue, 12 May 2026 09:43:29 GMT</pubDate>
     <item>
       <title>rust-lang/rust-mode</title>
       <link>https://github.com/rust-lang/rust-mode</link>
@@ -381,7 +381,7 @@
       <guid>https://github.com/google-coral/coralnpu</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>2,277</stars>
+      <stars>2,278</stars>
       <forks>275</forks>
       <addStars>3</addStars>
       <contributors>

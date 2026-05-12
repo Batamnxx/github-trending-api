@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 12 May 2026 04:40:56 GMT",
+  "pubDate": "Tue, 12 May 2026 09:43:29 GMT",
   "items": [
     {
       "title": "coredns/helm",
@@ -202,7 +202,7 @@
       "description": "Prometheus community Helm charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": "6,096",
+      "stars": "6,098",
       "forks": "5,371",
       "addStars": "1",
       "contributors": [

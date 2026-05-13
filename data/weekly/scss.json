@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Weekly Trending",
   "description": "Weekly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 13 May 2026 15:42:17 GMT",
+  "pubDate": "Wed, 13 May 2026 20:47:20 GMT",
   "items": [
     {
       "title": "keyvanakbary/learning-notes",
@@ -10,7 +10,7 @@
       "description": "Notes on books I read, talks I watch, articles I study, and papers I love",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "6,353",
+      "stars": "6,354",
       "forks": "1,327",
       "addStars": "95",
       "contributors": [
@@ -69,8 +69,8 @@
       "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "16,974",
-      "forks": "6,861",
+      "stars": "16,977",
+      "forks": "6,862",
       "addStars": "43",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "A native look and feel Obsidian theme crafted for the way you think.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "1,062",
+      "stars": "1,063",
       "forks": "35",
       "addStars": "31",
       "contributors": [
@@ -234,7 +234,7 @@
       "description": "The conventional commits specification",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "8,840",
+      "stars": "8,841",
       "forks": "665",
       "addStars": "33",
       "contributors": [
@@ -552,7 +552,7 @@
       "description": "MacOS Tahoe theme for gtk desktops",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "1,197",
+      "stars": "1,198",
       "forks": "62",
       "addStars": "30",
       "contributors": [

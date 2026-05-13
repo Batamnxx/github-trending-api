@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Daily Trending",
   "description": "Daily Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 13 May 2026 15:42:17 GMT",
+  "pubDate": "Wed, 13 May 2026 20:47:20 GMT",
   "items": [
     {
       "title": "tuna/thuthesis",
@@ -10,7 +10,7 @@
       "description": "LaTeX Thesis Template for Tsinghua University",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "5,324",
+      "stars": "5,325",
       "forks": "1,148",
       "addStars": "4",
       "contributors": [
@@ -48,7 +48,7 @@
       "language": "TeX",
       "languageColor": "#3D6117",
       "stars": "4,614",
-      "forks": "830",
+      "forks": "829",
       "addStars": "4",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "Release repo for our SLAM Handbook",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "4,485",
+      "stars": "4,486",
       "forks": "295",
       "addStars": "5",
       "contributors": [
@@ -190,8 +190,8 @@
       "description": "Software developer resume in Latex",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,631",
-      "forks": "1,822",
+      "stars": "6,632",
+      "forks": "1,823",
       "addStars": "3",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "27,502",
-      "forks": "5,219",
+      "stars": "27,503",
+      "forks": "5,220",
       "addStars": "9",
       "contributors": [
         {

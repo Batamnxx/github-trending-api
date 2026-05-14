@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Daily Trending",
   "description": "Daily Trending of Smali Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 13 May 2026 20:47:20 GMT",
+  "pubDate": "Thu, 14 May 2026 04:51:38 GMT",
   "items": [
     {
       "title": "The412Banner/BannerHub",
@@ -10,9 +10,9 @@
       "description": "GameHub ReVanced — extended with GOG, Epic & Amazon game libraries, Component Manager, Winlator HUD, per-game controls & configs, and more. Built via apktool smali patching.",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "275",
+      "stars": "277",
       "forks": "16",
-      "addStars": "6",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/205237651?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "🧘 An updatable, open source Instagram app for Android without distractions.",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "330",
+      "stars": "333",
       "forks": "21",
-      "addStars": "2",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47366872?s=40&v=4",

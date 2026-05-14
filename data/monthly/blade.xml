@@ -3,7 +3,7 @@
     <title>GitHub Blade Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Blade Languages in GitHub</description>
-    <pubDate>Thu, 14 May 2026 04:51:38 GMT</pubDate>
+    <pubDate>Thu, 14 May 2026 09:36:17 GMT</pubDate>
     <item>
       <title>laravel/laravel</title>
       <link>https://github.com/laravel/laravel</link>
@@ -12,7 +12,7 @@
       <language>Blade</language>
       <languageColor>#f7523f</languageColor>
       <stars>84,258</stars>
-      <forks>24,716</forks>
+      <forks>24,718</forks>
       <addStars>404</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/krayin/laravel-crm</guid>
       <language>Blade</language>
       <languageColor>#f7523f</languageColor>
-      <stars>22,501</stars>
+      <stars>22,505</stars>
       <forks>1,462</forks>
       <addStars>419</addStars>
       <contributors>

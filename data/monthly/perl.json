@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 14 May 2026 15:18:13 GMT",
+  "pubDate": "Thu, 14 May 2026 20:38:32 GMT",
   "items": [
     {
       "title": "yaml/yaml-test-suite",
@@ -85,7 +85,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": "3,731",
-      "forks": "189",
+      "forks": "188",
       "addStars": "71",
       "contributors": [
         {
@@ -232,7 +232,7 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "4,681",
+      "stars": "4,684",
       "forks": "440",
       "addStars": "94",
       "contributors": [
@@ -291,7 +291,7 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "23,032",
+      "stars": "23,033",
       "forks": "1,112",
       "addStars": "176",
       "contributors": [

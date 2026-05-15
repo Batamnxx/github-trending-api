@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Monthly Trending",
   "description": "Monthly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 15 May 2026 15:12:37 GMT",
+  "pubDate": "Fri, 15 May 2026 20:17:48 GMT",
   "items": [
     {
       "title": "farion1231/cc-switch",
@@ -10,8 +10,8 @@
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "71,661",
-      "forks": "4,612",
+      "stars": "71,779",
+      "forks": "4,630",
       "addStars": "26,410",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "48,388",
-      "forks": "2,935",
+      "stars": "48,492",
+      "forks": "2,942",
       "addStars": "21,877",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "82,858",
-      "forks": "8,495",
+      "stars": "82,867",
+      "forks": "8,494",
       "addStars": "3,997",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "82,866",
-      "forks": "12,002",
+      "stars": "82,893",
+      "forks": "12,004",
       "addStars": "7,742",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "3D Reconstruction for all",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,525",
+      "stars": "4,526",
       "forks": "246",
       "addStars": "560",
       "contributors": [
@@ -180,8 +180,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "90,515",
-      "forks": "4,501",
+      "stars": "90,570",
+      "forks": "4,506",
       "addStars": "1,338",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "🧱 secure, local and programmable sandboxes for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,090",
+      "stars": "6,093",
       "forks": "297",
       "addStars": "751",
       "contributors": [
@@ -239,7 +239,7 @@
       "description": "Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,248",
+      "stars": "2,251",
       "forks": "193",
       "addStars": "667",
       "contributors": [
@@ -266,8 +266,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "114,261",
-      "forks": "17,168",
+      "stars": "114,276",
+      "forks": "17,173",
       "addStars": "3,251",
       "contributors": [
         {
@@ -303,8 +303,8 @@
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "58,563",
-      "forks": "4,526",
+      "stars": "58,577",
+      "forks": "4,515",
       "addStars": "32,386",
       "contributors": [
         {
@@ -340,8 +340,8 @@
       "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,481",
-      "forks": "1,509",
+      "stars": "37,486",
+      "forks": "1,508",
       "addStars": "4,346",
       "contributors": [
         {
@@ -367,7 +367,7 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,039",
+      "stars": "12,045",
       "forks": "1,213",
       "addStars": "935",
       "contributors": [
@@ -404,7 +404,7 @@
       "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,773",
+      "stars": "12,777",
       "forks": "743",
       "addStars": "475",
       "contributors": [
@@ -436,7 +436,7 @@
       "description": "An idiomatic, lean, fast & safe pure Rust implementation of Git",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,421",
+      "stars": "11,423",
       "forks": "470",
       "addStars": "280",
       "contributors": [
@@ -473,8 +473,8 @@
       "description": "🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,936",
-      "forks": "193",
+      "stars": "2,947",
+      "forks": "194",
       "addStars": "1,051",
       "contributors": [
         {
@@ -500,12 +500,49 @@
       ]
     },
     {
+      "title": "ilysenko/codex-desktop-linux",
+      "url": "https://github.com/ilysenko/codex-desktop-linux",
+      "description": "Run OpenAI Codex Desktop on Linux - automated installer",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "802",
+      "forks": "133",
+      "addStars": "550",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2592112?s=40&v=4",
+          "name": "ilysenko",
+          "url": "https://github.com/ilysenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32212558?s=40&v=4",
+          "name": "Leay15",
+          "url": "https://github.com/Leay15"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1246619?s=40&v=4",
+          "name": "colonelpanic8",
+          "url": "https://github.com/colonelpanic8"
+        }
+      ]
+    },
+    {
       "title": "xingkongliang/skills-manager",
       "url": "https://github.com/xingkongliang/skills-manager",
       "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,441",
+      "stars": "1,443",
       "forks": "122",
       "addStars": "791",
       "contributors": [
@@ -542,7 +579,7 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "28,229",
+      "stars": "28,233",
       "forks": "1,133",
       "addStars": "1,563",
       "contributors": [
@@ -569,7 +606,7 @@
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,707",
+      "stars": "2,708",
       "forks": "164",
       "addStars": "857",
       "contributors": [
@@ -606,8 +643,8 @@
       "description": "A Kiro Client in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,356",
-      "forks": "364",
+      "stars": "1,362",
+      "forks": "365",
       "addStars": "428",
       "contributors": [
         {

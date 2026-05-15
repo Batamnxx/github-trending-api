@@ -3,7 +3,7 @@
     <title>GitHub Systemverilog Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Systemverilog Languages in GitHub</description>
-    <pubDate>Fri, 15 May 2026 15:12:37 GMT</pubDate>
+    <pubDate>Fri, 15 May 2026 20:17:48 GMT</pubDate>
     <item>
       <title>verilator/verilator</title>
       <link>https://github.com/verilator/verilator</link>
@@ -12,7 +12,7 @@
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
       <stars>3,611</stars>
-      <forks>813</forks>
+      <forks>814</forks>
       <addStars>76</addStars>
       <contributors>
         <contributor>
@@ -316,7 +316,7 @@
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
       <stars>3,364</stars>
-      <forks>1,006</forks>
+      <forks>1,007</forks>
       <addStars>69</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Weekly Trending",
   "description": "Weekly Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 15 May 2026 15:12:37 GMT",
+  "pubDate": "Fri, 15 May 2026 20:17:48 GMT",
   "items": [
     {
       "title": "zhanwen/MathModel",
@@ -10,8 +10,8 @@
       "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "10,206",
-      "forks": "2,235",
+      "stars": "10,208",
+      "forks": "2,234",
       "addStars": "55",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "RISC-V Instruction Set Manual",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "4,619",
+      "stars": "4,620",
       "forks": "830",
       "addStars": "14",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "Software developer resume in Latex",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,638",
+      "stars": "6,640",
       "forks": "1,824",
       "addStars": "17",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "Release repo for our SLAM Handbook",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "4,488",
+      "stars": "4,490",
       "forks": "295",
       "addStars": "31",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "11,091",
+      "stars": "11,092",
       "forks": "2,836",
       "addStars": "30",
       "contributors": [
@@ -259,6 +259,43 @@
       ]
     },
     {
+      "title": "1195343015/nwputhesis",
+      "url": "https://github.com/1195343015/nwputhesis",
+      "description": "西北工业大学本科毕业设计/硕士博士学位论文 LaTeX 模板 （2026）",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "192",
+      "forks": "29",
+      "addStars": "21",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66017932?s=40&v=4",
+          "name": "1195343015",
+          "url": "https://github.com/1195343015"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7643570?s=40&v=4",
+          "name": "polossk",
+          "url": "https://github.com/polossk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11661760?s=40&v=4",
+          "name": "kidozh",
+          "url": "https://github.com/kidozh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6230765?s=40&v=4",
+          "name": "cfrpg",
+          "url": "https://github.com/cfrpg"
+        }
+      ]
+    },
+    {
       "title": "tuhdo/os01",
       "url": "https://github.com/tuhdo/os01",
       "description": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
@@ -301,8 +338,8 @@
       "description": "Latex code for making neural networks diagrams",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "24,742",
-      "forks": "3,059",
+      "stars": "24,743",
+      "forks": "3,060",
       "addStars": "35",
       "contributors": [
         {

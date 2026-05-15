@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 15 May 2026 04:55:18 GMT",
+  "pubDate": "Fri, 15 May 2026 09:49:36 GMT",
   "items": [
     {
       "title": "apache/couchdb",
@@ -375,7 +375,7 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": "12,130",
+      "stars": "12,128",
       "forks": "3,062",
       "addStars": "4",
       "contributors": [

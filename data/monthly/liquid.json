@@ -2,7 +2,7 @@
   "title": "GitHub Liquid Languages Monthly Trending",
   "description": "Monthly Trending of Liquid Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 14 May 2026 20:38:32 GMT",
+  "pubDate": "Fri, 15 May 2026 04:55:18 GMT",
   "items": [
     {
       "title": "Shopify/dawn",
@@ -10,7 +10,7 @@
       "description": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
       "language": "Liquid",
       "languageColor": "#67b8de",
-      "stars": "2,992",
+      "stars": "2,993",
       "forks": "4,285",
       "addStars": "29",
       "contributors": [
@@ -43,7 +43,7 @@
       "language": "Liquid",
       "languageColor": "#67b8de",
       "stars": "710",
-      "forks": "449",
+      "forks": "450",
       "addStars": "20",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Shopify's Horizon theme source code",
       "language": "Liquid",
       "languageColor": "#67b8de",
-      "stars": "385",
-      "forks": "274",
+      "stars": "386",
+      "forks": "275",
       "addStars": "18",
       "contributors": [
         {

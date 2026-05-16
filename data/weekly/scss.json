@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Weekly Trending",
   "description": "Weekly Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 16 May 2026 04:32:49 GMT",
+  "pubDate": "Sat, 16 May 2026 08:50:27 GMT",
   "items": [
     {
       "title": "just-the-docs/just-the-docs",
@@ -79,8 +79,8 @@
       "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "16,987",
-      "forks": "6,900",
+      "stars": "16,988",
+      "forks": "6,905",
       "addStars": "41",
       "contributors": [
         {
@@ -424,7 +424,7 @@
       "description": "🎮 Soothing pastel theme for Discord",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "1,325",
+      "stars": "1,326",
       "forks": "182",
       "addStars": "9",
       "contributors": [
@@ -456,7 +456,7 @@
       "description": "Material Design Web Components",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "10,950",
+      "stars": "10,949",
       "forks": "1,098",
       "addStars": "22",
       "contributors": [
@@ -637,7 +637,7 @@
       "language": "SCSS",
       "languageColor": "#c6538c",
       "stars": "3,809",
-      "forks": "3,817",
+      "forks": "3,816",
       "addStars": "4",
       "contributors": [
         {

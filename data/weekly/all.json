@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 18 May 2026 11:08:54 GMT",
+  "pubDate": "Mon, 18 May 2026 16:23:02 GMT",
   "items": [
     {
       "title": "CloakHQ/CloakBrowser",
@@ -10,8 +10,8 @@
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,459",
-      "forks": "1,127",
+      "stars": "14,823",
+      "forks": "1,162",
       "addStars": "9,007",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,922",
-      "forks": "1,009",
+      "stars": "12,209",
+      "forks": "1,037",
       "addStars": "7,103",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "91,880",
-      "forks": "4,587",
+      "stars": "91,905",
+      "forks": "4,592",
       "addStars": "2,098",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,156",
-      "forks": "1,095",
+      "stars": "11,018",
+      "forks": "1,154",
       "addStars": "3,624",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,009",
-      "forks": "2,480",
+      "stars": "15,122",
+      "forks": "2,488",
       "addStars": "4,687",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,929",
-      "forks": "3,446",
+      "stars": "25,183",
+      "forks": "3,483",
       "addStars": "5,977",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "90,608",
-      "forks": "7,944",
+      "stars": "91,313",
+      "forks": "8,003",
       "addStars": "19,679",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "59,489",
-      "forks": "7,759",
+      "stars": "59,667",
+      "forks": "7,788",
       "addStars": "6,733",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "Your agent writes bad React. This catches it",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,061",
-      "forks": "319",
+      "stars": "10,113",
+      "forks": "322",
       "addStars": "2,430",
       "contributors": [
         {
@@ -308,8 +308,8 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,874",
-      "forks": "282",
+      "stars": "4,409",
+      "forks": "306",
       "addStars": "1,935",
       "contributors": [
         {
@@ -345,8 +345,8 @@
       "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "21,170",
-      "forks": "2,178",
+      "stars": "21,201",
+      "forks": "2,179",
       "addStars": "1,124",
       "contributors": [
         {
@@ -377,8 +377,8 @@
       "description": "A fast type checker and language server for Python",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,158",
-      "forks": "365",
+      "stars": "6,181",
+      "forks": "367",
       "addStars": "394",
       "contributors": [
         {
@@ -414,8 +414,8 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "34,552",
-      "forks": "3,464",
+      "stars": "34,581",
+      "forks": "3,465",
       "addStars": "2,563",
       "contributors": [
         {

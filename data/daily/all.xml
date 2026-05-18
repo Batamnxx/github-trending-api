@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Mon, 18 May 2026 16:23:02 GMT</pubDate>
+    <pubDate>Mon, 18 May 2026 20:27:07 GMT</pubDate>
     <item>
       <title>tinyhumansai/openhuman</title>
       <link>https://github.com/tinyhumansai/openhuman</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/tinyhumansai/openhuman</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>16,305</stars>
-      <forks>1,407</forks>
+      <stars>16,773</stars>
+      <forks>1,454</forks>
       <addStars>3,945</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/Imbad0202/academic-research-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,018</stars>
-      <forks>1,154</forks>
+      <stars>11,428</stars>
+      <forks>1,176</forks>
       <addStars>1,302</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,425</stars>
-      <forks>3,534</forks>
+      <stars>36,529</stars>
+      <forks>3,542</forks>
       <addStars>1,047</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>24,250</stars>
-      <forks>2,566</forks>
+      <stars>24,326</stars>
+      <forks>2,570</forks>
       <addStars>610</addStars>
       <contributors>
         <contributor>
@@ -158,9 +158,9 @@
       <guid>https://github.com/supertone-inc/supertonic</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>8,145</stars>
-      <forks>837</forks>
-      <addStars>827</addStars>
+      <stars>8,256</stars>
+      <forks>842</forks>
+      <addStars>755</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/40254383?s=40&amp;v=4</avatar>
@@ -196,8 +196,8 @@
       <guid>https://github.com/ggml-org/llama.cpp</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>110,858</stars>
-      <forks>18,353</forks>
+      <stars>110,951</stars>
+      <forks>18,364</forks>
       <addStars>283</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>59,667</stars>
-      <forks>7,788</forks>
+      <stars>59,804</stars>
+      <forks>7,803</forks>
       <addStars>704</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/CloakHQ/CloakBrowser</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,823</stars>
-      <forks>1,162</forks>
+      <stars>15,034</stars>
+      <forks>1,176</forks>
       <addStars>1,391</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/tech-leads-club/agent-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,894</stars>
-      <forks>342</forks>
+      <stars>3,976</stars>
+      <forks>345</forks>
       <addStars>1,244</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/BigBodyCobain/Shadowbroker</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,574</stars>
-      <forks>1,177</forks>
+      <stars>7,652</stars>
+      <forks>1,183</forks>
       <addStars>768</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/humanlayer/12-factor-agents</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,362</stars>
-      <forks>1,543</forks>
+      <stars>20,467</stars>
+      <forks>1,549</forks>
       <addStars>359</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/NVlabs/Sana</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,379</stars>
-      <forks>453</forks>
+      <stars>6,452</stars>
+      <forks>458</forks>
       <addStars>376</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/microsoft/ai-agents-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>63,248</stars>
-      <forks>21,152</forks>
+      <stars>63,353</stars>
+      <forks>21,161</forks>
       <addStars>1,013</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,909</stars>
-      <forks>36,129</forks>
+      <stars>37,008</stars>
+      <forks>36,146</forks>
       <addStars>290</addStars>
       <contributors>
         <contributor>
@@ -518,8 +518,8 @@
       <guid>https://github.com/plausible/analytics</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>25,804</stars>
-      <forks>1,488</forks>
+      <stars>25,897</stars>
+      <forks>1,489</forks>
       <addStars>637</addStars>
       <contributors>
         <contributor>

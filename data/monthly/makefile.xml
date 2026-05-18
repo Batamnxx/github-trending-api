@@ -3,7 +3,7 @@
     <title>GitHub Makefile Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Makefile Languages in GitHub</description>
-    <pubDate>Mon, 18 May 2026 16:23:02 GMT</pubDate>
+    <pubDate>Mon, 18 May 2026 20:27:07 GMT</pubDate>
     <item>
       <title>ROCKNIX/distribution</title>
       <link>https://github.com/ROCKNIX/distribution</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/deepseek-ai/DeepSeek-LLM</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>6,915</stars>
+      <stars>6,916</stars>
       <forks>1,082</forks>
       <addStars>108</addStars>
       <contributors>
@@ -87,7 +87,7 @@
       <guid>https://github.com/golang-standards/project-layout</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>55,981</stars>
+      <stars>55,983</stars>
       <forks>5,449</forks>
       <addStars>256</addStars>
       <contributors>
@@ -163,7 +163,7 @@
       <guid>https://github.com/dbt-labs/dbt-utils</guid>
       <language>Makefile</language>
       <languageColor>#427819</languageColor>
-      <stars>1,748</stars>
+      <stars>1,749</stars>
       <forks>620</forks>
       <addStars>14</addStars>
       <contributors>
